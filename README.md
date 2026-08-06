@@ -12,12 +12,18 @@ run instructions.
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
 
+## Continuous integration
+
+Every push to `main` and every pull request runs the `python-playground` test
+suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci.yml).
+
 ## Layout
 
 ```
 .
 ├── README.md
 ├── .gitignore
+├── .github/workflows/ci.yml
 └── projects/
     ├── python-playground/
     ├── web-starter/
