@@ -12,6 +12,15 @@ run instructions.
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
 
+## Work folders
+
+[ca-work/](ca-work) holds the folder structure for chartered accountancy
+articleship work — audit, income tax, GST, ROC compliance, templates,
+checklists, and a statutory due-date calendar.
+
+Client data is never committed. `ca-work/clients/` is excluded by `.gitignore`;
+see [ca-work/README.md](ca-work/README.md) before putting anything there.
+
 ## Continuous integration
 
 Every push to `main` and every pull request runs the `python-playground` test
