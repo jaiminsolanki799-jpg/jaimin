@@ -1,0 +1,111 @@
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --accent: #2563eb;
+  --surface: #f9fafb;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111317;
+    --fg: #f3f4f6;
+    --muted: #9ca3af;
+    --border: #2a2f37;
+    --accent: #60a5fa;
+    --surface: #181b21;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 2rem 1.25rem;
+  max-width: 42rem;
+  margin-inline: auto;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height: 1.6;
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.site-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.75rem;
+}
+
+.tagline {
+  margin: 0;
+  color: var(--muted);
+}
+
+.card {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  background: var(--surface);
+}
+
+.card h2 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+
+.counter-value {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin: 0.5rem 0 1rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.button-row {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+button {
+  font: inherit;
+  padding: 0.5rem 1.1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+button.secondary {
+  background: transparent;
+  color: var(--fg);
+  border: 1px solid var(--border);
+}
+
+.site-footer {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+code {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.25rem;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.875em;
+}
