@@ -23,3 +23,7 @@ Thumbs.db
 # Build output
 dist/
 build/
+
+# CA work — client data is never committed. See ca-work/clients/README.md.
+ca-work/clients/**
+!ca-work/clients/README.md
