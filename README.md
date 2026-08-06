@@ -22,6 +22,7 @@ suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci
 ```
 .
 ├── README.md
+├── CLAUDE.md
 ├── .gitignore
 ├── .github/workflows/ci.yml
 └── projects/
