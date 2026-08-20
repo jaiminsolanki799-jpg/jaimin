@@ -4,6 +4,8 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 from openpyxl.comments import Comment
+from openpyxl.chart import BarChart, Reference
+from openpyxl.chart.label import DataLabelList
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = PROJECT_ROOT / 'data' / 'textile_peer_data.json'
@@ -62,7 +64,7 @@ cover.row_dimensions[9].height = 90
 cover['B11'] = 'Sheets in this workbook'
 cover['B11'].font = LABEL_FONT
 sheet_notes = [
-    '1. Peer Comparison – valuation, profitability, growth and leverage across all 8 companies',
+    '1. Peer Comparison – valuation, profitability, growth and leverage across all 8 companies, with comparison charts',
     '2. Industry Overview – market size, export data, demand drivers, risks and government policy',
     '3. Company Notes – business summary, recent developments, key risks and sources per company',
 ]
@@ -177,6 +179,48 @@ for j, (label, fn) in enumerate(stat_rows):
             cell.number_format = ws.cell(row=first_data_row, column=col).number_format
 
 ws.freeze_panes = ws.cell(row=first_data_row, column=2).coordinate
+
+# ---------------------------------------------------------- Charts
+CHART_TITLE_FONT = Font(name=FONT_NAME, size=10, bold=True, color='595959')
+chart_caption_row = last_data_row + 4
+ws.cell(row=chart_caption_row, column=1, value='Peer Comparison Charts').font = SECTION_FONT
+
+
+def add_bar_chart(title, y_title, y_fmt, cols, anchor):
+    chart = BarChart()
+    chart.type = 'col'
+    chart.grouping = 'clustered'
+    chart.title = title
+    chart.y_axis.title = y_title
+    chart.y_axis.numFmt = y_fmt
+    chart.x_axis.title = None
+    chart.height = 9
+    chart.width = 22
+    chart.style = 10
+    cats = Reference(ws, min_col=1, min_row=first_data_row, max_row=last_data_row)
+    for col in cols:
+        data = Reference(ws, min_col=col, min_row=HEADER_ROW, max_row=last_data_row)
+        chart.add_data(data, titles_from_data=True)
+    chart.set_categories(cats)
+    chart.dataLabels = DataLabelList()
+    chart.dataLabels.showVal = True
+    chart.dataLabels.showCatName = False
+    chart.dataLabels.showSerName = False
+    chart.dataLabels.showLegendKey = False
+    chart.dataLabels.showPercent = False
+    chart.dataLabels.showBubbleSize = False
+    chart.dataLabels.numFmt = y_fmt
+    chart.legend.position = 'b'
+    chart.legend.overlay = False
+    ws.add_chart(chart, anchor)
+
+
+chart_row = chart_caption_row + 2
+add_bar_chart('Valuation – P/E by Company', 'P/E (x)', '0.0"x"', [7], f'A{chart_row}')
+add_bar_chart('Profitability – OPM vs NPM', 'Margin (%)', '0%', [13, 14], f'L{chart_row}')
+chart_row += 19
+add_bar_chart('Returns – ROE vs ROCE', 'Return (%)', '0%', [15, 16], f'A{chart_row}')
+add_bar_chart('Growth – Revenue vs Net Profit (₹ Cr)', 'Amount (₹ Cr)', '₹#,##0', [11, 12], f'L{chart_row}')
 
 # ---------------------------------------------------------- Industry Overview
 ind = wb.create_sheet('Industry Overview')

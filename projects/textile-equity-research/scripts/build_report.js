@@ -220,6 +220,71 @@ function listSection(title, items) {
   return els;
 }
 
+// ---------------------------------------------------------------- Investment considerations
+function extreme(field, mode) {
+  const valid = companies.filter((c) => c[field] != null);
+  if (!valid.length) return null;
+  return valid.reduce((best, c) => {
+    if (!best) return c;
+    if (mode === "max") return c[field] > best[field] ? c : best;
+    return c[field] < best[field] ? c : best;
+  }, null);
+}
+
+function investmentConsiderations() {
+  const cheapest = extreme("peRatio", "min");
+  const priciest = extreme("peRatio", "max");
+  const bestROE = extreme("roePercent", "max");
+  const bestROCE = extreme("rocePercent", "max");
+  const bestSalesGrowth = extreme("salesGrowth3yPercent", "max");
+  const bestProfitGrowth = extreme("profitGrowth3yPercent", "max");
+  const mostLevered = extreme("debtToEquity", "max");
+  const leastLevered = extreme("debtToEquity", "min");
+  const bestDivYield = extreme("dividendYieldPercent", "max");
+
+  const els = [];
+  els.push(h1("Investment Considerations"));
+  els.push(body("The observations below are purely comparative — how the eight companies in this peer set stack up against each other on the metrics gathered. They are descriptive positioning within the sample, not a ranking, rating, or recommendation; see the Disclaimer & Methodology section before drawing any conclusion from them."));
+
+  els.push(h2("Valuation Spread"));
+  if (cheapest && priciest) {
+    els.push(body(`Trailing P/E across the peer set spans roughly ${fmtNum(cheapest.peRatio, 1)}x (${cheapest.companyName}) to ${fmtNum(priciest.peRatio, 1)}x (${priciest.companyName}) — a wide range that reflects the mix in this sample: commodity-linked spinners and integrated manufacturers tend to sit at the lower end, while branded consumer names and businesses coming off a low or transitional profit base tend to sit at the higher end. A low P/E on its own does not mean "cheap" — it can also reflect lower growth, thinner margins, or higher perceived risk; the same caveat applies in reverse for a high P/E.`));
+  }
+
+  els.push(h2("Profitability & Returns"));
+  if (bestROE && bestROCE) {
+    const sameCompany = bestROE.companyName === bestROCE.companyName;
+    const returnsSentence = sameCompany
+      ? `${bestROE.companyName} posts the highest return on both equity (${fmtPct(bestROE.roePercent)}) and capital employed (${fmtPct(bestROCE.rocePercent)}) in the set.`
+      : `${bestROE.companyName} posts the highest return on equity in the set at ${fmtPct(bestROE.roePercent)}, and ${bestROCE.companyName} the highest return on capital employed at ${fmtPct(bestROCE.rocePercent)} — a reminder that ROE and ROCE can favor different companies depending on leverage and how capital-intensive the business is.`;
+    els.push(body(`${returnsSentence} Businesses with an asset-light, brand-licensing or export-manufacturing model generally screen higher on both measures than integrated spinning/weaving operations, which carry heavier fixed-asset bases.`));
+  }
+
+  els.push(h2("Growth"));
+  if (bestSalesGrowth && bestProfitGrowth) {
+    const sameGrower = bestSalesGrowth.companyName === bestProfitGrowth.companyName;
+    const growthSentence = sameGrower
+      ? `On trailing 3-year CAGR, ${bestSalesGrowth.companyName} shows both the strongest revenue growth (${fmtPct(bestSalesGrowth.salesGrowth3yPercent)}) and the strongest profit growth (${fmtPct(bestProfitGrowth.profitGrowth3yPercent)}) in the sample.`
+      : `On trailing 3-year CAGR, ${bestSalesGrowth.companyName} shows the strongest revenue growth (${fmtPct(bestSalesGrowth.salesGrowth3yPercent)}) and ${bestProfitGrowth.companyName} the strongest profit growth (${fmtPct(bestProfitGrowth.profitGrowth3yPercent)}) in the sample.`;
+    els.push(body(`${growthSentence} Growth figures for a couple of companies in this set are flagged "n/a" where a reliable 3-year figure could not be sourced — see their Company Notes entry rather than reading the absence as zero growth.`));
+  }
+
+  els.push(h2("Leverage & Balance Sheet"));
+  if (mostLevered && leastLevered) {
+    els.push(body(`Debt-to-equity ranges from ${fmtNum(leastLevered.debtToEquity, 2)}x (${leastLevered.companyName}) to ${fmtNum(mostLevered.debtToEquity, 2)}x (${mostLevered.companyName}). None of the eight carry what would typically be considered heavy leverage, but the names with acquisition-funded expansion or capex-heavy capacity build-outs (see each company's Recent Developments) carry meaningfully more balance-sheet risk than the more conservatively financed names in the set.`));
+  }
+  if (bestDivYield) {
+    els.push(body(`${bestDivYield.companyName} carries the highest trailing dividend yield in the set at ${fmtPct(bestDivYield.dividendYieldPercent)}; yields across the rest of the peer group are modest, consistent with a sector where most listed players are still prioritizing capacity expansion and working-capital needs over payout.`));
+  }
+
+  els.push(h2("How to use this section"));
+  els.push(bullet("Cross-reference any single metric against the company's own Business and Recent Developments notes — a metric in isolation (e.g. a low P/E, or a high ROE) can be misleading without that context."));
+  els.push(bullet("Treat 3-year CAGR and margin figures as backward-looking; the Industry Overview section covers forward-looking demand, tariff and policy drivers that could change the picture for export-facing names in particular."));
+  els.push(bullet("Verify any figure you intend to rely on against the company's own filings or a live market data source before using it — see the Disclaimer & Methodology section for why."));
+
+  return els;
+}
+
 // ---------------------------------------------------------------- Cover page
 const coverChildren = [
   new Paragraph({ spacing: { before: 2400 }, children: [] }),
@@ -304,16 +369,17 @@ const doc = new Document({
         tocEntry("Executive Summary", 3),
         tocEntry("Industry Overview", 3),
         tocEntry("Peer Comparison", 8),
-        tocEntry("Company Snapshots", 9),
-        tocEntry("Vardhman Textiles Ltd", 9, { indent: true }),
-        tocEntry("Trident Limited", 11, { indent: true }),
-        tocEntry("Welspun Living Ltd", 13, { indent: true }),
-        tocEntry("Raymond Lifestyle Ltd", 15, { indent: true }),
-        tocEntry("Arvind Limited", 17, { indent: true }),
-        tocEntry("K.P.R. Mill Limited", 19, { indent: true }),
-        tocEntry("Page Industries Limited", 21, { indent: true }),
-        tocEntry("Gokaldas Exports Ltd", 23, { indent: true }),
-        tocEntry("Disclaimer & Methodology", 25),
+        tocEntry("Investment Considerations", 9),
+        tocEntry("Company Snapshots", 11),
+        tocEntry("Vardhman Textiles Ltd", 11, { indent: true }),
+        tocEntry("Trident Limited", 13, { indent: true }),
+        tocEntry("Welspun Living Ltd", 15, { indent: true }),
+        tocEntry("Raymond Lifestyle Ltd", 17, { indent: true }),
+        tocEntry("Arvind Limited", 19, { indent: true }),
+        tocEntry("K.P.R. Mill Limited", 21, { indent: true }),
+        tocEntry("Page Industries Limited", 23, { indent: true }),
+        tocEntry("Gokaldas Exports Ltd", 25, { indent: true }),
+        tocEntry("Disclaimer & Methodology", 27),
         new Paragraph({ children: [new PageBreak()] }),
 
         h1("Executive Summary"),
@@ -364,7 +430,7 @@ const doc = new Document({
         peerTable,
       ],
     },
-    // Section 4: Company snapshots (portrait)
+    // Section 4: Investment Considerations + Company snapshots (portrait)
     {
       properties: {
         page: { size: { width: A4_WIDTH, height: A4_HEIGHT }, margin: { top: MARGIN, bottom: MARGIN, left: MARGIN, right: MARGIN } },
@@ -382,6 +448,8 @@ const doc = new Document({
         })] }),
       },
       children: [
+        ...investmentConsiderations(),
+        new Paragraph({ children: [new PageBreak()] }),
         h1("Company Snapshots"),
         ...companies.flatMap((c, i) => [
           ...companySection(c),

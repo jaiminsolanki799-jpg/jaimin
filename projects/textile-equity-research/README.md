@@ -56,12 +56,16 @@ textile-equity-research/
 2. The raw findings were saved to `data/textile_peer_data.json`.
 3. `Textile_Peer_Comparison.xlsx` turns that data into a peer comparison
    workbook (valuation, profitability, growth, leverage), with a computed
-   P/S column and average/median rows driven by real formulas, plus an
-   Industry Overview sheet and a Company Notes sheet with sources.
+   P/S column and average/median rows driven by real formulas, comparison
+   charts (P/E, margins, returns, revenue/profit), an Industry Overview
+   sheet, and a Company Notes sheet with sources.
 4. `reports/Textile_Industry_Equity_Research_Report.docx` (and the matching
    `.pdf`) is the narrative report: executive summary, industry overview,
-   a landscape peer comparison table, one snapshot per company, and a
-   disclaimer & methodology section covering data sources and limitations.
+   a landscape peer comparison table, an Investment Considerations section
+   that auto-synthesizes the peer data (valuation spread, profitability,
+   growth, leverage — comparative only, not a recommendation), one snapshot
+   per company, and a disclaimer & methodology section covering data
+   sources and limitations.
 
 ## Updating the data
 
