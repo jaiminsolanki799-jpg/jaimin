@@ -130,6 +130,83 @@ function statCell(text, { header = false, width, shaded = false, align = Alignme
   });
 }
 
+// ---------------------------------------------------------------- Masthead / research-note chrome
+const DISCLOSURE_LINE = "Practice report prepared for CA articleship purposes — not investment research under SEBI (Research Analysts) Regulations, 2014. Not a recommendation to buy, sell, or hold any security.";
+
+function pageHeader() {
+  return new Header({
+    children: [new Paragraph({
+      alignment: AlignmentType.RIGHT,
+      border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF", space: 4 } },
+      children: [new TextRun({ text: "INDIA  |  TEXTILES, APPAREL & HOME TEXTILES  —  EQUITY RESEARCH", font: BODY_FONT, size: 14, bold: true, color: GREY })],
+    })],
+  });
+}
+
+function pageFooter() {
+  return new Footer({
+    children: [
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 20 },
+        children: [new TextRun({ text: DISCLOSURE_LINE, font: BODY_FONT, size: 11, italics: true, color: "8C8C8C" })],
+      }),
+      new Paragraph({
+        alignment: AlignmentType.CENTER,
+        children: [new TextRun({ text: "Page ", font: BODY_FONT, size: 15, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], font: BODY_FONT, size: 15, color: GREY })],
+      }),
+    ],
+  });
+}
+
+function bannerLine(text) {
+  return new Paragraph({
+    shading: { type: ShadingType.CLEAR, fill: NAVY },
+    spacing: { before: 0, after: 0 },
+    children: [new TextRun({ text: `  ${text}`, font: BODY_FONT, size: 17, bold: true, color: "FFFFFF" })],
+  });
+}
+
+function statTile(value, label, width) {
+  return new TableCell({
+    width: { size: width, type: WidthType.DXA },
+    shading: { type: ShadingType.CLEAR, fill: LIGHT_FILL },
+    margins: { top: 140, bottom: 140, left: 100, right: 100 },
+    borders: {
+      top: { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF" },
+      bottom: { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF" },
+      left: { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF" },
+      right: { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF" },
+    },
+    children: [
+      new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 40 }, children: [new TextRun({ text: value, font: HEADING_FONT, size: value.length > 9 ? 19 : 26, bold: true, color: NAVY })] }),
+      new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: label, font: BODY_FONT, size: 14, color: GREY })] }),
+    ],
+  });
+}
+
+function sectorSnapshotStrip() {
+  const validPE = companies.map((c) => c.peRatio).filter((v) => v != null);
+  const validROE = companies.map((c) => c.roePercent).filter((v) => v != null);
+  const validOPM = companies.map((c) => c.opmPercent).filter((v) => v != null);
+  const totalMcap = companies.reduce((sum, c) => sum + (c.marketCapCr || 0), 0);
+  const avg = (arr) => arr.reduce((a, b) => a + b, 0) / arr.length;
+
+  const tiles = [
+    [String(companies.length), "Companies Covered"],
+    [fmtCr(totalMcap), "Combined Market Cap"],
+    [fmtNum(avg(validPE), 1) + "x", "Average P/E"],
+    [fmtPct(avg(validROE)), "Average ROE"],
+    [fmtPct(avg(validOPM)), "Average OPM"],
+  ];
+  const w = 1920;
+  return new Table({
+    width: { size: w * tiles.length, type: WidthType.DXA },
+    columnWidths: tiles.map(() => w),
+    rows: [new TableRow({ children: tiles.map(([v, l]) => statTile(v, l, w)) })],
+  });
+}
+
 // ---------------------------------------------------------------- Peer table (landscape)
 const peerCols = [
   { key: "companyName", label: "Company", width: 1500, align: AlignmentType.LEFT, fmt: (v) => v },
@@ -161,52 +238,104 @@ const peerTable = new Table({
   rows: [peerHeaderRow, ...peerRows],
 });
 
-// ---------------------------------------------------------------- Company snapshot table
-function companyStatTable(c) {
+// ---------------------------------------------------------------- Company snapshot: sidebar stat box
+const SIDEBAR_WIDTH = 3100;
+const MAIN_WIDTH = 6300;
+
+function sidebarRow(label, value) {
+  const labelW = 1350;
+  const valueW = SIDEBAR_WIDTH - 260 - labelW;
+  return new TableRow({
+    children: [
+      new TableCell({
+        width: { size: labelW, type: WidthType.DXA },
+        margins: { top: 55, bottom: 55, left: 0, right: 40 },
+        borders: { bottom: { style: BorderStyle.SINGLE, size: 2, color: "D9D9D9" } },
+        children: [new Paragraph({ children: [new TextRun({ text: label, font: BODY_FONT, size: 15, color: GREY })] })],
+      }),
+      new TableCell({
+        width: { size: valueW, type: WidthType.DXA },
+        margins: { top: 55, bottom: 55, left: 0, right: 0 },
+        borders: { bottom: { style: BorderStyle.SINGLE, size: 2, color: "D9D9D9" } },
+        children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [new TextRun({ text: value, font: BODY_FONT, size: 17, bold: true })] })],
+      }),
+    ],
+  });
+}
+
+function sidebarStatBox(c) {
   const rows = [
-    ["CMP", fmtRs(c.cmp), "Market Cap", fmtCr(c.marketCapCr)],
-    ["P/E", c.peRatio == null ? "n/a" : fmtNum(c.peRatio, 1) + "x", "52W Range", `${fmtRs(c.week52Low)} - ${fmtRs(c.week52High)}`],
-    ["Revenue", fmtCr(c.revenueCr), "Net Profit", fmtCr(c.netProfitCr)],
-    ["OPM / NPM", `${fmtPct(c.opmPercent)} / ${fmtPct(c.npmPercent)}`, "ROE / ROCE", `${fmtPct(c.roePercent)} / ${fmtPct(c.rocePercent)}`],
-    ["D/E", c.debtToEquity == null ? "n/a" : fmtNum(c.debtToEquity, 2) + "x", "Promoter Holding", fmtPct(c.promoterHoldingPercent)],
-    ["Sales CAGR (3Y)", fmtPct(c.salesGrowth3yPercent), "Profit CAGR (3Y)", fmtPct(c.profitGrowth3yPercent)],
+    ["Exchange", `NSE: ${c.nseTicker}`],
+    ["CMP", fmtRs(c.cmp)],
+    ["52W Range", `${fmtRs(c.week52Low)} – ${fmtRs(c.week52High)}`],
+    ["Market Cap", fmtCr(c.marketCapCr)],
+    ["P/E", c.peRatio == null ? "n/a" : fmtNum(c.peRatio, 1) + "x"],
+    ["Revenue", fmtCr(c.revenueCr)],
+    ["Net Profit", fmtCr(c.netProfitCr)],
+    ["OPM", fmtPct(c.opmPercent)],
+    ["NPM", fmtPct(c.npmPercent)],
+    ["ROE", fmtPct(c.roePercent)],
+    ["ROCE", fmtPct(c.rocePercent)],
+    ["D/E", c.debtToEquity == null ? "n/a" : fmtNum(c.debtToEquity, 2) + "x"],
+    ["Sales CAGR (3Y)", fmtPct(c.salesGrowth3yPercent)],
+    ["Profit CAGR (3Y)", fmtPct(c.profitGrowth3yPercent)],
+    ["Div Yield", fmtPct(c.dividendYieldPercent)],
+    ["Promoter Holding", fmtPct(c.promoterHoldingPercent)],
   ];
-  const colW = [2000, 2650, 2000, 2650];
-  return new Table({
-    width: { size: colW.reduce((a, b) => a + b, 0), type: WidthType.DXA },
-    columnWidths: colW,
-    rows: rows.map((r, i) => new TableRow({
-      children: r.map((text, ci) => new TableCell({
-        width: { size: colW[ci], type: WidthType.DXA },
-        shading: { type: ShadingType.CLEAR, fill: (ci % 2 === 0) ? LIGHT_FILL : "FFFFFF" },
-        verticalAlign: VerticalAlign.CENTER,
-        margins: { top: 70, bottom: 70, left: 100, right: 100 },
-        children: [new Paragraph({
-          children: [new TextRun({ text, font: BODY_FONT, size: 19, bold: ci % 2 === 0 })],
-        })],
-      })),
-    })),
+  const innerTable = new Table({
+    width: { size: SIDEBAR_WIDTH - 260, type: WidthType.DXA },
+    columnWidths: [1350, SIDEBAR_WIDTH - 260 - 1350],
+    rows: rows.map(([l, v]) => sidebarRow(l, v)),
+  });
+  return new TableCell({
+    width: { size: SIDEBAR_WIDTH, type: WidthType.DXA },
+    margins: { top: 0, bottom: 0, left: 260, right: 0 },
+    borders: { left: { style: BorderStyle.SINGLE, size: 12, color: NAVY } },
+    children: [
+      new Paragraph({
+        shading: { type: ShadingType.CLEAR, fill: NAVY },
+        spacing: { after: 100 },
+        children: [new TextRun({ text: "  KEY STATISTICS", font: BODY_FONT, size: 16, bold: true, color: "FFFFFF" })],
+      }),
+      innerTable,
+      new Paragraph({
+        spacing: { before: 100 },
+        children: [new TextRun({ text: c.fiscalYear || "latest FY", font: BODY_FONT, size: 13, italics: true, color: GREY })],
+      }),
+    ],
+  });
+}
+
+function companyMainCell(c) {
+  return new TableCell({
+    width: { size: MAIN_WIDTH, type: WidthType.DXA },
+    margins: { top: 0, bottom: 0, left: 0, right: 200 },
+    children: [
+      h2(c.companyName),
+      new Paragraph({
+        spacing: { after: 160 },
+        children: [new TextRun({ text: c.segment, font: BODY_FONT, italics: true, color: GREY, size: 18 })],
+      }),
+      h3("Business"),
+      body(c.businessSummary),
+      h3("Recent Developments"),
+      body(c.recentDevelopments),
+      h3("Key Risks"),
+      body(c.keyRisks),
+    ],
   });
 }
 
 function companySection(c) {
   const els = [];
-  els.push(h2(c.companyName));
-  els.push(new Paragraph({
-    spacing: { after: 160 },
-    children: [new TextRun({ text: `${c.nseTicker}  •  ${c.segment}  •  ${c.fiscalYear || "latest FY"}`, font: BODY_FONT, italics: true, color: GREY, size: 19 })],
+  els.push(new Table({
+    width: { size: MAIN_WIDTH + SIDEBAR_WIDTH, type: WidthType.DXA },
+    columnWidths: [MAIN_WIDTH, SIDEBAR_WIDTH],
+    rows: [new TableRow({ cantSplit: false, children: [companyMainCell(c), sidebarStatBox(c)] })],
   }));
-  els.push(companyStatTable(c));
-  els.push(new Paragraph({ spacing: { before: 200 }, children: [] }));
-  els.push(h3("Business"));
-  els.push(body(c.businessSummary));
-  els.push(h3("Recent Developments"));
-  els.push(body(c.recentDevelopments));
-  els.push(h3("Key Risks"));
-  els.push(body(c.keyRisks));
   if (c.confidenceNotes) {
     els.push(new Paragraph({
-      spacing: { before: 80, after: 200 },
+      spacing: { before: 120, after: 200 },
       children: [new TextRun({ text: "Data notes: " + c.confidenceNotes, font: BODY_FONT, italics: true, color: GREY, size: 16 })],
     }));
   }
@@ -286,39 +415,57 @@ function investmentConsiderations() {
 }
 
 // ---------------------------------------------------------------- Cover page
+const coverUniverseCols = [
+  { key: "companyName", label: "Company", width: 2600, align: AlignmentType.LEFT, fmt: (v) => v },
+  { key: "nseTicker", label: "Ticker", width: 1300, align: AlignmentType.LEFT, fmt: (v) => v },
+  { key: "cmp", label: "CMP (₹)", width: 1300, align: AlignmentType.RIGHT, fmt: fmtRs },
+  { key: "peRatio", label: "P/E (x)", width: 1150, align: AlignmentType.RIGHT, fmt: (v) => (v == null ? "n/a" : fmtNum(v, 1) + "x") },
+  { key: "marketCapCr", label: "Mkt Cap (₹Cr)", width: 1600, align: AlignmentType.RIGHT, fmt: fmtInt },
+];
+const coverUniverseTable = new Table({
+  width: { size: coverUniverseCols.reduce((a, c) => a + c.width, 0), type: WidthType.DXA },
+  columnWidths: coverUniverseCols.map((c) => c.width),
+  rows: [
+    new TableRow({ tableHeader: true, children: coverUniverseCols.map((c) => statCell(c.label, { header: true, width: c.width, align: c.align })) }),
+    ...companies.map((comp, i) => new TableRow({
+      children: coverUniverseCols.map((c) => statCell(c.fmt(comp[c.key]), { width: c.width, shaded: i % 2 === 1, align: c.align })),
+    })),
+  ],
+});
+
 const coverChildren = [
-  new Paragraph({ spacing: { before: 2400 }, children: [] }),
+  bannerLine("EQUITY RESEARCH  |  INDIA  |  TEXTILES, APPAREL & HOME TEXTILES"),
   new Paragraph({
-    alignment: AlignmentType.CENTER,
-    children: [new TextRun({ text: "EQUITY RESEARCH REPORT", font: HEADING_FONT, size: 22, color: GREY, bold: true })],
+    spacing: { before: 500, after: 60 },
+    children: [new TextRun({ text: "SECTOR NOTE — INITIATION", font: BODY_FONT, size: 18, bold: true, color: GREY })],
   }),
   new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { before: 200, after: 200 },
-    children: [new TextRun({ text: "Indian Textile Industry", font: HEADING_FONT, size: 56, bold: true, color: NAVY })],
+    spacing: { after: 100 },
+    children: [new TextRun({ text: "Indian Textile Industry", font: HEADING_FONT, size: 52, bold: true, color: NAVY })],
   }),
   new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 1200 },
-    children: [new TextRun({ text: "Industry Overview • Peer Comparison • Company Snapshots", font: BODY_FONT, size: 24, color: MID_BLUE })],
+    spacing: { after: 400 },
+    children: [new TextRun({ text: "Industry Overview, Peer Comparison & Company Profiles", font: BODY_FONT, size: 23, color: MID_BLUE })],
   }),
   new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 80 },
-    children: [new TextRun({ text: `As of ${data.asOf}`, font: BODY_FONT, size: 21 })],
+    spacing: { after: 60 },
+    children: [new TextRun({ text: `Prepared by: Jaimin  |  CA Articleship practice report  |  ${data.asOf}`, font: BODY_FONT, size: 19 })],
   }),
   new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { after: 80 },
-    children: [new TextRun({ text: "Prepared by Jaimin — CA Articleship practice exercise", font: BODY_FONT, size: 21 })],
+    spacing: { after: 300 },
+    children: [new TextRun({ text: "Coverage: not a SEBI-registered Research Analyst — see Disclaimer & Methodology", font: BODY_FONT, size: 16, italics: true, color: GREY })],
   }),
   new Paragraph({
-    alignment: AlignmentType.CENTER,
-    spacing: { before: 2000 },
+    spacing: { after: 120 },
+    children: [new TextRun({ text: "COVERAGE UNIVERSE", font: BODY_FONT, size: 16, bold: true, color: NAVY })],
+  }),
+  coverUniverseTable,
+  new Paragraph({
+    spacing: { before: 300 },
     border: { top: { style: BorderStyle.SINGLE, size: 4, color: "BFBFBF", space: 8 } },
     children: [new TextRun({
-      text: "This is a practice document, not investment advice. See the Disclaimer & Methodology section for data sources and limitations.",
-      font: BODY_FONT, size: 18, italics: true, color: GREY,
+      text: "This is a practice document, not investment advice or investment research. See the Disclaimer & Methodology section for data sources and limitations.",
+      font: BODY_FONT, size: 17, italics: true, color: GREY,
     })],
   }),
   new Paragraph({ children: [new PageBreak()] }),
@@ -352,37 +499,29 @@ const doc = new Document({
       properties: {
         page: { size: { width: A4_WIDTH, height: A4_HEIGHT }, margin: { top: MARGIN, bottom: MARGIN, left: MARGIN, right: MARGIN } },
       },
-      headers: {
-        default: new Header({ children: [new Paragraph({
-          alignment: AlignmentType.RIGHT,
-          children: [new TextRun({ text: "Indian Textile Industry – Equity Research", font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
-      footers: {
-        default: new Footer({ children: [new Paragraph({
-          alignment: AlignmentType.CENTER,
-          children: [new TextRun({ text: "Page ", font: BODY_FONT, size: 15, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
+      headers: { default: pageHeader() },
+      footers: { default: pageFooter() },
       children: [
         h1("Table of Contents"),
         tocEntry("Executive Summary", 3),
         tocEntry("Industry Overview", 3),
-        tocEntry("Peer Comparison", 8),
+        tocEntry("Peer Comparison — League Table", 8),
         tocEntry("Investment Considerations", 9),
-        tocEntry("Company Snapshots", 11),
+        tocEntry("Company Snapshots", 10),
         tocEntry("Vardhman Textiles Ltd", 11, { indent: true }),
         tocEntry("Trident Limited", 13, { indent: true }),
         tocEntry("Welspun Living Ltd", 15, { indent: true }),
         tocEntry("Raymond Lifestyle Ltd", 17, { indent: true }),
-        tocEntry("Arvind Limited", 19, { indent: true }),
-        tocEntry("K.P.R. Mill Limited", 21, { indent: true }),
-        tocEntry("Page Industries Limited", 23, { indent: true }),
-        tocEntry("Gokaldas Exports Ltd", 25, { indent: true }),
-        tocEntry("Disclaimer & Methodology", 27),
+        tocEntry("Arvind Limited", 20, { indent: true }),
+        tocEntry("K.P.R. Mill Limited", 22, { indent: true }),
+        tocEntry("Page Industries Limited", 24, { indent: true }),
+        tocEntry("Gokaldas Exports Ltd", 26, { indent: true }),
+        tocEntry("Disclaimer & Methodology", 28),
         new Paragraph({ children: [new PageBreak()] }),
 
         h1("Executive Summary"),
+        sectorSnapshotStrip(),
+        new Paragraph({ spacing: { before: 220 }, children: [] }),
         body(`This report covers the Indian listed textile and apparel industry: the industry-level backdrop, and a peer comparison of eight listed companies spanning yarn/spinning, home textiles, branded apparel, denim, knitwear, innerwear and garment exports — Vardhman Textiles, Trident, Welspun Living, Raymond Lifestyle, Arvind, KPR Mill, Page Industries and Gokaldas Exports.`),
         body(industry.growthOutlook),
         body(`Valuations across the peer set vary widely (P/E roughly ${fmtNum(Math.min(...companies.map(c=>c.peRatio).filter(v=>v!=null)),0)}x to ${fmtNum(Math.max(...companies.map(c=>c.peRatio).filter(v=>v!=null)),0)}x), reflecting the mix of commodity-linked spinners, branded consumer names and export-facing manufacturers in the sample — see the Peer Comparison section for the full set of metrics, and the accompanying workbook (Textile_Peer_Comparison.xlsx) for a sortable version of the same data.`),
@@ -412,22 +551,16 @@ const doc = new Document({
           margin: { top: MARGIN, bottom: MARGIN, left: MARGIN, right: MARGIN },
         },
       },
-      headers: {
-        default: new Header({ children: [new Paragraph({
-          alignment: AlignmentType.RIGHT,
-          children: [new TextRun({ text: "Indian Textile Industry – Equity Research", font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
-      footers: {
-        default: new Footer({ children: [new Paragraph({
-          alignment: AlignmentType.CENTER,
-          children: [new TextRun({ text: "Page ", font: BODY_FONT, size: 15, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
+      headers: { default: pageHeader() },
+      footers: { default: pageFooter() },
       children: [
-        h1("Peer Comparison"),
+        h1("Peer Comparison — League Table"),
         caption(`Figures are per-company latest available fiscal year; market data (CMP, market cap, P/E) as of ${data.asOf}. Full detail with 52-week range, CAGR and sources is in Textile_Peer_Comparison.xlsx.`),
         peerTable,
+        new Paragraph({
+          spacing: { before: 140 },
+          children: [new TextRun({ text: "Source: company results, exchange filings, and financial news, compiled via web research; see Company Snapshots and Disclaimer & Methodology for per-figure sourcing and caveats.", font: BODY_FONT, size: 15, italics: true, color: GREY })],
+        }),
       ],
     },
     // Section 4: Investment Considerations + Company snapshots (portrait)
@@ -435,25 +568,14 @@ const doc = new Document({
       properties: {
         page: { size: { width: A4_WIDTH, height: A4_HEIGHT }, margin: { top: MARGIN, bottom: MARGIN, left: MARGIN, right: MARGIN } },
       },
-      headers: {
-        default: new Header({ children: [new Paragraph({
-          alignment: AlignmentType.RIGHT,
-          children: [new TextRun({ text: "Indian Textile Industry – Equity Research", font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
-      footers: {
-        default: new Footer({ children: [new Paragraph({
-          alignment: AlignmentType.CENTER,
-          children: [new TextRun({ text: "Page ", font: BODY_FONT, size: 15, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
+      headers: { default: pageHeader() },
+      footers: { default: pageFooter() },
       children: [
         ...investmentConsiderations(),
-        new Paragraph({ children: [new PageBreak()] }),
         h1("Company Snapshots"),
-        ...companies.flatMap((c, i) => [
+        ...companies.flatMap((c) => [
+          new Paragraph({ children: [new PageBreak()] }),
           ...companySection(c),
-          ...(i < companies.length - 1 ? [new Paragraph({ children: [new PageBreak()] })] : []),
         ]),
       ],
     },
@@ -462,18 +584,8 @@ const doc = new Document({
       properties: {
         page: { size: { width: A4_WIDTH, height: A4_HEIGHT }, margin: { top: MARGIN, bottom: MARGIN, left: MARGIN, right: MARGIN } },
       },
-      headers: {
-        default: new Header({ children: [new Paragraph({
-          alignment: AlignmentType.RIGHT,
-          children: [new TextRun({ text: "Indian Textile Industry – Equity Research", font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
-      footers: {
-        default: new Footer({ children: [new Paragraph({
-          alignment: AlignmentType.CENTER,
-          children: [new TextRun({ text: "Page ", font: BODY_FONT, size: 15, color: GREY }), new TextRun({ children: [PageNumber.CURRENT], font: BODY_FONT, size: 15, color: GREY })],
-        })] }),
-      },
+      headers: { default: pageHeader() },
+      footers: { default: pageFooter() },
       children: [
         h1("Disclaimer & Methodology"),
         h2("Purpose"),

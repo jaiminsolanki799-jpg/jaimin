@@ -60,12 +60,19 @@ textile-equity-research/
    charts (P/E, margins, returns, revenue/profit), an Industry Overview
    sheet, and a Company Notes sheet with sources.
 4. `reports/Textile_Industry_Equity_Research_Report.docx` (and the matching
-   `.pdf`) is the narrative report: executive summary, industry overview,
-   a landscape peer comparison table, an Investment Considerations section
-   that auto-synthesizes the peer data (valuation spread, profitability,
-   growth, leverage — comparative only, not a recommendation), one snapshot
-   per company, and a disclaimer & methodology section covering data
-   sources and limitations.
+   `.pdf`) is the narrative report, styled after a sell-side research note
+   (masthead banner, coverage-universe table on the cover, a sector stat
+   strip, per-company "Key Statistics" sidebar boxes, a compliance footer on
+   every page): executive summary, industry overview, a landscape peer
+   comparison league table, an Investment Considerations section that
+   auto-synthesizes the peer data (valuation spread, profitability, growth,
+   leverage — comparative only, not a recommendation), one two-column
+   snapshot per company, and a disclaimer & methodology section covering
+   data sources and limitations. It deliberately does **not** carry a
+   Buy/Sell/Hold rating or price target — issuing those on specific listed
+   securities is regulated in India under SEBI's Research Analyst
+   Regulations, 2014, and this is a practice document, not licensed
+   investment research.
 
 ## Updating the data
 
