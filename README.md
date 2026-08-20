@@ -11,6 +11,7 @@ run instructions.
 | [python-playground](projects/python-playground) | Python practice code with a tested calculator module | Python 3.9+ |
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
+| [textile-equity-research](projects/textile-equity-research) | Equity research report on the Indian textile industry — peer comparison workbook + Word/PDF report | Python (openpyxl) / Node (docx) |
 
 ## Work folders
 
@@ -37,7 +38,8 @@ suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci
 └── projects/
     ├── python-playground/
     ├── web-starter/
-    └── notes/
+    ├── notes/
+    └── textile-equity-research/
 ```
 
 ## Getting started
