@@ -5,37 +5,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="News tracker">
-  <meta name="theme-color" content="#fcfcfb" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#1a1a19" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f7f4ee" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#171614" media="(prefers-color-scheme: dark)">
   <title>News tracker</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗞️</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;1,8..60,400&display=swap">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <header class="top">
-    <div class="top-inner">
-      <div>
-        <h1>🗞️ News tracker</h1>
-        <p class="sub">Two dashboards, refreshed automatically every 30 minutes</p>
+  <div class="wrap">
+    <header class="masthead">
+      <div class="dateline"><span id="today"></span><span>Two editions · refreshed every 30 minutes</span></div>
+      <div class="title-block">
+        <h1>The <span class="em">Daily</span> Tracker</h1>
+        <p class="tagline">ET Prime and the business web, compiled for a chartered accountant's desk</p>
       </div>
-    </div>
-  </header>
-  <main class="wrap">
-    <div class="cards">
-      <a class="card" href="et-prime/">
-        <div class="icon">📰</div>
-        <h2>ET Prime</h2>
-        <p>Economic Times Prime stories across markets, economy, industry, wealth and tax.</p>
-        <div class="go">Open dashboard →</div>
-      </a>
-      <a class="card" href="website-news/">
-        <div class="icon">🌐</div>
-        <h2>Website news</h2>
-        <p>Moneycontrol, Mint, Business Standard, BusinessLine, Taxguru, RBI, SEBI, PIB and topic searches for IBC, GST, income tax and MCA.</p>
-        <div class="go">Open dashboard →</div>
-      </a>
-    </div>
-    <p class="foot">Tip: on iPhone, open a dashboard in Safari, tap Share, then “Add to Home Screen” to use it like an app.</p>
-  </main>
+      <div class="rules"></div>
+    </header>
+    <main>
+      <div class="front">
+        <a class="edition" href="et-prime/">
+          <div class="kicker">Edition one</div>
+          <h2>ET Prime</h2>
+          <p>Economic Times Prime stories across money &amp; markets, corporate governance, economy &amp; policy, technology, consumer, fintech, pharma, energy and infrastructure.</p>
+          <span class="go">Read the edition</span>
+        </a>
+        <a class="edition" href="website-news/">
+          <div class="kicker">Edition two</div>
+          <h2>The Wire</h2>
+          <p>Mint, BusinessLine, Business Standard, Financial Express, Moneycontrol, Taxguru, RBI, SEBI and PIB, with topic searches for IBC, GST, income tax and MCA.</p>
+          <span class="go">Read the edition</span>
+        </a>
+      </div>
+      <p class="foot">On iPhone: open an edition in Safari, tap Share, then “Add to Home Screen”.</p>
+    </main>
+  </div>
+  <script>
+    document.getElementById("today").textContent = new Date().toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  </script>
 </body>
 </html>

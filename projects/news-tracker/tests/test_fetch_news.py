@@ -75,6 +75,11 @@ def test_clean_text_strips_html_and_truncates():
     assert fn.clean_text(long, 50).endswith("…")
 
 
+def test_clean_text_drops_wordpress_footer():
+    raw = "Bombay HC holds provision allowable. The post Bombay HC Upholds Deduction appeared first on Taxguru."
+    assert fn.clean_text(raw) == "Bombay HC holds provision allowable."
+
+
 def test_canonical_link_drops_tracking_params():
     link = "https://Example.com/a?utm_source=rss&id=7&fbclid=x#top"
     assert fn.canonical_link(link) == "https://example.com/a?id=7"
