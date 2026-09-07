@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="Website news">
+  <meta name="apple-mobile-web-app-title" content="Websites">
   <meta name="theme-color" content="#f7f4ee" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#171614" media="(prefers-color-scheme: dark)">
-  <title>Website news tracker</title>
+  <title>Websites</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,58 +23,57 @@
         <span class="right">
           <span id="updated">Loading…</span>
           <a href="../">Home</a>
+          <button class="iconbtn" id="theme" type="button" title="Light / dark" aria-label="Toggle light or dark">◐</button>
           <button class="iconbtn" id="refresh" type="button" title="Refresh" aria-label="Refresh">↻</button>
         </span>
       </div>
       <div class="title-block">
-        <h1>The <span class="em">Wire</span></h1>
-        <p class="tagline">Business, tax and regulator news from across the web</p>
+        <h1>The <span class="em">Websites</span></h1>
+        <p class="tagline">The news sites you asked to follow</p>
       </div>
       <div class="rules"></div>
-      <nav class="sections" id="chips-category" aria-label="Sections"></nav>
+      <nav class="sections" id="chips-group" aria-label="Publications"></nav>
     </header>
 
     <main>
       <div class="notice" id="notice" hidden></div>
 
-      <section class="tiles" aria-label="By the numbers">
-        <div class="tile"><div class="label">Total</div><div class="value" id="t-total">–</div><div class="hint">from 15 sources</div></div>
-        <div class="tile"><div class="label">Today</div><div class="value" id="t-24h">–</div><div class="hint">last 24 hours</div></div>
-        <div class="tile"><div class="label">New</div><div class="value" id="t-new">–</div><div class="hint" id="t-new-hint"></div></div>
-        <div class="tile"><div class="label">Unread</div><div class="value" id="t-unread">–</div><div class="hint" id="t-unread-hint"></div></div>
-      </section>
+      <input class="search" id="search" type="search" placeholder="Search headlines…" autocomplete="off">
 
-      <section class="filters" aria-label="Filters">
-        <input class="search" id="search" type="search" placeholder="Search headlines and summaries…" autocomplete="off">
-        <div class="row">
-          <select id="range" aria-label="Time range">
-            <option value="1">Last 24 hours</option>
-            <option value="3">Last 3 days</option>
-            <option value="7">Last 7 days</option>
-            <option value="all" selected>All kept</option>
-          </select>
-          <button class="toggle" id="unread" type="button" aria-pressed="false">Unread</button>
-          <button class="toggle" id="saved" type="button" aria-pressed="false">★ Saved</button>
-          <button class="toggle" id="mark-all" type="button">Mark all read</button>
+      <details class="panel">
+        <summary>Filters</summary>
+        <div class="body filters">
+          <div class="row">
+            <select id="range" aria-label="Time range">
+              <option value="1">Today</option>
+              <option value="3" selected>Last 3 days</option>
+              <option value="7">Last 7 days</option>
+              <option value="all">All kept</option>
+            </select>
+            <button class="toggle" id="unread" type="button" aria-pressed="false">Unread</button>
+            <button class="toggle" id="saved" type="button" aria-pressed="false">★ Saved</button>
+            <button class="toggle" id="mark-all" type="button">Mark all read</button>
+          </div>
+          <div class="chips" id="chips-category" aria-label="Filter by section"></div>
+          <div class="chips" id="chips-topic" aria-label="Filter by topic"></div>
+          <div class="chips" id="chips-source" aria-label="Filter by source"></div>
         </div>
-        <div class="chips" id="chips-topic" aria-label="Filter by topic"></div>
-        <div class="chips" id="chips-source" aria-label="Filter by source"></div>
-      </section>
+      </details>
 
       <p class="count" id="count"></p>
       <ul class="list" id="list"></ul>
       <button class="more" id="more" type="button" hidden>Show more</button>
 
       <details class="panel">
-        <summary>Stories per source</summary>
-        <div class="body bars" id="bars"></div>
-      </details>
-      <details class="panel">
-        <summary id="status-summary">Source status</summary>
-        <div class="body"><ul class="status" id="status"></ul></div>
+        <summary id="status-summary">About this edition</summary>
+        <div class="body">
+          <div class="bars" id="bars"></div>
+          <ul class="status" id="status" style="margin-top:14px"></ul>
+        </div>
       </details>
 
-      <p class="foot">Compiled automatically every 30 minutes from the sources listed above and stored in the repository. Read and saved marks stay on this device.</p>
+      <button class="top" id="top" type="button" hidden aria-label="Back to top">↑</button>
+      <p class="foot">Compiled automatically every 30 minutes and stored in the repository. Saved marks stay on this device.</p>
     </main>
   </div>
 

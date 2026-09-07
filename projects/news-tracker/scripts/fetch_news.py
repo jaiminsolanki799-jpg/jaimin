@@ -356,6 +356,7 @@ def normalise_items(raw_items: list[dict], source: dict, topics: dict, fetched_a
             "summary": summary,
             "published": published.isoformat(),
             "source": source["name"],
+            "group": source.get("group", source["name"]),
             "category": category,
             "date_known": date_known,
             "author": clean_text(raw.get("author")) or None,

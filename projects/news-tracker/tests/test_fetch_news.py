@@ -146,7 +146,14 @@ def test_normalise_items_skips_untitled_and_tags_topics():
     assert items[0]["topics"] == ["GST"]
     assert items[0]["published"] == "2026-09-07T04:00:00+00:00"
     assert items[0]["source"] == "Sample"
+    assert items[0]["group"] == "Sample"  # falls back to the source name
     assert items[1]["topics"] == ["Insolvency / IBC"]
+
+
+def test_group_is_carried_to_items():
+    source = {"name": "Mint Markets", "group": "Mint", "category": "Markets"}
+    items = fn.normalise_items(fn.parse_feed(RSS_SAMPLE), source, TOPICS, NOW)
+    assert {i["group"] for i in items} == {"Mint"}
 
 
 def test_prime_only_keeps_only_prime_links():
