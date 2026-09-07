@@ -8,9 +8,18 @@ Two phone-friendly news dashboards, with the data stored in this repository:
 | **Startups & Tech** | The CapTable, YourStory, StartupTalky, Entrackr and TechCrunch (The CapTable and Entrackr have no public feed and are read via Google News) | `website-news/` |
 
 Each dashboard has a publication bar at the top (the `group` of each
-source), a search box, a Filters drawer (time range, unread, saved, section,
-topic and source), and a list of stories that expand on tap. The first story
-opens as the front-page splash. A light/dark toggle sits in the dateline.
+source, plus a **★ Valuation desk** tab and a **★ Saved** tab), a search box,
+a Filters drawer (time range, unread, section, topic and source), and a list
+of stories that expand on tap. The first story opens as the front-page
+splash. A light/dark toggle sits in the dateline.
+
+- **Save to read later**: tap the ☆ on any headline. Saved stories live in
+  the ★ Saved tab, are kept on the device (so they stay readable after the
+  feed's retention window), and ignore the time-range filter.
+- **Ask AI**: inside an expanded story, ✦ Ask AI builds a prompt (summarise,
+  valuation angle, or research further) with the headline, source, link and
+  summary, and opens it in Claude, ChatGPT or Perplexity with the prompt
+  filled in, or copies it for Gemini.
 
 Every story is tagged with CA-relevant topics (Insolvency / IBC, GST, Income
 tax, MCA / ROC, SEBI, RBI, Audit, Valuation, Budget) so you can filter to what

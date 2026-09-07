@@ -26,6 +26,8 @@
     read: loadSet("read"),
     expanded: new Set(),
     bookmarks: loadSet("bookmarks"),
+    savedItems: loadObject("savedItems"),   // id -> story snapshot, so saved stories outlive the feed
+    savedTab: false,
     lastVisit: loadValue("lastVisit"),
   };
 
@@ -36,6 +38,74 @@
   }
   function saveSet(name, set) {
     try { localStorage.setItem(KEY + ":" + name, JSON.stringify(Array.from(set))); } catch (e) {}
+  }
+  function loadObject(name) {
+    try { return JSON.parse(localStorage.getItem(KEY + ":" + name) || "{}") || {}; }
+    catch (e) { return {}; }
+  }
+  function saveObject(name, obj) {
+    try { localStorage.setItem(KEY + ":" + name, JSON.stringify(obj)); } catch (e) {}
+  }
+  function snapshot(item) {
+    return { id: item.id, title: item.title, link: item.link, summary: item.summary || "", published: item.published,
+             source: item.source, group: item.group || item.source, category: item.category, publisher: item.publisher || null,
+             topics: item.topics || [], valuation_score: item.valuation_score || 0, valuation_signals: item.valuation_signals || [],
+             first_seen: item.first_seen, saved_at: new Date().toISOString() };
+  }
+  function toggleSaved(item) {
+    if (state.bookmarks.has(item.id)) {
+      state.bookmarks.delete(item.id); delete state.savedItems[item.id];
+    } else {
+      state.bookmarks.add(item.id); state.savedItems[item.id] = snapshot(item);
+    }
+    saveSet("bookmarks", state.bookmarks); saveObject("savedItems", state.savedItems);
+    toast(state.bookmarks.has(item.id) ? "★ Saved to read later" : "Removed from saved");
+  }
+  function toast(text) {
+    var el = $("toast"); if (!el) return;
+    el.textContent = text; el.hidden = false; el.classList.add("show");
+    clearTimeout(toast.t); toast.t = setTimeout(function () { el.classList.remove("show"); el.hidden = true; }, 1400);
+  }
+  // ---------- Ask AI ----------
+  var AI_TASKS = {
+    summary: { label: "Summarise", text: "Summarise this news story in 5 short bullet points for a chartered accountant. Then list the key numbers mentioned (amounts, percentages, dates) exactly as reported, without rounding." },
+    valuation: { label: "Valuation angle", text: "You are assisting a valuation analyst at a chartered accountancy firm in India. Explain what this news means for valuation: which companies or sectors are affected, the implied valuation or deal multiples if any, effects on DCF inputs (growth, margins, discount rate), and comparable transactions to look at. Be precise with numbers and flag anything that needs verification." },
+    research: { label: "Research further", text: "Research this news story further. Find the primary sources (regulatory filings, press releases, exchange disclosures, court or NCLT orders), the background of the companies involved, related recent developments, and what to watch next. Cite each source with a link. Note clearly where information is unverified." }
+  };
+  var AI_ASSISTANTS = {
+    claude:     { label: "Claude",     open: function (p) { window.open("https://claude.ai/new?q=" + encodeURIComponent(p), "_blank", "noopener"); } },
+    gemini:     { label: "Gemini",     open: function (p) { copyText(p); window.open("https://gemini.google.com/app", "_blank", "noopener"); toast("Prompt copied — paste it into Gemini"); } },
+    chatgpt:    { label: "ChatGPT",    open: function (p) { window.open("https://chatgpt.com/?q=" + encodeURIComponent(p), "_blank", "noopener"); } },
+    perplexity: { label: "Perplexity", open: function (p) { window.open("https://www.perplexity.ai/search?q=" + encodeURIComponent(p), "_blank", "noopener"); } }
+  };
+  var ai = { item: null, task: "summary" };
+  function copyText(text) {
+    try { if (navigator.clipboard) navigator.clipboard.writeText(text); } catch (e) {}
+  }
+  function aiPrompt(item, task) {
+    var lines = [AI_TASKS[task].text, "", "Headline: " + item.title,
+      "Source: " + (item.publisher || item.source) + (item.published ? " (" + fullDate(item.published) + ")" : ""),
+      "Link: " + item.link];
+    if (item.summary) lines.push("Summary from the feed: " + item.summary);
+    lines.push("", "If you can open the link, read the full article first.");
+    return lines.join("\n");
+  }
+  function openAiSheet(item) {
+    ai.item = item;
+    $("ai-title").textContent = item.title;
+    renderAiSheet();
+    $("ai-sheet").hidden = false;
+    document.body.classList.add("sheet-open");
+  }
+  function closeAiSheet() {
+    $("ai-sheet").hidden = true;
+    document.body.classList.remove("sheet-open");
+  }
+  function renderAiSheet() {
+    $("ai-tasks").innerHTML = Object.keys(AI_TASKS).map(function (k) {
+      return '<button class="chip" data-ai-task="' + k + '" aria-pressed="' + (ai.task === k) + '">' + AI_TASKS[k].label + "</button>";
+    }).join("");
+    $("ai-preview").textContent = aiPrompt(ai.item, ai.task);
   }
   function loadValue(name) {
     try { return localStorage.getItem(KEY + ":" + name); } catch (e) { return null; }
@@ -85,8 +155,17 @@
     var days = Number(state.range);
     return Date.now() - new Date(item.published).getTime() <= days * 86400000;
   }
+  function pool() {
+    var seen = {};
+    state.items.forEach(function (i) { seen[i.id] = true; });
+    var extra = Object.keys(state.savedItems).filter(function (id) { return !seen[id]; })
+      .map(function (id) { return state.savedItems[id]; });
+    return extra.length ? state.items.concat(extra) : state.items;
+  }
   function matches(item) {
-    if (!withinRange(item)) return false;
+    if (state.savedTab) {
+      if (!state.bookmarks.has(item.id)) return false;   // saved stories ignore the time range
+    } else if (!withinRange(item)) return false;
     if (state.desk && (item.valuation_score || 0) < 3) return false;
     if (state.group && (item.group || item.source) !== state.group) return false;
     if (state.source && item.source !== state.source) return false;
@@ -94,6 +173,7 @@
     if (state.category && item.category !== state.category) return false;
     if (state.unreadOnly && state.read.has(item.id)) return false;
     if (state.bookmarksOnly && !state.bookmarks.has(item.id)) return false;
+    if (state.savedTab && state.desk && (item.valuation_score || 0) < 3) return false;
     if (state.query) {
       var hay = (item.title + " " + (item.summary || "") + " " + item.source).toLowerCase();
       var terms = state.query.toLowerCase().split(/\s+/).filter(Boolean);
@@ -109,7 +189,7 @@
   function summaryLine(filtered) {
     var fresh = filtered.filter(isNew).length;
     var unread = filtered.filter(function (i) { return !state.read.has(i.id); }).length;
-    var rangeLabel = { "1": "today", "3": "last 3 days", "7": "last 7 days", "all": "all kept" }[state.range];
+    var rangeLabel = state.savedTab ? "saved to read later" : { "1": "today", "3": "last 3 days", "7": "last 7 days", "all": "all kept" }[state.range];
     var parts = [filtered.length + (filtered.length === 1 ? " story" : " stories") + (state.desk ? " for valuation" : "") + " · " + rangeLabel];
     if (fresh) parts.push(fresh + " new for you");
     if (unread && unread !== filtered.length) parts.push(unread + " unread");
@@ -159,8 +239,9 @@
     var deskChip = '<button class="chip desk" data-kind="desk" data-val="desk" aria-pressed="' + state.desk + '">★ Valuation desk<span class="n">' + deskCount + "</span></button>";
     var groupHtml = chips(groupCounts, state.group, "group", "All").replace(
       'aria-pressed="' + (!state.group) + '">All', 'aria-pressed="' + (!state.group && !state.desk) + '">All');
+    var savedChip = '<button class="chip saved" data-kind="savedTab" data-val="saved" aria-pressed="' + state.savedTab + '">★ Saved<span class="n">' + state.bookmarks.size + "</span></button>";
     var allEnd = groupHtml.indexOf("</button>") + "</button>".length;
-    $("chips-group").innerHTML = groupHtml.slice(0, allEnd) + deskChip + groupHtml.slice(allEnd);
+    $("chips-group").innerHTML = groupHtml.slice(0, allEnd) + deskChip + savedChip + groupHtml.slice(allEnd);
     $("chips-group").hidden = false;
     $("chips-category").innerHTML = chips(catCounts, state.category, "category", "All sections");
     $("chips-category").hidden = Object.keys(catCounts).length < 2;
@@ -184,21 +265,27 @@
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
       (isNew(item) ? '<span class="new">New</span>' : "") +
       (why ? '<span class="why">★ ' + esc(why) + "</span>" : "") +
+      '<button class="star" data-act="bookmark" aria-pressed="' + marked + '" aria-label="' + (marked ? "Remove from saved" : "Save to read later") + '" title="' + (marked ? "Saved" : "Save to read later") + '">' + (marked ? "★" : "☆") + "</button>" +
       "</div>" +
       '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + highlight(item.title) + "</a></h2>" +
       '<div class="detail">' +
       (item.summary ? "<p>" + highlight(item.summary) + "</p>" : "") +
       (tags ? '<div class="tags">' + tags + "</div>" : "") +
       '<div class="actions">' +
-      '<button data-act="bookmark" aria-pressed="' + marked + '">' + (marked ? "★ Saved" : "☆ Save") + "</button>" +
       '<button data-act="share">Share</button>' +
+      '<button data-act="ai">✦ Ask AI</button>' +
       '<a class="open" href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">Read ↗</a>' +
       "</div></div></li>";
   }
 
   function renderList() {
-    var filtered = state.items.filter(matches);
-    if (state.desk) {
+    var filtered = pool().filter(matches);
+    if (state.savedTab) {
+      filtered.sort(function (a, b) {
+        var sa = (state.savedItems[a.id] || {}).saved_at || "", sb = (state.savedItems[b.id] || {}).saved_at || "";
+        return sa < sb ? 1 : sa > sb ? -1 : 0;
+      });
+    } else if (state.desk) {
       filtered.sort(function (a, b) {
         return (b.valuation_score || 0) - (a.valuation_score || 0) || (a.published < b.published ? 1 : -1);
       });
@@ -250,10 +337,6 @@
       state.unreadOnly = !state.unreadOnly; this.setAttribute("aria-pressed", state.unreadOnly);
       state.shown = PAGE_SIZE; renderList();
     });
-    $("saved").addEventListener("click", function () {
-      state.bookmarksOnly = !state.bookmarksOnly; this.setAttribute("aria-pressed", state.bookmarksOnly);
-      state.shown = PAGE_SIZE; renderList();
-    });
     $("mark-all").addEventListener("click", function () {
       state.items.filter(matches).forEach(function (i) { state.read.add(i.id); });
       saveSet("read", state.read); renderList();
@@ -270,6 +353,17 @@
         saveValue("theme", next);
       });
     }
+    if ($("ai-sheet")) {
+      $("ai-sheet").addEventListener("click", function (e) {
+        if (e.target.closest("[data-ai-close]") || e.target === $("ai-sheet")) { closeAiSheet(); return; }
+        var t = e.target.closest("[data-ai-task]");
+        if (t) { ai.task = t.getAttribute("data-ai-task"); renderAiSheet(); return; }
+        var a = e.target.closest("[data-ai-open]");
+        if (a) { AI_ASSISTANTS[a.getAttribute("data-ai-open")].open(aiPrompt(ai.item, ai.task)); return; }
+        if (e.target.closest("[data-ai-copy]")) { copyText(aiPrompt(ai.item, ai.task)); toast("Prompt copied"); }
+      });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeAiSheet(); });
+    }
     if ($("top")) {
       window.addEventListener("scroll", function () { $("top").hidden = window.scrollY < 600; }, { passive: true });
       $("top").addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
@@ -282,8 +376,10 @@
         var kind = chip.getAttribute("data-kind"), val = chip.getAttribute("data-val") || null;
         if (kind === "desk") {
           state.desk = !state.desk;
+        } else if (kind === "savedTab") {
+          state.savedTab = !state.savedTab;
         } else {
-          if (kind === "group" && !val) state.desk = false;   // "All" clears the desk too
+          if (kind === "group" && !val) { state.desk = false; state.savedTab = false; }   // "All" clears the special tabs
           state[kind] = (state[kind] === val) ? null : val;
         }
         state.shown = PAGE_SIZE; renderChips(state.items); renderList();
@@ -301,7 +397,7 @@
       }
       var li = act.closest(".story");
       var id = li && li.getAttribute("data-id");
-      var item = state.items.find(function (i) { return i.id === id; });
+      var item = pool().find(function (i) { return i.id === id; });
       if (!item) return;
       var action = act.getAttribute("data-act");
       if (action === "open") {
@@ -311,9 +407,10 @@
       if (action === "read") {
         if (state.read.has(id)) state.read.delete(id); else state.read.add(id);
         saveSet("read", state.read); renderList();
+      } else if (action === "ai") {
+        openAiSheet(item);
       } else if (action === "bookmark") {
-        if (state.bookmarks.has(id)) state.bookmarks.delete(id); else state.bookmarks.add(id);
-        saveSet("bookmarks", state.bookmarks); renderList();
+        toggleSaved(item); renderChips(state.items); renderList();
       } else if (action === "share") {
         var payload = { title: item.title, text: item.title + " — " + item.source, url: item.link };
         if (navigator.share) { navigator.share(payload).catch(function () {}); }
@@ -335,6 +432,11 @@
       .then(function (data) {
         state.data = data;
         state.items = (data.items || []).slice().sort(function (a, b) { return a.published < b.published ? 1 : -1; });
+        var changed = false;
+        state.items.forEach(function (i) {
+          if (state.bookmarks.has(i.id) && !state.savedItems[i.id]) { state.savedItems[i.id] = snapshot(i); changed = true; }
+        });
+        if (changed) saveObject("savedItems", state.savedItems);
         $("notice").hidden = true;
         renderAll();
       })
