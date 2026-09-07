@@ -19,7 +19,9 @@ splash. A light/dark toggle sits in the dateline.
 - **Ask AI**: inside an expanded story, ✦ Ask AI builds a prompt (summarise,
   valuation angle, or research further) with the headline, source, link and
   summary, and opens it in Claude, ChatGPT or Perplexity with the prompt
-  filled in, or copies it for Gemini.
+  filled in, or copies it for Gemini. The buttons are ordinary links, so on
+  a phone the installed app opens. Pick "My app" once and every story gets a
+  one-tap "✦ Summarise in …" link to that app.
 
 Every story is tagged with CA-relevant topics (Insolvency / IBC, GST, Income
 tax, MCA / ROC, SEBI, RBI, Audit, Valuation, Budget) so you can filter to what

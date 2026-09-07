@@ -81,14 +81,18 @@
           </div>
           <div class="sheet-title" id="ai-title"></div>
           <div class="chips" id="ai-tasks"></div>
-          <div class="ai-grid">
-            <button type="button" class="ai-btn" data-ai-open="claude">Claude</button>
-            <button type="button" class="ai-btn" data-ai-open="gemini">Gemini</button>
-            <button type="button" class="ai-btn" data-ai-open="chatgpt">ChatGPT</button>
-            <button type="button" class="ai-btn" data-ai-open="perplexity">Perplexity</button>
-          </div>
+          <div class="ai-grid" id="ai-grid"></div>
+          <label class="ai-app-row">My app
+            <select id="ai-app">
+              <option value="">Ask each time</option>
+              <option value="claude">Claude</option>
+              <option value="gemini">Gemini</option>
+              <option value="chatgpt">ChatGPT</option>
+              <option value="perplexity">Perplexity</option>
+            </select>
+          </label>
           <details class="ai-preview-wrap"><summary>See the prompt · <span data-ai-copy class="linkish">copy</span></summary><pre class="ai-preview" id="ai-preview"></pre></details>
-          <p class="sheet-note">Claude, ChatGPT and Perplexity open with the prompt filled in. Gemini opens with the prompt copied; paste it into the chat box.</p>
+          <p class="sheet-note">On a phone these open the installed app if you have it. Claude, ChatGPT and Perplexity arrive with the prompt filled in; Gemini opens with the prompt copied, so paste it into the chat box. Choose “My app” to get a one-tap button on every story.</p>
         </div>
       </div>
 

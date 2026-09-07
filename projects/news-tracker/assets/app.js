@@ -72,13 +72,20 @@
     valuation: { label: "Valuation angle", text: "You are assisting a valuation analyst at a chartered accountancy firm in India. Explain what this news means for valuation: which companies or sectors are affected, the implied valuation or deal multiples if any, effects on DCF inputs (growth, margins, discount rate), and comparable transactions to look at. Be precise with numbers and flag anything that needs verification." },
     research: { label: "Research further", text: "Research this news story further. Find the primary sources (regulatory filings, press releases, exchange disclosures, court or NCLT orders), the background of the companies involved, related recent developments, and what to watch next. Cite each source with a link. Note clearly where information is unverified." }
   };
+  // Real links (not window.open) so iOS/Android hand off to the installed app via universal links.
   var AI_ASSISTANTS = {
-    claude:     { label: "Claude",     open: function (p) { window.open("https://claude.ai/new?q=" + encodeURIComponent(p), "_blank", "noopener"); } },
-    gemini:     { label: "Gemini",     open: function (p) { copyText(p); window.open("https://gemini.google.com/app", "_blank", "noopener"); toast("Prompt copied — paste it into Gemini"); } },
-    chatgpt:    { label: "ChatGPT",    open: function (p) { window.open("https://chatgpt.com/?q=" + encodeURIComponent(p), "_blank", "noopener"); } },
-    perplexity: { label: "Perplexity", open: function (p) { window.open("https://www.perplexity.ai/search?q=" + encodeURIComponent(p), "_blank", "noopener"); } }
+    claude:     { label: "Claude",     href: function (p) { return "https://claude.ai/new?q=" + encodeURIComponent(p); } },
+    gemini:     { label: "Gemini",     href: function () { return "https://gemini.google.com/app"; }, copyFirst: true },
+    chatgpt:    { label: "ChatGPT",    href: function (p) { return "https://chatgpt.com/?q=" + encodeURIComponent(p); } },
+    perplexity: { label: "Perplexity", href: function (p) { return "https://www.perplexity.ai/search?q=" + encodeURIComponent(p); } }
   };
-  var ai = { item: null, task: "summary" };
+  var ai = { item: null, task: "summary", app: loadValue("aiApp") || "" };
+  function aiLink(key, item, task, cls, label) {
+    var a = AI_ASSISTANTS[key];
+    var prompt = aiPrompt(item, task);
+    return '<a class="' + cls + '" href="' + esc(a.href(prompt)) + '" target="_blank" rel="noopener" data-ai-open="' + key + '"' +
+      (a.copyFirst ? ' data-ai-copy-first="1"' : "") + ">" + (label || a.label) + "</a>";
+  }
   function copyText(text) {
     try { if (navigator.clipboard) navigator.clipboard.writeText(text); } catch (e) {}
   }
@@ -105,6 +112,11 @@
     $("ai-tasks").innerHTML = Object.keys(AI_TASKS).map(function (k) {
       return '<button class="chip" data-ai-task="' + k + '" aria-pressed="' + (ai.task === k) + '">' + AI_TASKS[k].label + "</button>";
     }).join("");
+    var order = Object.keys(AI_ASSISTANTS).sort(function (x, y) { return (y === ai.app) - (x === ai.app); });
+    $("ai-grid").innerHTML = order.map(function (k) {
+      return aiLink(k, ai.item, ai.task, "ai-btn" + (k === ai.app ? " mine" : ""), AI_ASSISTANTS[k].label + (k === ai.app ? " · my app" : ""));
+    }).join("");
+    $("ai-app").value = ai.app;
     $("ai-preview").textContent = aiPrompt(ai.item, ai.task);
   }
   function loadValue(name) {
@@ -273,7 +285,8 @@
       (tags ? '<div class="tags">' + tags + "</div>" : "") +
       '<div class="actions">' +
       '<button data-act="share">Share</button>' +
-      '<button data-act="ai">✦ Ask AI</button>' +
+      (ai.app ? aiLink(ai.app, item, "summary", "quick-ai", "✦ Summarise in " + AI_ASSISTANTS[ai.app].label) : "") +
+      '<button data-act="ai">✦ ' + (ai.app ? "More AI" : "Ask AI") + "</button>" +
       '<a class="open" href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">Read ↗</a>' +
       "</div></div></li>";
   }
@@ -359,10 +372,18 @@
         var t = e.target.closest("[data-ai-task]");
         if (t) { ai.task = t.getAttribute("data-ai-task"); renderAiSheet(); return; }
         var a = e.target.closest("[data-ai-open]");
-        if (a) { AI_ASSISTANTS[a.getAttribute("data-ai-open")].open(aiPrompt(ai.item, ai.task)); return; }
+        if (a) {
+          if (a.hasAttribute("data-ai-copy-first")) { copyText(aiPrompt(ai.item, ai.task)); toast("Prompt copied — paste it into " + AI_ASSISTANTS[a.getAttribute("data-ai-open")].label); }
+          setTimeout(closeAiSheet, 300);
+          return;  // let the link open (the app takes over on a phone)
+        }
         if (e.target.closest("[data-ai-copy]")) { copyText(aiPrompt(ai.item, ai.task)); toast("Prompt copied"); }
       });
       document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeAiSheet(); });
+      $("ai-app").addEventListener("change", function () {
+        ai.app = this.value; saveValue("aiApp", ai.app); renderAiSheet(); renderList();
+        toast(ai.app ? AI_ASSISTANTS[ai.app].label + " set as your app" : "No default app");
+      });
     }
     if ($("top")) {
       window.addEventListener("scroll", function () { $("top").hidden = window.scrollY < 600; }, { passive: true });
@@ -384,6 +405,12 @@
         }
         state.shown = PAGE_SIZE; renderChips(state.items); renderList();
         return;
+      }
+      var quick = e.target.closest("a.quick-ai[data-ai-copy-first]");
+      if (quick) {
+        var qli = quick.closest(".story"), qitem = pool().find(function (i) { return i.id === qli.getAttribute("data-id"); });
+        if (qitem) { copyText(aiPrompt(qitem, "summary")); toast("Prompt copied — paste it into " + AI_ASSISTANTS[ai.app].label); }
+        return;  // let the link open
       }
       var act = e.target.closest("[data-act]");
       if (!act) {
