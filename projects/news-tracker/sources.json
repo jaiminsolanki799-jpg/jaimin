@@ -1,7 +1,7 @@
 {
-  "_comment": "Edit this file to add or remove feeds. Each dashboard has a list of sources. type is 'rss' (RSS 2.0 or Atom). 'prime_only': true keeps only items whose link contains /prime/ (used to pick ET Prime stories out of general ET feeds). Sites that block automated readers (HTTP 403) are read through Google News search feeds instead: https://news.google.com/rss/search?q=site:example.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-  "retention_days": 21,
-  "max_items": 1500,
+  "_comment": "Edit this file to add or remove feeds. Each dashboard has a list of sources. type is 'rss' (RSS 2.0 or Atom) or 'html' (an ordinary web page; every link whose address matches link_pattern is taken as a story, dated when first seen). 'prime_only': true keeps only items whose link contains /prime/. Sites that block automated readers (HTTP 403) are read through Google News search feeds instead: https://news.google.com/rss/search?q=site:example.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+  "retention_days": 14,
+  "max_items": 1000,
   "topics": {
     "Insolvency / IBC": [
       "insolvency",
@@ -95,76 +95,100 @@
       "title": "ET Prime",
       "sources": [
         {
-          "name": "ET Prime (all, last 7 days)",
+          "name": "ET Prime home",
+          "category": "ET Prime",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Money & markets",
+          "category": "Money & markets",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Corporate governance",
+          "category": "Corporate governance",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Economy & policy",
+          "category": "Economy & policy",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Technology & startups",
+          "category": "Technology & startups",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Consumer",
+          "category": "Consumer",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/consumer",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Fintech & BFSI",
+          "category": "Fintech & BFSI",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Pharma & healthcare",
+          "category": "Pharma & healthcare",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Energy",
+          "category": "Energy",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/energy",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Infrastructure",
+          "category": "Infrastructure",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/infrastructure",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Transportation",
+          "category": "Transportation",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/transportation",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime: Media & communications",
+          "category": "Media & communications",
+          "type": "html",
+          "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
+          "link_pattern": "/prime/.*articleshow"
+        },
+        {
+          "name": "ET Prime (Google News, 7 days)",
           "category": "ET Prime",
           "type": "rss",
           "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
         },
         {
-          "name": "ET Prime (all, last 24 hours)",
+          "name": "ET Prime (Bing News)",
           "category": "ET Prime",
           "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:1d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Money & markets",
-          "category": "Money & markets",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/money-and-markets+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Corporate governance",
-          "category": "Corporate governance",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/corporate-governance+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Economy & policy",
-          "category": "Economy & policy",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/economy-and-policy+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Technology & startups",
-          "category": "Technology & startups",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/technology-and-startups+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Consumer",
-          "category": "Consumer",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/consumer+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Fintech & BFSI",
-          "category": "Fintech & BFSI",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/fintech-and-bfsi+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Pharma & healthcare",
-          "category": "Pharma & healthcare",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/pharma-and-healthcare+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Energy",
-          "category": "Energy",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/energy+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Infrastructure",
-          "category": "Infrastructure",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/infrastructure+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime: Transportation",
-          "category": "Transportation",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime/transportation+when:30d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://www.bing.com/news/search?q=site%3Aeconomictimes.indiatimes.com%2Fprime&format=rss"
         },
         {
           "name": "ET Top Stories (Prime links)",
@@ -179,27 +203,6 @@
           "type": "rss",
           "prime_only": true,
           "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"
-        },
-        {
-          "name": "ET Economy (Prime links)",
-          "category": "Economy & policy",
-          "type": "rss",
-          "prime_only": true,
-          "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms"
-        },
-        {
-          "name": "ET Wealth (Prime links)",
-          "category": "Wealth",
-          "type": "rss",
-          "prime_only": true,
-          "url": "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms"
-        },
-        {
-          "name": "ET Tax (Prime links)",
-          "category": "Tax",
-          "type": "rss",
-          "prime_only": true,
-          "url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47823565.cms"
         }
       ]
     },

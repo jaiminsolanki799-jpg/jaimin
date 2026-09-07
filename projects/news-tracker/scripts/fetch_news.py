@@ -212,6 +212,42 @@ def parse_feed(xml_bytes: bytes) -> list[dict]:
     return items
 
 
+_ANCHOR_RE = re.compile(r'<a\b([^>]*)>(.*?)</a>', re.IGNORECASE | re.DOTALL)
+_HREF_RE = re.compile(r'href\s*=\s*["\']([^"\']+)["\']', re.IGNORECASE)
+_TITLE_ATTR_RE = re.compile(r'title\s*=\s*["\']([^"\']+)["\']', re.IGNORECASE)
+
+
+def parse_html_links(html_bytes: bytes, base_url: str, link_pattern: str) -> list[dict]:
+    """Pull article links out of an ordinary web page (for sites with no feed).
+
+    Keeps every <a> whose href matches link_pattern (a regular expression),
+    using the anchor text or title attribute as the headline. The same link
+    often appears several times on a page (image, headline, "read more"); the
+    longest headline wins.
+    """
+    text = html_bytes.decode("utf-8", errors="replace")
+    pattern = re.compile(link_pattern, re.IGNORECASE)
+    best: dict[str, str] = {}
+    for attrs, inner in _ANCHOR_RE.findall(text):
+        href_match = _HREF_RE.search(attrs)
+        if not href_match:
+            continue
+        href = html.unescape(href_match.group(1).strip())
+        if not pattern.search(href):
+            continue
+        link = urllib.parse.urljoin(base_url, href)
+        title = clean_text(inner)
+        if len(title) < 15:
+            attr = _TITLE_ATTR_RE.search(attrs)
+            title = clean_text(attr.group(1)) if attr else title
+        if len(title) < 15:
+            continue
+        if len(title) > len(best.get(link, "")):
+            best[link] = title
+    return [{"title": t, "link": l, "summary": None, "published": None, "author": None, "image": None}
+            for l, t in best.items()]
+
+
 def fetch_bytes(url: str) -> bytes:
     request = urllib.request.Request(
         url,
@@ -272,13 +308,19 @@ def fetch_source(source: dict, topics: dict, fetched_at: datetime) -> tuple[list
         "ok": False,
         "fetched": 0,
         "items": 0,
+        "sample_date": None,
         "error": None,
         "checked_at": fetched_at.isoformat(),
     }
     try:
-        raw = parse_feed(fetch_bytes(source["url"]))
+        payload = fetch_bytes(source["url"])
+        if source.get("type") == "html":
+            raw = parse_html_links(payload, source["url"], source.get("link_pattern", r"/prime/.*articleshow"))
+        else:
+            raw = parse_feed(payload)
         items = normalise_items(raw, source, topics, fetched_at)
-        status.update(ok=True, fetched=len(raw), items=len(items))
+        status.update(ok=True, fetched=len(raw), items=len(items),
+                      sample_date=next((r.get("published") for r in raw if r.get("published")), None))
         return items, status
     except urllib.error.HTTPError as exc:
         status["error"] = f"HTTP {exc.code}"

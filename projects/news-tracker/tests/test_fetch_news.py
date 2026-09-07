@@ -190,3 +190,32 @@ def test_sources_config_is_valid():
         assert dash["sources"], f"{key} has no sources"
         for src in dash["sources"]:
             assert src["name"] and src["url"].startswith("https://")
+
+
+HTML_SAMPLE = b"""<html><body>
+<a href="/prime/money-and-markets/why-banks-are-nervous/primearticleshow/1001.cms"><img src="x.jpg"></a>
+<a href="/prime/money-and-markets/why-banks-are-nervous/primearticleshow/1001.cms">Why banks are nervous about the new liquidity rules</a>
+<a href="https://economictimes.indiatimes.com/prime/consumer/fmcg-slowdown/primearticleshow/1002.cms" title="FMCG slowdown: what the numbers say">
+  <span>FMCG &amp; more</span></a>
+<a href="/markets/stocks/news/plain-story/articleshow/1003.cms">Not a Prime story</a>
+<a href="/prime/money-and-markets">Section link</a>
+</body></html>"""
+
+
+def test_parse_html_links_extracts_prime_articles():
+    items = fn.parse_html_links(HTML_SAMPLE, "https://economictimes.indiatimes.com/prime", r"/prime/.*articleshow")
+    links = {i["link"]: i["title"] for i in items}
+    assert links == {
+        "https://economictimes.indiatimes.com/prime/money-and-markets/why-banks-are-nervous/primearticleshow/1001.cms":
+            "Why banks are nervous about the new liquidity rules",
+        "https://economictimes.indiatimes.com/prime/consumer/fmcg-slowdown/primearticleshow/1002.cms":
+            "FMCG slowdown: what the numbers say",
+    }
+
+
+def test_html_source_items_get_fetch_time_as_published():
+    source = {"name": "ET Prime home", "category": "ET Prime", "type": "html"}
+    raw = fn.parse_html_links(HTML_SAMPLE, "https://economictimes.indiatimes.com/prime", r"/prime/.*articleshow")
+    items = fn.normalise_items(raw, source, TOPICS, NOW)
+    assert len(items) == 2
+    assert all(i["published"] == NOW.isoformat() for i in items)
