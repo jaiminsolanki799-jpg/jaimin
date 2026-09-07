@@ -11,6 +11,7 @@ run instructions.
 | [python-playground](projects/python-playground) | Python practice code with a tested calculator module | Python 3.9+ |
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
+| [news-tracker](projects/news-tracker) | ET Prime and website news dashboards, refreshed by GitHub Actions and served by GitHub Pages | HTML / CSS / JS + Python |
 
 ## Work folders
 
@@ -23,8 +24,22 @@ see [ca-work/README.md](ca-work/README.md) before putting anything there.
 
 ## Continuous integration
 
-Every push to `main` and every pull request runs the `python-playground` test
-suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci.yml).
+Every push to `main` and every pull request runs the `python-playground` and
+`news-tracker` test suites via GitHub Actions — see
+[.github/workflows/ci.yml](.github/workflows/ci.yml).
+
+A second workflow, [news-tracker.yml](.github/workflows/news-tracker.yml),
+refreshes the news dashboards' data every 30 minutes.
+
+## Public dashboards (GitHub Pages)
+
+Once GitHub Pages is enabled for this repository (see
+[projects/news-tracker/README.md](projects/news-tracker/README.md)), the
+dashboards are available at:
+
+- https://jaiminsolanki799-jpg.github.io/jaimin/projects/news-tracker/ — index
+- https://jaiminsolanki799-jpg.github.io/jaimin/projects/news-tracker/et-prime/ — ET Prime
+- https://jaiminsolanki799-jpg.github.io/jaimin/projects/news-tracker/website-news/ — Website news
 
 ## Layout
 
@@ -33,11 +48,15 @@ suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci
 ├── README.md
 ├── CLAUDE.md
 ├── .gitignore
-├── .github/workflows/ci.yml
+├── .nojekyll                    lets GitHub Pages serve files as-is
+├── .github/workflows/
+│   ├── ci.yml
+│   └── news-tracker.yml
 └── projects/
     ├── python-playground/
     ├── web-starter/
-    └── notes/
+    ├── notes/
+    └── news-tracker/
 ```
 
 ## Getting started
