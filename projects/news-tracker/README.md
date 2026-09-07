@@ -4,8 +4,13 @@ Two phone-friendly news dashboards, with the data stored in this repository:
 
 | Dashboard | What it tracks | Page |
 | --- | --- | --- |
-| **ET Prime** | Economic Times Prime stories, read from the ET Prime home page and its eleven section pages (money & markets, corporate governance, economy & policy, technology & startups, consumer, fintech & BFSI, pharma & healthcare, energy, infrastructure, transportation, media & communications) | `et-prime/` |
-| **Website news** | Moneycontrol, Mint, Business Standard, BusinessLine, Financial Express, Taxguru, RBI, SEBI, PIB, plus Google News searches for IBC, GST, income tax and MCA | `website-news/` |
+| **ET Prime & Mint** | Economic Times Prime stories, read from the ET Prime home page and its eleven section pages, plus Mint's companies, markets and money feeds | `et-prime/` |
+| **Websites** | A short list of news websites (starter set: Business Standard, Moneycontrol, BusinessLine, Financial Express, Taxguru). Replace them in `sources.json` with the sites you want | `website-news/` |
+
+Each dashboard has a publication bar at the top (the `group` of each
+source), a search box, a Filters drawer (time range, unread, saved, section,
+topic and source), and a list of stories that expand on tap. The first story
+opens as the front-page splash. A light/dark toggle sits in the dateline.
 
 Every story is tagged with CA-relevant topics (Insolvency / IBC, GST, Income
 tax, MCA / ROC, SEBI, RBI, Audit, Valuation, Budget) so you can filter to what

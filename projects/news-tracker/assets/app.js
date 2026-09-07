@@ -8,13 +8,14 @@
   var body = document.body;
   var FEED = body.getAttribute("data-feed");
   var KEY = body.getAttribute("data-key") || "news";
-  var PAGE_SIZE = 40;
+  var PAGE_SIZE = 25;
 
   var state = {
     data: null,
     items: [],
     query: "",
-    range: "all",         // "1" | "3" | "7" | "all" (days)
+    range: "3",           // "1" | "3" | "7" | "all" (days)
+    group: null,          // selected publication (source group)
     source: null,         // selected source name
     topic: null,          // selected topic name
     category: null,       // selected category (section)
@@ -22,6 +23,7 @@
     bookmarksOnly: false,
     shown: PAGE_SIZE,
     read: loadSet("read"),
+    expanded: new Set(),
     bookmarks: loadSet("bookmarks"),
     lastVisit: loadValue("lastVisit"),
   };
@@ -42,6 +44,15 @@
   }
 
   // ---------- formatting ----------
+  function highlight(text) {
+    var safe = esc(text);
+    if (!state.query) return safe;
+    var terms = state.query.split(/\s+/).filter(Boolean).map(function (t) {
+      return t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    });
+    if (!terms.length) return safe;
+    return safe.replace(new RegExp("(" + terms.join("|") + ")", "ig"), "<mark>$1</mark>");
+  }
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
@@ -75,6 +86,7 @@
   }
   function matches(item) {
     if (!withinRange(item)) return false;
+    if (state.group && (item.group || item.source) !== state.group) return false;
     if (state.source && item.source !== state.source) return false;
     if (state.topic && (item.topics || []).indexOf(state.topic) === -1) return false;
     if (state.category && item.category !== state.category) return false;
@@ -92,19 +104,14 @@
   }
 
   // ---------- rendering ----------
-  function renderTiles(all) {
-    var day = Date.now() - 86400000;
-    var last24 = all.filter(function (i) { return new Date(i.published).getTime() >= day; }).length;
-    var fresh = all.filter(isNew).length;
-    var unread = all.filter(function (i) { return !state.read.has(i.id); }).length;
-    var srcOk = (state.data.sources || []).filter(function (s) { return s.ok; }).length;
-    var srcAll = (state.data.sources || []).length;
-    $("t-total").textContent = all.length.toLocaleString("en-IN");
-    $("t-24h").textContent = last24.toLocaleString("en-IN");
-    $("t-new").textContent = fresh.toLocaleString("en-IN");
-    $("t-new-hint").textContent = state.lastVisit ? "since " + ago(state.lastVisit) : "first visit";
-    $("t-unread").textContent = unread.toLocaleString("en-IN");
-    $("t-unread-hint").textContent = srcOk + "/" + srcAll + " sources OK";
+  function summaryLine(filtered) {
+    var fresh = filtered.filter(isNew).length;
+    var unread = filtered.filter(function (i) { return !state.read.has(i.id); }).length;
+    var rangeLabel = { "1": "today", "3": "last 3 days", "7": "last 7 days", "all": "all kept" }[state.range];
+    var parts = [filtered.length + (filtered.length === 1 ? " story" : " stories") + " · " + rangeLabel];
+    if (fresh) parts.push(fresh + " new for you");
+    if (unread && unread !== filtered.length) parts.push(unread + " unread");
+    return parts.join(" · ");
   }
 
   function renderBars(all) {
@@ -129,9 +136,11 @@
   }
 
   function renderChips(all) {
-    var srcCounts = {}, topicCounts = {}, catCounts = {};
+    var srcCounts = {}, topicCounts = {}, catCounts = {}, groupCounts = {};
     all.forEach(function (i) {
       srcCounts[i.source] = (srcCounts[i.source] || 0) + 1;
+      var g = i.group || i.source;
+      groupCounts[g] = (groupCounts[g] || 0) + 1;
       if (i.category) catCounts[i.category] = (catCounts[i.category] || 0) + 1;
       (i.topics || []).forEach(function (t) { topicCounts[t] = (topicCounts[t] || 0) + 1; });
     });
@@ -144,6 +153,8 @@
       });
       return h;
     }
+    $("chips-group").innerHTML = chips(groupCounts, state.group, "group", "All");
+    $("chips-group").hidden = Object.keys(groupCounts).length < 2;
     $("chips-category").innerHTML = chips(catCounts, state.category, "category", "All sections");
     $("chips-category").hidden = Object.keys(catCounts).length < 2;
     $("chips-source").innerHTML = chips(srcCounts, state.source, "source");
@@ -156,30 +167,30 @@
     var tags = (item.topics || []).map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("");
     var section = item.category || null;
     var byline = section && item.source.indexOf(section) !== -1 ? null : (item.publisher || item.source);
-    return '<li class="story' + (read ? " read" : "") + (isNew(item) ? " new" : "") + '" data-id="' + esc(item.id) + '">' +
+    var open = state.expanded.has(item.id);
+    return '<li class="story' + (read ? " read" : "") + (isNew(item) ? " new" : "") + (open ? " open" : "") + '" data-id="' + esc(item.id) + '">' +
       '<div class="kicker">' +
       (section ? '<span class="sec">' + esc(section) + "</span><span>·</span>" : "") +
       (byline ? "<span>" + esc(byline) + "</span><span>·</span>" : "") +
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
       (isNew(item) ? '<span class="new">New</span>' : "") +
       "</div>" +
-      '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + esc(item.title) + "</a></h2>" +
-      (item.summary ? "<p>" + esc(item.summary) + "</p>" : "") +
+      '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + highlight(item.title) + "</a></h2>" +
+      '<div class="detail">' +
+      (item.summary ? "<p>" + highlight(item.summary) + "</p>" : "") +
       (tags ? '<div class="tags">' + tags + "</div>" : "") +
       '<div class="actions">' +
-      '<button data-act="read" aria-pressed="' + read + '">' + (read ? "✓ Read" : "Mark read") + "</button>" +
       '<button data-act="bookmark" aria-pressed="' + marked + '">' + (marked ? "★ Saved" : "☆ Save") + "</button>" +
       '<button data-act="share">Share</button>' +
       '<a class="open" href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">Read ↗</a>' +
-      "</div></li>";
+      "</div></div></li>";
   }
 
   function renderList() {
     var filtered = state.items.filter(matches);
     var slice = filtered.slice(0, state.shown);
-    $("count").textContent = filtered.length === state.items.length
-      ? filtered.length + " stories"
-      : filtered.length + " of " + state.items.length + " stories";
+    if (slice.length) state.expanded.add(slice[0].id);  // the lead story opens by default
+    $("count").textContent = summaryLine(filtered);
     if (!filtered.length) {
       $("list").innerHTML = '<li class="empty">Nothing matches. ' +
         (state.items.length ? "Try clearing a filter." : "The data file is empty — run the fetcher once (see README).") + "</li>";
@@ -198,11 +209,10 @@
         '</span><span class="n">' + (s.ok ? s.items + " kept / " + (s.fetched == null ? "?" : s.fetched) + " fetched" : "—") + "</span></li>";
     }).join("") || "<li>No source information yet.</li>";
     var failed = srcs.filter(function (s) { return !s.ok; }).length;
-    $("status-summary").textContent = "Source status (" + (srcs.length - failed) + " OK" + (failed ? ", " + failed + " failing" : "") + ")";
+    $("status-summary").textContent = "About this edition · " + (srcs.length - failed) + " of " + srcs.length + " sources OK";
   }
 
   function renderAll() {
-    renderTiles(state.items);
     renderBars(state.items);
     renderChips(state.items);
     renderList();
@@ -217,6 +227,7 @@
     $("search").addEventListener("input", function (e) {
       state.query = e.target.value.trim(); state.shown = PAGE_SIZE; renderList();
     });
+    $("range").value = state.range;
     $("range").addEventListener("change", function (e) {
       state.range = e.target.value; state.shown = PAGE_SIZE; renderList();
     });
@@ -230,9 +241,24 @@
     });
     $("mark-all").addEventListener("click", function () {
       state.items.filter(matches).forEach(function (i) { state.read.add(i.id); });
-      saveSet("read", state.read); renderTiles(state.items); renderList();
+      saveSet("read", state.read); renderList();
     });
     $("refresh").addEventListener("click", function () { load(true); });
+    if ($("theme")) {
+      var saved = loadValue("theme");
+      if (saved) document.documentElement.setAttribute("data-theme", saved);
+      $("theme").addEventListener("click", function () {
+        var dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        var current = document.documentElement.getAttribute("data-theme") || (dark ? "dark" : "light");
+        var next = current === "dark" ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        saveValue("theme", next);
+      });
+    }
+    if ($("top")) {
+      window.addEventListener("scroll", function () { $("top").hidden = window.scrollY < 600; }, { passive: true });
+      $("top").addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+    }
     $("more").addEventListener("click", function () { state.shown += PAGE_SIZE; renderList(); });
 
     document.addEventListener("click", function (e) {
@@ -244,7 +270,15 @@
         return;
       }
       var act = e.target.closest("[data-act]");
-      if (!act) return;
+      if (!act) {
+        var card = e.target.closest(".story");
+        if (card && !e.target.closest("a, button, mark")) {
+          var cid = card.getAttribute("data-id");
+          if (state.expanded.has(cid)) state.expanded.delete(cid); else state.expanded.add(cid);
+          card.classList.toggle("open", state.expanded.has(cid));
+        }
+        return;
+      }
       var li = act.closest(".story");
       var id = li && li.getAttribute("data-id");
       var item = state.items.find(function (i) { return i.id === id; });
@@ -256,7 +290,7 @@
       }
       if (action === "read") {
         if (state.read.has(id)) state.read.delete(id); else state.read.add(id);
-        saveSet("read", state.read); renderTiles(state.items); renderList();
+        saveSet("read", state.read); renderList();
       } else if (action === "bookmark") {
         if (state.bookmarks.has(id)) state.bookmarks.delete(id); else state.bookmarks.add(id);
         saveSet("bookmarks", state.bookmarks); renderList();

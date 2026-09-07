@@ -1,7 +1,7 @@
 {
   "_comment": "Edit this file to add or remove feeds. Each dashboard has a list of sources. type is 'rss' (RSS 2.0 or Atom) or 'html' (an ordinary web page; every link whose address matches link_pattern is taken as a story, dated when first seen). 'prime_only': true keeps only items whose link contains /prime/. Sites that block automated readers (HTTP 403) are read through Google News search feeds instead: https://news.google.com/rss/search?q=site:example.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-  "retention_days": 14,
-  "max_items": 1000,
+  "retention_days": 10,
+  "max_items": 600,
   "topics": {
     "Insolvency / IBC": [
       "insolvency",
@@ -92,10 +92,11 @@
   },
   "dashboards": {
     "et-prime": {
-      "title": "ET Prime",
+      "title": "ET Prime & Mint",
       "sources": [
         {
           "name": "ET Prime home",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime",
@@ -104,6 +105,7 @@
         },
         {
           "name": "ET Prime: Money & markets",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
@@ -112,6 +114,7 @@
         },
         {
           "name": "ET Prime: Corporate governance",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
@@ -120,6 +123,7 @@
         },
         {
           "name": "ET Prime: Economy & policy",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
@@ -128,6 +132,7 @@
         },
         {
           "name": "ET Prime: Technology & startups",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
@@ -136,6 +141,7 @@
         },
         {
           "name": "ET Prime: Consumer",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/consumer",
@@ -144,6 +150,7 @@
         },
         {
           "name": "ET Prime: Fintech & BFSI",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
@@ -152,6 +159,7 @@
         },
         {
           "name": "ET Prime: Pharma & healthcare",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
@@ -160,6 +168,7 @@
         },
         {
           "name": "ET Prime: Energy",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/energy",
@@ -168,6 +177,7 @@
         },
         {
           "name": "ET Prime: Infrastructure",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/infrastructure",
@@ -176,6 +186,7 @@
         },
         {
           "name": "ET Prime: Transportation",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/transportation",
@@ -184,6 +195,7 @@
         },
         {
           "name": "ET Prime: Media & communications",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
@@ -192,9 +204,31 @@
         },
         {
           "name": "ET Prime (Google News, 7 days)",
+          "group": "ET Prime",
           "category": "ET Prime",
           "type": "rss",
           "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+        },
+        {
+          "name": "Mint Companies",
+          "group": "Mint",
+          "category": "Companies",
+          "type": "rss",
+          "url": "https://www.livemint.com/rss/companies"
+        },
+        {
+          "name": "Mint Markets",
+          "group": "Mint",
+          "category": "Markets",
+          "type": "rss",
+          "url": "https://www.livemint.com/rss/markets"
+        },
+        {
+          "name": "Mint Money",
+          "group": "Mint",
+          "category": "Money",
+          "type": "rss",
+          "url": "https://www.livemint.com/rss/money"
         }
       ],
       "stale_id": {
@@ -204,99 +238,45 @@
       }
     },
     "website-news": {
-      "title": "Website news",
+      "title": "Websites",
       "sources": [
         {
-          "name": "Moneycontrol (via Google News)",
-          "category": "Business",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:moneycontrol.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "Livemint Companies",
-          "category": "Business",
-          "type": "rss",
-          "url": "https://www.livemint.com/rss/companies"
-        },
-        {
-          "name": "Livemint Markets",
-          "category": "Markets",
-          "type": "rss",
-          "url": "https://www.livemint.com/rss/markets"
-        },
-        {
-          "name": "Livemint Money",
-          "category": "Personal finance",
-          "type": "rss",
-          "url": "https://www.livemint.com/rss/money"
-        },
-        {
-          "name": "Business Standard (via Google News)",
+          "name": "Business Standard",
+          "group": "Business Standard",
           "category": "Business",
           "type": "rss",
           "url": "https://news.google.com/rss/search?q=site:business-standard.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
         },
         {
-          "name": "Financial Express (via Google News)",
+          "name": "Moneycontrol",
+          "group": "Moneycontrol",
           "category": "Business",
           "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:financialexpress.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://news.google.com/rss/search?q=site:moneycontrol.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
         },
         {
           "name": "BusinessLine",
+          "group": "BusinessLine",
           "category": "Business",
           "type": "rss",
           "url": "https://www.thehindubusinessline.com/feeder/default.rss"
         },
         {
+          "name": "Financial Express",
+          "group": "Financial Express",
+          "category": "Business",
+          "type": "rss",
+          "url": "https://news.google.com/rss/search?q=site:financialexpress.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+        },
+        {
           "name": "Taxguru",
+          "group": "Taxguru",
           "category": "Tax & compliance",
           "type": "rss",
           "url": "https://taxguru.in/feed/"
-        },
-        {
-          "name": "RBI press releases",
-          "category": "Regulator",
-          "type": "rss",
-          "url": "https://www.rbi.org.in/pressreleases_rss.xml"
-        },
-        {
-          "name": "SEBI",
-          "category": "Regulator",
-          "type": "rss",
-          "url": "https://www.sebi.gov.in/sebirss.xml"
-        },
-        {
-          "name": "PIB Finance Ministry (via Google News)",
-          "category": "Government",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:pib.gov.in+(finance+OR+tax+OR+GST+OR+corporate)+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "Google News: Insolvency / IBC",
-          "category": "Insolvency",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=(IBBI+OR+NCLT+OR+\"insolvency\"+OR+\"resolution+plan\")+India&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "Google News: GST",
-          "category": "Tax & compliance",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=GST+India&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "Google News: Income tax",
-          "category": "Tax & compliance",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=\"income+tax\"+OR+CBDT+India&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "Google News: MCA / ROC",
-          "category": "Compliance",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=\"Ministry+of+Corporate+Affairs\"+OR+\"Companies+Act\"+OR+ICAI&hl=en-IN&gl=IN&ceid=IN:en"
         }
-      ]
+      ],
+      "_comment": "Starter list. Replace these with the websites you want tracked; each entry needs a name, a group (shown in the top bar), a category, and a url."
     }
   }
 }
