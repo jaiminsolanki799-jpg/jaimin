@@ -17,6 +17,7 @@
     range: "all",         // "1" | "3" | "7" | "all" (days)
     source: null,         // selected source name
     topic: null,          // selected topic name
+    category: null,       // selected category (section)
     unreadOnly: false,
     bookmarksOnly: false,
     shown: PAGE_SIZE,
@@ -76,6 +77,7 @@
     if (!withinRange(item)) return false;
     if (state.source && item.source !== state.source) return false;
     if (state.topic && (item.topics || []).indexOf(state.topic) === -1) return false;
+    if (state.category && item.category !== state.category) return false;
     if (state.unreadOnly && state.read.has(item.id)) return false;
     if (state.bookmarksOnly && !state.bookmarks.has(item.id)) return false;
     if (state.query) {
@@ -127,9 +129,10 @@
   }
 
   function renderChips(all) {
-    var srcCounts = {}, topicCounts = {};
+    var srcCounts = {}, topicCounts = {}, catCounts = {};
     all.forEach(function (i) {
       srcCounts[i.source] = (srcCounts[i.source] || 0) + 1;
+      if (i.category) catCounts[i.category] = (catCounts[i.category] || 0) + 1;
       (i.topics || []).forEach(function (t) { topicCounts[t] = (topicCounts[t] || 0) + 1; });
     });
     function chips(counts, selected, kind) {
@@ -141,6 +144,8 @@
       });
       return h;
     }
+    $("chips-category").innerHTML = chips(catCounts, state.category, "category");
+    $("chips-category").hidden = Object.keys(catCounts).length < 2;
     $("chips-source").innerHTML = chips(srcCounts, state.source, "source");
     $("chips-topic").innerHTML = chips(topicCounts, state.topic, "topic");
   }
@@ -153,7 +158,7 @@
       '<div class="meta"><span class="src">' + esc(item.source) + "</span><span>·</span>" +
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
       (item.publisher ? "<span>·</span><span>" + esc(item.publisher) + "</span>" : "") +
-      (item.category ? "<span>·</span><span>" + esc(item.category) + "</span>" : "") +
+      (item.category && item.category !== item.source ? "<span>·</span><span>" + esc(item.category) + "</span>" : "") +
       (isNew(item) ? '<span>·</span><span style="color:var(--accent);font-weight:600">new</span>' : "") +
       "</div>" +
       '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + esc(item.title) + "</a></h2>" +

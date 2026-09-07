@@ -219,3 +219,36 @@ def test_html_source_items_get_fetch_time_as_published():
     items = fn.normalise_items(raw, source, TOPICS, NOW)
     assert len(items) == 2
     assert all(i["published"] == NOW.isoformat() for i in items)
+
+
+def test_parse_date_handles_sebi_style():
+    assert fn.parse_date("04 Sep, 2026 +0530") == datetime(2026, 9, 3, 18, 30, tzinfo=timezone.utc)
+    assert fn.parse_date("04 Sep, 2026") == datetime(2026, 9, 3, 18, 30, tzinfo=timezone.utc)
+
+
+def test_category_from_path():
+    assert fn.category_from_path("https://economictimes.indiatimes.com/prime/money-and-markets/x/primearticleshow/1.cms") == "Money and markets"
+    assert fn.category_from_path("https://economictimes.indiatimes.com/prime/fintech-and-bfsi/x/primearticleshow/1.cms") == "Fintech and BFSI"
+    assert fn.category_from_path("https://economictimes.indiatimes.com/markets/x/articleshow/1.cms") is None
+
+
+def test_drop_stale_by_id():
+    items = [{"id": "a", "link": "https://x/primearticleshow/133841363.cms"},
+             {"id": "b", "link": "https://x/primearticleshow/133000000.cms"},
+             {"id": "c", "link": "https://x/primearticleshow/98102486.cms"},
+             {"id": "d", "link": "https://x/no-id"}]
+    kept = fn.drop_stale_by_id(items, r"articleshow/(\d+)", 1500000)
+    assert [i["id"] for i in kept] == ["a", "b", "d"]
+
+
+def test_merge_keeps_old_date_when_fresh_date_unknown():
+    old = {"id": "a", "title": "T", "published": (NOW - timedelta(days=2)).isoformat(),
+           "first_seen": (NOW - timedelta(days=2)).isoformat(), "date_known": False}
+    fresh = {"id": "a", "title": "T", "published": NOW.isoformat(),
+             "first_seen": NOW.isoformat(), "date_known": False}
+    merged = fn.merge_items([old], [fresh], NOW, retention_days=14, max_items=100)
+    assert merged[0]["published"] == old["published"]
+    # but a real date from the feed does replace the placeholder
+    fresh["date_known"] = True
+    merged = fn.merge_items([old], [fresh], NOW, retention_days=14, max_items=100)
+    assert merged[0]["published"] == NOW.isoformat()

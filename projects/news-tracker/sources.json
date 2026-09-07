@@ -99,127 +99,118 @@
           "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Money & markets",
-          "category": "Money & markets",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Corporate governance",
-          "category": "Corporate governance",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Economy & policy",
-          "category": "Economy & policy",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Technology & startups",
-          "category": "Technology & startups",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Consumer",
-          "category": "Consumer",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/consumer",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Fintech & BFSI",
-          "category": "Fintech & BFSI",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Pharma & healthcare",
-          "category": "Pharma & healthcare",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Energy",
-          "category": "Energy",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/energy",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Infrastructure",
-          "category": "Infrastructure",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/infrastructure",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Transportation",
-          "category": "Transportation",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/transportation",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime: Media & communications",
-          "category": "Media & communications",
+          "category": "ET Prime",
           "type": "html",
           "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
-          "link_pattern": "/prime/.*articleshow"
+          "link_pattern": "/prime/.*articleshow",
+          "category_from_path": true
         },
         {
           "name": "ET Prime (Google News, 7 days)",
           "category": "ET Prime",
           "type": "rss",
           "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
-          "name": "ET Prime (Bing News)",
-          "category": "ET Prime",
-          "type": "rss",
-          "url": "https://www.bing.com/news/search?q=site%3Aeconomictimes.indiatimes.com%2Fprime&format=rss"
-        },
-        {
-          "name": "ET Top Stories (Prime links)",
-          "category": "ET Prime",
-          "type": "rss",
-          "prime_only": true,
-          "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
-        },
-        {
-          "name": "ET Markets (Prime links)",
-          "category": "Money & markets",
-          "type": "rss",
-          "prime_only": true,
-          "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"
         }
-      ]
+      ],
+      "stale_id": {
+        "pattern": "articleshow/(\\d+)",
+        "window": 1500000,
+        "_comment": "ET article ids grow by roughly 800,000 a month; links more than ~1.5 million below the newest id seen are old evergreen pieces, not news."
+      }
     },
     "website-news": {
       "title": "Website news",
       "sources": [
         {
-          "name": "Moneycontrol",
+          "name": "Moneycontrol (via Google News)",
           "category": "Business",
           "type": "rss",
-          "url": "https://www.moneycontrol.com/rss/business.xml"
-        },
-        {
-          "name": "Moneycontrol Economy",
-          "category": "Economy",
-          "type": "rss",
-          "url": "https://www.moneycontrol.com/rss/economy.xml"
+          "url": "https://news.google.com/rss/search?q=site:moneycontrol.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
         },
         {
           "name": "Livemint Companies",

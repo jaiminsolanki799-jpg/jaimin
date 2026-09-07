@@ -110,6 +110,16 @@ def parse_date(value: str | None) -> datetime | None:
         try:
             dt = datetime.fromisoformat(iso)
         except ValueError:
+            dt = None
+    if dt is None:
+        plain = value.replace(",", "")
+        for fmt in ("%d %b %Y %z", "%d %b %Y", "%d %B %Y %z", "%d %B %Y", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+            try:
+                dt = datetime.strptime(plain, fmt)
+                break
+            except ValueError:
+                continue
+        if dt is None:
             return None
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=NAIVE_TZ)
@@ -126,6 +136,40 @@ def split_publisher(title: str) -> tuple[str, str | None]:
     if sep and head.strip() and len(tail.strip()) <= 60:
         return head.strip(), tail.strip()
     return title, None
+
+
+def category_from_path(link: str, prefix: str = "/prime/") -> str | None:
+    """'/prime/money-and-markets/...' -> 'Money and markets'."""
+    path = urllib.parse.urlsplit(link).path
+    if prefix not in path:
+        return None
+    rest = path.split(prefix, 1)[1]
+    slug = rest.split("/", 1)[0]
+    if not slug or slug.endswith(".cms"):
+        return None
+    words = slug.replace("-", " ").split()
+    acronyms = {"bfsi": "BFSI", "ai": "AI", "it": "IT", "ipo": "IPO"}
+    pretty = [acronyms.get(w, w) for w in words]
+    pretty[0] = pretty[0] if pretty[0] in acronyms.values() else pretty[0].capitalize()
+    return " ".join(pretty)
+
+
+def drop_stale_by_id(items: list[dict], pattern: str, window: int) -> list[dict]:
+    """Drop items whose numeric article id is far below the newest id seen.
+
+    Publishers' article ids grow over time, so on a page with no dates this
+    is the cheapest way to skip evergreen links from years ago.
+    """
+    regex = re.compile(pattern)
+    ids = {}
+    for item in items:
+        m = regex.search(item["link"])
+        if m:
+            ids[item["id"]] = int(m.group(1))
+    if not ids:
+        return items
+    newest = max(ids.values())
+    return [i for i in items if i["id"] not in ids or ids[i["id"]] >= newest - window]
 
 
 def tag_topics(text: str, topics: dict[str, list[str]]) -> list[str]:
@@ -279,9 +323,13 @@ def normalise_items(raw_items: list[dict], source: dict, topics: dict, fetched_a
             summary = ""
             if title.lower() in {"the economic times", "economic times", publisher and publisher.lower()}:
                 continue  # a section page, not a story
-        published = parse_date(raw.get("published")) or fetched_at
-        if published > fetched_at + timedelta(minutes=10):
-            published = fetched_at  # clock skew in the feed; never sort into the future
+        published = parse_date(raw.get("published"))
+        date_known = published is not None
+        if published is None or published > fetched_at + timedelta(minutes=10):
+            published = fetched_at  # unknown or in the future: date it when first seen
+        category = source.get("category", "General")
+        if source.get("category_from_path"):
+            category = category_from_path(link) or category
         out.append({
             "id": item_id(link, title),
             "title": title,
@@ -289,7 +337,8 @@ def normalise_items(raw_items: list[dict], source: dict, topics: dict, fetched_a
             "summary": summary,
             "published": published.isoformat(),
             "source": source["name"],
-            "category": source.get("category", "General"),
+            "category": category,
+            "date_known": date_known,
             "author": clean_text(raw.get("author")) or None,
             "publisher": publisher,
             "image": raw.get("image"),
@@ -344,9 +393,14 @@ def merge_items(existing: list[dict], fresh: list[dict], now: datetime,
     for item in fresh:
         old = by_id.get(item["id"])
         if old:
-            # Keep the first-seen timestamp and any read/bookmark-free fields,
-            # but refresh title/summary in case the publisher edited them.
-            item = {**old, **item, "first_seen": old.get("first_seen", item["first_seen"])}
+            # Keep the first-seen timestamp, but refresh title/summary in case
+            # the publisher edited them. An item with no real date keeps the
+            # date it was first seen, otherwise it would float to the top on
+            # every run.
+            merged = {**old, **item, "first_seen": old.get("first_seen", item["first_seen"])}
+            if not item.get("date_known") and old.get("published"):
+                merged["published"] = old["published"]
+            item = merged
         by_id[item["id"]] = item
 
     cutoff = now - timedelta(days=retention_days)
@@ -385,6 +439,13 @@ def build_dashboard(key: str, config: dict, sources_cfg: dict, now: datetime,
     for items, status in results:
         fresh.extend(items)
         statuses.append(status)
+
+    stale_rule = config.get("stale_id")
+    if stale_rule:
+        before = len(fresh)
+        fresh = drop_stale_by_id(fresh, stale_rule["pattern"], int(stale_rule["window"]))
+        if len(fresh) != before:
+            print(f"[{key}] dropped {before - len(fresh)} old evergreen links by article id")
 
     merged = merge_items(existing.get("items", []), fresh, now, retention_days, max_items)
     new_ids = {i["id"] for i in fresh} - {i["id"] for i in existing.get("items", [])}
