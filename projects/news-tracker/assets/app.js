@@ -158,7 +158,7 @@
       '<div class="meta"><span class="src">' + esc(item.source) + "</span><span>·</span>" +
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
       (item.publisher ? "<span>·</span><span>" + esc(item.publisher) + "</span>" : "") +
-      (item.category && item.category !== item.source ? "<span>·</span><span>" + esc(item.category) + "</span>" : "") +
+      (item.category && item.source.indexOf(item.category) === -1 ? "<span>·</span><span>" + esc(item.category) + "</span>" : "") +
       (isNew(item) ? '<span>·</span><span style="color:var(--accent);font-weight:600">new</span>' : "") +
       "</div>" +
       '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + esc(item.title) + "</a></h2>" +
