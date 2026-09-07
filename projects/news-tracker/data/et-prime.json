@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-07T10:12:28+00:00",
+ "generated_at": "2026-09-07T10:18:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 05 Sep 2026 08:32:00 GMT",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 07 Sep 2026 15:28:32 +0530",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 07 Sep 2026 15:31:56 +0530",
+   "sample_date": "Mon, 07 Sep 2026 15:44:19 +0530",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 07 Sep 2026 15:13:01 +0530",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "462de8ce3dcbc972",
+   "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan Index, Nikkei cues to watch",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tuesday-kospi-taiwan-index-nikkei-cues-to-watch-11788773810533.html",
+   "summary": "Indian stock markets fell on September 7, driven by rising crude oil prices and strong US job growth, affecting investor sentiment. Nifty 50 dropped 0.57%, and Sensex fell 0.5%. Technology stocks led losses, while pharmaceutical stocks gained slightly amid mixed broader market performance.",
+   "published": "2026-09-07T10:14:19+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/Bull_and_bear_1788775977448_94fe5be3-0057-4ea6-80d5-068e517799ea_1788775988106_f657424a-3dc5-4c84-9c88-19ad587a96ea_a1a2d340-9c19-4343-afce-36b2fa1cb1f9_d6ca8b26-5a19-4680-8c72-9d4fda49dbdd.png",
+   "topics": [],
+   "first_seen": "2026-09-07T10:18:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ea17c31d6e9023f1",
    "title": "Penny stock under 10 rupees Nandan Denim jumps 9% despite stock market sell-off",
@@ -208,7 +226,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/nandan_denim_1788775270129_b8029f48-c3b6-4ca3-9597-6d59be7080e3_1788775277907_59765add-62d1-48bd-bfe7-213e369a4d87_030771c5-f60a-4f6a-ae62-41823ee05de7_dd7d9fb8-6006-4400-80f7-e64f4548bac3.png",
    "topics": [],
-   "first_seen": "2026-09-07T10:07:05+00:00"
+   "first_seen": "2026-09-07T10:07:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "ddd4a67d9a7c7efa",
@@ -224,7 +244,11 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/herspace_1788774793693_fcc5eeb5-0053-42b3-9c6a-67915f54dc9a_1788774799737_d294e3a8-e698-4259-aa08-69297c135897_45f5002d-856d-4b7e-83b6-ffb7e7898dd6_148c71ca-d9fd-4f88-985e-ceeb18af7c51.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T10:07:05+00:00"
+   "first_seen": "2026-09-07T10:07:05+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "b1cfa7f31c103e9a",
@@ -240,7 +264,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Larsen---Toubro-is-an-Indian-multinational-engaged_1680680936489_1788774243368_da54ebff-e9bf-447b-a851-c7a18e2434a9_6768558d-26fb-4354-bfeb-df85e9a07f6d_ee5ff146-1465-4c34-8de2-c7065d24f25e.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:07:05+00:00"
+   "first_seen": "2026-09-07T10:07:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "705244a4d527044d",
@@ -256,7 +282,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/MixCollage-07-Sep-2026-02-51-PM-8283_1788772904036_abdf5ac1-b282-42fe-959c-1849f42181cb_1788772915015_c44f9b7a-e46e-473d-ac9c-d79e80c502ee_fc8dd3c3-8b8c-4aca-9ee6-595e5dbd8742_1d700a8b-7bad-4e77-af0f-9c3b86168afb.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:07:05+00:00"
+   "first_seen": "2026-09-07T10:07:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9daaa9620ec72b19",
@@ -272,7 +300,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generated_Image_w969gw96r9gw96r_17887739_1788773934039_9d43e92d-c426-4ddf-9f6f-26c91885f16b_1788773934732_ed931f63-b3f6-4ba1-a7ee-42ceffe02935_40704a0e-b478-478a-b0a6-90053c03dfb7_43bb9607-7743-49be-8f6a-be853db0d33c.png",
    "topics": [],
-   "first_seen": "2026-09-07T10:07:05+00:00"
+   "first_seen": "2026-09-07T10:07:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "21017900ba6fbd45",
@@ -288,7 +318,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b89a71faba1ed0b7",
@@ -304,7 +336,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e0e8f1151fe2f897",
@@ -320,7 +354,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "926133bf50a675d5",
@@ -338,7 +374,9 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e2f69221f51e76b2",
@@ -354,7 +392,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "99721a6845542f40",
@@ -370,7 +410,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "6d3e32cafc4782c8",
@@ -386,7 +428,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "19d44029fdcebdf7",
@@ -402,7 +446,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "2ea6a257c63547cd",
@@ -418,7 +464,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "fb677a19f7e7b540",
@@ -434,7 +482,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "bf8d958ca225a30b",
@@ -450,7 +500,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "2ba3d49987a48cd7",
@@ -468,7 +520,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "205b40bc0959cece",
@@ -486,7 +542,11 @@
    "topics": [
     "Insolvency / IBC"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
   },
   {
    "id": "8f19d99c218b4003",
@@ -504,7 +564,11 @@
    "topics": [
     "Insolvency / IBC"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
   },
   {
    "id": "1551bac1d219b430",
@@ -522,7 +586,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
   },
   {
    "id": "c02821b90eb43734",
@@ -540,7 +608,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "1e59131d944f0954",
@@ -558,7 +630,12 @@
    "topics": [
     "Insolvency / IBC"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Distress",
+    "Rules"
+   ]
   },
   {
    "id": "b536a74c188c46a8",
@@ -574,7 +651,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "81c36138590a0112",
@@ -590,7 +669,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "0e9f1d8e441b37bc",
@@ -606,7 +687,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "0fd61b845d830e6d",
@@ -622,7 +705,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4aec2fdbda5b70e0",
@@ -638,7 +723,11 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "a3a19757c983263f",
@@ -654,7 +743,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f9900d5057b1be2b",
@@ -670,7 +761,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "c4051c1729e2022a",
@@ -686,7 +779,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "7b64dbbdcdb6ae5c",
@@ -702,7 +797,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "72b7867d6f2a6443",
@@ -718,7 +815,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "cd872212097af951",
@@ -734,7 +833,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "c0cd4473983dcad7",
@@ -750,7 +851,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b7f7fb2d6b89de15",
@@ -766,7 +869,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "654e632e27c8485a",
@@ -782,7 +887,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "436d18d07cb8c66f",
@@ -798,7 +905,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f3770a88be10aaaa",
@@ -814,7 +923,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "82adc59296581a0e",
@@ -830,7 +941,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "40dc83049469e0e6",
@@ -846,7 +959,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "590bf7bdf6bc9d17",
@@ -862,7 +977,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "de91d8fc9a0a502d",
@@ -878,7 +995,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9b6a5e7bd4bc66ae",
@@ -894,7 +1013,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Suprakash_Mukhopadhyay_Tata_Sons_1788773007720_20377cb5-9b51-4613-afa1-205e78257b61_1788773007908_7739ce8d-3e2d-4359-a31d-803153468be1_e389b25c-c8c6-4a70-ad35-dd4971f7e340_7246f7e9-d80b-403f-ad93-c3a200db034e.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:07:05+00:00"
+   "first_seen": "2026-09-07T10:07:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "471d445b51ac2c43",
@@ -912,7 +1033,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "9e92684f6a356d01",
@@ -928,7 +1053,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/8th_pay_1788765017309_6094a82e-d2b0-47a5-a6e8-f566e6dff90a_1788765017472_e00c57b8-d9b2-4dba-baaf-ab07a24a3a74_2e2f02c0-3d79-4cba-b887-56fbda580110_96bae8dd-0ffc-440c-b6bf-c26750bc7c67.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b51df739ba54906e",
@@ -944,7 +1071,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generated_mage_tom6y8tom6y8tom6_1788772_1788772515230_abe49252-277a-49ce-a5f8-f10b4c0c29b5_1788772515382_477df8b2-21ca-4bd8-8f37-2a95b0e4c5a1_47d04238-9bba-4725-8da7-95eecc17e7b7_11ebfa0f-7dfb-4374-af48-446937c58188.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "07759dd3682e5df9",
@@ -962,7 +1091,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "21a2b718a1bbe8d8",
@@ -978,7 +1111,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/mohamed_hassan-question-g16b40b924_1280_1788767045_1788767052785_475c1c95-58e7-4a8f-990e-8de820673db6_1788767053101_49a3fcc7-f09a-4835-aef9-c3049c609462_59d8d987-69f7-4d55-9fd5-89c8671c0a39_09b080df-3136-409c-a601-055ae67224cb.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "95282cf71a8c33ca",
@@ -994,7 +1129,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/ITC_shares_1788768389693_d7462b54-7120-40df-a766-84cb4d285255_1788768395154_6db81e67-b0c8-410b-8968-172604e84357_b80db39e-871f-4462-b215-a78cb249c210_1cdf4801-68e1-459d-9f21-8ae567968eb2.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e5c81365266af722",
@@ -1010,7 +1147,12 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Ravi_Ramachandran_1788768548077_2a03c29b-955a-40fc-be23-728216944512_1788768572382_422264ad-2a28-4b06-a73f-0fb50024ce31_acc09157-dd25-4249-876a-209a60cc5c52_16dcd7e0-b53a-4a55-be09-2d615f9d6e5a.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
   },
   {
    "id": "a72fd6fbb58f279d",
@@ -1026,7 +1168,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Hindustan_Unilever_1689875893643_1788769515854_2c8c9937-14b1-4429-b9ce-c39175672937_beb302c9-a4ef-46ca-9450-fe89c37e2693_5bcac3c1-6004-414a-b631-524b7908170d.JPG",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "7fdacabc5db591ac",
@@ -1044,7 +1188,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "bd7812742e041a79",
@@ -1062,7 +1210,9 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "1ba6fb7707ad26ef",
@@ -1078,7 +1228,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Himadri_1788764695848_12306240-0bea-4fd5-802e-a0b6b2bd7efe_1788764701136_3299d127-d309-418d-ba33-74b24fc6e1bb_9180bfd3-450f-4a2e-93d3-25a14c3bb455_87fff914-7eea-42e2-be0d-0d9ae73d6343.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8580ed4d5340644b",
@@ -1094,7 +1246,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generated_Image_zhni8zhniq8zhni_1788767057_1788767070065_7e7847a1-e3e1-44e6-b5b7-8febb4013446_1788767070225_7caa0ef9-3601-4b84-8898-7cb60014561f_7e54e441-5937-4d42-8153-eb4720981c6d_586d9ce1-a982-4cf0-868a-954616fcdbb8.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f3949fdf38a122fa",
@@ -1112,7 +1266,9 @@
    "topics": [
     "GST"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9d2da46f1e1b6e34",
@@ -1130,7 +1286,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "2616406ca10253e1",
@@ -1148,7 +1308,9 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "411b4c84f9f493b2",
@@ -1164,7 +1326,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Saumen_Bhaumik_MD_CaratLane_1748322588827_1788765287198_4d8e1570-f4a4-47bb-8442-8817fe5bc1d3_4955172e-87c8-44dc-9631-c7aff831194d_1a1bcc20-3997-4019-acb6-c3f19f1a950f.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e556b2636fa71dd9",
@@ -1180,7 +1344,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/pexels-photo-4833632_1788765201677_b9a48f5c-e134-4b3d-aa57-f2479e98172a_1788765239387_350b6e0c-4e74-4ecc-ae10-236633092a56_aa67a4d3-e296-4b45-ad1d-ca4951a7da7f_daa97dae-68cf-4b79-b554-adb3ee6ff05b.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "16dc54cf4c965e35",
@@ -1196,7 +1362,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/download_1788764669113_49bb7023-6ad0-4b02-970e-1853b792407f_1788764673909_1ad830cf-14f0-4272-a3a0-1fb48ed79715_97ba6cec-ccef-4104-89f3-df23f420098f_36507f03-7fb5-4474-a25b-c8674a2c7d7d.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "c62cc77bcecba0ea",
@@ -1212,7 +1380,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/exec_1788764597690_83d9e4b4-2e27-4819-9e00-131f27d5aeed_1788764597878_8cf4f60d-7faf-4bcd-a91d-83e321908f2e_67eed1fc-090f-4e8b-b5b2-39b4d314f67b_2cbb710a-9319-4853-8eee-5eccc4c94a47.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "63b798d6d05504cd",
@@ -1228,7 +1398,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/INDIA-HDFC-BANK-18_1788449805473_162ac454-93b3-470_1788763614111_8d9b3506-08b3-4fa6-bb2e-423f5d1fd5f2_1788763614287_37ed3753-0e1a-421b-be76-2ef5f428be8a_28da8778-b174-48f8-b9c1-9e4eeb4ab068_a1c0edb3-73a5-4531-9e86-b9d8077d515a.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "1aeca93d3a639a64",
@@ -1244,7 +1416,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/retirement_3_1694766641063_1788761873895_cd486a47-0563-42f2-91db-0b909973046f_aec9b4ac-6b72-4e14-9997-be4f8840e845_81fc95df-180f-4b7c-bb6c-518e8431898a.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "dd95ab949ad6a6c0",
@@ -1260,7 +1434,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/JP_1788763704188_79025ab5-9923-45fc-8463-21e85876413e_1788763704334_8e326d7c-50a2-455a-b583-6172d9e5b35c_6dea4220-c654-46aa-bc7f-f21fccd1ce9d_d99957f0-f246-4017-9874-02bc82ba6c8b.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8771811a4e03cd76",
@@ -1278,7 +1454,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "469e73ac4bfcd5a5",
@@ -1296,7 +1476,9 @@
    "topics": [
     "Income tax"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "23f1fcd3caee8f38",
@@ -1314,7 +1496,9 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a10a4e62fa8d3597",
@@ -1332,7 +1516,9 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "99e02ec37c237cd5",
@@ -1350,7 +1536,9 @@
    "topics": [
     "Income tax"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f0010e09be15f769",
@@ -1366,7 +1554,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/RERA_picc_1788754969666_49b5e647-2ed0-409d-aa14-6de61750e4b6_1788754974243_5ce62628-ee27-4ebf-8b4f-59ee1d3f0cea_2fc5f95a-46e3-481f-9591-e18b40c26904_855f3275-31b6-4a65-a436-ee456c9ec701.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "65694f540ebfa55e",
@@ -1382,7 +1572,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/PC_Jeweller_share_price_1788757027142_d9460bd7-af30-4da8-9afe-0f931599a22f_1788757032309_acf91879-42bd-492a-9cbe-df04403eb785_85781c5b-be8e-4024-a27f-aec650690ec3_39e40d19-c3cb-406f-aa8a-abd762a1b38e.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9d9745f641b083ee",
@@ -1400,7 +1592,9 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5ca2b7893d82007b",
@@ -1416,7 +1610,11 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Blue_Tokai_Coffee_Roasters_Swiggy_Snacc_delivery_1736732615024_1788750089162_327c47da-d1c3-4b20-a300-fe6d123f470d_564c5386-a4ae-461e-a212-c4d9a3be363b_dd65ccdd-ecb2-4e82-972c-342ffa394b86.JPG",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
   },
   {
    "id": "e0a2a185b70201be",
@@ -1432,7 +1630,12 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generated_Image_bb0iizbb0iizbb0i_1747592914626_1788754316787_1d0314d6-5e88-4135-9e35-fbc089da01a9_a2415b37-5a63-4105-98a0-437618277f38_a2dc6452-94b4-48cd-a2c4-fb69e67ef73a.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
   },
   {
    "id": "995231f64daae2e1",
@@ -1448,7 +1651,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Vodafone_Idea_1788755658827_c6710df6-8707-4723-ae12-3cc2a5ff65a2_1788755658993_dbe4c64f-36dc-4286-a37c-a36537d5b1b8_7020724e-7125-4272-a761-6a3010bc7a1e_4cd5342e-966f-46cf-9cc5-6d70d03aea52.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "3fffda84c7083c83",
@@ -1466,7 +1671,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "be54c732433c947e",
@@ -1482,7 +1691,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/FILES-US-TECHNOLOGY-ECONOMY-COMPANY-APPLE-MANAGEME_1788748199908_35a1bc1f-80bf-484e-bd8e-775ea3831147_1788748200086_7655e69e-ed4c-4f83-a1ca-1af3c1827ade_12d6dd36-8a27-4775-8617-94cb8eaa4fb2_22d15c81-131e-4592-9d60-73413044da20.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "3887f5d2e923168f",
@@ -1500,7 +1711,9 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "bbc0cb58a748b3af",
@@ -1516,7 +1729,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Volume_shocker_stocks_today_1788754211729_7aaeaa69-6f43-4e95-8482-7b8b7e6b9076_1788754216667_b7646f83-844d-466c-9311-eac42af1fd3f_378a40e2-9a12-442b-bf42-3f43618e8aec_2a9ce578-7ec1-4b5f-a137-b6eb1bbb8f20.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "0c4bab3a7db2c013",
@@ -1534,7 +1749,11 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
   },
   {
    "id": "6e3720b3a1c550e0",
@@ -1550,7 +1769,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/im-51072983_1787649705688_1788750690013_4b27c720-f037-42e6-8794-1df98cc1033f_045c1132-410e-4174-a936-1e1c38f7dfbf_1ff85ba3-b500-47a5-a949-63917c774873.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a563e80c958db490",
@@ -1566,7 +1787,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/gold_1788750605529_f82194ec-5f23-41b4-ae92-02ede204fe3e_1788750605697_e09d971d-d36e-43b6-b818-858c03d13613_ec788d83-26b6-447d-a4b4-f3be109cf223_85ae8e52-2327-4ca9-9dda-39cb57aa4af3.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4d8df5522a274089",
@@ -1582,7 +1805,11 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/pexels-photo-8442330_1788227195924_1788227215201_5f5770bd-b6d6-447d-a995-4940b9034ddf_1788752447922_a576cc5b-03e0-4584-b2b7-f1483d476fa6_6a2058e3-3f8e-4bc8-8827-dd1de4fd527b_aecd9f60-1377-43a7-bf9b-9e8763f389b2.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
   },
   {
    "id": "d9c70181d61b9a57",
@@ -1600,7 +1827,9 @@
    "topics": [
     "RBI / banking"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e8284e0b31023b82",
@@ -1616,7 +1845,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/VK_Vijayakumar_1751527801892_1751527808315_1788750229960_14f23c30-a7c1-46a4-9ebf-ccc82c7d32cb_db222a53-3f44-47a9-989e-3f9e8e5205bc_46608202-d485-4839-8c9c-98d463dc00aa.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "c8e34f1fc62bce57",
@@ -1632,7 +1863,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Jigar_Patel_Anand_Rathi_share_and_stock_brokers_17_1788751237250_dfe1f4df-a5fe-4f3f-9e6e-e8731742e8cb_1788751237425_75649482-1160-46c8-8e59-763ca4b94849_5b8767e3-9115-42c9-9f51-ad77d2db61f7_5f377d0b-f24d-4763-a976-39c3ed00a3be.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "02cf1e85323cb815",
@@ -1648,7 +1881,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/will2_1759987707406_1759987719725_1788697686409_0170595f-3d1f-427f-b02a-1ae7dafb8275_7b505869-18fd-4a02-bb8c-59df75781655_343caa7a-6134-44c4-a9c7-7a366acc7feb.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "74dca7b1eaa60406",
@@ -1664,7 +1899,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/3-0-64268220-bse--3--0_1679804518242_1788692504538_14c39806-72c6-4557-bc2c-82793144e6b1_823fc6ad-bd8d-4eff-b390-43276a58165d_d0d765f3-e22f-4752-a848-6ff78cbab8de.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "73b727f0247ca303",
@@ -1682,7 +1919,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "799df6a4abd001c7",
@@ -1700,7 +1941,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "7b468c7f084f71d3",
@@ -1716,7 +1961,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generatd_Image_7yqzi27yqzi27yqz_1788750318_1788750330177_0b48360f-8d06-49eb-8db5-2d8c0474642d_1788750330347_ead2c69b-6311-48aa-b9db-b0bbdb853187_4d325ba0-0735-4316-b2cd-43997f4af7ce_387325bb-8bd0-4e0a-a6df-1d515604dc9e.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e955d1e9701061d9",
@@ -1732,7 +1979,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Buy_or_sell_Vaishali_Parekh_recommends_three_stock_1788748202366_aa8afe9f-7e2f-49e3-b65e-bea661954e73_1788748202515_ca8abd35-aef7-43dd-b613-202112be44b2_5340704d-d768-4613-a953-69fd72991a6a_9c6bc3c6-040b-44fd-8d1b-39571cde3811.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5c772b0db5ccc7cb",
@@ -1750,7 +1999,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "e490eec7b5c99fde",
@@ -1768,7 +2021,9 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "059aa47795d97c79",
@@ -1784,7 +2039,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b3880fe9945a81e6",
@@ -1800,7 +2057,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/nike_1788744151406_43b1d4a9-86d9-4cc8-96d8-3a4ebaac7f47_1788744162484_ef694f19-efd4-4257-aae7-50d7fef9fc37_690c61d9-d54d-44e1-a92a-61d709fa5990_68e16870-38f1-4131-8b4f-bbd578c826bb.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "240e8b12d2c65d0b",
@@ -1816,7 +2075,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/prediction_1788746433801_3607a4f6-2bf2-403b-b4d9-c5c71c0946f1_1788746433982_46665f8a-72ed-4be5-a0a9-77d04795b685_193a3ce9-e132-4133-9bfd-e9f2c0a2c396_198610b1-da02-484f-b012-aa25860a6d70.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "dafb4186027f9d6d",
@@ -1832,7 +2093,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "c86ad7632d534922",
@@ -1848,7 +2111,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Stock_market_today_1788744926406_51246a88-8835-4794-9786-7a086b10e668_1788744930568_55626f12-b6f9-4ecf-b437-cfde2248e2a0_a82199ae-2053-4f65-8fcb-8c72e0ad60b9_f70c1021-82ad-4211-bd53-d444e83c75dd.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "6c3e39fe1c6b8e66",
@@ -1864,7 +2129,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Coforge-CEO-Sudhir-Singh_1785323833768_1785323845553_307fa36f-326b-46bd-a0ae-f0e62678e38a_1788704856984_b6538035-cf1d-44b5-9018-f145d65600e9_5370689e-f268-4a7c-856d-cc11e53f5ce6_a2aa5bc7-723d-4e3d-9acf-c69c7bfa1994.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a2dabfc7d7d1c5e4",
@@ -1880,7 +2147,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "ffa78b7cb3398faa",
@@ -1896,7 +2165,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/DSC01990_1788678476474_9aef8999-1155-46ee-8c1c-bd0f6e5f12dd_1788678503029_7a61c920-5ef7-4814-afd4-8ac9016751aa_4d8075a5-7a41-4633-90a5-63a0e962cbdb_f18b6d11-7784-4e9f-a90b-c149cf8ac790.JPG",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "2d4520516afac257",
@@ -1912,7 +2183,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Amara_Raja_Family_1694454655939_1788703542216_05ab32a1-f589-4839-8ba7-1ffa3824e1cb_5f38562b-94c9-4096-857f-4ccbdf3119d1_ff4bdeb3-b652-400b-bc29-eca9be806cf1.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "35024253a7e18abe",
@@ -1928,7 +2201,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1788706584988_d4ee488c-d718-40f8-9fc3-bd60edb2eb7a_cbf49480-ac3c-42ad-9812-aa5ea25673a5_84c1d1c5-7a78-4247-9bba-4abbe94357e1.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b078f27fc79b8e12",
@@ -1944,7 +2219,9 @@
    "publisher": "The Economic Times",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8e532be307a3b08c",
@@ -1960,7 +2237,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/maxresdefault_1788751312551_059751a1-4c48-4a2c-9143-f0f98f3452f3_1788751319200_2e3725a0-57f4-4be7-8044-d08fcc0dc73c_77da0f03-bc64-4667-87d6-ef8c6520d046_e06022a3-0fa5-4a3e-898b-094db129e90d.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8a08df1460819898",
@@ -1976,7 +2255,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/senior_living_1788719099311_4daf01a7-0796-47d8-b21a-cc6f65913a4f_1788719131322_45d4a82b-e098-4b04-857e-4cab155d620e_fad29b25-b40c-4d39-b335-58a6cc4d6da1_c53d1733-93a6-4b56-abdd-27b550332968.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "23fc1e72429939bf",
@@ -1992,7 +2273,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/equity_funds_data_1788719045448_899d4133-2e6a-4e67-84ff-15a7e7eb8d59_1788719049757_3bbe7e34-e691-43c0-9227-bbcb1ad0d5df_d2c0ddf3-83a6-4b6b-af49-86d163c85b5a_c0dba25b-b07f-4b05-b1c8-e099c49fd228.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "3fb66f291f21d73f",
@@ -2008,7 +2291,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Warren_1788718874378_29c7e1fc-4a08-4a71-a579-4d6ff29a40e8_1788718881870_7a247de0-fee9-41b0-9ca5-769910890e58_e0953962-1ee8-4474-b673-bab6c246693d_61addf23-9bb3-4f14-a1f7-dc9595a8a584.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "88aa33d4d863228d",
@@ -2024,7 +2309,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/sanjay_sethi_1734509339668_1788717630620_d7dbd44b-178d-4e2b-b675-656e2e02b480_278ec48d-ba8c-44ec-a8d7-5e202be689f7_d7e7d701-6dfa-4f9c-9cc6-406d345789b8.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "cdd327a53978e1dc",
@@ -2040,7 +2327,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/retirement_1788716245105_95518d5a-b464-4248-8c05-044cb9d08cda_1788716245259_042bbab3-2e49-4441-95db-6d24050f63a3_d5bbd8d8-167d-42d9-b05d-a29edfc7a381_6aba5f6f-910b-444f-8d34-687b8e4db349.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a3e78062ec5068ac",
@@ -2058,7 +2347,9 @@
    "topics": [
     "Income tax"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "049942dbce955c4d",
@@ -2076,7 +2367,9 @@
    "topics": [
     "Income tax"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "83009c47c504fa4b",
@@ -2092,7 +2385,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/NPS_1788712462013_b4ddc866-a0e7-456f-83e2-039cabe23903_1788712462176_f8871788-55fd-4cd2-a13c-304336d9e822_e1f8b369-edec-4be8-8fb8-163fc02555a6_44150cbf-e5db-44d0-88d6-0830051c7465.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "01cff72c0adcd147",
@@ -2108,7 +2403,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/5_reasons_1788711117167_2026b182-f8bd-42f0-befa-d69a3eb82fd7_1788711123207_382b3755-ad9d-43f8-ae43-047d7999110d_83cdf129-3828-414c-8f52-f53d9d6ea448_5f4bce8c-0774-40a9-acd5-ad01c205de2f.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "28bbd89e41ff85e9",
@@ -2124,7 +2421,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/EPFO_claims_1788710870852_2308966e-4aef-4657-bd32-b32c3b71348d_1788710907975_688afc38-b3c3-4934-b9ed-39002bce1c13_fe0abdff-14e0-45c9-b11d-90e6342e73fd_2eb9b4ec-77d5-4931-ab0e-eea318bfdcd8.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "6b0b061921e28fdb",
@@ -2140,7 +2439,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/ais_eroro_1788710604597_0867ff69-fecb-40bb-80aa-19ad2d5c6d3e_1788710607818_6e8439b1-29da-49a1-a0f5-044bdaf5b6fd_78b72008-c5bc-4613-acaf-710b9fca7af0_6b51dfe6-af15-4636-a12e-450ecb6065eb.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "bd662c9710bd96f5",
@@ -2158,7 +2459,9 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4874f62343d93a09",
@@ -2174,7 +2477,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/flexi_cap_fundss_ma_1788707305070_19ed16e1-e7e0-4586-9584-d10b3c8c505c_1788707320114_76496132-2b09-498e-b21b-bb1113454d99_302a7b8c-fc66-4e0e-81d0-1da0b1acad82_6bcf235b-c393-410d-84af-a4387f8b0e2a.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "43a41b00c6e9fa92",
@@ -2192,7 +2497,9 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "acafb3e97fdd2197",
@@ -2208,7 +2515,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/equity_1788705525613_3e675c01-6f3c-4078-b1ba-64b2410e6b7b_1788705525833_4092f3c8-acf9-4c76-99f2-c705de560256_6ecef621-d4bd-41d3-af2e-b877547edeba_c5b6c811-de8b-4ad5-9295-30a77596cfd2.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a415229dda1e6fc0",
@@ -2224,7 +2533,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Empire_1788705148753_93b47e01-df17-4217-b53b-9be5b8cf841d_1788705155696_fb5c297d-385a-4b96-b5dd-70505e29174c_9914a622-0583-4dc1-a336-b7810e83e6f3_778be699-abda-438b-bc09-c5fdd9fbb8be.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "01ac83027424186d",
@@ -2240,7 +2551,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/bank_deposits_1788702798222_185ef95e-72ac-4f55-a99d-46ef8145f322_1788702801821_249f866f-cc7d-4217-801b-4eb1b98b5001_57282fb7-2158-4607-be0d-88ef339585c4_25abc17d-4f64-424e-96be-14f4c5434705.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "d1901b1da870707b",
@@ -2256,7 +2569,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Delhi_Lakshmi_Yojana_1788700339953_83e9fbec-bd18-42d9-bb8e-a61d6cc4e506_1788700353200_7b38f470-877c-40ee-adc0-5487fc9717c2_1a15f3ec-851d-4b71-a88f-355d35bde72d_33432f07-2825-4833-a5ef-e7517127b97e.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "1fd62ed75485b5f4",
@@ -2272,7 +2587,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Bengaluru_gamer_1788700325386_113952a5-daef-4633-8d17-5eb73d0f27db_1788700325613_555858cf-0eed-4e79-80cd-58e62106b8f2_6867bc62-c373-459e-9acc-cb111edb184a_d4c62487-375a-4694-b61c-cf16d1202724.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "cf60693a69d6238f",
@@ -2288,7 +2605,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/IMG_4594_1788629909355_b809aea7-0c54-4787-8185-153dc30c6050_1788629919135_6b9aae79-f4f1-461f-9e3f-471b2b15b56e_d3ffc7ba-9035-45ab-8b60-ceaf434a991f_a5cd74df-f333-4dda-9863-38957090d2d3.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f98621c59ef93c0f",
@@ -2304,7 +2623,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/healthinsurance_1788528998843_bcd9e975-8c65-4c32-9_1788697652261_c701ba53-db34-4f4a-8006-c4d471086a52_1788697652401_6657986d-f4dc-4d3f-8020-649aa46d8903_61e636af-e369-42cf-84b8-3de8f62adc0b_a7b230e6-0aae-43c2-b629-e67be956b231.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f916db15260baa4e",
@@ -2320,7 +2641,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/2-0-399959616-pills-0_1680671054913_1788697020223_49a3ef69-5192-41db-b7f0-4f103fb59bf3_53967cea-fa86-4343-8b56-95cff6f73e56_607b4fd8-ea7d-4b47-a1be-985f9d8a5fae.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "ca3785439a7abea4",
@@ -2338,7 +2661,9 @@
    "topics": [
     "RBI / banking"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "10282b1dc3c60a50",
@@ -2354,7 +2679,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Auditors-are-required-to-report-all-frauds-of--1-c_1687799841368_1788695903541_bee658c4-4349-441d-bd44-9e9e2bd2b40b_4215c0ac-fe74-4ccd-bfff-dea548a4f37a_3c2ed2f1-7963-4e8c-a03e-16e2d082e353.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "357b971a441328ac",
@@ -2370,7 +2697,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/NAV_1788695728498_b1365fd0-3cb8-4198-86e6-5c6c5358c66f_1788695728635_f261cfa3-879f-4a7d-9008-015bc2ad7d72_93d2b6be-4181-455d-9819-725a8c89327c_ce2b150d-6946-4105-9f70-54ff17323dfb.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "14494c4da87eadc6",
@@ -2386,7 +2715,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/pexels-photo-26645474_1788333338628_1788333343757_6883e905-a610-41e7-9dd8-c77aec509e24.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "205090713f4f7f30",
@@ -2402,7 +2733,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/maxresdefault_1788774714480_d2863ba7-eebb-4844-9308-44a3a4e49306_1788774719591_e85e5e39-c85f-4790-8049-6c4631610cd3_2d5d8b3e-40e7-4053-9686-f2148025fe95_6a2001e2-b09d-4668-b285-071d4be1779f.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "0f9453d18a5a4eaf",
@@ -2418,7 +2751,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/CS_Setty_1788678645001_5056bb97-25e9-4fb7-a078-0d0eb2d14c21_1788678650790_f5f5f6e1-3f4a-4582-8a40-c53a18d9aff8_184b039c-6559-4bf5-be50-44546934ce53_6e9bced7-13a4-49e0-af8e-ade274a7d93b.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a25f8c1ecbba2375",
@@ -2434,7 +2769,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Shuvadip_Banerjee_chief_marketing_officer_of_ITC_F_1788685586582_f11aa00a-4902-4df5-a059-17dffd70b32c_1788685586736_292c5051-06ed-47c7-9a4a-b5e600db108b_c3c7a7da-e8b0-4c1e-8dc3-c8c179dae985_77488524-c8c5-4029-8f34-6c1d839c22fa.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a6450de629aa41cd",
@@ -2450,7 +2787,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Untitled_design_1788672260614_5e35d49b-d32a-4491-9fdf-b0ba14de8734_1788672268508_9123e32d-9791-463a-8dd2-51c1b81626ee_4f96a687-e602-46c8-a4f1-050eb782ea69_0d0ab571-b1cf-423d-9cce-aa0402ef48dd.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b006cc7a6b48c877",
@@ -2466,7 +2805,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Coal_India-coal-stock_fuel_1788673499881_669c3fd0-b2ba-44d7-a5bd-2878e02dd04b_1788673500023_451b87ec-4424-4e3f-bcbb-a62157d390ac_9c5464e7-c8a9-49c1-8f32-1e28f0bb31c1_73d7cd99-9306-4894-bf74-a87f2890be36.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "21c7b1abfda3dd01",
@@ -2484,7 +2825,11 @@
    "topics": [
     "Insolvency / IBC"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
   },
   {
    "id": "111ab175f5ccdac1",
@@ -2500,7 +2845,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4e6418046b64e61e",
@@ -2516,7 +2863,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/final_1788620007814_c2a22381-e590-45bb-bfad-e5089709181a_1788620021506_effa2b1e-79dd-4ce1-b957-c45e13409bf1_35c5073d-e96d-48b6-81c9-bac09aadb2dd_f398dbdb-ceaa-47a5-9f0d-a66f5fdf3d90.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4b2d99e6e6827558",
@@ -2532,7 +2881,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788616965733_8cff79b1-5216-4ca6-b3d2-af86c9650afa_1788616969632_ea30422f-f77e-4ef9-aea2-8b83fc34007a_8147c3dc-7e47-412f-bcaf-c459bf8ab1a9_13fd2491-56b6-4142-94bb-5402e9163d5d.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5b6992151d7e6455",
@@ -2548,7 +2899,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788617475948_415a8da4-98be-49a7-ab02-3fbd0d72d97b_1788617481912_369a22e4-57a6-4dbf-a065-a1582d2d5fec_c76fa5da-548e-45ec-904e-79cf62d6a632_dfb9bdb3-8542-4afe-bb18-5ab4b8b42000.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "0bb6d8c0b883ee43",
@@ -2566,7 +2919,9 @@
    "topics": [
     "Income tax"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a3ec5cb64edd7547",
@@ -2582,7 +2937,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/maxresdefault_1788774706017_1901af89-587c-405a-9574-de88d6c4b0f5_1788774713486_108c9d93-52a8-4d24-9b94-8917aab09fee_889f3ab0-bfc1-4744-a251-02864f21400f_c744462c-17c0-49de-85c4-5a6cb0de06b3.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "96a56517f8e67f41",
@@ -2598,7 +2955,11 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/maxresdefault_1788689207204_81493912-1e2c-4950-9450-aefddfab7ede_1788689211884_6d0c74db-942e-4671-8ce5-5b2625e64361_1ca84aee-a40e-48c9-958d-f888520058da_c56ad410-5d00-4704-b5e6-1408bec163ec.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
   },
   {
    "id": "fb266bb472e0f5b3",
@@ -2614,7 +2975,9 @@
    "publisher": "The Economic Times",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "932f02c5a9b8636f",
@@ -2630,7 +2993,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Krafton__1788576523903_e8328a7f-ee17-4095-bfa3-0d9b4c1ce950_1788576535423_86285d98-85df-4f49-8968-4ae7dee76275_dc57febe-8384-486f-b3e7-22a05b7c4283_a2cafeea-fef4-4ea8-96aa-57e751f700ac.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "1a6c946aecf90a90",
@@ -2646,7 +3011,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/Rajesh_Ganesh_MD_CEO_Bajel_Projects_1788534473749_3177ef25-9ad6-45d7-b61c-34fb6b937b07_1788534484206_d55d6d5d-f7e0-4f86-9b5d-ade9e34b93ba_96a02037-1e2a-4f8d-822d-d42576652376_149b7277-68c8-4e9f-9c70-918f7f657beb.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "79e2859aba2f62b1",
@@ -2662,7 +3029,9 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/INDIA-TECH--16_1760276645095_1760276654484_1788541258372_bb0d787c-7d7c-4ef4-99af-f62c7ae92067_2cea0fa9-5c32-475d-8e5f-206e71de8d80_ec05a6ed-4885-45bb-b7de-a66748fe50a4.JPG",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00"
+   "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   }
  ]
 }

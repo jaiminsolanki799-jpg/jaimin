@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-07T10:12:28+00:00",
+ "generated_at": "2026-09-07T10:18:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 07 Sep 2026 07:57:12 GMT",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 07 Sep 2026 09:37:07 GMT",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 12,
    "sample_date": "Mon, 07 Sep 2026 03:51:44 GMT",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 06 Sep 2026 21:41:06 +0000",
    "error": null,
-   "checked_at": "2026-09-07T10:12:28+00:00"
+   "checked_at": "2026-09-07T10:18:08+00:00"
   }
  ],
  "topics": [
@@ -87,7 +87,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/fssai-takes-action-against-two-west-bengal-firms-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "6ca51c00dad89a52",
@@ -105,7 +107,11 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
   },
   {
    "id": "1f3fed7370e2ec73",
@@ -121,7 +127,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/bsnl-outpaces-jio-and-airtel-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8c345a754a0d5a8f",
@@ -137,7 +145,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b7aa05822d65c3b4",
@@ -153,7 +163,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5161196b29baa658",
@@ -171,7 +183,9 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "dd122dc8cd4c303c",
@@ -189,7 +203,12 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
   },
   {
    "id": "12d887df0a944d24",
@@ -205,7 +224,11 @@
    "publisher": "Entrackr",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "373771295c42482f",
@@ -221,7 +244,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "94e07dfbd37305bb",
@@ -237,7 +262,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/modern-bazaar-shuts-half-its-stores-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "359b6a088d1d0fca",
@@ -253,7 +280,11 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "683857541176f17d",
@@ -271,7 +302,11 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
   },
   {
    "id": "1a2b3a3b04731340",
@@ -287,7 +322,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/adani-defence-secures-5-year-ammunition-deal-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "41e69cff1219f4aa",
@@ -303,7 +340,12 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
   },
   {
    "id": "e0b7e15520de1c01",
@@ -319,7 +361,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "246bcbfbb7daef7f",
@@ -335,7 +379,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2024/07/Ritu-Kumar-Success-Story-StartupTalky-1.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5b286e3215af0ea3",
@@ -351,7 +397,9 @@
    "publisher": "Entrackr",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "25dbf1b43c0c546e",
@@ -367,7 +415,11 @@
    "publisher": "Entrackr",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "30e48b2316163072",
@@ -383,7 +435,11 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "9ccbafbc3f4d1e01",
@@ -399,7 +455,12 @@
    "publisher": "Entrackr",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
   },
   {
    "id": "787deed448b36bf6",
@@ -415,7 +476,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9ac32813940c3b84",
@@ -431,7 +494,12 @@
    "publisher": "Entrackr",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
   },
   {
    "id": "a133672185551d87",
@@ -447,7 +515,11 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "14ec49f09e7621ab",
@@ -463,7 +535,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "27475406f5797668",
@@ -479,7 +553,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9153e8455a0a3e60",
@@ -495,7 +571,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "6a3a62ca594ac19c",
@@ -511,7 +589,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5325508b04b86470",
@@ -527,7 +607,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "37c15033ce7f0d8a",
@@ -543,7 +625,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "907afdc132888d7e",
@@ -559,7 +643,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "dc81b1eefa7b3b07",
@@ -575,7 +661,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a807742326bf3985",
@@ -591,7 +679,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "d825ffa0a74a5a31",
@@ -609,7 +699,11 @@
    "topics": [
     "Insolvency / IBC"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
   },
   {
    "id": "f3a6dff748beb5f9",
@@ -627,7 +721,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "d8bdcec513307f42",
@@ -643,7 +741,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f2f4540969f315e9",
@@ -661,7 +761,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "fa8f747e1ca7473c",
@@ -677,7 +781,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4cbaaef5e968826b",
@@ -693,7 +799,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9e5a0e0ac1af1d1d",
@@ -709,7 +817,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "3901d7a20d0f8371",
@@ -725,7 +835,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a5bf96dbe6d60c06",
@@ -741,7 +853,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "81d619960f63f5ed",
@@ -757,7 +871,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e2a0f6185b9a2a5b",
@@ -773,7 +889,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8c7d02d0024b57d0",
@@ -789,7 +907,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/ultrahuman-success-story-hero.webp",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5d4986f08b900e2c",
@@ -805,7 +925,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "578a1c5b13643bba",
@@ -821,7 +943,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/mokobara-founders.jpeg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "2c5842633bfdf12e",
@@ -837,7 +961,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "6ecf07b2a0b67df3",
@@ -853,7 +979,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "40ad5b1c9658db4e",
@@ -869,7 +997,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "84ba1ff1959397bc",
@@ -885,7 +1015,11 @@
    "publisher": "Entrackr",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "6489d8c697a5eb63",
@@ -901,7 +1035,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "bc73374e782d2bee",
@@ -919,7 +1055,11 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
   },
   {
    "id": "217a709ce2973624",
@@ -937,7 +1077,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "266031deb404c101",
@@ -955,7 +1099,12 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
   },
   {
    "id": "a2ddce03d468073f",
@@ -971,7 +1120,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "2f64692ac0d6c882",
@@ -989,7 +1140,11 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
   },
   {
    "id": "66050a083799a231",
@@ -1005,7 +1160,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "4fd0827aa950f160",
@@ -1021,7 +1178,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "499605f0fd786386",
@@ -1037,7 +1196,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "5cce5c1ac780a716",
@@ -1053,7 +1214,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9378eea50a7c35da",
@@ -1069,7 +1232,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f49e5f3c7386fad5",
@@ -1085,7 +1250,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "7e4db382f3f9a471",
@@ -1101,7 +1268,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f5a7053a72233eb4",
@@ -1117,7 +1286,9 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "32f5c1735b9cab81",
@@ -1133,7 +1304,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/ola-electric-expands-retail-network-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "199315c3fae31a4c",
@@ -1151,7 +1324,12 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "IPO"
+   ]
   },
   {
    "id": "08f4eb862aa12c94",
@@ -1167,7 +1345,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-today-india-4-september-2026-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "dfcc361f6e35c634",
@@ -1183,7 +1363,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/kenyas-president-directs-tata-chemicals-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "784973ea11383439",
@@ -1199,7 +1381,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/meta-launches-muse-spark-1-3-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "b711f49acd053261",
@@ -1215,7 +1399,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/aditya-birla-group-bets-inr-1-800-crore-on-ultravolt-Startuptalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "8d0069436f3eec0c",
@@ -1231,7 +1417,9 @@
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/Jimmy-James-Founder-Being-LaunchPad-StartupTalky.jpg",
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "3bd6bae54e8fc68a",
@@ -1247,7 +1435,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "d98ff7bbe8e0483e",
@@ -1263,7 +1453,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "e088f87380dc8bca",
@@ -1279,7 +1471,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "75f08a3efd282a53",
@@ -1295,7 +1489,9 @@
    "publisher": "The CapTable",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00"
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   }
  ]
 }
