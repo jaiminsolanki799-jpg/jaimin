@@ -238,45 +238,47 @@
       }
     },
     "website-news": {
-      "title": "Websites",
+      "title": "Startups & Tech",
       "sources": [
         {
-          "name": "Business Standard",
-          "group": "Business Standard",
-          "category": "Business",
+          "name": "The CapTable",
+          "group": "The CapTable",
+          "category": "Startups",
           "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:business-standard.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+          "_comment": "No public feed; read via Google News."
         },
         {
-          "name": "Moneycontrol",
-          "group": "Moneycontrol",
-          "category": "Business",
+          "name": "YourStory",
+          "group": "YourStory",
+          "category": "Startups",
           "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:moneycontrol.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://yourstory.com/feed"
         },
         {
-          "name": "BusinessLine",
-          "group": "BusinessLine",
-          "category": "Business",
+          "name": "StartupTalky",
+          "group": "StartupTalky",
+          "category": "Startups",
           "type": "rss",
-          "url": "https://www.thehindubusinessline.com/feeder/default.rss"
+          "url": "https://startuptalky.com/rss/"
         },
         {
-          "name": "Financial Express",
-          "group": "Financial Express",
-          "category": "Business",
+          "name": "Entrackr",
+          "group": "Entrackr",
+          "category": "Startups",
           "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:financialexpress.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+          "_comment": "Feed URL returns 404; read via Google News."
         },
         {
-          "name": "Taxguru",
-          "group": "Taxguru",
-          "category": "Tax & compliance",
+          "name": "TechCrunch",
+          "group": "TechCrunch",
+          "category": "Tech",
           "type": "rss",
-          "url": "https://taxguru.in/feed/"
+          "url": "https://techcrunch.com/feed/"
         }
       ],
-      "_comment": "Starter list. Replace these with the websites you want tracked; each entry needs a name, a group (shown in the top bar), a category, and a url."
+      "_comment": "The websites Jaimin asked to track. Each entry needs a name, a group (shown in the top bar), a category and a url."
     }
   }
 }
