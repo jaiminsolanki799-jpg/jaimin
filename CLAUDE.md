@@ -42,24 +42,32 @@ This repository is a workspace of small, self-contained projects.
 ├── README.md                    index of the projects
 ├── CLAUDE.md
 ├── .gitignore
-├── .github/workflows/ci.yml     CI
+├── .nojekyll
+├── .github/workflows/
+│   ├── ci.yml                   CI (pytest for python-playground and news-tracker)
+│   └── news-tracker.yml         refreshes the news dashboards every 30 min
 └── projects/
     ├── python-playground/       src/ + tests/ + requirements.txt
     ├── web-starter/             index.html + css/ + js/
-    └── notes/                   Markdown reference notes
+    ├── notes/                   Markdown reference notes
+    └── news-tracker/            ET Prime + website news dashboards (GitHub Pages)
 ```
 
 ## Testing
 
-`python-playground` uses pytest:
+`python-playground` and `news-tracker` use pytest:
 
 ```bash
 cd projects/python-playground
 pip install -r requirements.txt
 pytest
+
+cd ../news-tracker
+pip install pytest
+pytest
 ```
 
-CI runs this suite on every pull request and on every push to `main`, so the
+CI runs both suites on every pull request and on every push to `main`, so the
 tests must pass before merging.
 
 ## Working agreements

@@ -1,0 +1,78 @@
+{
+  "_comment": "Edit this file to add or remove feeds. Each dashboard has a list of sources. type is 'rss' (RSS 2.0 or Atom). 'prime_only': true keeps only items whose link contains /prime/ (used to pick ET Prime stories out of general ET feeds).",
+  "retention_days": 21,
+  "max_items": 1500,
+  "topics": {
+    "Insolvency / IBC": ["insolvency", "ibc", "ibbi", "nclt", "nclat", "resolution plan", "cirp", "resolution professional", "liquidation", "bankruptcy"],
+    "GST": ["gst", "goods and services tax", "gstn", "input tax credit", "e-invoice", "e-way bill"],
+    "Income tax": ["income tax", "income-tax", "cbdt", "tds", "tcs", "itr", "tax return", "assessment", "section 80", "capital gains tax"],
+    "MCA / ROC": ["mca", "ministry of corporate affairs", "roc", "registrar of companies", "companies act", "llp", "din", "csr"],
+    "SEBI / markets regulation": ["sebi", "securities and exchange board", "ipo", "listing", "delisting", "insider trading", "lodr"],
+    "RBI / banking": ["rbi", "reserve bank", "repo rate", "monetary policy", "npa", "bank fraud", "kyc"],
+    "Audit / accounting": ["audit", "auditor", "icai", "nfra", "ind as", "accounting standard", "financial statements", "caro"],
+    "Valuation / M&A": ["valuation", "merger", "acquisition", "demerger", "esop", "buyback", "fair value"],
+    "Budget / policy": ["budget", "finance bill", "finance ministry", "fiscal deficit", "policy"]
+  },
+  "dashboards": {
+    "et-prime": {
+      "title": "ET Prime",
+      "sources": [
+        {"name": "ET Prime (Google News index)", "category": "ET Prime", "type": "rss",
+         "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime&hl=en-IN&gl=IN&ceid=IN:en"},
+        {"name": "ET Top Stories", "category": "ET Prime", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"},
+        {"name": "ET Markets", "category": "Markets", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"},
+        {"name": "ET Economy", "category": "Economy", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms"},
+        {"name": "ET Industry", "category": "Industry", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"},
+        {"name": "ET Wealth", "category": "Wealth", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms"},
+        {"name": "ET Tax", "category": "Tax", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47823565.cms"},
+        {"name": "ET Small Biz", "category": "Small business", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/small-biz/rssfeeds/5575607.cms"},
+        {"name": "ET Corporate Trends", "category": "Corporate", "type": "rss", "prime_only": true,
+         "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rssfeeds/107115.cms"}
+      ]
+    },
+    "website-news": {
+      "title": "Website news",
+      "sources": [
+        {"name": "Moneycontrol", "category": "Business", "type": "rss",
+         "url": "https://www.moneycontrol.com/rss/business.xml"},
+        {"name": "Moneycontrol Economy", "category": "Economy", "type": "rss",
+         "url": "https://www.moneycontrol.com/rss/economy.xml"},
+        {"name": "Livemint Companies", "category": "Business", "type": "rss",
+         "url": "https://www.livemint.com/rss/companies"},
+        {"name": "Livemint Markets", "category": "Markets", "type": "rss",
+         "url": "https://www.livemint.com/rss/markets"},
+        {"name": "Livemint Money", "category": "Personal finance", "type": "rss",
+         "url": "https://www.livemint.com/rss/money"},
+        {"name": "Business Standard", "category": "Business", "type": "rss",
+         "url": "https://www.business-standard.com/rss/latest.rss"},
+        {"name": "Financial Express", "category": "Business", "type": "rss",
+         "url": "https://www.financialexpress.com/feed/"},
+        {"name": "BusinessLine", "category": "Business", "type": "rss",
+         "url": "https://www.thehindubusinessline.com/feeder/default.rss"},
+        {"name": "Taxguru", "category": "Tax & compliance", "type": "rss",
+         "url": "https://taxguru.in/feed/"},
+        {"name": "RBI press releases", "category": "Regulator", "type": "rss",
+         "url": "https://www.rbi.org.in/pressreleases_rss.xml"},
+        {"name": "SEBI", "category": "Regulator", "type": "rss",
+         "url": "https://www.sebi.gov.in/sebirss.xml"},
+        {"name": "PIB Finance Ministry", "category": "Government", "type": "rss",
+         "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"},
+        {"name": "Google News: Insolvency / IBC", "category": "Insolvency", "type": "rss",
+         "url": "https://news.google.com/rss/search?q=(IBBI+OR+NCLT+OR+\"insolvency\"+OR+\"resolution+plan\")+India&hl=en-IN&gl=IN&ceid=IN:en"},
+        {"name": "Google News: GST", "category": "Tax & compliance", "type": "rss",
+         "url": "https://news.google.com/rss/search?q=GST+India&hl=en-IN&gl=IN&ceid=IN:en"},
+        {"name": "Google News: Income tax", "category": "Tax & compliance", "type": "rss",
+         "url": "https://news.google.com/rss/search?q=\"income+tax\"+OR+CBDT+India&hl=en-IN&gl=IN&ceid=IN:en"},
+        {"name": "Google News: MCA / ROC", "category": "Compliance", "type": "rss",
+         "url": "https://news.google.com/rss/search?q=\"Ministry+of+Corporate+Affairs\"+OR+\"Companies+Act\"+OR+ICAI&hl=en-IN&gl=IN&ceid=IN:en"}
+      ]
+    }
+  }
+}

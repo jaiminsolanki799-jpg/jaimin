@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="ET Prime">
+  <meta name="theme-color" content="#fcfcfb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1a1a19" media="(prefers-color-scheme: dark)">
+  <title>ET Prime tracker</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-feed="../data/et-prime.json" data-key="et-prime">
+  <header class="top">
+    <div class="top-inner">
+      <div>
+        <h1>📰 ET Prime</h1>
+        <p class="sub" id="updated">Loading…</p>
+      </div>
+      <div class="spacer"></div>
+      <a class="back" href="../">← Home</a>
+      <button class="iconbtn" id="refresh" type="button">↻ Refresh</button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="notice" id="notice" hidden></div>
+
+    <section class="tiles" aria-label="Summary">
+      <div class="tile"><div class="label">Stories tracked</div><div class="value" id="t-total">–</div><div class="hint">from Economic Times Prime</div></div>
+      <div class="tile"><div class="label">Last 24 hours</div><div class="value" id="t-24h">–</div><div class="hint">published</div></div>
+      <div class="tile"><div class="label">New since last visit</div><div class="value" id="t-new">–</div><div class="hint" id="t-new-hint"></div></div>
+      <div class="tile"><div class="label">Unread</div><div class="value" id="t-unread">–</div><div class="hint" id="t-unread-hint"></div></div>
+    </section>
+
+    <details class="panel">
+      <summary>Stories per source</summary>
+      <div class="body bars" id="bars"></div>
+    </details>
+
+    <section class="filters" aria-label="Filters">
+      <input class="search" id="search" type="search" placeholder="Search headlines and summaries…" autocomplete="off">
+      <div class="row">
+        <select id="range" aria-label="Time range">
+          <option value="1">Last 24 hours</option>
+          <option value="3">Last 3 days</option>
+          <option value="7">Last 7 days</option>
+          <option value="all" selected>All kept</option>
+        </select>
+        <button class="toggle" id="unread" type="button" aria-pressed="false">Unread only</button>
+        <button class="toggle" id="saved" type="button" aria-pressed="false">★ Saved</button>
+        <button class="toggle" id="mark-all" type="button">Mark all read</button>
+      </div>
+      <div class="chips" id="chips-source" aria-label="Filter by source"></div>
+      <div class="chips" id="chips-topic" aria-label="Filter by topic"></div>
+    </section>
+
+    <p class="count" id="count"></p>
+    <ul class="list" id="list"></ul>
+    <button class="more" id="more" type="button" hidden>Show more</button>
+
+    <details class="panel">
+      <summary id="status-summary">Source status</summary>
+      <div class="body"><ul class="status" id="status"></ul></div>
+    </details>
+
+    <p class="foot">Data refreshes automatically via GitHub Actions and is stored in the repository. Read and saved marks stay on this device only.</p>
+  </main>
+
+  <script src="../assets/app.js"></script>
+</body>
+</html>
