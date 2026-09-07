@@ -191,6 +191,41 @@ def drop_stale_by_id(items: list[dict], pattern: str, window: int) -> list[dict]
     return [i for i in items if i["id"] not in ids or ids[i["id"]] >= newest - window]
 
 
+def _kw_pattern(keyword: str) -> re.Pattern:
+    """Whole-word match; the boundary check is skipped on a side that ends in
+    punctuation (so 'raises $' still matches 'raises $50 Mn')."""
+    kw = keyword.lower()
+    lead = r"(?<![a-z0-9])" if kw[:1].isalnum() else ""
+    tail = r"(?![a-z0-9])" if kw[-1:].isalnum() else ""
+    return re.compile(lead + re.escape(kw) + tail)
+
+
+def score_valuation(title: str, summary: str, signals: dict) -> tuple[int, list[str]]:
+    """Score a story for a valuation analyst.
+
+    Each matching signal group adds its weight; a match in the headline adds
+    one more. At least one signal must be in the headline, otherwise the
+    score is 0. Returns (score, [signal names]) with the strongest first.
+    """
+    head = (title or "").lower()
+    body = (summary or "").lower()
+    hits = []
+    for name, spec in signals.items():
+        if name.startswith("_"):
+            continue
+        weight = int(spec.get("weight", 1))
+        in_head = any(_kw_pattern(k).search(head) for k in spec.get("keywords", []))
+        in_body = in_head or any(_kw_pattern(k).search(body) for k in spec.get("keywords", []))
+        if in_head:
+            hits.append((weight + 1, name))
+        elif in_body:
+            hits.append((weight, name))
+    hits.sort(key=lambda h: (-h[0], h[1]))
+    if not any(w > int(signals[n].get("weight", 1)) for w, n in hits):
+        return 0, []  # nothing in the headline: not a valuation story, just a passing mention
+    return sum(w for w, _ in hits), [n for _, n in hits]
+
+
 def tag_topics(text: str, topics: dict[str, list[str]]) -> list[str]:
     """Return the topic names whose keywords appear in text (whole-word match)."""
     lowered = text.lower()
@@ -468,6 +503,10 @@ def build_dashboard(key: str, config: dict, sources_cfg: dict, now: datetime,
             print(f"[{key}] dropped {before - len(fresh)} old evergreen links by article id")
 
     merged = merge_items(existing.get("items", []), fresh, now, retention_days, max_items)
+    signals = sources_cfg.get("valuation_signals", {})
+    for item in merged:
+        item["valuation_score"], item["valuation_signals"] = score_valuation(
+            item.get("title", ""), item.get("summary", ""), signals)
     new_ids = {i["id"] for i in fresh} - {i["id"] for i in existing.get("items", [])}
 
     payload = {

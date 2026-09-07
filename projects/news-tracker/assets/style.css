@@ -271,3 +271,9 @@ mark { background: var(--accent-soft); color: inherit; padding: 0 1px; border-ra
   background: var(--paper); color: var(--ink); font-size: 18px; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,.15);
 }
 .top[hidden] { display: none; }
+
+/* ---------- Valuation desk ---------- */
+nav.sections .chip.desk { color: var(--accent); font-weight: 700; }
+nav.sections .chip.desk[aria-pressed="true"] { color: var(--accent); border-bottom-color: var(--accent); }
+.tag.sig { border-color: var(--accent); color: var(--accent); }
+.story .kicker .why { color: var(--accent); font-weight: 700; }
