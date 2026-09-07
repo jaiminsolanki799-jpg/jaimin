@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Website news",
- "generated_at": "2026-09-07T06:30:40+00:00",
+ "generated_at": "2026-09-07T06:43:35+00:00",
  "retention_days": 14,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 96,
    "sample_date": "Mon, 07 Sep 2026 05:21:47 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Livemint Companies",
@@ -24,7 +24,7 @@
    "items": 35,
    "sample_date": "Mon, 07 Sep 2026 10:09:22 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Livemint Markets",
@@ -35,7 +35,7 @@
    "items": 35,
    "sample_date": "Mon, 07 Sep 2026 11:45:47 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Livemint Money",
@@ -46,7 +46,7 @@
    "items": 35,
    "sample_date": "Mon, 07 Sep 2026 11:42:30 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Business Standard (via Google News)",
@@ -57,7 +57,7 @@
    "items": 100,
    "sample_date": "Sun, 06 Sep 2026 17:52:59 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Financial Express (via Google News)",
@@ -68,7 +68,7 @@
    "items": 97,
    "sample_date": "Sun, 06 Sep 2026 19:40:55 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "BusinessLine",
@@ -77,9 +77,9 @@
    "ok": true,
    "fetched": 60,
    "items": 60,
-   "sample_date": "Mon, 07 Sep 2026 11:58:25 +0530",
+   "sample_date": "Mon, 07 Sep 2026 12:08:38 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Taxguru",
@@ -88,9 +88,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
-   "sample_date": "Mon, 07 Sep 2026 05:57:28 +0000",
+   "sample_date": "Mon, 07 Sep 2026 06:38:41 +0000",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "RBI press releases",
@@ -99,9 +99,9 @@
    "ok": true,
    "fetched": 10,
    "items": 10,
-   "sample_date": "Mon, 07 Sep 2026 10:45:00",
+   "sample_date": "Mon, 07 Sep 2026 11:55:00",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "SEBI",
@@ -112,7 +112,7 @@
    "items": 30,
    "sample_date": "04 Sep, 2026 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "PIB Finance Ministry (via Google News)",
@@ -120,10 +120,10 @@
    "category": "Government",
    "ok": true,
    "fetched": 100,
-   "items": 99,
+   "items": 100,
    "sample_date": "Wed, 02 Sep 2026 07:35:00 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Google News: Insolvency / IBC",
@@ -134,7 +134,7 @@
    "items": 99,
    "sample_date": "Mon, 07 Sep 2026 05:39:09 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Google News: GST",
@@ -145,7 +145,7 @@
    "items": 100,
    "sample_date": "Mon, 07 Sep 2026 00:23:49 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Google News: Income tax",
@@ -156,7 +156,7 @@
    "items": 100,
    "sample_date": "Sun, 06 Sep 2026 17:34:54 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   },
   {
    "name": "Google News: MCA / ROC",
@@ -167,7 +167,7 @@
    "items": 100,
    "sample_date": "Sun, 06 Sep 2026 18:52:22 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:30:40+00:00"
+   "checked_at": "2026-09-07T06:43:35+00:00"
   }
  ],
  "topics": [
@@ -181,14 +181,125 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1093,
+ "new_since_last_run": 329,
  "items": [
+  {
+   "id": "5ee3d67cdb8cc0f9",
+   "title": "Income Tax | Bombay HC Upholds Deduction for Scientifically Estimated Major Repairs Provision",
+   "link": "https://taxguru.in/income-tax/bombay-hc-upholds-deduction-scientifically-estimated-major-repairs-provision.html",
+   "summary": "Bombay High Court holds provision for major road repairs allowable where contractual liability is certain and estimate is scientifically reliable. The post Bombay HC Upholds Deduction for Scientifically Estimated Major Repairs Provision appeared first on TaxGuru .",
+   "published": "2026-09-07T06:38:41+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "CA Sandeep Kanoi",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
+   "id": "4505e89c27c3b69d",
+   "title": "Sensex today | Stock Market LIVE: Sensex down 400 pts, Nifty slips below 23,780 as crude nears $97; Infy, TechM lead losers",
+   "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-7th-september-2026/article71437259.ece",
+   "summary": "Sensex, Nifty, Share Prices Live: Benchmark indices opened in negative territory on Monday, September 7, 2026, weighed down by a stronger-than-expected US jobs report that reignited fears of a Federal Reserve rate hike, while elevated crude oil prices and escalating Middle East tensions added to the cautious mood.",
+   "published": "2026-09-07T06:38:38+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "7cbd8f7c0f13977b",
+   "title": "Goods and Services Tax | GST Appeal Filed Before Section 107 Order Is Passed Not Maintainable: GSTAT Chennai",
+   "link": "https://taxguru.in/goods-and-service-tax/gst-appeal-filed-section-107-order-passed-not-maintainable-gstat-chennai.html",
+   "summary": "GSTAT Chennai held that a Section 112 appeal filed before the first appellate order existed was not maintainable, dismissing it with liberty to refile. The post GST Appeal Filed Before Section 107 Order Is Passed Not Maintainable: GSTAT Chennai appeared first on TaxGuru .",
+   "published": "2026-09-07T06:37:57+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "CA Sandeep Kanoi",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
+   "id": "6534b6a4e6a748ce",
+   "title": "Goods and Services Tax | Bombay HC Declines Interim Relief Over GST Recovery Citing Unjustified Delay",
+   "link": "https://taxguru.in/goods-and-service-tax/bombay-hc-declines-interim-relief-gst-recovery-citing-unjustified-delay.html",
+   "summary": "Bombay HC rejects interim relief to Best Agrolife over GST recovery notices, citing delay, while seeking Revenue’s response on ignored representations. The post Bombay HC Declines Interim Relief Over GST Recovery Citing Unjustified Delay appeared first on TaxGuru .",
+   "published": "2026-09-07T06:37:27+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "CA Sandeep Kanoi",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
+   "id": "35975ed48440f2ee",
+   "title": "Maruti Suzuki announces third price hike since May, select models to get costlier",
+   "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-announces-third-price-hike-since-may-select-models-to-get-costlier/article71437627.ece",
+   "summary": "The latest increase will be limited to selected vehicles, unlike the carmaker’s previous two price hikes that covered its entire portfolio",
+   "published": "2026-09-07T06:36:45+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/ht3fjo/article71432766.ece/alternates/LANDSCAPE_1200/2026-09-01T121331Z_1053426899_RC2DAMA4B5WR_RTRMADP_3_INDIA-AUTOS-SALESFIGURES.JPG",
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
+   "id": "3e5ad961fa43cbb5",
+   "title": "JSL signs Technical Assistance Agreement with JFE Steel Corporation, Japan",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVXBRNmtubzA5WXk1ZTRjNUJUVlZXY0c1bEZHSEpVZHA0LWVVekE4ZWxtNDlrc0tZeWctRVVNdXN1aC1iOWl4NWxuSVdhWDFBNURTUkFXV1RGdTdwSEFENzZ2N2NHSUlHZ21tbWlJUy0zN0djYlJCdVo1S1ZSQjhKVXJ2cXVFVG5HZERnX2Z4MTlYbGI4elROOG5PbjRhOVlRVHNqV1dYdHJ3UnAwSm42dG9RdVhGb01nZlpFbkM5WTZnZjR3UHNxbHZfTGprWmh3MFo4Z2EybVFHTFBtd3NVR0poclNiSG9sb0RF0gHwAUFVX3lxTE1YeHVmdG1mWGs3WEdubGhEMFUxQ1QzQUdvbDFFZG5EbFdKbHlBNjFVd003bHdwOGpzNHdFSlJLQ3lLZ0RHUV9fOG5YRkp4NmV5S2l0Ty1fRU5pRENPajdDQXFrUzNnYnIwTWhNbTZOYnctRmJwV0l2Yl85SlJQVE1DNGdfQkVoSFgxSmk5SzNMaTZlbndfcUlfczhQUzEwT1NiSDZnTmlCeXhGME9UcGQ5WG9IOTlVYXZOOUdqdmdqRmJuWWR0ZU1ZUmdtZkwtWE9IMU5GU2tUNjd4c0JBb2xnNzFmaEVyR2tQLUphcHF3cg?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:34:23+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
+   "id": "b258217de99f8e00",
+   "title": "RPEL to set up 3.5 lakh MTPA silica ramming mass manufacturing facility in Odisha",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2dlVVEzY08tODhCb3VZT0piOFlic2M5V1RQWm1CUmdMVFpGX2NXQ2pXbGxCc1dzNTA5RE1GbXQyUXJMNjdxQnBIN3RtUU9CTVZhQURGZS1IOWtjQXJiMGx3V3ZDWmdoMWJPTnk2TXB6NEZUWnFTTEdkR1QzRWItNEFMQTJWX21FSzBxM0hPN29oZlE3Vk5lSEZ2SllTazlXaXV4aUVXNHc4endmNTNNcXhVTXpxSm5VUnZwUXluM3plcnFpdVFCY1lSS2I1Z09jS241YjMyZ3RrcWh1ZmJyRG5XQUJsUU1iaHZFelBWeGc1VUxPVGfSAfsBQVVfeXFMT3p6X3d6dWJyVE1NX3FKUE12Uk1zejZwaVl6YTg1V0tEc1VXSmREWHR6RHpwQklvbDhCTFV5SFVRT1dvMklDN211U1lUMHZxVUEzNlpfVDduOUFBSWhNaWUzV1VfNHUwQWRWUV9WbjRfZjVENG5DZmdYcThxTUlKRm1oLUpiWVRieDVwZmcteU04Vlk3M2VYb3phVDlVZUlSZzR3VnFCS2JkWkdJdGpWZ0g2WUNCLTR2VEFxeWxjNU42bjZya3k1LS1aa1A1OVo1akxPWUNQa1J0TU1YV0JNeURrbHNjVWstcnQxM2VqRDdwYTVndDg2X0htX28?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:34:13+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
   {
    "id": "7f23c87f7cc644bf",
    "title": "NSE revises pre-open session framework, gives market orders priority",
    "link": "https://www.thehindubusinessline.com/markets/nse-revises-pre-open-session-framework-gives-market-orders-priority/article71437629.ece",
    "summary": "The revised mechanism separates order collection from matching and price discovery, with traders facing different windows for market and limit orders",
-   "published": "2026-09-07T06:28:25+00:00",
+   "published": "2026-09-07T06:30:43+00:00",
    "source": "BusinessLine",
    "category": "Business",
    "date_known": true,
@@ -197,6 +308,21 @@
    "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/oo5v0a/article66581924.ece/alternates/LANDSCAPE_1200/PO05_DerivativeG77AUT35R.4.jpg.jpg",
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "5ca48f11291ee63d",
+   "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on September 07, 2026",
+   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63532",
+   "summary": "Tenor 1-day Notified Amount (in ₹ crore) 5,00,000 Total amount of offers received (in ₹ crore) 3,53,390 Amount accepted (in ₹ crore) 3,53,390 Cut off Rate (%) 5.24 Weighted Average Rate (%) 5.24 Partial Acceptance Percentage of offers received at cut off rate N.A. Ajit Prasad Deputy General Manager (Communications) Pr…",
+   "published": "2026-09-07T06:25:00+00:00",
+   "source": "RBI press releases",
+   "category": "Regulator",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
    "id": "e89e120ddf5a3b02",
@@ -239,21 +365,6 @@
    "date_known": true,
    "author": null,
    "publisher": "Moneycontrol.com",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T06:30:40+00:00"
-  },
-  {
-   "id": "4505e89c27c3b69d",
-   "title": "Sensex today | Stock Market LIVE: Sensex down 400 pts, Nifty slips below 23,780 as crude nears $97; Infy, TechM lead losers",
-   "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-7th-september-2026/article71437259.ece",
-   "summary": "Sensex, Nifty, Share Prices Live: Benchmark indices opened in negative territory on Monday, September 7, 2026, weighed down by a stronger-than-expected US jobs report that reignited fears of a Federal Reserve rate hike, while elevated crude oil prices and escalating Middle East tensions added to the cautious mood.",
-   "published": "2026-09-07T06:17:59+00:00",
-   "source": "BusinessLine",
-   "category": "Business",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -415,6 +526,23 @@
    "image": "https://bl-i.thgim.com/public/incoming/cs31vi/article71437578.ece/alternates/LANDSCAPE_1200/Sun%20Rise.png",
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "5815a5c07a85bb64",
+   "title": "Income Tax | Pune ITAT Restores ₹1.73-Crore Penalty U/s 271(1)(c) on Capital Expenditure Claim",
+   "link": "https://taxguru.in/income-tax/pune-itat-restores-rs-1-73-crore-penalty-271-1-capital-expenditure-claim.html",
+   "summary": "ITAT Pune restores ₹1.73 crore penalty after holding retiring partner settlement payment was capital expenditure and inaccurate particulars were furnished. The post Pune ITAT Restores ₹1.73-Crore Penalty U/s 271(1)(c) on Capital Expenditure Claim appeared first on TaxGuru .",
+   "published": "2026-09-07T06:00:54+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "CA Vijayakumar Shetty",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
    "id": "6cc3c4336ab4a0d6",
@@ -1674,7 +1802,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "storyboard18.com",
+   "publisher": "Storyboard18",
    "image": null,
    "topics": [
     "GST"
@@ -1971,6 +2099,21 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "d8971c6ce71ba940",
+   "title": "Why sponsors will miss Lionel Messi the most",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUlp4akRIZXVobDZwdFhaTWdFRnJTc2xxNl9tOGxBd0JsaS1LUWxXMm1mekxPYlJicERsSjM3U0hHd2tTdV9lSVFMak9jY0FFNGtJU3FGcURSamJqRFhOZ2NUS0Z5X3NQSlU3Nzkya3VDRDRCZGNXbFk3SWZtRzhmdnV0OXVhRG0xZG1wMTdYOGRmWTZselhlbVVKTkJ5NUZmdFHSAacBQVVfeXFMTk9LWl9vWEJoaUNVeFhkQnhlVjh0RFlCRC1YUEsxQkFKNEFsNFBIQ2R6NWxsc3dkbFlDMTRZbXZfZllzOWZERE43QV9PMkZnSzhfNV92eUE5S2NJVmFFdEw5TkVIRzA5eC1TdEh4SmdBQ1ZwRVhHMGs4c1JhdGp6dENyUUtZRlBma1dHVnRZS29NbGxuYW9hRC1SaXlvampNcXpSU1RLSWc?oc=5",
+   "summary": "",
+   "published": "2026-09-07T03:34:13+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
    "id": "c8e34f1fc62bce57",
@@ -2851,7 +2994,7 @@
    "category": "Compliance",
    "date_known": true,
    "author": null,
-   "publisher": "tbsnews.net",
+   "publisher": "The Business Standard",
    "image": null,
    "topics": [
     "MCA / ROC"
@@ -3626,7 +3769,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -4131,7 +4274,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "newsonair.gov.in",
+   "publisher": "News On AIR",
    "image": null,
    "topics": [
     "Income tax"
@@ -4843,7 +4986,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "Rediff",
+   "publisher": "rediff.com",
    "image": null,
    "topics": [
     "GST"
@@ -5457,7 +5600,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [
     "Income tax"
@@ -5474,7 +5617,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [
     "Income tax"
@@ -6042,7 +6185,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -6219,7 +6362,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -6553,7 +6696,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -6782,6 +6925,21 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "b42dcb452d21eb6b",
+   "title": "Index of Services Production:",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44M3NudzVWQm1zbTBpVFZPQVdBaHJleWtneUlmR2JMbUJFVTBOUzZUbEZLRXF0a3dRcXhvbnZhaDR5T2dzTzRjbXduWENDV0p6TE45SDZCd2o4ajZ0QVJVcUJwRXNocGREYmp2N0JUb2ctaVl0SVVZ?oc=5",
+   "summary": "",
+   "published": "2026-09-06T06:28:44+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "pib.gov.in",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
    "id": "d3d72440c13c9aeb",
@@ -7266,7 +7424,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -7418,7 +7576,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -8546,7 +8704,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -8561,7 +8719,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -8576,7 +8734,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -8591,7 +8749,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -8681,7 +8839,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9270,7 +9428,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "Rediff",
+   "publisher": "rediff.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9364,7 +9522,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9428,7 +9586,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9490,7 +9648,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9567,7 +9725,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9582,7 +9740,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9597,7 +9755,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9627,7 +9785,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9642,7 +9800,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9657,7 +9815,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9672,7 +9830,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9687,7 +9845,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9920,7 +10078,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9935,7 +10093,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9977,6 +10135,23 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "4176ef08f8c73b9e",
+   "title": "Centre plans overhaul of company filings under Companies Act: 5 key changes",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUQyTS1tVmlPWEhfdmdLdHhkYjZOQTE5dDBnREtqblhQSWRtVTNjYjVORl9rTGsxendiVDA5dHVHMDkxMWlXcGhvZHA1VTZxNHBJeDlsZVR0WWYxNUl5VmJaMzlTR2RFMV9wdW54N0s1MGVEd1JzdlhZSTJ6QVloWmtVclRLQWFQd3BkR0NZbDlXUzhlNkZaM3hmTzFUeFFUMklOSGJ2bnBoMWJyNS02cGJwa1IzSGxOMFB2dS1qU3E2X2x0bHpMT9IBzgFBVV95cUxNUVlVU05TLVNIUjZLR2F6cWFwMmc1ZzJHeXhSS3ZrUEkyWHdsWkI2NS11cHZDYkVHVjR6Q3lKT3ViWDFMeUI2dkVoOTdTbHBaNEF4aWN5dVUyNm5famRmVXhrM0ZrV0hUaDhCZVpnWmtOdkJFbE4tTnBpS00xMGM3Nlp6blFaUGVVWkU0MTBEWXpfNUh5dzBnSUxtb19jMUFCdFZkR2JhMnRMWjJZdHJHcDY4cjd5VmZabGprTW90c2lfaElQOV9XT21Wd3dGZw?oc=5",
+   "summary": "",
+   "published": "2026-09-04T06:38:34+00:00",
+   "source": "Google News: MCA / ROC",
+   "category": "Compliance",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [
+    "MCA / ROC"
+   ],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
    "id": "638fb01b7715b4f2",
    "title": "NCLT flags Ernst & Young's 1% success fee for securing relief in GST cases; asks ICAI to examine",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUFVQbHJ0TlBMMFgwcmZ3dXBCR0tVaXRZQ0l4Um9sRjBXS0JLbGMydXcxQ0NZakQxT2ZBa0J0TjBfRzBkaENHTk5iWV94RXdxYzF6Z0Zydm93Ynl6Y2Jid0E4SXpQOWQxLW9odm0yTWNIUS1vcm5iTkJZeVZQMEg1eU1NSGpVcFhEVzJiREMweVlUZzhocEZFTFF1ZnV6aTh2R0ZfRlNiRUEybTFwVDlCc3N5NXF4bXRBOG05NmU3RG14bW1lR3l5RU9mQ1VZUVdP?oc=5",
@@ -10005,7 +10180,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10020,7 +10195,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10155,6 +10330,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "809fb5b23281175c",
+   "title": "CSIR-CMERI hosts inauguration of Occupational Safety Training for Sewer and Septic Tank Workers Under NAMASTE Scheme",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OOWFEel8waFctSnVHQ1llYkh6cUd6ZGktTkhyNWwzTW9RMV92VFItMG02YlJfNFIwWUM2UlFVV2htMmFYWlFDUjY4aWJ0WEVNNFJ4b2Jlb0dvMUl0VGYyYllWZw?oc=5",
+   "summary": "",
+   "published": "2026-09-03T15:33:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "pib.gov.in",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
+  },
+  {
    "id": "a0f5a2c41819a6d8",
    "title": "Photo Album",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wR2dleElUSHlqY09EMWt0dWZCLXdvTVZUUGRJZ2RuSmhQbDlyN0tFNTZNblctM3lBdVkzbjhGT0syRVZLcVJHN3VnU1RzenNDR0R1WHVmc3dpSHpDdWtPYTE3eTk2TXlRNUpSSkF3UFBWVmc?oc=5",
@@ -10164,7 +10354,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10179,10 +10369,25 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "e5051ac8afbcc5d3",
+   "title": "Central Bureau of Narcotics (CBN) and PHARMEXCIL Sign Memorandum of Understanding to Boost Legitimate Pharmaceutical Exports and Strengthen Regulatory Cooperation",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0dEN0bFUzVG1QY0o1U2gzWmJVQUdlNEZYOGJwcHRWVmtZZ3BkcnZXLTNfQXpFNU9fZEFicEpOUHBHeFZ6WGl0SnJXVTM4ZEN5NjhWMEUwX0lsMmdxVmdIZkNNVm5SVWpXUXpyeldOWmwzVGtMbHB0ZTVMV0U?oc=5",
+   "summary": "",
+   "published": "2026-09-03T13:52:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "pib.gov.in",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
    "id": "e58347826f4f7c45",
@@ -10194,7 +10399,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10241,7 +10446,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10256,7 +10461,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10286,7 +10491,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "SolarQuarter",
+   "publisher": "solarquarter.com",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -10303,7 +10508,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10318,7 +10523,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10348,7 +10553,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10397,7 +10602,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "Whispers in the Corridors",
+   "publisher": "whispersinthecorridors.in",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -10414,7 +10619,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10645,7 +10850,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10660,7 +10865,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [
     "RBI / banking"
@@ -10677,10 +10882,25 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "939b2c92dabbc9b1",
+   "title": "PIB",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uTHA1YnVaZld2endQZWdhYkR5RFEtU09LeTl6cUVRWGpncGF6cUNEek83VFB0YjBuU0JaZWs2YlNNcnhMSWU2LXVIazdsUFZhOUhUNzZZVEtXLTd2c3c1M3JrblVCN1p6?oc=5",
+   "summary": "",
+   "published": "2026-09-02T16:21:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "pib.gov.in",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
    "id": "5e0fe7e232a2af5c",
@@ -10692,7 +10912,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10707,7 +10927,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10722,7 +10942,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10754,7 +10974,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10769,7 +10989,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10784,7 +11004,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10799,7 +11019,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10814,7 +11034,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10864,7 +11084,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "The Hindu",
+   "publisher": "thehindu.com",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -10881,7 +11101,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10896,7 +11116,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10911,7 +11131,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10943,7 +11163,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10958,7 +11178,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11008,7 +11228,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11040,7 +11260,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11207,7 +11427,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11222,7 +11442,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11237,7 +11457,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11252,7 +11472,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11267,7 +11487,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -11284,7 +11504,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11299,7 +11519,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11331,7 +11551,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11346,7 +11566,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11361,7 +11581,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11376,7 +11596,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11391,7 +11611,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11423,7 +11643,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11472,7 +11692,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11555,7 +11775,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11570,7 +11790,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11585,7 +11805,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11617,7 +11837,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11632,7 +11852,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11664,7 +11884,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11754,7 +11974,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11769,7 +11989,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11784,7 +12004,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11799,7 +12019,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11814,7 +12034,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11829,7 +12049,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11844,7 +12064,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11859,7 +12079,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11874,7 +12094,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11889,7 +12109,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11904,7 +12124,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11919,7 +12139,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11934,7 +12154,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11949,7 +12169,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11964,7 +12184,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11979,7 +12199,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12011,7 +12231,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "PIB",
+   "publisher": "pib.gov.in",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12128,7 +12348,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "mid-day.com",
+   "publisher": "Mid-Day",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -12177,7 +12397,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "firstpost.com",
+   "publisher": "Firstpost",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -12211,7 +12431,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "india-briefing.com",
+   "publisher": "India Briefing",
    "image": null,
    "topics": [
     "Income tax"
