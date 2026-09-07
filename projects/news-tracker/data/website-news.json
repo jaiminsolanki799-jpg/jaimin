@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Website news",
- "generated_at": "2026-09-07T07:37:01+00:00",
+ "generated_at": "2026-09-07T08:45:26+00:00",
  "retention_days": 14,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 100,
    "items": 96,
-   "sample_date": "Mon, 07 Sep 2026 05:21:47 GMT",
+   "sample_date": "Mon, 07 Sep 2026 05:45:56 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Livemint Companies",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 07 Sep 2026 12:49:59 +0530",
+   "sample_date": "Mon, 07 Sep 2026 13:14:32 +0530",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Livemint Markets",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 07 Sep 2026 12:59:40 +0530",
+   "sample_date": "Mon, 07 Sep 2026 14:00:10 +0530",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Livemint Money",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 07 Sep 2026 12:41:24 +0530",
+   "sample_date": "Mon, 07 Sep 2026 13:15:28 +0530",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Business Standard (via Google News)",
@@ -57,7 +57,7 @@
    "items": 100,
    "sample_date": "Sun, 06 Sep 2026 17:52:59 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Financial Express (via Google News)",
@@ -68,7 +68,7 @@
    "items": 96,
    "sample_date": "Sun, 06 Sep 2026 13:04:16 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "BusinessLine",
@@ -77,9 +77,9 @@
    "ok": true,
    "fetched": 60,
    "items": 60,
-   "sample_date": "Mon, 07 Sep 2026 12:59:40 +0530",
+   "sample_date": "Mon, 07 Sep 2026 14:08:51 +0530",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Taxguru",
@@ -88,9 +88,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
-   "sample_date": "Mon, 07 Sep 2026 07:15:53 +0000",
+   "sample_date": "Mon, 07 Sep 2026 08:14:56 +0000",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "RBI press releases",
@@ -99,9 +99,9 @@
    "ok": true,
    "fetched": 10,
    "items": 10,
-   "sample_date": "Mon, 07 Sep 2026 12:10:00",
+   "sample_date": "Mon, 07 Sep 2026 14:00:00",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "SEBI",
@@ -112,7 +112,7 @@
    "items": 30,
    "sample_date": "04 Sep, 2026 +0530",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "PIB Finance Ministry (via Google News)",
@@ -120,10 +120,10 @@
    "category": "Government",
    "ok": true,
    "fetched": 100,
-   "items": 100,
+   "items": 99,
    "sample_date": "Wed, 02 Sep 2026 07:35:00 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Google News: Insolvency / IBC",
@@ -134,7 +134,7 @@
    "items": 99,
    "sample_date": "Mon, 07 Sep 2026 05:39:09 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Google News: GST",
@@ -145,7 +145,7 @@
    "items": 100,
    "sample_date": "Mon, 07 Sep 2026 00:23:49 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Google News: Income tax",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
-   "sample_date": "Sun, 06 Sep 2026 17:34:54 GMT",
+   "sample_date": "Mon, 07 Sep 2026 07:08:50 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   },
   {
    "name": "Google News: MCA / ROC",
@@ -167,7 +167,7 @@
    "items": 100,
    "sample_date": "Sun, 06 Sep 2026 18:52:22 GMT",
    "error": null,
-   "checked_at": "2026-09-07T07:37:01+00:00"
+   "checked_at": "2026-09-07T08:45:26+00:00"
   }
  ],
  "topics": [
@@ -181,14 +181,91 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 373,
+ "new_since_last_run": 407,
  "items": [
   {
+   "id": "a71f8e4dd09a42a5",
+   "title": "GetePay flags sustainability challenge as UPI displaces cards",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/getepay-flags-sustainability-challenge-as-upi-displaces-cards/article71437927.ece",
+   "summary": "The Rajasthan-based company believes the industry may need to move beyond the zero-MDR model for UPI and consider a nominal transaction-linked fee to fund investments",
+   "published": "2026-09-07T08:38:51+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/wdb13m/article71414345.ece/alternates/LANDSCAPE_1200/IMG_upi_2_2_1_COF6UJ03.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "3475b25f613ec911",
+   "title": "Carborundum Universal appoints new CFO",
+   "link": "https://www.thehindubusinessline.com/companies/carborundum-universal-appoints-new-cfo/article71437910.ece",
+   "summary": "Seshadri has over 30 years of experience across leading automotive and industrial manufacturing organisations",
+   "published": "2026-09-07T08:31:55+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/2u8kug/article67797497.ece/alternates/LANDSCAPE_1200/Carborundum%C2%A0Universal.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "9ee73bd69d62a2dc",
+   "title": "India's battery industry set to generate up to 2 mn jobs by FY30: Adecco India",
+   "link": "https://www.thehindubusinessline.com/economy/indias-battery-industry-set-to-generate-up-to-2-mn-jobs-by-fy30-adecco-india/article71437903.ece",
+   "summary": "Lithium Battery manufacturing is expected to contribute 50-60% of India's projected green manufacturing jobs by 2030",
+   "published": "2026-09-07T08:31:15+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/2mzqnv/article71270490.ece/alternates/LANDSCAPE_1200/BL2707_Quantum_Second_Story.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "a72fd6fbb58f279d",
+   "title": "HUL is resetting its growth playbook. Investors want proof",
+   "link": "https://www.livemint.com/market/mark-to-market/hul-growth-strategy-new-india-fmcg-premiumization-11788765124179.html",
+   "summary": "Hindustan Unilever is sharpening its portfolio, investing more and widening its margin range, but has offered no timeline for the growth revival investors are waiting for.",
+   "published": "2026-09-07T08:30:10+00:00",
+   "source": "Livemint Markets",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Hindustan_Unilever_1689875893643_1788769515854_2c8c9937-14b1-4429-b9ce-c39175672937_beb302c9-a4ef-46ca-9450-fe89c37e2693_5bcac3c1-6004-414a-b631-524b7908170d.JPG",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "b3869aac335a51db",
+   "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nasik Jilha Mahila Vikas Sahakari Bank Ltd., Nasik – Extension of Period",
+   "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63535",
+   "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Nasik Jilha Mahila Vikas Sahakari Bank Ltd., Nasik, vide Directive No.CO.DOS.SED.No.S6690/12-22-173/2025-2026 dated December 08, 2025, for a period of six months up to the close of business on June…",
+   "published": "2026-09-07T08:30:00+00:00",
+   "source": "RBI press releases",
+   "category": "Regulator",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "4505e89c27c3b69d",
-   "title": "Sensex today | Stock Market LIVE: Sensex crashes 520 pts, Nifty slips below 23,750; Infy, TechM lead losers",
+   "title": "Sensex today | Stock Market LIVE: Sensex crashes 480 pts, Nifty slips to 23,750; Infy, TechM lead losers",
    "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-7th-september-2026/article71437259.ece",
    "summary": "Sensex, Nifty, Share Prices Live: Benchmark indices opened in negative territory on Monday, September 7, 2026, weighed down by a stronger-than-expected US jobs report that reignited fears of a Federal Reserve rate hike, while elevated crude oil prices and escalating Middle East tensions added to the cautious mood.",
-   "published": "2026-09-07T07:29:40+00:00",
+   "published": "2026-09-07T08:29:11+00:00",
    "source": "BusinessLine",
    "category": "Business",
    "date_known": true,
@@ -197,6 +274,823 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "0973f5be1d5268b1",
+   "title": "Hyundai Motor India targets 20% women representation in executive workforce by 2030",
+   "link": "https://www.thehindubusinessline.com/companies/hyundai-motor-india-targets-20-women-representation-in-executive-workforce-by-2030/article71437899.ece",
+   "summary": "About 45 per cent of young talent recruited by the automaker in 2026 are women, signalling changing workforce trends",
+   "published": "2026-09-07T08:28:41+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/ssa08/article71437923.ece/alternates/LANDSCAPE_1200/IMG_Image_1-_Tarun_Garg__2_1_MTFCP7GN.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "8870148f2d3a0742",
+   "title": "CBIC issues checklist for faster clearance of drugs, cosmetics imports",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTZmVUc1SVNGZHoxTHRuaWwwSzBOVUFzTTlMMFFhZlJfWktrLUZ2WVk2WENoQXVRNlFBbFBYcVUyRnVVVGdvbWF6MUxudlFKdTV2T1dSeVB6a05iRzNCRUJ3MnV5OThsT3B6Nk9OU0psUkctOXRwRmlxR3QwTW5YeDBrWkdKWkY0MkNoVERWRXRyN3l4Y3ZWVVVIMHd4dmJLUE9rbHJsQ2Fpb3RRY182Vm93UWNXUU1YM3JNeGdybk12NGxrTlR2TWxsdm83VXJldHQw0gHYAUFVX3lxTE1FOC1ndjd6WFljRkE3M3VTb3F0dWhLQXpHdFliUVI3cUt3QjZZZ3hhRl9HNF80bjlTdFJaU1JiVTd2NGtTNDM5cVYwZnpaaWhtMGF0THlMVDdfaDZOLVNGbW9KQkNzSVc4WVg2V0xkSm94OXhzRWRjdU9uN01HZnZyWjh3QjZHY1FQbWlLeXduY3FzQTFsTjZCVXI5SXRNTTB0RTNUN290TjZpMDNtbVVfdnk1ZHBfamRJWnI2dFp4M2tYUjZHdEQ2bmVBYVc5SUg3c3JDSEs4Sw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:23:16+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "c595531c707821f8",
+   "title": "Rural vehicle sales jump 19.8%, but tractor growth slows to 3% as monsoon bites",
+   "link": "https://www.thehindubusinessline.com/companies/rural-vehicle-sales-jump-198-but-tractor-growth-slows-to-3-as-monsoon-bites/article71437437.ece",
+   "summary": "Passenger vehicles lead the rural surge, growing 24.99%, more than twice the 10.93% increase in urban markets. Rural two-wheelers rise 20.25% and commercial vehicles 16.33%",
+   "published": "2026-09-07T08:22:44+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/ii2g04/article71293746.ece/alternates/LANDSCAPE_1200/Novo_Tractors_4.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "aeacb2bab9c42dca",
+   "title": "Minda Corp sets ₹1,500 cr export target, eyes growth in EVs, electronics",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzd2UGFzN3FDbC1sNkRXUUtBUlVZbmdqZGFhcHhLRGw2dFphV2VtVHNQdi1uXy1zVUt6aXhKWGdfVnZFMFdpbF9zRTNpR1lUTVl3d3Vidi1QbThSbGc5bk5BU0UyVkxhNHJhOENBMUFLZmFRcWNzdk1wSFprcC05WVowcFVKOHhkT3ZSV0g0YS1sTUZibEJPQnk0NGtOazFnY3dpQUttYjZPRkRLU3hGYmx1SHhfaThSdFlsek0yVdIBxAFBVV95cUxPM0cza0xuQnZ1d1N4VXF6Ym1lREhpQnV0aF9VWllXWGpzMmtURTc5LWpNNTJYcFMxVmFWNVRjWjFqSmxYZkI5RWl3ZllSQzhNaUF3WkowUUx6RlV1dkdFSGdVZWpVcEpqSlZyT0Ntcm80VGx1dFdqZUdYNEd2QmFiMzhtTzlTU0JGSmR6OV80N2VRT040dUVPTkFxRUpyQ2d3ZjlydUZzeHdSdEdpWUFSWUM0REM5c1pGd1lvNlNHN0ZRTC1u?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:22:03+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "84ee575c4a92116a",
+   "title": "RBI’s 30-day VRRR auction gets tepid response",
+   "link": "https://www.thehindubusinessline.com/money-and-banking/rbis-30-day-vrrr-auction-gets-tepid-response/article71437902.ece",
+   "summary": "Banks offered substantially less than the notified amount as the RBI continued efforts to absorb surplus funds from the financial system",
+   "published": "2026-09-07T08:21:34+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/nkmc1n/article71411390.ece/alternates/LANDSCAPE_1200/RBI-issues-striG1JGBVF77.4.jpg.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f143b7610053ecb6",
+   "title": "Oracle Financial Services Software Ltd down for fifth straight session",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRlZmeDJFSVFYZkY1WFh4ejh1VVFUUVpObllLeFBacDdjMlhxTGVIOVlXQV96WnllZnkySWIzdDI5aFRhVG05emFDYXdVeGRDYmJhMWozSmxwckEwMlJoUUk1bFBOTy1uNTJkZ2R3TXVDcDVFUWJVQkFnWWdaTDd6WFRlcGdwQzlyb1BtN0hJRWlfWk5FNXZmT0xaWTBnQ3dsTVdZSXdieURxQ19EZmpGbUNzSHF5UzFjN0k0Qmsyb2VZcUUxQmlpZ2JzWDZvY3A4ZXVhQzNYbHYxZTF6R2R0WW1ETFdVb1HSAewBQVVfeXFMT2ZjZ2h5VE1JTDNFcDl0NXpnZTFINjlHRzRXN0tDQnpvWF90WGlVTUxiUEZkOEEwbE5FN1EwVDljVnZyU2JIOXYtUmNKRG1oYkVXZlRQX0FXTVJxZUdXOHlWaTZnTXdjc3pLbDc4QVI0R2pLMXRyZTh3LWVKXy13aTBEbVREWVBwX3NoUWczYm9xMWw3UF8wRUdhSmJ1YzVkM1BySnFzWG02YXZ6eUJITWNVUjRhRkQ4U0tpNmE2SkFBTVlxY2pBX0FfVjRqXzU5d2hKMlpuZVpxbTBpakJ0eUJRWkRrMXh1OTljMUM?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:21:12+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "a69e369461c5ae1d",
+   "title": "Tata Consultancy Services Ltd slips for fifth straight session",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlJCTjQwSzBZZmNVeWYtZ3pJamRhVDc5ekdxenRfcERsdm1lckxSeWlXUG90SHR3U0tOZW1McHhyeXVzTW4yVGNUZnBwRWZUc3lBZ2lDYTQ0VWRWbGVRV3EtMW9jcy1FWlBPV2lZWHlyYlBMdUdjTTI4dTdLamEzMDh5RWJPSUdqX0U1MTdLNzlLRVh1X25sNHlmOWgxbDVFYnBQQWdEcUxlNkN1U0N6REV4YnFRV0lEX0Z6YVkya3hpakpoQnRhOFY0WDZSWE5HUVlBd0phYWJ3bV9p0gHiAUFVX3lxTE9ZOVYycFRhY0hDWGt0dk1wMlVQc2wxdkRLbFZ4b0JFemFqN1dxVWd6eGZ3SDQ1dzNoTXZjM21zS0ZHTDBlUzYtbWpUcjRwejFacTNwckgwSWV6N0VYLUx4emZtXzVDd2ZIQXlsS1kxTUhuMldwSng4X3Q5LWJLY2Y5cUVlUk05T3hGLXE5UjdyRDBheXdRYURFMDVvOGdGM20zUFBkaFZoQWV3aW5kWXJ3cjhIR2Zxay00MUsxZjVPelpMQUEzbTROUHdlZmk4MkJuUTcwaU4xQmNUM3QzbGVobFE?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:21:03+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f23b62b71e7e9974",
+   "title": "Nestle India Ltd down for fifth straight session",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3J4X092UWJ6dnNnVXQ5T0xlWG5RZERqZERFQTNtdGJWS3MyallaZDdBMy1pR1FmR2s5Zm44aHoxRHg0bG1nNnpZb0VfaDRsdnQwaTVNbnJCOHh2LTdtMUJxbThWMTdCSFBOUk5wanNWdkV6ai1KRXRxY2xnMllsUTZOMFphaUhRXzhzVlZnek1xcFFDN1psSzNYLTVIVTViT1lra2pHUU5yUXJFRXpDR2xOZE1rcmt2dVNyckthcXh2TVpGQV9BY3VB0gHPAUFVX3lxTE5HakEzS1ZheFkzY18zWmlPSVItRXBlRUFrMmVVUy14YXg5UnBHZzBaSFNqLVN4YXNuczAzT0VyMWQ2Mjh6Mm1tSWZlYXpabG90WmVjdUR2Qzc5bl8yQjJQUzhEQUVtZGpoY0tUY1UxZE1nWXR0YzREbE93Z1JYTHpaT0h1cThGNlN3STJVODBtYWZ2YU83UlZrb1M0MXB5VV9JRTdrRmFYbDYtd1l2YjFRUFl2N0lhM1h1aVdfTzNBMi1HdmVJcUpCbUxlb1BkQQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:20:54+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "084b73891cbe3714",
+   "title": "Shriram Finance Ltd slips for fifth straight session",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTJDZnI1NXRyNFdVOTZzb2E2UG1RS2hsZDluRkd3ZjBnOHRubk1qWjZ3OWpzU3BNUVRQU3BDdnpTS0hWaFhIdXRHUzVlY2xPcG1kUy1IOURoRXhiOC1YdUJzMXdIR05zQ3hNMkVvQ0dQVmlZd2g2UHNrZ19MQl8xRTNTRmNMS1RGU1hDdGlMdktZTE5Lal90V0N0VExxb3R4NFZGOWowTkdiS3JEQ2s3R1N0TzZadzlacEowUWtBX01qbjBuS19DdjVQcTNMS2fSAdQBQVVfeXFMTjdqT0ptX3pLb2xSanRoX0o3RVFVTVpwRlhKMEJxUUhqUEVuQ3VXWmM3c01pbjl3SlNIeE11dUMzWHpyOWFoZGtaSXR0aFZPNS01UEtnMzRjTnlxX1NLREZFMDBYdXk2enRqQlpUQlhJT213ZFlMcEU4S3QxbkNnOF8tM2wtTnc2M0JYdVItLUVnVDVUaDFEaFluYkZSdFNyVzFqeXBPeEkzelRwemx5TWpyN3dQQTZLX3oyVHUyVjJsQ2tIdnNNN0pQakF0UzFId3g5c2M?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:20:46+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "04946260d91f5948",
+   "title": "Bharat Forge Ltd drops for fifth straight session",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU285X0tadGVSRWZpYWNIWUdjNUZ3ZU1Ca0pxRTNlTTUxYWZmZE1LTXlUaUNBT0hYSEtaOGtHNHlueDlsWjAxLXBkbFpwdmhsWWp0RkYzUmZTaEdCX3A0TVo2T2V0V0xZbmpHYzJ6TDkydGUtaVFoOG85NnBFN2tmSmV1d29fc1ZfbFZjV3ppMTJLNTNlZmIyaDUyaVJwVm90UXlNMXpvSks3Si1tQW9SbmtkeFg1alF1anJxdTRvbzhHWHZNcTRNSkJCa9IB0AFBVV95cUxNZ0pZdDZfUnBsTVdLNlROMjFza3lES3Y5OWFlSk13NmtWX1VoWWN2UFV2MG1XWVh5SmpYbXc3QTNHTjRTMTRzYmxlMUtRVGpqVURmRndTSTNDYllWLUlpel9Qcm5WRWVGSTVkRmtBZ0gtVng3RktTb0lvZVdqVVdpSUYzWkhJY2lJX2tIN0ZubnBPRmx6X1pVM3BiR1Z3b1NoS3ZGNXhqenpBX01iU0tpTF9icXN5Y3hseWdXWkk4LTFxMzhGSWxPYnMwbDFWX3FI?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:20:38+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "88332440605b608a",
+   "title": "AU Small Finance Bank Ltd eases for fifth straight session",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjhYRENPVFF2eDloQlRkd2w1UE83LWMycXlBTXdWU0pTUUlXR1FHb3NYX0U2S3Q0X0U1akk3TDA3UGhhYlVEcU5JWnZPbDA1MjJuRkh4blcwSmt0U0Y5dFZ4UGhZZFQ2Y1huYlBvSmM4RzFDRm5iSDByelZjWkNpNVZnemloZGw3RUlIQ216TnltSkRfRVJydjJqeTVRc2luYnNxVW91Q2pmR21lUS04T1lwSXE5MEVKS0pTZXpQdmt5MnZYdkpaSXZNZGRSWWxRcl9OMlJpNNIB3AFBVV95cUxOemZ1dldESnpvM2otZWQyVXRMM1dNZmgwaFd4WWdMTE1xZTRpRll4OTFMeVloZUd1R2lfUnMtejkzcnYwdnFaU3oxRTl6WndHQlhSak9XemlkcVNfQXhpR3R4TGtTTE9BVy1ZblZLcllLc2ctT1BuVlI3bkQxYXVvM3NyWkdHM1lJdFhSd2ZQcEx5elYxbnhSVkdxYmhPR2VEazk5bEtuMU1uM3hzTHI4UVJTMGNfbFNLYUxqWXFmSWx0QWpMeW5oanFrWXgzR2cwMGRuZWtUQkdQSk0z?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:20:28+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "5025b600af5c5e17",
+   "title": "Mangalam Worldwide empaneled as approved vendor with Abu Dhabi National Oil Company",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWkc5OFFZenhuUnlRQ29lM0NGa04xWFRXdVFlRE5ub1Zxa0hTSE55eEpMbWE2MF9iSzF4U2Utd0NSVldHeGExdW5XeVVMRGQxNGNpcllmcXBydUpBUU1NSjNUdTdZUnRIS1VyWVY0TmJvTkpGZ19hR1dIOGxpYWw1bENxdkF0d3U1TXpXV01TeE9FMDFOdkNQMGFINXg1Ui1pd2xzbXZyN0NMRmtqNzFTdzl4amdpRnZTelBkTzE5aGVwWTMzbTFZeWFGbTdYQWZ2Rm13R1gzUk4yejdMMUVRX3dTVVZHOXJvMUdraURTMWNubFJGRF9tV9IB_gFBVV95cUxNaVVra0JuX1kwQWVYU0d2TG1BUm5DZG9KUzlLMTFMOFkwRXB3Y3RZUW9icEFUemtmbkktaGk3VDRFblJoTXZ5emFGQ0huWE1pa0hhdWpjdXQyV2VBQ0Fpd3N0bnZyTndud2RTWnR3aDJmT013bG5BaVUtSnhXUFdxWk9kZVo3MGVrZHVmZHJtTGYzcjdxSERNZDVkREprSWwwUGNYRldNWTJIRXFQQjNuODRlT2xCQlZ5T2Z5MFFOV2tQd2htUnA1aU92c01TTk5jZW1ESW16VkxYeXF4UDhwb01jVy1EYW1Yc1N0S3lCS3NhUm9RSHBicUNDNWpSQQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:20:11+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "ee3c8aa8a7744fdd",
+   "title": "Asston Pharmaceuticals allots 24.10 lakh equity shares",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dtVG9ENjRFN2ZzUHhVbkpUU1U5ZEtsSmtoV2o1c2ZTWVM2RUJ0TnFIclN5dTM3TnlUREdJU1JacWpPWU9GNjJjT2pzMUJOT0kyR3NyMU9FeTh3VFpsSWNyM2l1V2oxVlM1RVUwTWFzT20tLTdhdnp3Qnk2c1BsWEgyQ25JT3lETWkzMEg1bHlnaFl5WE5sTUVicWFLR3hQMi1BVm1QTFhhR3NpbFVHNXBtSmdYOV82THFRUFc1c05wa2h1LUhON3hFdTNNUFE0N0HSAdcBQVVfeXFMTWdrSUZET05NVnlPc05SdjlrNUFjX0JsUmpwVDRUTDdSQzgxd0tELTROZHlldlZJZTRsZzlta3o5OWRKLTV5SUNFRGVSMXZJVzE0WDRDaW5FYnZ0TGg5dzhfMGpQMUZiWTUzZG9xTU82dUFkWGxmV242Ul93Z1ZHOGRUQkVnU0dFX1I3RS1CejVPZC1FUk8yZ1NBVVRZM3pPMGlPX1I3NlVIS2dvX0JNbnhlMGJtbWFqV1BFX3Z3ZkZvZGhRdFVlcnE4c0phdXpSNFFXYnQ5YWs?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:20:02+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "9b3218df2ef6b917",
+   "title": "Onam boost lifts Kerala two-wheeler sales, freight activity",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/onam-boost-lifts-kerala-two-wheeler-sales-freight-activity/article71434812.ece",
+   "summary": "Across the country, truck rentals remained higher on a y-o-y basis across all major trunk routes in August, supported by festive demand despite weather-related disruptions affecting vehicular movement in some regions",
+   "published": "2026-09-07T08:18:05+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/3o1agl/article70014940.ece/alternates/LANDSCAPE_1200/ONAM%20FESTIVAL%20CELEBRATION%20STUDENTS%20RANGOLI%20FLORAL_04.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "7fdacabc5db591ac",
+   "title": "Deepa Jewellers IPO listing date tomorrow: GMP at ₹23.5; check subscription, allotment",
+   "link": "https://www.livemint.com/market/ipo/deepa-jewellers-ipo-listing-date-tomorrow-gmp-at-rs-23-5-check-subscription-allotment-11788766311514.html",
+   "summary": "Deepa Jewellers IPO shares are set to list on 8 September after strong subscription rates from various investor segments. The IPO's grey market premium suggests a promising debut, with an expected listing price of ₹200.5—about 13.28% above the upper IPO price of ₹177.",
+   "published": "2026-09-07T08:16:41+00:00",
+   "source": "Livemint Markets",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Deepa_Jewellers_IPO_1788768731129_7f52b443-64b9-4cfd-af8b-17dc70225d23_1788768737474_8edbdbb8-fdef-4253-a30a-e8890fd8d320_adadc8d1-96d7-4d57-9f1d-093942a0b5e7_2869a676-a174-428a-969d-5e3d6cc0a863.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "bd7812742e041a79",
+   "title": "Stock Market Holiday: Is the US stock market closed today for Labour Day 2026?",
+   "link": "https://www.livemint.com/market/stock-market-holiday-is-the-us-stock-market-closed-today-for-labour-day-2026-11788767862391.html",
+   "summary": "Wall Street is closed for Labor Day on September 7, with trading resuming September 8. Investors will focus on key economic indicators, like inflation data, post the closure as the Fed's interest-rate policy remains in question amid rising inflation and geopolitical tensions.",
+   "published": "2026-09-07T08:15:46+00:00",
+   "source": "Livemint Markets",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/us_markets_1788768388256_5fc8c230-53b3-4ea5-9bfa-48d75db45603_1788768395667_c7fa002b-5bb5-46ab-973d-30cf32530aa9_4b5decec-2c20-4cb6-97e5-4bb517c1909d_4000c0bb-e274-4dce-b7b1-32455435c30d.png",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "9fd840432437a717",
+   "title": "NIIF names Gauravjit Singh managing partner for capital formation",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmQ5T2cwZXRMMHZCeGtQTVEyU0lfMWpGWFNaRFlSa05LVXI0SWszZWkwVTItS3JiRnpIWnlRYzVyNVVmcklPVF9keGdvRTJzRmxGdGlJZWRvSnE1NDZrNFZEckVHYm5TazdvNmZWOG9HV25rR3I0T1djRU83YjE3b1EzN0E1enE4cEo1bFNnLU4zTlEtQ2hJLVJvOEVKWVBXSTNUZUJkVUxnbUtqVnBkSDd6SlNiemZ3QWhZWFV2VkNsWTgyalEw0gHMAUFVX3lxTE82Slc3VHI4ejh6VWNSTFRKT0R6N3NKRk1rcFJZYXNWdk1HUGJDb2F3UXRRcjVpdGItczc0WEpUZGw3aWVHemx3VjMzcEtkY0xULXZQWTBSY0JxWURZMEVMLU9kaGpXTXZwaDlxOEpHSE9HR0tEQmZHbmN0eTJBaTgzUVRTbVJWbDlnSmxxYXJCUnFEZ0FvbmlSbVlTMmYyUGJDUTg2VDZfaHRydDhWTEo4RXA4Y3p5a0NNVmVEWV9lSWFGTGM4MnVaR25kRQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:15:44+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f53de57b03d7524c",
+   "title": "Corporate Law | Sugar Stock Limit Reduced to 2,000 Quintals; Kolkata Allowed 4,000 Quintals",
+   "link": "https://taxguru.in/corporate-law/sugar-stock-limit-reduced-2-000-quintals-kolkata-allowed-4-000-quintals.html",
+   "summary": "Centre cuts sugar stock limit to 2,000 quintals from 15 September 2026, while allowing up to 4,000 quintals in Kolkata’s extended metro areas.",
+   "published": "2026-09-07T08:14:56+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "Editor",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "8575c74a55c10f5d",
+   "title": "Air India CEO-designate Tewolde Gebremariam seeks staff support, calls for fewer disruptions",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/air-india-ceo-designate-tewolde-gebremariam-seeks-staff-support-calls-for-fewer-disruptions/article71437872.ece",
+   "summary": "The incoming chief said meaningful change would require employee commitment as he prepares to assume leadership after necessary approvals",
+   "published": "2026-09-07T08:14:26+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/wc3jt1/article71437892.ece/alternates/LANDSCAPE_1200/Air-India-appoiGSDGBQNAK.4.jpg.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "62adb37faec1e1e8",
+   "title": "WikiConference India 2026 concludes in Kochi",
+   "link": "https://www.thehindubusinessline.com/info-tech/wikiconference-india-2026-concludes-in-kochi/article71437673.ece",
+   "summary": "Nearly 100 participants from India and 25 participants from Bangladesh, Nepal, Sri Lanka and Bhutan attended the conference with scholarships",
+   "published": "2026-09-07T08:10:22+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/i77ez6/article71437773.ece/alternates/LANDSCAPE_1200/iStock-458651827.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "849bfc3e6050e90c",
+   "title": "Air India Chairman calls for greater cost consciousness across airline",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/air-india-chairman-calls-for-greater-cost-consciousness-across-airline/article71437733.ece",
+   "summary": "Chandrasekaran says safety, customer trust and operational execution will be key priorities as carrier enters next phase",
+   "published": "2026-09-07T08:09:34+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/chttjn/article71437885.ece/alternates/LANDSCAPE_1200/Air%20India%20Trio.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
+   "id": "83a9415ab453500f",
+   "title": "EV share in commercial vehicles more than doubles to 5.18%; heavy trucks hit 3.6%",
+   "link": "https://www.thehindubusinessline.com/companies/ev-share-in-commercial-vehicles-more-than-doubles-to-518-heavy-trucks-hit-36/article71437426.ece",
+   "summary": "Overall commercial-vehicle retail stood at 90,769 units, up 14.45% per cent year-on-year but down 8.93 per cent from July Electric vehicles more than doubled their share of India’s commercial-vehicle market to a record 5.18% in August from 2.06% a year earlier, while electric penetration in heavy goods vehicles rose t…",
+   "published": "2026-09-07T08:05:00+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/qb2pmn/article71394165.ece/alternates/LANDSCAPE_1200/bl27-think-dc-mG5DGENEUD.3.jpg.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "a1370e50081b388f",
+   "title": "What is BESS and why is India betting big on battery storage?",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUJWTG5RYzJrSnNTNnVrdUdpR3hhYU1KWVdnVWVPdUY1WHpLb0U4b2hwQ3dRaVhnUmRLZ29VLXdUaFYzdmZ6TGdndXNLcFFBTzZaTnowa2RvUW5PN2lQa2dyRXVwVGlyWlhlU010SzZjS0dYaTdFQlBUY1RKR0R1ZmFfdnBraUhUNzRyS3VMeTFMTFJMWUhaNXZrdDhFNGVFalgzOUtmQjJPN3VnX25DVlhZLTZQU3Nn0gG-AUFVX3lxTFB6WHZKaWMyTlZGd0xLYWJhUTR2ZGcyREhQQTE2OXh1REtoN3h3Yl9TMWJJYkRKc3NIU3E0bF9hNFIxamxQWlYxNG8tVzZzTDhHQ0Y2RTVDeURKcWdadWFYSVNWR2ZEd2ZkS3E4V1BLSmdhNENYWWNSWXlLd1B0cEVDNXNWQXNVTzZaNzh4dVV3NEk0RHZOaHk5cWFxRm92VWhjTWtDeGd5OGczbTJUVE1uN0VMNG82bXhWcWUyaWc?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:04:49+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "41705bd588b17484",
+   "title": "Emkay Global Financial Services raises Rs 50 cr via NCD issuance",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNm8xNUZhZE9nVm5XQjRNSkhDbkI3dnR0S3lqU0NIZmZEd2F3d3I3VFNPYjFTdEdZRlBSTTg0YWNnNWd3WTMzU1piOHlUdU81cFBWU1czazRjLXNCa184QU10VWpBQkpOemlpX3MxVF9mbWl1YmtleTczajB3U2I1Q3J2VDRvbHZxWWg5b2ZiaVZlNUtySUljSlZVRlBrLXVBdHJCMlAtYzQ5dU5BaGFrcVU3U0hfc3Jyb3QwOUlTdkZOM0NlWWMxNEoxZ3k2S1pyWTB6U045OGtLVEV0OUhr0gHkAUFVX3lxTFA0VHVpemt1UzJUa1BaZk14TldGajJTVWFzNWZOTW80bUoxU1p2SnN3YWdvTUxnVE5qd19pRERCdkkwTEdxRWpYMVZlQUQ1UXZmOFAxb2NMNGNnVVNMTm5pWFZpM2xSWXprb0RiZ0dzOFRtQWxpSHJvb3M3ak1UcUhpd0VOYjZNeEtaakdkQkVzdU8tZWhURmNSTVZFVFo3RV9YSE9XajdfYnV5dHhoV08xVXRzTllKZ3dBUzhXR3dHbElzUzdNSTc5OW1nbnBuZzJDaXgtMFdVN3d1eVpjZF9vcVAxbA?oc=5",
+   "summary": "",
+   "published": "2026-09-07T08:01:02+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "593d34eb3863a9b0",
+   "title": "India can emerge as major global hub for medical value tourism: Goyal",
+   "link": "https://www.thehindubusinessline.com/economy/india-can-emerge-as-major-global-hub-for-medical-value-tourism-goyal/article71437829.ece",
+   "summary": "India’s healthcare ecosystem spans hospitals, pharmaceuticals, diagnostics, medical equipment, traditional medicine and a skilled pool of healthcare professionals",
+   "published": "2026-09-07T07:59:24+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/dbkslw/article71437858.ece/alternates/LANDSCAPE_1200/PTI09_05_2026_000259B.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "df03e0eaea980fb6",
+   "title": "OMCs seek Rs 75,000 crore for fuel losses; Centre to decide in 2027",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmkxY3NEY3RpMFpqZG5pd2tEaGhQMG5vNjViZnNZeFc2TVl5Q2Jtc2V4YkN5N3E5amowNVp3MS1oR09HN2dJRUl3RzFSVWRhNnQ4emlCb01RVmx2NmxkekpJZ2NlWlcxVTJOTlR3SnU3U3l4a2NGT1RQVUFTYThLUDQ5MnhSWkpWMk1GT2FUZG5oTEpIbmV5a2FLWmZvbmtSZElqSlFQaVdWZmlSWW9vSzJ5N2hWTFg2bXBtY1hIYlVZZzA4ZW9VZjNVZ9IB0AFBVV95cUxOVUlYV1MxclZYTnUyT0E0ekJLM1dadDVGRXRGZUZIRnNXdGx2ODRMQ1BtM0FjckNYVXhXdzNLS0c5MUdQNmY5el9XWHk3SU5qcG5ybUg2M25ocFBnMjc3TnNhZEJDNVpMbHRSRWQzZnc0UUwxUmhOUVBjbUQwbzlEN2M2TWVJUzN2elBkY1RaY3ZaSDRYbTdYZzBEbnFJOW0tQ3N3YWJibHJLd0ZNbVM4OHJnRmpiSTdQWldCTFlZaG1pX3Rha0gxUkpvYl9RTGhP?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:55:29+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "c141439ee9c7b0af",
+   "title": "Fema / RBI | FEMA Non-Debt Instruments Fourth Amendment Rules 2026 Permit Inventory E-Commerce Exports",
+   "link": "https://taxguru.in/rbi/fema-non-debt-instruments-fourth-amendment-rules-2026-permit-inventory-commerce-exports.html",
+   "summary": "Fourth Amendment to FEMA Non-Debt Instruments Rules, 2019 permits inventory-based e-commerce exports of Indian-made goods subject to FTP 2023.",
+   "published": "2026-09-07T07:54:19+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "Editor",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "5b0ccff0224b3b56",
+   "title": "Tata Boeing Aerospace rolls out 400th Apache fuselage for global supply",
+   "link": "https://www.thehindubusinessline.com/economy/logistics/tata-boeing-aerospace-rolls-out-400th-apache-fuselage-for-global-supply/article71437826.ece",
+   "summary": "The Hyderabad facility uses robotics, automation and advanced aerospace manufacturing technologies, while new production plans could create high-tech jobs in India",
+   "published": "2026-09-07T07:53:50+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/ip20ku/article71437841.ece/alternates/LANDSCAPE_1200/IMG_Tata_Boeing_Aerospac_2_1_DCAF8EB1.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "6bda0f1ac947cee7",
+   "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up",
+   "link": "https://www.thehindubusinessline.com/info-tech/mobiles-tablets/huawei-launches-new-foldable-smartphone-as-competition-with-xiaomi-apple-heats-up/article71437822.ece",
+   "summary": "The ‌new Mate XT2 folds out twice to open into a tablet-sized screen ‌and features Huawei's new Kirin ‌9050 ⁠Pro chip",
+   "published": "2026-09-07T07:53:44+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/11hkk9/article71020410.ece/alternates/LANDSCAPE_1200/2026-05-25T021001Z_1157975007_RC2U0FARPI6X_RTRMADP_3_CHINA-AI-HUAWEI.JPG",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "d9ed93574b36cccb",
+   "title": "Corporate Law | ECLGS 5.0: ₹2.55 Lakh Crore Credit Support for MSMEs, Non-MSMEs and Airlines",
+   "link": "https://taxguru.in/corporate-law/eclgs-5-0-rs-2-55-lakh-crore-credit-support-msmes-non-msmes-airlines.html",
+   "summary": "PIB Backgrounder details ECLGS 5.0, offering government-backed credit guarantees, additional working capital and support to MSMEs, non-MSMEs and airlines.",
+   "published": "2026-09-07T07:53:29+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "editor8",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "be53f13ffd3774c7",
+   "title": "CBIC issues checklist for clearance of cosmetics, drugs, medical devices imports",
+   "link": "https://www.thehindubusinessline.com/economy/cbic-issues-checklist-for-clearance-of-cosmetics-drugs-medical-devices-imports/article71437783.ece",
+   "summary": "The checklist follows the Central Drugs Standard Control Organisation (CDSCO)'s measures to facilitate and enhance ease of doing business in these products",
+   "published": "2026-09-07T07:50:26+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/tnrftq/article71437830.ece/alternates/LANDSCAPE_1200/iStock-2261177990%201.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "1ba6fb7707ad26ef",
+   "title": "Multibagger stock Himadri up 50% in 6 months amid major expansion, investment plans",
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-himadri-up-50-in-6-months-amid-major-expansion-investment-plans-11788764102349.html",
+   "summary": "Over a longer timeframe of three years, Himadri stock has delivered a multibagger return of 150%, while over the last five years, it has surged 1,375%. &nbsp;The chemical stock has jumped about 50% over the last six months.",
+   "published": "2026-09-07T07:49:05+00:00",
+   "source": "Livemint Markets",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Himadri_1788764695848_12306240-0bea-4fd5-802e-a0b6b2bd7efe_1788764701136_3299d127-d309-418d-ba33-74b24fc6e1bb_9180bfd3-450f-4a2e-93d3-25a14c3bb455_87fff914-7eea-42e2-be0d-0d9ae73d6343.png",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "769bd6da397d1b9d",
+   "title": "Corporate Law | CCPA Imposes ₹10 Lakh Penalty on Dial4Trade for Online Listing and Sale of Ammonium Nitrate Without Mandatory Safeguards",
+   "link": "https://taxguru.in/corporate-law/ccpa-imposes-rs-10-lakh-penalty-dial4trade-online-listing-sale-ammonium-nitrate-without-mandatory-safeguards.html",
+   "summary": "CCPA penalises Dial4Trade ₹10 lakh for listing and facilitating sale of Ammonium Nitrate without licence verification, buyer checks and safety disclosures.",
+   "published": "2026-09-07T07:47:51+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "editor8",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "4894ee324568fce6",
+   "title": "Prasol Chemicals IPO opens tomorrow at ₹643-676 price band, brokerages recommend subscribing for long-term",
+   "link": "https://www.thehindubusinessline.com/markets/prasol-chemicals-ipo-opens-tomorrow-at-643-676-price-band-brokerages-recommend-subscribing-for-long-term/article71437744.ece",
+   "summary": "The IPO comprises a fresh issue of equity shares worth up to ₹80 crore and an offer for sale of shares worth up to ₹420 crore by selling shareholders",
+   "published": "2026-09-07T07:47:16+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/7lda8u/article71434514.ece/alternates/LANDSCAPE_1200/BL23_IPO_ahead_sign.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "3473c890abc16f49",
+   "title": "Gland Pharma Ltd gains for third straight session",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmRDcXZ0dVd0NnpoNE9tWnI2OUtUVm80cnpSN2VjY09oeVJuT1laMEpfaTBYNWFFbENXcm5NS0JzcW1TUWs2cnJla3BkT0FlWGpnMnlzYzFqM05BdDlPbnFOZFEwMk5XaGFlNVdxc0dkOFRsa0pkSlBmb2didFZDc090R1ljY1pON0NzX3RVdGlRVmtpSmVjOHZnYld0eVA5aTJGY0hYeTQ0X040YkZyc3lraG92NlEtcmVqeTFnT1hGZkFGTmQ3SXdnNNIB0AFBVV95cUxOeVlLWFVLUllCc0pQdk0ySHNudVZPbS1qcW05ZF83WUJ3b1YxOTNsd2M0UmpxQ1lsMTVqaVFsM1c2MHI3bkpELU13czJSd2N1NHhqdW1nRDEzMXV4Um93aDFOOVpWZ1RTaUdwdGdZemRENUJlcFJLcHF3WDJ4VmpwTUV5ZFZyZlBiSFJ1OUtpZ1BBUnoyOUV3bFM5aWVHN01SV3hnaFd5Rk9KQjRGWTlWU2ZzTy1NTE4xbUp5LV9HcWd1SWNHR3EzcThlR2ZaMXds?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:46:54+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f1b150fafd7ae05f",
+   "title": "Corporate Law | EPFO Invites PF Trusts to Seek Retrospective Exemption Regularisation under EPF Scheme 2026 Amnesty",
+   "link": "https://taxguru.in/corporate-law/epfo-invites-pf-trusts-seek-retrospective-exemption-regularisation-epf-scheme-2026-amnesty.html",
+   "summary": "EPFO invites eligible PF Trusts to seek retrospective regularisation of exempt status under EPF Scheme 2026 Amnesty provisions by 28 December 2026.",
+   "published": "2026-09-07T07:46:03+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "Editor",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "b231ba8e3105e0fe",
+   "title": "Shakti Pumps invests Rs 11 cr in WoS - Shakti Energy Solutions",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPXzJqcDNEVTFLX3o3VkE3c0pyMzZfZDBKRm04TnFJdkhJNHNlaktvbVZlT1NOclkzNHJZV0IzV0tuWWVLNnY5Q2hTVFZzOVJ0TUFBYkQ5ZjJKd0VGaGkycDJUNklkLUdwM3VYUERFZzdjQmo4ZXZocXp1dW9Zd1RZOWxsZFdONWFhdHNqeFpMb3FudnBrMjlfNkxDYW1zQUk0bWZCWWtyQl9qcHI3NkpVQzEyU2pfWUY3UUp4TXJDZTJtOHp0dVRnSzJPZElNN3RPci0zWXFvVUoyUdIB3wFBVV95cUxOejQwUlgyZzJHNlN2TkpON1FRWUY2NTBlajdvNUljQW95WjFVVjYzZmFiMVRqLWxOTmNQQURDRlZLa1p5SEJrVFY4X1oxd1pvOXRmSnY0bERWTm9LdTRULUlqR19IaVhMeTR2M0JVTmx1QmhWMkNNMGVwamVOT0g3RmNYNDVteFJoek9oa1hpNTh2VTlmX044ZHdaMzM3SW5fRW00bXFZZzY4QVI5MURkeXJYTm5xQnpRc3BzaWxJd0tqSnNHY08ydTEwcTFLUG5HZ3Jmc1NqTldBcjZieFZB?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:46:01+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "947bad118b5e6df0",
+   "title": "Income Tax | Chennai ITAT Quashes U/s 143(3) r.w.s. 144C Order on Dissolved Company",
+   "link": "https://taxguru.in/income-tax/chennai-itat-quashes-143-3-144c-order-dissolved-company.html",
+   "summary": "Chennai ITAT quashes assessment framed on a non-existent amalgamating company, holding it a substantive illegality not curable under section 292B.",
+   "published": "2026-09-07T07:45:34+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "CA Vijayakumar Shetty",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "788957bf5b57520e",
+   "title": "Novartis India to acquire Pfizer's ‘Minipress’ trademark for ₹1,250 crore",
+   "link": "https://www.thehindubusinessline.com/companies/novartis-india-to-acquire-pfizers-minipress-trademark-for-1250-crore/article71437778.ece",
+   "summary": "The deal includes trademarks registered in India and related intellectual property rights, with Minipress XL generating ₹228.6 crore revenue in the year ended July 2026.",
+   "published": "2026-09-07T07:45:32+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/4qoz6j/article71437821.ece/alternates/LANDSCAPE_1200/2026-05-31T094415Z_1994076780_RC28KLAMEKJ3_RTRMADP_3_NOVARTIS-AG-CANCER.JPG",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "8580ed4d5340644b",
+   "title": "Only 4 mid-cap funds cross17% in 3-year SIP returns; HSBC Midcap led at 20.70% while HDFC and Kotak lagged",
+   "link": "https://www.livemint.com/money/personal-finance/only-4-mid-cap-funds-cross17-in-3-year-sip-returns-hsbc-midcap-led-at-20-70-while-hdfc-and-kotak-lagged-11788766566209.html",
+   "summary": "Only four mid-cap funds delivered over 17% annualised three-year SIP returns, with HSBC Midcap Fund topping the list at 20.70%. Value Research data shows that several of the category’s largest funds by AUM delivered lower returns, highlighting the wide performance gap.",
+   "published": "2026-09-07T07:45:28+00:00",
+   "source": "Livemint Money",
+   "category": "Personal finance",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generated_Image_zhni8zhniq8zhni_1788767057_1788767070065_7e7847a1-e3e1-44e6-b5b7-8febb4013446_1788767070225_7caa0ef9-3601-4b84-8898-7cb60014561f_7e54e441-5937-4d42-8153-eb4720981c6d_586d9ce1-a982-4cf0-868a-954616fcdbb8.png",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f3949fdf38a122fa",
+   "title": "SC junks camp plea against ₹363 crore GST demand on Vodafone Idea",
+   "link": "https://www.livemint.com/companies/news/sc-gst-demand-vodafone-idea-mobile-services-india-telecom-companies-11788764690294.html",
+   "summary": "The dispute concerns GST proceedings against Vodafone Idea's erstwhile company Vodafone Mobile Services, arising from the sale of its telecom tower business as a going concern.",
+   "published": "2026-09-07T07:44:32+00:00",
+   "source": "Livemint Companies",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1788766849938_0614a1b9-5dc0-45b3-8da8-1a7db962ee20_fe88bfd5-96f1-4149-b627-a0a085f323bf_6496ed48-b616-4a10-b5c9-9f48609729a7.jpg",
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "c6e4f3de87cd32a4",
+   "title": "SC junks Centre’s plea against ₹363 crore GST demand on Vodafone Idea",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYk9ZUDItUW05eWZhUXpkMjZyM0NDMU1jTlRDQS1lMjl4dXVPbE5IUW4yQkNzekRBTC1NTGhEMXNEX0x4b250VXVuaVM3bUJnUjhHX3Y4SmhaSUZ4R1pza0lGc1RnemhHTHdINkZMTTZOX0NIRTV3dW9rTDlqTU02d3NaR1ZQNS1TUjhSV1BsVFY5QXk3X1ZkQmozYzc3X0h1bHdIM2JxalU2X0x6YVVlYmo3OGdQdktkYWZfYmUxOG1mZUxOaUHSAcsBQVVfeXFMT2lMck5SYnAyNGFtQVZDb3l5MXRKcU93bnRveUUxSXFhOUE0OEhSaHJKbmVWVDdCbVppS0pjalFfZHBRS1FjVU9IbHpYVjVEQThlQUxDeGxRT2lkMGhsazFtM3doTTdfMHgwNzhjVWZhY3pJNmtMMk43SVFhUUwwTEU2c2JKWHJacU10QXdsUEl5SmVBZTFMY0ZqVHdrb0lITEh5UnZjOW5EZ2N4UnhaLUVlWUtSYXpYdTRLV0ZTc3A1ZTd5MnkwY2FSMms?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:44:32+00:00",
+   "source": "Google News: GST",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": null,
+   "publisher": "Livemint",
+   "image": null,
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "e0eb1a113566780f",
+   "title": "Corporate Law | EPFO VISHWAS 2026 Scheme Offers Reduced EPF Damages for Long-Pending Disputes",
+   "link": "https://taxguru.in/corporate-law/epfo-vishwas-2026-scheme-offers-reduced-epf-damages-long-pending-disputes.html",
+   "summary": "EPFO urges eligible establishments to settle long-pending EPF damages disputes under VISHWAS, 2026 at substantially reduced rates by 28 December 2026.",
+   "published": "2026-09-07T07:44:23+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "Editor",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f815a4837e6dfb3c",
+   "title": "Corporate Law | IRDAI Warns Public Against Fraudulent Website Impersonating Bima Bharosa/IGMS",
+   "link": "https://taxguru.in/corporate-law/irdai-warns-public-against-fraudulent-website-impersonating-bima-bharosa-igms.html",
+   "summary": "IRDAI cautions policyholders against igmsirdai.online and urges use of only the official Bima Bharosa portal for insurance grievances.",
+   "published": "2026-09-07T07:44:06+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "Editor",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "48cd4d6738ea841a",
+   "title": "CA, CS, CMA | ICAI President’s Message: Advancing Financial Literacy, Global Professional Pathways & Financial Empowerment",
+   "link": "https://taxguru.in/chartered-accountant/icai-presidents-message-advancing-financial-literacy-global-professional-pathways-financial-empowerment.html",
+   "summary": "ICAI President highlights financial literacy, global mobility, IFSC opportunities, public finance, tax, audit quality and professional initiatives for 2026.",
+   "published": "2026-09-07T07:43:38+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "Editor",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "0f704a6826edab01",
+   "title": "‘Better than the best’: Chandrasekaran sets Air India’s safety bar as CEO handover begins",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcFUwTFg4V1loRGs2N0hZMUdlT192Q1l1YWhpVzlkRnNLLTVDTVB5LU5EZGk5OVNQeDcyay1MUTVid0pvMWxFaEZJOWg0WWtpRUZjVG5WOWFma0xibDZWSzZFNUZjb2k0dnJ4ak0tRDh3M2ZEbERhQ2gweF9mZE13NkJsWnpoRGtQOU5ndlF0UXcwdGNJakUzSFB1NHBtdVk1ZmhIX3hlT09neXZkVzZFVU9zbFIybC1xbXJaZmV1M3Utb1BscmRNT2dGd3NUXzljNmdJNE1oX0p3TnfSAeABQVVfeXFMTUlkd0s4VFhqREx6em92b1JrVkRZMTFVdWtnRWVhUFUyMlZxOW9pc2VSS3RMUVNTY1k4VVJ5cU13U1FrR2hHdmZ6dFQtTzVzVXJnU2ZHQURST2VzVDNHZWJiUTZsOWpuSGVReHUzRUwxQkpxeXRyWE5fMzM1SjVJcTJybEhJSDVxMlFEb3ZNazdNc0EyVTVHVXU1WjhNR1dQSVBtT1gxRnk0QnRYM1FIbDdWbHBwcDdCRFBmaFZMS3RmYVNzYy1iblNBRFZib1ZGYW1xbFZMcTRJZ1ZxNVlVSzk?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:42:31+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "5472ee8396cc5c1a",
+   "title": "US wants India ‘by our side’ as NASA returns to the Moon, says envoy",
+   "link": "https://www.thehindubusinessline.com/news/science/us-wants-india-by-our-side-as-nasa-returns-to-the-moon-says-envoy/article71437680.ece",
+   "summary": "Speaking at Bengaluru Space Expo 2026, the envoy highlighted joint missions, human spaceflight cooperation and opportunities for Indian space startups.",
+   "published": "2026-09-07T07:42:13+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/j000yc/article71437690.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000070B.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
+   "id": "9faa8c5f4a9b40a1",
+   "title": "Australia, India deepen space partnership, says High Commissioner Philip Green",
+   "link": "https://www.thehindubusinessline.com/news/science/australia-india-deepen-space-partnership-says-high-commissioner-philip-green/article71437749.ece",
+   "summary": "Australia is positioning its space industry as a complementary partner to India, highlighting technology, geography, investment and growing private-sector capabilities",
+   "published": "2026-09-07T07:41:14+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/bbhun0/article71437806.ece/alternates/LANDSCAPE_1200/IMG_Philip_Green_2_1_PPG98L9B.jpg",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "e8268e1f3f0e6896",
+   "title": "Gold, silver ETFs tumble up to 2% on Fed rate-hike bets",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeExfV2hHMEFDSkI3OW5pMnpJcERqOXQ1NV9QX0JrYzJLUXNfWkpPTUMwbkVYMTFGVnlycmtyQWM1N3NWRWZMWm5QWUpWb1NHY2dJMWFDaFJOQ1F6YTJYX0gyMml5V2IzLXpTcWdObm02dThzWE04UVpZamtTU1FydVF3eGMxTjYzTVJIeFJUY1JoYndOTHYwdzRYNzF6LVY5RzZEdUhzT1NaR0NSS3hYWlgtUk5YSTQzMEHSAb8BQVVfeXFMTmFweUVJeHpiaERYM1ZvNEp4QkJLZG8zbW5VaEdScHpNZkthSzEyTkV6VjBlUy1acmFILVlpZnBZVVdiMkFaV1pvQmRkUjJDTHRTcmQxN2dJelphVmkxckZHMGNRMVY2ZmVtWW1QcldQblM4NHFWQWNBa3d3ZlhUcFFNNlk4Q1FyOTF1OTdPZDUtQnJ0ak9EOTlnYkdGX1pGLVN3Yk1Nc2tueFhEdW5pTXp2d1NjamJKVGVHc1JuSlk?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:40:15+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "31889ceb3ca8c983",
+   "title": "‘Make Air India Great Again’: Incoming CEO Tewolde Gebremariam puts safety first",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb253MlZOLUxsdGVWVTVra2dyTjdwb0ZIYU9DejhXajlTZzNtX3J0UjZnZzN6OTlkS3ZyS25IRm40Wk42dVhLa2haT2oySkI2UmRld0ptczVwNlJqV3diWUY2T2tJLXNaYlJfT2tCekZvV0QwTVZmU1JKQkRQUWgzcTNnY2lRZlpVM3JtYk5DeDRzaGM2SlNnRUtKSmNTM3V6cE5YODk5LTdPeEFHbDQ1TlpDLWtiM2VvQm9abkVFaS15ZmJEajdmYVhzb0NQTlgzc2FXUXdGRUo5YTd00gHiAUFVX3lxTE5EOEJ2MjRaSm9jUDFOOFdzeGlsakhtOTQ1a0w2VVJYZTBNTzNyYThibVZlV213Ukc3YkRBaGpZUjVTWWxpVlRIQjJuUm1Jdk1ZMnI5b00tYlprYndORGpPT3BkQV9COEpYanRuWWZzRm5UUk1zQ2JLWmY4b2NwM2U2RmNQYnFqLXdvbk40VnBOVENQeG1ZcktCeU50ZDFLZUdISElGUjhYMWxFUUNrZVlQWEFEd3FVUy1LQzhiVC05dTlXakc1RkVtUWpUT0hxMVRDbW4zR2U3ZlBVY3ZXME1fZlE?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:38:45+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "c8ebf2502d8dfc9c",
+   "title": "Himadri to go global for selling battery material",
+   "link": "https://www.thehindubusinessline.com/companies/himadri-to-go-global-for-selling-battery-material/article71437705.ece",
+   "summary": "The company has shifted focus toward value-added products and derives about 30% per cent of its revenue from exports",
+   "published": "2026-09-07T07:35:13+00:00",
+   "source": "BusinessLine",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://bl-i.thgim.com/public/incoming/982fu4/article71437779.ece/alternates/LANDSCAPE_1200/004.png",
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "2738d7deac52da65",
+   "title": "Board of Sudarshan approves acquisition of 9.50% stake in MedTherapy Biotechnology Inc.",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWmEzUDFYSHZQb2o5bm9ES2FGdkhWNGNLWHFrOGk1V3FoTWtvZHhmSThmSXdTSkNOVTMxckRxZUhKRVl2SlR4X2lFbXF6a2ZXd2o2UE9uSklsd3hxREhXcmowOGJGeVdDQWJsOENpR2VMWmpoWTZTVG13RFlGb3l0dTZVVDRDcHNXcU1HNGk2Q1JWUXFjUlMwc1BZOUItTDZuUnRsUlRjWGxKNUlDcmYwaGtvbHBDYmJWOVp5Z2k0UzNpOEg4a0hHa2VQU3NMX0xzUG84bmk5QWRuRHNHdkY3VFJSNGdVSXMxRThTaGJCTTE3elFnOWk3MzBCTdIBgAJBVV95cUxQYm1sVENZWVdaUVBLWTMxRTZmTGVKSGJjb01Vb3JFZkU1ZlRVUmRhVjhST3U2N1lfVHp0T19DZVI1MHVSVTNtb0lpUGJYNjI2ZlJsT0lNdy1kQ0ppajVwc3Nna2x5TW5zSU5ZMUxTWTBMOWlQY3R1VDlNUnBBdmxfdlFYbUNTeDRvWXhTV2VTMDhsdnpoY1hrcHFxVXQwdjA2aE95UUlrVW96elVVLVJFcG81Y1FsZW1fQ29ZcWUyOVpUZ2ZaR1F5eGk2azlmVDFWZUxtMHBabVg1YUFWNmJHaWdkcnh1SE5KMVU5enUtLUJXUWVoOWZ2QVF5QTF5N0g4?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:34:16+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "c4c6fbe226860f41",
+   "title": "Consumption is driving India’s GDP, Should investors bet on the consumption fund?",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWkpDZUFqREh1dWFrbEpUaFNzOTh3QzFXVzNGUUZfWlZCakZNWnlZM0N1dF9TMzYwLW9wNW5hQVljc3NlWjZic1JXSmp0SjlaUzJaNm1Tdnd5RF8wM0E5Q2ZabXhlcTZlZ0JhSmMyT0t5dmVWQU9jV0EwaE5WeTctXzBnd0JlNjJ1NUxZYzZ5ODFjN1B5YVBIMDZRNVdjWjgyU0pZN2hXZTJVdk8wOVRBblJmOWV2UDVZZFpNX0FJQ0RQMUFtUWdWMUs3bVNCNzJWdTFKU1hRNVRaVHdBOGVSeTFQTjh0VUk0?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:32:11+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "9d2da46f1e1b6e34",
@@ -231,19 +1125,19 @@
    "first_seen": "2026-09-07T07:37:01+00:00"
   },
   {
-   "id": "849bfc3e6050e90c",
-   "title": "Air India Chairman calls for greater cost consciousness across airline",
-   "link": "https://www.thehindubusinessline.com/economy/logistics/air-india-chairman-calls-for-greater-cost-consciousness-across-airline/article71437733.ece",
-   "summary": "Chandrasekaran says safety, customer trust and operational execution will be key priorities as carrier enters next phase",
-   "published": "2026-09-07T07:27:07+00:00",
-   "source": "BusinessLine",
+   "id": "ef63385138400ed7",
+   "title": "Sensex down 500 pts, Nifty below 23,750: US-Iran tensions among key factors behind market decline",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmQ0QzNleF9ZS2ZockFNVEYwT1E0UFB5b0xvMDZWdVhvS2Z5ZXo5N2x0UEo3eWpBUkxIRmxzTTV2SHVjZWhPa0FpalcwWGNfZlo3M1ZlMFRLWlZ2ejVPb2JUd0x0WDhGdGV0RzQ5WURHMU5WSEwweFBkLTdQV3N1WjdzTGl6WGo0TG5RdFU0ZmhYRmNLMk40ZXJUMHc1UmVNNVhTWExLZllIUUhmTFV0czhBWUU3ZDRPM0gzUG1oSTh5b2ZCT0Rzd0ZjdWxtbHBhTTh5Zm0wMF9TZHNzR3ZEM1JqLWlnNTk5ZmhIYmhMZGnSAfYBQVVfeXFMUGpDT1JYZlFSaVNfOTFoQnlqMnZfanFHaG5zdzgtV3gwX2V0UlpyMjdFMlZLaEhBMjYyRWcxODMzMU5BNVU0UHNmSy1UbmZxb2ItUm52Vm4yckNsajJTcVdhZGlBUk9CWnNtNjV0NTFfc0xqcXhNWUlBU05qMzlYVnJzdW4wQWVmYzNxblBzSHJUcl8xVmpPclVqRjJySzlFekZmU1o1TnVSdzFaQnIyS3BaQkNUUVhoTERFaDZzVWJiUmxDNHJuTllIcWJkbm1MdVJxX3FGdTNMR2s5MkRxWlJRcTg4UGlPN1hnUXl5MkVkMFVxVHZB?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:26:04+00:00",
+   "source": "Moneycontrol (via Google News)",
    "category": "Business",
    "date_known": true,
    "author": null,
-   "publisher": null,
-   "image": "https://bl-i.thgim.com/public/incoming/jymv4n/article71437764.ece/alternates/LANDSCAPE_1200/nit_4.jpg",
+   "publisher": "Moneycontrol.com",
+   "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T07:37:01+00:00"
+   "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
    "id": "2616406ca10253e1",
@@ -261,6 +1155,24 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
+   "id": "ac4e9b5688830dc2",
+   "title": "Income Tax | Compensation Received Six Years Late: Karnataka HC Directs Condonation for TDS Refund",
+   "link": "https://taxguru.in/income-tax/compensation-received-years-late-karnataka-hc-directs-condonation-tds-refund.html",
+   "summary": "Karnataka HC directs PCIT to decide Section 119(2)(b) delay condonation where land acquisition compensation was received after title dispute resolution.",
+   "published": "2026-09-07T07:24:55+00:00",
+   "source": "Taxguru",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": "CA Vijayakumar Shetty",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Income tax",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "3d6c5b1e3d5b49f8",
@@ -324,9 +1236,9 @@
   },
   {
    "id": "411b4c84f9f493b2",
-   "title": "CaratLane looks beyond affordable to drive growth",
+   "title": "CaratLane looks beyond affordable jewellery to drive growth",
    "link": "https://www.livemint.com/companies/news/caratlane-expansion-diamond-jewellery-titan-growth-target-11788753787741.html",
-   "summary": "Caratlane, which turns 18 this year, is at an ‘inflexion point’, says CEO Saumen Bhaumik.",
+   "summary": "Caratlane, which turns 18 this year, is at an ‘inflexion point’, says managing director Saumen Bhaumik.",
    "published": "2026-09-07T07:19:59+00:00",
    "source": "Livemint Companies",
    "category": "Business",
@@ -495,6 +1407,23 @@
    "first_seen": "2026-09-07T07:37:01+00:00"
   },
   {
+   "id": "b628c3b42804a792",
+   "title": "Government notifies new Income Tax Rules 2026 for stricter compliance",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeldSXzBlWFBQVTJrRThJOFdfUHJ2VlFFN3RUOWJOWUFRRWgzMGVNRFk4bTJObGJyN0h3SHl3a1h1S25tN1IzX2Q0eUZmQ0lYdVU4bmQzNktYMWJ2YjVWTUl0TW1QbGxvZl9jSUNPQXplQTZia2hwX2d6SmFFQURpek11cGZnZURNMUpQTnZ2Rks2UlV6NlFhQU1GNA?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:08:50+00:00",
+   "source": "Google News: Income tax",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": null,
+   "publisher": "News On AIR",
+   "image": null,
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
    "id": "9d94d7648ba45144",
    "title": "Indian health activists lodge concerns about food warning proposal in court",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObUVNaDBUTGluVzZMRXAya0dTVG1ocTBaMV9ueG1oNjBfaExiUU9JOGVsUmQ1Rnd5WGVoNDJXUXFlMUR5ekdBSVhfT0IzT3gzcUhaQ2lKMno1cXhrdDhSaU1fX2loZTM0WEd6THNTY2hUUnRrVDJqNVA2dU5QVGplNW1RUnBBOHYxYTlvOF9pZFlWeXA1NzVqQ28wd0hOYjVleFZod0FiYUNQX0pJQ1ZQcGdBd2xINFFWOXVZWmx2WExMcmRnMmJDbmtjdDhMX2c4U3NsWnhmYkI5OHfSAeABQVVfeXFMT0d5WG1SQ2JqTC1Wd1RsUHlUVEtBbS10czQxN1JqMlBCSzRROW5xVU9tc3RhVXpXNDFPN19DOHhiU1FpRUhEME5kN1Y5NDhsU2U2UVZlWlU1RVBZaWxOOGlmZTdKWlFJUnhfa1BVUUI5TEFIbE9YOVBoVkUzbWFhVTdIbXE2eUYxTzgtalV5T05kMmh0ZHkySGVHZGFMVnFGT19MU3lIZl9LQmZsbWwzMTg3SWFpQTlmMmN4UmJpUFczVkQ3b2VpbzFXb1AyanN3Ync5dWxxRW40aG1mUjByeFE?oc=5",
@@ -558,6 +1487,21 @@
    "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
+   "id": "af86662cb09acae7",
+   "title": "Rs. 1,453 cr connectivity push: 44-km National Highway stretch between Jhansi and Orai set for 6-lane upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjk2S1Q3al9pSFdQYl9vQjJscVEzakNRbVNobExtdU02NVVqSDFVU08wNl9lSUNxdEozNUxpZjh4VTZCSXE4UHdGOEs0ZXBUVk5vZTBVVGRwMDR4UW5IdUVBRW1YbjNCT2w2Ql9zcklOQUNuMDZVT1l4WnB6dzVhSUtWM05IRXQ0eTlnUzduSDZSeS1pOG5mcFdiTTg5dWREMlpDLVNMSXQzVWlrbHItaUFqWVZZV1hxeWg0OUdDdF95ZTJraUVBR1phSzB0emdXaGJrQUw5R08tVXNmSVltckZBclZXYjR0djJKX1YzLTBILU9hanlvZ0N30gGAAkFVX3lxTE16S0M0NzRBTmVqdF9IWktaUEtuUHVHY21lQlp2dG1oR3I0bjNGcDVmMF9uMDFGaksxekdYdTNOUDN0TlNnUUtfVG1FNXR2aVRfT1lBdFZrTjNQLWtONVo5Slg5cWJIamhWNWVvZVozdlZhcVlQWkZEYTJxVEhyWmNjTzV1RTBERjNVdUtiTTd4ZF9kbzZQc3l3NkhlZnN4TFVWWk1tUlIwQm9qTURINzhGU1hNcDI1bkdXSEdwMk5zNlhBd0pPampVV1lBZXk2eVkyRjJDZXBOUHNTcHdlZThIb2QzWVpTMG1UdDhZY2pJNmdMM3NkZU5hcmVvRGFmOUg?oc=5",
+   "summary": "",
+   "published": "2026-09-07T07:01:50+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "cd57a9f48f22bd88",
    "title": "India’s oil and gas sector to remain under pressure as crude, LNG costs rise",
    "link": "https://www.thehindubusinessline.com/markets/commodities/indias-oil-and-gas-sector-to-remain-under-pressure-as-crude-lng-costs-rise/article71437678.ece",
@@ -571,6 +1515,21 @@
    "image": "https://bl-i.thgim.com/public/incoming/3d415a/article66378117.ece/alternates/LANDSCAPE_1200/PO15_Offshore.jpg",
    "topics": [],
    "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
+   "id": "0232f44c54022b1e",
+   "title": "Volkswagen labor leaders say CEO has no ‘blank check’ in overhaul",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NfZmVFWV9VcWRnQ2hxN0gtQUFUaFpvOUUyTmp4RTdiUlBGcDNjbUE5QU1NOW45NmtBdDdPemFvTllQX2dDWWhhWE9TSnV6bUxxM3RNZE45c2JqWWRranVkYzJmcl93WEtkdzF3ZDZJT05wRjZ3LWJGZC1aNXViWGZnUFlqU3NqY2VNZFJwTWRQa280NWlSYkpwOUhaYy16Q3ZVT01nX01yWlp1SmRGaGFsQjJjSHhoTDVBUdIBwgFBVV95cUxPQmliZmZiOVdEV1lyZTZLVDRyOEwyZmRVVGdBbDRRd0prdnNmQk44cTVTc3pvaVF3ZThfT0JaemhwOWlaU1hUb2IweXRUNWVrbUl6YlNURjVLX3pnSlBkUDU1dVppMVIwbDhaSTNGY2d3NDhLR2hQVThSN0NJbzlIbmZ6aWc4R0JMbC05QUF6QWdoMEJuX3VEby04UlhWNnFBdXRRTVJlYlNiNDRmQjJ6RGk3WE5nbXkwVGdoZUZhdnl1dw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:56:44+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "a91ac51092cd80c3",
@@ -633,6 +1592,21 @@
    "first_seen": "2026-09-07T07:37:01+00:00"
   },
   {
+   "id": "a6438d5ff5b38e38",
+   "title": "Disclosure & Disclaimer Statement",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalpNZDJzRVM4V2tJNk5DY1BsSk1VcnhhemVQZTEtVEhnOV94UXFoQmxIM1hhNGZHU2owZ0xoTVZJWEVXbWtnN1NfeXhrM3ZUZ3k3U0RMRmN0VDRkcUNhWkU4NU5RanJQTGJlVV9WcDBUT3BZZVlBd1FJczNCcjVHbjN3?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:55:05+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "642ae2ad7bcb3912",
    "title": "Amritsar airport diverts 7 flights to Delhi after suspected drone movement",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUN4MTQ2dHBLcXh6dFFXT28yRnB4OF81bXJRY2IxTV9McGFiakticHVhNC1QRWxpTTFMdGJMQjNIeHJIckNScllEMWZkVXNYMGxnbmh5dFJadUUzQzg5SVRFWlNMd3dmTE5PdzEzWUdJeUlqdl9oREpwUUtLTkdzVVp3b2tHLVVxV0NWSmxJYzgycmxiNzBnd1pzUEtIXzMyNFN6THUzOENWSVpUVDJZMXpiSmVVbFFxT1JRcFlMV09fdFJyZTV2S3JPbFh5NUhNX3UwMHJNNk8welNBMm1v0gHkAUFVX3lxTE5nRUpiNF9nY01jR0w4ZnVmalhha2pkQ19FOUhidmFUeFlIaktudVA1R0V0d1FGc2Y3QU9EOG55c2t3b2R3OXRHNEhwb0phV1gwS1EtWFprV3RqMnh3c1VVd1hxOEo5ajZrc1RsZVhhOEIyaVhUV08xb2dQZktScldwNHVfamxMUFlyRldaeVY4U0VCNzVzV2Rkb2YzSGZRNzVENU9Qd3V2bFlHVlpZMWJmWlZoeDdqMzRkQW03U0RVZFRZN1pfOG1JajRaeC14b1pjZE16MnNBSlZ1Vmg0WGpha2NVWA?oc=5",
@@ -663,21 +1637,6 @@
    "first_seen": "2026-09-07T07:37:01+00:00"
   },
   {
-   "id": "5472ee8396cc5c1a",
-   "title": "US wants India ‘by our side’ as NASA returns to the Moon, says envoy",
-   "link": "https://www.thehindubusinessline.com/news/science/us-wants-india-by-our-side-as-nasa-returns-to-the-moon-says-envoy/article71437680.ece",
-   "summary": "Speaking at Bengaluru Space Expo 2026, the envoy highlighted joint missions, human spaceflight cooperation and opportunities for Indian space startups.",
-   "published": "2026-09-07T06:53:41+00:00",
-   "source": "BusinessLine",
-   "category": "Business",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://bl-i.thgim.com/public/incoming/j000yc/article71437690.ece/alternates/LANDSCAPE_1200/PTI09_07_2026_000070B.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T07:37:01+00:00"
-  },
-  {
    "id": "2f8abc426725e079",
    "title": "VA Tech Wabag bags Rs 100-250 crore order from RIL for Jamnagar water plant development",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWnl3OUNESHVxajZSVGozb3FiSkVmU0xLMEpaUy1uMlBLalpCT3A3ZE10VkZPMXctOGY5UHhvNjFFM0pQcGtVNHUtcURvZ3JrR3V6NHVZZ05WV3U1SHYxbG1OVkI2azZTYWNpM09GMFRzcjU4V0ZQSV9DaHAzX3ZHYlVGdFc4cW42Y0Z0QndrUG9XSTBhNTV1MkJmdlJjMXRlV2QtUUZFNEg2ZDY2bHVWMmRhMXIzb3Zza3ZsM1NRMUVqMndEUFQzNFBaS0twR0NSeHRpS1Y2QzBXakNVRWFIZ9IB5wFBVV95cUxQaGxHb0tXMkxRMXRMczNyME9XQ050Z0ZyYUp0eE8tR3BWcWhqc2JEZXV1MExvN2kzMnA0bTFHY2lZNW4tMjZMWWRMcnQ5RUctX0JzajlpZy1zTmlLQjRrd094RFZZdldxUTNVbHgwYmxxc1hZYldOdG13cUt6RDY0Rk9sLXYzck9peHlpaC1PRXVtQkw4QzVsenF2VHBHTjVaYVFqNUxiQ2gzU09sS1NFWUZRYlZaeUdKVThkZS1uZTlxalA4YjNPUllGZzgxNWJtUGlfX0h1V29PV1QtNGFqUm83SXlSNlE?oc=5",
@@ -691,6 +1650,21 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
+   "id": "6847990fb694d554",
+   "title": "VA Tech Wabag bags Rs 100-250 crore order from RIL for Jamnagar water plant development",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaGxHb0tXMkxRMXRMczNyME9XQ050Z0ZyYUp0eE8tR3BWcWhqc2JEZXV1MExvN2kzMnA0bTFHY2lZNW4tMjZMWWRMcnQ5RUctX0JzajlpZy1zTmlLQjRrd094RFZZdldxUTNVbHgwYmxxc1hZYldOdG13cUt6RDY0Rk9sLXYzck9peHlpaC1PRXVtQkw4QzVsenF2VHBHTjVaYVFqNUxiQ2gzU09sS1NFWUZRYlZaeUdKVThkZS1uZTlxalA4YjNPUllGZzgxNWJtUGlfX0h1V29PV1QtNGFqUm83SXlSNlHSAecBQVVfeXFMUGhsR29LVzJMUTF0THMzcjBPV0NOdGdGcmFKdHhPLUdwVnFoanNiRGV1dTBMbzdpMzJwNG0xR2NpWTVuLTI2TFlkTHJ0OUVHLV9Cc2o5aWctc05pS0I0a3dPeERWWXZXcVEzVWx4MGJscXNYWWJXTnRtd3FLekQ2NEZPbC12M3JPaXh5aWgtT0V1bUJMOEM1bHpxdlRwR041WmFRajVMYkNoM1NPbEtTRVlGUWJWWnlHSlU4ZGUtbmU5cWpQOGIzT1JZRmc4MTVibVBpX19IdVdvT1dULTRhalJvN0l5UjZR?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:50:38+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "dd95ab949ad6a6c0",
@@ -723,6 +1697,21 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "4d6de8a7df2ee5fe",
+   "title": "Volcanic eruption closes Indonesian airports — cascading impact on Indian travellers using SE Asia detours",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1RCdkwxVEx2LU5NelpvcmQ1MTlFUFo4MFJaSUh4QTZ4UUFpLVJsWWN1VkpWUVA1cnBEWkowNVJlVENLOWxWVC13S1NHeGxqbVNBMmVZLWhSNkFQd1NaNktCTE5pVWR5b3A3UnRnMFZRdDlBMjJSX0NqZ2NzdjVGUzhMMWNDVHBqbjVCWVFFdzJzcWZkSWJUcVVaN255RXJIdzVKZFBxRjZSWTlVY0NoVzB4VGQ4LVBNaHNxOHJNcFMybHRTRW1MZlBmVGN0TXNCUEFoNXUzMHJWdENMbkxLaEJyMEFkbDFkYWZSeGhn0gH0AUFVX3lxTE9pTEtGTHZZeDZjeDYwcU5JWkRPcUJSMzh5SU55ZXE3dU4xcGJjU0pGWEoxWW5jdHY4TEd6Mmt5Z0NUSXNqcU01ektheFRpT3Y5OU1zb3JweTdRUjFfOEhhdWpMZ3JMdzgxSHMydld5TEVDVjJPSlBmMzZQX2x4TFFmamZfLW9NVThzZU1TbFZlUkFsRlVINnVOQzQ5TkRSVm8xRGpOYVBaTVpmMkhZSU1jZXFIS05zd0VtOW02azl4dU8xSWJTWlFfTDhzTWhqelZSaEVzeVZfVTd3ZzhrNzVyM2NCSVBndnhEVERSRGFVT19xTVU?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:45:52+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "3bb2ef23fab29a42",
@@ -806,6 +1795,23 @@
    "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
+   "id": "f1a080d40a2e9860",
+   "title": "RBI announces overnight cash withdrawal after 'technical glitch' at 30-day auction",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVJLMHgtUzVqS0VMUkJ5aDNYVXhYcVZZMlpIa3JPX3o2dU9LemI3dnVyZTRiMWVYSWV2dlJpOGdfcGlJZkI4a29DSmNITVlIclRYTWg2M181dXRJNkFDQ2tPZEw1MVd4U09vYkh0eHNhZlNGOVJtVU0tT2hnYUNmaS1CTE9YVU1EbmZKZGdSRTFwVkdEMXVhc2w1MXBCVmZoeDFkNE1NbDZnUDlxV3FTMHMzTzVSOFltZ3M3T0MzR0xneW82enJ1Q0I5ekNYRkRVejdr0gHYAUFVX3lxTE9wNDJ4TnZNQVE0SEJCUXlqM0EtYXdBMno3RzN5dm1iNEpoUVc1SDljYVI1NGpvNWlDdHFnaUg5TDNCNnRUT28yd1Y3QVR3TVdkMnM1b0M2ZDJzRnpEdElHa3BlU0dtdTNGem5tS1pnMEU4aGpwVE5lOXB0a0FTRWc5R2gyblh6YkIwOVNnWV9nUnRyNTBaWVlwd2VwUGo1aVNIQi1FRmVEdGpKSVlKdVpWaEJCRDQyVlpiWGx3VGdaT0lCTTMzZHVuS0J1dkFSLWpnWjZ0YzhhUQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:36:56+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "9411726cfadba42a",
    "title": "PC Jeweller Ltd leads gainers in 'A' group",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOak1SSkV3Y0E5MUJid0ZEQTZzWHpua2dEYWFvd3AzRGpHdDNfaHNRa1BWNFdPLVI4ZlhQbWhyQkJjcER6cEVrZVByWnVERHhBVGhxN3A4dzMzMnZQck5qbjEycUk5a0R2RTlFSHhhbUxNR2lMMHdRTm42T05FYUZmYmN0VnJYblptV3NjVWo0WTI5anFxLTA3WUcyUlRfS0l5VXpCaHRYLVpXaTJjb2xwQUtwZHJ1emhZdnhZUjNrb9IBxAFBVV95cUxNS1cyMmRrVHVPTTlLeHNRODNwclQtUGh4UGt4RFdEaG12Y2lvTjJHUFZFN2UyQ0lOVm5yVkZMVElVRGMyLUQyN3docUtMbktQNExwNExJU2xWU2NuVUFOd3lZS2VtdERsakxkcHJOUUJjN3VzdTRxZjFKTXM1Zk5yX1NRdTU0dG9BYnBtRWU1Y1pXcThFOHFhVWR2aUljb0lWVi1fajRSeU90dXNGVDExZFZiS29xWFBIdHB4NUJ0Vk4tTzV0?oc=5",
@@ -881,6 +1887,38 @@
    "first_seen": "2026-09-07T06:43:35+00:00"
   },
   {
+   "id": "6728f6b4b6d66186",
+   "title": "FSSAI cancels licences of West Bengal-based firms Kailash Formulation, Sanecure Water Project",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVpoaFF3NHZxdTRPdVplOEZzdHZhb0VDN2hlYlh6SVRuWjZYX2taaDl1YWFLVmRHaERGbHZGYkRDTjlpSG0zOXVYQmQ2bm5ISURqalFJX21FY01kMjRjXzA1U29FRTZZNUl2V2hnRGY4b1dQZEN1UlRrWkJ3ZnFEdm5LY1V6SlJvdWpHdHpvWnl1bnkzMDNSNUZlNU0wbkc4dGV4MDN3WUlHemI3RHhJUTAwZmF2cHJBeGkwWtIBwgFBVV95cUxPZHNBTUY3ZEQwanJxTlk4ZWNKWTRMd0RzOE54NXJhcGR6UDMyVU5DMkZTTHYteEhhcGpTT1R6WlZUaDJUWlFBT3ZvUUpCM0dzS3VvelppeURBNWFLdmhVamZHaGo5RC1FNkZaN2s2NmZpSEdpQzZuejVxOGVwR2FnYWRwd3BPMzR1cGxKWDZ1eXJRLWZxd2NLWEJvYTBzTXl5SWNNdmZJbU9HWE8tWVE5dzhpMnJyTmxOTE55YV9DVVhGdw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:34:07+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "5dda9d7029f32334",
+   "title": "| Will India's 13-point polyester GST gap become a textile barrier?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnBVWmZjWWxYOTd0VFhYNHJTUF9raVRLbFNfR290anFqaFgwSVI0b3FWUFhTU0dGeS14aUdDMUhhTXZTTzN2UkNhamxpVUdFOTFrUmw1ZnB3UEdTU2U3T013NlpJT3c0aldFMGt4Mk00MzhuVFgwNEJfSDlTWTF3OWZvV1ViaFJkWWk3cmh2aW42c29rU3d5WHN6NVJuVFVzeHVnUnZkOGZLWUlpOVVDMDFMTHlWWGlfWmdIZzBjdzdBcU04SzdhVi1rWjFuX0Yw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:31:42+00:00",
+   "source": "Google News: GST",
+   "category": "Tax & compliance",
+   "date_known": true,
+   "author": null,
+   "publisher": "Fibre2Fashion",
+   "image": null,
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "7f23c87f7cc644bf",
    "title": "NSE revises pre-open session framework, gives market orders priority",
    "link": "https://www.thehindubusinessline.com/markets/nse-revises-pre-open-session-framework-gives-market-orders-priority/article71437629.ece",
@@ -909,6 +1947,21 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
+   "id": "727afadd2c95dcbb",
+   "title": "Maruti Suzuki cars to get costlier by up to Rs 20,000 in third hike since May",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk9JWFZMYnhlUWNBbHhQdEVzdGtlQlpFZUJIRV9lWG5MdmdfRnVyQVozYjN5aHBvX2d5SXo4ZTFLUVlhVzhjWTRlcUFaZFNIUnRIdnR5b3hTay1QazRlWE1VLTBsZk5PS0JUeVNVbkVkVlJEX1JOWENzRVZJZkdpMHZlMVhnTTE1MkVZdm1oa2YxV3dDLUxhZ3FmTUlkdThDckdhcXBzV3JtaGw5MHQwOUtEU0dMaVRMR3FOakdCWVVpN2F6d3ZpTEdWMnV5Z0nSAdQBQVVfeXFMUFBtMnNHbmRNaHNmVmUwNmQtR3J0SlFjQUJMenJXMktMcFBkUGJFb08wRm52dlJkbEZOX2w3ZDlUUWFxeml3YkFoRDlET3ZDdDJ0a3J5bUJNd2pXd19OQmhFOXB4NHgydUtjWVVOUkFWSExqaXVSWFFSR1lraXdOVlJ5VkxENXItQ0kxVGx6d1luR3VOR2F2eGx4cjRQXzFNVC1mU19jSWRZcUs3Z0ZKRmR6MHV4dE5jSElPX2NRcFVDemgzU1FaaDZpYmZYSXR1X2VmOVI?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:26:10+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "5ca48f11291ee63d",
@@ -956,6 +2009,23 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "e26d51cc972bcf27",
+   "title": "NSE IPO GMP jumps to ₹285 after Sebi approval paves way for D-Street debut",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNczlPcnlnUHhtelcyZkpuM2JRek5pLWJzd2dESHA3R3F4S3NkY1VoalY1Nl9iMXMzTU5CeHBwVGlhN0M2VDI4MmgyamNxTUpwSDNRYjdob1h6NlNFU3lmbHhlcndDaE1hM2NCLWNlYTRORzZnSXhfSFVsdHhNUmp1VmVqc3ZfZGRoTHB5QTRxSTQzSEFUNmdLODdyZ08tcWhXUlpwMmVmZ18tWVllUjV3TUZ2UlVJRkhWVVAyNmVCZVlral9FaDdMdV9YYm9seEVTQXEwMDBNRXZHNEgyTkQyLUdqclBqX0dxZ1FQZWVpdE13Z1c50gH6AUFVX3lxTE8xVk9vLTVDLVFiS2ExdXVzbkE4VTBUc19tUEFvdDdEblB0UENETndoWHZidERIMTU3SXJLeUdYMzJXUXpIc0hmZGJZX0dsVWc2eHdFLVQ2WDZqWFJPajhza3FEamZRQkdzRFhPeldscUFSYm4tcXJGWEJoWi1KV1ExeV9PWDV4d2xYc29jZzVNTEM5TGExLTZodVhLcmVZRU5GdTRDS2EyNGV5NU1zc3lMbEZQamJ6ZkdKaS1ZREFWcjJPSEtBTFFxeFdKbzkwOHVTRXhWT0UxaHppSFA2VFVkQmFtamNyQXU3V2R5SGdhY1JXTC1sV3JmMFE?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:21:56+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-07T07:37:01+00:00"
+  },
+  {
    "id": "982504929dca503a",
    "title": "Take politicians who hit doctors into custody, don’t let them roam free, says SC",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWGtSR3JHNlhwVTdzaXRIbjVzSjBFTFdMc0xUNFZOTjZhaFRUZ3RUb3pkU2dxdndGUFhtaWRtNy1yeGQ0ZFFOeHo0SjJKdlRKVVdPazJNdTEweTlLaEdLU2RxYkgyMzFOVE43Vkh1R3IzNVpvMlQ3WjViQnN0U0IxRXd2aENsUTI1OWNtSWE3UW01UFJPSHM3TFBES1NmZGc0dUFYX0pXYnB4RDVsdDM3bGVUQkJ3amJZUkV1aXUtY3JkTkJNcHQxWFhSWnI?oc=5",
@@ -971,21 +2041,49 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
-   "id": "e26d51cc972bcf27",
-   "title": "NSE IPO GMP jumps to ₹285 after Sebi approval paves way for D-Street debut",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNczlPcnlnUHhtelcyZkpuM2JRek5pLWJzd2dESHA3R3F4S3NkY1VoalY1Nl9iMXMzTU5CeHBwVGlhN0M2VDI4MmgyamNxTUpwSDNRYjdob1h6NlNFU3lmbHhlcndDaE1hM2NCLWNlYTRORzZnSXhfSFVsdHhNUmp1VmVqc3ZfZGRoTHB5QTRxSTQzSEFUNmdLODdyZ08tcWhXUlpwMmVmZ18tWVllUjV3TUZ2UlVJRkhWVVAyNmVCZVlral9FaDdMdV9YYm9seEVTQXEwMDBNRXZHNEgyTkQyLUdqclBqX0dxZ1FQZWVpdE13Z1c50gH6AUFVX3lxTE8xVk9vLTVDLVFiS2ExdXVzbkE4VTBUc19tUEFvdDdEblB0UENETndoWHZidERIMTU3SXJLeUdYMzJXUXpIc0hmZGJZX0dsVWc2eHdFLVQ2WDZqWFJPajhza3FEamZRQkdzRFhPeldscUFSYm4tcXJGWEJoWi1KV1ExeV9PWDV4d2xYc29jZzVNTEM5TGExLTZodVhLcmVZRU5GdTRDS2EyNGV5NU1zc3lMbEZQamJ6ZkdKaS1ZREFWcjJPSEtBTFFxeFdKbzkwOHVTRXhWT0UxaHppSFA2VFVkQmFtamNyQXU3V2R5SGdhY1JXTC1sV3JmMFE?oc=5",
+   "id": "34ee7c5f99ce2083",
+   "title": "PM to Visit Gujarat and Maharashtra on 8th September",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NbzZTdE1wam9BODNfdVJtb2FrbjJhOWsxT01WMVpVRWVvOTJPOEFtRG9YR2tHZVQxY2FoOEpfczdrLWtWOHhuMnRCN3NGSG5PcWROT0JlWk1ZQWVQblhSVHRPU1hxOWxU?oc=5",
    "summary": "",
-   "published": "2026-09-07T06:21:23+00:00",
-   "source": "Business Standard (via Google News)",
-   "category": "Business",
+   "published": "2026-09-07T06:21:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "Business Standard",
+   "publisher": "PIB",
    "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-07T07:37:01+00:00"
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "700f26a9fcad6ac1",
+   "title": "PM to Visit Gujarat and Maharashtra on 8th September",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PV09tS19ZZFBCRXNCRWRBOTBGUldteHdjVDRaNXBSMXVrTjh2c2Y0VWg1UVVZV3V0SW9OLXUzMHJJUVBrSDdST1o4akJvbWE3ZWZNcVVKaUZzYWxyVUtYUGdXb0tNUWVTM0IwX3FMVDA0MlA5czNUUWVMcw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:21:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "PIB",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "4754d34b2f912c59",
+   "title": "PM to Visit Gujarat and Maharashtra on 8th September",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xTTlOUlB2bXNBcXpteXBvc1J5a1liQVI3UTBpdXRreUU3aTYtbW9yTDFRLXItSGF5YTJyVWlXUS02UENkNy1mdjRUNXlTbFBnVXlsUzNqb2dvbWVHWXhNZG9fZGJsUXpFdTBoQ1hvZlozS0V3OGFKeENIWQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:21:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "PIB",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "53b8a9acf0ea625d",
@@ -1018,6 +2116,36 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "0bfbdf842e50cf3b",
+   "title": "Govt readies telecom PLI successor with significant outlay and components focus, targets Q1 FY28 rollout",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ1RWYkM5RmtRTUZORlk2Rmc4QTlMWU5oMTVpLWhjaXZZcEc5X1lua05Fbm43dGdQRFVzenM0SzYySnMwcVdrdUxWT3AyS3pVU25JUnBJWGVDX3ZjaGpieFRSUm9xajU4eFliN3RpS2k4WmZSUXpzeUVjS2pfN29NVi1vT1Nod0dIZC1lNWpJTHB5alNaeFFMTXlnSkctMU56V3RGQmJ1ZmN2UXNpcXd0ZHprV0VJUWw2LWdGUU1OUVp5aXRzc3o5eFBDYmZ0NjN1eXRUa0VWVk0tT0ltTzJLa2gwaTV0RXgzcE9KUWpCUjXSAfYBQVVfeXFMUDhabzlTY3JOdGJFWXBYUUdZZVRDWnR2Wms4djZWYmFXQUFWc3VlTnRYdHk3V2lqZldHQVhadmNOT2VCUDBrSldiLV9BSTR3UmpJUUNIb0pWQ1FQa3pqdzUtMVBqUGVhNEFXdGFhXy05YURialFycTVpVFo0ekloSTV5Slo4d1hYNlZuM2lnbHFCdWZ2ZXhsOUhocVFhYUFWRWYwMVZLazhyMjc3R3RBZGNMQ3M1dmlJbUoxX3BERG40QU5qN0piSU9TNjBtZk9aUE1OS1hoQTliRm9HRlNRQnJMR3VoTWYtUF9nZ2pvb0drNzBFaDFn?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:15:12+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "44365811c5dca4e6",
+   "title": "NBFC’s need deeper funding markets, responsible digital credit to drive financial inclusion: Abhimanyu Munjal, MD & CEO of Hero FinCorp",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTU5sU0dJdEMwWUQzODk5VS1hc05QMjlsTVI3UEM0d1V6U1ZGQm1ZSXI1NUNBTUEzX1p3cXYwLVlKT0tGdlRpTjZvM1FOcV9wUU9XVDQwTURWWXhOallpaldKUmRySklHX2lpNGsxMnZ5QlY3dFZOcDd4RzFkWkg0ZFVGV3BkNjNtT0owQ1MtZ001SEtnTHllR1N5TXVISVMyTHBFaFNHX0RqbGxtZHhvLUVvZ2NJY2tlR0hIUFo1YTVqMXpGa2I1dHppWE01akQwcTVNak1XZV9jU1UyWDYxY0tNX1J1WEszMVNfRm9JaVVOMmRhZ0VlaS1wdk5YcGNDdm1OdVJuX1J2bDNfRFFqLUh4XzjSAZsCQVVfeXFMTWtzSE1pSExrdjF3MjRxMlZ5SEItWUNOeWgzV2pFTDQyWlZHVGw5R0dndzdsQmpIYzhNT1pXUjdkYWtaY0xsSG45MlZRdkZPWDJqYU9xWnZJRF9CNDk2VUFjR2pJUzFrQkF0R2lmYVNUMXA1RDQwclZUb25lTU5Wc055M0JTMFpER2VaZm1FZkhJdFYxaUdTMEZRbVdFa3Y0eUJWUlpOcmtuRWNRWmNNaVpwTFh3bTBkbGZheHVtQm1pc05qRWxHV05kRDNQR0hlUnBWLVhRQW9mZjFwRHdkUUFXMGdDUTRmUWJSQmo4MHc4ZWVFRkxwY213dWhKcXg1d0ZBUjJFdDdnUVBDMkRYX296M3NnWi1RdW56QQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:14:07+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "48215bdc0935a699",
@@ -1067,6 +2195,53 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "c8e7c32e75ed342f",
+   "title": "OPINION | India’s BIT Reset: Make India an attractive investment destination",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjFGWGFibHV2eVA2Ui1jbUprM3M2XzZIR3MtTC1tOFJ0aWl6SjBYcnhlaEhuS20zUUluRHVDSXJlaVpnR1ZYNlFuSko0Zi1IcHpoY3dfLTYydllfS1hnRVoyVXBMRDlrc3BfV2w5V1JGZkMxVTV5ajdLUm9qaW1nU0NxVjFYZlllbFZkY2szMjViZ3lfMEllb1djb1pITi1ncU5CbFZpZDJtWGl4SE5VbGQzSzZvUnNoVDF1dldR0gHDAUFVX3lxTE5vTGtJejVPQUlmVkVJTm1mSGpveXp1empDaUJIRWUxd3JHOFVwUGc3N29KRVhTZWw5RzRKdWExM2tvSVQwMGkzMGJnTnJtZXFhb29jQWx4Z3k3OTNRNUF4bGpyQVhjVVVSQXRONkpyaHdTNlJGamZiQnhkMV9YQlhEUS0xcXhzajJnMWppTFVCcFhkUHFNbjlSTlFjWDZLSGdnVkQzR3Blcm95emlQNmhKc0tSVTNyR1lZd1FNd1E4VHo4dw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:10:36+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "f795deeb480c0bbf",
+   "title": "Old Monk cannot be sold as 'Rum' under current label: FSSAI tells Bombay HC",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTNzaGRWeWxhT3o0ZzBRTWtuMTB0clVlTk5vaEducFhRbHpxQjgxU2E3M29hTklxdmREcU9FYUJ0cEVVbDl4cHhQa2pQajIyNXVqMUhZVkY0MFV2QUM3Y3U5NklVVTFla3F3dWtLWFdpNkpFSDR3Rmc3aEthSVB5MEE3QkVETk9XSjZFZmhIZkl4Nmx0bmdxYUdHRmtJZHNxR1R3X2FVMHJ1cDdZbkxNUEV4VlZSVFFtQmktcEpHckJJVG9RQ0ZLN0F6TjJtRFl4YnAw0gHYAUFVX3lxTE9Md3JXS2tpQUtWUFNoV2Y3MWFPazk2dTR0eUpEZHlfUm13QmVyNUl2dlFfaWVtOEZOc0xPNlhPc0E0c3hsQ2M5Z2JKUnZvamJvS0lyRFFydUE3WVdlcGh5TmJucnJVZ2hZUER3YjZ0QkhZUXVrMld0dGtHVUQ4a0E4YmhOQTlOQl9mTHZzamF2ZXVBc3pSY3FGaVhjcVNubEJjT283VVJob3pIa3JEQnRnZ0h2cGpKelFneGtQVmdmdkpZcjMwaW52T014dHRBbXYtdDFLdFoxVQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:10:34+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "8f683d66dd3a4576",
+   "title": "When will NSE IPO open? GMP surges after SEBI clearance; all eyes on issue launch date",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNemJlWkdnT1QwWFo2QlJBUVNSTU54OW9wbVFlRy1tZXA1LWhwVHZqNzhlUlJWaFQ4M1NFa0ZqTi1QcUFmcTdhMUpyOHFrX3l3d25vN1dMTXZ3MVlHaUdYOUlxNjZPQXJwY2R0VFduYU9mQ3JrN29mV2lKUWstd1B5TVlVYnJWOXNyVXdXTUw2ZEY5ZWVIOS1TU0pXM1VCeTA0LW1NSExBVVM5NzMxaXNjV1I2WWctcEQ2dEYtOHUwQXBmVjIxSjhXZVNkckdleTNSX1ZvaVJqRUlVUdIB4AFBVV95cUxOSEZqMHBpTm1wc2V6bTlZcTBtYk51bjVlcS01SzBpdkc4XzNyTUVEUG44bTROR2twR3hmalZiYm1tQWxDNVZJUENMZFVqLThnZjdBbmJWcnVhZVhObTdNZ3JWN0ctcHoxTHU4WTZoZE1HcGpuVXRlN3d2VFkzZXctTkJVWXIwMVJ5TlNyNm96bmJ5aWFnMkVNYUNZYUhIR0hMWHZkVHUzVWEzM0MtbjRCNWljZ1JJOFhfMWc5Z2REaE91MWJQTkRKYzN1WFByNjVZYWRKcUk5MVh2cWxqSUk4eg?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:10:06+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "db21c7511648cd04",
@@ -1129,6 +2304,21 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "51be2a69cdeb74be",
+   "title": "Mazagon Dock Shipbuilders Share Price Archives",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnFXM0E0aHQ0UWpNR3RBYTdaS3JySzNZdlg1Z192WmdNUDA0SUNrdTIwcWY0T0tvMnRMZW85VnItWThZYVJjSmFpdlEyUFU2aXppSVFOdW5wSl8ySFphX1poTjUyT3luU05FN3kweFgwejc0M0k5QUpjN2hSSkFYdVVCaFZzVERvZE5sRFowVXBYN2Y5S3Jqcy11M2Fib3R1VHlzdkRuYnQ1MGZKMWRrOXZ5LVNIR2s?oc=5",
+   "summary": "",
+   "published": "2026-09-07T06:01:30+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "0642b6862a4d4d34",
@@ -1336,11 +2526,26 @@
    "first_seen": "2026-09-07T07:37:01+00:00"
   },
   {
+   "id": "02bbf0c2c773c2ff",
+   "title": "What will Rs 442 cr push bring to Pune railway station — More platforms, new tracks, higher capacity, and much more",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeDZfOFlaR0xaV2xzZ3BZS3FiTGJuZUZWRmV5dndaNHh5Tko4U0tLY2hzZ3lSOEFqN2YxVWRZNnpHMjhwT0dQSkVjZThZUDNSN09QcGdQelgzLUlvYXBWWWVURTNsUUlDR3ZIYkZhQ0hPamY1YUk4aFBYTXdBRGlsNmJacnprX25QamZnSjEtSm1FTjR4V0ppUXRsdDEwak5zcmpuYmV4SDNBcDV3REIzV0lRU0gwMEN1VGhsV0l1Y2hjT1oycG1OVVNfRUc2ZnpwdHl4b0dtLWxXUGxrX2ZKVVdaRm9kVXpFVVpqZi1FV0hVcG81aTRQSGwwZ185RUnSAYYCQVVfeXFMTTF1WHpENnpTNHVZTXV3dnA4eFhyZ3JqMXRiWDVvUlVMSnRyQzRtM2VCNlNpVUxFNGtDT1NtSkwtN2w3N2JrRm1hZGpjSzdGb0otVUZXT1o3LW1VWlVKS3k4YUg3QS1xQmJtdWJad1JVOWNXRVZoVTZiR0ZwTTgtV1lIY01uQ256OHNxZzlJRm4yODhJMzRsNjBwbGJJYUhFQnJ3TGlxUDNTVU1OZnBoVno3QjRRSFV3cW1FQkl4cEs3LXV5eDh0WUVGZllsVXRLLVd4YVQzdzJQZV9Ya0FUTGUtWW5jV25ra05LWU9id3UwaEVZbzdQb3RQQzVuQVBSeVFRaGtHZw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:55:23+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "690889bb64fa734d",
    "title": "Pranav Constructions IPO bags 'subscribe' tag from experts; here's why",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzFuRXRMOTY4cFMtaEZNM0YyRHNoSWlTTE9VUEFBR192QWJGOUhIWm4wVHFDbXRJZ3JHMEhJQzhOQWRrQm5nZFVzRmZjNEpIZGpsZFdTb3RjdmFMd1QtMkJuV0Z2TldzX09Uby1ab29xRnRBUzdsWTRTa0d4YUx6aHU1enRrV3V4a3hndFJNVF9TVTVwc2h6dHhkT0dlYlY4TGs5TkVRUnRHUERQNWJ1ZndYS1dQRXFRNUdKNmkxRklLaE0yQUtyTlM1YXRUd9IB0wFBVV95cUxPM3NOcV9lelZoYmRZdk9DVzlmWnhVVFdjalFnbDkwWWtybjhpVTU0cHhVMU1rc1BFa2F0QThKU3NJUmFxOFd3ZHUxMjI1MGF1TlZmUVRNdGsyaTYya1FMOGRPR0JhYWtiVnR2dVBmOGMtMzdCNS0xVlc5M1NLQXZqbzNsZ0FmTkZGUHY1TjVPVDZfa01yNmxtVG1tZHRYUnlRb0xoYV9MaUtKVzNVc0tFVVZmZFVjSzVJTTRoMnVZWHNrOFhyNE5hZ1pzUzZkZkpKeUtJ?oc=5",
    "summary": "",
-   "published": "2026-09-07T05:54:58+00:00",
+   "published": "2026-09-07T05:54:53+00:00",
    "source": "Business Standard (via Google News)",
    "category": "Business",
    "date_known": true,
@@ -1366,6 +2571,21 @@
    "image": "https://bl-i.thgim.com/public/incoming/gch2vl/article71261156.ece/alternates/LANDSCAPE_1200/IMG_bl27_spic_2_1_N7E20ECI.jpg",
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "dd3e4884ddc85ff7",
+   "title": "undefined Quarterly Results, undefined Financial Statement & Accounts - Moneycontrol",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVFBRjBmOEdFTF9BR1ljWDZWSzFZaXl3VzhfSkN3U2ZTOVNZVGhPV1FacGpfbUdCdTVMMkR3VFdJR0hGSU9UbVFVT19hbDJpMkFnaTRoUTRxOGRtYzlOU01DdFdGbDl6eUhLVC0tZzUxWjNZMkhrSW1IVVY1R2hxNU96emwta1hIODA4?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:54:04+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "7d7a242e01eb20fa",
@@ -1434,6 +2654,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "746a2064ab64530e",
+   "title": "PVR Inox shares fall 8% amid internal probe into alleged Rs 200-crore kickbacks",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY21rblVCTGlZWS1CYWtlbXUwYVFCamNyUGFMX0RXZWtFQkh0Z216VlRlVFpqN0xrRE80WmVrWTRfWWNHcFBZTVFfQTN5M0VLRU44d1NIQklYRVN1Z2c0N3l1ZEt5TjJlRUNqUG41cFk2VldoSDVOdjVFUHRTMUNiU1VhY3J3TWRFaWYtRGhyX2psUHc3U0NHOHctcVpWV3E5UjFVeTdzc1pabFY0THNlaDRBeEZZY0k4WWhkSTVsbnFnODdNOVZfek9qM3V4OHNSUGFxRVpCaTJaUzg?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:45:56+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "43c002f0d99f2165",
    "title": "Steamhouse India sets price band at ₹77-81 for ₹414-cr IPO",
    "link": "https://www.thehindubusinessline.com/markets/steamhouse-india-sets-price-band-at-77-81-for-414-cr-ipo/article71437522.ece",
@@ -1444,7 +2679,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://bl-i.thgim.com/public/incoming/inj1wa/article71434514.ece/alternates/LANDSCAPE_1200/BL23_IPO_ahead_sign.jpg",
+   "image": "https://bl-i.thgim.com/public/incoming/7lda8u/article71434514.ece/alternates/LANDSCAPE_1200/BL23_IPO_ahead_sign.jpg",
    "topics": [
     "SEBI / markets regulation"
    ],
@@ -1641,6 +2876,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "b27ca551aa8e2389",
+   "title": "Home prices up 59%, construction costs 34% since 2021; West Asia conflict adds to pressure",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQck9BY0l6YXdVS1gxV0R6cngxaHJZeU56ZmJPZHRIbkU4M3lobVJmMkRXZkxfdXJSOFJwbG5lZlBOQkFxXzZNb19uUmJzU3RpS2YyWWVqVGFvN0xCWlNwSXdzUGVDOWQzcjk4RHdMaEg0WE9oSjFtQlJ3YnAxdzRyY3F3QUp5dWdGbENpUG11Z3pjODZENFRtM2pCRi1SV3hBVlVsU2o4X2szMnBpcFloTmh1Nkg0b181T0RtdnZuYXNuZzJFMzhhTmhwcFpBRmFLNnRQSC13b1M1RTlNMGZKUUJoLUtpakN0SFhr0gHwAUFVX3lxTFBoUm5XY3RjNnRXUlpielBzNDRqOFNVdXdkSkZDMTdxN1k1R2ZpWXg0c3dPN0hBUmRkOHY2S1JOTWJkbVZYTUxyUzV5am9DYXlPZVduTWZxd0hkM05uZlVMdWRhQl8tSVB3VFh1UE5NZUhDbVdodGNTc3lIMGdxWGl5bXNKTkltMDd2U2RMNnp4MS1ya1dTcjJFR084MmxYRW9oTWNZODREMzAzTkFjRFpZQUlaOUx6NXJndjNKSXk1bUhsNHd5TzRYaENGTEpmNS1uVjdQQ2haUVBWR19lcnYtaHVQYVhzZlk2MjhQXzJLUQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:23:49+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "035a1ef87d156594",
    "title": "Titan Intech secures GeM OEM status for five display product categories",
    "link": "https://www.thehindubusinessline.com/info-tech/titan-intech-secures-gem-oem-status-for-five-display-product-categories/article71437485.ece",
@@ -1699,21 +2949,6 @@
    "author": null,
    "publisher": null,
    "image": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/k4jmxg/article71135027.ece/alternates/LANDSCAPE_1200/Greenply-launchG2PG59VO1.4.jpg.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T06:30:40+00:00"
-  },
-  {
-   "id": "ef63385138400ed7",
-   "title": "Sensex down 350 pts, Nifty below 23,800: US-Iran tensions among key factors behind market decline",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZmQ0QzNleF9ZS2ZockFNVEYwT1E0UFB5b0xvMDZWdVhvS2Z5ZXo5N2x0UEo3eWpBUkxIRmxzTTV2SHVjZWhPa0FpalcwWGNfZlo3M1ZlMFRLWlZ2ejVPb2JUd0x0WDhGdGV0RzQ5WURHMU5WSEwweFBkLTdQV3N1WjdzTGl6WGo0TG5RdFU0ZmhYRmNLMk40ZXJUMHc1UmVNNVhTWExLZllIUUhmTFV0czhBWUU3ZDRPM0gzUG1oSTh5b2ZCT0Rzd0ZjdWxtbHBhTTh5Zm0wMF9TZHNzR3ZEM1JqLWlnNTk5ZmhIYmhMZGnSAfYBQVVfeXFMUGpDT1JYZlFSaVNfOTFoQnlqMnZfanFHaG5zdzgtV3gwX2V0UlpyMjdFMlZLaEhBMjYyRWcxODMzMU5BNVU0UHNmSy1UbmZxb2ItUm52Vm4yckNsajJTcVdhZGlBUk9CWnNtNjV0NTFfc0xqcXhNWUlBU05qMzlYVnJzdW4wQWVmYzNxblBzSHJUcl8xVmpPclVqRjJySzlFekZmU1o1TnVSdzFaQnIyS3BaQkNUUVhoTERFaDZzVWJiUmxDNHJuTllIcWJkbm1MdVJxX3FGdTNMR2s5MkRxWlJRcTg4UGlPN1hnUXl5MkVkMFVxVHZB?oc=5",
-   "summary": "",
-   "published": "2026-09-07T05:17:17+00:00",
-   "source": "Moneycontrol (via Google News)",
-   "category": "Business",
-   "date_known": true,
-   "author": null,
-   "publisher": "Moneycontrol.com",
-   "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
@@ -1812,6 +3047,21 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/RERA_picc_1788754969666_49b5e647-2ed0-409d-aa14-6de61750e4b6_1788754974243_5ce62628-ee27-4ebf-8b4f-59ee1d3f0cea_2fc5f95a-46e3-481f-9591-e18b40c26904_855f3275-31b6-4a65-a436-ee456c9ec701.jpg",
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "85fda6050537a5df",
+   "title": "‘Women are the main reason behind my political victory’: Vijay warns against abusive remarks in Tamil...",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbDdONFhhRE5HalhUY3pkZ2p5eVdpNHNpUWNnMUxybE81Yy1iM1ZFWEZuTHVGMlh6Q3IzT093Y3hQcVE2ZXpFRjhPeS1xSjNjbTkwSk1QaXFGOVdzZ29QNmZaUDd0QU1MU2pVTTJyLWVxODUwampuY29RaVR4Tk4zYzh5RFhFYjFuU3pHWWp3ckZkMndCb2xTc05UalZiTms1MHlkZkNIcGNjZWZtTVowM29ZTW1hZFNPaDBjQmJNSzdnRHNHcXhiamtHdktKZmJVOUdUS2RSRm5Ib2tzY0NVNmM3VzNpNzZGcTFneHQ2a013MElleHgxSHRB0gH_AUFVX3lxTFBaZHFPamZMT3pGTG0wREtndlpBaTJObXhtNGp4QlQzSXhnMmowY1VvTlJHV0o2NVh1OEJaVEpKcmlYR3Q0TGFJeGRXVjBDVk5xNGstTmF5TmhDY2RCWlZzeG04OFIzUE42NnNERWxfTTE0YjI5aGgwYkIzaUpUV0RiNjZKeGNrUllKVTR6M1VzNHVaS0duR2xNUDdXa0FTcDMtMl9XQnhSX3VPM1pFVHR6Um5rQU5rc3AyQ0hDMVhVMkxINkpDZmFzVUQ0ZEdqc1k0Ym5YYzR2THJhWDFyZVduZElaNGJPel9aR0M5V2NtbXV4Y3hmLVQ1c0t3TWVlNA?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:06:32+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "db039f535080a52c",
@@ -2041,6 +3291,21 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "99fe0617847ab6a3",
+   "title": "Page 26 of Infrastructure Sector Stocks Archives",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmdXLTNORG5PMG1qZ2x0aHdGT3BWQV9JRjZoTWZ1QXY2ajBwRV9HM0p6VjhId0lVU2VWQmdBeU5rRzh6T3BVeG1hMUxrNWRKZEtqZTd5TW11aFhjRGFYbFI1R2hSWWRFb2xjQjdWbHNKaWQtQWJpNF9veWIxMm1kRU1ScFhIS3dBaFRwaERFZzcwZzRHSmc?oc=5",
+   "summary": "",
+   "published": "2026-09-07T04:39:55+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "5ca2b7893d82007b",
@@ -3224,6 +4489,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "f11b34b33a16c164",
+   "title": "Compare Stocks",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcElGeVdTNUU4ODRJcG5zVEY3TE1zUnYxNTBhaGdHME93WWw3OEw0QlFnUUM2dWhtcWFvclEtRnVBOGJlUVQ1NjJHa2hUN28zTmxYc1A0WG5peTgwdnVKNDBwa1l2Wk9PQjlKVlRTX0hVOThEVUlMa0Zpck5oMDRCVUtR?oc=5",
+   "summary": "",
+   "published": "2026-09-07T02:46:07+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "e490eec7b5c99fde",
    "title": "Insurance mis-selling: Retired professor gets ₹10.6 lakh; court says signatures alone don’t prove informed consent",
    "link": "https://www.livemint.com/money/personal-finance/insurance-mis-selling-retired-professor-gets-10-6-lakh-court-says-signatures-alone-don-t-prove-informed-consent-11788747937734.html",
@@ -3366,10 +4646,10 @@
   },
   {
    "id": "b8f437a6a6b7b111",
-   "title": "Delhi building collapse: 6 dead, 11 rescued from debris in Satya Niketan",
+   "title": "Delhi building collapse: Death toll rises to 7, rescue ops enter day 2",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUplbmtYcTVkZEI2ZF9qd1hDOWc2MnZKTkc1a2hROWZnSFJSNTZFSnVpbnJnNjRTcGtDSThkMHpIRXhMdDJVLUlxU2VKWGdwX2JWT2E2SUFkMlJLSnhUODJ0ZlBhRk5BcEpzQllwYlE5V3NmazVxVVREMi1QbXJQTWtqeWtlWl9qMUxQNGlUT0xVd3l5Und1UjNwWVJHM1ZPUTJ0bnUzNE9xTFlyVHZlWjk5Q2s2VGkxaDVVdkc2SE94cS0tbVowWlJpRlV3Tzhs0gHWAUFVX3lxTE4tZENObEQwdnZqT0pEY195M0FsN09xb25lZHNIMEphUl9INlZjSUpvaUROcEwyRVdFeWpKOEhreTB6c1I0TUpmQ2hIXzJxQVZ6dWZlZmFWb1VlSzVwa2tIUkhtejRTUVUtVXNlclhDQklBVE9IY0NzVXFHNkVKRlZtNGdKMWVPeHF6WF83ZUNLSm1WdWJNTExvVUZjWExIcjRBOGphU2JTdTlyWDJLX1FWZVNZTDVhbUhUakRFSlE3ZUEzN21aZjRnajduNmhCZHZwYVk2M2c?oc=5",
    "summary": "",
-   "published": "2026-09-07T02:10:00+00:00",
+   "published": "2026-09-07T02:10:58+00:00",
    "source": "Business Standard (via Google News)",
    "category": "Business",
    "date_known": true,
@@ -3385,6 +4665,21 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2N5UGlGanB1WnR5aE84cEZZb29IUnZmM29UOWQwaWI2YUtIdk5fZ1RsazVEYkVUQUhEUzFSdG5YNkpibDRBZzByeU0yWUEyLU1saFhrTmNqQlJ5WHd1UVlUMERNZl9FSUh2VloxMzBiWWpvRkR2bWkwWUtlUjNPLTlFSTk0LUxtNUYyVVJKRTItWldtUjhkYWtfcjBjWEhPbXN1dEVGRVViR1JoeTdRT05FOEVrcTdPRDdQN3FyQ05kX05MOXlwQU1OMFdDS2fSAdQBQVVfeXFMT3pSQVdjNHVxOVJTdWgtOG9adHI0QkRKZG1nMzhQSDFjSXZaRm05YTNlMjBPaXNYa0FyOUF5WDE0NU0zcWEzbGliV1lTZWNWQWgtY0NGT3VuTVB0VHo2Y1piZkFIai1RaThrMHFpc3ZIT0JRX19STzFyZjFrZXQzVm9GS1RwNG8xWENtVWlyUFhwSmg0RHd5TktQcGFOajM0V0hiU1NVQy1nX0VMR1NESndvWVpnWlZpcXk0RXdHdVlCQjFPYVZLY0J6eG9LX1BDRkZSeEk?oc=5",
    "summary": "",
    "published": "2026-09-07T02:09:41+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "7600f420945adacc",
+   "title": "Resilient demand to help jewellery retailers maintain growth trajectory",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSG81bk5Ka0o1WWo4a1ZDYnRRYVBmc3o3XzdTcHJRcDNyeVJoai1yWkQ4Qkg2ck9ZUF9xZlRuQ0daMi1tRGppYi1neURBeDlkWDQ5YnNwNHVDSy1XRFpTTlZoei0zb05kU1p0U0RqSEdCUkRZM3BPNFYwTHV2VFpfMG54MUZUVXBMRWNfR005RG8wNS1vVk5PVHB6QVhnTXpUTm1DZGRYdUt1dm80Z3RoZlo2dE4ycVh6NEN3LXVJX3NGQnp1azF4bzNQYnVMaHlqWWtNYdIB2gFBVV95cUxOaDZoSV9uc09Vc2ZpWGZaSEdzRUFGcExzU0pIUEFjTjZqblFnTGdKZGF6MjNsb0RpSUd1SnZIeUpGNzNwdXViNlNMTEI2blQ4SHZoWThNSFFpOTdBeHU2dGRYZ1JwX05EckpjQUp0R1RUUTRvRWx5NUxKeUlYMnJzVHg5eHY4WmsyR2RhSV9PcEZNV1Z4VEx2TzV3UkhjNkgydlNieExrYUNMaHBibVhncHluQ2dFZkpPTi02QWJBOUNvdjRsemcwOVdEQmh1UDJHc0gyaXgxLUNnZw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T02:08:00+00:00",
    "source": "Business Standard (via Google News)",
    "category": "Business",
    "date_known": true,
@@ -4682,6 +5977,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "603862d72113804f",
+   "title": "Business News, Economic News, Indian Stock Market News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3p0S0dtanh5SzBJbnFwcC1aazRmTGViVS1ZWnB5ZkNTOVNhbHF6M0VYTzlPOGZSTUU5ZkpMb3N3MmdKdFh4LTlxeE1reFMwTUozU2hubVhraEJMTmFSTk9fSXlVSHljRlBRc1YtdFpsTFp2SWhhdHJ0WG11b2dqUExRTDdtZTRKeW5aOHNVVlFYM2p0cnkxcjNQamhwOExHQjlPd2lHRmNERzNEcXpOR2dhUjRRN0U0TzZV?oc=5",
+   "summary": "",
+   "published": "2026-09-06T18:31:10+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "d1fad8297094d0cb",
    "title": "Business News, Economic News, Indian Stock Market News",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWZYQkRWd3RqZ0swSVhwUVpzTFhZSEs2bEU5QXQ4SHJUdFJkVkk1MnVXYzlCUDRaZGtwZ05uN21yTVRGZDhkVEVlWTNndDhpS3k1SGpJZURnd1BTTWtBOHBTSzAwczJmWnpVdElxbWx2cFRma0s4WXU4WTRoZGxWU1dUeV9ZSm8tWnZZeDlycjJ0ZThQNllwelZUeVg4eXljMERwbF9BQ3VqZ0hWdFA3Q19kQTdjM3VnMnc?oc=5",
@@ -4913,6 +6223,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "362e7eb08b216635",
+   "title": "Ashutosh Fibre",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTUJ2QWZ3bnFLajltQnhXWmNaeFZBcGY5YndtTWV0TFpZNlVpYmpGVV9IcGUwTTlfRndDZGNQN2xxMkZCOGdOckZsNlBJQ1FoZmI1aWNqVnY5dDFxT0o4ZVdEbExCZVg3VGxEbDJLY2VxanRTT2hYQVdaT2t3XzZ1YVAwTWM4bUFqa3JFRUxBOA?oc=5",
+   "summary": "",
+   "published": "2026-09-06T17:53:29+00:00",
+   "source": "Moneycontrol (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "Moneycontrol.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "70fad19adfff0c73",
    "title": "HDFC Bank woes put spotlight on leadership continuity, top-tier handovers",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGNYamlCRVMyZWhMS3YtQUk2bzVqbGJzR1JEOW4ydjY2WnRERVF1Tm1HMG81RGw0dTdmWFhjTkhVU0RocmFrWi1zNkpGREdQTzNTUVlqWE1welZxRUdpbGxoNnpyZVc1NjVBV0QzVGowQjd2RW1IUm1mT0ZOSlBZREYzeUVMSUFpWWthNHNCeGdETUFxZ0h4eVdlaXBJS0ZLSEx3bkJINjg3VWVEQ25UQlVQd095VWg5Uk5QbjVVaWw1UWM5cG9LamtpQTg4RDl6ZXoxenJn0gHbAUFVX3lxTFBlX0J1MGNIVmVpZG5lM1VmM3Z5dGZUZ3hyc3JSYjhZWUptN3ZRVzFWSk5oekJTVUFUWGNtY2VoZDZ1OTVrUDRGWnZRdEpDSld4eEJieGFJVFUtRnNpWGRnbktSSkxMWVdvSUNSRXdncVZqUXZ2Mk5VMnNCQ1NLOTUweXRZNkF5YjdEWWd4aHM4bWNzR3VBcmxvTk8xOVZocTdZX3M2S3ZUbkhuQWZoczZKUzFXX0hfMmdURHBTc1pXTFFBWGxzLXBQLUZJRmFhNVhfLWQ3OE9hLURwbw?oc=5",
@@ -5002,23 +6327,6 @@
    "publisher": "Business Standard",
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-07T06:30:40+00:00"
-  },
-  {
-   "id": "b628c3b42804a792",
-   "title": "Government notifies new Income Tax Rules 2026 for stricter compliance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeldSXzBlWFBQVTJrRThJOFdfUHJ2VlFFN3RUOWJOWUFRRWgzMGVNRFk4bTJObGJyN0h3SHl3a1h1S25tN1IzX2Q0eUZmQ0lYdVU4bmQzNktYMWJ2YjVWTUl0TW1QbGxvZl9jSUNPQXplQTZia2hwX2d6SmFFQURpek11cGZnZURNMUpQTnZ2Rks2UlV6NlFhQU1GNA?oc=5",
-   "summary": "",
-   "published": "2026-09-06T17:34:54+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "date_known": true,
-   "author": null,
-   "publisher": "News On AIR",
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
@@ -5339,6 +6647,38 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/ais_eroro_1788710604597_0867ff69-fecb-40bb-80aa-19ad2d5c6d3e_1788710607818_6e8439b1-29da-49a1-a0f5-044bdaf5b6fd_78b72008-c5bc-4613-acaf-710b9fca7af0_6b51dfe6-af15-4636-a12e-450ecb6065eb.png",
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "993863c05ed8d733",
+   "title": "BreachX Launches Typhon, a Family of Sovereign Cybersecurity AI Models",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ281ZERpOE9fRWVGZl9valllbzAyMjZSUlpiVHZFUE01YkFvdTR1bDdxNTJqdlVVRU5MY1RmcEZQNzZxVW80eWl0X1Z2R1pwQkk5OHJiajA4dENBQVBnWFV1OG53bDRKSDFPbWg1TUxtZnY1Q3JSeVhjQzQ4OFdIanJuUERDS0w5RV9KN3Rhd3lPdnBUb0hRbHF3LUFfRURlNkhLMlVNVGVoYXdaSEVEdzhqdVZQVVNNQnZIQlFVOFc0cEFMZVlCc1pBNlfSAcwBQVVfeXFMTWdvNWREaThPX0VlRmZfb2pZZW8wMjI2UlJaYlR2RVBNNWJBb3U0dWw3cTUyanZVVUVOTGNUZnBGUDc2cVVvNHlpdF9WdkdacEJJOThyYmowOHRDQUFQZ1hVdThud2w0SkgxT21oNU1MbWZ2NUNyUnlYY0M0ODhXSGpyblBEQ0tMOUVfSjd0YXd5T3ZwVG9IUWxxdy1BX0VEZTZISzJVTVRlaGF3WkhFRHc4anVWUFVTTUJ2SEJRVThXNHBBTGVZQnNaQTZX?oc=5",
+   "summary": "",
+   "published": "2026-09-06T16:03:01+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
+   "id": "86c69491821d2e84",
+   "title": "NCLT orders status quo on Byju’s K3 Education assets",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0VMMW9vSk5uY0lyXzlLbFZpazNxZmg1cGlYd2ZhWnZqaG1wa2hXbXdqZlpsQmRYM3FPVDZ1c3ZpSHRmcDBmSnl3MEEycFhJbVN0ZVJlLW91cHBNd3RBQW9ZQjY0bzdCMVRjeWdMd2hXWFRuUUIxb0NzZlY5ZnBLVU1VSlltRWtPOGtCdklsa0ZfMUpIX2JqTndiUlhVQ3JZd1lyZ1NxNDRGOEHSAbIBQVVfeXFMTUlCcWpEQlNNQ0d2M3pPMTd1c0JkRWNRUHpHQzRCcjdMQmsxQTZMdTRFZzF6YmlJYlB3anhHWVBBOFVhbjhtV0xpLTNmem9kU0R5X0twQXRiblZFUWE3SFNCV2g2Mkp4WHBaVmxudW56akxhd3Q0a2hxcHRwa0FSVU4xQmdTNEc0VDF1VzBuWTF1N29aanI3ZE9GNkJHbGtFRDd4ZkxxTmdhc0FTR3VkS21CZw?oc=5",
+   "summary": "",
+   "published": "2026-09-06T15:55:08+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [
+    "Insolvency / IBC"
+   ],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "d8d943bbfedb03e0",
@@ -5688,7 +7028,7 @@
   },
   {
    "id": "a1f08d93f495b994",
-   "title": "Karnataka FDA seizes drugs worth over Rs 4 lakh from unlicensed Amazon facilities",
+   "title": "Karnataka FDA seizes drugs worth over Rs 4 lakh from two Amazon storage facilities",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbC1iYjUxNTB3cV9QMnUzQ3RKTUs1T0Y3TS1MUGo3VFByV3VRNzFGbG03WEwxNXhjcWdXWEYwUTBsaFBLdUUyT2s3d3g4akx2ZldILWg3TlVPN2RLZXVCWWV3VXgyaGwzaFpEdlNmRGZmdDBuTldPNl9FdDV6aklTWllPcU9xVkRtbFhUNVFjWmlQM3BMWU5uQkRaRjF5ejVmcTZpcmJhNURkbzhsNlk3NkQwQmhJN09EUFFsX0NEMkhYaTMyR0hFVXYyMUtKVjJW0gHWAUFVX3lxTE0xaFlfOExXQkxNZ1E4cUF5VVRyTWQyaHVLY1pqb2h0OXRnVWw5R2JGa2NXTU80ZU9ZTFZkbDNlRkxKb1d3bUZOcUFITWtnV29MaC16ZVRWY0xuY0dHcXZ0SXg5N0tteTd3M2FEN3d1YTdGS1VVVms0Q29qTlVyVVZTNllvay1MS1poYkpJdlZHeHBlMm9WX2NtbXdYZ2NzS2FvbFc2SlRidWVNU0hoVlZzNDlnY2t1SHZPa3JfZlBkNi0xbi1FZWZndG5ndi1KTWpkS0EwcUE?oc=5",
    "summary": "",
    "published": "2026-09-06T14:43:49+00:00",
@@ -5756,7 +7096,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "rediff.com",
+   "publisher": "Rediff",
    "image": null,
    "topics": [
     "GST"
@@ -6370,7 +7710,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [
     "Income tax"
@@ -6387,7 +7727,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [
     "Income tax"
@@ -6955,7 +8295,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -7132,7 +8472,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -7412,21 +8752,6 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
-   "id": "7600f420945adacc",
-   "title": "Resilient demand to help jewellery retailers maintain growth trajectory",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSG81bk5Ka0o1WWo4a1ZDYnRRYVBmc3o3XzdTcHJRcDNyeVJoai1yWkQ4Qkg2ck9ZUF9xZlRuQ0daMi1tRGppYi1neURBeDlkWDQ5YnNwNHVDSy1XRFpTTlZoei0zb05kU1p0U0RqSEdCUkRZM3BPNFYwTHV2VFpfMG54MUZUVXBMRWNfR005RG8wNS1vVk5PVHB6QVhnTXpUTm1DZGRYdUt1dm80Z3RoZlo2dE4ycVh6NEN3LXVJX3NGQnp1azF4bzNQYnVMaHlqWWtNYdIB2gFBVV95cUxOaDZoSV9uc09Vc2ZpWGZaSEdzRUFGcExzU0pIUEFjTjZqblFnTGdKZGF6MjNsb0RpSUd1SnZIeUpGNzNwdXViNlNMTEI2blQ4SHZoWThNSFFpOTdBeHU2dGRYZ1JwX05EckpjQUp0R1RUUTRvRWx5NUxKeUlYMnJzVHg5eHY4WmsyR2RhSV9PcEZNV1Z4VEx2TzV3UkhjNkgydlNieExrYUNMaHBibVhncHluQ2dFZkpPTi02QWJBOUNvdjRsemcwOVdEQmh1UDJHc0gyaXgxLUNnZw?oc=5",
-   "summary": "",
-   "published": "2026-09-06T08:11:34+00:00",
-   "source": "Business Standard (via Google News)",
-   "category": "Business",
-   "date_known": true,
-   "author": null,
-   "publisher": "Business Standard",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T06:30:40+00:00"
-  },
-  {
    "id": "9734552bc4974292",
    "title": "Inside Indian Railways’ crucial 2,843-km dedicated freight network",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFloc1JrNHA4NzdyLXBTc3BzWGVKNDhqdl9qRjgtMUtpMDNHdzZ4bVhHcEN0VGJMZkpfVGFOSGgwY0xROWVHTHkzSE9vQVhoOUpMcGloYjBVQjJObXRVNEg5LUVuWWZxZXRPY25USUFULXJZeU9UVldwY1JiQ0pPV01LUkJ0MTZSdDlPdGxaRlZEZ19CYzFIV2hpdmNKSkVwVTVEcC05OHFrYlhkc3JJcWFSX3NBRXc0SS1SVkdaVkxmUdIByAFBVV95cUxOaVVaQlo3bUVGcTl6b3lTblRWaVlOMDZpam93c2F0NGZEbXlCUHd0M18yUmVpaHQtZWVDYTlsNjZTaVpKM3lSdi1mdzRkQzE3VXJJOEo2RHRDR3RZb2YwWDdhWExvbk5SSXItanktalVJdlRtRXF0UUxuc3dNYlFCSjhQNC1zUDJFV05VMk9LeG1vOHdSWFRvRVZLMENvX3VLa0loREE1RGZucFp0b3VfbmdqejllaFJOeHFLRnNDa0R5VDZacEFIVQ?oc=5",
@@ -7466,7 +8791,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -7697,6 +9022,21 @@
    "first_seen": "2026-09-07T06:30:40+00:00"
   },
   {
+   "id": "90feeaa0c5181620",
+   "title": "India’s real estate market tilts towards premium housing as urbanisation accelerates",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeTh3cGhxRXFLZFZtY3dvTnNjTjFmWk5IQlNyWG44b3lWLVh3RzVzQncwc3BGQWFqNDBlOVQtVWRVaFBpakc1bjM2VTRNVmQ0MDNhVEtTc0hHc0UxUjE5ZWhQeXZNZTZmUmFWTE81a1kxU3VPRkM1Vlg0SDZnbk5HOXZROFVaNm9wNHlyQ2M5clFlTFJTZ3V2NWF1NUkycG5USTJCblNhaFh4dWhBazBwUlZvNzdHeGE2V01POEZpLW5VV2dtWDVIS2VVdnFzRVp0bVdLcTZ1M2ptXzQ3bXM0TE9nONIB6gFBVV95cUxQOVMxUk9YNjU2Si1admJlYmJVSE16QnpvWTZwZ0E4TE5QV2wzLTN4VW1uTTA3MENhR0xldURCQ2JJZFBEbWliTEhUYlpjMFpPRjJXMDdabnpjVFNxUy1Ua0RfTmFCYVFrci1yUmtWaVIwRW4tYUFJaWpldlp4c1pXM3RHY3dZMmRDdnVoUkdkUEh3RmZnRVNJV2RhX1YxSkZoV2x5bk1Xc3dKc21NY3hONkhiMlpCenNRczIyNGYxazd2RDN2NkhIa2pwQkctRmI4cUFmYWh2Q3o4QW1OZHVwR2JrbUhPeHhweEE?oc=5",
+   "summary": "",
+   "published": "2026-09-06T06:53:22+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "1e77b31863ec9af2",
    "title": "Cheyyur, Gummidipoondi shortlisted as possible sites for Chennai's second airport",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDNtdXN3NzlkLUdjMGx1b05rRXhwUUt3VmlqXzJmNlV0X0R0ZDZtZ2Z3ZmJXbEhyekhkVnN0VDRFQV9fWm0tQWdSZ2lwYzV3SVY0VXcxclNGTkVOQUtUUVV2dkNmRzZPV0xhdGR2ck9SRlNSZEJDWE5qNElrdDhEdUFkTlF1THBMaVdGWmtKbDZyNWdTbUVjb19SN2J6RjVfM1hsRlFPdWlucU9XNVBCSTJ1UkFIYmZVQnBUOV85R21TZ1AyQVZpVmxIcFpUd3PSAdQBQVVfeXFMTjFVSHBrZ1duUzZpcmJicGZiVWFQRUx3VEgwVW9qVExfQ3BUY190SjBwTlIzTzFjMlBGVzByV2ZCVE5vLWFrOTdVVGpNai1sU0FNTlJkRmRibXVKV0VtclBDTXZDbFBmemprUDV0d1ZtN1NrS2NrSGlQUFlFaTZjZ195ZVl2dEN2SU16c3N1MlNXTmxDdy1WbWIzLXVDOUFQdF9QLWtvYmNJeWZSNmQySi1vcnFFd1hVbXI1c3ZSNnBwV3hSTk5YLUpOYkVLSzZsNW91MmM?oc=5",
@@ -7721,7 +9061,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:43:35+00:00"
@@ -8239,7 +9579,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -8391,7 +9731,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9519,7 +10859,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9534,7 +10874,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9549,7 +10889,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -9570,6 +10910,21 @@
    "first_seen": "2026-09-07T07:37:01+00:00"
   },
   {
+   "id": "1c68a32e593d5066",
+   "title": "Seasonal migration disrupts schooling, raises child protection concerns: UNICEF",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdkpvRjZ0UzVBcDZzSFBWWDR5VHQzZi1QbTBfYWVGTHF5VGpRM1pFa3dLT2k2RG5hbmFkTGdMRE5RYldUZ0xsa0l1blpMWjg0Y0VWa05hcFI5ZWNJMURpUTNWdnZiV0J1Q2NWN1V0Mm9hcGszcmw3M202d1ZQXzJPN2ZXM1dHT0lWUkl6Q3dobTljUGc0T3RRdzBmbXZkdU4tN094cHJpeEloR1NCeG96enJwWk1oZTRMNWszTmFzQXlBQ2wxc2xXSjdsejZBMUN6WW00TDFWbFTSAd8BQVVfeXFMTkg1d0hnTG5JTy10ZnZlMy1nZm1JMGhVQkJoc1ZYSkRWNmUzODIzcTF0cnZOTUZpWTJ0YjhFLUdIYXUySXRIazJ2YlNnYS1mS1J2bzFwSTVFcDRIX3QxSGE5M3d6bU5sRU1tY0M3VFJjdXBNU3hobERWMEVFWXdobHI1eEhOM1lidS1aWS1ZcWl4bERQS0VGNzRtR0RFTUlhVTluTjZyMFlNOTVtMHpGN3ctWVlDUzRkZGFmZnQ4SEhkSEZuc05JbHMwODZ0SmtTMExDYms0NlR1YkZ3YkdRMA?oc=5",
+   "summary": "",
+   "published": "2026-09-05T16:53:52+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "date_known": true,
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
+  },
+  {
    "id": "3e7f77f7e1c81981",
    "title": "Prime Minister shares moments from his metro journey to and from the SRCC programme",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41QXNMTm9MQUlPOXJxOXl5Sy0zVzg5eUZYT1hJY0M4OXN6aGM4emhsaG14eTV0SmktZEh6bllQQWdudGZJMU5EVWR5SzhIMG5sSmN3Nno5T05NTzZyNW5GeXlmT2FQc2k3bDhtNmpHakRoWlFWblNjdUtuQ20?oc=5",
@@ -9579,7 +10934,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10273,7 +11628,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "rediff.com",
+   "publisher": "Rediff",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10352,7 +11707,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "Bar and Bench",
+   "publisher": "barandbench.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10367,7 +11722,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10431,7 +11786,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10493,7 +11848,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10570,7 +11925,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10585,7 +11940,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10630,7 +11985,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10645,7 +12000,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10660,7 +12015,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10675,7 +12030,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10690,7 +12045,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10771,7 +12126,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "Fortune India",
+   "publisher": "fortuneindia.com",
    "image": null,
    "topics": [
     "GST"
@@ -10923,7 +12278,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10938,7 +12293,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -10989,7 +12344,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [
     "MCA / ROC"
@@ -11023,7 +12378,7 @@
    "category": "Compliance",
    "date_known": true,
    "author": null,
-   "publisher": "Bar and Bench",
+   "publisher": "barandbench.com",
    "image": null,
    "topics": [
     "Insolvency / IBC",
@@ -11042,7 +12397,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11057,7 +12412,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11218,7 +12573,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:43:35+00:00"
@@ -11233,7 +12588,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11248,7 +12603,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11263,7 +12618,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:43:35+00:00"
@@ -11278,7 +12633,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11325,7 +12680,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11340,7 +12695,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11370,7 +12725,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "solarquarter.com",
+   "publisher": "SolarQuarter",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -11387,7 +12742,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11402,7 +12757,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11432,7 +12787,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11464,7 +12819,7 @@
    "category": "Compliance",
    "date_known": true,
    "author": null,
-   "publisher": "VCCircle",
+   "publisher": "vccircle.com",
    "image": null,
    "topics": [
     "Audit / accounting"
@@ -11498,7 +12853,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11729,7 +13084,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11744,7 +13099,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [
     "RBI / banking"
@@ -11761,7 +13116,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11791,7 +13146,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11806,7 +13161,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11821,7 +13176,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11853,7 +13208,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11868,7 +13223,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11883,7 +13238,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11898,7 +13253,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11913,7 +13268,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11980,7 +13335,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -11995,7 +13350,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12042,7 +13397,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12057,7 +13412,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12107,7 +13462,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12139,7 +13494,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12306,7 +13661,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12321,7 +13676,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12336,7 +13691,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12351,7 +13706,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12366,7 +13721,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -12383,7 +13738,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12398,7 +13753,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12430,7 +13785,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12445,7 +13800,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12460,7 +13815,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12490,7 +13845,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12505,7 +13860,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12537,7 +13892,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12586,7 +13941,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12607,6 +13962,21 @@
     "Income tax"
    ],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "02dfe5d84aea20a0",
+   "title": "India’s GDP Performance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORW9waW1jN3poUTVMSlh4T21JYXdraWlUNW1ZT3hyRV9iZDRydF9WSmdySmhwUzVzd3pxV1dRbUlzSXNybjVubjF0X0NOZTZITGRVM25WQXVVWWd6RUNUYm82emh2NkN5RXIyb1dXbm1hSVluaUhJTmxkakRvVVhZMmpFXzg1Q3hrSHMzbl9POWZCOHh3RWFLag?oc=5",
+   "summary": "",
+   "published": "2026-09-01T09:23:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "PIB",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "a2ab44dece273c5e",
@@ -12652,7 +14022,7 @@
    "category": "Tax & compliance",
    "date_known": true,
    "author": null,
-   "publisher": "Fortune India",
+   "publisher": "fortuneindia.com",
    "image": null,
    "topics": [
     "GST"
@@ -12686,7 +14056,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12701,7 +14071,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12716,7 +14086,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12748,7 +14118,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12763,7 +14133,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12795,7 +14165,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12885,7 +14255,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12900,7 +14270,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12915,10 +14285,25 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
+  },
+  {
+   "id": "5ec140d1d616d9e5",
+   "title": "Union Minister Dr. Jitendra Singh Inaugurates first of it’s kind “Green Forge” Complex at ‘National Agri-food & Biomanufacturing Institute’ Mohali; describes it as milestone in genetically modified crop revolution",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxYzRLM0N5LUJoTEJEampsV1hHNEFVSHJNbnk3dnJRX25qbFloU3VPalVHSTRFZTBaQXIxQnltaGV1VjJldksxcF90b2lmM1ZwYWkyVUZtcXU3TG1sSU11YnRRODFRb1Jtd083RlhSWGhBSUo2bkpSOTYyd2ctUQ?oc=5",
+   "summary": "",
+   "published": "2026-08-31T11:42:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "date_known": true,
+   "author": null,
+   "publisher": "PIB",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T08:45:26+00:00"
   },
   {
    "id": "c9c04a24ded0f334",
@@ -12930,7 +14315,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12945,7 +14330,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12960,7 +14345,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12975,7 +14360,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -12990,7 +14375,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -13005,7 +14390,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -13020,7 +14405,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -13035,7 +14420,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -13050,7 +14435,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -13065,7 +14450,7 @@
    "category": "Government",
    "date_known": true,
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "PIB",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
@@ -13242,7 +14627,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "Fortune India",
+   "publisher": "fortuneindia.com",
    "image": null,
    "topics": [
     "Insolvency / IBC"
@@ -13293,7 +14678,7 @@
    "category": "Insolvency",
    "date_known": true,
    "author": null,
-   "publisher": "Fortune India",
+   "publisher": "fortuneindia.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:30:40+00:00"
