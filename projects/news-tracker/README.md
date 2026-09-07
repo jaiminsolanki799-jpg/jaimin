@@ -5,7 +5,7 @@ Two phone-friendly news dashboards, with the data stored in this repository:
 | Dashboard | What it tracks | Page |
 | --- | --- | --- |
 | **ET Prime & Mint** | Economic Times Prime stories, read from the ET Prime home page and its eleven section pages, plus Mint's companies, markets and money feeds | `et-prime/` |
-| **Websites** | A short list of news websites (starter set: Business Standard, Moneycontrol, BusinessLine, Financial Express, Taxguru). Replace them in `sources.json` with the sites you want | `website-news/` |
+| **Startups & Tech** | The CapTable, YourStory, StartupTalky, Entrackr and TechCrunch (The CapTable and Entrackr have no public feed and are read via Google News) | `website-news/` |
 
 Each dashboard has a publication bar at the top (the `group` of each
 source), a search box, a Filters drawer (time range, unread, saved, section,

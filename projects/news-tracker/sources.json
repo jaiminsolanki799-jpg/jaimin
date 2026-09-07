@@ -245,14 +245,8 @@
           "group": "The CapTable",
           "category": "Startups",
           "type": "rss",
-          "url": "https://the-captable.com/feed/"
-        },
-        {
-          "name": "The CapTable (via Google News)",
-          "group": "The CapTable",
-          "category": "Startups",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+          "_comment": "No public feed; read via Google News."
         },
         {
           "name": "YourStory",
@@ -262,13 +256,6 @@
           "url": "https://yourstory.com/feed"
         },
         {
-          "name": "YourStory (via Google News)",
-          "group": "YourStory",
-          "category": "Startups",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:yourstory.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
           "name": "StartupTalky",
           "group": "StartupTalky",
           "category": "Startups",
@@ -276,25 +263,12 @@
           "url": "https://startuptalky.com/rss/"
         },
         {
-          "name": "StartupTalky (via Google News)",
-          "group": "StartupTalky",
-          "category": "Startups",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:startuptalky.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en"
-        },
-        {
           "name": "Entrackr",
           "group": "Entrackr",
           "category": "Startups",
           "type": "rss",
-          "url": "https://entrackr.com/feed/"
-        },
-        {
-          "name": "Entrackr (via Google News)",
-          "group": "Entrackr",
-          "category": "Startups",
-          "type": "rss",
-          "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+          "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
+          "_comment": "Feed URL returns 404; read via Google News."
         },
         {
           "name": "TechCrunch",
