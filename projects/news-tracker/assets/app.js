@@ -16,6 +16,7 @@
     query: "",
     range: "3",           // "1" | "3" | "7" | "all" (days)
     group: null,          // selected publication (source group)
+    desk: false,          // Valuation desk tab: only stories with a valuation score
     source: null,         // selected source name
     topic: null,          // selected topic name
     category: null,       // selected category (section)
@@ -86,6 +87,7 @@
   }
   function matches(item) {
     if (!withinRange(item)) return false;
+    if (state.desk && (item.valuation_score || 0) < 3) return false;
     if (state.group && (item.group || item.source) !== state.group) return false;
     if (state.source && item.source !== state.source) return false;
     if (state.topic && (item.topics || []).indexOf(state.topic) === -1) return false;
@@ -108,7 +110,7 @@
     var fresh = filtered.filter(isNew).length;
     var unread = filtered.filter(function (i) { return !state.read.has(i.id); }).length;
     var rangeLabel = { "1": "today", "3": "last 3 days", "7": "last 7 days", "all": "all kept" }[state.range];
-    var parts = [filtered.length + (filtered.length === 1 ? " story" : " stories") + " · " + rangeLabel];
+    var parts = [filtered.length + (filtered.length === 1 ? " story" : " stories") + (state.desk ? " for valuation" : "") + " · " + rangeLabel];
     if (fresh) parts.push(fresh + " new for you");
     if (unread && unread !== filtered.length) parts.push(unread + " unread");
     return parts.join(" · ");
@@ -153,8 +155,13 @@
       });
       return h;
     }
-    $("chips-group").innerHTML = chips(groupCounts, state.group, "group", "All");
-    $("chips-group").hidden = Object.keys(groupCounts).length < 2;
+    var deskCount = all.filter(function (i) { return (i.valuation_score || 0) >= 3; }).length;
+    var deskChip = '<button class="chip desk" data-kind="desk" data-val="desk" aria-pressed="' + state.desk + '">★ Valuation desk<span class="n">' + deskCount + "</span></button>";
+    var groupHtml = chips(groupCounts, state.group, "group", "All").replace(
+      'aria-pressed="' + (!state.group) + '">All', 'aria-pressed="' + (!state.group && !state.desk) + '">All');
+    var allEnd = groupHtml.indexOf("</button>") + "</button>".length;
+    $("chips-group").innerHTML = groupHtml.slice(0, allEnd) + deskChip + groupHtml.slice(allEnd);
+    $("chips-group").hidden = false;
     $("chips-category").innerHTML = chips(catCounts, state.category, "category", "All sections");
     $("chips-category").hidden = Object.keys(catCounts).length < 2;
     $("chips-source").innerHTML = chips(srcCounts, state.source, "source");
@@ -164,9 +171,11 @@
   function storyHTML(item) {
     var read = state.read.has(item.id);
     var marked = state.bookmarks.has(item.id);
-    var tags = (item.topics || []).map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("");
+    var tags = (item.valuation_signals || []).map(function (t) { return '<span class="tag sig">★ ' + esc(t) + "</span>"; }).join("") +
+      (item.topics || []).map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("");
+    var why = state.desk && (item.valuation_signals || []).length ? item.valuation_signals.slice(0, 2).join(" · ") : null;
     var section = item.category || null;
-    var byline = section && item.source.indexOf(section) !== -1 ? null : (item.publisher || item.source);
+    var byline = state.desk || (section && item.source.indexOf(section) !== -1) ? null : (item.publisher || item.source);
     var open = state.expanded.has(item.id);
     return '<li class="story' + (read ? " read" : "") + (isNew(item) ? " new" : "") + (open ? " open" : "") + '" data-id="' + esc(item.id) + '">' +
       '<div class="kicker">' +
@@ -174,6 +183,7 @@
       (byline ? "<span>" + esc(byline) + "</span><span>·</span>" : "") +
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
       (isNew(item) ? '<span class="new">New</span>' : "") +
+      (why ? '<span class="why">★ ' + esc(why) + "</span>" : "") +
       "</div>" +
       '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + highlight(item.title) + "</a></h2>" +
       '<div class="detail">' +
@@ -188,6 +198,11 @@
 
   function renderList() {
     var filtered = state.items.filter(matches);
+    if (state.desk) {
+      filtered.sort(function (a, b) {
+        return (b.valuation_score || 0) - (a.valuation_score || 0) || (a.published < b.published ? 1 : -1);
+      });
+    }
     var slice = filtered.slice(0, state.shown);
     if (slice.length) state.expanded.add(slice[0].id);  // the lead story opens by default
     $("count").textContent = summaryLine(filtered);
@@ -265,7 +280,12 @@
       var chip = e.target.closest(".chip");
       if (chip) {
         var kind = chip.getAttribute("data-kind"), val = chip.getAttribute("data-val") || null;
-        state[kind] = (state[kind] === val) ? null : val;
+        if (kind === "desk") {
+          state.desk = !state.desk;
+        } else {
+          if (kind === "group" && !val) state.desk = false;   // "All" clears the desk too
+          state[kind] = (state[kind] === val) ? null : val;
+        }
         state.shown = PAGE_SIZE; renderChips(state.items); renderList();
         return;
       }

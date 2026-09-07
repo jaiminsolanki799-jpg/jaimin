@@ -274,3 +274,45 @@ def test_merge_keeps_old_date_when_fresh_date_unknown():
     fresh["date_known"] = True
     merged = fn.merge_items([old], [fresh], NOW, retention_days=14, max_items=100)
     assert merged[0]["published"] == NOW.isoformat()
+
+
+SIGNALS = {
+    "_comment": "ignored",
+    "M&A": {"weight": 3, "keywords": ["acquisition", "acquires"]},
+    "Funding": {"weight": 2, "keywords": ["raises", "series b"]},
+    "Rates & macro": {"weight": 2, "keywords": ["repo rate"]},
+}
+
+
+def test_score_valuation_weights_headline_hits_higher():
+    score, names = fn.score_valuation("Zomato acquires Blinkit", "", SIGNALS)
+    assert score == 4 and names == ["M&A"]
+    # a mention only in the body is not enough on its own
+    assert fn.score_valuation("Deal news", "the acquisition closes in Q3", SIGNALS) == (0, [])
+
+
+def test_score_valuation_sums_signals_strongest_first():
+    score, names = fn.score_valuation("Startup raises Series B", "an acquisition may follow", SIGNALS)
+    assert names == ["Funding", "M&A"]
+    assert score == 3 + 3  # funding in headline (2+1) + M&A in body (3)
+
+
+def test_score_valuation_ignores_partial_words_and_comments():
+    score, names = fn.score_valuation("Praises for the repo rate", "no repo rate here? repo rates", SIGNALS)
+    assert names == ["Rates & macro"] and score == 3
+    assert fn.score_valuation("Nothing relevant", "", SIGNALS) == (0, [])
+
+
+def test_keyword_pattern_allows_punctuation_edges():
+    sig = {"Funding": {"weight": 2, "keywords": ["raises $", "raises ₹"]}}
+    assert fn.score_valuation("Nua raises $50 Mn led by Peak XV", "", sig) == (3, ["Funding"])
+    assert fn.score_valuation("Startup raises ₹40 Cr", "", sig) == (3, ["Funding"])
+    assert fn.score_valuation("Praises $ signs", "", sig) == (0, [])
+
+
+def test_sources_config_has_valuation_signals():
+    cfg = fn.json.loads(fn.SOURCES_FILE.read_text(encoding="utf-8"))
+    groups = [k for k in cfg["valuation_signals"] if not k.startswith("_")]
+    assert "M&A" in groups and "Valuation" in groups
+    for g in groups:
+        assert cfg["valuation_signals"][g]["keywords"]

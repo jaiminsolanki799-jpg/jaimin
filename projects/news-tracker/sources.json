@@ -280,5 +280,223 @@
       ],
       "_comment": "The websites Jaimin asked to track. Each entry needs a name, a group (shown in the top bar), a category and a url."
     }
+  },
+  "valuation_signals": {
+    "_comment": "Signals a valuation analyst cares about. A story's score is the sum of the weights of the signals it matches, plus 1 per signal found in the headline. At least one signal must appear in the headline, otherwise the score is 0. Stories scoring 3 or more appear in the Valuation desk tab, highest first.",
+    "M&A": {
+      "weight": 3,
+      "keywords": [
+        "merger",
+        "acquisition",
+        "acquire",
+        "acquires",
+        "acquired",
+        "takeover",
+        "demerger",
+        "stake sale",
+        "buyout",
+        "buys stake",
+        "divest",
+        "divestment",
+        "divests",
+        "amalgamation",
+        "scheme of arrangement",
+        "sells stake",
+        "picks up stake"
+      ]
+    },
+    "Valuation": {
+      "weight": 3,
+      "keywords": [
+        "valuation",
+        "valued at",
+        "fair value",
+        "enterprise value",
+        "market cap",
+        "market capitalisation",
+        "price target",
+        "target price",
+        "discounted cash flow",
+        "dcf",
+        "ev/ebitda",
+        "book value",
+        "goodwill",
+        "impairment",
+        "write-down",
+        "writedown"
+      ]
+    },
+    "Funding": {
+      "weight": 2,
+      "keywords": [
+        "funding",
+        "fundraise",
+        "fundraising",
+        "raises $",
+        "raises rs",
+        "raises ₹",
+        "raises fresh",
+        "series a",
+        "series b",
+        "series c",
+        "series d",
+        "series e",
+        "seed round",
+        "pre-series",
+        "unicorn",
+        "down round",
+        "flat round",
+        "pre-money",
+        "post-money",
+        "term sheet"
+      ]
+    },
+    "IPO": {
+      "weight": 2,
+      "keywords": [
+        "ipo",
+        "drhp",
+        "rhp",
+        "public issue",
+        "listed at",
+        "listing day",
+        "listing gains",
+        "delisting",
+        "delist",
+        "offer for sale",
+        "grey market premium",
+        "gmp",
+        "anchor investors",
+        "pre-ipo"
+      ]
+    },
+    "Buyback & payout": {
+      "weight": 2,
+      "keywords": [
+        "buyback",
+        "dividend",
+        "bonus issue",
+        "stock split",
+        "rights issue",
+        "preferential allotment",
+        "qip",
+        "preferential issue"
+      ]
+    },
+    "Results": {
+      "weight": 2,
+      "keywords": [
+        "q1 results",
+        "q2 results",
+        "q3 results",
+        "q4 results",
+        "quarterly results",
+        "q1 profit",
+        "q2 profit",
+        "q3 profit",
+        "q4 profit",
+        "net profit",
+        "net loss",
+        "ebitda",
+        "profit after tax",
+        "revenue growth",
+        "revenue falls",
+        "revenue rises",
+        "guidance cut",
+        "raises guidance"
+      ]
+    },
+    "Rates & macro": {
+      "weight": 1,
+      "keywords": [
+        "repo rate",
+        "rate cut",
+        "rate hike",
+        "bond yield",
+        "bond yields",
+        "monetary policy",
+        "mpc",
+        "inflation",
+        "gdp growth",
+        "fiscal deficit"
+      ]
+    },
+    "Distress": {
+      "weight": 2,
+      "keywords": [
+        "insolvency",
+        "nclt",
+        "nclat",
+        "resolution plan",
+        "ibc",
+        "liquidation",
+        "loan default",
+        "defaults on",
+        "debt restructuring",
+        "one-time settlement",
+        "haircut",
+        "npa",
+        "bankruptcy",
+        "bankrupt"
+      ]
+    },
+    "Ratings": {
+      "weight": 2,
+      "keywords": [
+        "credit rating",
+        "crisil",
+        "icra",
+        "care ratings",
+        "rating downgrade",
+        "rating upgrade",
+        "downgrades",
+        "upgrades",
+        "outlook negative",
+        "outlook positive",
+        "moody's",
+        "fitch"
+      ]
+    },
+    "Rules": {
+      "weight": 2,
+      "keywords": [
+        "sebi",
+        "ibbi",
+        "registered valuer",
+        "valuation rules",
+        "valuation report",
+        "ind as",
+        "ifrs",
+        "accounting standard",
+        "esop",
+        "sweat equity",
+        "transfer pricing",
+        "angel tax",
+        "section 56"
+      ]
+    },
+    "PE / VC": {
+      "weight": 2,
+      "keywords": [
+        "private equity",
+        "venture capital",
+        "pe firm",
+        "vc firm",
+        "pe fund",
+        "vc fund",
+        "secondary sale",
+        "sovereign fund",
+        "family office",
+        "blackstone",
+        "kkr",
+        "sequoia",
+        "peak xv",
+        "accel",
+        "tiger global",
+        "softbank",
+        "temasek",
+        "gic"
+      ]
+    }
   }
 }
