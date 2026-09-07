@@ -79,7 +79,61 @@
     chatgpt:    { label: "ChatGPT",    href: function (p) { return "https://chatgpt.com/?q=" + encodeURIComponent(p); } },
     perplexity: { label: "Perplexity", href: function (p) { return "https://www.perplexity.ai/search?q=" + encodeURIComponent(p); } }
   };
-  var ai = { item: null, task: "summary", app: loadValue("aiApp") || "" };
+  var ai = { item: null, task: "summary", app: loadValue("aiApp") || "", key: loadValue("geminiKey") || "", busy: false };
+  var GEMINI_MODEL = "gemini-2.5-flash";
+  function canShare() { return typeof navigator.share === "function"; }
+  function sharePrompt(prompt, title) {
+    // The share sheet delivers the text straight into Gemini / Claude / ChatGPT with the prompt in the chat box.
+    if (!canShare()) { copyText(prompt); toast("Prompt copied"); return; }
+    navigator.share({ title: title || "News story", text: prompt }).catch(function () {});
+  }
+  function askGemini(prompt, task) {
+    if (!ai.key) { $("ai-key-wrap").hidden = false; $("ai-key").focus(); return; }
+    if (ai.busy) return;
+    ai.busy = true;
+    var out = $("ai-answer"); out.hidden = false; out.textContent = "Asking Gemini…"; out.className = "ai-answer busy";
+    var body = { contents: [{ parts: [{ text: prompt }] }] };
+    if (task === "research") body.tools = [{ google_search: {} }];
+    fetch("https://generativelanguage.googleapis.com/v1beta/models/" + GEMINI_MODEL + ":generateContent?key=" + encodeURIComponent(ai.key), {
+      method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body)
+    }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, status: r.status, json: j }; }); })
+      .then(function (res) {
+        ai.busy = false;
+        if (!res.ok) {
+          var msg = (res.json && res.json.error && res.json.error.message) || ("HTTP " + res.status);
+          out.className = "ai-answer error";
+          out.textContent = "Gemini could not answer: " + msg + (res.status === 400 || res.status === 403 ? " — check the API key (tap “change key”)." : "");
+          return;
+        }
+        var cand = (res.json.candidates || [])[0] || {};
+        var text = ((cand.content || {}).parts || []).map(function (p) { return p.text || ""; }).join("\n").trim();
+        var links = [];
+        try { (cand.groundingMetadata.groundingChunks || []).forEach(function (c) { if (c.web && c.web.uri) links.push(c.web); }); } catch (e) {}
+        out.className = "ai-answer";
+        out.innerHTML = renderMarkdown(text || "(no answer)") +
+          (links.length ? '<p class="ai-sources">Sources: ' + links.slice(0, 8).map(function (w) {
+            return '<a href="' + esc(w.uri) + '" target="_blank" rel="noopener">' + esc(w.title || w.uri) + "</a>"; }).join(" · ") + "</p>" : "");
+        ai.lastAnswer = text;
+      }).catch(function (err) {
+        ai.busy = false; out.className = "ai-answer error";
+        out.textContent = "Could not reach Gemini (" + err.message + "). Check your connection and try again.";
+      });
+  }
+  function renderMarkdown(md) {
+    // Small, safe subset: headings, bullets, bold, paragraphs.
+    var lines = esc(md).split("\n"), html = "", inList = false;
+    lines.forEach(function (raw) {
+      var line = raw.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>").replace(/`([^`]+)`/g, "<code>$1</code>");
+      var m = line.match(/^\s*(?:[-*•]|\d+[.)])\s+(.*)$/);
+      if (m) { if (!inList) { html += "<ul>"; inList = true; } html += "<li>" + m[1] + "</li>"; return; }
+      if (inList) { html += "</ul>"; inList = false; }
+      var h = line.match(/^\s*#{1,6}\s+(.*)$/);
+      if (h) { html += "<h4>" + h[1] + "</h4>"; return; }
+      if (line.trim()) html += "<p>" + line + "</p>";
+    });
+    if (inList) html += "</ul>";
+    return html;
+  }
   function aiLink(key, item, task, cls, label) {
     var a = AI_ASSISTANTS[key];
     var prompt = aiPrompt(item, task);
@@ -97,12 +151,14 @@
     lines.push("", "If you can open the link, read the full article first.");
     return lines.join("\n");
   }
-  function openAiSheet(item) {
+  function openAiSheet(item, autorun) {
     ai.item = item;
+    resetAnswer();
     $("ai-title").textContent = item.title;
     renderAiSheet();
     $("ai-sheet").hidden = false;
     document.body.classList.add("sheet-open");
+    if (autorun && ai.key) askGemini(aiPrompt(item, ai.task), ai.task);
   }
   function closeAiSheet() {
     $("ai-sheet").hidden = true;
@@ -118,7 +174,12 @@
     }).join("");
     $("ai-app").value = ai.app;
     $("ai-preview").textContent = aiPrompt(ai.item, ai.task);
+    $("ai-run").textContent = { summary: "Summarise here", valuation: "Valuation angle here", research: "Research here" }[ai.task] + " · Gemini";
+    $("ai-key-wrap").hidden = !!ai.key;
+    $("ai-key-change").hidden = !ai.key;
+    $("ai-share").hidden = !canShare();
   }
+  function resetAnswer() { var out = $("ai-answer"); out.hidden = true; out.textContent = ""; ai.lastAnswer = ""; }
   function loadValue(name) {
     try { return localStorage.getItem(KEY + ":" + name); } catch (e) { return null; }
   }
@@ -285,8 +346,9 @@
       (tags ? '<div class="tags">' + tags + "</div>" : "") +
       '<div class="actions">' +
       '<button data-act="share">Share</button>' +
-      (ai.app ? aiLink(ai.app, item, "summary", "quick-ai", "✦ Summarise in " + AI_ASSISTANTS[ai.app].label) : "") +
-      '<button data-act="ai">✦ ' + (ai.app ? "More AI" : "Ask AI") + "</button>" +
+      (ai.key ? '<button class="quick-ai" data-act="ai-run">✦ Summarise here</button>' :
+        ai.app ? aiLink(ai.app, item, "summary", "quick-ai", "✦ Summarise in " + AI_ASSISTANTS[ai.app].label) : "") +
+      '<button data-act="ai">✦ ' + (ai.key || ai.app ? "More AI" : "Ask AI") + "</button>" +
       '<a class="open" href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">Read ↗</a>' +
       "</div></div></li>";
   }
@@ -370,10 +432,23 @@
       $("ai-sheet").addEventListener("click", function (e) {
         if (e.target.closest("[data-ai-close]") || e.target === $("ai-sheet")) { closeAiSheet(); return; }
         var t = e.target.closest("[data-ai-task]");
-        if (t) { ai.task = t.getAttribute("data-ai-task"); renderAiSheet(); return; }
+        if (t) { ai.task = t.getAttribute("data-ai-task"); resetAnswer(); renderAiSheet(); return; }
+        if (e.target.closest("[data-ai-run]")) { askGemini(aiPrompt(ai.item, ai.task), ai.task); return; }
+        if (e.target.closest("[data-ai-share]")) { sharePrompt(aiPrompt(ai.item, ai.task), ai.item.title); return; }
+        if (e.target.closest("[data-ai-key-save]")) {
+          var k = $("ai-key").value.trim();
+          if (k) { ai.key = k; saveValue("geminiKey", k); renderAiSheet(); toast("Gemini key saved on this device"); askGemini(aiPrompt(ai.item, ai.task), ai.task); }
+          return;
+        }
+        if (e.target.closest("[data-ai-key-change]")) { ai.key = ""; saveValue("geminiKey", ""); renderAiSheet(); $("ai-key").focus(); return; }
+        if (e.target.closest("[data-ai-copy-answer]")) { copyText(ai.lastAnswer || ""); toast("Answer copied"); return; }
         var a = e.target.closest("[data-ai-open]");
         if (a) {
-          if (a.hasAttribute("data-ai-copy-first")) { copyText(aiPrompt(ai.item, ai.task)); toast("Prompt copied — paste it into " + AI_ASSISTANTS[a.getAttribute("data-ai-open")].label); }
+          if (a.hasAttribute("data-ai-copy-first")) {
+            var p = aiPrompt(ai.item, ai.task);
+            if (canShare()) { e.preventDefault(); sharePrompt(p, ai.item.title); return; }  // share sheet puts the prompt into the app
+            copyText(p); toast("Prompt copied — paste it into " + AI_ASSISTANTS[a.getAttribute("data-ai-open")].label);
+          }
           setTimeout(closeAiSheet, 300);
           return;  // let the link open (the app takes over on a phone)
         }
@@ -409,7 +484,11 @@
       var quick = e.target.closest("a.quick-ai[data-ai-copy-first]");
       if (quick) {
         var qli = quick.closest(".story"), qitem = pool().find(function (i) { return i.id === qli.getAttribute("data-id"); });
-        if (qitem) { copyText(aiPrompt(qitem, "summary")); toast("Prompt copied — paste it into " + AI_ASSISTANTS[ai.app].label); }
+        if (qitem) {
+          var qp = aiPrompt(qitem, "summary");
+          if (canShare()) { e.preventDefault(); sharePrompt(qp, qitem.title); return; }
+          copyText(qp); toast("Prompt copied — paste it into " + AI_ASSISTANTS[ai.app].label);
+        }
         return;  // let the link open
       }
       var act = e.target.closest("[data-act]");
@@ -436,6 +515,8 @@
         saveSet("read", state.read); renderList();
       } else if (action === "ai") {
         openAiSheet(item);
+      } else if (action === "ai-run") {
+        ai.task = "summary"; openAiSheet(item, true);
       } else if (action === "bookmark") {
         toggleSaved(item); renderChips(state.items); renderList();
       } else if (action === "share") {

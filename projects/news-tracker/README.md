@@ -18,10 +18,16 @@ splash. A light/dark toggle sits in the dateline.
   feed's retention window), and ignore the time-range filter.
 - **Ask AI**: inside an expanded story, ✦ Ask AI builds a prompt (summarise,
   valuation angle, or research further) with the headline, source, link and
-  summary, and opens it in Claude, ChatGPT or Perplexity with the prompt
-  filled in, or copies it for Gemini. The buttons are ordinary links, so on
-  a phone the installed app opens. Pick "My app" once and every story gets a
-  one-tap "✦ Summarise in …" link to that app.
+  summary. Two ways to use it:
+  - **Answer here**: paste a Gemini API key once (free from
+    aistudio.google.com/app/apikey; stored only in that phone's browser) and
+    the answer appears inside the panel. "Research further" uses Gemini's
+    Google Search grounding and lists the sources. Every story then gets a
+    one-tap "✦ Summarise here" button.
+  - **Open in an app**: "Share prompt" uses the phone's share sheet, which
+    drops the question into Gemini, Claude or ChatGPT. The Claude, ChatGPT
+    and Perplexity buttons open with the question prefilled; Gemini cannot
+    take a question from a link.
 
 Every story is tagged with CA-relevant topics (Insolvency / IBC, GST, Income
 tax, MCA / ROC, SEBI, RBI, Audit, Valuation, Budget) so you can filter to what

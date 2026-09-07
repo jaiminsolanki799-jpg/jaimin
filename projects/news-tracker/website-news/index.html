@@ -81,6 +81,21 @@
           </div>
           <div class="sheet-title" id="ai-title"></div>
           <div class="chips" id="ai-tasks"></div>
+          <section class="ai-here">
+            <div class="ai-here-head">Answer here</div>
+            <div id="ai-key-wrap" hidden>
+              <p class="sheet-note">Paste a Gemini API key to get answers inside this page. It is stored on this device only. Get a free key at <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">aistudio.google.com/app/apikey</a>.</p>
+              <div class="ai-key-row"><input id="ai-key" type="password" placeholder="Gemini API key" autocomplete="off"><button type="button" class="ai-btn small" data-ai-key-save>Save</button></div>
+            </div>
+            <div class="ai-here-row">
+              <button type="button" class="ai-btn primary" id="ai-run" data-ai-run>Summarise here · Gemini</button>
+              <button type="button" class="linkish-btn" id="ai-key-change" data-ai-key-change hidden>change key</button>
+            </div>
+            <div class="ai-answer" id="ai-answer" hidden></div>
+            <div class="ai-answer-tools"><button type="button" class="linkish-btn" data-ai-copy-answer>copy answer</button></div>
+          </section>
+          <div class="ai-here-head">Or open in an app</div>
+          <button type="button" class="ai-btn share" id="ai-share" data-ai-share hidden>Share prompt to Gemini / Claude / ChatGPT…</button>
           <div class="ai-grid" id="ai-grid"></div>
           <label class="ai-app-row">My app
             <select id="ai-app">
@@ -92,7 +107,7 @@
             </select>
           </label>
           <details class="ai-preview-wrap"><summary>See the prompt · <span data-ai-copy class="linkish">copy</span></summary><pre class="ai-preview" id="ai-preview"></pre></details>
-          <p class="sheet-note">On a phone these open the installed app if you have it. Claude, ChatGPT and Perplexity arrive with the prompt filled in; Gemini opens with the prompt copied, so paste it into the chat box. Choose “My app” to get a one-tap button on every story.</p>
+          <p class="sheet-note">“Share prompt” uses your phone’s share sheet: pick Gemini, Claude or ChatGPT and the question lands in the chat box, then tap send. The Claude, ChatGPT and Perplexity buttons open with the question filled in; Gemini cannot take a question from a link, so it uses the share sheet.</p>
         </div>
       </div>
 
