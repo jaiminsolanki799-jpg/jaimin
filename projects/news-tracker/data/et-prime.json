@@ -1,10 +1,168 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime",
- "generated_at": null,
+ "generated_at": "2026-09-07T06:22:45+00:00",
  "retention_days": 21,
- "sources": [],
- "topics": [],
- "new_since_last_run": 0,
- "items": []
+ "sources": [
+  {
+   "name": "ET Prime (Google News index)",
+   "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime&hl=en-IN&gl=IN&ceid=IN:en",
+   "category": "ET Prime",
+   "ok": true,
+   "items": 29,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Top Stories",
+   "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+   "category": "ET Prime",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Markets",
+   "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+   "category": "Markets",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Economy",
+   "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380680.cms",
+   "category": "Economy",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Industry",
+   "url": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms",
+   "category": "Industry",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Wealth",
+   "url": "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms",
+   "category": "Wealth",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Tax",
+   "url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47823565.cms",
+   "category": "Tax",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Small Biz",
+   "url": "https://economictimes.indiatimes.com/small-biz/rssfeeds/5575607.cms",
+   "category": "Small business",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "name": "ET Corporate Trends",
+   "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rssfeeds/107115.cms",
+   "category": "Corporate",
+   "ok": true,
+   "items": 0,
+   "error": null,
+   "checked_at": "2026-09-07T06:22:45+00:00"
+  }
+ ],
+ "topics": [
+  "Insolvency / IBC",
+  "GST",
+  "Income tax",
+  "MCA / ROC",
+  "SEBI / markets regulation",
+  "RBI / banking",
+  "Audit / accounting",
+  "Valuation / M&A",
+  "Budget / policy"
+ ],
+ "new_since_last_run": 29,
+ "items": [
+  {
+   "id": "b078f27fc79b8e12",
+   "title": "Can going slow on IPOs revive India’s stock market fortunes? - economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNGVleXpBVGZQR2ZPTWFERVhDWXJ3QzBWTG03TXMtRFVzNU1Gejdob2dCWmZsd0FrN3l4VEFUWHh1Wjh3ZnNnM3F1dy1oU0R1R3BrUnZiWlJ6eEtPR1BlMzZ6QWpvQVI5MnRNaG1MaVppNm1uSURLR3dvQnl2WlUzOXRqY2pVWjNJU2NESFc5YmFwVUhfaThFUnJKc1Jkc0Q2bDJQbjNxU25ESWNuUW8tQnJ6NTlvTmNDcks2bXNzeFVFWHgxTVExdjdrRHNIT1NoMndYZmhZUk9KYVpjX1EyTlFQV3REbmlPUnYtMzg2Ql82aGFyS2piRTBkZFU3bHhyeUdwSGxIQWFhVGxzNVRvTksxbGt4Um55S2RlMTJRT0dZT055VWFBV0dBU01EUFJIbnp2Wmc1OGczYXRhVm1mSXV30gHeAUFVX3lxTFBFNjM5WkQ0TElDOGY4S3lpNk9qMGNVOFo1SVRNVmpMalhfOW13OWZoT3lPb1c1cTVleXkweWQ1Nkh5a01wQ0JnOTlXelpha0h1MG5xb2JqNW1vYlBMeHVXQ1FUWWZKMTdwTHhiekluODFHeEpYdzRfb3d3eHRZUXBQQ3ptYmJYUGxpZUFvQVpsdnJLZFJETmRCcDFqbC1mRXJGMkxvMlFIcC00emNndTFFTnhDVWxtN2FkUnRGWm02emdOcGhrdWdSd1VmUG1hTVhFSmo0MVB1ZG43LXRNdw?oc=5",
+   "summary": "Can going slow on IPOs revive India’s stock market fortunes? economictimes.indiatimes.com",
+   "published": "2026-09-06T22:30:00+00:00",
+   "source": "ET Prime (Google News index)",
+   "category": "ET Prime",
+   "author": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "id": "fb266bb472e0f5b3",
+   "title": "An old India Inc habit: Ignore the nudge, wait for the stick - economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeTVIN0ViZldISDlMaG40Y3VBWXJTNFdjN2c3SGEwNWt5NkFqMVRZcks2V0x6Z2ZPc09qU0I1Tm5TbFcxQVNKNzZucWxzdjRyMWlHU2RzMzk2WXNwU3VSZTFfRlJYVWFabUZiWjVYVWlIUENlODJoRFpBZXZldXRFa1J5c1JKVlRWZzJRcERqRzdiZ1NCRmtMNVY5YUx5ek9WWG5IZU1lUUV2a0dSLTh3QVdmUHRNX0kwU2dGUEVOMUJzV3pLR3JNR0hRR21TYm9FckJMT1JQUndnUENYWUV2U3Q1N3NjcENzOEhPZXcySTc2QzA2YTBTQ3NuWjYyT2ZJaDc0cVM1clZrMXB2LW9ydVF1dEtZYkE3TkN1Q0tObHZId0ZFVmo4eDVkRUTSAcYBQVVfeXFMUFVqU0hlLUVxdHdIMHZKVkxzUVN4TFVBazF5QnB3Y241LU9JSEQ0ZFNHZGE0M0thcENzNTBBVmpRQ3ZKOXBFdXlJcVZLVHp1LThDZWEtN2YzUXMwcGE1OXUtaks3YWZoSkwtTkxOZ3RjTGk3RUZDbXV4WG5RNlBoWUdtUThseW1lcWtJTXBERGFGUWEwd3VuYUhSVi15X2dldkZ3cUlxcGtCUHFkZHdXbkVwVG1oRTlscVlTaVFBdlRxblU5azdB?oc=5",
+   "summary": "An old India Inc habit: Ignore the nudge, wait for the stick economictimes.indiatimes.com",
+   "published": "2026-09-05T08:32:00+00:00",
+   "source": "ET Prime (Google News index)",
+   "category": "ET Prime",
+   "author": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "id": "62f66ae55fad8838",
+   "title": "The Economic Times - economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWxZbzN1SFJJN1JPQU1xSk9lR250aHdqSmYzUl9zMEpQcU02d1RsUVdLcmgybUxxMXJhUThzRXhxbHBfSHFwSEpDTV83dDN1djVaOTlFbHJvZFU2cXZUMTg3b3ZLalJrcHBKRDMxZTRXemhPYXc2ZmY1aHVFUUdaY0MtLVU0bTVFM05fSHlRMnNraFNwZUxwdnFn?oc=5",
+   "summary": "The Economic Times economictimes.indiatimes.com",
+   "published": "2026-09-04T10:25:00+00:00",
+   "source": "ET Prime (Google News index)",
+   "category": "ET Prime",
+   "author": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus News - Prime Focus Announcement, Latest News on Prime Focus - economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "Prime Focus News - Prime Focus Announcement, Latest News on Prime Focus economictimes.indiatimes.com",
+   "published": "2026-09-04T09:55:00+00:00",
+   "source": "ET Prime (Google News index)",
+   "category": "ET Prime",
+   "author": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:22:45+00:00"
+  },
+  {
+   "id": "81bc1dbd62b7a7f3",
+   "title": "Prime Focus Share Price Today, Prime Focus Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVGVfcHRzTHRLaTJUS0FoeXNjMzN6QVJuaHcwSEZ6NFhKQVVuVU9aN0l2My16ZXVHWTg2TUh1dzQ1Z3ZKeXBEUFBON2l2VE9ZUTBsV28wWk5LQzRGbnBCS2dnS0tvLVF3MlVRTzlsdmlMUmJaTlpDQVVSUFpzdWtLQzZ0ZWluZw?oc=5",
+   "summary": "Prime Focus Share Price Today, Prime Focus Stock Price Live NSE/BSE Updates economictimes.indiatimes.com",
+   "published": "2026-09-03T21:55:00+00:00",
+   "source": "ET Prime (Google News index)",
+   "category": "ET Prime",
+   "author": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:22:45+00:00"
+  }
+ ]
 }
