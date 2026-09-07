@@ -4,7 +4,7 @@ Two phone-friendly news dashboards, with the data stored in this repository:
 
 | Dashboard | What it tracks | Page |
 | --- | --- | --- |
-| **ET Prime** | Economic Times Prime stories (markets, economy, industry, wealth, tax) | `et-prime/` |
+| **ET Prime** | Economic Times Prime stories, read from the ET Prime home page and its eleven section pages (money & markets, corporate governance, economy & policy, technology & startups, consumer, fintech & BFSI, pharma & healthcare, energy, infrastructure, transportation, media & communications) | `et-prime/` |
 | **Website news** | Moneycontrol, Mint, Business Standard, BusinessLine, Financial Express, Taxguru, RBI, SEBI, PIB, plus Google News searches for IBC, GST, income tax and MCA | `website-news/` |
 
 Every story is tagged with CA-relevant topics (Insolvency / IBC, GST, Income
@@ -24,7 +24,12 @@ sources.json  ──►  scripts/fetch_news.py  ──►  data/et-prime.json
 ```
 
 - `sources.json` — the feeds to watch and the topic keywords. Edit this to add
-  or remove sources; no code changes needed.
+  or remove sources; no code changes needed. A source is either an RSS/Atom
+  feed (`"type": "rss"`) or an ordinary web page (`"type": "html"`) from which
+  every link matching `link_pattern` is taken as a story. ET Prime has no
+  public feed and is paywalled, so its dashboard reads the section pages
+  directly; those stories are dated when the tracker first saw them, and the
+  headline links open on economictimes.com where your ET Prime login applies.
 - `scripts/fetch_news.py` — Python, standard library only. Fetches every feed,
   cleans the text, tags topics, removes duplicates and merges into the existing
   data so the JSON becomes a rolling 21-day archive.
@@ -101,10 +106,17 @@ Add an entry to the matching dashboard in `sources.json`:
  "url": "https://example.com/feed.xml"}
 ```
 
-`"prime_only": true` keeps only links containing `/prime/` — used to pull ET
-Prime stories out of Economic Times' general feeds. For a site without an RSS
-feed, a Google News search feed works well:
+For a site without an RSS feed, a Google News search feed works well (this is
+also the workaround for sites that block automated readers with HTTP 403, as
+Business Standard, Financial Express, PIB and Moneycontrol's stale feed do):
 
 ```
-https://news.google.com/rss/search?q=site:example.com&hl=en-IN&gl=IN&ceid=IN:en
+https://news.google.com/rss/search?q=site:example.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en
+```
+
+Or read a listing page directly:
+
+```json
+{"name": "Display name", "category": "Group", "type": "html",
+ "url": "https://example.com/section", "link_pattern": "/articles/"}
 ```

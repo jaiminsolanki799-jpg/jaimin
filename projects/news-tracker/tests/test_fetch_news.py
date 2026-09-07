@@ -227,9 +227,19 @@ def test_parse_date_handles_sebi_style():
 
 
 def test_category_from_path():
-    assert fn.category_from_path("https://economictimes.indiatimes.com/prime/money-and-markets/x/primearticleshow/1.cms") == "Money and markets"
-    assert fn.category_from_path("https://economictimes.indiatimes.com/prime/fintech-and-bfsi/x/primearticleshow/1.cms") == "Fintech and BFSI"
-    assert fn.category_from_path("https://economictimes.indiatimes.com/markets/x/articleshow/1.cms") is None
+    et = "https://economictimes.indiatimes.com"
+    assert fn.category_from_path(et + "/prime/money-and-markets/x/primearticleshow/1.cms") == "Money & markets"
+    assert fn.category_from_path(et + "/prime/fintech-and-bfsi/x/primearticleshow/1.cms") == "Fintech & BFSI"
+    # home-page link with no section: the slug must not become a category
+    assert fn.category_from_path(et + "/prime/an-old-india-inc-habit/primearticleshow/1.cms") is None
+    assert fn.category_from_path(et + "/markets/x/articleshow/1.cms") is None
+
+
+def test_index_pages_are_skipped():
+    assert fn.looks_like_index_page("Moneycontrol Pro Top Stories, Latest News, Opinion", "Moneycontrol")
+    assert fn.looks_like_index_page("Prime Focus Share Price Today, Live NSE/BSE Updates", None)
+    assert fn.looks_like_index_page("Moneycontrol", "Moneycontrol")
+    assert not fn.looks_like_index_page("GST Council eases rules for small traders", "Mint")
 
 
 def test_drop_stale_by_id():

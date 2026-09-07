@@ -139,19 +139,35 @@ def split_publisher(title: str) -> tuple[str, str | None]:
 
 
 def category_from_path(link: str, prefix: str = "/prime/") -> str | None:
-    """'/prime/money-and-markets/...' -> 'Money and markets'."""
+    """'/prime/money-and-markets/<slug>/primearticleshow/1.cms' -> 'Money & markets'.
+
+    Only a path of the form <prefix><section>/<slug>/<...articleshow...> counts;
+    a home-page link like '/prime/<slug>/primearticleshow/1.cms' has no section.
+    """
     path = urllib.parse.urlsplit(link).path
     if prefix not in path:
         return None
-    rest = path.split(prefix, 1)[1]
-    slug = rest.split("/", 1)[0]
-    if not slug or slug.endswith(".cms"):
+    parts = [p for p in path.split(prefix, 1)[1].split("/") if p]
+    if len(parts) < 3 or "articleshow" not in parts[2] or parts[0].endswith(".cms"):
         return None
-    words = slug.replace("-", " ").split()
-    acronyms = {"bfsi": "BFSI", "ai": "AI", "it": "IT", "ipo": "IPO"}
-    pretty = [acronyms.get(w, w) for w in words]
-    pretty[0] = pretty[0] if pretty[0] in acronyms.values() else pretty[0].capitalize()
-    return " ".join(pretty)
+    acronyms = {"bfsi": "BFSI", "ai": "AI", "it": "IT", "ipo": "IPO", "and": "&"}
+    words = [acronyms.get(w, w) for w in parts[0].split("-")]
+    if words[0] not in acronyms.values():
+        words[0] = words[0].capitalize()
+    return " ".join(words)
+
+
+_INDEX_PAGE_RE = re.compile(
+    r"\b(latest news|top stories|breaking news|share price today|live nse|stock price live|news & updates)\b",
+    re.IGNORECASE,
+)
+
+
+def looks_like_index_page(title: str, publisher: str | None) -> bool:
+    """Google News sometimes returns a section page rather than a story."""
+    if _INDEX_PAGE_RE.search(title):
+        return True
+    return title.lower() in {"the economic times", "economic times", (publisher or "").lower()}
 
 
 def drop_stale_by_id(items: list[dict], pattern: str, window: int) -> list[dict]:
@@ -321,8 +337,8 @@ def normalise_items(raw_items: list[dict], source: dict, topics: dict, fetched_a
             # just a list of related headlines, which reads as noise on the card.
             title, publisher = split_publisher(title)
             summary = ""
-            if title.lower() in {"the economic times", "economic times", publisher and publisher.lower()}:
-                continue  # a section page, not a story
+            if looks_like_index_page(title, publisher):
+                continue
         published = parse_date(raw.get("published"))
         date_known = published is not None
         if published is None or published > fetched_at + timedelta(minutes=10):
