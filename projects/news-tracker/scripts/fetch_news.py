@@ -62,6 +62,8 @@ TRACKING_PARAMS = {
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _WS_RE = re.compile(r"\s+")
+# WordPress feeds append "The post <title> appeared first on <site>." to every summary.
+_WP_FOOTER_RE = re.compile(r"\s*The post .{0,300}? appeared first on .{0,80}?\.?\s*$", re.DOTALL)
 
 
 def clean_text(value: str | None, max_chars: int | None = None) -> str:
@@ -70,6 +72,7 @@ def clean_text(value: str | None, max_chars: int | None = None) -> str:
         return ""
     text = html.unescape(_TAG_RE.sub(" ", value))
     text = _WS_RE.sub(" ", text).strip()
+    text = _WP_FOOTER_RE.sub("", text)
     if max_chars and len(text) > max_chars:
         text = text[: max_chars - 1].rstrip() + "…"
     return text

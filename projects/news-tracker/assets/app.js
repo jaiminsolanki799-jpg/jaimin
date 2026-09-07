@@ -104,7 +104,7 @@
     $("t-new").textContent = fresh.toLocaleString("en-IN");
     $("t-new-hint").textContent = state.lastVisit ? "since " + ago(state.lastVisit) : "first visit";
     $("t-unread").textContent = unread.toLocaleString("en-IN");
-    $("t-unread-hint").textContent = srcOk + " of " + srcAll + " sources OK";
+    $("t-unread-hint").textContent = srcOk + "/" + srcAll + " sources OK";
   }
 
   function renderBars(all) {
@@ -135,16 +135,16 @@
       if (i.category) catCounts[i.category] = (catCounts[i.category] || 0) + 1;
       (i.topics || []).forEach(function (t) { topicCounts[t] = (topicCounts[t] || 0) + 1; });
     });
-    function chips(counts, selected, kind) {
+    function chips(counts, selected, kind, allLabel) {
       var names = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; });
-      var h = '<button class="chip" data-kind="' + kind + '" data-val="" aria-pressed="' + (!selected) + '">All</button>';
+      var h = '<button class="chip" data-kind="' + kind + '" data-val="" aria-pressed="' + (!selected) + '">' + (allLabel || "All") + "</button>";
       names.forEach(function (n) {
         h += '<button class="chip" data-kind="' + kind + '" data-val="' + esc(n) + '" aria-pressed="' + (selected === n) + '">' +
           esc(n) + '<span class="n">' + counts[n] + "</span></button>";
       });
       return h;
     }
-    $("chips-category").innerHTML = chips(catCounts, state.category, "category");
+    $("chips-category").innerHTML = chips(catCounts, state.category, "category", "All sections");
     $("chips-category").hidden = Object.keys(catCounts).length < 2;
     $("chips-source").innerHTML = chips(srcCounts, state.source, "source");
     $("chips-topic").innerHTML = chips(topicCounts, state.topic, "topic");
@@ -154,12 +154,14 @@
     var read = state.read.has(item.id);
     var marked = state.bookmarks.has(item.id);
     var tags = (item.topics || []).map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("");
+    var section = item.category || null;
+    var byline = section && item.source.indexOf(section) !== -1 ? null : (item.publisher || item.source);
     return '<li class="story' + (read ? " read" : "") + (isNew(item) ? " new" : "") + '" data-id="' + esc(item.id) + '">' +
-      '<div class="meta"><span class="src">' + esc(item.source) + "</span><span>·</span>" +
+      '<div class="kicker">' +
+      (section ? '<span class="sec">' + esc(section) + "</span><span>·</span>" : "") +
+      (byline ? "<span>" + esc(byline) + "</span><span>·</span>" : "") +
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
-      (item.publisher ? "<span>·</span><span>" + esc(item.publisher) + "</span>" : "") +
-      (item.category && item.source.indexOf(item.category) === -1 ? "<span>·</span><span>" + esc(item.category) + "</span>" : "") +
-      (isNew(item) ? '<span>·</span><span style="color:var(--accent);font-weight:600">new</span>' : "") +
+      (isNew(item) ? '<span class="new">New</span>' : "") +
       "</div>" +
       '<h2><a href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">' + esc(item.title) + "</a></h2>" +
       (item.summary ? "<p>" + esc(item.summary) + "</p>" : "") +
@@ -168,7 +170,7 @@
       '<button data-act="read" aria-pressed="' + read + '">' + (read ? "✓ Read" : "Mark read") + "</button>" +
       '<button data-act="bookmark" aria-pressed="' + marked + '">' + (marked ? "★ Saved" : "☆ Save") + "</button>" +
       '<button data-act="share">Share</button>' +
-      '<a class="open" href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">Open ↗</a>' +
+      '<a class="open" href="' + esc(item.link) + '" target="_blank" rel="noopener" data-act="open">Read ↗</a>' +
       "</div></li>";
   }
 
@@ -206,7 +208,7 @@
     renderList();
     renderStatus();
     $("updated").textContent = state.data.generated_at
-      ? "Updated " + ago(state.data.generated_at) + " · " + fullDate(state.data.generated_at)
+      ? "Updated " + ago(state.data.generated_at)
       : "No data yet";
   }
 
@@ -293,6 +295,9 @@
   }
 
   bind();
+  if ($("today")) {
+    $("today").textContent = new Date().toLocaleDateString("en-IN", { weekday: "short", day: "numeric", month: "short", year: "numeric" });
+  }
   load(false);
   // Record this visit once the page has rendered, so "new since last visit" works next time.
   window.addEventListener("pagehide", function () { saveValue("lastVisit", new Date().toISOString()); });
