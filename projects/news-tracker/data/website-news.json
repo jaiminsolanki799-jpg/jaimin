@@ -1,8 +1,8 @@
 {
  "dashboard": "website-news",
  "title": "Website news",
- "generated_at": "2026-09-07T06:25:25+00:00",
- "retention_days": 21,
+ "generated_at": "2026-09-07T06:27:10+00:00",
+ "retention_days": 14,
  "sources": [
   {
    "name": "Moneycontrol",
@@ -11,8 +11,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
+   "sample_date": "Tue, 23 Apr 2024 22:36:32 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Moneycontrol Economy",
@@ -21,8 +22,9 @@
    "ok": true,
    "fetched": 4,
    "items": 4,
+   "sample_date": "Tue, 23 Apr 2024 16:33:27 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Livemint Companies",
@@ -31,8 +33,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
+   "sample_date": "Mon, 07 Sep 2026 10:09:22 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Livemint Markets",
@@ -41,8 +44,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
+   "sample_date": "Mon, 07 Sep 2026 11:45:47 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Livemint Money",
@@ -51,8 +55,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
+   "sample_date": "Mon, 07 Sep 2026 11:42:30 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Business Standard (via Google News)",
@@ -61,8 +66,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Sun, 06 Sep 2026 17:52:59 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Financial Express (via Google News)",
@@ -71,8 +77,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Sun, 06 Sep 2026 19:40:55 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "BusinessLine",
@@ -81,8 +88,9 @@
    "ok": true,
    "fetched": 60,
    "items": 60,
+   "sample_date": "Mon, 07 Sep 2026 11:47:59 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Taxguru",
@@ -91,18 +99,20 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Mon, 07 Sep 2026 05:57:28 +0000",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "RBI press releases",
    "url": "https://www.rbi.org.in/pressreleases_rss.xml",
    "category": "Regulator",
-   "ok": true,
-   "fetched": 10,
-   "items": 10,
-   "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 418",
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "SEBI",
@@ -111,8 +121,9 @@
    "ok": true,
    "fetched": 30,
    "items": 30,
+   "sample_date": "04 Sep, 2026 +0530",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "PIB Finance Ministry (via Google News)",
@@ -121,8 +132,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Wed, 02 Sep 2026 07:35:00 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Google News: Insolvency / IBC",
@@ -131,8 +143,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Mon, 07 Sep 2026 05:39:09 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Google News: GST",
@@ -141,8 +154,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Mon, 07 Sep 2026 00:23:49 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Google News: Income tax",
@@ -151,8 +165,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Sun, 06 Sep 2026 17:34:54 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   },
   {
    "name": "Google News: MCA / ROC",
@@ -161,8 +176,9 @@
    "ok": true,
    "fetched": 100,
    "items": 100,
+   "sample_date": "Sun, 06 Sep 2026 18:52:22 GMT",
    "error": null,
-   "checked_at": "2026-09-07T06:25:25+00:00"
+   "checked_at": "2026-09-07T06:27:10+00:00"
   }
  ],
  "topics": [
@@ -176,14 +192,14 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 602,
+ "new_since_last_run": 325,
  "items": [
   {
    "id": "1fa142acfa90555a",
    "title": "Adjudication order in respect of Laxmi Chhugani in the matter of trading in Illiquid Stock Options at BSE",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-respect-of-laxmi-chhugani-in-the-matter-of-trading-in-illiquid-stock-options-at-bse_104282.html",
    "summary": "Adjudication order in respect of Laxmi Chhugani in the matter of trading in Illiquid Stock Options at BSE",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -197,7 +213,7 @@
    "title": "SEBI signs MoU with European Securities and Markets Authority on cooperation and exchange of information relating to Central Counterparties",
    "link": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/sebi-signs-mou-with-european-securities-and-markets-authority-on-cooperation-and-exchange-of-information-relating-to-central-counterparties_104279.html",
    "summary": "SEBI signs MoU with European Securities and Markets Authority on cooperation and exchange of information relating to Central Counterparties",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -213,7 +229,7 @@
    "title": "Adjudication Order in respect of Puja Rungta in the matter of Illiquid Stock Options at BSE",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-respect-of-puja-rungta-in-the-matter-of-illiquid-stock-options-at-bse_104277.html",
    "summary": "Adjudication Order in respect of Puja Rungta in the matter of Illiquid Stock Options at BSE",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -227,7 +243,7 @@
    "title": "SEBI to review Settlement Price methodology for Derivative Contracts in the light of CAS rollout",
    "link": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/sebi-to-review-settlement-price-methodology-for-derivative-contracts-in-the-light-of-cas-rollout_104260.html",
    "summary": "SEBI to review Settlement Price methodology for Derivative Contracts in the light of CAS rollout",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -243,7 +259,7 @@
    "title": "Appeal No. 7028 of 2026 filed by Samar Imran",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7028-of-2026-filed-by-samar-imran_104259.html",
    "summary": "Appeal No. 7028 of 2026 filed by Samar Imran",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -257,7 +273,7 @@
    "title": "Appeal No. 7027 of 2026 filed by Samar Imran",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7027-of-2026-filed-by-samar-imran_104258.html",
    "summary": "Appeal No. 7027 of 2026 filed by Samar Imran",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -271,7 +287,7 @@
    "title": "Appeal No. 7026 of 2026 filed by Samar Imran",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7026-of-2026-filed-by-samar-imran_104257.html",
    "summary": "Appeal No. 7026 of 2026 filed by Samar Imran",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -285,7 +301,7 @@
    "title": "Appeal No. 7023 of 2026 filed by Vivek Tripathi",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7023-of-2026-filed-by-vivek-tripathi_104255.html",
    "summary": "Appeal No. 7023 of 2026 filed by Vivek Tripathi",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -299,7 +315,7 @@
    "title": "Adjudication order in respect of Aastha Ruia Beneficial Trust in the matter of trading in Illiquid Stock Options at BSE",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-respect-of-aastha-ruia-beneficial-trust-in-the-matter-of-trading-in-illiquid-stock-options-at-bse_104250.html",
    "summary": "Adjudication order in respect of Aastha Ruia Beneficial Trust in the matter of trading in Illiquid Stock Options at BSE",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -313,7 +329,7 @@
    "title": "Notice of Demand under Recovery Certificate number 9295 of 2026 dated September 03, 2026, issued to Paresh Mulji Kariya (PAN – AAEPK0469M) in the matter of Anugrah Stock and Broking Private Limited",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-demand-under-recovery-certificate-number-9295-of-2026-dated-september-03-2026-issued-to-paresh-mulji-kariya-pan-aaepk0469m-in-the-matter-of-anugrah-stock-and-broking-private-limited_104247.html",
    "summary": "Notice of Demand under Recovery Certificate number 9295 of 2026 dated September 03, 2026, issued to Paresh Mulji Kariya (PAN – AAEPK0469M) in the matter of Anugrah Stock and Broking Private Limited",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -327,7 +343,7 @@
    "title": "Notice of Demand under Recovery Certificate number 9294 of 2026 dated September 03, 2026, issued to Sadhana Paresh Kariya (PAN – AJHPK6018N) in the matter of Anugrah Stock and Broking Private Limited",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-demand-under-recovery-certificate-number-9294-of-2026-dated-september-03-2026-issued-to-sadhana-paresh-kariya-pan-ajhpk6018n-in-the-matter-of-anugrah-stock-and-broking-private-limited_104245.html",
    "summary": "Notice of Demand under Recovery Certificate number 9294 of 2026 dated September 03, 2026, issued to Sadhana Paresh Kariya (PAN – AJHPK6018N) in the matter of Anugrah Stock and Broking Private Limited",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -341,7 +357,7 @@
    "title": "Notice of Demand under Recovery Certificate number 9293 of 2026 dated September 03, 2026, issued to Om Sri Sai Investments (PAN – AADFO8242K) in the matter of Anugrah Stock and Broking Private Limited",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-demand-under-recovery-certificate-number-9293-of-2026-dated-september-03-2026-issued-to-om-sri-sai-investments-pan-aadfo8242k-in-the-matter-of-anugrah-stock-and-broking-private-limited_104243.html",
    "summary": "Notice of Demand under Recovery Certificate number 9293 of 2026 dated September 03, 2026, issued to Om Sri Sai Investments (PAN – AADFO8242K) in the matter of Anugrah Stock and Broking Private Limited",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -355,7 +371,7 @@
    "title": "Notice of Demand under Recovery Certificate number 9292 of 2026 dated September 03, 2026, issued to Anugrah Stock and Broking Private Limited (PAN – AAACW2920N) in the matter of Anugrah Stock and Broking Private Limited",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-demand-under-recovery-certificate-number-9292-of-2026-dated-september-03-2026-issued-to-anugrah-stock-and-broking-private-limited-pan-aaacw2920n-in-the-matter-of-anugrah-stock-and-brok-_104241.html",
    "summary": "Notice of Demand under Recovery Certificate number 9292 of 2026 dated September 03, 2026, issued to Anugrah Stock and Broking Private Limited (PAN – AAACW2920N) in the matter of Anugrah Stock and Broking Private Limited",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -369,7 +385,7 @@
    "title": "Release Order dated September 03, 2026 issued under RC No. 9177 of 2026 drawn against Vidhi Nikunj Shah in the matter of dealing in Trading activities of certain entities in the scrip of DU Digital Technologies Limited (now DU Digital Global Limited)",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-dated-september-03-2026-issued-under-rc-no-9177-of-2026-drawn-against-vidhi-nikunj-shah-in-the-matter-of-dealing-in-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-te-_104240.html",
    "summary": "Release Order dated September 03, 2026 issued under RC No. 9177 of 2026 drawn against Vidhi Nikunj Shah in the matter of dealing in Trading activities of certain entities in the scrip of DU Digital Technologies Limited (now DU Digital Global Limited)",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -383,7 +399,7 @@
    "title": "Release Order dated September 03, 2026 issued under RC No. 9176 of 2026 drawn against Nikunj Sureshchandra Shah in the matter of dealing in Trading activities of certain entities in the scrip of DU Digital Technologies Limited (now DU Digital Global Limited)",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-dated-september-03-2026-issued-under-rc-no-9176-of-2026-drawn-against-nikunj-sureshchandra-shah-in-the-matter-of-dealing-in-trading-activities-of-certain-entities-in-the-scrip-of-du-di-_104238.html",
    "summary": "Release Order dated September 03, 2026 issued under RC No. 9176 of 2026 drawn against Nikunj Sureshchandra Shah in the matter of dealing in Trading activities of certain entities in the scrip of DU Digital Technologies Limited (now DU Digital Global Limited)",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -397,7 +413,7 @@
    "title": "SEBI Order for Compliance Notice of Attachment of Demat Account and Mutual Fund Folio(s) for Recovery Certificate No.8511 of 2025 against Add Life Pharma Ltd in the matter of Add Life Pharma Ltd",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-8511-of-2025-against-add-life-pharma-ltd-in-the-matter-of-add-life-pharma-ltd_104234.html",
    "summary": "SEBI Order for Compliance Notice of Attachment of Demat Account and Mutual Fund Folio(s) for Recovery Certificate No.8511 of 2025 against Add Life Pharma Ltd in the matter of Add Life Pharma Ltd",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -413,7 +429,7 @@
    "title": "SEBI Order for Compliance Notice of Attachment Bank/Post Office account for Recovery Certificate No.8511 of 2025 against Add Life Pharma Ltd in the matter of Add Life Pharma Ltd",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-notice-of-attachment-bank-post-office-account-for-recovery-certificate-no-8511-of-2025-against-add-life-pharma-ltd-in-the-matter-of-add-life-pharma-ltd_104232.html",
    "summary": "SEBI Order for Compliance Notice of Attachment Bank/Post Office account for Recovery Certificate No.8511 of 2025 against Add Life Pharma Ltd in the matter of Add Life Pharma Ltd",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -429,7 +445,7 @@
    "title": "Completion of Recovery Certificate No. RC9282 of 2026 in respect of Atit Commercial Company Private Limited (Transferee company of Ashirwad Tie Up Pvt. Ltd.) (PAN: AACCA5249E) in the matter of Illiquid Stock Options",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-rc9282-of-2026-in-respect-of-atit-commercial-company-private-limited-transferee-company-of-ashirwad-tie-up-pvt-ltd-pan-aacca5249e-in-the-matter-of-illiqui-_104221.html",
    "summary": "Completion of Recovery Certificate No. RC9282 of 2026 in respect of Atit Commercial Company Private Limited (Transferee company of Ashirwad Tie Up Pvt. Ltd.) (PAN: AACCA5249E) in the matter of Illiquid Stock Options",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -443,7 +459,7 @@
    "title": "Appeal No. 7022 of 2026 filed by Sandeep Kumar",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7022-of-2026-filed-by-sandeep-kumar_104220.html",
    "summary": "Appeal No. 7022 of 2026 filed by Sandeep Kumar",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -457,7 +473,7 @@
    "title": "Appeal No. 7021 of 2026 filed by Dhieraj Pal",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7021-of-2026-filed-by-dhieraj-pal_104219.html",
    "summary": "Appeal No. 7021 of 2026 filed by Dhieraj Pal",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -471,7 +487,7 @@
    "title": "Appeal No. 7020 of 2026 filed by Shamshad Ahmed",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7020-of-2026-filed-by-shamshad-ahmed_104218.html",
    "summary": "Appeal No. 7020 of 2026 filed by Shamshad Ahmed",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -485,7 +501,7 @@
    "title": "Appeal No. 7019 of 2026 filed by Nitin Goel",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7019-of-2026-filed-by-nitin-goel_104217.html",
    "summary": "Appeal No. 7019 of 2026 filed by Nitin Goel",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -499,7 +515,7 @@
    "title": "Appeal No. 7018 of 2026 filed by R K Singhal",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7018-of-2026-filed-by-r-k-singhal_104216.html",
    "summary": "Appeal No. 7018 of 2026 filed by R K Singhal",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -513,7 +529,7 @@
    "title": "Appeal No. 7017 of 2026 filed by Jeetendra Kumar",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7017-of-2026-filed-by-jeetendra-kumar_104215.html",
    "summary": "Appeal No. 7017 of 2026 filed by Jeetendra Kumar",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -527,7 +543,7 @@
    "title": "Appeal No. 7016 of 2026 filed by Neha Jain",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7016-of-2026-filed-by-neha-jain_104214.html",
    "summary": "Appeal No. 7016 of 2026 filed by Neha Jain",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -541,7 +557,7 @@
    "title": "Adjudication Order in the matter of Jainam Broking Limited",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-jainam-broking-limited_104209.html",
    "summary": "Adjudication Order in the matter of Jainam Broking Limited",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -555,7 +571,7 @@
    "title": "Notice of Demand under Recovery Certificate No. 9290 of 2026 dated 01.09.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R) and 20 others jointly and severally in the matter of trading activity in the scrip of ANI Integrated Services Limited",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-demand-under-recovery-certificate-no-9290-of-2026-dated-01-09-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-and-20-others-jointly-and-severally-in-the-matter-of-trading-ac-_104281.html",
    "summary": "Notice of Demand under Recovery Certificate No. 9290 of 2026 dated 01.09.2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R) and 20 others jointly and severally in the matter of trading activity in the scrip of ANI Integrated Services Limited",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -569,7 +585,7 @@
    "title": "Settlement Order in the matter of DMI Income Fund Pte Ltd.",
    "link": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-dmi-income-fund-pte-ltd-_104207.html",
    "summary": "Settlement Order in the matter of DMI Income Fund Pte Ltd.",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -583,7 +599,7 @@
    "title": "Release Order – Paras Shah [Defaulter] PAN: DOKPS0203A in the matter of trading-based stock recommendations using social media YouTube in the scrip of Sadhna Broadcast Ltd. under Certificate No. 9253 of 2026.",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-paras-shah-defaulter-pan-dokps0203a-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtube-in-the-scrip-of-sadhna-broadcast-ltd-under-certificate-no-9253-_104196.html",
    "summary": "Release Order – Paras Shah [Defaulter] PAN: DOKPS0203A in the matter of trading-based stock recommendations using social media YouTube in the scrip of Sadhna Broadcast Ltd. under Certificate No. 9253 of 2026.",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -597,7 +613,7 @@
    "title": "Completion of Recovery Certificate No. 9253 of 2026 dated July 27, 2026, issued to Paras Shah [Defaulter] PAN: DOKPS0203A in the matter of trading-based stock recommendations using social media YouTube in the scrip of Sadhna Broadcast Ltd.",
    "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-9253-of-2026-dated-july-27-2026-issued-to-paras-shah-defaulter-pan-dokps0203a-in-the-matter-of-trading-based-stock-recommendations-using-social-media-youtub-_104194.html",
    "summary": "Completion of Recovery Certificate No. 9253 of 2026 dated July 27, 2026, issued to Paras Shah [Defaulter] PAN: DOKPS0203A in the matter of trading-based stock recommendations using social media YouTube in the scrip of Sadhna Broadcast Ltd.",
-   "published": "2026-09-07T06:25:25+00:00",
+   "published": "2026-09-07T06:27:10+00:00",
    "source": "SEBI",
    "category": "Regulator",
    "author": null,
@@ -1159,6 +1175,22 @@
    "publisher": null
   },
   {
+   "id": "aed642a349ce7d08",
+   "title": "Weekly policy watch: Coal gasification deadline, forex reserves in focus",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLUJqalVTZndXX3Yxa2ZZRHZ3MURscTJmdUxicGN0aTZrTU1sMDY1ZmFDX3QySi1VbFhmR1p4aVk2ZmhoM1dERmNHY1B4aEpwUVZBb0tyVkt0YWJhT1lEYTBwc1RmMzgxb3BUYzRtQXJ6NU8yVkF0STZ2ZTBwZm1lc18zSGlCLTJkVFZ4aTJFWEN2S2s0MGtpVDY5R3hNcXdOWE1MYUxyUldWWTNCVG5Fd3dmVkZMU3NHb0ZkVnhDTTBxQTVzaDFIYm5QN2VyRWNWWTUwTNIB2gFBVV95cUxObWpMWXJxRkdRWkZ0MzdGWVZ3WkhFQVNBNV9Qak14ek1Hd1JzY0VpR2Z4NTJNZzZCNnRybEVqX3NBZGpvLWxINm42amFEVkdFaUdJYTdEMDhrVHZuZWZTc2dnLXVBYld5WmZlLXp5RktXOFlwVUJXb3ZEVnI1NF9yQU1YVnNiRmpzUFFrOUJQVmV2UWthN1NFZFRxdkJwa050bkRsVjI4c29fMGY2NDFveGppSjNYcFQ0b05SWXhQR0pZN3JLSDRGeXhLZDJGTmJ1NEhCSTdWYlIzQQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:23:33+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "035a1ef87d156594",
    "title": "Titan Intech secures GeM OEM status for five display product categories",
    "link": "https://www.thehindubusinessline.com/info-tech/titan-intech-secures-gem-oem-status-for-five-display-product-categories/article71437485.ece",
@@ -1185,6 +1217,20 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
+  },
+  {
+   "id": "62143becdf2d3938",
+   "title": "Axiscades Tech rises as board clears Rs 200-cr NCD issue",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkdPQkJwZllaOHZiUDM0cGlqUWt2bEN6TUF4cTlIc19udm9zSlFuYS1kSWRpT0lySHh4ZTRMRUM2OHpLSXlGSXNzQlJyYTg3OE1rVzZmWDd5N3F5REMzTWJPWjhUSVdUV3YwNlYtU2lYVlVuRVJJSW5fV1lLR0RtSHdSMHAtaGhGRkVsMGRURUJYYkxmX2JhR2txTWJLOEJtWldyaGZjWm5sQjlMelptZVkyV1hsZWhBVWM0dHFUUFZrZXhkbzljUnFIa2Z6Ynp1Z1piatIB2gFBVV95cUxPVmIyZGZXYlVrWW1fTmJVX203eWRxaFdzQUgyTmEwaGowUmJybi13dGNTU3RTV3ZBV3JIbGx5WlBXUEFPdWlEdUdaMGZ2NTRXMEh5enVzaGFuVDg1bG9ZX3JtSjBxSUhTQ1JQZExya3ZYZjVUaXRWVlNLb2dNdzdpMEZVZ2ZpMTg0cDFuZkVBQUlyUzd4cW5nVkFmbnpjOWtkR3lCNmVYTDVYSVc5WV9ESldOd2t1TlpRejhrcmRGYm9VYkowWS1wVC1xYUk5V3E3OVR5YnU5YmJkdw?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:22:06+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "6ec17a186bc78139",
@@ -1305,6 +1351,20 @@
    "publisher": null
   },
   {
+   "id": "b75b1603167d1321",
+   "title": "F1 leader Antonelli seals Italian GP win after epic charge from the back",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObzBmaXQySl9KdklSX0hIZW5kTDZkVk5CVXR1V2RpUEV5bWVpMXJrem9TdTRFRlpqbXRPdnZHVHRiQjlDYlFGUnRMZDJOcjJHeDc3dklybEV1eUpuWXVaWEJiZFNhUVNJOThpWGpreHRvalE3U2JVYnUzRjk3TC1NRzhFT3pRTERnU2c0VXYwY01GQ080U1JXcV92YVNxSUJYUnY3WlRNcUNCNHpUNmlEYThaQ0Q5NWJkQTNyaGNLNDgwQUwyVFF1dWZka1AyQ1NtLVhBZm95bnE0aC03M1hhaXNIeHB2d9IB6wFBVV95cUxQdzJuM3dqVnRhVmY2SXp5d0VYbjlqRnhHRlk2Wnpxc0NuOS1wY0NQXzBCUDJlc3lWNUhrdXViVmVJcW1JbTh2NUlxUFhvU1lIR3I2aHRiOEFJVUpwZzZEdmZ0UUxJMm56TjZLcjZUdFVzTWkwWkhnTXV1NGFQbHZaTkpzSkx1WC05MFNlQXF1MWQ1dXVVTW40a3ZBa3VSOUNBODdfWkgzYjNUNFhjZTJFWDNrcFhVN1FuTUZJOWdPZHBOcEs5LXV0elJudmEyNlh5M3EyWFdRUGpCVm1BTnBEVmdIMlZFbG1DZlRF?oc=5",
+   "summary": "",
+   "published": "2026-09-07T05:05:30+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "94350dbb1600d854",
    "title": "HFCL snaps 4-day losing streak, hits 5% upper circuit; stock up 252% YTD",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSEIydF96WDhSUU9oanE4R0lBZ2hfeWl5MFE1cTBnUk1ISWtmSGI3eXlwQXpHQ0JTLTRrc1A2U0EtMExtalVUdkM2ZVRvSzd5M251dUxtT2ltelREUWlPVVluR0xzSW5xQXQ3Wjgtc09DLVZCS051SjNMRmxwNWJQcThEUFNrQVpCc1JmZmhPN0hNdElzRUpXTUxmWWhtVDBnTndCS0dlMFhnaVR4d0VZcWtIRUZBYnI2MHFYaEhmZU5lNnRMa0NZTlR2dmNxTkJi0gHWAUFVX3lxTFA1WjgtSWZDYURNbFdXNndRVlhtSVNueUMxdEl5YjV1SzVGX21rbXZPaExRMUh2QlVkbF9YOFhFQjF5OWxXS2pSNklOVUVKenFKRDdLQ3VKN281Mk9mY2UzWldQWVFwUG04bDM2eXpaUk1FUVNpRlNVMy1HbktHZnk1Q2h5QmRBRGlkaDRzajdINTJhamZwT3RPOEhhTDlMRWt5YUwtRkRrWTJNT1QyblZDVG1RMmNQUDdxYkgxTXplZHJQc1phRHZJTk44a1N2RVYzQ05wZEE?oc=5",
@@ -1419,6 +1479,20 @@
    "first_seen": "2026-09-07T06:25:25+00:00"
   },
   {
+   "id": "12f4408c66d0c7f7",
+   "title": "Texmaco Rail & Engineering rallies on Rs 131-crore order win",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMW5FWm1DUjBkaVBXVVAwVFZWSk85ZWw4N3BCVUNPX3NHMm9VME5CV05tcUxDTUpBdzBPUW10NjZYcUpIT3lCNEtGOVVZV2FQeUJyLUQ0WTBrcGNqakVqSkw1VzZFWjF5WFlMdFdPR2ZTUDJ2dGt2N2F0MHZzQ3MwRVdFTTlfTXFrUV9xVUFOQ1ZBdDdJUDVTWmVITUdkZG95UEdfbWx2QkVNMENfLTBnTHdRTzI3a3pTdWhXbUhQbFNGeXh3cll3cDRvX3UtS0t1SU1Bc2xMZ9IB3AFBVV95cUxObjBuOFgwNkVMcVNid2UtNERjLTJJYXdHc01tQXpYSjJ1YjFUOVIyZ3NLUGlSTW5xb3NwMnR2NXVwSVg0enFvRTlZdUgtUGJTb2pLdGNEMmtMLUdTOV9tNktyTThHQ2pYYWJZa2pqcGZLeENsRXBnd1hZeHdleS1YYVRNOTU0d0lJTDkyM0xrSGZrVDY0VFpjMzMtVnNIZl9pcTFMQzhQQ3dJQkR6QVZMMmxSUXVfaW9OVlFJMW1YblVSaXhOekEyOEVXTTZDOTNDd21kdWFGNmxoR19W?oc=5",
+   "summary": "",
+   "published": "2026-09-07T04:46:20+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "24432743f6e9ab32",
    "title": "ESDS Software extends rally, hits 20% upper band a day after bumper listing",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTVIcV9zcWZKeXFTU3VoeXVRRGc3dmFnQnZWSmt1eWs1NXJZcGVCeWpkZGFjUm1Xeko1T250TFREVWg4Nk5QZXd2Tk9aSUJHTkhKTmZodDRicmFGSzVKMDVDU0VDRzJXLWdETGptY2QySmtOOGZyaE1hRzVtZ2pVVFQwUklqSW1kT2JSOXcyWDNEcVFqRU9oNTlIS2tjNFk4cTN3eXdrZXQzYkt1WXNFSFY4OFVEOGxyZUVPUGNqVzlfU19IdGM5VllsV0drWVJjQkFHY1Fqa1h5V2c3TmRSbWpUck8xd9IB6wFBVV95cUxNaG1DVGFHTHdTbXlWUlpqYnc1SWRtdXJQMU1SQkdGclowQ25WS1BfcWV6RWlSOVl4UmxsNHBOeVB6cC1Sdk1KczZGc2lNYnU2bFZUckJQMGpmY1pUVzJxdTM0RndUNUtzSDZqejk2Mm9qeGZsWVM2WGJudjRTbTNoMFN2elFreTJHT1hjeHUtOURCMk0xa1VNMW1VSFV6MGtzQjV6dGc2RlJMZWhveFZkV2t6TW9YQ0ZKOXpwZjdoWnBIRlB4UnF6S09kWnhqRkFtQk5lVlJoSERoWHRnVlBBbTdVbW1sVTh2elJz?oc=5",
@@ -1531,6 +1605,20 @@
    "topics": [],
    "first_seen": "2026-09-07T06:22:45+00:00",
    "publisher": null
+  },
+  {
+   "id": "cc545a1d38d24525",
+   "title": "Indoco Remedies drops after USFDA flags 7 observations at Goa plant",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUXdlN2FyakVqUmxDMkZ3Q19LMjJhd3B5M2tyZ0JXRFhxaDRmMElVM04ySld5TEI2SE5UUDA0ci1qODVtTm9QZUxIaS1ZWUNLMjZtQlhSUmgzRnhMU0JQUGw5OEJaZTFLNm55ZW9WUllOQkl3UTVDRG5ob1FkaWtqbVoxUUd3dmladjV0WnZ3WXVfbTlSSC1fSVBtQmQxUEVjU1VHRGJDeDMtNHhXNS1tZjdHWG1oRTBoWFJ5RU41S3ZEeW9Xc2pkNEc3cDJXbk9ieHViX0FCTzJyY3REM2NwUUlFVdIB6AFBVV95cUxOWkFFdEtyUnowZ1hOMjFSb0toeUR0ZE9ST19KQ1RnSDd1OUgxZzIyX2hFemdISEFXSl9NNkIwQVF3Vldya3ZDZzBHX2lLZFdrRHhKU2dSdllXU2lBalVhcXZpWHZZX0ZKS1NybW5udjRZWTNhVDhsMFVuVVVWOXZiakxIbi1xSFRzTUlQUGxNX3JxSUoyN2NkVnhkMXJwQlVGaW41UUt2bENlTzIyYmxtWlUzLTFjVGVnSFlkQjhVdmNhYXU3cU9iVUdfLUJBSGpPTlFUckZmSVRRVElUUFJWU0NsSXBqbHd6?oc=5",
+   "summary": "",
+   "published": "2026-09-07T04:34:01+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "3fffda84c7083c83",
@@ -1774,7 +1862,7 @@
     "GST"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Swarajya"
+   "publisher": "swarajyamag.com"
   },
   {
    "id": "efcf99c4c84bd1ee",
@@ -2323,6 +2411,20 @@
    "topics": [],
    "first_seen": "2026-09-07T06:22:45+00:00",
    "publisher": null
+  },
+  {
+   "id": "b19d31fbab221ac7",
+   "title": "Can gold & crypto sustain recent momentum amid looming US Fed rate hikes?",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWY2SkZoU2FIQVlZMHFCUURpTEhFeW1TcWZYbmpIOWNlYllwQkgxbFFtYUF2Wkh2RFNJZHNDSzNna1V4QXJDRFNwd0J5SzQ1Wng0dmpQLVNCWjhOY2RaWEZnU0g5Sm9DMDlhMHJ1SmxlaTdiLUVKS1VRdEViVGlMenVER2tzY1VzZ3U2d2J2S1NFM2ZNbVk4MVNhUWFRdkZNMzFJVHZ4aVFMdzRtTzAzZ184bEJyb3I1Q0l4aDdCTjN0T0ZwSmlpdmVmWEpKcTlzaU4w0gHYAUFVX3lxTFBsWTJzcEJtbUM1UktDZ3plbjQ2M20ybjNLamM3bFI5Z2QtN29YTHhNUFByXzJvWGdzYThEd1ZWVkVkYmVwYnN0TGtBeUs4RkNYWFllbmpYMUZDdGFpRkRoTEJ3eXpUMEZFNGtsRWd0eWVGQUF3WXJWQmxwQ0pYVUVjZnA3Yk03VWJGSkVzX09jcHlsVDNxcDFfX2RPeFYwRlFuTG54aTUxZGk5ZXg2NXY5N18zX1FndXdaNVF6UnFic0hxN2RCVVAyYUNkUVNEN0o3UC1COHNVWA?oc=5",
+   "summary": "",
+   "published": "2026-09-07T02:58:47+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "5bf5d449b708873a",
@@ -2999,6 +3101,20 @@
    "first_seen": "2026-09-07T06:25:25+00:00"
   },
   {
+   "id": "aa2bc7037c760eb0",
+   "title": "Page 8073 of PTI : Latest News, Exclusive News Stories, Current Affairs, Events by PTI",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3NFVYckRFV1F5d2JOTjNEaXpkZHk5QzZaVzZXWGdoamc0UnFhOUN5TDYwdF9pRGRoN1o3Z3A5a1lpYjFlemZWM3dTNjJrZG9kSDRObVFoUi1FaEhlSTRmVTlad1M?oc=5",
+   "summary": "",
+   "published": "2026-09-06T21:07:08+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "d95a488253bc928d",
    "title": "Buy or be bought: AI raises stakes for mid-cap IT firms",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHFRUy1GQ3Fob2RVSVRVelJ3eGlWblFxcWVTWmZtaUxjTXFDeWdmc3NtWC00eno4aGpFZVBaSVBGZnJaMWRpZ2hXREVNZXltSE9VU1NqV0dtNjZYdHBYbU4xY1Nkbk1Bc2NaV1hMMGtMZzhCMkJ2WVdMc2dDRzlFWWNzdHFlX1hmRGpYUVR4MXJIMmpJRHNKcXc1TmNqRHZrYmg2dERlUmhpVU1uV3M40gG2AUFVX3lxTE5wSVA3SUZjZlJvUlZQT0RjTjJsSUhEclR0NV85ZTJYVTdtWGNMR2ZhUXN5cUhZalFBWkRjLWRuTXlrX1NscDl5aXlyNkp2Nkkzb1YtaXVBWXFBREctYTRrbllCb25Bb2toOEFuR0VGdlpzZmV4Y3dtLUo2eTMzdDIxb3l0OEhRbTJfVHVOeDlqVWFoSzFjbC0wT0dqeFVXNllJNVVLbWZOcVV0ajlrM1NVazVOQTFB?oc=5",
@@ -3039,6 +3155,20 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
+  },
+  {
+   "id": "75640dce46a9ba13",
+   "title": "Page 8071 of PTI : Latest News, Exclusive News Stories, Current Affairs, Events by PTI",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wX0duS0lyNGJwOGt3R0lJLWdacFdoRkJJQU9EdC1pYkNhM0dlb0ZZSkRvdWlORjZvRGdiU1htWm13bTUzZnQxYVgwYzBMdGVLZ05PMkJ4dEFacHc0bS1wMDVzRXk?oc=5",
+   "summary": "",
+   "published": "2026-09-06T20:07:52+00:00",
+   "source": "Financial Express (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "financialexpress.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "8e532be307a3b08c",
@@ -3317,7 +3447,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -3392,7 +3522,7 @@
     "Audit / accounting"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Economic Times"
+   "publisher": "economictimes.com"
   },
   {
    "id": "7eb7e7f66270fd4b",
@@ -3597,6 +3727,20 @@
    "first_seen": "2026-09-07T06:25:25+00:00"
   },
   {
+   "id": "ace04b2dc6df6b78",
+   "title": "Power plants with critical coal levels rise to 58; experts say no crisis",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEllc0xpazExcW1YZ1JXWTFMRnhKV1dJYmJsWktsbl83ODJUWFF4RDZzRWxfb0JUZmJWemQ1MUd2U3RkdGdzWFE5NXJtaF9sNmR6Rnl6eGdKN2JhSFhpZFplLVRBT09KSl9WRHQ3NUdkSGxCSGhKQkFMeENvbkpnT3Y5aTNpYTlDbndkQWhMSExSVXVHSHZwUkRQZkFxLXRrOWdzUkpnQVY1SWcyU0JpbzZJa0RjUmdHa3BmaHk4VmZndjAxeWFxVU9iOWRwVnNfZVR0Z3Zn0gHbAUFVX3lxTE9mOHlUOXZHbGFMbWg3Ym5ZSm5FaHZFWWlrcmFjSkx0c1gyRlZkdkN1bUw3UkxyT3J0dU03V1VhY3NlRkc2RFlhb1VpS3ZBSkt3aGpQNnMzV0VtR2h3Vnp3ZGtQUUZnYlVlTUFYZ0dRQnRRV3JoTDVRVk0xNk1CTW1laENVal8wTElHNDlWQTZCd1d1Xy1yOFpNWDlSTWh6ZEVvdE1ubEt0aUR2dlhCbU8xOUE5ckZSZ0RsT1VzOTBjZEV2S2FUNk55bFVNMlVUQWpKRURnQWhPZTVrYw?oc=5",
+   "summary": "",
+   "published": "2026-09-06T18:11:19+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "f4d480d81ac79515",
    "title": "India's wealth story needs a chapter on retirement",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWN3cTV3TjZXVFl6cnU0cWVhMUhUWmxnS0N3YURFSDZhTUttcW5HOEtUZzdVamdVZlZRMFNEQjRtZkdCTGEyTzNPQTBwR2ZVTFZNN0YxSU51dkxZY0hrNFZlUGtjUVk4b3NhY1VPTEdBNVM0ZFFSU1BVc1NVTkdlaU92QUZWSk5CakN2OTRDbFZobmJNVEM5eEZMbVJVWUsxSm5FaGt5SFdVckoyeW16NEZOWHJDR25TWVZuLWlxMXZtZ9IBwgFBVV95cUxNOWN3cTV3TjZXVFl6cnU0cWVhMUhUWmxnS0N3YURFSDZhTUttcW5HOEtUZzdVamdVZlZRMFNEQjRtZkdCTGEyTzNPQTBwR2ZVTFZNN0YxSU51dkxZY0hrNFZlUGtjUVk4b3NhY1VPTEdBNVM0ZFFSU1BVc1NVTkdlaU92QUZWSk5CakN2OTRDbFZobmJNVEM5eEZMbVJVWUsxSm5FaGt5SFdVckoyeW16NEZOWHJDR25TWVZuLWlxMXZtZw?oc=5",
@@ -3725,6 +3869,20 @@
    "publisher": null
   },
   {
+   "id": "aea2a56b7201739a",
+   "title": "Groundwork begins for Gujarat biz summit with focus on future industries",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVFOX2Ruemo1WFBWaXJuQkpuZU51VDBVbGpLUFAtRTlFWUxvVlhaYXh1UmxrOWdYamQ5UFRVRl84eVFuekItMm9QNWhCd3VuSTRSTzVXWFd3SUVqb2NkakdQTldXM1F1QnRDS005TG13ZnBvTUh6ZHNwNnZ2cktnX28zaEhkaUZpVnVvRW5HZ2ZGUmFIdVpseXBKMXFzdjBXNkZDY2pwdmZVNUg5RXRvalpGOGtDdmQwVG1XMzM1REI0Tk9RWXZWZTY1MDgwY2tLN0o00gHYAUFVX3lxTFBrLWlVcnN6amRkUXZTQUNpRjhzdGQ5SEdYdEgtT3h2dVJTVjNNWGRUaUJKTl9GVlFsT1dyLTFrcTBiQWhrZWhyTXYwV3o3Mjk3WDU3Mm91WHp1aUpxY3JfR21WUDk3cGgtaDVTRFJta3pLdGdPQ3ljQnd5RzJabDlNY0ZRdVNKSkNad19SRG8xajllM3A1ZmlWYVZzd085OW9CWUowVndTanRfc3JPZlM4b090bmVwT2EwY1h1MzI5ZXFYdWdRbm5NWm5FTTlaQmllN3pZTUducQ?oc=5",
+   "summary": "",
+   "published": "2026-09-06T17:35:40+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "40d4d1e9eaeb4393",
    "title": "Groundwork begins for Gujarat biz summit with focus on future industries",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQay1pVXJzempkZFF2U0FDaUY4c3RkOUhHWHRILU94dnVSU1YzTVhkVGlCSk5fRlZRbE9Xci0xa3EwYkFoa2Vock12MFd6NzI5N1g1NzJvdVh6dWlKcWNyX0dtVlA5N3BoLWg1U0RSbWt6S3RnT0N5Y0J3eUcyWmw5TWNGUXVTSkpDWndfUkRvMWo5ZTNwNWZpVmFWc3dPOTlvQllKMFZ3U2p0X3NyT2ZTOG9PdG5lcE9hMGNYdTMyOWVxWHVnUW5uTVpuRU05WkJpZTd6WU1HbnHSAdgBQVVfeXFMUGstaVVyc3pqZGRRdlNBQ2lGOHN0ZDlIR1h0SC1PeHZ1UlNWM01YZFRpQkpOX0ZWUWxPV3ItMWtxMGJBaGtlaHJNdjBXejcyOTdYNTcyb3VYenVpSnFjcl9HbVZQOTdwaC1oNVNEUm1rekt0Z09DeWNCd3lHMlpsOU1jRlF1U0pKQ1p3X1JEbzFqOWUzcDVmaVZhVnN3Tzk5b0JZSjBWd1NqdF9zck9mUzhvT3RuZXBPYTBjWHUzMjllcVh1Z1Fubk1abkVNOVpCaWU3ellNR25x?oc=5",
@@ -3767,6 +3925,20 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
+  },
+  {
+   "id": "7ca0cfc9d6993ba7",
+   "title": "Statsguru: Gaps in funding space despite India's growing startup ecosystem",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlRLVVVtdkhUVU50dUlKZHZndE9sNkczRlpYZXotNGRSTFF5MHNFZFZOUkhVVFEzZGs1QWt2cXM0THpTbFdZTFFhUmRhUGtJYkN5NFBjemhXSGxQcVZlU0pVMFlhYmFPa2dBdlNzT3JBUmlXaWV5RWxkal9QX1dCbWVQSnZtZUxpdDNlZTN4Y24waUFON1VqamFiS0NQWmhGUGZfVnpTZlMwVTdTXzdzazlnbXh6ZGI1V09RaVJ0a0V5dHM2S1NiNEtKM044T3NoTG1mSmNqbFdOMlQycXU0cEJ30gHnAUFVX3lxTE1EOEhtaU5Md05jb1VIZkJZRlNRX2FheTczRDBIZ1R4TFFnR0VuaUlqUk5Fb09ZZ25scDh2eFFmN09HS2JMN001V2xmMVhfT3FFSmViVlBaNDhhRzlGQ1ZHNkk0Y1lHcEswRl9ubUNweC1pSHk2LUpfQ3Y1SlV5TjhTSjNrQzR3akJIbEdzdjh6UGlDdGpfYTFPZWtlSFA5NEJKbFFlNkUyQmlWZFF0NENzZ0gtNF9wLXBZYzJVcjFDTUJiYXZQSzQ5NExQQmg4VFdGT25NenJNN2c4NkxmNE5KMDNXYWp2Zw?oc=5",
+   "summary": "",
+   "published": "2026-09-06T17:30:08+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "85ff10274d013251",
@@ -3867,6 +4039,20 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
+  },
+  {
+   "id": "ca0b219092712fa5",
+   "title": "Intrabloc trade in national currencies on Brics agenda at Sept 12-13 summit",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVWNQdzlZTnVfNXJaeUhLREhCTVM0N2JsVXRFSzhMeE1CMHhhemxmNUlsU1ZXWkpPVjg3VDA1aTlQTjhMamJfcV9ZeGd4dWpxMnRhYksxbW9hcmxyTktTU0tMVV9oak02dUNiTkNZZnVieDhnMzdERGd4NVItSU8yOTdIdjctVmJBN3lUeTc4Q1ZFX0wzSTlhVXhnZmdDYXotdHVGVTB1MWV5TXNoaEQxVlVyWmUtZHpOOThTRy1EQVhKY3haRHJYSk9QaDV1ZURmSnZmSHc4SdIB3AFBVV95cUxOREtMRUZNTThSUzJjdjdYcDFqQVNncWRjNFE1TDF1cGoyRmlpaEZoWEZOWUVIY0NNSDZJV2xYT1lfanMwWVl5eVlmb2lyNWJIcTVRUE55SlhnNVZaVTR6eTZyTkczR1FFSzN5N2NqcUZ0bmFOTDltNDZLZ2pUU3A0S2NSWXE1VnN4b2I2MWlFc1BpREJnUkpXWlhiS0x2dzVwdzBUbDhsclE0aXhNSnpKTU9idjQ2M0NETG5tOHJCdEpyLVhrcUlsM3F6cWRmd3FIUVgzU3lkZmNaMGZy?oc=5",
+   "summary": "",
+   "published": "2026-09-06T16:51:46+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "93bbb9789e049e80",
@@ -4007,6 +4193,36 @@
    "topics": [],
    "first_seen": "2026-09-07T06:22:45+00:00",
    "publisher": null
+  },
+  {
+   "id": "bd45bad2cc8c7db8",
+   "title": "GST Rationalization Boosts Dairy Sector; Most Products Now at Nil or 5%",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JczVkUjR0QW9XWVFIYUNXQjdBcVZpbzlXRXFGYjV3ZXJHWDFXTzJVdDF6T20xUmplcTFfTzE1WlBhSnJHSk1xTjEwMEgtdnJkcFNmNFdkeUFLVUt3T0toVjJ5b3Brc3drbDJF?oc=5",
+   "summary": "",
+   "published": "2026-09-06T15:58:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "author": null,
+   "publisher": "Press Information Bureau",
+   "image": null,
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
+   "id": "9081d723dbb0f3a2",
+   "title": "TRL Krosaki, Raghav Productivity to set up silica ramming mass JV in Odisha",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0RRSlc1MFFBR1R5T2RZaWd1cGV4aThhQWxQclROMTVrQTdvX1J2SXU0UzRodlU0SFcyY3Z0NVBKMnJ3YTdfYnJldmJwTzViNlRYdkkwQzBvbXZvV3BwcHNCUm9zQzM2ZUtjZHdNc2lNcVlmY0g0NG5Ra3VxVkdyeVFodV8xQzhqTXlWQjZSQnh3VlZnRUczSFUzczVuZUFtMHpDZXM0cHlSejA2blZUYVFqOUtQRWNYZnp2UjN5cVFhbUJGeXgwMk9taGo5WUFvdnVqNHk5MjlScm_SAeABQVVfeXFMTl9ST3RfNjgwOHItTnRCZG5lalI5Z0JFSFJkQjZGZzlRN2tWNmM3STlXLUZxTjJIUnBlNm56aU41eTVHZVdNR0x1ZGo3VGUzelNqVExhWjhEYU9ROGFMZ2pGb1E0XzBDUURhanY1d1poM2R5MEE0b1FCMkhpWjNKYWNscU5PWHZmSmpocW1LaEVFMXFSd0QzeDExZjZVSVQ1X05HQXViSG10WWVuQUUxQjJYME92TF9ySEdZa3l2V2gzSVlvM21icDZORFc3SnBvcGUzemsyWExWX1hrS2JGbHE?oc=5",
+   "summary": "",
+   "published": "2026-09-06T15:50:20+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "8115748e5756c6ab",
@@ -4187,6 +4403,22 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
+  },
+  {
+   "id": "c7a858437d077638",
+   "title": "Union Minister for Finance & Corporate Affairs Smt. Nirmala Sitharaman outlines 5Rs of responsive tax governance; Calls for greater tax certainty and reduced litigation at the 167th Income Tax celebrations in New Delhi today",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tWU4yYnZYUVZCSkhidV9PZ1VvQUFWUGdMekNMV0c2Zm04ck5lRE8wWHJDdkFhTTNqZHotT3J4cVREUTFjblZiTWM1LWtoUFVwQjNiLXFnWlZiVHhaUGlnSWpDcmM4QVh3QjJrNUowVWY?oc=5",
+   "summary": "",
+   "published": "2026-09-06T15:04:12+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "author": null,
+   "publisher": "Press Information Bureau",
+   "image": null,
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "43a41b00c6e9fa92",
@@ -4449,6 +4681,20 @@
    "first_seen": "2026-09-07T06:25:25+00:00"
   },
   {
+   "id": "007c716be56a11ce",
+   "title": "Amit Shah speaks to Delhi CM, top officials after building collapse",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTdrR09jeVg4VUV1WWRmSVQwTENuQ2NuTGRGZHdiNXBabVR1Tk5Ua3IxUHRaUzdrT0U3WVhnYlNnNmxqaDVqZVA1MmxMdFZFYTBKbFk3bDExU01rcUxNMGJqMVFQUElxYmZzTzVaLTdpamFoaGJEcnhJbUcydF9qcndzcDFIWUVqbE1GdW40UllZRlJfTVpTSVRZQ0xHajFDd1NkQkVGc1I4MW9XSndjcnY0TW41Z3FETGZFQUFVTnJ0N28xbFlydjROY9IB0AFBVV95cUxNWWcxQ1lCQ2ViTk5NdE8xN1N4WHMxaEZMNDhtQm1SYU1BVzJFY0JXTVZQOURWYXhZR3FVaV94SWNWUmFrWmlmSEdBNFU4X3NYZFdNUm0wTW02Q1oyZUVLT0VENkxtZFl0blJPQmQ3eGpKVjU1aTRkYmMyVm14M3RSZGFWdnhiSlNCcld6LUpUeHp4Mmg4amdPVm50dVRCZXd4YUxVSkZvcVF2LS01a0JGclNWWDI5blREWklDVGl3bEtBejlFS3FRSm9PeEYyc1E5?oc=5",
+   "summary": "",
+   "published": "2026-09-06T13:37:12+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "a49e68a1f8b339ee",
    "title": "Page 95 of Media News: Media Latest News, Media Today news, Media Breaking News",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWZCSW80ZlNuNjB4SDBvLXg3X1NzM2xIUWQzcUo5eFBJcnVtRzd0YXpqdmYzNExPM3huYkw2OENyaVFnNDN0Sl9LS1NoRXNKQW01X2szQ0w0REc4OHhnWFdDZkY2LWFyNGgyc0pJX0hGbEJ0Wl84T1dfMDEtQkpLeUJmMm1qbk9GZmc?oc=5",
@@ -4548,7 +4794,7 @@
     "GST"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Economic Times"
+   "publisher": "economictimes.com"
   },
   {
    "id": "1fd62ed75485b5f4",
@@ -4831,7 +5077,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [
     "Income tax"
@@ -4847,7 +5093,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [
     "Income tax"
@@ -5309,7 +5555,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -5461,7 +5707,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -5718,7 +5964,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -5808,6 +6054,20 @@
    "publisher": null
   },
   {
+   "id": "1adeeb4eae6ca969",
+   "title": "Nepal issues media safety protocol for journalists covering flood-hit areas",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2YtcUFvNW84T2xVa1hvYmh0UTFuTnlhNW1jQUVmT29XWkF3WGRvSmhVbzVoUmRsTE9nNEdjVWwyV1RkT1MyVjFzQjlSRXBsczFhWkw3MkF4LTlDZTYteDA1TWI3a2ZPajF1UHZnanl2bXZFOTFhSzlnZWthU19oVFRKWjNUTGQwNHY4WUFQZlA3RmN1M0NTTmtfRm5QNUNJcmZvcUctYk5ISERtYVRDeExQSDB3N2ZSdi1iakx6STZ6dnRMdW05NzhfQnVkdzdXRXZnSDNjQdIB3AFBVV95cUxPb3czdFdfaHVyazVzYTFfZDc2My1wUnplaXVyd0Y1Tzk4RXdUclZyUFBPMEZnVVNKd2tHNE15UE5mOUlRUGFoYkY2Zlg3WXp2MHBPYlNmVFJpaF9DOWY2YlNyWjRuQlRObDV2bmlZSWkxMEMzV052LTRfZzRIT2QxaE4ydjcxbjNHdGhpeTUzSkY3cC1Tcm9lS3dlN1VROTBWeThDdzZWd1FXU0lqN3hsaGhQQWEwdVJpTWlxdWtXNzhVN0d5cW9kTWR0TmUxYmxscjlaNUJRNFNMYmp2?oc=5",
+   "summary": "",
+   "published": "2026-09-06T06:36:38+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "b42dcb452d21eb6b",
    "title": "Index of Services Production:",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44M3NudzVWQm1zbTBpVFZPQVdBaHJleWtneUlmR2JMbUJFVTBOUzZUbEZLRXF0a3dRcXhvbnZhaDR5T2dzTzRjbXduWENDV0p6TE45SDZCd2o4ajZ0QVJVcUJwRXNocGREYmp2N0JUb2ctaVl0SVVZ?oc=5",
@@ -5877,7 +6137,7 @@
     "GST"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Economic Times"
+   "publisher": "economictimes.com"
   },
   {
    "id": "75b9fbb931b3aa27",
@@ -6104,7 +6364,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -6204,7 +6464,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -7235,7 +7495,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -7249,7 +7509,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -7263,7 +7523,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -7453,7 +7713,7 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Economic Times"
+   "publisher": "economictimes.com"
   },
   {
    "id": "527c9e0fe1a23b69",
@@ -7706,6 +7966,34 @@
    "first_seen": "2026-09-07T06:25:25+00:00"
   },
   {
+   "id": "05df93aa89a485e7",
+   "title": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlp5eWVyQXhXV3duM0NBXzloWW4zcFdMd090bzRFTW0yYWpIREJGS2NlUi1Va3E0Y2o4SkVFTlU1Ujg3NEJOaWU0VU5feHNCZ1hnV3NQQ3YyZ254VXhaalhrWHRmZzZsWVJqd001a21tVVZHeW9mTEtJOUYzVkJrcWV1ems2ckhkZHpBOE9lTUptNFIwZXZkdVNRNURpOTJYM2d4VzNrMVdDRlBxQUEtVy1PZVBaWkxTbU10ZnVOeHdELWhxRDA2RG1hTjlQS0txaXk3cGkzV3d6SldQanN3MzBFTlZWWF9RZGfSAe8BQVVfeXFMUDBTdGNDVUhySGV3QnB1TTFyOTNucmt5YjNnRWtvVzctTGFvN0hkMGNITGo0bDEzdkNOVlpHeHV2elBKSldTU3FRUmJGSno5Nm9JVmx5dEVuNkJ3eU5DNzZhZHd1NXpFaFdnbXVXdzIteGFmYW04TEhiUHJxOFVQbnotS19QS2hoc1J5Zmd0TllvUDNzUmdnaU9NdDU2Y2JKZEg2aTZFSG5kSVFLaUFFbGR0Skh4NDZaOWUtMWZmTW1hOWYwZ0M4SmJ0OXFjY05fQWFYdloxa1ZQM29INjdUR3E2QWt6aHYwSFBIenNONmM?oc=5",
+   "summary": "",
+   "published": "2026-09-05T10:22:47+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
+   "id": "61cb93c296ef6608",
+   "title": "JSW Steel records steel production of 24.65 lakh tonnes in August 2026",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUy1LUDR1dlkxdTM3Z3ViR0VNem5CVGdFajhmOHhVWWVHMDNtY2pxVDhKenhDU0oyRmVmaVFfS0NWSFhnVlVnNl9TNWVfXzc2VVZ3ZGJLUjliYWJoVHVDX1E4NTVrRmo2QXN5WE9qTjdQYVROUm9BemlDSXJWT2NmQ2p0OUdhOFJKUzVaTFdncGFzZHNVU243b2NacG5YTGxCWFpMYWlPQlE2NVRxT1NvZi1ub2k4ZGFrRmZkWlNVRVVDMTVlSmZVOTlYUGFvVUloTVk2bG5PLUdzUnVQcDJSTUtNZFQtVEnSAewBQVVfeXFMTURzS2FoaXhZR1hvQnE0dEcyREtNaC1LUVZScXREWlJmcUliOWlieXhxOGNTQ0w4OHJMbUxxYkk1NmlaUnR0VU5FV1ZXOHR4YjVNbmJPVDNMNk12cjR0S2tDWm5qRW9MZmtxZ1BXM1RSQ3ZILUNicDFGUkVYcXVxS3JOQ2M3QzNoUVRobzVFcGxYRnZWNDI2VFNYcGhHNGlwY0ZTRkdUcFpxNGJFbVpsa3FOTnl1aS1qb29KVzhkZ1dNcVFYbWlnNnVHblcxVm4zd1FxX2s1STZPakJBaTZjZ3daUkRfejM4MnVURkc?oc=5",
+   "summary": "",
+   "published": "2026-09-05T10:20:33+00:00",
+   "source": "Business Standard (via Google News)",
+   "category": "Business",
+   "author": null,
+   "publisher": "Business Standard",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
+  },
+  {
    "id": "9e48a7ff2a23122a",
    "title": "Bihar floods: Over 1 mn people affected as Ganga crosses highest flood mark",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFJsd2syUFBDYzdZamppTVRqRlBROHJWWDJ4NTJzVG9XeFBOd3Z4cG5qWU1LQVhENHFrSjhoMUR3d0dYbmZlYTZlTVBkWW9tb1JuaHo2VGotelBSOE5XdDRCWk1jM1hxZkFJMUFyd1FNWXV2RHExZEJmZ0dYOGRLbmJETnJfMlNKcW9EMldsUWl3NlBtVjRiR19XUVdIUVFQLVNQQjdxMG9WdDd2UFpyWkN6bjhZcGt0TnB0NjZmcWt2VHdtZGFpeU5OaUJRVnJNM1RGNU1R0gHbAUFVX3lxTE5fTDh5WDhDdmIyZXVhVFBSdG1mZk5vcDMydS11MjdUdVhLY3RYc19NTVVkaGZJZUpPR1pjV3RYNWdhaVI0ZjZhQ2RjMmRGNzk5dFhHYmphanZZb3ROUmI3b3ZWUUtlX2JMeUlQOHlocjd5a1VDTktKMmFDaXlWdkR5a3BfUXNkd3VBN3p1V2hib2h1dTc5UnhsRHd1NGNDSXE0Wlo3UWUzWmQ4Ui1HTEVBVkdjZlBadXhONHhJTE5kZ2l4dlltOG5JdFk5RUVGenBiNmxkd0FiaG1tUQ?oc=5",
@@ -7900,7 +8188,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -7949,7 +8237,7 @@
     "GST"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "livemint.com"
+   "publisher": "Livemint"
   },
   {
    "id": "cff8a90dd868c3a0",
@@ -7960,7 +8248,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8018,7 +8306,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8090,7 +8378,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8104,7 +8392,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8118,7 +8406,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8146,7 +8434,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8160,7 +8448,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8174,7 +8462,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8188,7 +8476,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8407,7 +8695,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8421,7 +8709,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8487,7 +8775,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8501,7 +8789,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8515,7 +8803,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8567,7 +8855,7 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Sahi"
+   "publisher": "sahi.com"
   },
   {
    "id": "4fd08786204c71ba",
@@ -8592,7 +8880,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8606,7 +8894,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8620,7 +8908,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8634,7 +8922,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8648,7 +8936,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8678,7 +8966,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8692,7 +8980,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8725,7 +9013,7 @@
     "Insolvency / IBC"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "solarquarter.com"
+   "publisher": "SolarQuarter"
   },
   {
    "id": "7d2809017b948d28",
@@ -8736,7 +9024,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8750,7 +9038,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8778,7 +9066,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8829,7 +9117,7 @@
     "Insolvency / IBC"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "whispersinthecorridors.in"
+   "publisher": "Whispers in the Corridors"
   },
   {
    "id": "d64462a8f95e74d1",
@@ -8840,7 +9128,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8854,7 +9142,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8868,7 +9156,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [
     "RBI / banking"
@@ -8884,7 +9172,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8898,7 +9186,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8912,7 +9200,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8926,7 +9214,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8940,7 +9228,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8970,7 +9258,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8984,7 +9272,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -8998,7 +9286,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9012,7 +9300,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9026,7 +9314,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9062,7 +9350,7 @@
     "Audit / accounting"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "livemint.com"
+   "publisher": "Livemint"
   },
   {
    "id": "bf3bdf31b8a51291",
@@ -9078,7 +9366,7 @@
     "Insolvency / IBC"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "thehindu.com"
+   "publisher": "The Hindu"
   },
   {
    "id": "b2e021f60decad4e",
@@ -9089,7 +9377,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9103,7 +9391,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9117,7 +9405,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9136,7 +9424,7 @@
     "Insolvency / IBC"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "livemint.com"
+   "publisher": "Livemint"
   },
   {
    "id": "34e302a89c1446e5",
@@ -9147,7 +9435,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9161,7 +9449,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9208,7 +9496,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9238,7 +9526,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9268,7 +9556,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9282,7 +9570,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9296,7 +9584,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9310,7 +9598,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9324,7 +9612,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -9340,7 +9628,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9354,7 +9642,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9384,7 +9672,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9398,7 +9686,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9412,7 +9700,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9426,7 +9714,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9440,7 +9728,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9470,7 +9758,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9516,7 +9804,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9552,6 +9840,20 @@
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
    "publisher": "bestmediainfo.com"
+  },
+  {
+   "id": "acbdc72024df4c8d",
+   "title": "RLB GRANTS RECOMMENDED BY SIXTEENTH FINANCE COMMISSION",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yUXVOSWxXbTlhSTVJbjgyWXFWOTFQb1FJZUhzSUpudHE2MndPSTMyRTRSYmY2ZXpUWnB1RG41SlNacTdEOXZTYkZpSFFrRFFaTWJSSUlIcVBnSW1pSUJFT2hiaXdRMkwzb0xz?oc=5",
+   "summary": "",
+   "published": "2026-09-01T08:28:00+00:00",
+   "source": "PIB Finance Ministry (via Google News)",
+   "category": "Government",
+   "author": null,
+   "publisher": "Press Information Bureau",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T06:27:10+00:00"
   },
   {
    "id": "686ee2f392df4733",
@@ -9594,7 +9896,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9608,7 +9910,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9622,7 +9924,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9652,7 +9954,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9666,7 +9968,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9685,7 +9987,7 @@
     "Insolvency / IBC"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "ft.com"
+   "publisher": "Financial Times"
   },
   {
    "id": "f1817d2972d41946",
@@ -9696,7 +9998,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9724,7 +10026,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9738,7 +10040,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9752,7 +10054,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9766,7 +10068,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9780,7 +10082,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9794,7 +10096,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9808,7 +10110,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9822,7 +10124,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9836,7 +10138,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9850,7 +10152,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9864,7 +10166,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9878,7 +10180,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9892,7 +10194,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9906,7 +10208,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9920,7 +10222,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9934,7 +10236,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -9964,7 +10266,7 @@
    "source": "PIB Finance Ministry (via Google News)",
    "category": "Government",
    "author": null,
-   "publisher": "pib.gov.in",
+   "publisher": "Press Information Bureau",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T06:25:25+00:00"
@@ -10047,7 +10349,7 @@
     "Insolvency / IBC"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "livemint.com"
+   "publisher": "Livemint"
   },
   {
    "id": "c60a57b6bcdf0356",
@@ -10173,7 +10475,7 @@
     "Audit / accounting"
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "BW Healthcare World"
+   "publisher": "bwhealthcareworld.com"
   },
   {
    "id": "6b361b4ed5e0ad2d",
@@ -10238,504 +10540,6 @@
    ],
    "first_seen": "2026-09-07T06:22:45+00:00",
    "publisher": "Yahoo Finance"
-  },
-  {
-   "id": "0673e5fcb8350712",
-   "title": "ICAI J&K Branch holds seminar on ‘Tax Audit, Charitable Institutions’",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkthTVhfOC1YbXhCNUZJTm9FWGpwVDdydGxyUkV0R0dLYm5kOFRhTDFRbHhLNEFOcmpvZXI1WlJlc2ExUmhsNWQ1SUM4Z2JiejlsYXRTbzNoTDE3bzZwaFdUT2wtOE03TGxaVnBQRTg1ZlRSRDFMZVktSzdaUzc5SkxYeWgwSGFVS0VDbGpKeE5teFk1aG9kSExGSk5GQdIBogFBVV95cUxPVjBacVpVelp1X0JodEZXTDAtdGUtQ0I0MnI1N2sya3psSGNQM3dkc1R1VGV3Sks3XzZ0NHMyZDN3OVdSRTNsdFBfWW5KOHNHM3Y2aGJkMXJucDVvN2pObm1GdEdLNTF6Sk15ZEZFcmZyMEtfcGRtR0tqSWt5Rkx6aWh5X05VcjBYRjhqNEN4ZHVrRGN4Y3diSmZRZmlDcklheFE?oc=5",
-   "summary": "",
-   "published": "2026-08-23T23:28:56+00:00",
-   "source": "Google News: MCA / ROC",
-   "category": "Compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Daily Excelsior"
-  },
-  {
-   "id": "75891167910ee187",
-   "title": "India's private credit market set for stronger growth as insolvency reforms reshape lending strategies: Report",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOY2ZURm1jUXRxbDhNdHpmYWYwdmN3U3RFVHQwVDAyU0ctT2FFZzc4Rzdkb3pEQUpHWG5KOUxrT3NIUVljeGxmaDUwa1p4NDZENnBFMVRlRG4wdFhrSE9vMzIxOEU5ZzNxQ3ZzSlk5SVV5OXNRUlBEQXNmUUpORU5XMTlxWGtNQ3o2NnBVUC0teXF2N2xTWEZkUXk2RWlJTDJSckppYWQ1UzhlRVFPcFFwLTlOa3JyTXRYS29PVFd5ZTc1RnBmTHdhbllhcWpxbUUxS0w1MXVYTUhNZm9RVVIzSjZ6MmVWaElTZG1EMG5YU2ZqRVFwNFA0c3RKa2VqczgtRTRiWklIR19jbmFmQmd0TtIBlwJBVV95cUxQTGVvY0RQRHhNWXJhcWRaTFNYRkJTaXJXUDQ0ODNhSGMxU0xSTmRsQWllTzhxS0ljcGdXd3RHZVEwRkxTSnpQRzk2MjdiUndzbXhyWC1JTHBTclFsdmc3NTFjOEpWb3ptRmRpd1pwdDdfNlNMRkl4TEZVR3FJMks1bGRrUWU0ZHhoMDIxbUxRZWdQRkdBRjJKSFg2QWZ3aVpOWnp4djBJOWQ3SmVPbFZOMmg4eWJxdDhtUmMzSlA3cUFmSUx0RkdoQjdRdHg1LVU1RGFoUnBmVS1ELWVkRjVJdG5nTndWM2JjcjZoNTJNYnVtaWdiaXpfSG9WNXRJbm5jZkVlOFFDdElzWll1dUFST3hjcjhrQzg?oc=5",
-   "summary": "",
-   "published": "2026-08-23T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "BusinessLine"
-  },
-  {
-   "id": "ec0b5e948073add5",
-   "title": "NCLT admits Reliance Entertainment Studios to insolvency over Rs 11.94 crore",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3lDbE1RLXlqdlQ4WWJ3bGdiY3RJWmd5SEt3dkhJdENSV3FiaXNsRkcxaEx5SzJ6Q1ZnVXZuR2xPZ0xuYkI2bW9aczhVTjZRNzdtdDNyN2lJT1pZRTVBdk5xN00wZ2RMY3NTUEhCV1BTVFdabXJmSTU4cHd4TFdzeVcxTTVDeklaYWUzWHBQeDhrUmxpRDhEc1lKbXRYU1hGLUVLU21uWVhHbDNMTEpv?oc=5",
-   "summary": "",
-   "published": "2026-08-23T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Indian Television Dot Com"
-  },
-  {
-   "id": "628438a7c491bfc1",
-   "title": "NRI sending money to parents in India? This one mistake could trigger an income tax notice",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWnFyWnVQdUJMZ25vajBqM0dNSV9BZDJENlZDcUptTzA0dU5vSzNVVmEyTmZMWTBURjhybXpWVHhvMk42UFoxZUdJLURrb3JVc0o3Ml9lZ3VOZEh0NWRERHJHdjdiblFWb3ozdWdVeTVlMVR0ZXl5czdYVXlwZjJ6aWVEMTE2aEpVMXhNdnFhdFNyb29JYmN0N0VRbG1oVE9HeGxrVWNJclUwazIxZi1PaTlobU1fQko4YVRTWkdpbG5MX1pHQUtDMUU5NWxkN0lzdnozUGhuYi1Wa2FCOXFIcjJVeHJaS3ZfWkxNTGFR0gHzAUFVX3lxTE41QWtaTUNBcld0OGxtY2ZyekR1UmpQVzlGaENRbEZBazhYV3Z6YjJsaklIdmFhX1ZzUklnVWZZMWJ6UVZxc0dOZW5hMVktZVdCcUdiQ0JVdUVPVG5wX0ZtdWFYb25jWXlLNHhYVjc1UTVGRUlUcV9kWWZwNHNmTGpnOEtxMFFmRUZ4OWY0U1JSVlJJelhzVDI3d2U2d2MwcmlrSEs4bThFalhJb3BSZGU0WW5QUnR2clpCUHBsNDY4M2NGdm5XbHBocEtDeEltNDhhM1N3M2g3RC0wdEhMTGlkME1lU285R3Nqb1RsYW1NYlRiZw?oc=5",
-   "summary": "",
-   "published": "2026-08-23T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "livemint.com"
-  },
-  {
-   "id": "e9d5f778d746bccb",
-   "title": "AY 2026-27 Tax Audit Limits: Section 44AB, 44AD, 44ADA",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDdpd2VBRkNWcXZINV9JYXgwdlRjZjJTekcwejYtZDFzVHk0UUV2Z2VSbXlzaFpMa29EdnI5MGVFRlIybWZNSDBCR0YyOFZBRGpyNlRCSHppQms3VTNOdk5BZEwtUExEZ0c3NDMteTNsbzR5UTFsM1g1Rm5mM3FsLTh6R0VHVG1DeE9PTA?oc=5",
-   "summary": "",
-   "published": "2026-08-22T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "CAclubindia"
-  },
-  {
-   "id": "8cea845e3681f2dc",
-   "title": "Indian CAs may soon get to practice in Singapore as ICAI, ISCA move towards mutual recognition",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjNkUmFNLWoxYV9hc0xIMlIwc0VKU3Jzd1FSTUlSUV9FamRORnNtU2VyeTlSaHRhVHR0eUdBbDZ6dHZJUTd6eGVpRVV6dEtvZXZGa0I2R3NfM0xRYnVOUkl4NGN5dDFaQ29ia1R0azFIeV9sOE0tMkFxUlp2M2taVFBDcmJJWUNVbkNaSHF3QzNOcURNTXAtOTVxYlhiM1JzZVNjRU9SZFJ4dk9iY3NVTjY1cWJ0SVJjUl9nSU9vMktpRU9pYjRKMkI1bTlRVkpaVzAwQmw3WU03RHZKU1ZXWW44M2tUUTNqdkHSAfABQVVfeXFMTXNHSERHVl9rWWhWQUVnQU1DcFpkZ2x2cXNQRDVBSUg3bjFqUDNYQVJUaERRYkt5eHJCV290UnBINWthS2VfUjBaTmxOek5qdDhacnpTTDlidVhHdFc3U185UGFzUHBKWDlxRVVTTDRYZG5KVVpuWHdKOFc1ZXFkUnFTb083VFJQajl1OUFVbUk1U0Nqa1JBWFJTYlNrMGpqQWc4c0RQZDVYcVhOMDRSUV8yVmF0aVJ4aWZZdzlnYWY2b1UtM2liMG0yR1BuTFdMb1pRa3dDQlUtZ2lDcFM3VGxPZlpwaXQxcnFOVGlrODFO?oc=5",
-   "summary": "",
-   "published": "2026-08-22T07:00:00+00:00",
-   "source": "Google News: MCA / ROC",
-   "category": "Compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Indian Express"
-  },
-  {
-   "id": "de95e7762effe813",
-   "title": "ICAI, Singapore accounting body ISCA discuss Chartered Accountant mobility and AI readiness",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPakR3d3hTWVBGUWFXenYtdzdPblpUaVFRc1BtM2puWnlOTXhfTEtFVGR1cFpSREp1QmFUSGpVY3BmTFdXQlVuLW44V1Q2MjJwX0lGbTRFckRoQi02UzdqVG1HeWItSy1xdHl0YXFySTBWUXZHeVVXdHF6dTJvVG5oc0lISFVMbGlNQXVMcG9aSG1jM0Z0SzgtbDVFc2xNYzZxWUJjR200V3dsTzdRZTVRcTgyYjdud1J4dmRTZ0lqbTEtYVVTOFo1blRaYWh5bXpwY2RCZzRyZ2xMOUxtVHRnYWhYY1VRUERNYVBhZlFtemhfZkhlQklBSDhDONIBgAJBVV95cUxNTS1KTWk3RXB2NlBkMEVyU1U5c0hMbzlNampJVmJlVFFuMlVZMEI1UWEyZ1RBOUFuUzktdkhYTDNOcXJWR1J6Wm1KaWdfTTZ1clhBSzRiODlRaHg0aGNvZnN0MW9uLVRVMFozaFExVGYtd2xHcEtDMkVCbGhNUDVtd0xNOXYyUHh4WExDdGJScjN5ZjlLWmNIMDdqRnRkczFkOVpCM2c0Tmx5U3FKS1FCTEZaWEg5amNNRDhrN2h6SVRieEs1Q0c4WDlzRjVnYUU4d3lKTjVLbGgtM3l4a0NFT2lYTVk2Q0lINExuOTJWRFB3cWxwRW96Q0licXFtV2Zl?oc=5",
-   "summary": "",
-   "published": "2026-08-22T07:00:00+00:00",
-   "source": "Google News: MCA / ROC",
-   "category": "Compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Times of India"
-  },
-  {
-   "id": "0144cec61c40f37c",
-   "title": "NCLT approves Share India Securities merger with Silverleaf Capital",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGJ5SmNNMjBmMU9lb0Y1TW9aN244OTdtZWxrNV9hNHliSi1TRjVibWJWZXhLaUxaaDNVcTJYdE94MVh6SWlpLS1NRzZ2RkFaeGt6enBVUHQzb0R1RnRUbTBXY0U0VTd2OXVmSUpjQVhsRjNicHkybk1lRk9WbnF6NUZqUVJjZGJlZUZURy1JbWx2NUtIbl9tUEFnTmx5dDZpTUJ2OUttVWk3VW1wRm5HbUtzYUFpTG84OXV3?oc=5",
-   "summary": "",
-   "published": "2026-08-21T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "scanx.trade"
-  },
-  {
-   "id": "a08c46dea3115b01",
-   "title": "Piyush Goyal highlights India's growing role in global economy at ICAI conference in Singapore",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQzVTZ1hCTEJveEpMc2VLbGNYazEzRF8wUWZZSnpjUWFSaFkwYnZKR2dUV3A2djZQUTdKMlE3X3VxOUlTamJqOXU3YlNwLWpJV0ZyQVA0UGtXWnZ2cVRleE9kcUhHaTJBaTlvbWVQcmJhS0g5TG4yUDc1YTRCYWVZR2poSUpfdFotVUpDS2w2ZENKMzJZQUJfRWRrRTM4dVgtOHdOcjdVZTZvb291dGJuRjVmZnVPMWNpSFJPMUMwU0JsRmlTZkF4SUFjcTUwSVppT1U0a205LWFfQTVm?oc=5",
-   "summary": "",
-   "published": "2026-08-21T07:00:00+00:00",
-   "source": "Google News: MCA / ROC",
-   "category": "Compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "ANI News"
-  },
-  {
-   "id": "8e38bfb9e3419e59",
-   "title": "NCLT sanctions Lactose India-Vitanosh merger to boost capacity",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlE5WGZKY3hXQ19KTHQ0c1BUSDUxUUYzOHhFajN0bVNLcjV5d0Y3elN6Nm1GWjdaVHlib2xkYjRmOVF1QkF2eHRLMVVCRF9LSGlubUVQT3UxM1p5ZVI3dGVkZ3lTRnc0SXVpcUJFcmVKd3NnQjNNa1AyZy10dDlJUGJzMGNqRWVBSTdnYWxwaWo4clBmczNsaE9nTjNjdlZtYk11WWVUVGRxXzZjN0s2R2Y5X2piejg?oc=5",
-   "summary": "",
-   "published": "2026-08-20T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "scanx.trade"
-  },
-  {
-   "id": "08ff57ddb115339a",
-   "title": "CBDT Targets 394 Entities and 36 CAs: The Form 15CB Wake-Up Call",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDIxTVlhWU5mNFJSTHoyWXhiY1JBOHdOX0VzZ2VTaXVWMmE0RGVRblRVcE9CejA2TEhyTDRUM0VhTU1pajBNTDM4V28tU09OTThBcVhwOUxHU2ZONWdJM2FSenZWcFRqal9qY0ttQlkyU0ZhU2Y2WXlBdG9Dano3T2tvRWhXUnhtX3RMUGZHSFhGNlRQSllGQWhkdWlFWDlZX1JLZGpodDhKN0oyZHc?oc=5",
-   "summary": "",
-   "published": "2026-08-20T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "CAclubindia"
-  },
-  {
-   "id": "e2a81ff1e2bc56bd",
-   "title": "SpiceJet welcomes NCLT relief as Aviator ML withdraws insolvency case",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXN0VWo3YU9VT2x3SjBITDRVbnFjVTN1ekdVSTJTb1dNQ1FSWmNJUks5SnpkZFZhMWYxcmcwQUtqQnptTkZTYU00WmlsQi04SU5pN0F6S3RLaE9MWV9fdTJ3YmVVclV4aXM5cFItQVJKZWRvVmdBU2hiQl80ZmFad0NkOVlDUDloTmVySGVtSy16N2hFSHZMd2UwMVJUY1pUdmx0LTlYYm84bzhkNVljaEVQd2NkX0NwRDRkdXRWNXpjM25pVEZ5S9IBzgFBVV95cUxQUGUzQmE0Ujljb0JNLV9teTNLUXJ5NVhyemI4UGNPdFc5cEp4czQtMk5IR3EwXzgwdVl1LV8xME9jdlVBeWJ2RWxXaXFnRjJ6NE9USWVLWTJRT3B0cnVlMl9mQ085QVJqUm1lVmJIMXh1dVNpYThkdExHYkViSnJueHFfc1lHSjJPUHZzVHBZUW5jbF9USXpFN0xseFpnRDB2WHhyZzJCUkJsR0tfaF82T3pFYlBUU1Y1dmV5dlN2dFNnTjh3MGl2cXpQaEVWZw?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "India Today"
-  },
-  {
-   "id": "deb21cb2b12732b8",
-   "title": "NCLT Mumbai Admits ₹11.94 Cr Insolvency Plea Against Reliance Entertainment, Says Security Deposit Is...",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWTFkcXNFMWJsS0ZaQWZWa2NfQ2pXQjNGV0kyMDdiVXhQcUhvanZtdHZhcV95MWdvdTV3V19DN2pWNG1MdVpjcUNUVjR6SnQxTmNBaEFCXzhkVmRINFlWMWhFaGhYQWVNbUdVT08xaThoRHd4QzFLQkNpWEN6R3RvYVZmSFBnMVFhRmd6WUxkc1hnOW5GdXhPbXpCOXltdjBfNzNiaW0yd3FWNmk4RG9iVzUzX1B4V1N1ZTdLZUdoWWZjWlFCY0FVSDRQUjVqYTlQbHdnUTY2Q0doMnEza00wWV9EYVpkSG1obmhmT0hjSmnSAfYBQVVfeXFMUHdVeTYzbGdrYWY5ZWZZdXY0cWpxQ0g3V01BLWtzV2pENXdjaDZQZDVKbGhGWFNvMkpRb2NIMGJKWkpCY0ROVjRnY3loTHNsUDRENUhsenhvaWNOYXhjUENJU3lRY3l6N0MxOUlTcHEzVU1Wb2JTejY0ZEhIczVRNFNid21PZXcxamFZNl9vZmZGNzM5U0tfcFk1cVZ6ZU5ORm5xYWN2eGdjT1FzYks4eTBFaXpGNEVDQkZqOXJPVnNWN005NFJhUlZkWkt1OTlKNXNUSUJEM29KN2k0WHYxVTI0c2VOa3ZXOWs2LUl3Q05WVE5oVTdn?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "LiveLawBiz"
-  },
-  {
-   "id": "f660eb19abe77f54",
-   "title": "Gadkari warns road builders: GST trail to expose multiple layers of subcontracting",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWm1wdDZPWnEtQ1ppMjhKVjlmdVltVmN2UXUwZGRuNXExTUtkT2xhTkQwVnEyZmVTSlNxNldLQjk0RzZxZE9qd2EwS3haYXFUYkd2U2ZHZkdfczYyZUI0OWdmUFByUXhhVExSSnlqNHk3SFlHUDV6ZWR1TGZRNEd0RUVMMHZGbEhNOHo2ZllSQzctUndiTEVBTVJjNjRJekxKbXBST2d5QVo3T0RSTXJSVDJRd25UakgzamVxVGdjd3BCRTZUVXhOZVRMaW5XQW1FX0JxdTN5aVpiWHVWRFUtTU1GZXNVUVVOb0JrZ2xzblIwRUVjTDl4X1BId9IBgAJBVV95cUxNVU5Fel9hWjdNYjA0RzFJa1I5Q0FncmRuazZKZzZuOGVoU3RTSmlmbmdUbEliZDNKOE5sWHVMNW9ibXJiSmdMNjhTSTg1eko1MHJYRWlRaWs0RE0zR3V0YnRyNDlKLU9VMGVFVnFOa05UUzEwNmxqSm5mTDkwcEpRblZIaVgxWkNOSEhLZTloOC1BRml0V3lwTnlfY1I2VUVtX1MtY0o2bHBJTG51eTJ6bE9tS2xnWnJ3bnE5ZzI2WnNSQ3c5Q0lMWS1LQ1VxM1c1SjBKNVlUU0FzSUdWSXhYUV9kNmVFdjdCbkV5SEF3ei1ya2s5cGZEamRKN01WVXhN?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: GST",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "GST"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Times of India"
-  },
-  {
-   "id": "6332fcf224f56ac5",
-   "title": "OPINION | India’s GST must restore the free flow of credit",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHVhSk12UWNiWE43N0tMOEFJM1lkaVVvTDVVTmpBRFNFVzlDZEc5amFvNWlTaFJ4NG5NMHh3c01rNzJHaGVacFNfaE8yN0o0Zng0NHdtN2MxcGtYUndBRHlReFRlbjVlQ2VXX1U2aTI3WTY2RmpRcVhNLTItQXU5TWpCaC1kYXpVMndBU3FMdWxqSEZ3dEZrME1KcEFiTEZUZGNQUC1YONIBrAFBVV95cUxQaFBJTVdweGl5X2RLRXhoQnc1RlZHTHJGbUNQck0wX2l4eU9FaVRfVktSeXktb1hfOVl2ajh6VV9XWDVxR2x5eDUyQTZLbnVFRVhWcl83eFlCMnFMV2ZMeU5KVE5jLW0wRkJ1WWhCWTRjMXNNWnlzMFU4TDl4eEhyV2RTV1RPMWQ0UkhoVXhxT1RRcWJUNTVQZzVVcG5jblBfQ2RUSjNtSnJkelRZ?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: GST",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "GST"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Moneycontrol.com"
-  },
-  {
-   "id": "d857374695b132b9",
-   "title": "Income Tax Department Undertakes Verification Of Suspicious Foreign Remittances",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEs5MVlxbzBTc3kzU0Yxa3FuTldMVnVSQ1ZESHBFRnBYU21BblVwZUJTT2MxX013eGIyVVB0anpxOXJ2Y0lXZUt5NzhVRHFja3FNc3RRQ2ZtR0FMMlV3QzUxUWRCTF8xRTFFTDJBekRnZHNxck9wbmhsSHNrU053emRsVDcyNl9ia3FSdG1ER1NtUUJDbU9JajFJMHNsM0ZISktwU0kwZnhWMlVqRWlvOThBcWd0UDlGX1dBS9IBxAFBVV95cUxQNlFacS1QeDRnVUVpMWNZV3VCd0VGUTVBV1VsVTFyTkJSZ3I4cGczODFPZHJ4R0ltT0FtRGlEbk02cHpyUkJSbGNEOTM2QkJ0UzV1NndhTnAyOU16Z1cwN2w5Y2dEY01fTS1KZUROaFA5amtyZW13WUdQOHFJcEdVSmgzTW9WYzFxdWU5SnJrc0h4X2RWT0ozSzYtXzBNN2ZOdk9yWkd1elM1bXJWUklVbVc2TmFnWFJxLV9UcTZfcG1PeGJY?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "NDTV"
-  },
-  {
-   "id": "e62ad24f11548373",
-   "title": "Income Tax Department flags 394 entities over suspicious foreign remittances, 36 professionals under scrutiny",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbzNzTHFKOG9nUDh6c1JWX1ZGNnBVV3VaQW9sc3BMcEJNYlFGa3ByVTRwZHdqWURxYlk2bTVTRjFnVVFXVkZxWHVmQkxWZzNNUEpTTHZPWHYzRkhZZEpxdjJnRDZoSDlzaTV2RnNrZFRaNmtGZnVYWlZ1S0pFb1hwd0V1Y0I0eGt1SVdvbzZXVTc3YlZkVndXRnV1T1kwZDd2UkQ5Tm00RC1MZlFYU2RwbzhUQ3RubUZQWmFadDRsa3hSOFYwUnUwSHV3Z1ZoZmlyVEtJQ1BrczNmZ0NUTlBER2I4a2pYandsQmpQRGlYc0HSAf4BQVVfeXFMTzRZbGlPZGhvWHl1SFdPRXZnOEJ6Y2VhakRGOTFYMl9DU2RLTnRJUFVsX1ZhS20wZFh3N05USlU4UmQ0TUtfYTd1VW1meklRczduSTRRUFlvNkhiYktUYnI3Mk1MTnZSV29xc3JrMXFJMGZNcEV0ODUyUlFDU1FUUWpkcWFDUGJ2MG9heTdVRjFHRjhBWlRRZVlyUnFHT25Fc2xLTjd3c1B1THIxNG5ya1lOb2V2SEFZMmFPcjJxcWkxa0dXWnVmV2ExbFhfWl9FOG4zT1RLRmk0YkdOSnI2bDlLMU1ja2cyRkxDMm9GTmw3eEpZOWZuNWlXbXBvOXc?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The New Indian Express"
-  },
-  {
-   "id": "cba45de694ff599c",
-   "title": "Income Tax Dept launches nationwide verification of suspicious foreign remittances",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2Q4SHBCaENhdEhtWjlJdlVacWdYbFlJLUlfMGR5RWtKb3BQamtFaUs2akxhcEFrQmZzOWcwUWpiUFM5Z2xqdUpZX1lDVllaMmUxckdtVV95c2MxTE5FQ0tBR1FTb29IUE4yLTdFTTc0enlsb1FpMTRMVEhHalBtaGo5OUp4SFp2VlpTenVwSnJxVGRMTGJGVTNkYzIzMnBpeFBFdmsxOFZjZ21OZ1BxWEdWMA?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "DD India"
-  },
-  {
-   "id": "6b505a4014893c55",
-   "title": "India must balance tax base protection with investor certainty: Income Tax official",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWTlkdG1nTUhNS3A1N3N6enUtQS04X3pVSkN3blJ5VGpCVldLOXFkOEcxZS1NU3lNRjlHenRJQUVfUW95elZtcEpDVmpHYzEwTlNwYjI2cmNGY00wSng0Uldzbl9Ga25xNG1idkhXWmFITVFBN0hNZGV1MlNQTTlYMmNaNURsM20xMi02LWpQWEpDUzVPd1IwNW96VFdsZXBGN0FzNHBVYTlyZXQ0UUZ2bms1QU5Yb3VEdmE5eTR5aTEzTzZZeW44em9qS1RSdnpyaGcxdXZRemt6OGPSAeIBQVVfeXFMT3JTeXRoWklhdG9lRXctLWlGYnd3OHIyWVB6QV9zLU5JS0pUTmpYdk81RWdUeE5HZDlBVHJtWjY3SlM1NGRzbERlTDJXcnROOGN6RHVPU1B1aW81aTdIc2lrWnJXbVB0Qi1RZDI3N2RnYzJfZVdqdnNWLUd4SksyVURmWDQzM2NwcFpIV2xiOEwtNmx4NjU2V1NnUUUzdmRlbV92R3Y0Y252WGNPNEx4NWJ1NVhoVzN6Uy11MXdJTUcyRzBuVzBOQ0d3SlBiY0Qta3Ytb29kS3NLbDF5MXl0VEwxUQ?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "BusinessLine"
-  },
-  {
-   "id": "ba407d09fee0864d",
-   "title": "Income Tax Department crackdown: Suspicious foreign remittances under scrutiny - all you need to know",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUzdCQ2VZdXBmVTZTWVZlUFo1M1RNZm50M28tbUpHaWtjUzVyZFBYblFyenpVMkpGb0ZmNVhGNVluYmxkWHU2ODB5XzdUWjNtZExuakpQY0x0VlNValNqSkFyQmhhM2hiMFhNcnFQemxBYTRjeVlMRGVhMll2LTc3dE94TjFsS1hZcVBrNGJEdEJ1T0tiTHlYd1YwT2RMeVcwLXBxblpjSE4yYWhyaWxxaHpZb1dfVTdua2hwMk53dzZwdXIwTmVLVDVicXdtTThSV1BvaFU2OVdFbE1Vd1FGamg2elNLamZIZ19sN3JsQXUzUVVYdnB5SjN0c2JmM1Q5NDloY1M2endMZGVSNDJoeWVn0gGXAkFVX3lxTFB2VEtZV1F6QkZyZHFFWjY5VGJuY0RDMHRPMi1ITk02dUM4cUZmdjV6ei1tbTJLNm5XTHgxZ2hEQlVrU3FOV0RNNE9naWhjdWtPQnJRcmwxQmpmTUFPbkl3VGh5Q1F1a0JycGRiTy1EU09tOHU2UTZmN0pWWnJVblk5cXRWeWJveDN5WHFVMTkxTDhhWmxXRjFrNkpydFNSd2I2QW81ekVYVFpfbmN6VmdKbEd6QjBuU1gtREJSWEZwTFZQYkdyb0NzbjY4eFFMM25IMXFPelc4dUY4dTFlZ29IV3hrVTA4NWU1eDdXTGNwZU1mWFhVTE9aUjY2bUZvTVFpSFM1SmVNTVN6c3Fha0ZfVjFCOTFrOA?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Times of India"
-  },
-  {
-   "id": "561957ee06d92739",
-   "title": "ICAI MEF 2026-27: Registration, Last Date, Login & Application Form",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Qa090Y1luZHNUMmVETmQzMHMzVXQtdkdMdHM0Q21nZEpqMXd4OVpoYTRPSDlHMmZoQVBKemM0Z3JGRk5XcENXWjNmN0V5bEhPOWNYQzlxcU8?oc=5",
-   "summary": "",
-   "published": "2026-08-19T07:00:00+00:00",
-   "source": "Google News: MCA / ROC",
-   "category": "Compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "PW"
-  },
-  {
-   "id": "77f016cfde7263a1",
-   "title": "Did you miss filing ITR with foreign asset details: Here's a chance for small taxpayers like you to disclos...",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEc2NWtOOUJaclg1bHRnY2pGS21CZEZPMW0wdWk5VkpkMmtyaUE4d3dfbjVzRUN2cFBJRHByLUdmcndTYzJJT3paeWVSNC1OVml2ZXZlU1JSWW1fY0VTSUFkbU15c1prdnQ4ZnJqeFVMSWdRUVlYQlRsUnVoMWl1QVlVVjRQdmpEUjlmdE1yVUM2UW5hQnFFMkF4MEV1TFYyc0dUMWp0WURvTW1LVUJkTEZrVdIBuAFBVV95cUxNQzFKRzdtd0ZlUkh4eU41SmVJalZsMmtKYnE4ektkWGdlTldJZ04zdjlzblVBek1ic0NUNzB2akQ4TVVzaElKaERYV3JmZGx5QWhJT2NTQUlIYVRIY0RwVEJoS2RENUxhZFZvemlvaXJkOHlRVGV6RDBPLVE5bmE1V2hGQXFfbTI1bUQwb3V5U0VTcngwU1Y5bFFqaDgtVTFNZURvbXBZcXktcDFaVGJUZzYxVTloYm9E?oc=5",
-   "summary": "",
-   "published": "2026-08-18T16:54:21+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Bhaskar English"
-  },
-  {
-   "id": "0995af87c0653729",
-   "title": "The increasing importance of ‘economic substance’ under Indian income tax laws",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa2lsZzZxZVhqXzU1ZXZ6Znl6SE9PY3VCeUJ2OGxDWUV2ZWZWMjdZYTRTbndQY2l5RENYQU5tR21OR1BCaVl1M2hXOC14VF9hZEZBZm9JTXNLLU5GUmVmS3RxQlNPREVZVWxfLUY2WEUtRVpaeGl0c2IwXzctTEl3d0U2WTNDYW43VDNSQTJHVzhybUFPbGVRNUtUeERsbUhjamMyYi1QeDZ0ekphbkp5cXFGdTZoWEdtR1p5NENsazNYVXRWMjZmeXRxcXgxSG1iaUVTUEhkYXE0WnZmNERObHRXY01idVI0WFdjQw?oc=5",
-   "summary": "",
-   "published": "2026-08-18T08:08:17+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "International Tax Review"
-  },
-  {
-   "id": "21cbf6878d25cdcf",
-   "title": "IBBI proposes curbs on malicious insolvency filings after another resolution professional’s arrest",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0xOcWU0Ym1RQ2lVQVRwRVBnNWRjQklRUTNKYzlzc2FqLW5JZ0V5dVcyUzh3OXhocmUyNkxpd0ZLNDhibnV4M21LTWJUVk4zQUJhUDhneExqcDJXMjQ0SXprNF82OE9ubE44MGl0WFozSjRwYWRfazJQUWZYU2hNTmpFVlo4cnY3TG52Y1Y1Rkd4Mk56SGsyRnJ3UnRWR0FGcENsVmJhQ0REMmViV2FLdHpSc2tTQzF3bW9oNC1zaF96ak5lUk9tWXVMSm9EMFJDTWNNeFlnVWx4UTjSAeABQVVfeXFMT25BNUUyY3FUMTk5ZTBVakJpX0Z2bUZkS1VWTW9Va3dFU0lqU2NuNWg2MGZIYXBrLVp4a2R1bDF3SkZCaXlQdFJ2Z2QzXzhXTl9TQUVRUDQtRUtHWGpuTkdYNXNOUDBrbkktUjAwemlYVV9TbmI5bjNVTm15ZkVnVHFnbmZKa3BVUGdpdml6YlhtUlgwMlMyV21kS3VIZTl1anE3STIwdTAtN29yU2V5OGhnSml0Z2ZIbFNJZDViQmV6YmJFTi1mTEJ5SlhvRUlBTTZnSG9Bd3U3d0RWUFVLbW4?oc=5",
-   "summary": "",
-   "published": "2026-08-18T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "ThePrint"
-  },
-  {
-   "id": "f3c0fd2ab4395cd1",
-   "title": "India Court Says To Re-Hear Lessors’ Spicejet Insolvency Plea After Withdrawal By One Lessor",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNekpjZVVPVkp0TnhjZ2d3bEpEeWZXZHhBWGZDTFQ5a1hJc2VQVk5xWEkwV2IzbDNSZ2FEaG1Vdmp3QVdfUGt0dFBma3RxR0V1SUF1b0hndURpeENsaHBxMlg5Qk03My1MMGdfd2tlbVF3Y3pzMUVsdHBVUV9WdzRNRDRVR1ZPX1U4bTBvVFlOcy1tNjNua0hXNmNvTmlVbVhiZTZZcENIZ0ZRVVBRNGNGTjlDalZLQS1hbXVHZE5FMGJJanBUTnNlUmpZMGg4RVgzVXJVTWRzZEN6WVBONE9IUmZjTkZ0RmZybGVLRVktVzdPcnM?oc=5",
-   "summary": "",
-   "published": "2026-08-18T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "TradingView"
-  },
-  {
-   "id": "1b0a1e69552fb863",
-   "title": "Income Tax Slab for Senior Citizens Above 60 Years for AY 2026-27: With Deductions, Rebates and Examples",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWlNdHRYaXpxUGJvT0xrQU5sWkVmN1JRYjlVa1phVlZlWFVUck8wRGdIbTA3S3JNOTZ6YmFaXzJJT3M0d1BjSlRZWWRVdVhHR09uNHdjTG1DdV9GMnZ1MWJDdzU4MVRZMURKckFRREd5NWQtRlNxaEFON3BKLUdOUzlRaFdaX3FrTzVFMnNtMHFHaTNwU1daQlkwa0dEc1RhNlplN1Q0RVp5UE1HR0FmSlBSUlBPVE5Fc1NobmRjZFUwQkhPcEVyNUZPNV81aEpZd3JZRnE3ZEpEci0wS3U1bU93?oc=5",
-   "summary": "",
-   "published": "2026-08-18T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "CAclubindia"
-  },
-  {
-   "id": "510e5e616350e07e",
-   "title": "Income Tax Dept flags suspicious foreign remittances, launches verification of 394 entities and 36...",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZGM1azV2NmZ3NmFUeWhhSnVjYnZ2NDVaTXFoNFN0UzFxQTBFdWNyclZsUUJ2eGtZTVpOM2pmQWR5YXJLOEVvUDF4aTJrUnc4eVU0U21vMjlmbm9PMGhCcWxocktlQTA2QVVDLUlEdnJmRmY5WVNGR0NRdU5VTVZjeXU1VmIxV1doWHE0REE2UzB2RE0wVm1FTnhsOWVpcEJoc2gyTG5SbjB1NXdQblBqVUVPZUViaGJRWVhrX1prRGU5S1NwRnI0VURLN3EwdDE5NFBDaFo0MDZBeXktYWhBcVRZcEZDSm42N25kYkl1QU1GVDR3MUdGb0FPdVPSAYICQVVfeXFMTmNZNmc3MEFPdUhuTHI0R3FlM1pFZ2ZienEyTUdLWGxQcVdqMkREUWpVZmxBNjVxOUs3U0tlTTlHLUNWdGtSOGhSYzg4UzhXbmctQ2V3MXd4dWlFaDZLakdZcUZQdnpicFpfZWg2VEx6ZjhEM3JsY2tZaFN1OWRlU19aS0RESW9hdkFlbFdWUnB4QmJocV9tQXZGMTlGYS1yb2h1UWlGQjVtODh6TzJ4RXBEY1R6S1IzblZHcTZteF93MjBxOVVINF9wTGxXa3p2TVB3MkFwbDhELWpJVEFkUUQ2ZmZXTUtHRHdlMHR0S2Vxd0ZPSlBNVFk2aklMMWR3Nnl3?oc=5",
-   "summary": "",
-   "published": "2026-08-18T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Moneycontrol.com"
-  },
-  {
-   "id": "df5ffdc9f48a0ae3",
-   "title": "Insolvency, bankruptcy board aims to check misuse of law",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT3diYVhUamtwQUN1VDlBWHE4ODhhRHViajR3dFM3YTVjNkF5TlBQcmRvSC1sOEtpaHp0UEIyWVlvVU1qeGIzd3oxNTJiRnVEUEtFdmRoWHdTNllnSk9NZW1qV0xMWGc4b1VFdFlaalhCc0JTUG9ENDBMWElyV3luQjJVZUNwRFZKMXFxcmxjeU1tLUdMejVKR25pQjFGTjFuOFNDbDhWQnBKQzBGWmRRQ3BlSGkxam5UUkdza0JiVkhRT2JLd296VmtCbkdrY3RzVVZOVy0zdnHSAd4BQVVfeXFMTjhuUzJmRlYyQ0lVVE5Hb1RuWHNINUxsbW1RWTBnalp3SV9OQnZSNjJWRjZib19SS0hiYmdQNlVPQVhmb3RaT2xZLUFwV0ttLXdVeGxwZHhOdFB5SnctR1ZiZVZZVEN4SjFjTDFwTk9OX1FPME93MkI0M2tseGFqb2JBZzU5ZzNjLWVxOTQ0OUJsclZVYnJ3MnN1b0FBTUd3QTdKX3N2YzdGSGVrVnM3aEZBdWVWcFhTUzkxclhXWkdfX1FhMDJ5RUZfeU5HSE1oNy1KaXJMTDRCVEdRdnVR?oc=5",
-   "summary": "",
-   "published": "2026-08-17T07:00:00+00:00",
-   "source": "Google News: Insolvency / IBC",
-   "category": "Insolvency",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "The Times of India"
-  },
-  {
-   "id": "a4af188a5c2f88aa",
-   "title": "Missed foreign asset disclosure? How can taxpayers use the new CBDT scheme",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0FjNi04MnV3MGd4RFRKS3N6UTJWVXB5cG1rbFNYMjdfckV5Ynh5alVDdWlGbXdBYWtIWm5aMkhjTzNOREszQ0xYY0tORU00RWxVeXFoRHR0YmFqanRQbmtrTjhQOFNTUDZNYW9Pblpzc1g1U2xZVkdiMjlwZ01OT0hrOUwxc1ZBWm9IVG9DOE5RSGMzY2V6YmxkT0pyVTY5NjNWZ1hRSWpHN0Zxb2hSaENQTjgtTGwtSTF6OHRQWEgtUG1oNTJxRXUtSXVrZ9IB0wFBVV95cUxPSk5yMVBoaDM2bG9kRmRYYnoyUEpJVmkyZDVHR3NBWlBrM2o3RFdWbU5VandQTVFnbElFMXJURlhPdVI0ZlctTF9FNGhVNlUwanM1NUdqNnJnMXlRUThWNnhYWXJxd1N5TzdrMkpMY0k0M3g1VHpnS0N3Z0hrdE9xU2ZMYU9yTk5YLUZmV3VrMUhobmZOcTMtaDRVZUswTzYxOVZlcHgwbkNmMVdYdlNhMlVwUldGVExDbGJBYk50WGtJVS03eWJSODJpSmYwNjRSMk84?oc=5",
-   "summary": "",
-   "published": "2026-08-17T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "India Today"
-  },
-  {
-   "id": "d9f6173b2d0348d9",
-   "title": "Check AY 2026-27 Income Tax Refund Status Online",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVncyVEdMMmtUWFBwbG9ocE1KVWRYVTlIWHcyWjZfRmZkU2U5M29peDF2aV9wUFZENkc2OEk1bE8tZ1pMSkh6bEtpdlFNXzg3cE1ET3k2WWgzblBndjlOMzg3U0JRYm51SXoyTjhTNmVSdmtwUWl6X2tZSEJFWWhiOTFaaExaVUtnTEpGRFlRZ01rMmxhYkkzUGM5SDdZUWxjaTN5ZXh3NHI?oc=5",
-   "summary": "",
-   "published": "2026-08-17T07:00:00+00:00",
-   "source": "Google News: Income tax",
-   "category": "Tax & compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "CAclubindia"
-  },
-  {
-   "id": "4d46f4521cca2fe9",
-   "title": "ICAI CA September 2026 Admit Card Released for Foundation, Intermediate Exams; Check Details",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHRZX0pWNzM0bXo0Rm1OeldHUTBZRkx6ZUwyay1jOG9lZmlwZjVLTHNGVHBlTXF5dmF4MEhCNFRvN2xMRE81b3lXaE1sMkphMFZPTE9nVDREVGVkdTFBeEx1ZTdnRm1NcEFrT2UxUHBJWTlLNS1mdDZVbGpLTERjS2VHQVpaMVBHUUhzMTVoTWhNY3hYS1prcVBPMEpCWnhpdEZCVU1uS19iYlU4c0ZNR3BJZXRoRG0xYWE3VVo5UEhsbXFRNy1GSkQ0RmNyVGx0YnM1YVd1elZjMTlsZWw4QdIB5gFBVV95cUxOTjJkNll2RzlNZEpzWGRTbHVJZEQ3aVBBSC1YeGxvSmJESFFIY2pRanhfVElWZWljRnVUSV90SktFcVUzeVBaVFQyVXFRYThYX3ZkTk42bHdXYUpZLV9pZGN4ZlpXaEFmY0JSa1VkZ2JMS2JhMTRfWk04RHV4UHVHUlI4Vl9rY2NjQVN1Q3RDTTV3QjVoOHBXeGpFenZ4T09zVzZ4aWRRcDJWdTN3dFJEbkxqUGpaMGZGekUyekdoR2ZySHIzNXp6aTZvLVNhMGU0Ym02YWlPMEV0dkhWRUppOWwzTVBHUQ?oc=5",
-   "summary": "",
-   "published": "2026-08-17T07:00:00+00:00",
-   "source": "Google News: MCA / ROC",
-   "category": "Compliance",
-   "author": null,
-   "image": null,
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-07T06:22:45+00:00",
-   "publisher": "Telegraph India"
   }
  ]
 }
