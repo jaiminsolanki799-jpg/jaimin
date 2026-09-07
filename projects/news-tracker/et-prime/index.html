@@ -51,7 +51,6 @@
               <option value="all">All kept</option>
             </select>
             <button class="toggle" id="unread" type="button" aria-pressed="false">Unread</button>
-            <button class="toggle" id="saved" type="button" aria-pressed="false">★ Saved</button>
             <button class="toggle" id="mark-all" type="button">Mark all read</button>
           </div>
           <div class="chips" id="chips-category" aria-label="Filter by section"></div>
@@ -73,6 +72,30 @@
       </details>
 
       <button class="top" id="top" type="button" hidden aria-label="Back to top">↑</button>
+      <div class="toast" id="toast" hidden></div>
+      <div class="sheet" id="ai-sheet" hidden>
+        <div class="sheet-card" role="dialog" aria-label="Ask an AI assistant about this story">
+          <div class="sheet-head">
+            <div class="sheet-kicker">✦ Ask AI about this story</div>
+            <button class="sheet-close" type="button" data-ai-close aria-label="Close">×</button>
+          </div>
+          <div class="sheet-title" id="ai-title"></div>
+          <div class="chips" id="ai-tasks"></div>
+          <div class="ai-grid" id="ai-grid"></div>
+          <label class="ai-app-row">My app
+            <select id="ai-app">
+              <option value="">Ask each time</option>
+              <option value="claude">Claude</option>
+              <option value="gemini">Gemini</option>
+              <option value="chatgpt">ChatGPT</option>
+              <option value="perplexity">Perplexity</option>
+            </select>
+          </label>
+          <details class="ai-preview-wrap"><summary>See the prompt · <span data-ai-copy class="linkish">copy</span></summary><pre class="ai-preview" id="ai-preview"></pre></details>
+          <p class="sheet-note">On a phone these open the installed app if you have it. Claude, ChatGPT and Perplexity arrive with the prompt filled in; Gemini opens with the prompt copied, so paste it into the chat box. Choose “My app” to get a one-tap button on every story.</p>
+        </div>
+      </div>
+
       <p class="foot">Compiled automatically every 30 minutes and stored in the repository. Saved marks stay on this device.</p>
     </main>
   </div>
