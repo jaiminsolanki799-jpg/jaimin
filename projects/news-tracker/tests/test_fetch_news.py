@@ -80,6 +80,43 @@ def test_canonical_link_drops_tracking_params():
     assert fn.canonical_link(link) == "https://example.com/a?id=7"
 
 
+def test_naive_dates_are_treated_as_ist():
+    # RBI's feed gives times without a timezone; they are IST.
+    dt = fn.parse_date("Mon, 07 Sep 2026 10:45:00")
+    assert dt == datetime(2026, 9, 7, 5, 15, tzinfo=timezone.utc)
+
+
+def test_split_publisher_from_google_news_title():
+    assert fn.split_publisher("Can slow IPOs revive markets? - The Economic Times") == \
+        ("Can slow IPOs revive markets?", "The Economic Times")
+    assert fn.split_publisher("Plain title") == ("Plain title", None)
+
+
+def test_google_news_items_are_cleaned_and_section_pages_skipped():
+    xml = b"""<rss version="2.0"><channel>
+      <item><title>Story one - economictimes.indiatimes.com</title>
+        <link>https://news.google.com/rss/articles/abc</link>
+        <description>&lt;ol&gt;&lt;li&gt;related&lt;/li&gt;&lt;/ol&gt;</description>
+        <pubDate>Sun, 06 Sep 2026 22:30:00 GMT</pubDate></item>
+      <item><title>The Economic Times - economictimes.indiatimes.com</title>
+        <link>https://news.google.com/rss/articles/def</link>
+        <pubDate>Sun, 06 Sep 2026 22:30:00 GMT</pubDate></item>
+    </channel></rss>"""
+    items = fn.normalise_items(fn.parse_feed(xml), {"name": "GN"}, TOPICS, NOW)
+    assert len(items) == 1
+    assert items[0]["title"] == "Story one"
+    assert items[0]["publisher"] == "economictimes.indiatimes.com"
+    assert items[0]["summary"] == ""
+
+
+def test_future_dates_are_clamped_to_fetch_time():
+    xml = b"""<rss version="2.0"><channel><item><title>T</title>
+      <link>https://example.com/t</link><pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
+    </item></channel></rss>"""
+    items = fn.normalise_items(fn.parse_feed(xml), {"name": "S"}, TOPICS, NOW)
+    assert items[0]["published"] == NOW.isoformat()
+
+
 def test_parse_date_handles_rfc822_and_iso():
     rfc = fn.parse_date("Mon, 07 Sep 2026 09:30:00 +0530")
     assert rfc == datetime(2026, 9, 7, 4, 0, tzinfo=timezone.utc)

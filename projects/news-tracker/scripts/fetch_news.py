@@ -46,6 +46,10 @@ CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}"
 DC_NS = "{http://purl.org/dc/elements/1.1/}"
 MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 
+# Feeds from Indian publishers sometimes omit the timezone; treat those as IST.
+NAIVE_TZ = timezone(timedelta(hours=5, minutes=30))
+GOOGLE_NEWS_HOST = "news.google.com"
+
 TRACKING_PARAMS = {
     "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
     "fbclid", "gclid", "ref", "from",
@@ -108,8 +112,20 @@ def parse_date(value: str | None) -> datetime | None:
         except ValueError:
             return None
     if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
+        dt = dt.replace(tzinfo=NAIVE_TZ)
     return dt.astimezone(timezone.utc)
+
+
+def is_google_news(link: str) -> bool:
+    return urllib.parse.urlsplit(link).netloc.lower().endswith(GOOGLE_NEWS_HOST)
+
+
+def split_publisher(title: str) -> tuple[str, str | None]:
+    """Google News titles end with ' - Publisher'. Return (title, publisher)."""
+    head, sep, tail = title.rpartition(" - ")
+    if sep and head.strip() and len(tail.strip()) <= 60:
+        return head.strip(), tail.strip()
+    return title, None
 
 
 def tag_topics(text: str, topics: dict[str, list[str]]) -> list[str]:
@@ -218,8 +234,18 @@ def normalise_items(raw_items: list[dict], source: dict, topics: dict, fetched_a
             continue
         if source.get("prime_only") and "/prime/" not in link.lower():
             continue
+        publisher = None
         summary = clean_text(raw.get("summary"), SUMMARY_MAX_CHARS)
+        if is_google_news(link):
+            # Google News: the title carries the publisher and the description is
+            # just a list of related headlines, which reads as noise on the card.
+            title, publisher = split_publisher(title)
+            summary = ""
+            if title.lower() in {"the economic times", "economic times", publisher and publisher.lower()}:
+                continue  # a section page, not a story
         published = parse_date(raw.get("published")) or fetched_at
+        if published > fetched_at + timedelta(minutes=10):
+            published = fetched_at  # clock skew in the feed; never sort into the future
         out.append({
             "id": item_id(link, title),
             "title": title,
@@ -229,6 +255,7 @@ def normalise_items(raw_items: list[dict], source: dict, topics: dict, fetched_a
             "source": source["name"],
             "category": source.get("category", "General"),
             "author": clean_text(raw.get("author")) or None,
+            "publisher": publisher,
             "image": raw.get("image"),
             "topics": tag_topics(f"{title} {summary}", topics),
             "first_seen": fetched_at.isoformat(),
@@ -243,6 +270,7 @@ def fetch_source(source: dict, topics: dict, fetched_at: datetime) -> tuple[list
         "url": source["url"],
         "category": source.get("category", "General"),
         "ok": False,
+        "fetched": 0,
         "items": 0,
         "error": None,
         "checked_at": fetched_at.isoformat(),
@@ -250,7 +278,7 @@ def fetch_source(source: dict, topics: dict, fetched_at: datetime) -> tuple[list
     try:
         raw = parse_feed(fetch_bytes(source["url"]))
         items = normalise_items(raw, source, topics, fetched_at)
-        status.update(ok=True, items=len(items))
+        status.update(ok=True, fetched=len(raw), items=len(items))
         return items, status
     except urllib.error.HTTPError as exc:
         status["error"] = f"HTTP {exc.code}"
@@ -335,7 +363,7 @@ def build_dashboard(key: str, config: dict, sources_cfg: dict, now: datetime,
           f"{len(new_ids)} new, {len(merged)} kept")
     for s in statuses:
         flag = "ok " if s["ok"] else "ERR"
-        detail = f"{s['items']} items" if s["ok"] else s["error"]
+        detail = f"{s['items']} kept of {s['fetched']} fetched" if s["ok"] else s["error"]
         print(f"   {flag} {s['name']}: {detail}")
 
     if not dry_run:

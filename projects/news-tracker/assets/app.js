@@ -152,6 +152,7 @@
     return '<li class="story' + (read ? " read" : "") + (isNew(item) ? " new" : "") + '" data-id="' + esc(item.id) + '">' +
       '<div class="meta"><span class="src">' + esc(item.source) + "</span><span>·</span>" +
       '<span title="' + esc(fullDate(item.published)) + '">' + esc(ago(item.published)) + "</span>" +
+      (item.publisher ? "<span>·</span><span>" + esc(item.publisher) + "</span>" : "") +
       (item.category ? "<span>·</span><span>" + esc(item.category) + "</span>" : "") +
       (isNew(item) ? '<span>·</span><span style="color:var(--accent);font-weight:600">new</span>' : "") +
       "</div>" +
@@ -187,7 +188,7 @@
     $("status").innerHTML = srcs.map(function (s) {
       return "<li><span class=\"dot " + (s.ok ? "ok" : "err") + '"></span><span>' + esc(s.name) +
         (s.ok ? "" : ' <span class="e">' + esc(s.error || "failed") + "</span>") +
-        '</span><span class="n">' + (s.ok ? s.items + " items" : "—") + "</span></li>";
+        '</span><span class="n">' + (s.ok ? s.items + " kept / " + (s.fetched == null ? "?" : s.fetched) + " fetched" : "—") + "</span></li>";
     }).join("") || "<li>No source information yet.</li>";
     var failed = srcs.filter(function (s) { return !s.ok; }).length;
     $("status-summary").textContent = "Source status (" + (srcs.length - failed) + " OK" + (failed ? ", " + failed + " failing" : "") + ")";
