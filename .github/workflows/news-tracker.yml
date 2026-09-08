@@ -2,6 +2,17 @@ name: News tracker refresh
 
 # Fetches the RSS feeds in projects/news-tracker/sources.json and commits the
 # updated JSON data files, so the dashboards (served by GitHub Pages) stay fresh.
+#
+# How it keeps running every 30 minutes
+# -------------------------------------
+# GitHub's cron schedule below has never fired in this repository, so the job
+# also re-triggers itself: after committing, it waits until the next 30-minute
+# mark and starts the next run through the workflow_dispatch API. That call
+# needs a personal access token stored as the repository secret REFRESH_TOKEN
+# (the built-in GITHUB_TOKEN is not allowed to start workflows). Without the
+# secret the job just fetches once and stops, as before.
+#
+# To (re)start the chain: Actions -> News tracker refresh -> Run workflow.
 
 on:
   schedule:
@@ -45,6 +56,7 @@ jobs:
         run: python scripts/fetch_news.py
 
       - name: Commit updated data
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -57,3 +69,30 @@ jobs:
           # Another run may have pushed meanwhile; rebase once and retry.
           git pull --rebase origin "${{ github.ref_name }}" || true
           git push origin "HEAD:${{ github.ref_name }}"
+
+      # ---- self-rescheduling (see the note at the top of this file) ----
+      - name: Wait for the next 30-minute mark and start the next run
+        if: github.ref_name == 'main' && env.REFRESH_TOKEN != ''
+        env:
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Only one chain at a time: if another run of this workflow is already
+          # queued or in progress, let it carry the chain and stop here.
+          others=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/runs?per_page=20" \
+            --jq "[.workflow_runs[] | select(.id != ${GITHUB_RUN_ID}) | select(.status == \"queued\" or .status == \"in_progress\" or .status == \"waiting\")] | length")
+          if [ "${others:-0}" != "0" ]; then
+            echo "Another run is active ($others); not scheduling a follow-up."
+            exit 0
+          fi
+          now=$(date -u +%s)
+          # seconds until the next :00 or :30
+          wait=$(( 1800 - (now % 1800) ))
+          echo "Sleeping ${wait}s until the next half-hour mark..."
+          sleep "$wait"
+          curl -sS -f -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${REFRESH_TOKEN}" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/dispatches" \
+            -d '{"ref":"main"}'
+          echo "Next run requested."
