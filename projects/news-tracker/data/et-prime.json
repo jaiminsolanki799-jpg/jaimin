@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T11:31:20+00:00",
+ "generated_at": "2026-09-08T12:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
-   "items": 3,
+   "fetched": 8,
+   "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 16:34:02 +0530",
+   "sample_date": "Tue, 08 Sep 2026 17:10:58 +0530",
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 16:52:52 +0530",
+   "sample_date": "Tue, 08 Sep 2026 17:01:12 +0530",
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 16:53:26 +0530",
+   "sample_date": "Tue, 08 Sep 2026 17:17:23 +0530",
    "error": null,
-   "checked_at": "2026-09-08T11:31:20+00:00"
+   "checked_at": "2026-09-08T12:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "e84c3b730a463898",
+   "title": "Aadhaar authentication now mandatory for ESIC beneficiaries, says Labour Ministry — here is how to do it",
+   "link": "https://www.livemint.com/money/personal-finance/aadhaar-authentication-now-mandatory-for-esic-beneficiaries-says-labour-ministry-check-how-you-can-do-it-11788863975019.html",
+   "summary": "ESIC beneficiaries are required to link their Aadhaar with their ESIC Pehchan Card for authentication under Section 142 of the Code on Social Security, 2020. The process can be completed online through the ESIC portal.&nbsp;",
+   "published": "2026-09-08T11:47:23+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/aadhaar_esic_1788866096852_6b155437-5da9-4332-8b0f-ec4bcb4311c1_1788866112358_2b5fc57d-ceef-4588-951b-856bbec0ff10_090c6793-860f-4535-bd1a-d5af5f8dc200_c490cb32-6c6e-4628-9361-ff8347044c43.png",
+   "topics": [],
+   "first_seen": "2026-09-08T12:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "757657211f7b4c62",
+   "title": "Bajaj Finance acquires 5% stake in video generation platform TrueFan AI",
+   "link": "https://www.livemint.com/companies/bajaj-finance-acquires-5-stake-in-video-generation-platform-truefan-ai-11788862377659.html",
+   "summary": "TrueFan AI investment is part of Finserv Intelligence, Bajaj Finserv Ltd's group-wide initiative focused on applied research and innovation.",
+   "published": "2026-09-08T11:40:58+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/GLOBAL-AI-ECONOMY-0_1783943335934_1783943424442_348c6332-1b31-4f2c-8442-e51bfc7597a1_1788867545580_45e3512c-e584-4e7d-83d3-6d71d6e5e7b8_f3ed500b-1242-451b-a18d-b5bd56cf9d32_2291c25c-cb68-468d-9e3d-63f5f70e4887.JPG",
+   "topics": [],
+   "first_seen": "2026-09-08T12:00:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "0c80e0c848f13ba5",
+   "title": "Ultravolt launch impact on UltraTech Cement shares: HDFC Securities says stock will jump from ₹11,408 to ₹14,500",
+   "link": "https://www.livemint.com/market/stock-market-news/ultravolt-launch-impact-on-ultratech-cement-shares-hdfc-securities-says-stock-will-jump-from-rs-11-408-to-rs-14500-11788865464361.html",
+   "summary": "Stock to buy: UltraTech Cement's foray into the wires and cables business is likely to boost the company's revenue growth in the coming years. HDFC Securities has raised UltraTech Cement target price.",
+   "published": "2026-09-08T11:31:12+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/UltraTech_12_to_use_finallll_1788866227643_63af26d7-7140-48dd-a05f-0b27a5933039_1788866244857_f6362245-3898-4a1a-9d68-89bbf43da717_b8b0d1b1-4445-469b-bc2d-06efa38a813a_9b7ed783-e0c8-4317-b26b-3ee69662b47c.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T12:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "19b20ceafa64b73e",
    "title": "Your investments need a glide path as the goal gets closer. Here’s how it works",
