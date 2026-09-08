@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T16:30:11+00:00",
+ "generated_at": "2026-09-08T17:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Fri, 04 Sep 2026 06:19:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:30:11+00:00"
+   "checked_at": "2026-09-08T17:00:13+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 12:27:49 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:30:11+00:00"
+   "checked_at": "2026-09-08T17:00:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 14:40:30 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:30:11+00:00"
+   "checked_at": "2026-09-08T17:00:13+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 35,
-   "items": 35,
+   "fetched": 36,
+   "items": 36,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:30:11+00:00"
+   "checked_at": "2026-09-08T17:00:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 16:20:31 +0000",
    "error": null,
-   "checked_at": "2026-09-08T16:30:11+00:00"
+   "checked_at": "2026-09-08T17:00:13+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "5dfd32d8c853e1f5",
+   "title": "TPG-backed NewQuest offloads Rs 200 Cr Shadowfax stake in a bulk deal",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWNTN3dLLUJMLXVOUjVqTEd0WU9DZ1RFLUJKUEh1c2VVcXZ4RWtRNE1TMnNRa2dmNFNYNHNNRW1xc29PYmQ2YURhbUdqZ3hvbEhGQnFVVS1hLVU3ODR1WmYwQnl3c2tlR1l0cEFGUTlpR2RHSlNDdjJFN0dxZTZKQm1HcnE0TUJJTDZKMmhUUmdEd1Bsd1R4MUF4Ym81X2NYTTJ3NzktQdIBpwFBVV95cUxPQWNTN3dLLUJMLXVOUjVqTEd0WU9DZ1RFLUJKUEh1c2VVcXZ4RWtRNE1TMnNRa2dmNFNYNHNNRW1xc29PYmQ2YURhbUdqZ3hvbEhGQnFVVS1hLVU3ODR1WmYwQnl3c2tlR1l0cEFGUTlpR2RHSlNDdjJFN0dxZTZKQm1HcnE0TUJJTDZKMmhUUmdEd1Bsd1R4MUF4Ym81X2NYTTJ3NzktQQ?oc=5",
+   "summary": "",
+   "published": "2026-09-08T16:31:29+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T17:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "befa855d43dff530",
    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
@@ -265,6 +283,42 @@
    "valuation_signals": []
   },
   {
+   "id": "27475406f5797668",
+   "title": "Foodtech - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZUVFQ2dadGRaak5CeThZeW1Cc19oVUZYZHZpUU5YaDdqbDNCUmJTVWcwOWFhVzBoeWhyb0ZkbWFDYzFoX1ZBeWpIbEhPcGU4elJ3NzAwOA?oc=5",
+   "summary": "",
+   "published": "2026-09-08T14:19:55+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-08T14:19:50+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "37c15033ce7f0d8a",
    "title": "Ride-hailing - The CapTable",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
@@ -340,7 +394,7 @@
    "id": "608813ed25687cae",
    "title": "Mistral raises €3B as sovereign AI becomes big business",
    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-   "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+   "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
    "published": "2026-09-08T14:17:48+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -817,7 +871,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "agora.entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T09:21:52+00:00",
@@ -1289,24 +1343,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "27475406f5797668",
-   "title": "Foodtech - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZUVFQ2dadGRaak5CeThZeW1Cc19oVUZYZHZpUU5YaDdqbDNCUmJTVWcwOWFhVzBoeWhyb0ZkbWFDYzFoX1ZBeWpIbEhPcGU4elJ3NzAwOA?oc=5",
-   "summary": "",
-   "published": "2026-09-07T17:04:00+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2197,24 +2233,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-06T23:30:07+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "9153e8455a0a3e60",
