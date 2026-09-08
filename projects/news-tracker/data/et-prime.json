@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T19:30:11+00:00",
+ "generated_at": "2026-09-08T20:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "items": 3,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 00:52:08 +0530",
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 00:28:49 +0530",
+   "sample_date": "Wed, 09 Sep 2026 01:10:31 +0530",
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 00:24:08 +0530",
    "error": null,
-   "checked_at": "2026-09-08T19:30:11+00:00"
+   "checked_at": "2026-09-08T20:00:10+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,44 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "11eebe7b3602d505",
+   "title": "Bessent’s ‘Fever’-Quelling Debt Buybacks Put Wall Street on Edge",
+   "link": "https://www.livemint.com/market/bessents-fever-quelling-debt-buybacks-put-wall-street-on-edge-11788896431944.html",
+   "summary": "Treasury Secretary Scott Bessent is set to reveal how far he’s initially willing to go restrain US bond yields via an expanded buyback program that has Wall Street dealers on edge.",
+   "published": "2026-09-08T19:40:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-08T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f2cc340ef9ac293e",
+   "title": "The Credit Hazard Lurking in Your Retirement Funds",
+   "link": "https://www.livemint.com/market/the-credit-hazard-lurking-in-your-retirement-funds-11788896246258.html",
+   "summary": "The growing list of US credit busts, from subprime auto lender Tricolor Holdings to Broadband Telecom Inc., raises a troubling question: If such “cockroaches” proliferate — if many more enterprises collapse under the weight of excessive debt — who will ultimately bear the losses?",
+   "published": "2026-09-08T19:37:25+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8505c3a7c18c6b36",
    "title": "Nike shareholders reject climate proposal backed by Norway wealth fund",
@@ -299,7 +337,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -2425,7 +2463,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
@@ -5150,7 +5188,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
