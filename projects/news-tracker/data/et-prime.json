@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T10:16:27+00:00",
+ "generated_at": "2026-09-08T10:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 13:31:40 +0530",
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 15:01:47 +0530",
+   "sample_date": "Tue, 08 Sep 2026 15:50:32 +0530",
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 15:44:25 +0530",
    "error": null,
-   "checked_at": "2026-09-08T10:16:27+00:00"
+   "checked_at": "2026-09-08T10:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,68 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "2bd353870dc49f8c",
+   "title": "'Buy' Syrma SGS Technology shares: Over 120% returns in 6 months, Emkay sees 41% more upside in 12 months | Target price",
+   "link": "https://www.livemint.com/market/stock-market-news/buy-syrma-sgs-technology-shares-over-120-returns-in-6-months-emkay-sees-41-more-upside-in-12-months-target-price-11788861212658.html",
+   "summary": "Stock to buy: Syrma SGS Technology share price has surged more than 120% in 2026 so far. Despite the stupendous rally, brokerage Emkay Global Financial Services remains bullish on the stock and sees 40.7% upside in its valuation",
+   "published": "2026-09-08T10:20:32+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Syrma_SGS_Technology_to_use_original_1788862404124_d2d9289e-0759-4678-8825-16ed61aac16d_1788862415176_2f0e87ef-5168-4851-b6bf-3b67faca1789_8e07603e-7114-464c-ac33-0d34e4911057_b2cfa1ac-5189-4a73-9ba3-0ad2a0fb6427.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-08T10:30:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "5b797ea177a5f594",
+   "title": "Ashok Leyland shares demonstrate renewed strength, becomes 'Monthly Choice' stock; check target price, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/ashok-leyland-shares-demonstrate-renewed-strength-becomes-monthly-choice-stock-check-target-price-stoploss-11788859322225.html",
+   "summary": "Ashok Leyland's recent price action indicates that the stock may be attempting to regain its upward momentum after a period of weakness.",
+   "published": "2026-09-08T10:18:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/ashok_leyland_1788861660129_70bdab28-3bd2-405f-b47e-d50ba4d1d33e_1788861666897_20fcb28c-be7f-49da-9303-2b955af48e1f_86794938-318e-4719-812d-509b0b3a02a7_5545dec1-beeb-427b-b1d7-a7f994a81e5b.png",
+   "topics": [],
+   "first_seen": "2026-09-08T10:30:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "162bc1a9bd2b9980",
+   "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Wed | Kospi, Taiwan Index, Nikkei cues to watch | 9 Sept",
+   "link": "https://www.livemint.com/market/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-wed-kospi-taiwan-index-nikkei-cues-to-watch-9-sept-11788861714934.html",
+   "summary": "India's stock market struggled on September 8 amid rising crude oil prices and weak domestic triggers. The Nifty 50 dropped 0.61%, while the Sensex fell 0.73%. Broader indices showed slight recovery despite geopolitical tensions affecting oil market stability and inflation risks.",
+   "published": "2026-09-08T10:17:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/SWP_on_8_1788862532631_d8b4a7f6-14d6-4bea-b9ae-06a9406603e6_1788862538599_0526bc9b-d2a4-426e-b83e-95d434fb5a67_c7f4292a-7e14-45e0-a65e-328649069c91_8828edc0-5ddf-4fd3-a4e7-7722341f300d.png",
+   "topics": [],
+   "first_seen": "2026-09-08T10:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a64630ddbaf50324",
    "title": "Health insurance claim rejected despite paying premiums? 6 reasons policyholders should know before filing a claim",
@@ -5063,6 +5123,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4e03a1eda00b532c",
+   "title": "An old India Inc habit: Ignore the nudge, wait for the stick",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzBsbUZVbjNiVHhQUVZnOVM5UUxQTExmcnJfcVplNDE4eUVnSEF5ay1JLXU0VVhIYktlenZCMFhkX2lhaUZMeGdydWZQc25lTUowV3RzSWs2M3VCYmFmeTh2YkZUaHdaQUNPSERBam4wYzhSNG9EaV9iZ09JS01XRXlYRHo4SUdDSWkyNF92c3pCZUp1VUpldWZCTUJvejJLUnpzS2ktR3VONHUxbkRCbzc3RHYtMlFleGhQdlFQaHU1cGUyQm05MUtnNG7SAcYBQVVfeXFMUFVqU0hlLUVxdHdIMHZKVkxzUVN4TFVBazF5QnB3Y241LU9JSEQ0ZFNHZGE0M0thcENzNTBBVmpRQ3ZKOXBFdXlJcVZLVHp1LThDZWEtN2YzUXMwcGE1OXUtaks3YWZoSkwtTkxOZ3RjTGk3RUZDbXV4WG5RNlBoWUdtUThseW1lcWtJTXBERGFGUWEwd3VuYUhSVi15X2dldkZ3cUlxcGtCUHFkZHdXbkVwVG1oRTlscVlTaVFBdlRxblU5azdB?oc=5",
+   "summary": "",
+   "published": "2026-09-05T08:32:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T10:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
