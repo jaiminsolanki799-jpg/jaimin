@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T13:00:11+00:00",
+ "generated_at": "2026-09-08T13:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 17:58:57 +0530",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 18:02:24 +0530",
+   "sample_date": "Tue, 08 Sep 2026 18:50:55 +0530",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 18:26:21 +0530",
+   "sample_date": "Tue, 08 Sep 2026 18:54:14 +0530",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "8881314268d73c07",
+   "title": "JioBlackRock AMC eyes ₹25,000 crore AUM by FY'27, launches balanced advantage fund",
+   "link": "https://www.livemint.com/money/jioblackrock-amc-eyes-rs-25-000-crore-aum-by-fy27-launches-balanced-advantage-fund-11788872166977.html",
+   "summary": "JioBlackRock AMC announced the launch of the JioBlackRock Balanced Advantage Fund today, stating that its assets under management have crossed ₹22,000 crore, up from nearly ₹16,000 crore in March.&nbsp;",
+   "published": "2026-09-08T13:24:14+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/g1243f8b94a848157d23a16d798bf431429e6186a2440e1908_1744883781530_1788873563797_e6a78cc8-fd85-485a-bc47-c54c3c922c94_24265573-c6ab-4b50-9ae4-1c9fd66f9d50_7728abc1-f8d9-4d2b-8f10-5a138b4c1039.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T13:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0bc04c0e906846bd",
+   "title": "Investing ₹25,000 through SIP? Here's when you should increase it or start a new fund",
+   "link": "https://www.livemint.com/money/personal-finance/investing-25-000-through-sip-heres-when-you-should-increase-it-or-start-a-new-fund-11788868363879.html",
+   "summary": "Should you top up your existing SIP or start a new one? A ₹25,000/month SIP with a 10% annual top-up can grow to ₹84.35 lakh in 10 years, vs ₹56.01 lakh without one. Experts say the right choice depends on diversification, risk profile and fund performance.",
+   "published": "2026-09-08T13:22:57+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/AdobeStock_1149826455_1738222672935_1788872127349_188a96b8-f8f7-437a-81a2-b8f73d9b834c_86977d95-a6b4-47b3-bb9c-7b3ec819452a_857c03bb-75ec-4421-a0e9-c1674ea0ce78.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-08T13:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bad9c04fd4a68e84",
+   "title": "1200% rally in five years! Small cap multibagger stock under ₹20 to be in focus on Wednesday; here's why",
+   "link": "https://www.livemint.com/market/stock-market-news/1200-rally-in-five-years-small-cap-multibagger-stock-under-rs-20-to-be-in-focus-on-wednesday-heres-why-11788873232697.html",
+   "summary": "The contract covers the Pudhupatti fee plaza at Km 39.760 of the Salem–Vayembadi section from Km 36.000 to Km 80.000 of NH-179A in Tamil Nadu. It also includes the upkeep and maintenance of adjacent toilet blocks, including the replenishment of consumable items.",
+   "published": "2026-09-08T13:20:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/gfc19ae5aa246875c327760781b8f327855453ba8b2126f231_1747372937158_1788873567716_212938dc-fb82-4d7e-a686-5894d2d7d10f_b7f026ab-3500-4937-9b6f-56085a4acea0_e27d4914-5115-42f4-b4e9-94673631b7c0.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T13:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "814750c063ed7d44",
    "title": "DA news: Sanitation workers with Haryana municipalities will be under state ambit, to get dearness allowance, gratuity",
@@ -1884,7 +1938,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
@@ -4609,7 +4663,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",

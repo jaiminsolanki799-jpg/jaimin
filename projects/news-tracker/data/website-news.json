@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T13:00:11+00:00",
+ "generated_at": "2026-09-08T13:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 12:50:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 11:50:56 GMT",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 09:00:00 +0000",
+   "sample_date": "Tue, 08 Sep 2026 13:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-08T13:00:11+00:00"
+   "checked_at": "2026-09-08T13:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "ba1d023241e68586",
+   "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+   "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+   "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+   "published": "2026-09-08T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sean O'Kane",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T13:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4b83c6832236f277",
    "title": "7 Kathryn Stockett quotes with unexpected life lessons",
@@ -200,6 +218,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T12:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4b5956ec16177dfa",
+   "title": "Circolife",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xdnVkaE1BaXZ3d0dpQmhqOEpwanFKU1JiNXlabXRrVFhyQjZ1ZU5uMkFJMTBib0VibFZjckVIRVRkb0ZKNldzY0dCbw?oc=5",
+   "summary": "",
+   "published": "2026-09-08T11:27:19+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T13:30:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -393,7 +429,7 @@
   },
   {
    "id": "7eb1c861d1b81cfa",
-   "title": "The Agora Safari",
+   "title": "Agora Safari",
    "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAtLVpSdkZSaUxCSFRuSWZqM2VPdy0tdjRxWVpKNXp2aGRtTGplY0pCY3FYcWpYU0RVUzVWVjJFSFc?oc=5",
    "summary": "",
    "published": "2026-09-08T09:19:05+00:00",
@@ -402,7 +438,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "agora.entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T09:21:52+00:00",
