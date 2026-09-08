@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T07:49:52+00:00",
+ "generated_at": "2026-09-08T09:21:52+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 3,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 11:55:38 +0530",
+   "sample_date": "Tue, 08 Sep 2026 13:31:40 +0530",
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 13:01:03 +0530",
+   "sample_date": "Tue, 08 Sep 2026 14:43:07 +0530",
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 13:01:29 +0530",
+   "sample_date": "Tue, 08 Sep 2026 14:39:11 +0530",
    "error": null,
-   "checked_at": "2026-09-08T07:49:52+00:00"
+   "checked_at": "2026-09-08T09:21:52+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,261 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 15,
  "items": [
+  {
+   "id": "7b87b0fef611cc86",
+   "title": "Merchant banks step up hunt for talent to manage regulatory compliance as IPO market heats up",
+   "link": "https://www.livemint.com/market/ipo/merchant-banks-talent-regulatory-compliance-ipos-primary-markets-left-lead-professionals-sebi-11788844291475.html",
+   "summary": "Issuers prioritize banks with left-lead professionals who directly engage with Sebi. Their responsibilities include preparing the draft red herring prospectus, handling legal correspondence, representing the issuer in query sessions and valuing the offer once all stakeholders are consulted.",
+   "published": "2026-09-08T09:13:07+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/a_1788858343325_d6a8dd1b-0ab0-401a-a4be-ccb4f25d21c9_1788858343627_d8baa62e-0058-4e7a-9fc0-3fc8dc50bd44_b5c41171-752a-411c-89e6-a84da352fc2b_1ecaa01e-75ba-408b-9bfe-30f18856fda4.jpeg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "IPO",
+    "Rules"
+   ]
+  },
+  {
+   "id": "83fd4391d800015e",
+   "title": "Buy Fortis Healthcare shares, says PL Capital; check target price, stock performance",
+   "link": "https://www.livemint.com/market/stock-market-news/buy-fortis-healthcare-shares-says-pl-capital-check-target-price-stock-performance-11788855203728.html",
+   "summary": "Stock to buy today: Fortis Healthcare share price outlook is unlikely to be impacted by the probe directed by the Delhi HC last week, according to PL Capital report. The hospital chain stock is poised for a double digit growth in the long-term.",
+   "published": "2026-09-08T09:10:14+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Fortis_Hospital_1788855525675_1a09bdf7-3854-439a-9004-d51f978250d3_1788855534996_7cefca3c-c8cc-4698-8ef5-3bc3fcce251e_84abcda0-4876-4a49-a185-8b96ebd338ec_389783a8-addf-4239-b921-8f1581f54508.png",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "dda270ec3998a750",
+   "title": "Mumbai entrepreneur paid ₹10 lakh in cash towards credit card bills, gets tax demand; here's why she still won",
+   "link": "https://www.livemint.com/money/mumbai-entrepreneur-paid-10-lakh-in-cash-towards-credit-card-bills-gets-tax-demand-heres-why-she-still-won-11788855169010.html",
+   "summary": "A Mumbai-based businesswoman won a tax appeal against ₹20 lakh additions made by the income tax department due to cash payments of credit card bills and deposits. Here's what happened.",
+   "published": "2026-09-08T09:09:11+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/ITAT_case_ruling_1788858526576_a17c21ee-c786-4f57-8513-5ce9484eb6b1_1788858533947_51882b4c-0e95-4bfc-b0be-cbdad4b98e8d_0e826484-0356-4391-aacd-d28c0a590818_3d98f4b6-eb85-4c12-a962-26fcd29297c0.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8a781b6ab0802fc0",
+   "title": "How much savings is enough for financial security? Experts explain how to calculate the ideal cushion",
+   "link": "https://www.livemint.com/money/personal-finance/how-much-savings-is-enough-for-financial-security-experts-explain-how-to-calculate-the-ideal-cushion-11788857191940.html",
+   "summary": "Your ideal financial cushion depends on monthly expenses, liabilities, dependants and income stability, not just your salary or savings. Here’s how many months of expenses you should keep aside based on your age, job and financial responsibilities.",
+   "published": "2026-09-08T09:02:19+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Gemini_Generated_Image_313fw9313fw313f_178885808_1788858097326_354958ad-8e90-4cef-a58d-4f43fa9f2c71_1788858097491_02a49300-2741-4357-8533-1516f59cb956_9cce4893-d68c-4b8c-aa0a-010c55696343_245fa576-ebb3-439e-81a6-4b11dc06d757.png",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0a591d41d77d64ba",
+   "title": "Axis Bank to ICICI Bank - Why banking stocks are falling today?",
+   "link": "https://www.livemint.com/market/axis-bank-to-icici-bank-why-banking-stocks-are-falling-today-11788850067115.html",
+   "summary": "Shares of ICICI Bank and Axis Bank fell more than 2% each on the NSE, while HDFC Bank’s stock price declined around 1%.",
+   "published": "2026-09-08T08:59:01+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/banking_1788857848891_927a5b7f-527e-4a26-95d0-085da221e1eb_1788857849162_c7fd0dae-dcd1-4032-b6a1-67bcda56a243_5b891c97-a7cd-4b0b-9c27-e97ef222bbe9_5e6f3c2c-5efe-4fcf-b721-0c32b7bb5b26.png",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bbfa50ac35c010c7",
+   "title": "Why Ola Electric’s ₹1,500 crore fundraise fails to enthuse investors",
+   "link": "https://www.livemint.com/market/mark-to-market/ola-electric-fundraise-rs-1500-crore-market-share-loss-11788853101134.html",
+   "summary": "For Ola Electric, infusion of fresh capital alone has not been enough to restore confidence amid persistent market-share loss, leadership churn, and regulatory concerns.",
+   "published": "2026-09-08T08:53:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/OLA-ELECTRIC_1728348609656_1788857202985_6115550a-3f7f-48fc-bcfa-245d4e6f263b_ac4a1544-2bf3-4018-a46d-ae28859db98d_ef3ff82c-a9d1-4929-bbe3-bddb8d80d6e4.JPG",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "d29c0ae467306e91",
+   "title": "Bulls, bears slug it out as Nifty nears key support",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-fpi-short-positions-domestic-investors-23600-support-11788851861032.html",
+   "summary": "Retail and HNI investors are betting on a rebound even as FPIs build record short positions, putting the Nifty’s 23,600 support level in focus amid rising crude prices and US bond yields.",
+   "published": "2026-09-08T08:40:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/COFORGE-STOCKS--0_1782267645199_1782267658686_f00c748a-a4e3-45c8-911c-18dcb741f547_1788856656694_dcbc3c12-71e6-4eb1-9a8f-0950a7346293_c0eab7cc-ae4b-4445-9b39-322b5003f0fc_8a89a44b-d5ea-45c2-8052-59459aa23dbe.JPG",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2cb803f70f8d696a",
+   "title": "Steel prices hit four-year high despite seasonal weakness; outlook brightens",
+   "link": "https://www.livemint.com/market/mark-to-market/steel-prices-india-hrc-rebar-prices-11788848872945.html",
+   "summary": "Steel prices in India hit a four-year high, driven by strong demand and supply constraints.&nbsp;",
+   "published": "2026-09-08T08:34:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/2-0-1410444438-430OBHJ-TANQXQXBF-mc-wmbm-0_1679753853737_1788855684115_08a6bce7-17ec-4a78-b4fd-3fce4adbf98d_cae91997-8c53-433e-80f4-4a93a99c2335_eff31a6b-4372-4d92-aa9d-4fa814fb976a.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c5771c8eb00a1a9a",
+   "title": "Caplin Point Lab stock delivers decisive breakout; Axis Direct shares buy range, stop loss, upside and holding period",
+   "link": "https://www.livemint.com/market/stock-market-news/caplin-point-lab-stock-delivers-decisive-breakout-axis-direct-shares-buy-range-stop-loss-upside-and-holding-period-11788853218987.html",
+   "summary": "On the weekly chart, Caplin Point has broken decisively out of a multi-week consolidation phase that had developed around the ₹2,700 level, said Axis Direct.",
+   "published": "2026-09-08T08:30:26+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/caplin_1788854783593_16e199af-4e84-4c65-94dd-a3dd327cfe38_1788854791616_7744f82e-818e-4f46-9161-f05060e70b3f_5c11e30e-aca1-4810-a0b5-ea56e2b21a39_5b55508f-fdd3-4bc6-a515-4b3ef591d45a.png",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "62f5b0fe002b7b39",
+   "title": "NSE IPO LIVE: GMP on fire ahead of price band announcement | Expected date, other details about mega ₹30,000 crore IPO",
+   "link": "https://www.livemint.com/market/ipo/nse-ipo-live-gmp-on-fire-ahead-of-price-band-announcement-expected-date-other-details-about-mega-rs-30-000-crore-ipo-11788852740924.html",
+   "summary": "NSE IPO GMP today: According to market observers, NSE shares are available at a premium of ₹273 in the grey market today",
+   "published": "2026-09-08T08:29:34+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/NSE_IPO_GMP_Price_Band_Date_News_Live_1788854040131_98c0d663-6cbf-435b-8965-fa3b4bc446af_1788854040299_77493065-4de9-420e-91a7-d36b2097b87d_63c52bdd-cc17-4b27-a612-3d5993cce220_fed862d2-5724-4d32-82ab-3511c6bdd560.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "17a39bc9a8e3238b",
+   "title": "SGB premature redemption today: ₹1 lakh investment rises to ₹3.04 lakh as RBI fixes exit price at ₹15,384 per gram",
+   "link": "https://www.livemint.com/money/personal-finance/sgb-premature-redemption-today-1-lakh-investment-rises-to-3-04-lakh-as-rbi-fixes-exit-price-at-15-384-per-gram-11788854707147.html",
+   "summary": "SGB 2020-21 Series VI investors can redeem their bonds prematurely from 8 September 2026 at ₹15,384 per gram. The redemption price represents a 203.6% capital gain over the ₹5,067 online issue price, excluding 2.5% annual interest.",
+   "published": "2026-09-08T08:12:23+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Gemini_Generated_Image_9whl379379whl_1788855094_1788855104432_5ef200db-a47a-4db3-af5d-b4ca697b57dc_1788855104796_924b21e3-7e41-41ea-9e14-10ef598919b6_124cdc17-d7ee-49b5-b4bb-546efb29c7b8_ee25bd05-c080-480a-911d-ebd5033ccba1.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "78fa109b0cd8867b",
+   "title": "Lightspeed India to realise about $500 million by year end as India’s exit landscape broadens",
+   "link": "https://www.livemint.com/companies/news/lightspeed-india-lightspeed-venture-partners-anuj-bhargava-startup-exits-venture-capital-vc-exits-private-secondaries-11788842495736.html",
+   "summary": "Lightspeed India expects about $500 million in cash returns by year-end as private secondaries, M&amp;As, block deals and IPOs broaden exit options for venture investors.",
+   "published": "2026-09-08T08:01:40+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Anuj_Bhargava_1788842684969_e6812db6-9c10-4ac3-bf95-7afe7c0c4b36_1788842685087_d51d368c-4f24-4c8b-b50f-7499ec5d83e4_131263eb-d01d-4e66-830f-6f322b401895_965e0ff6-3c6f-48ad-9ab7-ea64b70ede78.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "de68b0f4d874126f",
+   "title": "Defence stock Raymond hits 52-week high, rises 12% ahead of board meeting outcome on fundraise",
+   "link": "https://www.livemint.com/market/stock-market-news/defence-stock-raymond-hits-52-week-high-rises-12-ahead-of-board-meeting-outcome-on-fundraise-11788852915044.html",
+   "summary": "Defence stock Raymond surged more than 12% to hit its fresh 52-week high of ₹869.05 in intraday deals on Tuesday, 8 September, ahead of its board meeting outcome.",
+   "published": "2026-09-08T07:54:19+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Defence_stock_Ramond_1788853763988_c5dbcf69-1594-4836-9049-2d5abcf02528_1788853802837_1e1d3a42-74c0-4ab8-ac04-ea727c11b7be_99ff02ca-8eba-425b-86d6-9ebb9071ef59_71f4b253-ab0c-4f6c-a850-746667c8ad8c.png",
+   "topics": [],
+   "first_seen": "2026-09-08T09:21:52+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "68a2e0fb72025a99",
    "title": "Buyer pays ₹14.5 lakh for a Gurugram flat, left in limbo after builder loses registration; RERA gives relief",
@@ -208,7 +461,7 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/rera_picture_1788852671418_c08ae0aa-0cf1-4207-a40e-ecdf1aeec6a6_1788852675283_16f45990-e0b7-4198-962e-13bc3785b9b5_c6362833-579a-4e29-92b4-ea8143db07bb_249d3f37-b681-48d4-99ae-8954a33cde12.webp",
    "topics": [],
-   "first_seen": "2026-09-08T07:49:25+00:00",
+   "first_seen": "2026-09-08T09:21:52+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -228,7 +481,7 @@
    "topics": [
     "SEBI / markets regulation"
    ],
-   "first_seen": "2026-09-08T07:49:25+00:00",
+   "first_seen": "2026-09-08T09:21:52+00:00",
    "valuation_score": 3,
    "valuation_signals": [
     "IPO"
@@ -4062,7 +4315,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Screenshot_2026-09-07_235311_1788806095785_ed4a04b4-6b11-4e4f-80f1-b34b6cdb9b45_1788806100647_7e675bdc-0faf-45e8-bb90-0351f4790c57_86bf60dc-9be8-4fde-8af1-39d03cfa7de6_e4d2cf78-bf23-4a4a-86b3-d51a9fb95173.png",
