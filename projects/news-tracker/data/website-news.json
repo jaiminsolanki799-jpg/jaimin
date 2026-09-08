@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T07:18:33+00:00",
+ "generated_at": "2026-09-08T07:49:25+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-08T07:18:33+00:00"
+   "checked_at": "2026-09-08T07:49:25+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 05:21:39 GMT",
+   "sample_date": "Mon, 07 Sep 2026 11:51:10 GMT",
    "error": null,
-   "checked_at": "2026-09-08T07:18:33+00:00"
+   "checked_at": "2026-09-08T07:49:25+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 07:09:48 GMT",
    "error": null,
-   "checked_at": "2026-09-08T07:18:33+00:00"
+   "checked_at": "2026-09-08T07:49:25+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 21,
-   "items": 21,
+   "fetched": 22,
+   "items": 22,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T07:18:33+00:00"
+   "checked_at": "2026-09-08T07:49:25+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 02:16:39 +0000",
    "error": null,
-   "checked_at": "2026-09-08T07:18:33+00:00"
+   "checked_at": "2026-09-08T07:49:25+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 13,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "f4a2690ef0dda1c5",
+   "title": "W Health Ventures closes Fund II at Rs 700 Cr",
+   "link": "https://yourstory.com/2026/09/w-health-ventures-closes-fund-ii-at-rs-700-crore",
+   "summary": "W Health Ventures has closed its second fund at Rs 700 crore, exceeding its Rs 630 crore target, as the healthcare-focused VC firm looks to invest in 8-10 startups over the next four years.",
+   "published": "2026-09-08T07:31:25+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T07:49:25+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7cbf659fdc94017a",
+   "title": "Blissclub founder’s stake slips below 40% after Series B; Meesho’s Vidit Aatrey holds 6.94%",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY1F0Z0pCNnVRczZ1cUZTT0JMd241RGNYcXlqSnY0TzN0ZzExRGU0ZXhhSzV3aDdFQ3JDbWs2TFYxS21wTEdIem9ha2lsbjlSdVBRZ2NfZXhRVTRxdXUzc0Ytb1ZmMFlSNHRPcGh5WjllUUdDNTNsUlU3c25FbEVHSHlBTXlIcDZDVHQ0N05NYVIwMGFLRUlzWnlreHdsZ0Iwc042THBjOU1OTVg2WFJfeHBZeDhKbEp2a3FjTDBwTVVxd9IBwgFBVV95cUxQY1F0Z0pCNnVRczZ1cUZTT0JMd241RGNYcXlqSnY0TzN0ZzExRGU0ZXhhSzV3aDdFQ3JDbWs2TFYxS21wTEdIem9ha2lsbjlSdVBRZ2NfZXhRVTRxdXUzc0Ytb1ZmMFlSNHRPcGh5WjllUUdDNTNsUlU3c25FbEVHSHlBTXlIcDZDVHQ0N05NYVIwMGFLRUlzWnlreHdsZ0Iwc042THBjOU1OTVg2WFJfeHBZeDhKbEp2a3FjTDBwTVVxdw?oc=5",
+   "summary": "",
+   "published": "2026-09-08T07:26:17+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T07:49:25+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "66e94f7c7bc26fca",
    "title": "Udaan Buys Swiggy-Owned LYNK in INR 500 Crore Share-Swap Deal",
