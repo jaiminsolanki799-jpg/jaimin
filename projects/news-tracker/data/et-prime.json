@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T09:25:11+00:00",
+ "generated_at": "2026-09-08T09:35:53+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 13:31:40 +0530",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 14:43:07 +0530",
+   "sample_date": "Tue, 08 Sep 2026 15:01:47 +0530",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 14:39:11 +0530",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "d4c5320883a19403",
+   "title": "Engineers India stock delivers decisive breakout; Axis Direct shares buy range, stop loss, upside and holding period",
+   "link": "https://www.livemint.com/market/stock-market-news/engineers-india-stock-delivers-decisive-breakout-axis-direct-shares-buy-range-stop-loss-upside-and-holding-period-11788855578451.html",
+   "summary": "Engineers India Ltd has shown strong stock performance, gaining 39% over the past year and recently achieving a breakout above key trendlines. Axis Direct predicts further upside potential to 302-312 levels within 3-4 weeks, despite lower revenue reported in Q1 fiscal 2026-27.",
+   "published": "2026-09-08T09:31:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/EIL_1788859269877_48a27a4d-58c7-4434-851f-58b6c0cb3c06_1788859278326_e7366b3b-9351-400c-b0d3-c6c147ec9158_3e0045e0-0ff7-40e6-b794-31b388ac2e38_5bdebd7c-78a5-44ae-8bfb-d558a2a2fbe5.png",
+   "topics": [],
+   "first_seen": "2026-09-08T09:35:53+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7b87b0fef611cc86",
    "title": "Merchant banks step up hunt for talent to manage regulatory compliance as IPO market heats up",
@@ -221,7 +239,7 @@
    "id": "83fd4391d800015e",
    "title": "Buy Fortis Healthcare shares, says PL Capital; check target price, stock performance",
    "link": "https://www.livemint.com/market/stock-market-news/buy-fortis-healthcare-shares-says-pl-capital-check-target-price-stock-performance-11788855203728.html",
-   "summary": "Stock to buy today: Fortis Healthcare share price outlook is unlikely to be impacted by the probe directed by the Delhi HC last week, according to PL Capital report. The hospital chain stock is poised for a double digit growth in the long-term.",
+   "summary": "Stock to buy: Fortis Healthcare share price outlook is unlikely to be impacted by the probe directed by the Delhi HC last week, according to PL Capital report. The hospital chain stock is poised for a double digit growth in the long-term.",
    "published": "2026-09-08T09:10:14+00:00",
    "source": "Mint Markets",
    "group": "Mint",

@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T09:25:11+00:00",
+ "generated_at": "2026-09-08T09:35:53+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 07 Sep 2026 14:15:00 GMT",
+   "sample_date": "Mon, 07 Sep 2026 15:30:16 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 08:11:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 02:16:39 +0000",
    "error": null,
-   "checked_at": "2026-09-08T09:25:11+00:00"
+   "checked_at": "2026-09-08T09:35:53+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "3a7f022abe3a64c4",
+   "title": "From home to panchayat: Bihar’s Seema Kumari and her journey of women’s empowerment",
+   "link": "https://yourstory.com/2026/09/bihars-seema-kumari",
+   "summary": "After her first election loss, Bihar’s Seema Kumari won and began working on education, roads, women’s empowerment and water conservation.",
+   "published": "2026-09-08T09:27:35+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T09:35:53+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1265cc3bd044f382",
+   "title": "Karnataka invites global tech firms, startups to partner in building 'Quantum City'",
+   "link": "https://yourstory.com/2026/09/karnataka-invites-global-tech-firms-startups-to-partner-in-building-quantum-city",
+   "summary": "Karnataka would build on its existing strengths in IT and aerospace while expanding into emerging areas such as quantum technologies, SpaceTech, DroneTech, artificial intelligence and geospatial technologies.",
+   "published": "2026-09-08T09:27:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T09:35:53+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7eb1c861d1b81cfa",
    "title": "The Agora Safari",
@@ -542,24 +578,6 @@
    "valuation_signals": []
   },
   {
-   "id": "81d619960f63f5ed",
-   "title": "Listed Companies - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
-   "summary": "",
-   "published": "2026-09-07T21:25:55+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "bbd44de733a8edb7",
    "title": "Opaque recurrence, and other AI terms that you should probably know",
    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -628,24 +646,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-07T15:44:45+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1500,6 +1500,24 @@
    ]
   },
   {
+   "id": "81d619960f63f5ed",
+   "title": "Listed Companies - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
+   "summary": "",
+   "published": "2026-09-07T02:53:10+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "a133672185551d87",
    "title": "Ola Electric clears Rs 1,500 Cr fundraise; Startup funding dips marginally",
    "link": "https://yourstory.com/2026/09/ola-electric-clears-rs-1500-cr-fundraise-coo-exits",
@@ -1603,6 +1621,24 @@
    "date_known": true,
    "author": "Kirsten Korosec",
    "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-06T15:13:42+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
