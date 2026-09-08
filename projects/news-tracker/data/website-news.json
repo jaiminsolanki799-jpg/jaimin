@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T09:35:53+00:00",
+ "generated_at": "2026-09-08T10:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:35:53+00:00"
+   "checked_at": "2026-09-08T10:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 07 Sep 2026 15:30:16 GMT",
+   "sample_date": "Tue, 08 Sep 2026 09:27:35 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:35:53+00:00"
+   "checked_at": "2026-09-08T10:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 08 Sep 2026 08:11:00 GMT",
+   "sample_date": "Tue, 08 Sep 2026 09:39:57 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:35:53+00:00"
+   "checked_at": "2026-09-08T10:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 27,
-   "items": 27,
+   "fetched": 28,
+   "items": 28,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T09:35:53+00:00"
+   "checked_at": "2026-09-08T10:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 02:16:39 +0000",
    "error": null,
-   "checked_at": "2026-09-08T09:35:53+00:00"
+   "checked_at": "2026-09-08T10:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "4817d463a44881f9",
+   "title": "Beverage brand Sorry Sugar raises $1 Mn in seed round",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHVSUGpySGZrMEw0QkZiTm9MWUZ5VzM2UGxXX1c3YWpQYThGV3hwaWg2cjdOMTA5MEFXcjAzT2xPbG80OVh6d2s0U0pjTWpGX1JmcXdsdjZNMUprRnRjTi1XV2FvYnVIOHRvYkJsSWJ5X3Azdld0SUkzR01kLTZRdUdvaEpKU2F1b2xVUThRWElweDR0VHfSAZYBQVVfeXFMUFR1UlBqckhmazBMNEJGYk5vTFlGeVczNlBsV19XN2FqUGE4Rld4cGloNnI3TjEwOTBBV3IwM09sT2xvNDlYendrNFNKY01qRl9SZnF3bHY2TTFKa0Z0Y04tV1dhb2J1SDh0b2JCbElieV9wM3ZXdElJM0dNZC02UXVHb2hKSlNhdW9sVVE4UVhJcHg0dFR3?oc=5",
+   "summary": "",
+   "published": "2026-09-08T09:47:21+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T10:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "656d14aba93e848f",
+   "title": "ICICI Lombard Faces INR 1 Crore Penalty From IRDAI Over Outsourcing Rules",
+   "link": "https://startuptalky.com/news/icici-lombard-faces-inr-1-crore-penalty/",
+   "summary": "IRDAI has levied a penalty of Rs 1 crore on ICICI Lombard General Insurance Company for violation of outsourcing practices and corporate governance requirements. The penalty comes after an examination by IRDAI and show-cause notices in 2024.",
+   "published": "2026-09-08T09:39:57+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/icici-lombard-faces-inr-1-crore-penalty-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "67fd7306324519f6",
+   "title": "India’s next growth story needs more credit for women-led businesses",
+   "link": "https://yourstory.com/2026/08/india-growth-story-more-credit-for-women-led-businesses",
+   "summary": "India’s women-led mid-market businesses are proving their resilience, but formal finance has yet to catch up. Rethinking collateral, credit assessment and product design could help unlock a largely underserved segment.",
+   "published": "2026-09-08T09:34:15+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-08T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3a7f022abe3a64c4",
    "title": "From home to panchayat: Bihar’s Seema Kumari and her journey of women’s empowerment",
