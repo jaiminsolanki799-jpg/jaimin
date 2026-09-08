@@ -32,6 +32,7 @@ on:
 
 permissions:
   contents: write
+  actions: read      # the self-rescheduling step lists runs to keep a single chain
 
 concurrency:
   group: news-tracker-${{ github.ref }}
