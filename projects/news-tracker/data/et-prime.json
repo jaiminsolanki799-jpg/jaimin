@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T10:00:12+00:00",
+ "generated_at": "2026-09-08T10:16:27+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 13:31:40 +0530",
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 15:01:47 +0530",
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 14:39:11 +0530",
+   "sample_date": "Tue, 08 Sep 2026 15:44:25 +0530",
    "error": null,
-   "checked_at": "2026-09-08T10:00:12+00:00"
+   "checked_at": "2026-09-08T10:16:27+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "a64630ddbaf50324",
+   "title": "Health insurance claim rejected despite paying premiums? 6 reasons policyholders should know before filing a claim",
+   "link": "https://www.livemint.com/money/personal-finance/health-insurance-claim-rejected-despite-paying-premiums-6-reasons-policyholders-should-know-before-filing-a-claim-11788861813759.html",
+   "summary": "An active health insurance policy does not guarantee that every medical claim will be paid. Here are six common reasons insurers may reject a claim, from waiting periods to exclusions and missing documents.",
+   "published": "2026-09-08T10:14:25+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Gemini_Generated_Image_9zz4fz9z4fz9zz4_1788862_1788862308815_2eebebd2-67ce-42db-9190-086c4931d307_1788862308968_f06ec3ea-91e6-4d70-b46b-222089c7c9bc_28d2243e-7df7-42f1-940b-6917e58d334b_843c01bf-6016-4eb5-bff7-c1e227ad8039.png",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-08T10:16:27+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "179776af7e3c5439",
+   "title": "Public Insurance Registry should not become a black box for customers",
+   "link": "https://www.livemint.com/money/personal-finance/public-insurance-registry-should-not-become-a-black-box-for-customers-11788846819157.html",
+   "summary": "Irdai's Public Insurance Registry promises to make insurance easier to find, compare and claim, but privacy, bad data and unequal access could determine whether it actually helps policyholders.",
+   "published": "2026-09-08T10:07:14+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/8812aaa2-2fea-11ed-b999-718f354f2123_1662783365300_1704449729689_1788861691956_75d48b4d-20d8-44a8-b993-114e49f5511c_9b470f60-b724-4acf-9ff5-e672aba17804_044c57e6-c155-4902-a1d5-d325b2507e70.jpg",
+   "topics": [],
+   "first_seen": "2026-09-08T10:16:27+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a602a44ed90605cb",
+   "title": "Tax reforms lead to 1.32 cr updated ITRs, ₹16,083 cr additional tax, says CBDT member; key initiatives listed",
+   "link": "https://www.livemint.com/money/personal-finance/tax-reforms-lead-to-1-32-cr-updated-itrs-16-083-cr-additional-tax-says-cbdt-member-key-initiatives-listed-11788859335413.html",
+   "summary": "The NUDGE campaign has led to 1.32 crore updated tax returns, enhancing tax compliance and efficiency. Here's how the income tax department is improving compliance among taxpayers.&nbsp;",
+   "published": "2026-09-08T10:01:49+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/ITAT_case_ruling_1788861690576_896f7e5b-1b8a-4feb-aded-5e9269e99541_1788861694842_aa6a3664-4a03-4f28-acd8-5870ed404d13_321d7864-2a9a-4851-9962-a64a6a2a13ce_3aed3e38-8225-4035-b268-03f54fb3d362.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-08T10:16:27+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d4c5320883a19403",
    "title": "Engineers India stock delivers decisive breakout; Axis Direct shares buy range, stop loss, upside and holding period",
