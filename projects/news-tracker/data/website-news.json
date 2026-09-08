@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T15:00:11+00:00",
+ "generated_at": "2026-09-08T15:30:29+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 07 Sep 2026 14:43:46 GMT",
+   "sample_date": "Tue, 08 Sep 2026 09:34:15 GMT",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 14:40:30 GMT",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 34,
+   "items": 34,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 14:17:48 +0000",
+   "sample_date": "Tue, 08 Sep 2026 15:25:35 +0000",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,86 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "774e19981ed429a1",
+   "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+   "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+   "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+   "published": "2026-09-08T15:25:35+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T15:30:29+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e9d47611d6c5d3b6",
+   "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
+   "link": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
+   "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences.",
+   "published": "2026-09-08T15:08:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T15:30:29+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "3cdd08c8d22323c3",
+   "title": "Tazapay to be acquired by Circle in $400M stock deal",
+   "link": "https://yourstory.com/2026/09/circle-internet-group-to-acquire-singapore-based-tazapay",
+   "summary": "US-based Circle Internet Group will strengthen its position in the APAC region following the acquisition of Tazapay.",
+   "published": "2026-09-08T15:05:22+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-08T15:30:29+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "10701593ca9e6c48",
+   "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+   "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+   "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+   "published": "2026-09-08T15:04:09+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T15:30:29+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c0ae9e2fb546356b",
    "title": "Gold and Silver Prices in India Today, 8 September 2026: Gold at ₹153,570, Silver at ₹239,010 as Both Edge Higher",
@@ -147,6 +225,60 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T15:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-08T14:20:15+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-08T14:19:48+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "81d619960f63f5ed",
+   "title": "Listed Companies - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
+   "summary": "",
+   "published": "2026-09-08T14:19:36+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1053,24 +1185,6 @@
    ]
   },
   {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-08T01:33:31+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "dc81b1eefa7b3b07",
    "title": "- The CapTable",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
@@ -1327,24 +1441,6 @@
    ]
   },
   {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-07T13:46:17+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "c9c1013551a38243",
    "title": "Swiggy Launches Dedicated Helpline to Tackle Food Safety Concerns",
    "link": "https://startuptalky.com/news/swiggy-launches-dedicated-helpline/",
@@ -1377,6 +1473,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ac4baf61e2773435",
+   "title": "HORIBA India unveils Innovation Connect with 15 emerging tech startups",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFJVTm1IZ2E0U0ZnUzZNYWJ2OW9QLVNrRENCeUZQWHIyR2l5T3ZpN2JLdHU5bEtxeG14RWppVTViUUhreTJNR3hpd3Y0YnV6c0xkODFpUmVmaDlEVkhXRzh1SHJGM1p1SXM0Z1k5djVkODNSdDNodGl2d3RrYl9KSnVxd00tQWhfSlNhTkp0LWpqX19ZRzFEVUdwZnVUeFhObGNoNHlKUmJiQdIBqgFBVV95cUxQRFJVTm1IZ2E0U0ZnUzZNYWJ2OW9QLVNrRENCeUZQWHIyR2l5T3ZpN2JLdHU5bEtxeG14RWppVTViUUhreTJNR3hpd3Y0YnV6c0xkODFpUmVmaDlEVkhXRzh1SHJGM1p1SXM0Z1k5djVkODNSdDNodGl2d3RrYl9KSnVxd00tQWhfSlNhTkp0LWpqX19ZRzFEVUdwZnVUeFhObGNoNHlKUmJiQQ?oc=5",
+   "summary": "",
+   "published": "2026-09-07T13:07:53+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T15:30:29+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2045,24 +2159,6 @@
     "Funding",
     "PE / VC"
    ]
-  },
-  {
-   "id": "81d619960f63f5ed",
-   "title": "Listed Companies - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
-   "summary": "",
-   "published": "2026-09-07T02:53:10+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "a133672185551d87",

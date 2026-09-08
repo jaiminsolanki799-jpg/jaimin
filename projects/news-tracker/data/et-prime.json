@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-08T15:00:11+00:00",
+ "generated_at": "2026-09-08T15:30:29+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 20:13:39 +0530",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 08 Sep 2026 20:04:40 +0530",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 08 Sep 2026 20:26:54 +0530",
+   "sample_date": "Tue, 08 Sep 2026 20:44:03 +0530",
    "error": null,
-   "checked_at": "2026-09-08T15:00:11+00:00"
+   "checked_at": "2026-09-08T15:30:29+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "5b4be05850f4a225",
+   "title": "Large-caps underperform mid- and small-caps over 3 years: Why you should look beyond the index",
+   "link": "https://www.livemint.com/money/personal-finance/largecaps-underperform-mid-and-small-caps-over-3-years-why-you-should-look-beyond-the-index-11788872960201.html",
+   "summary": "Large-caps have lagged mid- and small-caps over the last three years, but the headline numbers may not tell the full story. A closer look at individual stocks and broader indices reveals where the weakness is concentrated.&nbsp;",
+   "published": "2026-09-08T15:14:03+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/large_cap_mid_1788877707100_6b76740a-0dba-4f47-86ba-38e136f7b67c_1788877719139_6b796dec-f798-47eb-9827-513baa314264_a189a5c4-c65a-417a-bc75-fc6f88f93713_4847cba1-c079-4f49-a30e-8ccb55b40141.png",
+   "topics": [],
+   "first_seen": "2026-09-08T15:30:29+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "442eda49c5b1dadc",
    "title": "EPFO: Want to update your KYC information? Here's how members can do it online using official portal",
@@ -275,9 +293,9 @@
   },
   {
    "id": "1192b1bae6034c17",
-   "title": "US stocks mixed as Middle East conflict pushes oil prices higher",
+   "title": "US stocks slip as Middle East conflict pushes oil prices higher",
    "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-middle-east-conflict-pushes-oil-prices-higher-11788875231997.html",
-   "summary": "The Dow Jones Industrial Average fell 0.57%, the S&amp;P 500 fell 0.01%, the Nasdaq Composite rose 0.08%",
+   "summary": "As of 10 a.m. Eastern Time, the S&amp;P 500 fell 0.4%. The Dow Jones Industrial Average was down 1% and the Nasdaq Composite was 0.3% lower.",
    "published": "2026-09-08T14:02:49+00:00",
    "source": "Mint Markets",
    "group": "Mint",
