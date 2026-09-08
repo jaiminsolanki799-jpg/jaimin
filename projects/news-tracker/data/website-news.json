@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T12:30:46+00:00",
+ "generated_at": "2026-09-08T13:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
    "error": null,
-   "checked_at": "2026-09-08T12:30:46+00:00"
+   "checked_at": "2026-09-08T13:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 09:34:15 GMT",
+   "sample_date": "Tue, 08 Sep 2026 12:50:00 GMT",
    "error": null,
-   "checked_at": "2026-09-08T12:30:46+00:00"
+   "checked_at": "2026-09-08T13:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 11:50:56 GMT",
    "error": null,
-   "checked_at": "2026-09-08T12:30:46+00:00"
+   "checked_at": "2026-09-08T13:00:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T12:30:46+00:00"
+   "checked_at": "2026-09-08T13:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 08 Sep 2026 09:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-08T12:30:46+00:00"
+   "checked_at": "2026-09-08T13:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "4b83c6832236f277",
+   "title": "7 Kathryn Stockett quotes with unexpected life lessons",
+   "link": "https://yourstory.com/2026/09/kathryn-stockett-quotes",
+   "summary": "Discover 7 powerful Kathryn Stockett quotes that reveal unexpected lessons about courage, kindness, resilience, and self-worth.",
+   "published": "2026-09-08T12:50:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T13:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "555d8240224c12c2",
+   "title": "Navam Capital leads Rs 22 Cr round in DigitalPaani",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhfeGFHenRlSjlTSUtsMlVyS0pqTGdyaDZBNmk4aVViX2hJTF9ZTHRJa29hVFpWZXJNc3E3VkpzTmNTdnNvWFJScXhLRENtQ2Z1dU5sTVRvM3huUnA4emdHUEJmMnZkR2pLWkJMT0ZYbHliU3lrTHF0ZGlKT2tGcTB2TDhaeThFbE5ZSEJjNlJpYTDSAZMBQVVfeXFMTURYX3hhR3p0ZUo5U0lLbDJVcktKakxncmg2QTZpOGlVYl9oSUxfWUx0SWtvYVRaVmVyTXNxN1ZKc05jU3Zzb1hSUnF4S0RDbUNmdXVObE1UbzN4blJwOHpnR1BCZjJ2ZEdqS1pCTE9GWGx5YlN5a0xxdGRpSk9rRnEwdkw4Wnk4RWxOWUhCYzZSaWEw?oc=5",
+   "summary": "",
+   "published": "2026-09-08T12:46:59+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T13:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c91c33a97cbc2013",
+   "title": "The authenticity premium: How heritage storytelling turns ordinary products into trusted brands",
+   "link": "https://yourstory.com/2026/09/heritage-storytelling-trusted-brands",
+   "summary": "How Indian brands are turning nostalgia, regional identity and heritage into an “authenticity premium” that customers are willing to pay for.",
+   "published": "2026-09-08T12:27:49+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T13:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ad3d39fb36cb8482",
    "title": "Why India Diagnoses Child Development Delays Too Late",
@@ -348,7 +402,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "agora.entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T09:21:52+00:00",
