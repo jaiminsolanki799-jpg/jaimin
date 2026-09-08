@@ -5,7 +5,13 @@ name: News tracker refresh
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (UTC); only runs on the default branch
+    # Every 30 minutes (UTC). Schedules only run on the default branch, and
+    # GitHub registers them when this file changes on that branch; if runs
+    # stop appearing under Actions with event "schedule", edit this file.
+    # Two expressions at different minutes so one late tick doesn't starve
+    # the other (GitHub can delay scheduled runs at busy times).
+    - cron: "7,37 * * * *"
+    - cron: "22,52 * * * *"
   workflow_dispatch:         # "Run workflow" button in the Actions tab
   push:
     paths:
