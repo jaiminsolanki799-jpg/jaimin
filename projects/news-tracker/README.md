@@ -7,6 +7,11 @@ Two phone-friendly news dashboards, with the data stored in this repository:
 | **ET Prime & Mint** | Economic Times Prime stories, read from the ET Prime home page and its eleven section pages, plus Mint's companies, markets and money feeds | `et-prime/` |
 | **Startups & Tech** | The CapTable, YourStory, StartupTalky, Entrackr and TechCrunch (The CapTable and Entrackr have no public feed and are read via Google News) | `website-news/` |
 
+The ET Prime & Mint edition wears the look of the printed Economic Times
+(salmon newsprint, black serif masthead, condensed section heads, three
+dense columns), defined in `assets/prime.css` on top of the shared styles;
+the Startups & Tech edition keeps the cream newspaper look.
+
 Each dashboard has a publication bar at the top (the `group` of each
 source, plus a **★ Valuation desk** tab and a **★ Saved** tab), a search box,
 a Filters drawer (time range, unread, section, topic and source), and a list
