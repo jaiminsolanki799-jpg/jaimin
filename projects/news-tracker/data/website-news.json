@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-08T16:00:14+00:00",
+ "generated_at": "2026-09-08T16:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 11,
    "items": 11,
-   "sample_date": "Wed, 02 Sep 2026 06:36:17 GMT",
+   "sample_date": "Fri, 04 Sep 2026 06:19:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:00:14+00:00"
+   "checked_at": "2026-09-08T16:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 09:34:15 GMT",
+   "sample_date": "Tue, 08 Sep 2026 12:27:49 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:00:14+00:00"
+   "checked_at": "2026-09-08T16:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 08 Sep 2026 14:40:30 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:00:14+00:00"
+   "checked_at": "2026-09-08T16:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 35,
    "sample_date": "Mon, 07 Sep 2026 07:26:38 GMT",
    "error": null,
-   "checked_at": "2026-09-08T16:00:14+00:00"
+   "checked_at": "2026-09-08T16:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 15:25:35 +0000",
+   "sample_date": "Tue, 08 Sep 2026 16:20:31 +0000",
    "error": null,
-   "checked_at": "2026-09-08T16:00:14+00:00"
+   "checked_at": "2026-09-08T16:30:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "befa855d43dff530",
+   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+   "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+   "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+   "published": "2026-09-08T16:20:31+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-08T16:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "774e19981ed429a1",
    "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
@@ -799,7 +817,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "agora.entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T09:21:52+00:00",
@@ -1237,24 +1255,6 @@
     "Funding",
     "M&A"
    ]
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-07T22:31:01+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "bbd44de733a8edb7",
@@ -2199,6 +2199,24 @@
    ]
   },
   {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-06T23:30:07+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "9153e8455a0a3e60",
    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
    "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
@@ -2995,7 +3013,7 @@
    "title": "Ather is betting on Konarc. So is Hero MotoCorp",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGlkUHlRWllWcWdhM3JmZ19hT2cwSEFRYzlpaHdubHppZHU0OUU4Yjl1eDdVOFdvVnV1dy1nc2NFRWdUUF9VQUJRQk4zOG81RmNyeEs1T2lTRnRDMFBvOFR5X1JoeFl4YU5KU2JyNEx4MXFScDVhc1MzRHlkTnJUYWMwZmZmb3M?oc=5",
    "summary": "",
-   "published": "2026-09-02T06:36:17+00:00",
+   "published": "2026-09-02T04:35:22+00:00",
    "source": "The CapTable",
    "group": "The CapTable",
    "category": "Startups",
