@@ -315,6 +315,13 @@
     var savedChip = '<button class="chip saved" data-kind="savedTab" data-val="saved" aria-pressed="' + state.savedTab + '">★ Saved<span class="n">' + state.bookmarks.size + "</span></button>";
     var allEnd = groupHtml.indexOf("</button>") + "</button>".length;
     $("chips-group").innerHTML = groupHtml.slice(0, allEnd) + deskChip + savedChip + groupHtml.slice(allEnd);
+    var bar = document.querySelector(".appbar");
+    if (bar) {
+      var active = state.desk ? "desk" : state.savedTab ? "saved" : "all";
+      Array.prototype.forEach.call(bar.querySelectorAll("[data-nav]"), function (b) {
+        b.setAttribute("aria-pressed", b.getAttribute("data-nav") === active);
+      });
+    }
     $("chips-group").hidden = false;
     $("chips-category").innerHTML = chips(catCounts, state.category, "category", "All sections");
     $("chips-category").hidden = Object.keys(catCounts).length < 2;
@@ -458,6 +465,16 @@
       $("ai-app").addEventListener("change", function () {
         ai.app = this.value; saveValue("aiApp", ai.app); renderAiSheet(); renderList();
         toast(ai.app ? AI_ASSISTANTS[ai.app].label + " set as your app" : "No default app");
+      });
+    }
+    var appbar = document.querySelector(".appbar");
+    if (appbar) {
+      appbar.addEventListener("click", function (e) {
+        var b = e.target.closest("[data-nav]"); if (!b) return;
+        var nav = b.getAttribute("data-nav");
+        if (nav === "search") { $("search").focus(); $("search").scrollIntoView({ behavior: "smooth", block: "center" }); return; }
+        state.desk = nav === "desk"; state.savedTab = nav === "saved"; state.group = null; state.shown = PAGE_SIZE;
+        renderChips(state.items); renderList(); window.scrollTo({ top: 0, behavior: "smooth" });
       });
     }
     if ($("top")) {
