@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T02:30:10+00:00",
+ "generated_at": "2026-09-09T03:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
-   "items": 3,
+   "fetched": 8,
+   "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 07:00:56 +0530",
+   "sample_date": "Wed, 09 Sep 2026 08:00:52 +0530",
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 07:48:36 +0530",
+   "sample_date": "Wed, 09 Sep 2026 08:25:45 +0530",
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 07:28:10 +0530",
+   "sample_date": "Wed, 09 Sep 2026 08:28:03 +0530",
    "error": null,
-   "checked_at": "2026-09-09T02:30:10+00:00"
+   "checked_at": "2026-09-09T03:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,86 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "8bd618b65acd78a8",
+   "title": "IRDAI warns against fake Bima Bharosa website, asks policyholders not to share OTP, KYC and banking details online",
+   "link": "https://www.livemint.com/money/personal-finance/irdai-warns-against-fake-bima-bharosa-website-asks-policyholders-not-to-share-otp-kyc-and-banking-details-online-11788922117143.html",
+   "summary": "IRDAI has warned policyholders against a fake website impersonating its Bima Bharosa insurance grievance platform. The regulator has directed consumers to use only the official Bima Bharosa portal and urged those who may have shared sensitive information to take immediate precautions.",
+   "published": "2026-09-09T02:58:03+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Gemini_Generated_Image_k658rgk65rgk658_1788922_1788922485481_060b7109-2ba6-46d2-aa63-082777ee6a78_1788922485614_688ddddf-8191-4c4b-bd34-823256137193_e0ea0040-9f72-404f-91d1-82fcf947e334_3a80db1a-015b-4fb7-a48b-cf5eafbe173a.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-09T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "45e813fdf9575721",
+   "title": "Karamtara Engineering IPO GMP hints 27% listing gain on Day 1. Check subscription, review. Should you apply or avoid?",
+   "link": "https://www.livemint.com/market/ipo/karamtara-engineering-ipo-gmp-hints-27-listing-gain-on-day-1-check-subscription-review-should-you-apply-or-avoid-11788920821156.html",
+   "summary": "Karamtara Engineering IPO opens for subscription on 9 September and closes on 11 September. The price band is set at ₹241-254 per share. The IPO is expected to debut on 17 September with a strong grey market premium indicating positive listing prospects.",
+   "published": "2026-09-09T02:55:45+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Karamtara_Engineering_IPO_1788922420789_514c18f3-6989-4654-accd-13cf11f7cf11_1788922425704_91ec802a-5358-48d5-b6e3-f4b9d8b1efc4_9eafffdc-cbf1-442e-883a-d0b34b0d5d71_53156bb9-15cd-4938-8073-845a279fa609.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-09T03:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "91a5163a520322ae",
+   "title": "Stocks to buy: Apollo Micro Systems, BHEL among 5 shares Bajaj Broking's expert recommends for 1 to 6 months",
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-apollo-micro-systems-bhel-among-5-shares-bajaj-brokings-expert-recommends-for-1-to-6-months-11788869891710.html",
+   "summary": "Stocks to buy: As the Nifty faces headwinds, Bajaj Broking’s technical analyst Pabitro Mukherjee offers strategic stock recommendations for the next one to six months. Discover the five stocks poised for growth, with their target prices.",
+   "published": "2026-09-09T02:30:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Stocks_to_buy_Pabitro_Mukherjee_1788869947311_616c6092-8c4a-4200-9445-5eb49c491e54_1788869955774_573f1163-7248-499b-af4e-eb3ae724761b_91f5d1f0-e538-4bcf-bc92-e1a81312da43_a1006447-fd34-4285-bfa1-b475722a0285.png",
+   "topics": [],
+   "first_seen": "2026-09-09T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "89e7b83cf8c5336d",
+   "title": "US suspends green-card filings by Cognizant amid visa-fraud probe: ‘Threats to American workers…’",
+   "link": "https://www.livemint.com/companies/news/us-suspends-green-card-filings-by-cognizant-amid-visa-fraud-probe-threats-to-american-workers-11788917800925.html",
+   "summary": "PERM is the process through which US employers seek approval from the Department of Labour to sponsor foreign workers for permanent residency.",
+   "published": "2026-09-09T02:30:52+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/USA-SEC-COGNIZANT-TECH-0_1753939006371_1753939018503_1788920464742_5c41eb8b-fc95-4ecd-b056-b99367d5923b_96044b1b-09e4-40af-bfa9-fa10ac5a8ab5_5ff8e0be-6fae-4c35-a995-1ad297266c29.JPG",
+   "topics": [],
+   "first_seen": "2026-09-09T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9eaa2ff93d074a4f",
    "title": "Rentomojo IPO Day 1 LIVE: GMP hints 33% listing pop. Check latest subscription, review, key dates. Should you apply?",
@@ -236,7 +314,7 @@
   },
   {
    "id": "20dbd954471e41c5",
-   "title": "₹10 lakh health insurance does not mean ₹10 lakh payout; Here’s why your insurer may pay less than the hospital bill",
+   "title": "₹10 lakh health insurance does not mean ₹10 lakh payout; here’s why insurers may pay less than hospital bill",
    "link": "https://www.livemint.com/money/personal-finance/10-lakh-health-insurance-does-not-mean-10-lakh-payout-here-s-why-your-insurer-may-pay-less-than-the-hospital-bill-11788918410671.html",
    "summary": "A ₹10 lakh health insurance policy does not always mean the insurer will pay ₹10 lakh of your hospital bill. Room-rent caps, sub-limits, co-payments, deductibles and non-medical expenses can reduce the final claim payout.",
    "published": "2026-09-09T01:56:08+00:00",
@@ -769,7 +847,7 @@
   },
   {
    "id": "3dda96ad2a82978b",
-   "title": "Top stocks in focus today: Investors must watch Innovision, TCS, Bank of Baroda shares on Wed, 9 Sept | Triggers",
+   "title": "Top stocks in focus today: Investors must watch Innovision, Coforge, Bank of Baroda shares on Wed, 9 Sept | Triggers",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-today-investors-must-watch-innovision-tcs-bank-of-baroda-shares-on-wed-9-sept-triggers-11788875139167.html",
    "summary": "On September 9, Indian investors will focus on companies like NLC India, HMA Agro, and Tata Communications following key corporate developments.",
    "published": "2026-09-08T18:30:19+00:00",
@@ -780,9 +858,7 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Stocks_to_watch_on_Sep_8_1788878263056_f701dc42-cd1e-445c-8afa-f2ca6d7f9bdf_1788878268640_5bec8db0-652e-44ac-91a2-2f5954b476bb_7e048763-6194-46ed-a7e5-5690440d0b0a_011061d2-63f1-4fa1-b5b8-4e6605417a8b.png",
-   "topics": [
-    "Income tax"
-   ],
+   "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
    "valuation_score": 0,
    "valuation_signals": []
