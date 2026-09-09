@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T12:00:10+00:00",
+ "generated_at": "2026-09-09T12:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 16:27:45 +0530",
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 17:05:06 +0530",
+   "sample_date": "Wed, 09 Sep 2026 17:47:21 +0530",
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 17:23:21 +0530",
    "error": null,
-   "checked_at": "2026-09-09T12:00:10+00:00"
+   "checked_at": "2026-09-09T12:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "5ab5c5f6a42f913a",
+   "title": "This company is giving ₹50 as stock dividend - Check last date to buy, record date, dividend yield, share performance",
+   "link": "https://www.livemint.com/market/stock-market-news/this-company-is-giving-rs-50-as-stock-dividend-check-last-date-to-buy-record-date-dividend-yield-share-performance-11788955701765.html",
+   "summary": "Victoria Mills Limited announced ₹60 dividend. The company scrip is likely to remain in focus ahead of its dividend record date.&nbsp;",
+   "published": "2026-09-09T12:17:21+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/dividend_asas_1788956008224_49040e33-3030-4f0e-ad8f-7202002b0a3c_1788956020074_43194396-e048-496c-aa53-daed8b9ec998_24e65705-8b12-4290-b557-506e63d7bf29_aa43e3d7-1e7f-48ed-9468-899b56cf8008.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T12:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "914fb5cdfd2a1cd5",
+   "title": "Hang Seng, Taiwan Taiex slip as Middle East tensions push oil above $100. What investors need to watch next?",
+   "link": "https://www.livemint.com/market/stock-market-news/hang-seng-taiwan-taiex-slip-as-middle-east-tensions-push-oil-above-100-what-investors-need-to-watch-next-11788951492880.html",
+   "summary": "Hong Kong's Hang Seng index fell 0.17% to 25,274 amid rising crude oil prices and concerns over energy supply disruptions. Haidilao's shares dropped 9%, while Lenovo gained 2.1%. Analysts are cautious about China's outlook, with inflation data reflecting increased costs from energy and food.",
+   "published": "2026-09-09T11:58:36+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/crude_oil_1788954968972_d5c7daad-672e-4d83-901a-062b3cbb5295_1788954974291_78bafecb-7a4c-436a-bb47-fa3a1e527171_09c78bce-2834-4149-bf54-bc620892e9b2_354904df-3c0f-40cb-a312-bd32e250b72b.png",
+   "topics": [],
+   "first_seen": "2026-09-09T12:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "649e37baab159c38",
    "title": "Health insurance playbook: 5 IRDAI rules every policyholder should know for hassle-free claim settlements",
