@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T17:00:11+00:00",
+ "generated_at": "2026-09-09T17:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 22:22:15 +0530",
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 21:55:04 +0530",
+   "sample_date": "Wed, 09 Sep 2026 22:46:27 +0530",
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 22:10:46 +0530",
+   "sample_date": "Wed, 09 Sep 2026 22:54:52 +0530",
    "error": null,
-   "checked_at": "2026-09-09T17:00:11+00:00"
+   "checked_at": "2026-09-09T17:30:11+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,46 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "8cbf0ae25c1ec3d9",
+   "title": "DA news: Railway union demands Dussehra bonus calculation on higher PLB ceiling, wants ₹18,000 plus dearness allowance",
+   "link": "https://www.livemint.com/money/personal-finance/da-news-railway-union-demands-dussehra-bonus-calculation-on-higher-plb-ceiling-wants-18-000-plus-dearness-allowance-11788969906755.html",
+   "summary": "For employees at Level 2 and above, the association has demanded that the ceiling be increased in proportion to their higher pay levels.",
+   "published": "2026-09-09T17:24:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/PTI02-01-2026-000470A-0_1771056492997_1771056516059_1788971313529_1c196234-df97-49c7-baf3-aafbd4dd39f4_e790b781-9fa7-4938-919d-5a20bd37df92_21feccd6-2ec6-4c28-87da-89e52ec7c582.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T17:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2fa81bf8877eb43f",
+   "title": "US Treasury triples bond buyback to $6 billion: Why markets saw the move as a disappointment",
+   "link": "https://www.livemint.com/market/stock-market-news/us-treasury-triples-bond-buyback-to-6-billion-why-markets-saw-the-move-as-a-disappointment-11788973032057.html",
+   "summary": "The US Treasury tripled the initial size of its next buyback of longer-dated government debt, in an announcement that was met with initial disappointment by investors.",
+   "published": "2026-09-09T17:16:27+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/TREASURY-SECRETARY-SCOTT-BESSENT-HOLDS-A-PRESS-_17_1788973734794_45bca681-1454-4304-9ff6-e539cef9823f_1788973735049_512b31fb-8101-458c-9ad7-945025818fc7_544a198f-ae55-45d1-9dcf-cb34f1246a45_51f8c42d-ba92-4b56-b6fb-15d4bb6ad033.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-09T17:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "fe4813100d5193e0",
    "title": "India is a blueprint for Unilever's emerging markets: global CEO Fernando Fernandez",
