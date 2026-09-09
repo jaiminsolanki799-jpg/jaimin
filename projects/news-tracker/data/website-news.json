@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T19:00:10+00:00",
+ "generated_at": "2026-09-09T19:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T19:00:10+00:00"
+   "checked_at": "2026-09-09T19:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 13:35:03 GMT",
+   "sample_date": "Wed, 09 Sep 2026 15:12:01 GMT",
    "error": null,
-   "checked_at": "2026-09-09T19:00:10+00:00"
+   "checked_at": "2026-09-09T19:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T19:00:10+00:00"
+   "checked_at": "2026-09-09T19:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 34,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T19:00:10+00:00"
+   "checked_at": "2026-09-09T19:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 18:34:24 +0000",
+   "sample_date": "Wed, 09 Sep 2026 19:21:48 +0000",
    "error": null,
-   "checked_at": "2026-09-09T19:00:10+00:00"
+   "checked_at": "2026-09-09T19:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "7522d1a44966b49c",
+   "title": "The hinge for Apple’s new foldable phone was built with AI",
+   "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+   "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+   "published": "2026-09-09T19:21:48+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "886dcaf2dfdce079",
+   "title": "Apple Watch’s new feature listens to your chats and recaps them",
+   "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+   "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+   "published": "2026-09-09T19:08:59+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6184ce65c7bc3fd1",
    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
@@ -2201,7 +2237,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "agora.entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T09:21:52+00:00",
