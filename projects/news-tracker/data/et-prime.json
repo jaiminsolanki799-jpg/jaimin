@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T15:30:17+00:00",
+ "generated_at": "2026-09-09T16:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 20:30:14 +0530",
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 20:53:52 +0530",
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 20:48:32 +0530",
+   "sample_date": "Wed, 09 Sep 2026 21:09:59 +0530",
    "error": null,
-   "checked_at": "2026-09-09T15:30:17+00:00"
+   "checked_at": "2026-09-09T16:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "4612219d2adbe0e1",
+   "title": "Apple-to-Apple comparison: The ₹1.5 lakh iPhone you bought in Sept 2025 vs the Apple shares you could have bought",
+   "link": "https://www.livemint.com/money/personal-finance/appletoapple-comparison-the-rs-1-5-lakh-iphone-you-bought-in-sept-2025-vs-the-apple-shares-you-could-have-bought-11788952899845.html",
+   "summary": "Apple shares closed at around $234 on September 9, 2025, around the launch of the iPhone 17 Pro. Since then, the stock has risen sharply to $320, representing a gain of roughly 36% in dollar terms.",
+   "published": "2026-09-09T15:39:59+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Apple_1788956058791_996eb057-bb8b-4dfc-a69f-05b65cca4297_1788956059097_743307bd-e0dd-41a9-b9dc-77841dc8cdc5_1e6f5c8d-358f-401c-a9a8-2cd85fe561ad_ed50ae59-51aa-402d-80af-206c45c9b67a.png",
+   "topics": [],
+   "first_seen": "2026-09-09T16:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fb1b40902d54966f",
    "title": "NSE IPO: Indian Bank to divest up to 17.91% of its holding in National Stock Exchange via Offer for Sale",
@@ -206,7 +224,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/NSE_IPO_generic_image_1788952348140_813773f5-3e9c-_1788967219727_9b9e09e3-ad17-41b2-b485-411bf6592b1b_1788967219923_2b9ce035-bf1a-47a0-bd4e-fd5a969c84ef_272ad342-70ef-452f-a4a9-2e7b8d405f8b_d34d0088-31b6-422b-81ab-19ebf16b02ff.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/NSE_IPO_generic_image_1788952348140_813773f5-3e9c-_1788967219727_9b9e09e3-ad17-41b2-b485-411bf6592b1b_1788967219923_2b9ce035-bf1a-47a0-bd4e-fd5a969c84ef_272ad342-70ef-452f-a4a9-2e7b8d405f8b_d34d0088-31b6-422b-81ab-19ebf16b02ff.png",
    "topics": [
     "SEBI / markets regulation"
    ],
@@ -1928,7 +1946,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/USA-SEC-COGNIZANT-TECH-0_1753939006371_1753939018503_1788920464742_5c41eb8b-fc95-4ecd-b056-b99367d5923b_96044b1b-09e4-40af-bfa9-fa10ac5a8ab5_5ff8e0be-6fae-4c35-a995-1ad297266c29.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/maxresdefault_1788968693817_eed38ed9-ca08-4e5c-8f97-90d4620a6c0f_1788968699323_ccd986c0-910e-4e32-b2c3-3b419ea7b3d8_a8f8ff78-c38c-4b8a-b74a-61a00f007f48_086c8169-e294-4194-bc55-13a3d949d9fd.jpg",
    "topics": [],
    "first_seen": "2026-09-09T03:00:09+00:00",
    "valuation_score": 0,
