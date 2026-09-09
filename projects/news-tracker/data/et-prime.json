@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T00:00:10+00:00",
+ "generated_at": "2026-09-09T00:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 00:52:08 +0530",
+   "sample_date": "Wed, 09 Sep 2026 05:50:55 +0530",
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 01:27:49 +0530",
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 00:24:08 +0530",
    "error": null,
-   "checked_at": "2026-09-09T00:00:10+00:00"
+   "checked_at": "2026-09-09T00:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,69 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "d6c654a1fdfa9153",
+   "title": "Air India continues to exit small cities to give way to Air India Express",
+   "link": "https://www.livemint.com/companies/news/air-india-exit-small-cities-air-india-express-transition-tata-group-airline-11788883401053.html",
+   "summary": "It has been a conscious strategy for Air India's increased focus on international and long-haul destinations and key metro routes, while Air India Express takes on a larger role in the regional markets and feeds passengers into the group’s major hubs.",
+   "published": "2026-09-09T00:20:55+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/AIR-INDIA-EXP-MOVES--0_1774966060331_1774966080287_1788888569802_e789b478-b3e4-438f-a8e2-36651d6c0c9f_fadb2670-9022-4e74-bb11-c1a13de78431_0d14d0c1-cfc0-4850-b737-eb6d9bcd97b8.JPG",
+   "topics": [],
+   "first_seen": "2026-09-09T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "48c3775d37d5b72d",
+   "title": "upGrad bets on corporate upskilling, advisory ahead of 2027 listing",
+   "link": "https://www.livemint.com/companies/upgrad-bets-on-corporate-upskilling-advisory-ahead-of-2027-listing-11788855169092.html",
+   "summary": "Temasek-backed upGrad is entering B2B advisory services, offering corporate upskilling as it broadens its portfolio ahead of a planned 2027 listing. The move follows its $245 million Unacademy acquisition and builds on upGrad Enterprise, which is growing at 40% annually.",
+   "published": "2026-09-09T00:05:34+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/upgrad_1762459306158_1762459310280_1788865397138_5fb48120-48d9-4ef4-a391-6c4e5d20eb26_eea41bd4-4fae-407d-8cb2-fe88cac97974_4fcfc067-ef7c-49d3-8f57-2e95e3104d81.jpg",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-09T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a3caeacf449332c6",
+   "title": "With eight acquisitions, Adani Power is the most prolific buyer from bankruptcy court",
+   "link": "https://www.livemint.com/companies/adani-power-acquisition-strategy-bankrupt-companies-gvk-energy-11788855834581.html",
+   "summary": "Adani Power has made distressed assets a thrifty route to scale, with a third of its operational capacity now coming from acquisitions under the bankruptcy law.",
+   "published": "2026-09-09T00:00:54+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Adani_Power_Bangladesh_contract_breach_allege_news_1734595305290_1788869158230_e7fb556d-fa90-47ed-b3f4-70e3e0681be9_f8b58032-9262-402d-b0e3-2e7eb0ab1ba2_86558267-3b10-41a9-b6c2-f5c00190e11a.JPG",
+   "topics": [
+    "Insolvency / IBC"
+   ],
+   "first_seen": "2026-09-09T00:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
+  },
   {
    "id": "c1bf07cd83ff7647",
    "title": "Yen holds near seven-month high as US dollar steadies",
