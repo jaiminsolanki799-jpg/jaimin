@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T14:00:09+00:00",
+ "generated_at": "2026-09-09T14:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 01:30:00 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:12:09 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 13:01:00 +0000",
+   "sample_date": "Wed, 09 Sep 2026 14:18:34 +0000",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "6c16839213c849ae",
+   "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+   "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+   "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+   "published": "2026-09-09T14:18:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T14:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c42bdafe6600df2e",
+   "title": "Motilal Oswal Alternates Invests ₹600 Crore in KARAM Safety for Global M&A Push",
+   "link": "https://yourstory.com/2026/09/karam-safety-motilal-oswal-alternates-600-crore-investment",
+   "summary": "KARAM Safety, India's largest PPE maker, raises ₹600 crore from Motilal Oswal Alternates to fund global M&A and expansion.",
+   "published": "2026-09-09T14:11:32+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T14:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d8c538a3f0ca4bca",
    "title": "Samtel Avionics, BULL explore joint approach to space debris",

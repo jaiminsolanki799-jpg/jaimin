@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T14:00:09+00:00",
+ "generated_at": "2026-09-09T14:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 19:10:35 +0530",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 19:28:53 +0530",
+   "sample_date": "Wed, 09 Sep 2026 19:29:05 +0530",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 18:43:30 +0530",
    "error": null,
-   "checked_at": "2026-09-09T14:00:09+00:00"
+   "checked_at": "2026-09-09T14:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "f837d9e2121a8603",
+   "title": "Vodafone Idea share price: Jefferies sees 132% upside to ₹36 on tariff hikes; initiates coverage with 'Buy' rating",
+   "link": "https://www.livemint.com/market/vodafone-idea-share-price-jefferies-sees-132-upside-to-rs-36-on-tariff-hikes-initiates-coverage-with-buy-rating-11788961070519.html",
+   "summary": "Global brokerage Jefferies anticipates Vodafone Idea's stock to rally, now projecting a target of ₹20, driven by subscriber growth, tariff increases, and improved cash flows. Potentially, with further tariffs hikes, the stock could reach ₹36.",
+   "published": "2026-09-09T13:59:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Vodafone_1788962119066_c2e92c2e-9ec2-4d20-80a2-2df9fe959f26_1788962127561_7c2ead76-72d3-49e4-ab59-2bbd50561e0c_f4220542-4aae-4946-98ef-b7d2ef98fbbe_70ea110a-2096-4f3f-b9a0-4c6aa4dac2ac.png",
+   "topics": [],
+   "first_seen": "2026-09-09T14:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "54cff6f7a4141339",
    "title": "US stocks fall as oil surges past $100 on deepening Middle East tensions",
@@ -2383,7 +2401,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -4527,7 +4545,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
