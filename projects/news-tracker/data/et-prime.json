@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T18:00:09+00:00",
+ "generated_at": "2026-09-09T18:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 22:22:15 +0530",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 22:59:16 +0530",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 23:24:25 +0530",
+   "sample_date": "Wed, 09 Sep 2026 23:53:04 +0530",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "1d0c1d08e54895b6",
+   "title": "₹34 lakh tax relief for F&O trader: Why ITAT Delhi rejected the ‘speculative loss’ tag",
+   "link": "https://www.livemint.com/money/personal-finance/34-lakh-tax-relief-for-f-o-trader-why-itat-delhi-rejected-the-speculative-loss-tag-11788974659072.html",
+   "summary": "The tribunal examined the distinction between the purchase and sale of shares and transactions carried out in exchange-traded derivatives",
+   "published": "2026-09-09T18:23:04+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/itr_1788976557794_988f7c2c-a4fe-4cc3-b01b-7e19f3661288_1788976582203_d429388a-b817-42d3-ae7c-2d6b06c56c5b_cfe676fa-992e-46c3-b470-965ace1750b3_19a1f524-d632-429f-8f30-9e372ecbadf5.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e51e9f47e58ecaa6",
    "title": "Pharma mutual funds: Kotak Healthcare leads 1-year returns at over 28% — here’s how others performed",
@@ -360,7 +378,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Apple_1788887074611_bdc501be-c42d-45d9-86fc-4ba463_1788970720341_bfaac6e0-ad56-489d-84b7-61bc5f3353b9_1788970720645_472580ba-e5a2-445a-81ce-3e186837cb31_a77a950b-5ac6-4f25-b2e2-7e69a6d7a365_250d02dd-3c86-40e6-a414-2f14b2eaa3fa.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/maxresdefault_live_1788977687199_f2351d47-9ea8-4927-92fb-f96848360a69_1788977694300_0b91c5cd-b3b0-4562-a0c6-3ef9e106d26f_e7a7e5e6-1c94-4795-afec-8d60dec813a2_9d8ef511-4dde-4895-9c19-67d42c1ec136.jpg",
    "topics": [
     "Budget / policy"
    ],

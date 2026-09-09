@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T18:00:09+00:00",
+ "generated_at": "2026-09-09T18:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 15:12:01 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:27:58 GMT",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 34,
-   "items": 34,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 17:58:14 +0000",
+   "sample_date": "Wed, 09 Sep 2026 18:16:29 +0000",
    "error": null,
-   "checked_at": "2026-09-09T18:00:09+00:00"
+   "checked_at": "2026-09-09T18:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,13 +71,85 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "6e5ebd9079dc739d",
+   "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+   "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+   "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+   "published": "2026-09-09T18:16:29+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c7c431b0dcb18e58",
+   "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+   "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+   "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+   "published": "2026-09-09T18:08:46+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "83655f368aed220b",
+   "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+   "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+   "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+   "published": "2026-09-09T18:08:35+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6de268d6603e5f6a",
+   "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+   "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+   "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+   "published": "2026-09-09T18:06:40+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lauren Forristal",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a2efede3e819ccce",
    "title": "Apple unveils its first foldable, the iPhone Duo",
    "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-   "summary": "Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. The company said that the new device was “Inspired by the versatility of iPad” and also showed how…",
+   "summary": "Apple today introduced its first foldable device, named the iPhone Duo, at its “Surprise and Shine” iPhone event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form…",
    "published": "2026-09-09T17:58:14+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
