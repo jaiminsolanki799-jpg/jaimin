@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T16:30:10+00:00",
+ "generated_at": "2026-09-09T17:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T16:30:10+00:00"
+   "checked_at": "2026-09-09T17:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 15:07:01 GMT",
+   "sample_date": "Wed, 09 Sep 2026 15:12:01 GMT",
    "error": null,
-   "checked_at": "2026-09-09T16:30:10+00:00"
+   "checked_at": "2026-09-09T17:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T16:30:10+00:00"
+   "checked_at": "2026-09-09T17:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T16:30:10+00:00"
+   "checked_at": "2026-09-09T17:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 16:05:35 +0000",
+   "sample_date": "Wed, 09 Sep 2026 16:44:21 +0000",
    "error": null,
-   "checked_at": "2026-09-09T16:30:10+00:00"
+   "checked_at": "2026-09-09T17:00:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "cb7c534abe1304f0",
+   "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+   "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+   "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust […]",
+   "published": "2026-09-09T16:44:21+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lauren Forristal",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T17:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e4d7a91899aaae25",
    "title": "Superintelligence is coming. Should we let it?",
@@ -131,7 +149,7 @@
    "id": "2ae00fd70a25300d",
    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
    "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-   "summary": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+   "summary": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
    "published": "2026-09-09T15:10:41+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
