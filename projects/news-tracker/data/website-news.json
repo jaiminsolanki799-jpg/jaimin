@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T21:30:12+00:00",
+ "generated_at": "2026-09-09T22:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T21:30:12+00:00"
+   "checked_at": "2026-09-09T22:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 01:30:00 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:12:09 GMT",
    "error": null,
-   "checked_at": "2026-09-09T21:30:12+00:00"
+   "checked_at": "2026-09-09T22:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T21:30:12+00:00"
+   "checked_at": "2026-09-09T22:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 34,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T21:30:12+00:00"
+   "checked_at": "2026-09-09T22:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 20:58:09 +0000",
+   "sample_date": "Wed, 09 Sep 2026 21:43:34 +0000",
    "error": null,
-   "checked_at": "2026-09-09T21:30:12+00:00"
+   "checked_at": "2026-09-09T22:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "9b8574f427225873",
+   "title": "Massachusetts hits data centers with new clean power rules",
+   "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+   "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+   "published": "2026-09-09T21:43:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T22:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "784d99cb2172dcfd",
    "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
@@ -405,7 +423,7 @@
    "id": "cb7c534abe1304f0",
    "title": "DOJ wants more answers on Fox’s $22B Roku deal",
    "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-   "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust […]",
+   "summary": "The investigation also comes as the DOJ has faced criticism over how it handles major mergers, including questions about political influence.",
    "published": "2026-09-09T16:44:21+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
