@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T13:30:28+00:00",
+ "generated_at": "2026-09-09T14:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T13:30:28+00:00"
+   "checked_at": "2026-09-09T14:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 12:50:00 GMT",
+   "sample_date": "Wed, 09 Sep 2026 01:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T13:30:28+00:00"
+   "checked_at": "2026-09-09T14:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 09 Sep 2026 12:21:50 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T13:30:28+00:00"
+   "checked_at": "2026-09-09T14:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T13:30:28+00:00"
+   "checked_at": "2026-09-09T14:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 09 Sep 2026 13:01:00 +0000",
    "error": null,
-   "checked_at": "2026-09-09T13:30:28+00:00"
+   "checked_at": "2026-09-09T14:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "d8c538a3f0ca4bca",
+   "title": "Samtel Avionics, BULL explore joint approach to space debris",
+   "link": "https://yourstory.com/2026/09/samtel-avionics-bull-explore-joint-approach-to-space-debris",
+   "summary": "Samtel Avionics and Japan’s BULL will explore combining passive post-mission disposal and active debris removal technologies to develop practical solutions for space sustainability.",
+   "published": "2026-09-09T13:35:03+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T14:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "72ad5e5cf287f5c1",
+   "title": "Fleet management platform Carrum Mobility raises $10 Mn in Series B led by Uber",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVVhSDlfRDlTYjdIMHRXMjdJX3pDQUxEdHkzSVFZMHZ2UEdyM1pHRWdwR3FILW5uOWhyUngxaTc1bENrM2xZZ2k5YVppTFo5Nld5cGJ6YklkN0pad19nRXc4SGt0OWpZVWh1T0xxYk5ZREFQbXN4S1Y2a3lmMDZ2Mnp5WU1CWEF5UnMtQ0o2YnVCcnJDalVkelZpYWJDWFVkM2R1NUE5XzZRRXloLTBuNkp3TXpPS3o40gG4AUFVX3lxTE85VWFIOV9EOVNiN0gwdFcyN0lfekNBTER0eTNJUVkwdnZQR3IzWkdFZ3BHcUgtbm45aHJSeDFpNzVsQ2szbFlnaTlhWmlMWjk2V3lwYnpiSWQ3Slp3X2dFdzhIa3Q5allVaHVPTHFiTllEQVBtc3hLVjZreWYwNnYyenlZTUJYQXlScy1DSjZidUJyckNqVWR6VmlhYkNYVWQzZHU1QTlfNlFFeWgtMG42SndNek9Lejg?oc=5",
+   "summary": "",
+   "published": "2026-09-09T13:34:42+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T14:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "daf5aaff80b00043",
+   "title": "Paytm Expands into AI Business, Targets Banks and Insurers with AI Agents",
+   "link": "https://startuptalky.com/news/paytm-expands-into-ai-business/",
+   "summary": "Paytm is entering the artificial intelligence industry with Pi, an AI agent platform for banks and insurers in India and the UAE. Trained on Paytm’s financial and consumer data, Pi is capable of assisting in sales, customer service, fraud detection, credit evaluation and insurance claims.",
+   "published": "2026-09-09T13:29:29+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/paytm-expands-into-ai-business-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T14:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2403312ba55a48c6",
    "title": "From AI pilots to production: Rebuilding the enterprise stack for intelligent agents",
