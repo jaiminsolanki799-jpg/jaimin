@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T14:30:10+00:00",
+ "generated_at": "2026-09-09T15:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:30:10+00:00"
+   "checked_at": "2026-09-09T15:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 13:12:09 GMT",
+   "sample_date": "Tue, 08 Sep 2026 10:50:57 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:30:10+00:00"
+   "checked_at": "2026-09-09T15:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:30:10+00:00"
+   "checked_at": "2026-09-09T15:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T14:30:10+00:00"
+   "checked_at": "2026-09-09T15:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 14:18:34 +0000",
+   "sample_date": "Wed, 09 Sep 2026 14:51:45 +0000",
    "error": null,
-   "checked_at": "2026-09-09T14:30:10+00:00"
+   "checked_at": "2026-09-09T15:00:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,46 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "c44948af036a175d",
+   "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+   "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+   "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+   "published": "2026-09-09T14:51:45+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T15:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "29381724e7f7c7b3",
+   "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+   "link": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+   "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+   "published": "2026-09-09T14:38:41+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-09T15:00:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "6c16839213c849ae",
    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
