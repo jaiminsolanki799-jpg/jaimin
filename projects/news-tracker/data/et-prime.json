@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T20:30:11+00:00",
+ "generated_at": "2026-09-09T21:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 00:02:27 +0530",
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 00:19:54 +0530",
+   "sample_date": "Thu, 10 Sep 2026 02:13:13 +0530",
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 00:45:25 +0530",
    "error": null,
-   "checked_at": "2026-09-09T20:30:11+00:00"
+   "checked_at": "2026-09-09T21:00:13+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "686e7480f03fa3ad",
+   "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
+   "link": "https://www.livemint.com/market/wall-street-dips-as-100-oil-inflation-worries-weigh-on-investors-11788986594338.html",
+   "summary": "GLOBAL-MARKETS:Wall Street dips as $100 oil, inflation worries weigh on investors",
+   "published": "2026-09-09T20:43:13+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T21:00:13+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
+  {
+   "id": "46a764136fb049ce",
+   "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+   "link": "https://www.livemint.com/market/dollar-trades-near-7-month-low-against-yen-as-oil-settles-above-100-11788985799649.html",
+   "summary": "GLOBAL-FOREX:Dollar trades near 7-month low against yen as oil settles above $100",
+   "published": "2026-09-09T20:29:59+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T21:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4d2019d7c0850bce",
    "title": "Global Fintech Fest 2026: Agentic AI, tokenisation and quantum—how these 3 technologies could change how you invest",
@@ -2800,7 +2838,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -4944,7 +4982,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
