@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T11:30:09+00:00",
+ "generated_at": "2026-09-09T12:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T11:30:09+00:00"
+   "checked_at": "2026-09-09T12:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 01:50:00 GMT",
+   "sample_date": "Wed, 09 Sep 2026 07:50:07 GMT",
    "error": null,
-   "checked_at": "2026-09-09T11:30:09+00:00"
+   "checked_at": "2026-09-09T12:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 09 Sep 2026 09:27:35 GMT",
+   "sample_date": "Wed, 09 Sep 2026 11:32:18 GMT",
    "error": null,
-   "checked_at": "2026-09-09T11:30:09+00:00"
+   "checked_at": "2026-09-09T12:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 34,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T11:30:09+00:00"
+   "checked_at": "2026-09-09T12:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 09 Sep 2026 06:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-09T11:30:09+00:00"
+   "checked_at": "2026-09-09T12:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "ffca860a0d292b97",
+   "title": "Meta India Faces Notice Over Sexual Abuse Ads Allegations, Officials Summoned",
+   "link": "https://startuptalky.com/news/meta-india-faces-notice-over-sexual-abuse-ads/",
+   "summary": "NCPCR has summoned Meta India’s Managing Director and Head on charges that Instagram is running adverts promoting Child Sexual Exploitation and Abuse Material (CSEAM). Child rights body opens official investigation after BBC Eye report and Meta’s response.",
+   "published": "2026-09-09T11:32:18+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/meta-india-faces-notice-over-sexual-abuse-ads-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T12:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "279231ce8f431790",
    "title": "BharatPe launches Agentic AI and credit coach at Global Fintech Fest 2026",
