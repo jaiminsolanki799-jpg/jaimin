@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-09T15:00:11+00:00",
+ "generated_at": "2026-09-09T15:30:17+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-09T15:00:11+00:00"
+   "checked_at": "2026-09-09T15:30:17+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 08 Sep 2026 10:50:57 GMT",
+   "sample_date": "Wed, 09 Sep 2026 01:50:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T15:00:11+00:00"
+   "checked_at": "2026-09-09T15:30:17+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-09T15:00:11+00:00"
+   "checked_at": "2026-09-09T15:30:17+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-09T15:00:11+00:00"
+   "checked_at": "2026-09-09T15:30:17+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 14:51:45 +0000",
+   "sample_date": "Wed, 09 Sep 2026 15:13:12 +0000",
    "error": null,
-   "checked_at": "2026-09-09T15:00:11+00:00"
+   "checked_at": "2026-09-09T15:30:17+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,98 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "8a3c145c0f8175db",
+   "title": "Viral AI assistant Instinct now has its own email address",
+   "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+   "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+   "published": "2026-09-09T15:13:12+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T15:30:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "061f2451c3374894",
+   "title": "10 Self-help books for people navigating life with ADHD",
+   "link": "https://yourstory.com/2026/09/self-help-book-adhd",
+   "summary": "Discover 10 insightful self-help books for ADHD that offer practical strategies for focus, productivity, emotional balance, and daily success.",
+   "published": "2026-09-09T15:12:01+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T15:30:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2ae00fd70a25300d",
+   "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+   "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+   "summary": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+   "published": "2026-09-09T15:10:41+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T15:30:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "470f50f3c82c2f4e",
+   "title": "5 Books where the villain might have been right all along",
+   "link": "https://yourstory.com/2026/09/books-villian-right",
+   "summary": "Explore five thought-provoking books where the supposed villain raises uncomfortable truths, making readers question who is truly right.",
+   "published": "2026-09-09T15:07:01+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T15:30:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2a6c42dd68bf436e",
+   "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+   "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+   "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+   "published": "2026-09-09T15:02:47+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-09T15:30:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c44948af036a175d",
    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
