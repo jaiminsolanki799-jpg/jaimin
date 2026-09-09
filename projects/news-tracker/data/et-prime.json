@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T05:00:10+00:00",
+ "generated_at": "2026-09-09T05:30:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 10:02:45 +0530",
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 10:18:54 +0530",
+   "sample_date": "Wed, 09 Sep 2026 10:55:51 +0530",
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 10:22:44 +0530",
    "error": null,
-   "checked_at": "2026-09-09T05:00:10+00:00"
+   "checked_at": "2026-09-09T05:30:14+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "e845adeb57baa2cd",
+   "title": "Realty launches galore despite affordability concerns",
+   "link": "https://www.livemint.com/market/mark-to-market/nifty-realty-index-rally-real-estate-stocks-property-launches-11788928025285.html",
+   "summary": "Analysts say a prolonged war could be a dampener for realty companies' profitability. Plus, there is no clarity yet on the second-order effects of rising artificial intelligence adoption on IT hotspots, which can be a potential risk.",
+   "published": "2026-09-09T05:25:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/aas_1788930634107_b0f3604b-bce8-4333-b16a-579216ddd0ab_1788930634401_6d890bb0-3053-4cd0-90d5-1bc1aee3355f_fe898dea-17bc-454b-97a6-7ec3b22e7774_821968ec-4b95-47e4-9a36-078b0740aa7b.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T05:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "729da67e20bf82d9",
+   "title": "Coforge share price cracks 9% after Chairman OP Bhatt resigns following audit | Other IT stocks also in red",
+   "link": "https://www.livemint.com/market/stock-market-news/coforge-share-price-cracks-9-after-chairman-op-bhatt-resigns-following-audit-other-it-stocks-also-in-red-11788930116417.html",
+   "summary": "Coforge shares dropped nearly 9% on September 9 after the resignation of non-executive Director Om Prakash Bhatt. The stock fell to ₹1,780.10. The Board appointed Vivek Sharma as interim Chairperson until January 31, 2027.",
+   "published": "2026-09-09T05:13:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/coforge_1788930729080_12194a89-2262-4e9f-8f83-ce9a172ab21d_1788930735440_491a82ae-2ba0-48f8-bc18-670e18e96128_b2f291f3-aaa6-4b8d-b826-8e0ad29cd34e_1b74bd25-7f8e-4abf-9654-236958fa73e9.png",
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-09-09T05:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "78d742572607b2ab",
+   "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today",
+   "link": "https://www.livemint.com/market/stock-market-news/why-is-indian-stock-market-down-3-key-factors-explained-top-losers-contributing-to-the-fall-in-sensex-nifty-today-11788929514382.html",
+   "summary": "The Sensex dropped more than 650 points, or nearly 1%, to drop to an intraday low of 74,923, while the NSE barometer Nifty 50 also dropped nearly 1% to the day's low of 23,467 during the session.",
+   "published": "2026-09-09T05:04:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/Stock_market_crash_1772420886814_1772420895521_1788929808270_0d01d44e-a671-4f05-8924-f4128535d123_644815c2-949b-4e6e-b193-5a2abe20b06e_60b0f886-5848-4c9a-80ec-6eba48952854.png",
+   "topics": [],
+   "first_seen": "2026-09-09T05:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "18c5dd8c655c93f8",
+   "title": "Graphite India share price soars 18% to touch 52-week high; here’s what’s behind the sudden rally",
+   "link": "https://www.livemint.com/market/stock-market-news/graphite-india-share-price-soars-18-to-touch-52-week-high-here-s-what-s-behind-the-sudden-rally-11788928498043.html",
+   "summary": "Graphite India shares soared 18%, reaching a 52-week high, following GrafTech International's announcement of a 30% price increase. Analysts see this as a potential sign of a recovery in global electrode prices, benefiting Indian manufacturers like Graphite India, enhancing earnings visibility.",
+   "published": "2026-09-09T05:00:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Graphite_India_1788929627579_2a61905b-ce86-401c-b16a-d02d37847003_1788929633423_57a2cd9f-a506-437c-b605-9e4884eab4ae_9a28e245-97d9-4351-abaa-a36ab45cd3b1_1c31a5d0-d567-488a-b5b1-b3cdf301dc73.png",
+   "topics": [],
+   "first_seen": "2026-09-09T05:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9cdd56f5f4f7cba6",
    "title": "Home loan hurting your finances? Here's how you can recover from an overstretched EMI",
@@ -483,7 +557,7 @@
   },
   {
    "id": "45e813fdf9575721",
-   "title": "Karamtara Engineering IPO GMP hints 27% listing gain on Day 1. Check subscription, review. Should you apply or avoid?",
+   "title": "Karamtara Engineering IPO Day 1: Issue booked 3.84x so far. Check key dates, review, issue details. Should you apply?",
    "link": "https://www.livemint.com/market/ipo/karamtara-engineering-ipo-gmp-hints-27-listing-gain-on-day-1-check-subscription-review-should-you-apply-or-avoid-11788920821156.html",
    "summary": "Karamtara Engineering IPO opens for subscription on 9 September and closes on 11 September. The price band is set at ₹241-254 per share. The IPO is expected to debut on 17 September with a strong grey market premium indicating positive listing prospects.",
    "published": "2026-09-09T02:55:45+00:00",
@@ -541,7 +615,7 @@
   },
   {
    "id": "9eaa2ff93d074a4f",
-   "title": "Rentomojo IPO Day 1 LIVE: GMP hints 33% listing pop. Check latest subscription, review, key dates. Should you apply?",
+   "title": "Rentomojo IPO Day 1 LIVE: Issue subscribed 15% so far. GMP hints 33% listing pop. Should you apply?",
    "link": "https://www.livemint.com/market/ipo/rentomojo-ipo-day-1-live-gmp-hints-33-listing-pop-check-latest-subscription-review-key-dates-should-you-apply-11788917981467.html",
    "summary": "Rentomojo IPO launches on 9 September, closing 11 September, with shares priced at ₹384-404. Expected listing is ₹538. The dual structure includes a fresh issue and OFS, underscoring investor confidence in Rentomojo’s innovative leasing model aimed at easing rental costs in India.",
    "published": "2026-09-09T02:18:36+00:00",
@@ -1083,7 +1157,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -3227,7 +3301,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
