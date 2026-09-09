@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T16:00:10+00:00",
+ "generated_at": "2026-09-09T16:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 09 Sep 2026 20:30:14 +0530",
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 20:53:52 +0530",
+   "sample_date": "Wed, 09 Sep 2026 21:55:04 +0530",
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 09 Sep 2026 21:09:59 +0530",
+   "sample_date": "Wed, 09 Sep 2026 21:57:54 +0530",
    "error": null,
-   "checked_at": "2026-09-09T16:00:10+00:00"
+   "checked_at": "2026-09-09T16:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,86 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "fa16346a7c9194f6",
+   "title": "What’s a Freedom Fund? 5 reasons it offers much more than emergency savings, helps you worry less about what-ifs of life",
+   "link": "https://www.livemint.com/money/personal-finance/whats-a-freedom-fund-5-reasons-it-offers-much-more-than-emergency-savings-helps-you-worry-less-about-what-ifs-of-life-11788970594944.html",
+   "summary": "A freedom fund is a savings set aside to facilitate life changes, such as career breaks or relocations, without touching your emergency fund.&nbsp;",
+   "published": "2026-09-09T16:27:54+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Freedom_Fund_1788971216985_e9acae7e-0609-4091-bb99-cf7497c54031_1788971224215_393cfb7b-5c96-43de-a2e0-301b8e75333a_385ee0c0-6b48-4b6e-ab3d-b67148411e3f_ef1688de-f512-428c-8ed2-409a06642a1d.jpg",
+   "topics": [],
+   "first_seen": "2026-09-09T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "76277543c26c555b",
+   "title": "Apple stock movement: How iPhone 18, foldable phone expectations are impacting Apple shares? All eyes on Ultra ‘duo’",
+   "link": "https://www.livemint.com/market/stock-market-news/apple-stock-movement-how-iphone-18-foldable-phone-expectations-are-impacting-apple-shares-all-eyes-on-ultra-duo-11788969165541.html",
+   "summary": "At Wednesday’s event, Apple is expected to refresh its premium iPhone Pro and Pro Max models while holding off on updates to the iPhone Air and base and budget models until spring 2027.",
+   "published": "2026-09-09T16:25:04+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Apple_1788887074611_bdc501be-c42d-45d9-86fc-4ba463_1788970720341_bfaac6e0-ad56-489d-84b7-61bc5f3353b9_1788970720645_472580ba-e5a2-445a-81ce-3e186837cb31_a77a950b-5ac6-4f25-b2e2-7e69a6d7a365_250d02dd-3c86-40e6-a414-2f14b2eaa3fa.png",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-09T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "eb11eb3e45bd27ff",
+   "title": "Parag Parikh Flexi Cap Fund: What it bought and sold in August 2026; top 10 holdings revealed",
+   "link": "https://www.livemint.com/money/personal-finance/parag-parikh-flexi-cap-fund-what-it-bought-and-sold-in-august-2026-top-10-holdings-revealed-11788964819743.html",
+   "summary": "Parag Parikh Flexi Cap Fund, India’s largest mutual fund scheme, added DLF and Knowledge Realty Trust in August 2026 and exited one REIT. It also raised exposure to 10 holdings and trimmed one. Here’s what you need to know.",
+   "published": "2026-09-09T16:22:27+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/funds_paa_1788968830352_e85a994f-0ea1-47b0-bb48-5a6a13d5d42a_1788968834192_23471461-5d3b-4141-9b5f-0609d0d3f3b9_d030dd98-570a-4691-894f-393c6772e1d2_55c570cc-6504-4a83-bbb2-331228def911.png",
+   "topics": [],
+   "first_seen": "2026-09-09T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5b526bb6b90d8aa9",
+   "title": "Sebi eases commodity position limits, caps penalties for breaches",
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-eases-commodity-position-limits-caps-penalties-for-breaches-11788965610013.html",
+   "summary": "Higher limits will give traders more room to take positions, while revised penalties seek to curb repeated breaches.",
+   "published": "2026-09-09T15:59:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1788969335624_bdc434bd-9f9c-4ab4-99d5-042cc54cb003_f4f0b400-614d-41ad-988c-867a076f56e8_bcd2dd29-d8f6-40a7-95ac-3fb15321b200.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-09T16:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
   {
    "id": "4612219d2adbe0e1",
    "title": "Apple-to-Apple comparison: The ₹1.5 lakh iPhone you bought in Sept 2025 vs the Apple shares you could have bought",
