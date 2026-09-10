@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T19:30:09+00:00",
+ "generated_at": "2026-09-10T20:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T19:30:09+00:00"
+   "checked_at": "2026-09-10T20:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 12:08:11 GMT",
+   "sample_date": "Thu, 10 Sep 2026 15:23:23 GMT",
    "error": null,
-   "checked_at": "2026-09-10T19:30:09+00:00"
+   "checked_at": "2026-09-10T20:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-10T19:30:09+00:00"
+   "checked_at": "2026-09-10T20:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 23,
-   "items": 23,
+   "fetched": 21,
+   "items": 21,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T19:30:09+00:00"
+   "checked_at": "2026-09-10T20:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 18:38:00 +0000",
+   "sample_date": "Thu, 10 Sep 2026 19:50:04 +0000",
    "error": null,
-   "checked_at": "2026-09-10T19:30:09+00:00"
+   "checked_at": "2026-09-10T20:00:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "11165f51c8c68811",
+   "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+   "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+   "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+   "published": "2026-09-10T19:50:04+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T20:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a39524121942bc00",
    "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
