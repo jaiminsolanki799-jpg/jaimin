@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T17:00:13+00:00",
+ "generated_at": "2026-09-10T17:30:15+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 22:19:09 +0530",
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 22:20:15 +0530",
+   "sample_date": "Thu, 10 Sep 2026 22:52:18 +0530",
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 21:54:11 +0530",
    "error": null,
-   "checked_at": "2026-09-10T17:00:13+00:00"
+   "checked_at": "2026-09-10T17:30:15+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "59cbbfd19a8f53ae",
+   "title": "SEBI says closing auction session is here to stay: What it means for stock market investors",
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-says-closing-auction-session-is-here-to-stay-what-it-means-for-stock-market-investors-11789056505925.html",
+   "summary": "SEBI will maintain the closing auction session (CAS) but is reworking its settlement price determination for derivatives after market concerns. Chairman Tuhin Kanta Pandey noted that while CAS implementation was technically successful, liquidity challenges remain a major concern.",
+   "published": "2026-09-10T17:22:18+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/SEBI_1789059167435_09823d51-bf98-42e7-8c5b-6b0f1326bae5_1789059268638_0804c8d3-1b85-4e89-b89f-7363b3a70ffa_9797c0b8-b50a-436a-86c7-c903db7d42a0_c54ed673-b231-4266-8dbe-e6b6c4ac1d64.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-10T17:30:15+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
   {
    "id": "753aa62db434bb59",
    "title": "Oracle shares fall over 3% ahead of earnings as AI spending in focus",
@@ -4823,7 +4845,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -6985,7 +7007,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T08:30:10+00:00",
