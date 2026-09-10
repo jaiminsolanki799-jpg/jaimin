@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T16:00:11+00:00",
+ "generated_at": "2026-09-10T16:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T16:00:11+00:00"
+   "checked_at": "2026-09-10T16:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
+   "sample_date": "Thu, 10 Sep 2026 15:23:23 GMT",
    "error": null,
-   "checked_at": "2026-09-10T16:00:11+00:00"
+   "checked_at": "2026-09-10T16:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-10T16:00:11+00:00"
+   "checked_at": "2026-09-10T16:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 24,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T16:00:11+00:00"
+   "checked_at": "2026-09-10T16:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 15:07:27 +0000",
+   "sample_date": "Thu, 10 Sep 2026 16:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-10T16:00:11+00:00"
+   "checked_at": "2026-09-10T16:30:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "2d31d78a19e7c73a",
+   "title": "Google is making it easier to switch between password managers on Android",
+   "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+   "summary": "Google's new feature will transfer your passkeys as well",
+   "published": "2026-09-10T16:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T16:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "98d2385319f93f13",
+   "title": "Google expands India's clean-energy push with Solar API for 300M rooftops, climate-smart agri programme, and more",
+   "link": "https://yourstory.com/2026/09/google-expands-indias-clean-energy-push",
+   "summary": "Google is backing Indian climate-tech startups using AI, satellite imagery and geospatial intelligence to address challenges ranging from regenerative agriculture and biodiversity restoration to carbon removal.",
+   "published": "2026-09-10T15:59:11+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T16:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c2825a08f8642a9e",
    "title": "Why Gen Z is talking about therapy more than ever before",
@@ -187,7 +223,7 @@
    "id": "4c92c605ddd6215d",
    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
    "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-   "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+   "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
    "published": "2026-09-10T14:34:09+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
