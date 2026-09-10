@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T18:00:11+00:00",
+ "generated_at": "2026-09-10T18:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,18 +35,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,18 +57,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,29 +101,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 22:19:09 +0530",
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 22:52:18 +0530",
+   "sample_date": "Thu, 10 Sep 2026 23:33:59 +0530",
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 23:12:02 +0530",
+   "sample_date": "Thu, 10 Sep 2026 23:48:53 +0530",
    "error": null,
-   "checked_at": "2026-09-10T18:00:11+00:00"
+   "checked_at": "2026-09-10T18:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "1449433db4d91669",
+   "title": "When good debt becomes bad debt: Warning signs, costly debt errors and practical ways to regain control of your finances",
+   "link": "https://www.livemint.com/money/personal-finance/when-good-debt-becomes-bad-debt-warning-signs-costly-debt-errors-and-practical-ways-to-regain-control-of-your-finances-11789063699216.html",
+   "summary": "Debt can facilitate education, home ownership, or business growth, but not all borrowing is safe. Good debt may improve earning potential while bad debt incurs high costs without lasting benefits.&nbsp;",
+   "published": "2026-09-10T18:18:53+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Good_Bad_Debt_1789064157130_3c11f5be-4e81-4ca4-a20e-85d0d22a1c4a_1789064164951_ad9cc4e6-9562-455d-a002-249642cc596b_015068d9-7ade-49a2-ab22-32ec713113a5_cf641294-4d8b-498a-a758-b03b936e4b6d.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "afbe44c198e2a4d3",
+   "title": "Auto and transportation mutual funds: SBI tops with 26% 1-year return, while the benchmark index gains just 2%",
+   "link": "https://www.livemint.com/money/personal-finance/auto-and-transportation-mutual-funds-sbi-tops-with-26-1-year-return-while-the-benchmark-index-gains-just-2-11789061302394.html",
+   "summary": "Auto and transportation funds delivered sharply different 1-year returns, with the top-performing scheme gaining over 26%, while some returned less than 5%. Here’s how the funds in the category performed and which schemes led or lagged.",
+   "published": "2026-09-10T18:09:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/auto_funds_1789063670369_7692b5fd-5f5a-4f87-984f-7aeb0dd58f7e_1789063683991_4a35bf36-72c2-40ef-9e38-97a7a9f99e80_b3bdcce5-a099-4c53-bb59-702201efa27e_cc338654-a404-4937-a994-134422ee7281.png",
+   "topics": [],
+   "first_seen": "2026-09-10T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7bcd67c37a1abfc1",
+   "title": "Is copper a new gold? Experts unveil this strategy to make money",
+   "link": "https://www.livemint.com/market/stock-market-news/is-copper-a-new-gold-experts-unveil-this-strategy-to-make-money-11789059703371.html",
+   "summary": "Copper prices hit record highs in 2026, driven by US shipment surges and supply challenges. While gold and silver are volatile, strong demand and tariff speculation keep copper at the forefront, despite concerns over rising manufacturing costs amid the impending US midterm elections.",
+   "published": "2026-09-10T18:03:59+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Copper_1789062164243_aa658e01-b031-46c7-a259-b1e04f37f227_1789062277806_90eddd61-9508-49fe-88ae-8a39b7afadd8_113cfcf7-ff67-4ed0-b3b7-901b97a3d468_e8b409d8-2643-441c-b817-d5395d7e69aa.png",
+   "topics": [],
+   "first_seen": "2026-09-10T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6dd32ea18e0e23a8",
    "title": "SEBI launches Demat 2.0: Key FAQs on the pilot project for tokenised corporate bonds answered",
@@ -478,9 +532,9 @@
   },
   {
    "id": "5c51342f4a360172",
-   "title": "Wall Street slumps as Brent crude climbs above $105, wholesale inflation rises",
+   "title": "Wall Street slumps as Brent crude climbs above $107, wholesale inflation rises",
    "link": "https://www.livemint.com/market/stock-market-news/wall-street-slumps-as-brent-crude-climbs-above-105-wholesale-inflation-rises-11789045482327.html",
-   "summary": "The Dow Jones Industrial Average fell 0.60%, the S&amp;P 500 lost 0.72%, the Nasdaq Composite lost 0.86%",
+   "summary": "The S&amp;P 500 fell 0.5%, the Dow Jones Industrial Average was down 0.6%, and the Nasdaq Composite was 0.6% lower",
    "published": "2026-09-10T13:53:07+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -6300,7 +6354,7 @@
    "link": "https://economictimes.indiatimes.com/prime/transportation/new-aircraft-order-opens-door-for-atr-assembly-line-in-india-ceo/primearticleshow/133878728.cms",
    "summary": "",
    "published": "2026-09-08T05:13:25+00:00",
-   "source": "ET Prime: Transportation",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Transportation",
    "date_known": false,
@@ -7884,7 +7938,7 @@
    "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/q1-investment-numbers-look-stellar-but-are-we-celebrating-too-early/primearticleshow/133713540.cms",
    "summary": "",
    "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime: Economy & policy",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Economy & policy",
    "date_known": false,
