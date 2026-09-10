@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T08:30:10+00:00",
+ "generated_at": "2026-09-10T09:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 04:14:43 GMT",
+   "sample_date": "Thu, 10 Sep 2026 08:54:05 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 08:05:39 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,44 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "fc107f544e3765ac",
+   "title": "Fashion brand Theater raises Rs 75 Cr in Series A round led by Niveshaay",
+   "link": "https://yourstory.com/2026/09/fashion-brand-theater-raises-rs-75-cr-in-series-a-led-by-niveshaay",
+   "summary": "Founded in 2021 by Sarthak Aggarwal, Vikram Jain, Karan Jain, and Shruti Aggarwal, Theater is positioned as a mass-premium brand selling footwear, stockings, perfumes and bags.",
+   "published": "2026-09-10T08:54:36+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "7f2934260341373a",
+   "title": "TechSparks 2026: Sridhar Vembu, Ambarish Kenghe, Mukund Jha, Chandrika Deb, and more join the lineup",
+   "link": "https://yourstory.com/2026/09/techsparks-2026-sridhar-vembu-ambarish-kenghe-mukund-jha-chandrika-deb",
+   "summary": "Policymakers, founders, investors, and technology and culture leaders will come together at YourStory’s flagship TechSparks summit this October to discuss India’s next phase of innovation.",
+   "published": "2026-09-10T08:54:05+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0f056f7ec655a1d9",
    "title": "Started at 12, Built a 300,000-Member Community: The Story of Children’s Art Museum of India (CAMI)",
@@ -183,7 +221,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
+   "title": "- the-captable.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-10T06:09:52+00:00",
@@ -232,7 +270,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -367,7 +405,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -533,7 +571,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -623,7 +661,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -681,7 +719,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -771,7 +809,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1707,7 +1745,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T11:00:10+00:00",
@@ -2982,7 +3020,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T17:30:13+00:00",
@@ -4001,7 +4039,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
@@ -4834,7 +4872,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",

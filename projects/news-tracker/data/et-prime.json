@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T08:30:10+00:00",
+ "generated_at": "2026-09-10T09:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 12:55:00 +0530",
+   "sample_date": "Thu, 10 Sep 2026 14:13:58 +0530",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 13:49:33 +0530",
+   "sample_date": "Thu, 10 Sep 2026 14:06:58 +0530",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 13:44:03 +0530",
+   "sample_date": "Thu, 10 Sep 2026 14:14:02 +0530",
    "error": null,
-   "checked_at": "2026-09-10T08:30:10+00:00"
+   "checked_at": "2026-09-10T09:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,13 +192,103 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "2297573d4d03e68d",
+   "title": "Beyond the CIBIL score: Why retail borrowers are paying for credit-health advice",
+   "link": "https://www.livemint.com/money/personal-finance/beyond-the-cibil-score-why-retail-borrowers-are-paying-for-credit-health-advice-11789026972080.html",
+   "summary": "Paid plans from platforms like BankBazaar, GoodScore, and OneScore aim to bridge this advice gap by explaining the reasons behind a score change and suggesting actionable remedies.",
+   "published": "2026-09-10T08:44:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/credit_score_1_1752831278404_1752831290306_1789028961534_8cf2eb8b-0d55-492f-b35c-40370e5418ce_a4bb52b6-1468-4dc2-9d3a-72e32d6155c1_a0d3ceb2-e214-40ed-b529-bc417207beab.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fa341875cacc5e3e",
+   "title": "Delhi High Court restrains startup BECO from running ads against HUL products",
+   "link": "https://www.livemint.com/companies/news/hul-surf-excel-vim-beco-ad-campaign-delhi-high-court-11789029097101.html",
+   "summary": "The advertising campaign allegedly linked Hindustan Unilever's Vim and Surf Excel to skin irritation and allergies.",
+   "published": "2026-09-10T08:43:58+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/2-0-370805349-Unilever-0_1680521296289_1789029337317_3772e465-a2d3-4039-ac86-ae4643196fc0_cdeb986b-dd13-46a0-a393-b8f2566ee342_48f23e15-54bd-4300-8713-5fc910719267.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "562defc7b3e54f0b",
+   "title": "Is porting just a word in health insurance brochure?",
+   "link": "https://www.livemint.com/money/personal-finance/health-insurance-portability-rules-how-to-port-policy-11789015695451.html",
+   "summary": "Portability was meant to keep insurers honest by keeping the exit door open. The door exists— but for the old, the ill, and the recently hospitalised, someone is still standing in the way.",
+   "published": "2026-09-10T08:38:18+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/a_1789029177047_3613b07e-2060-4c96-a19f-2b214bc6d6bb_1789029177253_0ea49d56-f21b-4b7b-8c67-683b2137f9e9_06c6f3ec-a435-4027-97fe-342709141e52_669a68f5-f517-4f3d-b508-56ad6a48b754.png",
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4665e5a4aa3a8ca7",
+   "title": "Over 18% dip in YTD | Delhi-based realty company is bullish on this beaten-down stock — do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/over-18-dip-in-ytd-delhi-based-realty-company-is-bullish-on-this-beaten-down-stock-do-you-own-11789026385961.html",
+   "summary": "The stock has remained under pressure in the near term, declining 3.95% over the past week and 3.69% over the last month.",
+   "published": "2026-09-10T08:36:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/delhi_1789029308340_c9a55f69-3062-4d0f-8ff8-4986e5e793cb_1789029308652_0e8c4ac3-36df-4237-b2c0-8e60e03b99b8_fdd0ee78-e4a8-4e68-832e-ac2d98e0c178_f370a7d4-1ac7-4e3d-a44b-c5759bd212ff.png",
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "930929725834beb5",
+   "title": "SBI Mutual Fund raises stake in sugar stock EID Parry to 9.13% | Check stock performance",
+   "link": "https://www.livemint.com/market/stock-market-news/sbi-mutual-fund-raises-stake-in-sugar-stock-eid-parry-to-9-13-check-stock-performance-11789028725313.html",
+   "summary": "SBI Mutual Fund increased its stake in EID Parry India Limited to 9.1363% by acquiring 78,142 shares, totalling 1,62,58,521 shares",
+   "published": "2026-09-10T08:33:34+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/SBI_Mutual_FUnd_1789029022263_e202a98b-c609-4efc-aad4-9a613cc5def3_1789029028768_166656ec-6914-44a9-8dbe-a2355452791f_45f661b6-ef78-4708-bb74-2a518ce66e64_1101d6ac-04d6-409f-bbdb-6729664dd7ff.png",
+   "topics": [],
+   "first_seen": "2026-09-10T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "65cbdedd1e2c491e",
    "title": "NSE IPO shrinks as Morgan Stanley, other investors cut stake sales",
    "link": "https://www.livemint.com/market/ipo/nse-ipo-shrinks-as-morgan-stanley-other-investors-cut-stake-sales-11789023066875.html",
-   "summary": "The NSE would now be offloading around a 5.5% stake at a reported price band of ₹1,800 per share.",
+   "summary": "The NSE would now be offloading around a 5.1% stake at a reported price band of ₹1,800 per share.",
    "published": "2026-09-10T08:19:33+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -4039,7 +4129,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -6201,7 +6291,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T08:30:10+00:00",
