@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T14:00:10+00:00",
+ "generated_at": "2026-09-10T14:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 8,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 18:50:51 +0530",
+   "sample_date": "Thu, 10 Sep 2026 19:41:59 +0530",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 19:23:07 +0530",
+   "sample_date": "Thu, 10 Sep 2026 19:42:33 +0530",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 19:21:13 +0530",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "a268dfc34a6daf6c",
+   "title": "Top stocks in focus tomorrow: Investors must watch Fino Payments, KIMS, Texmaco Rail shares on Fri, 11 Sept | Triggers",
+   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-fino-payments-kims-texmaco-rail-shares-on-fri-11-sept-triggers-11789037727262.html",
+   "summary": "On September 11, Indian investors will focus on companies like Texmaco Rail, Sterlite Technologies, Poonawalla Fincorp, and Fino Payments Bank due to recent developments. The stock market rebounded, with the Nifty 50 gaining 0.20% and S&amp;P BSE Sensex up 0.19%.",
+   "published": "2026-09-10T14:12:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/SWP_on_10_1789049220136_b0374aaa-7b4d-47d1-b90a-195eba655690_1789049233854_ef630324-5e2c-454f-b1cc-46a22bbafa15_e76887d3-627c-4352-9931-b9ef36e12f24_bc16bb59-228f-4724-93ba-cb97db045268.png",
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d0bf1de67686b3fb",
+   "title": "HDFC Bank wins all seven Bahrain cases over Credit Suisse AT1 bonds",
+   "link": "https://www.livemint.com/companies/news/hdfc-bank-wins-all-seven-bahrain-cases-over-credit-suisse-at1-bonds-11789043137629.html",
+   "summary": "HDFC Bank said the Bahrain court found that the investors had failed to provide sufficient admissible evidence to substantiate the allegations or establish that they suffered losses because of the bank.",
+   "published": "2026-09-10T14:11:59+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1789048895824_a035948c-2b1d-44be-a1fa-30c438567f38_0532bc08-6d99-4dbe-88e2-cc6d200aa3f8_c64777d5-0fae-4997-9138-88278b2268d1.JPG",
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1302ac963c922a5b",
+   "title": "Brent crude tops $105 a barrel as tanker attacks intensify in Middle East; Saudi output cut fuels concerns",
+   "link": "https://www.livemint.com/market/stock-market-news/brent-crude-tops-105-a-barrel-as-tanker-attacks-intensify-in-middle-east-saudi-output-cut-fuels-concerns-11789044497665.html",
+   "summary": "Crude oil prices surged to their highest since May after Saudi Arabia reported a significant drop in production. Brent crude rose to about $106 a barrel, while WTI jumped to $95.39. The ongoing Middle East conflict is disrupting oil exports and contributing to market volatility.",
+   "published": "2026-09-10T14:02:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/crude_1789046824459_575c819b-23ad-4174-a1c1-0338a6855a8f_1789046837806_0fdf13bc-a1e5-4017-819e-87a794772139_77153b85-a655-46c8-861b-e60a073ab2f9_540d0da0-f914-4584-8f83-92236332e2f7.png",
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "847af47908cef7e0",
    "title": "Will the yuan become the new yen?",

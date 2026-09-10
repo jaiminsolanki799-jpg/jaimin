@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T14:00:10+00:00",
+ "generated_at": "2026-09-10T14:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 10:24:17 GMT",
+   "sample_date": "Thu, 10 Sep 2026 09:58:34 GMT",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 12:26:19 GMT",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 22,
-   "items": 22,
+   "fetched": 24,
+   "items": 24,
    "sample_date": "Wed, 09 Sep 2026 03:27:19 GMT",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 13:34:01 +0000",
+   "sample_date": "Thu, 10 Sep 2026 14:17:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T14:00:10+00:00"
+   "checked_at": "2026-09-10T14:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "9a2eb930fc3573da",
+   "title": "Ultraviolette's second manufacturing facility to come up in Hosur, Tamil Nadu",
+   "link": "https://yourstory.com/2026/09/ultraviolettes-second-manufacturing-facility-hosur-tamil-nadu",
+   "summary": "The facility will have an installed capacity to manufacture 2.5 lakh electric two-wheelrs annually. The project is expected to create 2,000 jobs.",
+   "published": "2026-09-10T14:24:12+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f9f39a68dcebcaf5",
+   "title": "Maven Robotics wants to steal your robot deployment deal",
+   "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+   "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+   "published": "2026-09-10T14:17:37+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b257ec0f27064461",
+   "title": "Graph AI raises $13.3 Mn in Series A round led by Insight Partners",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX09mQkEwMWFhZURfUmhYaFBWZkN5ODhobUh4bURqaG0zTWF6RG9uaExVMmFMcUZCb0VmRUZGTlJSbDBFZHVKX1dkNUZVMmFUMVU1aVJ4TFJYUFFSdXk5Tkx4VEdHTjhBUjljZlhneklFcl93VnNkX3VBVFYtWGNJZkVscm9vanZ6WkVxSlBKTUl5anJveUJMOHgwdlQySnZuXzZ4Tm930gGmAUFVX3lxTFBfT2ZCQTAxYWFlRF9SaFhoUFZmQ3k4OGhtSHhtRGpobTNNYXpEb25oTFUyYUxxRkJvRWZFRkZOUlJsMEVkdUpfV2Q1RlUyYVQxVTVpUnhMUlhQUVJ1eTlOTHhUR0dOOEFSOWNmWGd6SUVyX3dWc2RfdUFUVi1YY0lmRWxyb29qdnpaRXFKUEpNSXlqcm95Qkw4eDB2VDJKdm5fNnhOb3c?oc=5",
+   "summary": "",
+   "published": "2026-09-10T14:16:22+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "ee1c815bb9a51b88",
+   "title": "AI contact centre startup Dialflo raises Rs 1.7 Cr led by AJVC",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkp1cGU2OWkwZU45S2U5SF9ES25mRzd0SWNEWGQ4TlBNWVY4T0tsZ05ONDFCajBpY3U2cU13dVE5aWNyYVFtcVNqakM3bG04UFN6eE1BTG9mWmw5V29BWHl4RWlQN0w3Wlhfa3ljUXEzSGRLdHc2eHUzWmJMbEhuTnlZZ2JTT09GQnJ2dl9uRlFSYV81bjJHaDF3VHhaNUdaUUHSAaIBQVVfeXFMT1ZKdXBlNjlpMGVOOUtlOUhfREtuZkc3dEljRFhkOE5QTVlWOE9LbGdOTjQxQmowaWN1NnFNd3VROWljcmFRbXFTampDN2xtOFBTenhNQUxvZlpsOVdvQVh5eEVpUDdMN1pYX2t5Y1FxM0hkS3R3Nnh1M1piTGxIbk55WWdiU09PRkJydnZfbkZRUmFfNW4yR2gxd1R4WjVHWlFB?oc=5",
+   "summary": "",
+   "published": "2026-09-10T14:12:18+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T14:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "f4ca11b321e5e36c",
    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
@@ -210,7 +286,7 @@
    "id": "c36e1a3a28da66c2",
    "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
    "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-   "summary": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered down.",
+   "summary": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.",
    "published": "2026-09-10T12:25:08+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
