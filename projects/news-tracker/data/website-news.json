@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T08:00:12+00:00",
+ "generated_at": "2026-09-10T08:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 13:27:58 GMT",
+   "sample_date": "Thu, 10 Sep 2026 04:14:43 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 10 Sep 2026 07:20:00 GMT",
+   "sample_date": "Thu, 10 Sep 2026 08:05:39 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "0f056f7ec655a1d9",
+   "title": "Started at 12, Built a 300,000-Member Community: The Story of Children’s Art Museum of India (CAMI)",
+   "link": "https://yourstory.com/2026/09/krish-nawal-childrens-art-museum-of-india-cami-success-story",
+   "summary": "Starting with 12 children, CAMI grew into a 300,000-member community, making art more accessible and giving children a space to create and connect.",
+   "published": "2026-09-10T08:18:30+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2f45858fc59e859d",
+   "title": "Axis Bank Plans Slower Hiring as AI Adoption Accelerates",
+   "link": "https://startuptalky.com/news/axis-bank-plans-slower-hiring/",
+   "summary": "Axis Bank is speeding up the use of artificial intelligence (AI) to promote company growth but is cutting down the rate of hiring new staff. The lender has a net headcount of nearly 101,000 employees, down 3% after adding 400 branches in FY26.",
+   "published": "2026-09-10T08:05:39+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/axis-bank-plans-slower-hiring-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a1f11603162532ba",
    "title": "The lending bet: why we started with the problem, not the loan",
@@ -147,7 +183,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- the-captable.com",
+   "title": "- The CapTable",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-10T06:09:52+00:00",
@@ -196,7 +232,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -331,7 +367,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -497,7 +533,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -587,7 +623,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -645,7 +681,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -735,7 +771,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1671,7 +1707,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T11:00:10+00:00",
@@ -2946,7 +2982,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T17:30:13+00:00",
@@ -3965,7 +4001,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
@@ -4798,7 +4834,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",

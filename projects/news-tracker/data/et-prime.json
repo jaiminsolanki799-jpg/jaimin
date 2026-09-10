@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T08:00:12+00:00",
+ "generated_at": "2026-09-10T08:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "items": 2,
-   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
+   "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 12:55:00 +0530",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 13:19:47 +0530",
+   "sample_date": "Thu, 10 Sep 2026 13:49:33 +0530",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sept 2026 13:22:11 +0530",
+   "sample_date": "Thu, 10 Sep 2026 13:44:03 +0530",
    "error": null,
-   "checked_at": "2026-09-10T08:00:12+00:00"
+   "checked_at": "2026-09-10T08:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,18 +192,112 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "65cbdedd1e2c491e",
+   "title": "NSE IPO shrinks as Morgan Stanley, other investors cut stake sales",
+   "link": "https://www.livemint.com/market/ipo/nse-ipo-shrinks-as-morgan-stanley-other-investors-cut-stake-sales-11789023066875.html",
+   "summary": "The NSE would now be offloading around a 5.5% stake at a reported price band of ₹1,800 per share.",
+   "published": "2026-09-10T08:19:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/RENTOMOJO-IPO--0_1788958328546_07a2071d-4d8f-4b1a-_1789028128310_2d7000eb-8e46-406b-9e5d-8cb9848bd6e8_1789028128493_25800018-55c3-49fa-a37f-a9cc5e444b21_07306099-7c05-41e0-b3b9-e7ce76b6b3f3_957dae44-e555-46a7-a640-0bb88a9fd408.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "a9080fa8d1e589af",
+   "title": "Swiggy, Jindal Steel among stocks to buy | Kotak Securities' expert bullish on 3 shares for short term | Do you own any?",
+   "link": "https://www.livemint.com/market/stock-market-news/swiggy-jindal-steel-among-stocks-to-buy-kotak-securities-expert-bullish-on-3-shares-for-short-term-do-you-own-any-11789026733235.html",
+   "summary": "Stocks to buy: Kotak Securities' Amol Athawale identifies three stocks—Swiggy, Cummins India, and Jindal Steel—that traders should consider in the short term. With specific targets and strategic stop-loss levels, these tips could help navigate the volatility.",
+   "published": "2026-09-10T08:16:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Amol_Athawale_1772076114021_1772076117783_1789026868514_f64e0eda-1868-4efe-a184-345805474238_34e18b30-d103-48ae-a26f-16662716973f_8ac0965b-4b0e-4706-b451-be464e7f4808.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e28220e794a9324d",
+   "title": "Left your PG, and your landlord is refusing to return your deposit? Know your rights as a tenant",
+   "link": "https://www.livemint.com/money/personal-finance/left-your-pg-and-your-landlord-is-refusing-to-return-your-deposit-know-your-rights-as-a-tenant-11789023000045.html",
+   "summary": "Living as a paying guest is a convenient and affordable option, but it’s essential to know legal rights as a tenant to protect oneself from exploitation.",
+   "published": "2026-09-10T08:14:03+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/pg_1789027793073_d949e686-f808-461a-a02f-0d03883f7887_1789027805073_1dc352f9-894a-41e1-8b0e-80726857862d_84c6326a-669e-41a7-8329-0e58d991d660_638ef2de-93fd-4410-b23f-f7e8600928aa.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7abee8f2fbf19814",
+   "title": "Coforge eyes industry-leading growth. Will chairman’s exit derail the story?",
+   "link": "https://www.livemint.com/market/mark-to-market/coforge-chairman-resignation-coforge-share-price-it-sector-india-nifty-it-11789024044076.html",
+   "summary": "Coforge’s strong deal wins, sustained execution and improving cash conversion have kept it in good stead. So far in 2026, the stock has fetched 11% returns, widely beating the 26% drop in the Nifty IT index.",
+   "published": "2026-09-10T08:08:54+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/2-0-92795709--ABH0030-0_1681816800466_1789027554185_c760e68c-c36d-4ea8-a227-d6d1434fce63_20d4424a-477e-49cc-80c2-8c3281473d65_8ce61e17-2453-4586-be2b-3bd133415a31.JPG",
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "860823017ddae462",
+   "title": "EPFO PF claim delay: Consumer commission orders 6% interest for 35-day delay",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-pf-claim-delay-consumer-commission-orders-6-interest-for-35-day-delay-11789023686390.html",
+   "summary": "A consumer commission ordered EPFO to pay 6% annual interest on a ₹14,06,272 PF claim over a 35-day processing delay, ruling it a 'deficiency in service' after EPFO failed to prove the claim was incomplete. EPFO has 45 days to comply. Keep claim records, the ruling advises.",
+   "published": "2026-09-10T08:00:13+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/pf_claim_1789023903784_d13b7936-a2bc-454f-a588-ea573a7f7a3f_1789023908005_951f9ae2-f8ce-4431-a9d6-d26726057869_675eb98c-dcb6-4f2d-a94d-189a0872c1ee_3224d0c0-c50a-4ac4-aaf6-965bc0017316.png",
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cdaa322bd32d5440",
    "title": "PPFAS Tax Saver vs Flexi Cap Fund: Same stocks but different returns. Which one performed better and why",
    "link": "https://www.livemint.com/money/personal-finance/ppfas-tax-saver-vs-flexi-cap-fund-same-stocks-but-different-returns-which-one-performed-better-and-why-11789024997169.html",
    "summary": "PPFAS ELSS Tax Saver delivered a -9.52% one-year return, making it the worst-performing equity fund, despite having 71% portfolio overlap with PPFAS Flexi Cap. The Aug portfolio data shows how differences in stock weights, US equity exposure and overall equity allocation set the two schemes apart.",
-   "published": "2026-09-10T08:00:12+00:00",
+   "published": "2026-09-10T07:52:11+00:00",
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Gemini_Generated_Image_lefaoplefaoplef_178902644_1789026451936_8bf04a0e-d303-4c95-99b2-cd8d24eee9ae_1789026452285_d3f522fd-9fec-4115-ac49-0ee2489e0f75_59189c56-f491-41ed-b7ff-28f956bdc167_fcec916a-10aa-4a2f-978e-09d394490486.png",
@@ -473,7 +567,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/0ab2ecca-05b9-4206-a35a-190cd294c6db_1789018858311_a31cc000-9092-480b-a635-d888ed163161_1789018876467_32013144-a815-4ce9-9ccc-d68e9b3bd17a_e8bf5b70-5be7-4d54-839b-569f41456939_7146ab4b-db20-44fd-952f-2ac2307b257e.png",
@@ -545,7 +639,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Gemini_Gnerated_Image_q112vmq112vmq112_178901860_1789018612957_623ae7dd-4af4-417c-9f84-0186990f736c_1789018613109_f3947dbb-8bb9-4f7a-9f3a-9b325d3ba229_98cef2fb-fc53-4e7c-b0db-b06fa49036f0_1f827b54-6ede-4a20-bf21-06bab63c0251.png",
@@ -657,7 +751,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Gemini_Generted_Image_t45yt8t45yt8t45y_178901602_1789016034096_00354b62-c41d-40f6-9abd-ced7800ea0a5_1789016034274_2870a65e-a582-457c-ab03-bc59bd8db8da_a0efa058-f2e5-40a5-b7ea-f2be18750190_20043fe5-ee97-4d46-8679-595224027e07.png",
@@ -775,7 +869,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/gold_image_story_1789011031354_01352038-aab5-42ec-b21a-e053c6ad4430_1789011047687_2cc4bddf-69b3-432d-98f7-158f1bd94000_9c6b9e4d-9dfd-4937-9f22-9bc80b3bdbf9_b7944a07-3a61-4d54-ac56-ede4aec312dd.png",
@@ -876,7 +970,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/rule_of_70_1789007590206_13d1610b-0095-45be-869b-4d60b7283d57_1789007594605_aca36c2d-b876-417b-b16d-f03ba5dd9a57_784f05f4-1846-4c81-9263-6af580e59fc9_f2e6767b-0ebb-478f-8101-f3b236dfebf2.png",
@@ -916,7 +1010,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Gemini_enerated_Image_aa87ueaa87ueaa87_1788976_1788976883104_d36d1185-cae9-4450-9795-27202d417cf8_1788976883250_2725b00d-fe4e-456e-b795-f78688e45285_7f25d16f-9d96-4b27-a5a6-7e806b1bf501_2533d71e-b591-4b2a-91a9-3051a839f092.png",
@@ -998,7 +1092,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Chennai_GPO_1789003360559_c2614445-c09f-428e-bb61-2e359399c7ab_1789003382782_003db64c-417c-462f-8e50-9224d1019146_1c6a5199-bad9-4181-b6a1-6ef2f51d08e4_5f88f834-d754-428a-9a4a-8b86f9d03dda.png",
@@ -1348,7 +1442,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/gff_twp_1788980416589_8258570e-46eb-4bb1-a052-5b7c38acf85c_1788980420400_35c4e4a0-9e64-41f7-945e-1922187bb231_754fce13-492d-47fc-b1f8-253318de1cd4_773faa38-26da-4602-87c4-3e8d61a4db70.png",
@@ -1420,7 +1514,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/itr_1788976557794_988f7c2c-a4fe-4cc3-b01b-7e19f3661288_1788976582203_d429388a-b817-42d3-ae7c-2d6b06c56c5b_cfe676fa-992e-46c3-b470-965ace1750b3_19a1f524-d632-429f-8f30-9e372ecbadf5.jpg",
@@ -1438,7 +1532,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/pharama_1788976060058_9356d81a-7927-4f59-bce9-6c3a2b42bb86_1788976064431_e2e9c0c1-c330-49b8-9727-35fd419979d5_c7c07a4e-ee26-4d08-9d96-6503dc893009_33749be6-23aa-424a-8d0c-4b1c72ec2216.png",
@@ -1456,7 +1550,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/voucher_1788972783822_9d9a3669-3f96-4d5b-a012-760f2db49668_1788972790384_891306b0-1087-47f3-ba73-624f026a975c_274910d5-21a2-4d41-9d91-adc5cc4614ba_f6454607-9e93-4dcb-a4ee-e31b6f545045.png",
@@ -1498,7 +1592,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/PTI02-01-2026-000470A-0_1771056492997_1771056516059_1788971313529_1c196234-df97-49c7-baf3-aafbd4dd39f4_e790b781-9fa7-4938-919d-5a20bd37df92_21feccd6-2ec6-4c28-87da-89e52ec7c582.jpg",
@@ -1556,7 +1650,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/2-0-1138170138-693227436-0_1679695376564_1788761477752_8b44d8ad-36bf-4768-91c8-e94ce63e210d_86fb23e3-9843-4f0f-8e54-d0ef48c24ec4_e8ab44d6-2bbd-48a4-b6f8-1b2c6bc146f7.jpg",
@@ -1574,7 +1668,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Freedom_Fund_1788971216985_e9acae7e-0609-4091-bb99-cf7497c54031_1788971224215_393cfb7b-5c96-43de-a2e0-301b8e75333a_385ee0c0-6b48-4b6e-ab3d-b67148411e3f_ef1688de-f512-428c-8ed2-409a06642a1d.jpg",
@@ -1612,7 +1706,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/funds_paa_1788968830352_e85a994f-0ea1-47b0-bb48-5a6a13d5d42a_1788968834192_23471461-5d3b-4141-9b5f-0609d0d3f3b9_d030dd98-570a-4691-894f-393c6772e1d2_55c570cc-6504-4a83-bbb2-331228def911.png",
@@ -1652,7 +1746,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/maxresdefault_1788982187714_81c1c899-bc44-449d-88a3-e6e8c80384ef_1788982192588_de7082af-88da-4b34-ac78-c6e291cea643_56f363ad-9e5c-4c6c-bf11-de336636060c_b0cca0b2-252c-452e-ae82-c6106d362b22.jpg",
@@ -1693,7 +1787,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/dsp_report_f_1788962980043_9d07b211-0099-4fb9-820a-cf0fcf4de4df_1788962983819_6911e5f6-eb23-4a17-9396-1c2dba0e021a_e28b859d-ea76-4ee8-9d91-3698845f8645_e3e2721f-68de-4ab2-ab90-d41af775ee57.png",
@@ -1823,7 +1917,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/credit_card_1710594305033_1788957884672_a20aa6d5-0bff-4d95-84a7-9fea55e1b3b3_058928d4-4690-4c6b-813c-90d22272aea5_4a95f68f-9526-4281-9a18-cfdf7a96b660.jpg",
@@ -1879,7 +1973,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/cyber_fraudss_1788954846471_45dfbd9e-74f7-4d42-94ae-aecd6e3c9e2e_1788954851994_0506aa16-8261-4f7e-90fd-7c8fe75387f8_81ba098e-b693-40b9-92ec-0bf860c4140e_db3090eb-f157-4c81-9762-441783f00470.png",
@@ -1935,7 +2029,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/healthinsurance_1788950167109_ceccec0e-feff-4fb4-8cb3-f039c2ea4ee5_1788950188268_292c58a4-d21b-4d64-a9fb-29c414de66b6_a6c0a484-21da-49cc-bee4-54d7c2f672bf_3cac7423-07da-46af-a4a9-2e35798c11eb.jpg",
@@ -1973,7 +2067,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/NRE_vs_NRO_1788953191973_6c9f609c-6462-4901-86fa-3323197171dd_1788953202033_481eecbb-58a6-448a-bd5a-d2bb954b459e_8767a485-979b-42f8-ab0b-d31628dee5e7_e48b13e8-0579-44d1-9397-20bd2390b004.jpg",
@@ -2013,7 +2107,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/as_1788951887803_f54bd7a8-e713-49f4-8673-d8b4ae6641a7_1788951888037_99ca4cbb-c002-414d-a217-d6f8787984df_a6eb05cd-dc32-464e-841a-46fbdbb19fe5_2db1a63c-12b7-4ca3-a822-cf8d2e3fc6c6.png",
@@ -2089,7 +2183,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/EPFO_advance_rules_1788948064755_a57909b2-aa04-4d8b-bbe9-5f80e934af1c_1788948069076_a7491f55-e25d-4911-bbbc-8adf005c7417_2c98693f-1de0-4099-b910-8b31c11ea594_e871230b-f634-4a53-a9ba-0cab73c06fef.png",
@@ -2129,7 +2223,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/PIR_1788949972001_ef3e68e3-04d4-4f67-a685-48f44c91fc7f_1788949982935_0723431a-3cdb-44a4-bc75-a96e101f7b7d_6ecc0b73-c387-4b5b-b6ac-82fb45684096_278bc829-b462-4de3-8894-4acf9d02e5ab.jpg",
@@ -2149,7 +2243,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/car_loan_photo_1788943391857_ff41fc33-6a2c-46b1-a227-d1710874a2e9_1788943396985_39040f38-7449-43dd-b280-e1236b8a6704_cd29ea47-6f7b-45f3-95f7-b429f0376af3_495d53f8-cce1-4cbf-9698-5d7ca42b3aef.png",
@@ -2203,7 +2297,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Gemini_Generate_Image_hqfotrhqfotrhqfo_17889470_1788947028124_180dbbef-37db-40ce-8b90-cb377bc5a3a3_1788947028592_3717201e-fe54-4f3b-acad-b8c1c2577e06_890461c7-20a6-4355-aa86-ba063ec44563_341c9ec6-930b-44f5-b495-9da61e324da7.png",
@@ -2313,7 +2407,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Gemin_Generated_Image_o3531to3531to353_17889446_1788944684537_4f4b968e-ba11-4fa4-854c-0f37ef800158_1788944685057_a671dc07-844a-4bf2-ac0e-04cac306d4f5_8753f344-d559-4109-8268-833e98b66cc9_08d0351d-b670-4034-80f2-73d160e5422f.png",
@@ -2448,7 +2542,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/geefa306b281e2b73d99cce692eb0c3c1eb492ba33f467b4de_1788939010893_c57190e3-85eb-48bd-af9c-c0c225f8d9bb_1788939011018_69faacfa-96d4-4c5c-bf27-7e2466314453_5a89f630-72af-4380-9e7d-74b5573e9619_3d633e20-265b-480e-8e79-c39c49eeae21.png",
@@ -2466,7 +2560,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/loaann_1782300413034_1782300416580_4075c218-9683-4e10-a77a-7b8f634fb1b5_1788942231472_16e22df8-27e7-4182-ad46-479992e74466_e7acea4f-dcdc-4989-8dea-cc4faac56c85_b8535bd3-f045-4def-9e0d-d413dc34e800.jpg",
@@ -2538,7 +2632,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/income_tax_notice_to_deceased_1788937271537_31cac814-5b18-495f-bf86-25b4c122351d_1788937275377_53ac2a34-43e8-4f01-8d70-fa41d30487ad_bb3d9afb-5be9-4b1f-b2f3-7466deb4ec55_f5b81a14-fc5c-4ed9-860b-3d494fcfb74d.png",
@@ -2616,7 +2710,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Gemini_Generated_Imagekasnfikasnfikasn_17889386_1788938625828_671470d7-1667-4313-a462-2321a5ab4dfc_1788938626031_5d4aae34-c116-448d-84b1-b6c82c5b994e_3ff49e2c-e717-4b9d-a6a4-5534134a17ad_88ccc9ae-13bd-4d96-8ff2-50e2542a0904.png",
@@ -2636,7 +2730,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/cc_1788935505233_af78c0e1-ed71-4f01-932b-35775d67a0f5_1788935513725_2be9cf8a-5d89-4a07-a62f-a582e4f84eef_c7f4116d-80d6-4cf3-8bdb-172c2a41bc45_096b8355-ba8e-4ff1-a154-90fdc3033b54.png",
@@ -3945,7 +4039,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -6093,6 +6187,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "06c06e0fa61fc9cb",
+   "title": "New aircraft order opens door for ATR assembly line in India: CEO",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNZGNmUHZfcTViTnUwMW9XbmJWcnJNYlpTc19PcUxoTEZ2NVh1LTUtdk9BVUowb0JCWVNvVUdnU0l0STdLZ0ZCM0VWSmNfckRvQk1rNEotMjBtRk5qNW9pb2REcnZxSUhTdmtVSmJhaF92dHcxdERaRmk4UkNHb1FuNE0ta1Vkcjg2MG9YdzdJdFlUOG1uNzIybmdiQ1VhdUNxdXB6NmRGbEc1cHJqdk1iYXBUOXNyZ1lMRzNSOEFYNjRZV19zNW9ILU4zZ2Z4V3YweTJ3czZGXy1TM0lvQTI2RTkzN2Jfa3ZzYktKYk9OUHY1WXQ1ZjJTNGFDOFJmT2NuVXZGakR0aElKZm1jOGFhUWtxNHdkRjNRa3VldFJTNDdSa2hKS1FRclNCeUF4ZkhXQ0RaMGF0VGR1aF9ZOUhPTjYtZUNOQdIB4gFBVV95cUxQRjcybXZlLTdUbGY0NkdzSmNwVHQ1MVhYSHhrRVdwZzVnbHRROUJpRGs1LWN6bnd5V3ExekR4VWR5MXMxZzE1czdjUV9HNUM0bWtlUXN2Q3pZNVhzSnpzWEN2NFh5bTJNVnJBemJHWGw3X2JXVW5kVTU2QlFoQU9fdFJ0Vm5qcEhqNjhsa0tqMDJRVGxiRHlaOG5hLVdFc1ZyTjlIR1lPdzlpTHVwRGw4aDU5em9wRnNhdFM3ZG41TG42NTdFSXVNc2t5TE9wYjl6RXZNS2stUHFQNkExazFTMXRB?oc=5",
+   "summary": "",
+   "published": "2026-09-07T22:30:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "economictimes.indiatimes.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T08:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
