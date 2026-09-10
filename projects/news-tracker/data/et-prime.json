@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T02:00:11+00:00",
+ "generated_at": "2026-09-10T02:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 05:50:34 +0530",
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 07:24:21 +0530",
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 00:45:25 +0530",
+   "sample_date": "Thu, 10 Sep 2026 07:30:06 +0530",
    "error": null,
-   "checked_at": "2026-09-10T02:00:11+00:00"
+   "checked_at": "2026-09-10T02:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "151caf897e88f61d",
+   "title": "8th Pay Commission: 5 key demands raised by Chennai GPO Pensioners Forum",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-5-key-demands-raised-by-chennai-gpo-pensioners-forum-11789003123975.html",
+   "summary": "The Chennai GPO Pensioners Forum has raised five key demands before the 8th Pay Commission, including restoration of OPS, higher pensions, commutation relief, revised MACP benefits and improved allowances, leave and social security for employees and pensioners.",
+   "published": "2026-09-10T02:00:06+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Chennai_GPO_1789003360559_c2614445-c09f-428e-bb61-2e359399c7ab_1789003382782_003db64c-417c-462f-8e50-9224d1019146_1c6a5199-bad9-4181-b6a1-6ef2f51d08e4_5f88f834-d754-428a-9a4a-8b86f9d03dda.png",
+   "topics": [],
+   "first_seen": "2026-09-10T02:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3e70882fdcb50cc2",
    "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy",
@@ -528,9 +546,9 @@
   },
   {
    "id": "4d2019d7c0850bce",
-   "title": "Global Fintech Fest 2026: Agentic AI, tokenisation and quantum—how these 3 technologies could change how you invest",
+   "title": "Global Fintech Fest 2026: Agentic AI, tokenisation and quantum—how 3 technologies could reshape investing",
    "link": "https://www.livemint.com/money/personal-finance/global-fintech-fest-2026-agentic-ai-tokenisation-and-quantum-how-these-3-technologies-could-change-how-you-invest-11788976610672.html",
-   "summary": "At the Global Fintech Fest 2026, agentic AI, tokenisation and quantum are the key themes of the event. These technologies could change how investors manage portfolios, access assets and assess risk over the next decade. Here’s what it means for investors.&nbsp;",
+   "summary": "At the Global Fintech Fest 2026, agentic AI, tokenisation and quantum are the key themes. These technologies could change how investors manage portfolios, access assets, and assess risk over the next decade. Here’s what it means for investors.&nbsp;",
    "published": "2026-09-09T19:15:25+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -891,7 +909,7 @@
   },
   {
    "id": "d6003dc9d576fa34",
-   "title": "Top stocks in focus today: Investors must watch Coal India, Shakti Pumps, Wipro shares on Thu, 10 Sept | Triggers",
+   "title": "Top stocks in focus today: Investors must watch Coal India, ICICI Bank, Wipro shares on Thu, 10 Sept | Triggers",
    "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-coal-india-shakti-pumps-wipro-shares-on-thu-10-sept-triggers-11788964212253.html",
    "summary": "On September 9, Indian stock market investors are centering on firms like Dilip Buildcon, Wipro and AU Small Finance Bank due to key orders and approvals.&nbsp;",
    "published": "2026-09-09T15:16:33+00:00",
