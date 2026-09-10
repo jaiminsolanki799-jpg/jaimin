@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T15:30:10+00:00",
+ "generated_at": "2026-09-10T16:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 2,
-   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
+   "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 20:24:31 +0530",
+   "sample_date": "Thu, 10 Sep 2026 21:00:35 +0530",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 20:55:28 +0530",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 20:27:17 +0530",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "28a9ef7f69020e88",
+   "title": "International flights from Navi Mumbai gets a fee waiver boost",
+   "link": "https://www.livemint.com/companies/news/international-flights-from-navi-mumbai-gets-a-fee-waiver-boost-11789049550324.html",
+   "summary": "An airline already flying to Dubai from CSMIA can now launch Navi Mumbai-Dubai flights and still qualify for the fee waiver. Under the earlier rule, it would not have qualified.",
+   "published": "2026-09-10T15:30:35+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/PTI07-19-2024-000216A-0_1723474508393_1789053990658_1db143c3-91e0-4e86-b4cb-ec9553906c7f_46bdfa0c-3ae5-4501-9833-3f417619098e_97db7445-a4d4-4548-a86d-7c98839e555a.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T16:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d4cb836ecda1282f",
    "title": "Why are big chip stocks under pressure? SK Hynix, AMD, Intel, Nvidia fall up to 6.5%; is the AI rally losing steam?",

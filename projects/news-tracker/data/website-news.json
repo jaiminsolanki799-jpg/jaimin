@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T15:30:10+00:00",
+ "generated_at": "2026-09-10T16:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 15:19:30 GMT",
+   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 24,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 15:07:27 +0000",
    "error": null,
-   "checked_at": "2026-09-10T15:30:10+00:00"
+   "checked_at": "2026-09-10T16:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "c2825a08f8642a9e",
+   "title": "Why Gen Z is talking about therapy more than ever before",
+   "link": "https://yourstory.com/2026/09/why-gen-z-is-talking-about-therapy-more-than-ever-before",
+   "summary": "Discover why Gen Z is embracing therapy, prioritising mental health, and changing conversations around emotional well-being.",
+   "published": "2026-09-10T15:23:23+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T16:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4a4a589bf2344650",
    "title": "8 Quotes that perfectly capture the reality of Gen Z burnout",
@@ -471,6 +489,24 @@
    "valuation_signals": []
   },
   {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-10T11:04:40+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "d0c6c857f254b0c2",
    "title": "Greenwave Circularity raises $31.5M financing from OeEB of Austria",
    "link": "https://yourstory.com/2026/09/greenwave-circularity-raises-315-million-financing-from-oeeb-of-austria",
@@ -563,6 +599,24 @@
    "image": "https://static.startuptalky.com/2026/09/amazon-faces-food-safety-scrutiny-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-10T11:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "81d619960f63f5ed",
+   "title": "Listed Companies - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
+   "summary": "",
+   "published": "2026-09-10T10:02:08+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -767,6 +821,24 @@
    "valuation_signals": []
   },
   {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-10T06:09:52+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "fbfd2d2a0ad0e555",
    "title": "Rentomojo IPO subscribed 1.97X on Day 1, NII portion leads at 3.87X",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd05qcXJMMzVHVjRuWGVQbGJobW9LN3lCcHpRWDcyMHowMWtXejFadXVucDdsQ1VBTEY2VmFheHJDa3lTQWI5T3hyTVlUQTZYWUVlYzZTR3g3UDV1cFZmeVhVSENrTEhLeEFQOEFkZVZXeDFXQ1o3R3JNcDZCVm9SNGljYWplbHBLQUc2aTQyeGgySUY0WUdjRllKMEg4SFNM0gGgAUFVX3lxTE13TmpxckwzNUdWNG5YZVBsYmhtb0s3eUJwelFYNzIwejAxa1d6MVp1dW5wN2xDVUFMRjZWYWF4ckNreVNBYjlPeHJNWVRBNlhZRWVjNlNHeDdQNXVwVmZ5WFVIQ2tMSEt4QVA4QWRlVld4MVdDWjdHck1wNkJWb1I0aWNhamVscEtBRzZpNDJ4aDJJRjRZR2NGWUowSDhIU0w?oc=5",
@@ -787,6 +859,24 @@
    "valuation_signals": [
     "IPO"
    ]
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-10T05:22:20+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "a357bee383f162c0",
@@ -904,6 +994,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-10T04:11:11+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "ac7e22f2e9969451",
@@ -1050,24 +1158,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T20:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-09T20:09:31+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1292,24 +1382,6 @@
    "valuation_signals": []
   },
   {
-   "id": "81d619960f63f5ed",
-   "title": "Listed Companies - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
-   "summary": "",
-   "published": "2026-09-09T17:43:33+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "357dc0e4f8bc13e5",
    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
@@ -1510,24 +1582,6 @@
    "valuation_signals": [
     "Valuation"
    ]
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-09T14:33:05+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "6c16839213c849ae",
@@ -1864,24 +1918,6 @@
    "valuation_signals": []
   },
   {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-09T11:45:16+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "ffca860a0d292b97",
    "title": "Meta India Faces Notice Over Sexual Abuse Ads Allegations, Officials Summoned",
    "link": "https://startuptalky.com/news/meta-india-faces-notice-over-sexual-abuse-ads/",
@@ -2098,24 +2134,6 @@
    "image": "https://static.startuptalky.com/2026/09/jsw-skoda-volkswagen-ink-mou-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-09T07:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-09T06:17:18+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
