@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T09:30:10+00:00",
+ "generated_at": "2026-09-10T10:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T09:30:10+00:00"
+   "checked_at": "2026-09-10T10:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 15:07:01 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:12:09 GMT",
    "error": null,
-   "checked_at": "2026-09-10T09:30:10+00:00"
+   "checked_at": "2026-09-10T10:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 10 Sep 2026 08:05:39 GMT",
+   "sample_date": "Thu, 10 Sep 2026 09:36:25 GMT",
    "error": null,
-   "checked_at": "2026-09-10T09:30:10+00:00"
+   "checked_at": "2026-09-10T10:00:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 27,
-   "items": 27,
+   "fetched": 26,
+   "items": 26,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T09:30:10+00:00"
+   "checked_at": "2026-09-10T10:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T09:30:10+00:00"
+   "checked_at": "2026-09-10T10:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "a1c7440cca14f27c",
+   "title": "Myntra Tech Threads 2026 spotlights the brands shaping India’s evolving fashion and lifestyle landscape",
+   "link": "https://yourstory.com/2026/09/myntra-tech-threads-2026-spotlights-brands-shaping-indias-evolving-fashion-lifestyle-landscape",
+   "summary": "India’s fashion and lifestyle ecosystem is witnessing the rise of an exciting mix of global names, homegrown and emerging brands. From heritage brands to D2C brands, each is finding its own way to create relevance and capture consumer attention in a constantly evolving fashion and lifestyle lands",
+   "published": "2026-09-10T09:58:34+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T10:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b8d7640f447fe635",
+   "title": "Flipkart Expands into Food Delivery with ‘Eat In’ Pilot, Tests Minutes App",
+   "link": "https://startuptalky.com/news/flipkart-expands-into-food-delivery/",
+   "summary": "Flipkart is trialling its “Eat In” meal delivery service among employees in Bengaluru as it looks to foray into online food shopping. The Walmart-backed company is also testing a separate Flipkart Minutes app with limited consumers ahead of a larger launch before the Big Billion Days sale.",
+   "published": "2026-09-10T09:36:25+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/flipkart-expands-into-food-delivery-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T10:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f29a3011c8397672",
+   "title": "Aadit Palicha: The College Dropout Driving Zepto's Rapid Success",
+   "link": "https://startuptalky.com/aadit-palicha-success-story/",
+   "summary": "Aadit Palicha went from a Stanford dropout to co-founding Zepto, one of India's biggest quick-commerce startups. Explore his education, family, career, net worth, Zepto journey and latest 2026 updates.",
+   "published": "2026-09-10T09:19:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Kanimozhi Sivakumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/10/Aadit-Palicha-Success-Story-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T10:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fc107f544e3765ac",
    "title": "Fashion brand Theater raises Rs 75 Cr in Series A round led by Niveshaay",
