@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T10:30:11+00:00",
+ "generated_at": "2026-09-10T11:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 14:13:58 +0530",
+   "sample_date": "Thu, 10 Sep 2026 16:07:42 +0530",
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sept 2026 15:57:18 +0530",
+   "sample_date": "Thu, 10 Sept 2026 16:03:21 +0530",
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 15:17:29 +0530",
    "error": null,
-   "checked_at": "2026-09-10T10:30:11+00:00"
+   "checked_at": "2026-09-10T11:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "f91589c5371fbff5",
+   "title": "Gold rate today before Ganesh Chaturthi | Yellow metal at ₹1.53 lakh - will gold buying continue this festive season?",
+   "link": "https://www.livemint.com/market/stock-market-news/gold-rate-today-before-ganesh-chaturthi-yellow-metal-at-rs-1-53-lakh-will-gold-buying-continue-this-festive-season-11789032697953.html",
+   "summary": "Ganesh Chaturthi initiates India's festive season with gold buying on the rise. Despite prices being 45-50% higher than last year, experts expect demand to remain steady, albeit with consumers opting for smaller, lightweight purchases over larger items.",
+   "published": "2026-09-10T11:00:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/gold_1_1789036309779_b70fe4ae-404d-4e42-8319-f1226d2f5255_1789036318278_e9c73b76-0af2-4962-bf7a-14060e098b03_5ef6e7b8-f32b-4465-a741-47e698f60447_a94318ec-db74-4a16-8931-831f5392d928.png",
+   "topics": [],
+   "first_seen": "2026-09-10T11:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c5ec6b02bef7f628",
+   "title": "Greenwave Circularity raises $31.5 mn from Development Bank of Austria",
+   "link": "https://www.livemint.com/companies/news/greenwave-circularity-raises-31-5-mn-from-development-bank-of-austria-11789031739940.html",
+   "summary": "The company plans to use the funding to develop its integrated plastic recycling facility in Odisha.",
+   "published": "2026-09-10T10:37:42+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/FILES-FRANCE-ECONOMY-WATER-0_1684409694479_1789036629476_a4e3590c-e7e3-49a2-89b6-90ee84f13edc_e6a75c1a-ea3b-4f4c-95f2-0be50a1971df_295605f0-1566-4d4a-8ad5-583618c1f160.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T11:00:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "9067db9aa905dbb5",
    "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Friday | Kospi, Taiwan Index, Nikkei cues to watch | 11 Sept",
