@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T12:00:09+00:00",
+ "generated_at": "2026-09-10T12:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 16:07:42 +0530",
+   "sample_date": "Thu, 10 Sep 2026 17:48:47 +0530",
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 17:19:46 +0530",
+   "sample_date": "Thu, 10 Sep 2026 17:53:16 +0530",
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 16:36:29 +0530",
+   "sample_date": "Thu, 10 Sep 2026 17:46:16 +0530",
    "error": null,
-   "checked_at": "2026-09-10T12:00:09+00:00"
+   "checked_at": "2026-09-10T12:30:13+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,64 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "181be1472791638b",
+   "title": "US market outlook: S&P 500, Dow futures flat as oil surges; will Friday’s inflation data shift Fed bets?",
+   "link": "https://www.livemint.com/market/stock-market-news/us-market-prediction-s-p-500-dow-futures-flat-as-oil-surges-will-fridays-inflation-data-shift-fed-rate-cut-bets-11789037958881.html",
+   "summary": "US stock futures were mostly flat as investors awaited inflation data that may influence the Federal Reserve's policies. Major indices are negative for the week, with rising oil prices and bond yields, alongside geopolitical tensions in West Asia, contributing to market caution.",
+   "published": "2026-09-10T12:23:16+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/YEAR-END-STOCKS-0_1704108179271_1789041280003_a331c81d-8e86-4931-b296-9ec9dff12537_d5b47786-ec0f-45a2-80de-7cc086a759cc_b35f68c2-dc80-4bde-8b51-58ef90e59ea4.JPG",
+   "topics": [],
+   "first_seen": "2026-09-10T12:30:13+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
+  {
+   "id": "4428b76a028241be",
+   "title": "Veefin Solutions begins process for migration to BSE mainboard, direct listing on NSE",
+   "link": "https://www.livemint.com/companies/news/veefin-solutions-begins-process-for-migration-to-bse-mainboard-direct-listing-on-nse-11789042218177.html",
+   "summary": "Veefin Solutions has initiated its migration from the BSE SME to the BSE mainboard and plans a direct listing on the NSE.&nbsp;",
+   "published": "2026-09-10T12:18:47+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/pexels-photo-36755602_1779428955091_1779428971334_b5a14d25-bb40-4f92-b8bd-2a6c8e03951d_1789042382359_07916a7b-2100-449b-a28c-d4fc0c9f2d2a_04b1fee0-3382-4fae-8009-64a9756447e6_d03475ce-2d96-4125-b253-52f35427c62a.jpeg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-10T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6ed113f8a3e7e255",
+   "title": "Aadhaar face authentication gets easier: UIDAI launches new SDK and Sandbox—what users should know",
+   "link": "https://www.livemint.com/money/personal-finance/aadhaar-face-authentication-gets-easier-uidai-launches-new-sdk-and-sandbox-what-users-should-know-11789037486340.html",
+   "summary": "UIDAI has launched an Aadhaar Face Authentication SDK that allows banks, fintechs, insurers, and brokers to integrate face authentication directly into their apps. Users can complete Aadhaar verification without switching to the separate FaceRD app, making digital onboarding simpler.",
+   "published": "2026-09-10T12:16:16+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/aff_1789040528432_111a6ea1-39ba-4bad-b65b-608694aa2afe_1789040535408_843f9904-a58d-4f9b-be36-ce0ff08ecd5d_f562a659-b590-48ce-bc85-1c4fe3a90897_fdd88873-ae42-44ad-91a3-6ad5184ed77a.png",
+   "topics": [],
+   "first_seen": "2026-09-10T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f3ebc9a8a281b1f2",
    "title": "Already up 137% in 1 year still JM Financial sees more upside in this stock | Check target price, shareholding pattern",
@@ -396,7 +454,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/a_1789035479503_9ce06f2b-1cae-48d2-8660-9c580b454c2d_1789035483333_3ce50d73-b919-456e-9379-8dcd459307a8_85e40e2e-d24d-4489-9572-ebd142c019f6_ee45dd1f-20d8-4dfb-bd54-e1ba9651afe9.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/maxresdefault_1789041588335_66c5de17-e41f-4f1e-856d-015108208709_1789041594629_3030f3be-c1c1-42d2-9945-af453792bb7c_c6ed0926-8fe2-4251-b1d9-b0f71638be55_d2a17ec8-f87d-4228-ac59-33beb4c31278.jpg",
    "topics": [],
    "first_seen": "2026-09-10T09:30:10+00:00",
    "valuation_score": 0,
