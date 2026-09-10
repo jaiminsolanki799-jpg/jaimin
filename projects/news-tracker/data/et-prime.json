@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T09:00:11+00:00",
+ "generated_at": "2026-09-10T09:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "items": 2,
-   "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
+   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 14:13:58 +0530",
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 14:06:58 +0530",
+   "sample_date": "Thu, 10 Sep 2026 14:51:50 +0530",
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 14:14:02 +0530",
+   "sample_date": "Thu, 10 Sep 2026 14:28:12 +0530",
    "error": null,
-   "checked_at": "2026-09-10T09:00:11+00:00"
+   "checked_at": "2026-09-10T09:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "1223e58a16264783",
+   "title": "Nuvama says 'Buy' Marico; check 12-month price target, stock performance, shareholding pattern",
+   "link": "https://www.livemint.com/market/stock-market-news/nuvama-says-buy-marico-check-12-month-price-target-stock-performance-shareholding-pattern-11788952174352.html",
+   "summary": "Nuvama Wealth Management recommends investors to buy Marico shares, forecasting significant growth driven by a pivot towards premium products. Explore how Marico plans to navigate the evolving market landscape.",
+   "published": "2026-09-10T09:21:50+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Marico_1789029661126_598895f6-ef7c-4256-b0c9-aa721fa0277d_1789029666055_34c7f396-b550-4a2c-a1e2-73b18ecdfa33_75369495-bef5-4608-9591-b4b12ea8a44e_342f19b1-fe3b-45d8-807f-fc230ba48b2a.png",
+   "topics": [],
+   "first_seen": "2026-09-10T09:30:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "83445609d0e734da",
+   "title": "Mint Money app with Bill Payments unveiled at Global Fintech Fest 2026 in Mumbai - 'Money Decisions, Made Right'",
+   "link": "https://www.livemint.com/money/personal-finance/mint-money-app-with-bill-payments-unveiled-at-global-fintech-fest-2026-in-mumbai-money-decisions-made-right-11789028980711.html",
+   "summary": "Bringing its ‘Money Decisions, Made Right’ promise to everyday money management, Mint Money brings together trusted financial content, financial tools and payments in one destination.",
+   "published": "2026-09-10T08:58:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/WhatsApp_Imge_2026-09-10_at_134935_178902918129_1789029193812_32c4c9ac-6aff-4652-9f19-eea449532e9b_1789029194670_535a608e-699c-49b5-933a-9165d645ac40_977ab83c-3a49-4a7e-b104-f33fc196a5c5_35061cd8-c987-4341-aa00-f727d77937f1.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-10T09:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2297573d4d03e68d",
    "title": "Beyond the CIBIL score: Why retail borrowers are paying for credit-health advice",
