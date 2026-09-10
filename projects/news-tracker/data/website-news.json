@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T12:30:13+00:00",
+ "generated_at": "2026-09-10T13:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T12:30:13+00:00"
+   "checked_at": "2026-09-10T13:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 09:58:34 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:27:58 GMT",
    "error": null,
-   "checked_at": "2026-09-10T12:30:13+00:00"
+   "checked_at": "2026-09-10T13:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 10 Sep 2026 10:19:59 GMT",
+   "sample_date": "Thu, 10 Sep 2026 12:26:19 GMT",
    "error": null,
-   "checked_at": "2026-09-10T12:30:13+00:00"
+   "checked_at": "2026-09-10T13:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 24,
    "sample_date": "Wed, 09 Sep 2026 03:27:19 GMT",
    "error": null,
-   "checked_at": "2026-09-10T12:30:13+00:00"
+   "checked_at": "2026-09-10T13:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 12:25:08 +0000",
+   "sample_date": "Thu, 10 Sep 2026 13:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-10T12:30:13+00:00"
+   "checked_at": "2026-09-10T13:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,105 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "d3255f85940c6005",
+   "title": "Snapchat takes aim at Partiful with new event-planning features",
+   "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+   "summary": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+   "published": "2026-09-10T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4eac56b5497dc068",
+   "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+   "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+   "summary": "The buzzy startup raised $600 million in its Series C round.",
+   "published": "2026-09-10T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-10T13:00:12+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
+  {
+   "id": "e7ef4a809925f93c",
+   "title": "Cardless payments platform Piston raises $15 Mn in Series A led by FPV Ventures",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtmNTFESEM5dVd0aFhZV1ZBd1ZvNzdpb0MtWVRGV3lTWXlQRGxFZWg0VWtDQ0E3TU5memp1YWRoTU1rbnJTenUwZTBJbko4NG9uanBVajdFTktNY0dENkVwekExVzdLWTFQcnktNk1FVUp5Z1htLVZuNXdQaTZHM21CQUxpS3JxYk5uQXFSMXUtVTQtT3hUX2p6NWljN3lpOGtFNDZaNFprX3hYZHhtTWVLNNIBswFBVV95cUxPaWtmNTFESEM5dVd0aFhZV1ZBd1ZvNzdpb0MtWVRGV3lTWXlQRGxFZWg0VWtDQ0E3TU5memp1YWRoTU1rbnJTenUwZTBJbko4NG9uanBVajdFTktNY0dENkVwekExVzdLWTFQcnktNk1FVUp5Z1htLVZuNXdQaTZHM21CQUxpS3JxYk5uQXFSMXUtVTQtT3hUX2p6NWljN3lpOGtFNDZaNFprX3hYZHhtTWVLNA?oc=5",
+   "summary": "",
+   "published": "2026-09-10T12:31:37+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T13:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "e77fbdb4129393a7",
+   "title": "Delhi High Court Bars Startup Beco From Advertising Against HUL Products",
+   "link": "https://startuptalky.com/news/delhi-high-court-bars-startup-beco/",
+   "summary": "The Delhi High Court has blocked home-care company Beco from launching an advertising campaign against Hindustan Unilever's Vim and Surf Excel products. HUL took on Beco’s #WarOnWhatsHidden campaign, arguing that it was portraying its products as a physical hazard.",
+   "published": "2026-09-10T12:26:19+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/delhi-high-court-bars-startup-beco-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0a2933235cf669c7",
+   "title": "Startup news and updates: Daily roundup (September 10, 2026)",
+   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-10-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, September 10, 2026.",
+   "published": "2026-09-10T12:26:18+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c36e1a3a28da66c2",
    "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
