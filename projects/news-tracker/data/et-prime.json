@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T13:00:12+00:00",
+ "generated_at": "2026-09-10T13:30:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 8,
    "items": 2,
-   "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
+   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 16:07:42 +0530",
+   "sample_date": "Thu, 10 Sep 2026 18:50:51 +0530",
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 18:11:13 +0530",
+   "sample_date": "Thu, 10 Sep 2026 18:42:35 +0530",
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 17:46:16 +0530",
+   "sample_date": "Thu, 10 Sep 2026 18:49:54 +0530",
    "error": null,
-   "checked_at": "2026-09-10T13:00:12+00:00"
+   "checked_at": "2026-09-10T13:30:16+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,102 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "808e5457a3c56afa",
+   "title": "JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report",
+   "link": "https://www.livemint.com/companies/news/jsw-volkswagen-group-potential-india-deal-cost-cuts-exports-and-control-at-centre-of-talks-says-report-11789043077410.html",
+   "summary": "JSW Group and Volkswagen Group are reportedly negotiating a potential partnership in India focused on reducing costs and export access. JSW aims to cut production expenses by 50%, while Volkswagen assesses its decision-making authority in the joint venture.",
+   "published": "2026-09-10T13:20:51+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Untitled_design_1789046243216_cb33da5f-6d99-4c87-8b14-b80df0ff49b3_1789046246834_60131eb0-eb67-4873-9ed8-3d03ed31606f_fbe08efb-5c78-406d-9bf4-96196e1565c6_1509a619-b57d-4e86-bedd-09341007800c.png",
+   "topics": [],
+   "first_seen": "2026-09-10T13:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "17fed120f3794426",
+   "title": "Mint Money app adds bill payments, loans at Global Fintech Fest 2026",
+   "link": "https://www.livemint.com/money/mint-money-app-adds-bill-payments-loans-at-global-fintech-fest-2026-11789041358038.html",
+   "summary": "Mint Money, the fintech app from HT Group, unveiled with bill payments and digital loan services at Global Fintech Fest 2026.&nbsp;",
+   "published": "2026-09-10T13:19:54+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/a_1789035479503_9ce06f2b-1cae-48d2-8660-9c580b454c_1789046142300_88b4c5db-33c0-4346-833c-22e558da9961_1789046142498_82c46d4e-0e3c-40ec-b8b7-b2b51d102ab5_e50e60d2-caa5-4479-b7c6-5e0952e5f851_401b1ef7-423a-41ed-8417-1e001277cf83.png",
+   "topics": [],
+   "first_seen": "2026-09-10T13:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "34d21d6c0d657a11",
+   "title": "Motor insurance pitfalls: Why claims get rejected — 6 key points policyholders should keep in mind",
+   "link": "https://www.livemint.com/money/motor-insurance-pitfalls-why-claims-get-rejected-6-key-points-policyholders-should-keep-in-mind-11789039250108.html",
+   "summary": "Failing to meet basic regulatory compliance is a primary reason claims fall through. Additionally, widespread misconceptions about policy features frequently lead to avoidable disputes between policyholders and insurers.",
+   "published": "2026-09-10T13:17:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/motorinsurance_1789044266301_214e6c29-47f5-4d97-bc61-004afacef786_1789044307837_5128487f-d93b-416e-97e9-3e2febe3447f_dab16b55-6f13-4448-bf37-16d7b9fa6949_b6cae200-e5a1-4bab-8b40-0766020408a8.jpg",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-10T13:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1dd94d02c7ab930f",
+   "title": "'Buy' Nephrocare Health Services for 16% upside, says ICICI Securities; check share price target",
+   "link": "https://www.livemint.com/market/stock-market-news/buy-nephrocare-health-services-for-16-upside-says-icici-securities-check-share-price-target-11789044057519.html",
+   "summary": "Nephrocare Health Services appears to be set for significant growth, with ICICI Securities projecting impressive revenue and profit growth. The stock has jumped 64% year-to-date compared to a 12% drop in equity benchmark Sensex.",
+   "published": "2026-09-10T13:12:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Nephrocare_Health_1789045516343_9473bd6e-4a09-4570-be28-2e7566f796d0_1789045523199_b7870e63-f063-4f63-b66a-3f20766605c6_ac05aa48-b1a8-433d-b915-713b5838bf3e_f020f3c0-393b-4e17-a65d-18730cefdc11.png",
+   "topics": [],
+   "first_seen": "2026-09-10T13:30:16+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "84d49e4dd969e1e4",
+   "title": "Debt mutual fund flows reverse sharply in August; is it a warning sign for investors?",
+   "link": "https://www.livemint.com/money/personal-finance/debt-mutual-fund-flows-reverse-sharply-in-august-is-it-a-warning-sign-for-investors-11789044732230.html",
+   "summary": "Debt mutual funds swung from a ₹1.87 lakh crore net inflow in July to a ₹8,127 crore outflow in August. Experts say the reversal reflects seasonal corporate and institutional cash movements, while investors continued to favour liquid, money market and ultra-short duration funds.",
+   "published": "2026-09-10T13:02:36+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Gemini_Generated_Iage_f7w8z0f7w8z0f7w8_178904506_1789045077211_03484c5e-38d0-4616-a596-32f9884faf89_1789045077351_02933ce8-7c26-4716-92f5-3ddfa0ad4f67_1480e85d-e026-464a-819e-d6f571acd7c8_615aa761-7a1c-4028-91cb-81e67d48cbfa.png",
+   "topics": [],
+   "first_seen": "2026-09-10T13:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "896865c718290079",
    "title": "Investors flock to small, mid-cap funds, lured by strong recent gains",
@@ -4435,7 +4529,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -6579,7 +6673,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
