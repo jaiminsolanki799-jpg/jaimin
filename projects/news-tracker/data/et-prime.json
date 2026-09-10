@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T02:30:10+00:00",
+ "generated_at": "2026-09-10T03:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 05:50:34 +0530",
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 07:24:21 +0530",
+   "sample_date": "Thu, 10 Sep 2026 08:25:25 +0530",
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 07:30:06 +0530",
    "error": null,
-   "checked_at": "2026-09-10T02:30:10+00:00"
+   "checked_at": "2026-09-10T03:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,72 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "803c49789d917775",
+   "title": "Stock market today: Gift Nifty hints at a volatile trend | Vaishali Parekh recommends three stocks to buy today",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-at-a-volatile-trend-vaishali-parekh-recommends-three-stocks-to-buy-today-11789006668121.html",
+   "summary": "Stock market today: Vaishali Parekh recommends three stocks to buy today — Meesho, Torrent Power, and Max Healthcare Institute",
+   "published": "2026-09-10T02:55:25+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Buy_or_sell_Vaishali_Parekh_recommends_three_stock_1789007266516_16bd7a47-701c-481c-a0cf-ad1b2ccaebfe_1789007266661_349b5e88-9a62-4137-aa94-b1345bc775b3_5136a688-af54-4048-b759-5e29fe878cdc_a74ff82a-f6ac-4b50-8bd9-32ec35ca52be.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T03:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ab95feb7b05200cd",
+   "title": "Veegaland Developers IPO GMP jumps 17% on Day 1; should you apply? Check key dates, review, subscription status",
+   "link": "https://www.livemint.com/market/ipo/veegaland-developers-ipo-gmp-jumps-17-on-day-1-should-you-apply-check-key-dates-review-subscription-status-11789005499480.html",
+   "summary": "Veegaland Developers IPO opens on 10 September and closes on 15 September, priced at ₹130-140 per share. The lot size is 107 shares. Analysts recommend subscribing for medium to long term due to strong growth prospects, while noting regional risks and valuation concerns.",
+   "published": "2026-09-10T02:39:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Veegaland_Developers_IPO_1789007792154_f30f905d-4542-4311-b211-8119bdf1a87d_1789007797560_a9ba24d2-05da-49dd-bf16-835c794f89d0_f601336c-1669-4f18-9fd3-d89233ca43ae_7ba53de2-3552-4664-934c-f1b1314427fe.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-10T03:00:11+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Valuation"
+   ]
+  },
+  {
+   "id": "fdf2ba60332ad181",
+   "title": "Glass Wall Systems IPO Day 3: Issue subscribed 8.22 times so far. GMP signals 36% listing pop. Should you apply?",
+   "link": "https://www.livemint.com/market/ipo/glass-wall-systems-ipo-day-3-issue-subscribed-8-22-times-so-far-gmp-signals-36-listing-pop-should-you-apply-11789005886373.html",
+   "summary": "The Glass Wall Systems IPO has fixed its price band at ₹172– ₹182 per equity share, with a face value of ₹2. The IPO lot size is 82 shares, and investors can bid in multiples of 82 shares thereafter.",
+   "published": "2026-09-10T02:34:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/glass_1789007537843_f9f8239f-cb8f-4bff-805e-8fad1b416663_1789007538039_becaf864-649d-4872-889b-a9a786364a52_a1dcbed7-65a2-46a7-bf17-38f6db71f12e_c4654127-6410-4ef5-8a20-62c7c390f7d0.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-10T03:00:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "151caf897e88f61d",
    "title": "8th Pay Commission: 5 key demands raised by Chennai GPO Pensioners Forum",
@@ -250,9 +314,9 @@
   },
   {
    "id": "79b0987140d2b7fe",
-   "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today —10 September 2026",
+   "title": "Breakout stocks to buy: Sumeet Bagadia recommends five shares to buy today —10 September 2026",
    "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-10-september-2026-11789001772273.html",
-   "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today — One 97 Communications, Global Health, Adani Power, JSW Infrastructure, and Aditya Birla Sun Life Amc.",
+   "summary": "Breakout stocks to buy: Sumeet Bagadia recommends five breakout stocks to buy today — One 97 Communications, Global Health, Adani Power, JSW Infrastructure, and Aditya Birla Sun Life Amc.",
    "published": "2026-09-10T01:11:22+00:00",
    "source": "Mint Markets",
    "group": "Mint",
