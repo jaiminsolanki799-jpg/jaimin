@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T22:00:09+00:00",
+ "generated_at": "2026-09-10T22:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T22:00:09+00:00"
+   "checked_at": "2026-09-10T22:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-10T22:00:09+00:00"
+   "checked_at": "2026-09-10T22:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-10T22:00:09+00:00"
+   "checked_at": "2026-09-10T22:30:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 24,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T22:00:09+00:00"
+   "checked_at": "2026-09-10T22:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 21:51:59 +0000",
+   "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-10T22:00:09+00:00"
+   "checked_at": "2026-09-10T22:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "48cb73e50a4e37f9",
+   "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+   "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+   "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+   "published": "2026-09-10T22:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T22:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "31c8ff7591014f37",
    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
