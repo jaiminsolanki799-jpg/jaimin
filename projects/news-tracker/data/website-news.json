@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T07:30:10+00:00",
+ "generated_at": "2026-09-10T08:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T07:30:10+00:00"
+   "checked_at": "2026-09-10T08:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 05:00:32 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:27:58 GMT",
    "error": null,
-   "checked_at": "2026-09-10T07:30:10+00:00"
+   "checked_at": "2026-09-10T08:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 10 Sep 2026 06:34:14 GMT",
+   "sample_date": "Thu, 10 Sep 2026 07:20:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T07:30:10+00:00"
+   "checked_at": "2026-09-10T08:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T07:30:10+00:00"
+   "checked_at": "2026-09-10T08:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T07:30:10+00:00"
+   "checked_at": "2026-09-10T08:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
   {
    "id": "a1f11603162532ba",
@@ -92,6 +92,42 @@
    "valuation_signals": []
   },
   {
+   "id": "b4bd295e3628601d",
+   "title": "The Real Story of Super 30 Fame Anand Kumar - A Famous Indian Educator",
+   "link": "https://startuptalky.com/super30-real-story/",
+   "summary": "From giving up Cambridge to building Super 30, Anand Kumar's journey is one of perseverance and purpose. Explore his education, personal life, Super 30 success, awards and latest 2026 initiative, Super Infinity.",
+   "published": "2026-09-10T07:20:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Parnas Ghosh",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/02/Anand-Kumar-Success-Story-StartupTalky-1.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T08:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5c508ee874b493fc",
+   "title": "CCI Ends Antitrust Inquiry into Google Over Real-Money Gaming Apps",
+   "link": "https://startuptalky.com/news/cci-ends-antitrust-inquiry-into-google/",
+   "summary": "The CCI has completed its antitrust probe into Google’s rules for real money gaming applications, stating that regulatory reforms had changed the market drastically. The examination follows a complaint by WinZO Games in 2022 that stated Google exploited its leading position.",
+   "published": "2026-09-10T07:16:30+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/cci-ends-antitrust-inquiry-into-google-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T08:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "79521841e28728da",
    "title": "Qualcomm Grants Amazon Warrants to Buy $4 Billion Stake in Chipmaker",
    "link": "https://startuptalky.com/news/qualcomm-grants-amazon-warrants/",
@@ -106,6 +142,24 @@
    "image": "https://static.startuptalky.com/2026/09/qualcomm-grants-amazon-warrants-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-10T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- the-captable.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-10T06:09:52+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -142,7 +196,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -277,7 +331,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -443,7 +497,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -533,7 +587,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -591,7 +645,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -681,7 +735,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1225,24 +1279,6 @@
    "valuation_signals": []
   },
   {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-09T11:45:16+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "ffca860a0d292b97",
    "title": "Meta India Faces Notice Over Sexual Abuse Ads Allegations, Officials Summoned",
    "link": "https://startuptalky.com/news/meta-india-faces-notice-over-sexual-abuse-ads/",
@@ -1635,7 +1671,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T11:00:10+00:00",
@@ -2910,7 +2946,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T17:30:13+00:00",
@@ -3929,7 +3965,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
@@ -4762,7 +4798,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
