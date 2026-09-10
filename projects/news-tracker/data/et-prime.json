@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T00:00:08+00:00",
+ "generated_at": "2026-09-10T00:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 05:07:55 +0530",
+   "sample_date": "Thu, 10 Sep 2026 05:50:34 +0530",
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 03:47:24 +0530",
+   "sample_date": "Thu, 10 Sep 2026 05:55:51 +0530",
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 00:45:25 +0530",
    "error": null,
-   "checked_at": "2026-09-10T00:00:08+00:00"
+   "checked_at": "2026-09-10T00:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "e651164b3945a57a",
+   "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
+   "link": "https://www.livemint.com/market/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path-11788999951470.html",
+   "summary": "Gold steadied, as traders awaited US inflation data due later this week for clues to whether the Federal Reserve will hike interest rates.",
+   "published": "2026-09-10T00:25:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6c51a64642ec2db3",
+   "title": "BirlaNu bets on construction chemicals, pipes with a ₹500 crore capex plan",
+   "link": "https://www.livemint.com/companies/birlanu-bets-on-construction-chemicals-pipes-with-a-500-crore-capex-plan-11788928781237.html",
+   "summary": "BirlaNu has earmarked close to ₹500 crore of investment over the next two years to expand capacity and support its growth plans,",
+   "published": "2026-09-10T00:20:34+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/IMG_0666_1788954339227_ad181ede-e5ab-43ed-9ec4-ee6118f9abed_1788954351879_58a573d7-b874-48c4-ba69-50e8ecad33f8_95e1b94e-6f00-43f9-8989-fab26d63b814_f114a2e3-845a-4b81-98ed-b41481d68f97.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "22ed210d8d077ebf",
+   "title": "Coforge top shareholder thumbs-down leads to chairman Bhatt's exit",
+   "link": "https://www.livemint.com/companies/coforge-chairman-op-bhatt-resignation-advent-international-11788960783608.html",
+   "summary": "Coforge’s top shareholder Advent voted against chairman Bhatt’s reappointment, weeks after its nominee was part of a panel that backed his tenure extension. The reversal blocked the veteran banker’s second term; he has since quit amid concerns over the board evaluation process.",
+   "published": "2026-09-10T00:15:34+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/2-0-128486514-OP-Bhatt-3C-0_1681887867184_1788974073340_adbbf04c-038b-48a6-9dbf-d4f7f986c024_b6fd7544-8aab-4d89-8883-60bbebbef286_86bf577e-0012-4750-9623-ea77da1fc13b.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8fbe1da9b9118b5b",
+   "title": "Ola Electric spent ₹229 crore as three-wheeler launch slips",
+   "link": "https://www.livemint.com/companies/news/ola-electric-three-wheeler-ev-auto-plan-11788933121504.html",
+   "summary": "Ola Electric Mobility Ltd disclosed a ₹229 crore investment in electric three-wheelers, with project completion now expected between March 2027 and March 2028.",
+   "published": "2026-09-10T00:00:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/OLA-ELECTRIC-RESULTS--0_1769777445583_1769777460082_1788948369291_4e5efc8c-4839-40cc-b0e8-41df95102224_02a25e48-a4e1-4077-98ef-33b143d3f68b_45169855-e6f2-4f2a-a1a6-fa5eb007965b.JPG",
+   "topics": [],
+   "first_seen": "2026-09-10T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ecf9d48a921064e7",
    "title": "Samsung, SK Hynix payouts test South Koreas reform drive as investors seek more",
