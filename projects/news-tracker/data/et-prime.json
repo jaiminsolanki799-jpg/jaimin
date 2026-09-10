@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T06:00:11+00:00",
+ "generated_at": "2026-09-10T06:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,18 +46,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,18 +101,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 09:11:16 +0530",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 11:26:40 +0530",
+   "sample_date": "Thu, 10 Sep 2026 11:57:22 +0530",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 11:22:47 +0530",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "d32d87f872644fd4",
+   "title": "Share India Securities jumps 12% to 52-week high, up 24% in just 2 sessions- What is driving the stock price?",
+   "link": "https://www.livemint.com/market/stock-market-news/share-india-securities-jumps-12-to-52-week-high-up-24-in-just-2-sessions-what-is-driving-the-stock-price-11789021015825.html",
+   "summary": "Share India Securities share price jumped 12% to hit its 52-week high of ₹212 amid a spurt in volume. In just two consecutive sessions, the stock's gains total more than 24%.",
+   "published": "2026-09-10T06:27:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/Stocks_pexels_1789021256022_41649e74-4af2-4184-bced-88712c5c326e_1789021262124_ba25359e-583c-4cbd-8ecd-1c1a07f852ff_2e8cbb1b-9fb6-4d34-ba98-aca1ff156da7_08432c67-999f-4c8b-b585-9497f57261f2.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T06:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "22556066562ead97",
+   "title": "176% return in 2026 so far! Antelopus Selan Energy falls 3% after massive rally | What’s spooking investors?",
+   "link": "https://www.livemint.com/market/stock-market-news/176-return-in-2026-so-far-antelopus-selan-energy-falls-3-after-massive-rally-what-s-spooking-investors-11789019691114.html",
+   "summary": "Antelopus Selan Energy Limited shares dropped nearly 3% after a 20% surge earlier in the week, amid a correction following recent gains.&nbsp;",
+   "published": "2026-09-10T06:01:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Antelopus_Selan_Energy_12_1789019984019_58ab54ca-0dd9-4128-9e50-ee95490bef29_1789019990901_e356e0b1-297f-4f4b-b65f-d03f98159626_301265e5-7355-4e15-ad3f-caf090d4d09b_23f0d439-b3bc-4ca2-b88c-de57f773bfba.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T06:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e444f0fb6b12f3e1",
    "title": "Why Ola Electric and Ather Energy shares are rising today? Explained",
@@ -260,7 +296,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/Tata_Group_Stocks_1789017071750_7b012087-4d23-4d27-b8aa-216e7d674f0d_1789017076832_60e15dd5-b23f-41a9-a36d-d94582c5b66d_f47bef40-23d7-450c-822b-f1b986483df4_80396281-686b-47c3-b528-93b0a01ad828.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Tata_Group_Stocks_1789017071750_7b012087-4d23-4d27-b8aa-216e7d674f0d_1789017076832_60e15dd5-b23f-41a9-a36d-d94582c5b66d_f47bef40-23d7-450c-822b-f1b986483df4_80396281-686b-47c3-b528-93b0a01ad828.png",
    "topics": [],
    "first_seen": "2026-09-10T05:30:11+00:00",
    "valuation_score": 0,
@@ -3621,7 +3657,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -5765,7 +5801,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",

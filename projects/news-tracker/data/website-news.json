@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T06:00:11+00:00",
+ "generated_at": "2026-09-10T06:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 04:14:43 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:27:58 GMT",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 05:12:17 GMT",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T06:00:11+00:00"
+   "checked_at": "2026-09-10T06:30:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "fbfd2d2a0ad0e555",
+   "title": "Rentomojo IPO subscribed 1.97X on Day 1, NII portion leads at 3.87X",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd05qcXJMMzVHVjRuWGVQbGJobW9LN3lCcHpRWDcyMHowMWtXejFadXVucDdsQ1VBTEY2VmFheHJDa3lTQWI5T3hyTVlUQTZYWUVlYzZTR3g3UDV1cFZmeVhVSENrTEhLeEFQOEFkZVZXeDFXQ1o3R3JNcDZCVm9SNGljYWplbHBLQUc2aTQyeGgySUY0WUdjRllKMEg4SFNM0gGgAUFVX3lxTE13TmpxckwzNUdWNG5YZVBsYmhtb0s3eUJwelFYNzIwejAxa1d6MVp1dW5wN2xDVUFMRjZWYWF4ckNreVNBYjlPeHJNWVRBNlhZRWVjNlNHeDdQNXVwVmZ5WFVIQ2tMSEt4QVA4QWRlVld4MVdDWjdHck1wNkJWb1I0aWNhamVscEtBRzZpNDJ4aDJJRjRZR2NGWUowSDhIU0w?oc=5",
+   "summary": "",
+   "published": "2026-09-10T06:08:41+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-10T06:30:13+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "a357bee383f162c0",
    "title": "Exclusive: Mesa School set to raise Rs 100 Cr in Series A; co-founder may sell 2.9% stake",
