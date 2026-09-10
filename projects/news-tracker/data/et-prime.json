@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T14:30:11+00:00",
+ "generated_at": "2026-09-10T15:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 19:41:59 +0530",
+   "sample_date": "Thu, 10 Sep 2026 20:24:31 +0530",
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 19:42:33 +0530",
+   "sample_date": "Thu, 10 Sep 2026 20:09:48 +0530",
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 19:21:13 +0530",
+   "sample_date": "Thu, 10 Sep 2026 20:19:54 +0530",
    "error": null,
-   "checked_at": "2026-09-10T14:30:11+00:00"
+   "checked_at": "2026-09-10T15:00:10+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,64 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "3c927a95877f07f3",
+   "title": "Adyen steps up India expansion after licence approval, plans to grow local team",
+   "link": "https://www.livemint.com/companies/news/adyen-steps-up-india-expansion-after-licence-approval-plans-to-grow-local-team-11789038518286.html",
+   "summary": "Adyen plans to expand its local product, commercial and operations teams as it targets Indian businesses going global and multinational companies entering India.",
+   "published": "2026-09-10T14:54:31+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/IMG_1362_1789048875686_da81ecbf-dad2-4268-9cac-ee240cd3cf74_1789048881588_f966f18f-b73a-4986-a34c-54e05326f863_2eee2154-864c-4590-b544-a4157cd0f9c1_e56bc6c5-9e8f-48ce-a2af-b39920ac88ab.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T15:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3bf88976285080b2",
+   "title": "5 money habits that will keep your financial future safer and help you in difficult situations",
+   "link": "https://www.livemint.com/money/personal-finance/5-money-habits-that-will-keep-your-financial-future-safer-and-help-you-in-difficult-situations-11789051334175.html",
+   "summary": "These 5 money habits will keep your financial future safe and help you in difficult situations. While nothing makes life risk-free, these practices are likely to make things easier for you.",
+   "published": "2026-09-10T14:49:54+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/5_habits_1789051756085_3da4caed-ff6d-4053-b79d-3eb83940c9e5_1789051762920_4986417b-8c1c-47ef-91c0-8c395388ab5d_d660ffb3-6a0b-474e-bd49-7ca3c3855723_ef320e32-0651-4e37-9dbb-b847277ee14d.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T15:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d4467e3f39d62c79",
+   "title": "India’s CAS liquidity concerns not unique, says Sebi chief",
+   "link": "https://www.livemint.com/market/stock-market-news/indias-cas-liquidity-concerns-not-unique-says-sebi-chief-11789044778671.html",
+   "summary": "Sebi chief pointed to other markets where closing auctions initially faced thin liquidity.",
+   "published": "2026-09-10T14:39:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/INDIA-INVESTING--1_1773476974290_1773476985997_1789050697054_46bec952-2a7d-4c90-902a-5a1265790752_09528cff-9b72-4ff5-8c22-3104fa51cc56_fb5c2aa7-0c8c-4544-ac45-af836fe65d88.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-10T15:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
   {
    "id": "a268dfc34a6daf6c",
    "title": "Top stocks in focus tomorrow: Investors must watch Fino Payments, KIMS, Texmaco Rail shares on Fri, 11 Sept | Triggers",
@@ -344,7 +402,7 @@
    "id": "17fed120f3794426",
    "title": "Mint Money app adds bill payments, loans at Global Fintech Fest 2026",
    "link": "https://www.livemint.com/money/mint-money-app-adds-bill-payments-loans-at-global-fintech-fest-2026-11789041358038.html",
-   "summary": "Mint Money, the fintech app from HT Group, unveiled with bill payments and digital loan services at Global Fintech Fest 2026.&nbsp;",
+   "summary": "Mint Money app, a fintech offering from HT Group, unveiled with bill payments and digital loan services at Global Fintech Fest 2026.&nbsp;",
    "published": "2026-09-10T13:19:54+00:00",
    "source": "Mint Money",
    "group": "Mint",
