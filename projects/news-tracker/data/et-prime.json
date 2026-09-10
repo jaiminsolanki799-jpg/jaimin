@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T15:00:10+00:00",
+ "generated_at": "2026-09-10T15:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "items": 2,
-   "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
+   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 20:24:31 +0530",
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 20:09:48 +0530",
+   "sample_date": "Thu, 10 Sep 2026 20:55:28 +0530",
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 20:19:54 +0530",
+   "sample_date": "Thu, 10 Sep 2026 20:27:17 +0530",
    "error": null,
-   "checked_at": "2026-09-10T15:00:10+00:00"
+   "checked_at": "2026-09-10T15:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "d4cb836ecda1282f",
+   "title": "Why are big chip stocks under pressure? SK Hynix, AMD, Intel, Nvidia fall up to 6.5%; is the AI rally losing steam?",
+   "link": "https://www.livemint.com/market/stock-market-news/why-are-big-chip-stocks-under-pressure-sk-hynix-amd-intel-nvidia-fall-up-to-6-5-is-the-ai-rally-losing-steam-11789050327575.html",
+   "summary": "SK Hynix, Micron, and AMD faced declines of up to 6% on September 10 as profit-taking followed recent highs. Escalated tensions in West Asia and a surprising increase in August's Producer Price Index raised inflation worries ahead of upcoming Federal Reserve meetings.",
+   "published": "2026-09-10T15:25:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Chip_stocks_1789053608685_9bde1c43-43ed-4cc2-a4f1-eca4090c235c_1789053620841_c43465a4-a03b-4616-a198-39a8f64394ff_c550b2f9-8cac-47a2-84b6-3c3d8462639b_7a02d5ac-abb8-4190-a55a-cb54c71afda6.png",
+   "topics": [],
+   "first_seen": "2026-09-10T15:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "040d0405bb9e3313",
+   "title": "Retirement planning: Is your corpus enough if you live beyond India's average lifespan? Run this 5-step longevity check",
+   "link": "https://www.livemint.com/money/personal-finance/retirement-planning-is-your-corpus-enough-if-you-live-beyond-indias-average-lifespan-run-this-5-step-longevity-check-11789046702522.html",
+   "summary": "Retirement plans may underestimate how long savings need to last. A new report highlights the 13-year gap in life expectancy at birth, with 12.6% of 60-year-olds reaching 90. Here’s why longevity and early market returns matter.",
+   "published": "2026-09-10T14:57:17+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/retireee_1789049878086_c6454e63-a2d8-4bfd-b1b6-46b470fa7eda_1789049896713_3011a8ab-ec54-408f-a39a-5bd1579d600f_8d02ce22-769b-4c31-8cb3-6530ff4b5b42_df209db5-6b54-4b1c-a4df-245c1675edb1.png",
+   "topics": [],
+   "first_seen": "2026-09-10T15:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3c927a95877f07f3",
    "title": "Adyen steps up India expansion after licence approval, plans to grow local team",
@@ -328,7 +364,7 @@
    "id": "5c51342f4a360172",
    "title": "Wall Street slumps as Brent crude climbs above $105, wholesale inflation rises",
    "link": "https://www.livemint.com/market/stock-market-news/wall-street-slumps-as-brent-crude-climbs-above-105-wholesale-inflation-rises-11789045482327.html",
-   "summary": "The Dow Jones Industrial Average fell 0.17%, the S&amp;P 500 fell 0.55%, the Nasdaq Composite dropped 0.88%",
+   "summary": "The Dow Jones Industrial Average fell 0.60%, the S&amp;P 500 lost 0.72%, the Nasdaq Composite lost 0.86%",
    "published": "2026-09-10T13:53:07+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -6859,7 +6895,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
