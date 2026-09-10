@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T05:00:11+00:00",
+ "generated_at": "2026-09-10T05:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T05:00:11+00:00"
+   "checked_at": "2026-09-10T05:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 13:12:09 GMT",
+   "sample_date": "Wed, 09 Sep 2026 15:07:01 GMT",
    "error": null,
-   "checked_at": "2026-09-10T05:00:11+00:00"
+   "checked_at": "2026-09-10T05:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
+   "sample_date": "Thu, 10 Sep 2026 05:12:17 GMT",
    "error": null,
-   "checked_at": "2026-09-10T05:00:11+00:00"
+   "checked_at": "2026-09-10T05:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 34,
-   "items": 34,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-10T05:00:11+00:00"
+   "checked_at": "2026-09-10T05:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T05:00:11+00:00"
+   "checked_at": "2026-09-10T05:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,67 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "a357bee383f162c0",
+   "title": "Exclusive: Mesa School set to raise Rs 100 Cr in Series A; co-founder may sell 2.9% stake",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnE4Z2JUam5USThodHlpYzNuZW5vaUdEQXQ4cVVWR2VxbS1GM0hrQk5iMDFIZTVlSHAyOUV6ZFl5TWlNT0RoMExBdndVblVGMGpZem9PWjBhWEdySFZMOWZkREVKOXJ6U1BLQVBCV0xpUHpva2JtWmZzZUo3bFFTVU50WV90ZUpibEdpbUhwSFJRM3pPYTlkYk03V3p0OTl4R3ZHT3puX01acHBVY0ktZDQwejNCMTdtakYyckNFSTBWWkHSAcMBQVVfeXFMTlpxOGdiVGpuVEk4aHR5aWMzbmVub2lHREF0OHFVVkdlcW0tRjNIa0JOYjAxSGU1ZUhwMjlFemRZeU1pTU9EaDBMQXZ3VW5VRjBqWXpvT1owYVhHckhWTDlmZERFSjlyelNQS0FQQldMaVB6b2tibVpmc2VKN2xRU1VOdFlfdGVKYmxHaW1IcEhSUTN6T2E5ZGJNN1d6dDk5eEd2R096bl9NWnBwVWNJLWQ0MHozQjE3bWpGMnJDRUkwVlpB?oc=5",
+   "summary": "",
+   "published": "2026-09-10T05:15:57+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T05:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "0d064eb6b59c4a10",
+   "title": "Bertelsmann India Investments Leads $24 Million Fundraise in Swish as the Platform Scales Past 1mn Monthly Orders",
+   "link": "https://startuptalky.com/news/bertelsmann-india-investments-leads-24-million-fundraise-in-swish-as-the-platform-scales-past-1mn-monthly-orders/",
+   "summary": "Swish, the full-stack, vertically integrated food delivery platform that delivers fresh food to consumers in 10 minutes, today announced that it has raised $24 million in funding led by Bertelsmann India Investments (BII), with participation from existing investors Accel, Bain Capital Ventures and Hara Global. The fun…",
+   "published": "2026-09-10T05:12:17+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Bertelsmann-India-Investments-Leads--24-Million-Fundraise-in-Swish-as-the-Platform-Scales-Past-1mn-Monthly-Orders.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T05:30:11+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "a8d2dbadd87e17d5",
+   "title": "Apple expands wearable ecosystem with AirPods 5, Watch Series 12, Ultra 4",
+   "link": "https://yourstory.com/2026/09/apple-expands-wearable-ecosystem-with-airpods-5-watch-series-12-ultra-4",
+   "summary": "Apple has expanded its wearable lineup with AirPods 5, featuring open-ear noise cancellation, alongside Apple Watch Series 12 and Ultra 4, introducing advanced health-sensing technology and S11 silicon.",
+   "published": "2026-09-10T05:00:32+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T05:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a482453601eb9bf3",
    "title": "10-minute food delivery startup Swish raises $24 Mn led by Bertelsmann India Investments",
@@ -130,6 +189,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-10T04:11:11+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "ac7e22f2e9969451",
@@ -1324,24 +1401,6 @@
    "image": "https://static.startuptalky.com/2026/09/jsw-skoda-volkswagen-ink-mou-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-09T07:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-09T06:17:18+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
