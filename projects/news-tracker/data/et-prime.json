@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T18:30:11+00:00",
+ "generated_at": "2026-09-10T19:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,18 +35,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "error": null,
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,18 +57,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "error": null,
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "error": null,
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,29 +101,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "error": null,
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "error": null,
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 7,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 22:19:09 +0530",
+   "sample_date": "Fri, 11 Sep 2026 00:00:21 +0530",
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 23:33:59 +0530",
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 23:48:53 +0530",
+   "sample_date": "Thu, 10 Sep 2026 23:56:44 +0530",
    "error": null,
-   "checked_at": "2026-09-10T18:30:11+00:00"
+   "checked_at": "2026-09-10T19:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,50 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "557b54ba22715894",
+   "title": "NSE Downsizes India IPO, Showing Mounting Valuation Concern",
+   "link": "https://www.livemint.com/companies/nse-downsizes-india-ipo-showing-mounting-valuation-concern-11789065021652.html",
+   "summary": "National Stock Exchange of India Ltd., the world’s largest derivatives exchange by volume, has downsized its initial public offering, a sign of rising concern over the willingness of investors to buy into the deal at the valuation the firm had been seeking.",
+   "published": "2026-09-10T18:30:21+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-10T19:00:09+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "IPO"
+   ]
+  },
+  {
+   "id": "cc7fc2567c47f697",
+   "title": "Planning a trip? Here’s how your unused credit card reward points could help pay for flights and hotels",
+   "link": "https://www.livemint.com/money/personal-finance/planning-a-trip-here-s-how-your-unused-credit-card-reward-points-could-help-pay-for-flights-and-hotels-11789063037342.html",
+   "summary": "Unused credit card points could help reduce the cost of flights and hotel stays. But the value you get redeem them, the conversion rate, award availability, and the taxes or fees attached to the booking.&nbsp;",
+   "published": "2026-09-10T18:26:44+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/credit_points_1789064275103_54e8b77e-f182-4f11-80a0-2945f15f0cf6_1789064366169_12ef4f86-4c83-4524-bd46-c5ddbbaedf49_d3789845-4b46-427f-b3c9-a141cfe8cf12_941bd9f2-25fa-4b77-8996-aea6b9a81b5c.png",
+   "topics": [],
+   "first_seen": "2026-09-10T19:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1449433db4d91669",
    "title": "When good debt becomes bad debt: Warning signs, costly debt errors and practical ways to regain control of your finances",
@@ -460,9 +502,9 @@
   },
   {
    "id": "a268dfc34a6daf6c",
-   "title": "Top stocks in focus tomorrow: Investors must watch Fino Payments, KIMS, Texmaco Rail shares on Fri, 11 Sept | Triggers",
+   "title": "Top stocks in focus today: Investors must watch Fino Payments, KIMS, Texmaco Rail shares on Friday, 11 Sept | Triggers",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-fino-payments-kims-texmaco-rail-shares-on-fri-11-sept-triggers-11789037727262.html",
-   "summary": "On September 11, Indian investors will focus on companies like Texmaco Rail, Sterlite Technologies, Poonawalla Fincorp, and Fino Payments Bank due to recent developments. The stock market rebounded, with the Nifty 50 gaining 0.20% and S&amp;P BSE Sensex up 0.19%.",
+   "summary": "Indian investors will focus on companies like Texmaco Rail, Sterlite Technologies, Poonawalla Fincorp, and Fino Payments Bank due to recent developments. The stock market rebounded, with the Nifty 50 gaining 0.20% and S&amp;P BSE Sensex up 0.19%.",
    "published": "2026-09-10T14:12:33+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -896,9 +938,9 @@
   },
   {
    "id": "9067db9aa905dbb5",
-   "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Friday | Kospi, Taiwan Index, Nikkei cues to watch | 11 Sept",
+   "title": "Stock Market prediction today: Sensex, Nifty outlook for Friday | Kospi, Taiwan Index, Nikkei cues to watch | 11 Sept",
    "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-friday-kospi-taiwan-index-nikkei-cues-to-watch-11-sept-11789033761629.html",
-   "summary": "Indian markets recovered on September 10, with Nifty 50 and Sensex posting minimal gains. Despite higher oil prices and geopolitical tensions, buying in select heavyweights helped indices close positive, although broader markets struggled with mixed sector performance.",
+   "summary": "Indian markets recovered on Thursday, with Nifty 50 and Sensex posting minimal gains. Despite higher oil prices and geopolitical tensions, buying in select heavyweights helped indices close positive, although broader markets struggled with mixed sector performance.",
    "published": "2026-09-10T10:27:18+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -4921,7 +4963,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -6354,7 +6396,7 @@
    "link": "https://economictimes.indiatimes.com/prime/transportation/new-aircraft-order-opens-door-for-atr-assembly-line-in-india-ceo/primearticleshow/133878728.cms",
    "summary": "",
    "published": "2026-09-08T05:13:25+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Transportation",
    "group": "ET Prime",
    "category": "Transportation",
    "date_known": false,
@@ -7083,7 +7125,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T08:30:10+00:00",
@@ -7938,7 +7980,7 @@
    "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/q1-investment-numbers-look-stellar-but-are-we-celebrating-too-early/primearticleshow/133713540.cms",
    "summary": "",
    "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Economy & policy",
    "group": "ET Prime",
    "category": "Economy & policy",
    "date_known": false,
