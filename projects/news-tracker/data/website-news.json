@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-10T04:30:10+00:00",
+ "generated_at": "2026-09-10T05:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-10T04:30:10+00:00"
+   "checked_at": "2026-09-10T05:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 09 Sep 2026 13:27:58 GMT",
+   "sample_date": "Wed, 09 Sep 2026 13:12:09 GMT",
    "error": null,
-   "checked_at": "2026-09-10T04:30:10+00:00"
+   "checked_at": "2026-09-10T05:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 09 Sep 2026 13:29:29 GMT",
    "error": null,
-   "checked_at": "2026-09-10T04:30:10+00:00"
+   "checked_at": "2026-09-10T05:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 34,
    "sample_date": "Tue, 08 Sep 2026 08:00:45 GMT",
    "error": null,
-   "checked_at": "2026-09-10T04:30:10+00:00"
+   "checked_at": "2026-09-10T05:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 00:00:37 +0000",
    "error": null,
-   "checked_at": "2026-09-10T04:30:10+00:00"
+   "checked_at": "2026-09-10T05:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "a482453601eb9bf3",
+   "title": "10-minute food delivery startup Swish raises $24 Mn led by Bertelsmann India Investments",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWdIBvwFBVV95cUxOUnUtei1BczhtQ0lEeUxvQ2VlLWZCQUpXOGxkQjU5eFlDbGhhaTdNdnFTTTRjN09QWkh6TThueWpMb0hLMm5Ec2RzSFVYMGhTT21TZVE5X1cxbVdPb3ptTHNFSUpGcE9nbk1aZVFha1hLZTVRYmlGbGNldzIzZXhLTFAxNmwxN3FvRGpSaGFwc19Oenh6MkpHdjZiZ1NMRnRmOEdnc3VjZ1JTczg2Rm5zYmlGdFFqVHZrOGRLTjJDWQ?oc=5",
+   "summary": "",
+   "published": "2026-09-10T04:40:24+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T05:00:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "893e35f271b5f443",
+   "title": "Apple enters foldable era with iPhone Duo",
+   "link": "https://yourstory.com/2026/09/apple-enters-foldable-era-with-iphone-duo",
+   "summary": "Apple has unveiled its first foldable handset, iPhone Duo, alongside the iPhone 18 Pro lineup, introducing 2-nanometer A20 Pro chips, variable aperture camera optics, and enhanced AI capabilities.",
+   "published": "2026-09-10T04:20:04+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "90a257e6ed2cfa8e",
    "title": "Adani Airports emerges as world's third most valuable airport operator after $1B fundraise",
