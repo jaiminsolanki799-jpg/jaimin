@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-09T23:30:10+00:00",
+ "generated_at": "2026-09-10T00:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 00:02:27 +0530",
+   "sample_date": "Thu, 10 Sep 2026 05:07:55 +0530",
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 03:47:24 +0530",
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 00:45:25 +0530",
    "error": null,
-   "checked_at": "2026-09-09T23:30:10+00:00"
+   "checked_at": "2026-09-10T00:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "ecf9d48a921064e7",
+   "title": "Samsung, SK Hynix payouts test South Koreas reform drive as investors seek more",
+   "link": "https://www.livemint.com/companies/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-as-investors-seek-more-11788997075826.html",
+   "summary": "SOUTHKOREA-MARKETS/INVESTORS (ANALYSIS, PIX, GRAPHIC):ANALYSIS-Samsung, SK Hynix payouts test South Korea's reform drive as investors seek more",
+   "published": "2026-09-09T23:37:55+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "topics": [],
+   "first_seen": "2026-09-10T00:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "55e79697c1d40178",
    "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
