@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T05:30:11+00:00",
+ "generated_at": "2026-09-10T06:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "items": 2,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 09:11:16 +0530",
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 10:48:19 +0530",
+   "sample_date": "Thu, 10 Sep 2026 11:26:40 +0530",
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 10:24:41 +0530",
+   "sample_date": "Thu, 10 Sep 2026 11:22:47 +0530",
    "error": null,
-   "checked_at": "2026-09-10T05:30:11+00:00"
+   "checked_at": "2026-09-10T06:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "e444f0fb6b12f3e1",
+   "title": "Why Ola Electric and Ather Energy shares are rising today? Explained",
+   "link": "https://www.livemint.com/market/stock-market-news/why-ola-electric-and-ather-energy-shares-are-rising-today-explained-11789015393295.html",
+   "summary": "Ola Electric share price gained as much as 7.5%, touching an intraday high of ₹40.51 per share on NSE. Meanwhile, Ather Energy share price rallied nearly over 4% to ₹1,648.60 on 10 September.",
+   "published": "2026-09-10T05:56:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/ola_and_ather_1789019782799_467c6d14-411d-4e24-9f4c-e8d4a027851d_1789019783025_31818aff-e01c-4bf1-bbac-31d73018a838_59e43bee-0da4-4fdc-8321-a2c72ab020d3_48e61946-edad-4926-932c-bfdd92b02b3d.png",
+   "topics": [],
+   "first_seen": "2026-09-10T06:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c5d12f0017e0f30d",
+   "title": "Bought multiple homes after selling one property? This ₹23.76 crore tax case has an important lesson for homeowners",
+   "link": "https://www.livemint.com/money/personal-finance/bought-multiple-homes-after-selling-one-property-this-23-76-crore-tax-case-has-an-important-lesson-for-homeowners-11789017324213.html",
+   "summary": "Mumbai ITAT allowed a taxpayer’s Section 54 exemption on investments in multiple residential properties for AY 2013-14, when the law referred to “a residential house”. The Tribunal also allowed ₹20.44 lakh spent on civil and electrical work to make the newly purchased flat habitable.",
+   "published": "2026-09-10T05:52:47+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/Gemini_Gnerated_Image_q112vmq112vmq112_178901860_1789018612957_623ae7dd-4af4-417c-9f84-0186990f736c_1789018613109_f3947dbb-8bb9-4f7a-9f3a-9b325d3ba229_98cef2fb-fc53-4e7c-b0db-b06fa49036f0_1f827b54-6ede-4a20-bf21-06bab63c0251.png",
+   "topics": [],
+   "first_seen": "2026-09-10T06:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4b1473d05ecb0ec1",
+   "title": "IRB Infra share price jumps 7.5% in trade today — what's driving the stock?",
+   "link": "https://www.livemint.com/market/stock-market-news/irb-infra-share-price-jumps-7-5-in-trade-today-whats-driving-the-stock-11789017280489.html",
+   "summary": "IRB Infrastructure Developers' shares rose 7.5% after reporting a 25% increase in August 2026 toll revenue. The stock has mostly remained stagnant, but long-term growth shows a 127% increase over five years. Strong traffic growth and new assets contributed to this revenue boost.",
+   "published": "2026-09-10T05:29:02+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/irb_infra_1789018110454_adf66f58-6bf1-4358-b599-c68d2b403156_1789018116420_689b530d-94ba-4012-aac6-d16c7a16bbf7_69228bd8-7fa7-44be-877f-a9914d4f7c27_39e9568d-97b6-434d-85cd-b87c27545614.png",
+   "topics": [],
+   "first_seen": "2026-09-10T06:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fa4f721b133df290",
    "title": "This Tata Group stock surges 10% today amid a spurt in volume despite a weak stock market trend | Do you own?",
@@ -3567,7 +3621,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
@@ -5711,7 +5765,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T05:13:25+00:00",
