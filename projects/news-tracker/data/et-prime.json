@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-10T13:30:16+00:00",
+ "generated_at": "2026-09-10T14:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "items": 2,
-   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
+   "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 10 Sep 2026 18:50:51 +0530",
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 18:42:35 +0530",
+   "sample_date": "Thu, 10 Sep 2026 19:23:07 +0530",
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 10 Sep 2026 18:49:54 +0530",
+   "sample_date": "Thu, 10 Sep 2026 19:21:13 +0530",
    "error": null,
-   "checked_at": "2026-09-10T13:30:16+00:00"
+   "checked_at": "2026-09-10T14:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "847af47908cef7e0",
+   "title": "Will the yuan become the new yen?",
+   "link": "https://economictimes.indiatimes.com/prime/will-the-yuan-become-the-new-yen/primearticleshow/134003891.cms",
+   "summary": "",
+   "published": "2026-09-10T14:00:10+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-10T14:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5c51342f4a360172",
+   "title": "Wall Street slumps as Brent crude climbs above $105, wholesale inflation rises",
+   "link": "https://www.livemint.com/market/stock-market-news/wall-street-slumps-as-brent-crude-climbs-above-105-wholesale-inflation-rises-11789045482327.html",
+   "summary": "The Dow Jones Industrial Average fell 0.17%, the S&amp;P 500 fell 0.55%, the Nasdaq Composite dropped 0.88%",
+   "published": "2026-09-10T13:53:07+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/oilwallst_1789045826578_23353a86-c19d-48ee-828b-46ace3ba32de_1789045848286_8ace0a8b-bdba-4aee-9b17-411ff0049c3a_2f57171b-ae82-475f-9422-26076cd308ae_31cfb1ef-ba09-4f0d-bf75-30e56d618522.jpg",
+   "topics": [],
+   "first_seen": "2026-09-10T14:00:10+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
+  {
+   "id": "0698a0401fd38dd9",
+   "title": "Credit card stolen and money spent: Will the bank refund the loss, or will you have to pay the bill?",
+   "link": "https://www.livemint.com/money/personal-finance/credit-card-stolen-and-money-spent-will-the-bank-refund-the-loss-or-will-you-have-to-pay-the-bill-11789044359339.html",
+   "summary": "A stolen credit card can quickly turn into a financial nightmare. Whether the bank refunds fraudulent spending or the customer bears the loss depends on how the fraud occurred and crucially how quickly it was reported.",
+   "published": "2026-09-10T13:51:13+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/credit_card_theft_1789048131332_1789048178928_d28abe11-df7f-4673-90f9-c9df36b6123c_1789048179137_c4c98a18-4865-42cf-9929-9a603a848286_399514a0-bedf-4f94-9bcc-66b9917f55a5_c6938ed0-58d3-47fa-b5a6-b8a58d11c02d.png",
+   "topics": [],
+   "first_seen": "2026-09-10T14:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc9d9e8599623a70",
+   "title": "Indian household asset allocation shifts: Gold share jumps from 15% to 24% in 3 years; equity barely moves",
+   "link": "https://www.livemint.com/money/personal-finance/indian-household-asset-allocation-shifts-gold-share-jumps-from-15-to-24-in-3-years-equity-barely-moves-11789042937726.html",
+   "summary": "Indian household asset allocation has changed significantly over the last three years, but not necessarily in favour of equities. Gold’s share jumped from 15.4% in March 2023 to 24.2% in March 2026, while equities barely moved from 5.6% to 5.7%.&nbsp;",
+   "published": "2026-09-10T13:46:56+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/househ_1789045969453_a108dc2b-7801-47d1-8446-820f6532717f_1789045975041_b2dcd420-b3f9-4156-921f-7bbce6d6557e_a8b5bdf4-b470-4b81-a924-dee37b263e44_27585221-1c6b-4a85-a675-164111ed0687.png",
+   "topics": [],
+   "first_seen": "2026-09-10T14:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "808e5457a3c56afa",
    "title": "JSW-Volkswagen Group potential India deal: Cost cuts, exports and control at centre of talks, says report",
@@ -224,7 +298,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/a_1789035479503_9ce06f2b-1cae-48d2-8660-9c580b454c_1789046142300_88b4c5db-33c0-4346-833c-22e558da9961_1789046142498_82c46d4e-0e3c-40ec-b8b7-b2b51d102ab5_e50e60d2-caa5-4479-b7c6-5e0952e5f851_401b1ef7-423a-41ed-8417-1e001277cf83.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/maxresdefault_1789047900659_b5a4bf7b-5082-4639-9074-54bfa7a941bd_1789047905815_1e462b17-3cc1-407e-9662-f3a0dd95763f_9ffa8caa-5a3c-4f0a-b413-80ed129f810d_e8886eb9-0bfb-4712-9102-a0c069c93dea.jpg",
    "topics": [],
    "first_seen": "2026-09-10T13:30:16+00:00",
    "valuation_score": 0,
@@ -4529,7 +4603,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-08T19:00:21+00:00",
