@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T12:30:10+00:00",
+ "generated_at": "2026-09-11T13:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 15:30:12 +0530",
+   "sample_date": "Fri, 11 Sep 2026 18:01:27 +0530",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 17:29:11 +0530",
+   "sample_date": "Fri, 11 Sep 2026 18:15:51 +0530",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 17:49:16 +0530",
+   "sample_date": "Fri, 11 Sep 2026 18:12:16 +0530",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,71 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "f35547f676b28c25",
+   "title": "Small cap stock: Exporter of stainless-steel washers entering electronic materials space - Choice says buy; target price",
+   "link": "https://www.livemint.com/market/stock-market-news/small-cap-stock-exporter-of-stainless-steel-washers-entering-electronic-materials-space-choice-says-buy-target-price-11789129722898.html",
+   "summary": "Shares of Ratnaveer Precision Engineering ended 7% lower after a rally. Analysts foresee a 27.8% upside, bolstered by a recent rights issue and improving fundamentals. The stock closed at ₹288.5, with a target price of ₹388 for twelve months.",
+   "published": "2026-09-11T12:45:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/ratnaveer_1789130937261_04eea885-bac4-475d-a8c8-57bab387435b_1789130937445_04b2f270-9fb3-4f67-9724-b239e5481f2d_e952acdb-5306-4cd0-ad23-f04e2a736d91_44202805-7d64-4642-8791-308edaed24e5.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T13:00:09+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "aef11254fb0f783e",
+   "title": "8th pay commission: Here's how much salary hike a conservative fitment factor of 1.83 and 2 can give employees",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-cpc-how-much-salary-hike-conservative-fitment-factor-1-83-and-2-give-pay-increase-calculate-employees-11789126623550.html",
+   "summary": "The 8th pay commission's decisions are expected to benefit over 1 crore beneficiaries. Today, we calculate how much salary hike a conservative fitment factor of 1.83 or 2 can give central government employees.",
+   "published": "2026-09-11T12:42:16+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/fitment_factor_DA_1789130475215_892b2af7-1477-423f-b2a3-3fc00bbb37b5_1789130487263_632922bf-ba4b-4eb7-91a3-b47bce4b0325_45b707a5-303a-4ad5-8cff-4c0fd3b6987d_5f3b130b-eedf-48a0-8587-2dcf447a1e9e.png",
+   "topics": [],
+   "first_seen": "2026-09-11T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7a3f29e19188ed86",
+   "title": "Fidelity, GIC, BlackRock among global funds eyeing NSE’s anchor allocation",
+   "link": "https://www.livemint.com/companies/news/fidelity-prudential-and-gic-likely-to-participate-in-6-800-crore-nse-ipo-anchor-book-11789123294707.html",
+   "summary": "The anchor portion is likely to be valued at approximately ₹6,800 crore, less than a third of the truncated IPO size, which will comprise entirely an offer for sale by existing investors.",
+   "published": "2026-09-11T12:31:27+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/INDIA-NSE-22_1789129292618_7aec6fa0-2356-4410-aaad-07a47c7e2cb7_1789129303516_a76616e0-92a1-45bf-bbb5-af5ae319864c_6feaa640-c113-4157-a643-daa57ae55fb7_14b7e225-eef3-46d8-abb8-8f7e26a16d77.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-11T13:00:09+00:00",
+   "valuation_score": 8,
+   "valuation_signals": [
+    "PE / VC",
+    "Valuation",
+    "IPO"
+   ]
+  },
   {
    "id": "277bd3dbd8031039",
    "title": "Income tax reassessment notice: High court strikes down Section 147A of I-T Act – what it means for taxpayers",
@@ -11512,64 +11575,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/ais_eroro_1788710604597_0867ff69-fecb-40bb-80aa-19ad2d5c6d3e_1788710607818_6e8439b1-29da-49a1-a0f5-044bdaf5b6fd_78b72008-c5bc-4613-acaf-710b9fca7af0_6b51dfe6-af15-4636-a12e-450ecb6065eb.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bd662c9710bd96f5",
-   "title": "'Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post",
-   "link": "https://www.livemint.com/companies/people/speculative-and-factually-incorrect-nse-denies-ashishkumar-chauhan-being-considered-for-tata-sons-chairman-post-11788707471704.html",
-   "summary": "NSE has denied reports that its MD and CEO Ashishkumar Chauhan is being considered for the Tata Sons chairman post. Chauhan called the reports entirely baseless and said he remains focused on NSE’s planned IPO and his responsibilities at the exchange.",
-   "published": "2026-09-06T15:21:32+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Tata_1788707975622_8fbcda27-1bde-419e-8131-3acd08fdfcb5_1788707980772_f45d3816-3744-4ee5-8b05-c07f7a11f90b_381b5b5b-7d86-4996-8d17-87943d17764a_8ae3aac2-35db-4a31-aa51-0e9f7dd6a2be.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4874f62343d93a09",
-   "title": "Already invested in flexi-cap? Avoid these 3 categories when adding more funds to limit portfolio overlap",
-   "link": "https://www.livemint.com/money/personal-finance/already-invested-in-flexi-cap-avoid-these-3-categories-when-adding-more-funds-to-limit-portfolio-overlap-11788702309865.html",
-   "summary": "With 50% of your portfolio in flexi-cap funds, adding another equity fund category may bring significant overlap rather than diversification. Only 25%-36% of the equity exposure may be genuinely different across key fund categories.",
-   "published": "2026-09-06T15:16:24+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/flexi_cap_fundss_ma_1788707305070_19ed16e1-e7e0-4586-9584-d10b3c8c505c_1788707320114_76496132-2b09-498e-b21b-bb1113454d99_302a7b8c-fc66-4e0e-81d0-1da0b1acad82_6bcf235b-c393-410d-84af-a4387f8b0e2a.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "43a41b00c6e9fa92",
-   "title": "Jan Dhan Yojana: Every fourth account inoperative, Uttar Pradesh tops list; nearly 6 crore have zero balance",
-   "link": "https://www.livemint.com/money/personal-finance/pm-jan-dhan-yojana-every-fourth-account-inoperative-uttar-pradesh-bihar-madhya-pradesh-5-72-crore-are-zero-balance-women-11788701271966.html",
-   "summary": "PM Jan Dhan Yojana: Every fourth account under Pradhan Mantri Jan Dhan Yojana is inoperative, while nearly 5.72 crore accounts had zero balance, according to the Finance Ministry's response to activist Chandra Shekhar Gaur's RTI application.&nbsp;",
-   "published": "2026-09-06T15:00:19+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Jan_dhan_1788706409703_ad708f7f-eec1-473c-94b4-d053b0a7934f_1788706419620_8498ee66-7791-46d0-85c4-a530b7c5855e_e7862817-0d6d-4920-bb6a-670c3bced55e_2d638745-0d9c-4489-932c-0cad4b777044.png",
-   "topics": [
-    "Budget / policy"
-   ],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []

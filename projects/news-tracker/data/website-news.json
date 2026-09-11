@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T12:30:10+00:00",
+ "generated_at": "2026-09-11T13:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 06:18:12 GMT",
+   "sample_date": "Fri, 11 Sep 2026 10:50:25 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 11 Sep 2026 11:17:37 GMT",
+   "sample_date": "Fri, 11 Sep 2026 11:48:00 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T12:30:10+00:00"
+   "checked_at": "2026-09-11T13:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "a9b90257a962c970",
+   "title": "Graph AI raises $13.3M in Series A funding",
+   "link": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
+   "summary": "The tech startup focused on the pharmaceutical industry will use the funding to expand its presence across the US and Europe and accelerate product development.",
+   "published": "2026-09-11T12:28:43+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T13:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "9e2d216deb94b0d9",
+   "title": "Startup news and updates: Daily roundup (September 11, 2026)",
+   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-11-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, September 11, 2026.",
+   "published": "2026-09-11T12:25:21+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2fe8995ed96f7ad4",
    "title": "RentoMojo IPO subscribed 72.87X; QIB portion leads with 177.3X bids",
@@ -84,7 +122,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -94,6 +132,24 @@
    "valuation_signals": [
     "IPO"
    ]
+  },
+  {
+   "id": "20f14f3758c42d7b",
+   "title": "The Modern Maharaja: Lakshyaraj Singh Mewar’s Royal Reign in a Contemporary World",
+   "link": "https://startuptalky.com/lakshyaraj-singh-mewar-story/",
+   "summary": "Discover the inspiring journey of Lakshyaraj Singh Mewar. Learn how he carries forward his royal legacy with a modern vision, contributing to heritage, philanthropy, and leadership. Know about his education, net worth, age, children, wife, personal life, hobbies and more.",
+   "published": "2026-09-11T11:48:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Kanimozhi Sivakumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/09/Lakshyaraj-Singh-Mewar-Story-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "db97e66664520b73",
@@ -106,7 +162,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T11:30:11+00:00",
@@ -242,7 +298,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T09:30:13+00:00",
@@ -350,7 +406,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:30:12+00:00",
@@ -368,7 +424,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:00:09+00:00",
@@ -422,7 +478,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T05:00:11+00:00",
@@ -482,7 +538,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
@@ -1064,7 +1120,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1084,7 +1140,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1181,7 +1237,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
@@ -1199,7 +1255,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T13:00:12+00:00",
@@ -1369,7 +1425,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T10:30:11+00:00",
@@ -1535,7 +1591,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T07:30:10+00:00",
@@ -1607,7 +1663,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1629,7 +1685,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:30:11+00:00",
@@ -1688,7 +1744,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:00:11+00:00",
@@ -2334,7 +2390,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T14:00:09+00:00",
