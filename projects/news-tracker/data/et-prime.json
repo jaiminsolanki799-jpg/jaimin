@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T14:00:08+00:00",
+ "generated_at": "2026-09-11T14:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 19:01:58 +0530",
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 19:24:20 +0530",
+   "sample_date": "Fri, 11 Sep 2026 19:33:18 +0530",
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 18:51:55 +0530",
+   "sample_date": "Fri, 11 Sep 2026 19:52:02 +0530",
    "error": null,
-   "checked_at": "2026-09-11T14:00:08+00:00"
+   "checked_at": "2026-09-11T14:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "15e80cec37dba4f0",
+   "title": "Court orders EPFO to pay 6% interest for 35-day delay in settling claim — Here's how to check status, file grievances",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-pay-6-pc-interest-35-days-delay-settle-pf-claim-mumbai-consumer-court-order-how-check-status-file-grievances-online-11789130166113.html",
+   "summary": "A consumer court ordered the EPFO to pay 6% interest for a 35-day delay in settling a PF claim over ₹14 lakh. The EPFO was found guilty of service deficiency, failing to meet the 20-day processing deadline as required by the EPF Scheme, 1952.",
+   "published": "2026-09-11T14:22:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/EPFO_delay_1789136481051_402e1f49-913a-4b0a-a945-bf7de1efd64f_1789136488643_454764f7-998b-4b81-8fba-88e6a80860bf_87e9f929-d3b5-4c61-9873-5368a4c5d87e_52c55087-7333-4be2-8ce3-f982b6e05d7f.png",
+   "topics": [],
+   "first_seen": "2026-09-11T14:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3b2c955840b1d5e1",
+   "title": "Pulse of the Street: oil surge and rate hike fears trigger a market sell-off",
+   "link": "https://www.livemint.com/market/pulse-of-the-street-oil-surge-and-rate-hike-fears-trigger-a-market-selloff-11789130520769.html",
+   "summary": "Rising crude oil has pushed US-Treasury toward 5%, raising market expectations of a rate hike at the upcoming Fed meeting. Market participants brace for heightened volatility ahead of key policy decisions.&nbsp;&nbsp;",
+   "published": "2026-09-11T14:03:18+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/INDIA-STOCKS-FLOWS-0_1789135165211_00ddd3f4-db5e-463f-970a-ea628e022a19_1789135186656_61a29155-cece-44f5-851d-99f4629f5cb6_bee3993b-6fc5-4f14-b201-7ee36c2817bb_2eb402db-f21a-4ac9-9296-6166063fb5a2.JPG",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-11T14:30:09+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "41c1f7c2bfc51784",
    "title": "US stocks rebound as oil prices ease, inflation data steadies market sentiment",
@@ -11539,44 +11579,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Screenshot_2026-09-07_235311_1788806095785_ed4a04b4-6b11-4e4f-80f1-b34b6cdb9b45_1788806100647_7e675bdc-0faf-45e8-bb90-0351f4790c57_86bf60dc-9be8-4fde-8af1-39d03cfa7de6_e4d2cf78-bf23-4a4a-86b3-d51a9fb95173.png",
    "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cdd327a53978e1dc",
-   "title": "Retiring with ₹2 crore? Here’s how much you can withdraw every month",
-   "link": "https://www.livemint.com/money/personal-finance/retiring-with-2-crore-here-s-how-much-you-can-withdraw-every-month-11788713384085.html",
-   "summary": "A practical approach can be to keep a portion of the corpus in relatively stable and liquid investments for near-term expenses, while investing another portion for long-term growth",
-   "published": "2026-09-06T17:38:01+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/retirement_1788716245105_95518d5a-b464-4248-8c05-044cb9d08cda_1788716245259_042bbab3-2e49-4441-95db-6d24050f63a3_d5bbd8d8-167d-42d9-b05d-a29edfc7a381_6aba5f6f-910b-444f-8d34-687b8e4db349.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a3e78062ec5068ac",
-   "title": "ITR: Have you filed income-tax returns but not received refund yet? Here's how to check status online",
-   "link": "https://www.livemint.com/money/personal-finance/itr-filed-your-income-tax-returns-not-received-refund-yet-how-check-status-online-portal-credit-bank-account-five-weeks-11788713940620.html",
-   "summary": "Income-tax refunds are issued when the tax paid exceeds the actual liabilities after deductions. Today, we look at the timeline, likely cause of delay in receiving credit, and how to check status online.",
-   "published": "2026-09-06T17:36:25+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Gemini_Generated_Image_ppqnioppqnioppqn_1785317035_1788715962366_4e56649b-12c4-4b16-91aa-d755bbd0bb17_1788715962530_74940c16-4ffe-42d0-81e6-fa860dec507f_cd072029-fd41-4bfd-8cc6-3cceed5ba9ac_b944937d-d928-4ddc-a931-778c49ead0b6.png",
-   "topics": [
-    "Income tax"
-   ],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
