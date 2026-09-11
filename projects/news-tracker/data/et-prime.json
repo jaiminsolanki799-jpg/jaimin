@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T18:30:12+00:00",
+ "generated_at": "2026-09-11T19:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 5,
    "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
+   "error": null,
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 23:32:41 +0530",
+   "sample_date": "Sat, 12 Sep 2026 00:11:51 +0530",
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 23:17:31 +0530",
+   "sample_date": "Sat, 12 Sep 2026 00:05:48 +0530",
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 23:13:49 +0530",
+   "sample_date": "Sat, 12 Sep 2026 00:10:10 +0530",
    "error": null,
-   "checked_at": "2026-09-11T18:30:12+00:00"
+   "checked_at": "2026-09-11T19:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "b84a59ae4e258262",
+   "title": "Stellantis Signs Memo with Roshel for Possible Sale of Idle Plant",
+   "link": "https://www.livemint.com/companies/stellantis-signs-memo-with-roshel-for-possible-sale-of-idle-plant-11789152111752.html",
+   "summary": "Stellantis NV has signed a memorandum with a Canadian armored vehicle manufacturer that outlines steps toward the sale of an idled car factory near Toronto — a move that represents yet another ripple effect of US tariffs on the Canadian auto sector.",
+   "published": "2026-09-11T18:41:51+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-09-11T19:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "55e0d09280733364",
+   "title": "Digital Credit and Inclusion Index: Borrowers from Tier II cities are driving India’s digital credit story, finds report",
+   "link": "https://www.livemint.com/money/personal-finance/borrowers-tier-ii-cities-drive-india-digital-credit-and-inclusion-index-payments-story-loans-amazon-pay-dcii-2026-report-11789148410703.html",
+   "summary": "Tier-2 cities in India are leading digital credit and inclusion, with an average score of 58.64, ahead of Tier-1 and Tier-3 cities, the Digital Credit &amp; Inclusion Index (DCII) 2026 by Pahlé India Foundation and Amazon Pay found.",
+   "published": "2026-09-11T18:40:10+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/digital_credit_image_1789151951662_10dbbe16-ccef-486d-b747-c2d37e2b12ad_1789151959840_66d569c4-164a-4618-b1eb-bc07f69b89f9_05a304e5-e9eb-4660-9d08-52bdfb7a8d31_e0bf7668-d9bc-40e8-90c6-4223b85baba7.png",
+   "topics": [],
+   "first_seen": "2026-09-11T19:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4881bcf7ed899b34",
+   "title": "Wall Street rallies as strong inflation data cements rate-hike bets",
+   "link": "https://www.livemint.com/market/wall-street-rallies-as-strong-inflation-data-cements-rate-hike-bets-11789151749335.html",
+   "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street rallies as strong inflation data cements rate-hike bets",
+   "published": "2026-09-11T18:35:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T19:00:11+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "96aafd067859b6e9",
    "title": "After chairman Bhatt, Coforge NRC chief Singh quits, cites differences in board",
@@ -11534,62 +11590,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "e490eec7b5c99fde",
-   "title": "Insurance mis-selling: Retired professor gets ₹10.6 lakh; court says signatures alone don’t prove informed consent",
-   "link": "https://www.livemint.com/money/personal-finance/insurance-mis-selling-retired-professor-gets-10-6-lakh-court-says-signatures-alone-don-t-prove-informed-consent-11788747937734.html",
-   "summary": "A Hyderabad consumer commission ordered a ₹10 lakh insurance refund to a 73-year-old retired professor after finding the policy was sold without free and informed consent. The bank and insurer were also ordered to pay ₹60,000 in compensation and costs.",
-   "published": "2026-09-07T02:42:22+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Geed_Image_l28cjcl28cjcl28c_1788748730_1788748746698_797ec4a8-c25a-4890-89ce-a39c05ed8b86_1788748746944_85e7affb-cce7-4a40-8bd2-056d4b302cd8_bed6f095-5702-4e9d-a137-35a31c90cabd_78605e40-5dad-4bd6-bdd1-e0e3cf419ee6.png",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "059aa47795d97c79",
-   "title": "Japan’s Nikkei Gains as Tech Tailwinds Help Balance Macro Nerves",
-   "link": "https://www.livemint.com/market/japans-nikkei-gains-as-tech-tailwinds-help-balance-macro-nerves-11788747439076.html",
-   "summary": "Japan’s Nikkei 225 climbed as tech stocks followed their US peers higher after Friday’s rally. Gains on the broader Topix were smaller as concerns about the yen and bond yields limited risk appetite.",
-   "published": "2026-09-07T02:17:18+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b3880fe9945a81e6",
-   "title": "Nike’s S&P 100 exit: Strategic blunders, fierce rivals and road to recovery, according to experts",
-   "link": "https://www.livemint.com/companies/nikes-s-p-100-exit-strategic-blunders-fierce-rivals-and-the-road-to-recovery-according-to-experts-11788742976902.html",
-   "summary": "While Nike will still remain in the broader S&amp;P 500, its removal from the top 100 has sparked a major conversation about the brand's recent struggles.",
-   "published": "2026-09-07T02:03:34+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/nike_1788744151406_43b1d4a9-86d9-4cc8-96d8-3a4ebaac7f47_1788744162484_ef694f19-efd4-4257-aae7-50d7fef9fc37_690c61d9-d54d-44e1-a92a-61d709fa5990_68e16870-38f1-4131-8b4f-bbd578c826bb.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
