@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T15:30:11+00:00",
+ "generated_at": "2026-09-11T16:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T15:30:11+00:00"
+   "checked_at": "2026-09-11T16:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-11T15:30:11+00:00"
+   "checked_at": "2026-09-11T16:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-11T15:30:11+00:00"
+   "checked_at": "2026-09-11T16:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T15:30:11+00:00"
+   "checked_at": "2026-09-11T16:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 15:19:00 +0000",
+   "sample_date": "Fri, 11 Sep 2026 16:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T15:30:11+00:00"
+   "checked_at": "2026-09-11T16:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "e6be10aaed13329c",
+   "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+   "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+   "summary": "Roblox will allow creator to deploy their games across PC< consoles, and mobile as standalone apps",
+   "published": "2026-09-11T16:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T16:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "32dab8dab57e6ade",
    "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
