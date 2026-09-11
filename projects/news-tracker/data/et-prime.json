@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T19:00:11+00:00",
+ "generated_at": "2026-09-11T19:30:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:11:51 +0530",
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 00:05:48 +0530",
+   "sample_date": "Sat, 12 Sep 2026 00:55:50 +0530",
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:10:10 +0530",
    "error": null,
-   "checked_at": "2026-09-11T19:00:11+00:00"
+   "checked_at": "2026-09-11T19:30:16+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "74b38df0dc428a74",
+   "title": "Live cattle futures higher on strengthening cash market, short covering",
+   "link": "https://www.livemint.com/market/live-cattle-futures-higher-on-strengthening-cash-market-short-covering-11789154750805.html",
+   "summary": "USA-LIVESTOCK/:LIVESTOCK-Live cattle futures higher on strengthening cash market, short covering",
+   "published": "2026-09-11T19:25:50+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T19:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b84a59ae4e258262",
    "title": "Stellantis Signs Memo with Roshel for Possible Sale of Idle Plant",
@@ -11568,28 +11586,6 @@
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "5c772b0db5ccc7cb",
-   "title": "Pranav Constructions IPO LIVE: Issue subscribed 1.80x so far. GMP hints 35% listing gain on Day 1. Apply or not?",
-   "link": "https://www.livemint.com/market/ipo/pranav-constructions-ipo-gmp-hints-35-listing-gain-on-day-1-check-review-subscription-key-dates-apply-or-not-11788747303532.html",
-   "summary": "Pranav Constructions IPO opens for subscription from September 7 to September 9, with a price band of ₹118–124. The estimated listing price is ₹168, suggesting a positive outlook, while the company focuses on redevelopment projects in Mumbai's Western suburbs.",
-   "published": "2026-09-07T02:46:23+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Pranav_Constructions_IPO_1788749061612_05910458-419c-4d95-9c45-90b62a36bd37_1788749068835_a07470b2-09fd-4f59-a725-f7cdf2cd04a7_d874db27-7440-468a-a803-d27cb0c5ce63_105b3f4b-10d2-4975-be33-5b49698f81b2.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
