@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T07:30:10+00:00",
+ "generated_at": "2026-09-11T08:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 10:41:37 +0530",
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 12:49:20 +0530",
+   "sample_date": "Fri, 11 Sep 2026 13:21:35 +0530",
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 11:23:42 +0530",
    "error": null,
-   "checked_at": "2026-09-11T07:30:10+00:00"
+   "checked_at": "2026-09-11T08:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "0393b85821a118d6",
+   "title": "Titan stock outlook by Motilal Oswal: Buy for 20% upside; check share price target - 'Growth runway remains long'",
+   "link": "https://www.livemint.com/market/stock-market-news/titan-stock-outlook-by-motilal-oswal-buy-for-20-upside-check-share-price-target-growth-runway-remains-long-11789112681570.html",
+   "summary": "Titan Company Limited's stock continued to face pressure during intraday trading, extending its month-long correction.Analysts remain positive on growth, citing a Buy rating. Check target price",
+   "published": "2026-09-11T07:51:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Titan_stock_outlook_1789112738043_20c8e9ee-acd3-4587-836c-f3a381a6be03_1789112764779_64adc87a-2f29-4819-88e4-8ad712631ecd_416885c8-f531-4e55-ba79-7da6e373a189_73ef168b-d7c7-4a06-8752-9663ebd980c2.png",
+   "topics": [],
+   "first_seen": "2026-09-11T08:00:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "40179e3cb1cd25ec",
+   "title": "Suzlon share price down by 7% in one month - Will stock bounce back? Experts decode | Outlook",
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-share-price-down-by-7-in-one-month-will-stock-bounce-back-experts-decode-outlook-11789109125436.html",
+   "summary": "Suzlon share price has fallen from ₹47.50 to ₹43.90 apiece on the NSE in the last one month",
+   "published": "2026-09-11T07:32:39+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Suzlon_share_price_today_Stock_market_today_1789109411521_6c2c41ad-acd4-43b7-b45d-598f2b0430d9_1789109411672_4044d61a-441a-4396-a26a-268f04e26ff1_7f430338-bf63-4340-af80-d4344c8166e9_9a68df5c-6f84-4bbf-bf51-0c1e1aa026a7.png",
+   "topics": [],
+   "first_seen": "2026-09-11T08:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0e2428fcf213ff05",
    "title": "Market is down but this 1925 company stock is soaring; surges 20% amid fall of Sensex, Nifty 50",
@@ -11519,42 +11557,6 @@
    "valuation_signals": [
     "Rates & macro"
    ]
-  },
-  {
-   "id": "fb266bb472e0f5b3",
-   "title": "An old India Inc habit: Ignore the nudge, wait for the stick",
-   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeTVIN0ViZldISDlMaG40Y3VBWXJTNFdjN2c3SGEwNWt5NkFqMVRZcks2V0x6Z2ZPc09qU0I1Tm5TbFcxQVNKNzZucWxzdjRyMWlHU2RzMzk2WXNwU3VSZTFfRlJYVWFabUZiWjVYVWlIUENlODJoRFpBZXZldXRFa1J5c1JKVlRWZzJRcERqRzdiZ1NCRmtMNVY5YUx5ek9WWG5IZU1lUUV2a0dSLTh3QVdmUHRNX0kwU2dGUEVOMUJzV3pLR3JNR0hRR21TYm9FckJMT1JQUndnUENYWUV2U3Q1N3NjcENzOEhPZXcySTc2QzA2YTBTQ3NuWjYyT2ZJaDc0cVM1clZrMXB2LW9ydVF1dEtZYkE3TkN1Q0tObHZId0ZFVmo4eDVkRUTSAcYBQVVfeXFMUFVqU0hlLUVxdHdIMHZKVkxzUVN4TFVBazF5QnB3Y241LU9JSEQ0ZFNHZGE0M0thcENzNTBBVmpRQ3ZKOXBFdXlJcVZLVHp1LThDZWEtN2YzUXMwcGE1OXUtaks3YWZoSkwtTkxOZ3RjTGk3RUZDbXV4WG5RNlBoWUdtUThseW1lcWtJTXBERGFGUWEwd3VuYUhSVi15X2dldkZ3cUlxcGtCUHFkZHdXbkVwVG1oRTlscVlTaVFBdlRxblU5azdB?oc=5",
-   "summary": "",
-   "published": "2026-09-05T08:32:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4e03a1eda00b532c",
-   "title": "An old India Inc habit: Ignore the nudge, wait for the stick",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzBsbUZVbjNiVHhQUVZnOVM5UUxQTExmcnJfcVplNDE4eUVnSEF5ay1JLXU0VVhIYktlenZCMFhkX2lhaUZMeGdydWZQc25lTUowV3RzSWs2M3VCYmFmeTh2YkZUaHdaQUNPSERBam4wYzhSNG9EaV9iZ09JS01XRXlYRHo4SUdDSWkyNF92c3pCZUp1VUpldWZCTUJvejJLUnpzS2ktR3VONHUxbkRCbzc3RHYtMlFleGhQdlFQaHU1cGUyQm05MUtnNG7SAcYBQVVfeXFMUFVqU0hlLUVxdHdIMHZKVkxzUVN4TFVBazF5QnB3Y241LU9JSEQ0ZFNHZGE0M0thcENzNTBBVmpRQ3ZKOXBFdXlJcVZLVHp1LThDZWEtN2YzUXMwcGE1OXUtaks3YWZoSkwtTkxOZ3RjTGk3RUZDbXV4WG5RNlBoWUdtUThseW1lcWtJTXBERGFGUWEwd3VuYUhSVi15X2dldkZ3cUlxcGtCUHFkZHdXbkVwVG1oRTlscVlTaVFBdlRxblU5azdB?oc=5",
-   "summary": "",
-   "published": "2026-09-05T08:32:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-08T10:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
