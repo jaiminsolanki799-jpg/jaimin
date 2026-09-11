@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T03:00:08+00:00",
+ "generated_at": "2026-09-11T03:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 2,
    "sample_date": "Tue, 08 Sep 2026 18:31:00 GMT",
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 06:00:55 +0530",
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 08:00:57 +0530",
+   "sample_date": "Fri, 11 Sep 2026 08:29:40 +0530",
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 08:07:33 +0530",
    "error": null,
-   "checked_at": "2026-09-11T03:00:08+00:00"
+   "checked_at": "2026-09-11T03:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "5e66294aee23d40a",
+   "title": "Stock market today: Gift Nifty hints gap-down start | Vaishali Parekh recommends three stocks to buy today",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-gap-down-start-vaishali-parekh-recommends-three-stocks-to-buy-today-11789092731608.html",
+   "summary": "Stock market today: Vaishali Parekh recommends three stocks to buy today — Shriram Finance, kEC International, and Heritage Foods",
+   "published": "2026-09-11T02:59:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Vaishali_Parekh_stock_recommendations_for_today_1789093341557_f3ab1d0f-1082-43ea-9532-eeb74ca88cb4_1789093341718_484e78e8-6a7a-4464-8223-59189dbc74d3_1a26d05c-069e-4030-94ae-ffb11b8b2242_5ae97bb7-8483-4522-b397-9f207eb266da.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T03:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b3149d1f0b9ef248",
    "title": "Central government employees: 5 key updates to track in September on LTC, study leave and other benefits",
