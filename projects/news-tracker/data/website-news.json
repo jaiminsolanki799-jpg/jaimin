@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T12:00:09+00:00",
+ "generated_at": "2026-09-11T12:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
+   "sample_date": "Fri, 11 Sep 2026 06:18:12 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 11:17:37 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 21,
-   "items": 21,
+   "fetched": 22,
+   "items": 22,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "2fe8995ed96f7ad4",
+   "title": "RentoMojo IPO subscribed 72.87X; QIB portion leads with 177.3X bids",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRrN2Zua21LUUtGOGFxUXJ2ekFBWHh4WUY3SmdHcllJalpaV3c4a25UU29MTV9JcGNkcTBwRVVlNE1rVFpCRzZmbHQ4bE1NdUJ2amJEUGpnOXBzOGVXS0dWUkN3MmtHcGZnUEliREJGZ1MwaW5LYmZ3WDd6R3hMbnRleEl5dndnY01Za2xMLTlzNjBXZ09UX01waVByQU1B0gGgAUFVX3lxTFBMZGs3Zm5rbUtRS0Y4YXFRcnZ6QUFYeHhZRjdKZ0dyWUlqWlpXdzhrblRTb0xNX0lwY2RxMHBFVWU0TWtUWkJHNmZsdDhsTU11QnZqYkRQamc5cHM4ZVdLR1ZSQ3cya0dwZmdQSWJEQkZnUzBpbktiZndYN3pHeExudGV4SXl2d2djTVlrbEwtOXM2MFdnT1RfTXBpUHJBTUE?oc=5",
+   "summary": "",
+   "published": "2026-09-11T12:05:25+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-11T12:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "db97e66664520b73",
    "title": "NPCI’s FY26 profit falls 32%; revenue rises 22% to Rs 4,240 Cr",
@@ -84,7 +106,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T11:30:11+00:00",
@@ -220,7 +242,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T09:30:13+00:00",
@@ -328,7 +350,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:30:12+00:00",
@@ -346,7 +368,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:00:09+00:00",
@@ -400,7 +422,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T05:00:11+00:00",
@@ -460,7 +482,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
@@ -1042,7 +1064,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1062,7 +1084,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1159,7 +1181,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
@@ -1177,7 +1199,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T13:00:12+00:00",
@@ -1347,7 +1369,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T10:30:11+00:00",
@@ -1513,7 +1535,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T07:30:10+00:00",
@@ -1585,7 +1607,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1607,7 +1629,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:30:11+00:00",
@@ -1666,7 +1688,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:00:11+00:00",
@@ -2312,7 +2334,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T14:00:09+00:00",

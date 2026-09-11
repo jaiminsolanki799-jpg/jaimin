@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T12:00:09+00:00",
+ "generated_at": "2026-09-11T12:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
+   "fetched": 5,
    "items": 0,
-   "sample_date": "Mon, 10 Apr 2017 05:09:11 GMT",
+   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 15:30:12 +0530",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 17:29:11 +0530",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 17:05:30 +0530",
+   "sample_date": "Fri, 11 Sep 2026 17:49:16 +0530",
    "error": null,
-   "checked_at": "2026-09-11T12:00:09+00:00"
+   "checked_at": "2026-09-11T12:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "277bd3dbd8031039",
+   "title": "Income tax reassessment notice: High court strikes down Section 147A of I-T Act – what it means for taxpayers",
+   "link": "https://www.livemint.com/money/personal-finance/income-tax-reassessment-notice-high-court-strikes-down-section-147a-of-i-t-act-what-it-means-for-taxpayers-11789122120994.html",
+   "summary": "The ruling does not invalidate every income tax reassessment proceeding. The crucial question remains whether the notice was issued in accordance with the prescribed statutory procedure and whether the requirements relating to faceless assessment were followed.",
+   "published": "2026-09-11T12:19:16+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pexels-photo-6289059_1780992571628_1780992582324_d6bc9f68-fc4d-4fb1-9dfe-a76319ac88bf_1789126420569_fecd7261-dccc-4c13-85be-b5236126ac89_d2d9aafe-4f2d-41f5-8c4e-e419fa65348a_db052702-03f0-4b42-bd9f-66c08167f071.jpeg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-11T12:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "17078736332454eb",
    "title": "US market prediction: Dow, S&P 500, Nasdaq futures rise as oil prices retreat ahead of key CPI data",
@@ -224,7 +244,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/NSE_IPO_news_1788972515643_7aae7b64-bfcd-4e20-b184_1789127318677_90fb5bb3-ef33-4855-a4f2-aff4ba4ad9b6_1789127318924_f7079931-31f0-40b2-903c-6cc5c818acae_284c848b-5a27-4fe4-96b1-680e277e63f3_06b395a3-0942-4a43-9151-f65d23310af6.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/NSE_IPO_news_1788972515643_7aae7b64-bfcd-4e20-b184_1789127318677_90fb5bb3-ef33-4855-a4f2-aff4ba4ad9b6_1789127318924_f7079931-31f0-40b2-903c-6cc5c818acae_284c848b-5a27-4fe4-96b1-680e277e63f3_06b395a3-0942-4a43-9151-f65d23310af6.png",
    "topics": [
     "SEBI / markets regulation"
    ],
@@ -11550,24 +11570,6 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "acafb3e97fdd2197",
-   "title": "Too much money in stocks? This is what you should check before selling",
-   "link": "https://www.livemint.com/money/too-much-money-in-stocks-this-is-what-you-should-check-before-selling-11788703411440.html",
-   "summary": "If you feel you have too much money invested in equities, it is useful to look beyond current market conditions. Instead, consider why you are investing, how much time you have and when you will actually need the money",
-   "published": "2026-09-06T14:40:29+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/equity_1788705525613_3e675c01-6f3c-4078-b1ba-64b2410e6b7b_1788705525833_4092f3c8-acf9-4c76-99f2-c705de560256_6ecef621-d4bd-41d3-af2e-b877547edeba_c5b6c811-de8b-4ad5-9295-30a77596cfd2.png",
-   "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
