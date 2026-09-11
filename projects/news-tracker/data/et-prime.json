@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T11:30:11+00:00",
+ "generated_at": "2026-09-11T12:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 3,
    "items": 0,
-   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
+   "sample_date": "Mon, 10 Apr 2017 05:09:11 GMT",
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 15:30:12 +0530",
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sept 2026 15:51:55 +0530",
+   "sample_date": "Fri, 11 Sep 2026 17:29:11 +0530",
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 16:52:29 +0530",
+   "sample_date": "Fri, 11 Sep 2026 17:05:30 +0530",
    "error": null,
-   "checked_at": "2026-09-11T11:30:11+00:00"
+   "checked_at": "2026-09-11T12:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,105 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "17078736332454eb",
+   "title": "US market prediction: Dow, S&P 500, Nasdaq futures rise as oil prices retreat ahead of key CPI data",
+   "link": "https://www.livemint.com/market/stock-market-news/us-market-prediction-dow-s-p-500-nasdaq-futures-rise-as-oil-prices-retreat-ahead-of-key-cpi-data-11789123899556.html",
+   "summary": "US stock futures rose on September 11, recovering from a weak session as crude oil prices fell ahead of an important inflation report. Despite this rebound, the S&amp;P 500 is facing its worst week since June due to rising inflation concerns linked to energy prices.",
+   "published": "2026-09-11T11:59:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/US_Fed_1789127326071_cb97bdee-24b5-4ce3-9f2c-a17cc_1789127404394_6ac82893-1226-429f-aabc-f630eeade2b1_1789127404557_02a7517d-c4d2-48f4-b392-2775c8624212_7ef0f8a2-6141-4daf-9ee2-5657b60feb95_54e2a1f2-c3c6-4555-89fc-73292ed6055e.png",
+   "topics": [],
+   "first_seen": "2026-09-11T12:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "58838c1b448b19d1",
+   "title": "NSE IPO: NSE shares not to trade on its own platform? No application filed with SEBI to trade own shares, says CEO",
+   "link": "https://www.livemint.com/market/ipo/nse-ipo-nse-shares-not-to-trade-on-its-own-platform-no-application-filed-with-sebi-to-trade-own-shares-says-ceo-11789127151946.html",
+   "summary": "NSE IPO: Ahead of the launch of the much-awaited IPO, NSE managing director and CEO Ashishkumar Chauhan said the exchange has not applied to the market regulator, SEBI, to trade its own shares on its platform.",
+   "published": "2026-09-11T11:51:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/NSE_IPO_news_1788972515643_7aae7b64-bfcd-4e20-b184_1789127318677_90fb5bb3-ef33-4855-a4f2-aff4ba4ad9b6_1789127318924_f7079931-31f0-40b2-903c-6cc5c818acae_284c848b-5a27-4fe4-96b1-680e277e63f3_06b395a3-0942-4a43-9151-f65d23310af6.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-11T12:00:09+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Rules"
+   ]
+  },
+  {
+   "id": "d6336ba8ff189ae2",
+   "title": "Over ₹17 per share dividend by Gujarat-based PSU company; check record and payment date | Do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/over-rs-17-per-share-dividend-by-gujarat-based-psu-company-check-record-and-payment-date-do-you-own-11789126925772.html",
+   "summary": "Gujarat Alkalies and Chemicals Limited shares may attract attention next week ahead of the dividend record date. The stock declined 2.42% over the past week.",
+   "published": "2026-09-11T11:51:20+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/GACL_dividend_12_1789127256801_25b102d1-0370-446f-95d3-0b1b1846fd73_1789127264356_bdeef9bd-a536-47c1-95d3-4471d3a5893d_630322fa-4508-4784-a0dc-b7ed38d65d8a_3044d3ff-c310-4586-bb40-e5360ebf930c.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T12:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "9fe445466e16f64d",
+   "title": "DA news update: Punjab employees call off pen-down strike after state govt assures ‘no disciplinary action’",
+   "link": "https://www.livemint.com/money/personal-finance/da-news-update-punjab-employees-call-off-pen-down-strike-as-state-govt-assures-no-disciplinary-action-mass-leave-protest-11789121357453.html",
+   "summary": "DA news update: Punjab government employees called off their pen-down strike after the state assured that ‘no disciplinary action’ would be taken against those who participated in the mass leave protest on 27 August.&nbsp;",
+   "published": "2026-09-11T11:35:30+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Punjab_DA_1788261144748_1788261174498_c774c8e1-abd7-497a-b6fc-041a79c52523_1789126274605_a8ea2c29-160c-4b2d-910c-1132c9fc700a_67d37bdd-704c-4297-98ce-801c601128f5_82911662-5316-4e0e-9d3e-014dc7c36fcd.png",
+   "topics": [],
+   "first_seen": "2026-09-11T12:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3ab57fb038c9896e",
+   "title": "Samvardhana Motherson share price outlook: 'Multiple growth engines' - Why Emkay says buy; check target",
+   "link": "https://www.livemint.com/market/stock-market-news/samvardhana-motherson-share-price-outlook-multiple-growth-engines-why-emkay-says-buy-check-target-11789124387529.html",
+   "summary": "Emkay Global Financial Services maintains a 'buy' recommendation for Samvardhana Motherson, predicting further stock price increases driven by multiple growth engines, including a focus on India and new non-auto ventures.&nbsp;",
+   "published": "2026-09-11T11:32:29+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Samvardhana_Motherson_1789124701496_fcc48357-3087-4699-bd07-b4dfb4bf23a1_1789124706258_3caad0a3-09b7-4ceb-9a82-49cec5cf32da_7be170d2-45af-44aa-b58a-e76bad0472c7_41233f83-997d-4471-ad94-741f28126ad7.png",
+   "topics": [],
+   "first_seen": "2026-09-11T12:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a2fabffea2b95117",
    "title": "8th Pay Commission: Can ₹69,000 basic pay become reality? Expert weighs in on pensioners' demand for 3.83 fitment factor",
@@ -209,67 +306,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/b872c65e-2402-4fa0-88a8-31991b8685d7_1789123670481_7bb10fcc-d17f-489f-a981-cdc9d2c6fd20_1789123677229_9fb709e7-fcc6-4da6-9042-849262ba30fc_1dccf6f4-894d-4252-9543-cc91cf9ebab6_45412864-7713-4be2-b3ec-0a3fd29cd4c7.png",
    "topics": [],
    "first_seen": "2026-09-11T11:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "037282d31c301d96",
-   "title": "IGL stock outlook by Motilal Oswal: Buy for 27% upside; check target price - 'Margins bottoming; volumes diversifying'",
-   "link": "https://www.livemint.com/market/stock-market-news/igl-stock-outlook-by-motilal-oswal-buy-for-27-upside-check-target-price-margins-bottoming-volumes-diversifying-11789121783951.html",
-   "summary": "IGL stock declined nearly 20% in 2026, pressured by a host of factors like crude oil and gas costs, currency issues, and Delhi's EV policy risks. Despite these challenges, Motilal Oswal views the stock's valuation as attractive, maintaining a 'Buy' recommendation. Check target price",
-   "published": "2026-09-11T10:30:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/IGL_stock_12_1789121987464_0706e04c-1839-47f4-aa73-b8ebcc83f465_1789122002458_35a76864-c447-47d2-8f85-cdb406327471_15ffe987-6475-4911-9688-4e085e6bf429_e1b719be-7d58-4ad7-9b87-8abf3feaef50.png",
-   "topics": [
-    "Valuation / M&A",
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
-  },
-  {
-   "id": "8f3078f10172f089",
-   "title": "Sensex, Nifty crash in morning but recovery after some time - What led to bounce back in markets?",
-   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-crash-in-morning-but-recovery-after-some-time-what-led-to-bounce-back-in-markets-11789119152254.html",
-   "summary": "Domestic stocks rebounded on September 11, recovering losses as global crude prices fell. The Nifty gained 0.71% from lows but closed 0.18% down, while the Sensex fell 0.14%. Buying in auto and financial stocks supported the market amidst concerns over elevated crude prices and investor sentiment.",
-   "published": "2026-09-11T10:30:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Sensex_1789121975025_fdf27921-b3a2-4df1-8427-23eec6adda93_1789121980031_755eaaf8-ef33-4554-8194-cdcd5b4efefe_a245d37e-c721-4ee7-b0c6-237a22b6c78c_74e38177-cdef-4f33-b848-ec12432ab1cd.png",
-   "topics": [],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fd8a6a6f92f67640",
-   "title": "Tata Steel share price falls 3%, among top Nifty 50 laggards; what experts say",
-   "link": "https://www.livemint.com/market/stock-market-news/tata-steel-share-price-falls-3-among-top-nifty-50-laggards-what-experts-say-11789119888853.html",
-   "summary": "Tata Steel shares fell nearly 3% amid weak market trends, with a decline of up to 7.65% over three months. Analysts caution over consolidation and possible support levels. The company recently initiated a sustainable project and received a favorable ruling from the Supreme Court in a GST case.",
-   "published": "2026-09-11T10:30:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Tata_Steel_1789121432107_ce0d83c4-7f39-4b31-90a6-2c8d1d522ecb_1789121437989_9a9c1b6f-4812-4734-8138-530d55b25a45_c9cc4e4d-1d6c-46a0-959f-a4d5d1640ab4_fb4864cf-6074-4317-b4dd-672ff04926c4.jpeg",
-   "topics": [
-    "GST"
-   ],
-   "first_seen": "2026-09-11T10:30:13+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -292,6 +328,47 @@
    "valuation_signals": []
   },
   {
+   "id": "037282d31c301d96",
+   "title": "IGL stock outlook by Motilal Oswal: Buy for 27% upside; check target price - 'Margins bottoming; volumes diversifying'",
+   "link": "https://www.livemint.com/market/stock-market-news/igl-stock-outlook-by-motilal-oswal-buy-for-27-upside-check-target-price-margins-bottoming-volumes-diversifying-11789121783951.html",
+   "summary": "IGL stock declined nearly 20% in 2026, pressured by a host of factors like crude oil and gas costs, currency issues, and Delhi's EV policy risks. Despite these challenges, Motilal Oswal views the stock's valuation as attractive, maintaining a 'Buy' recommendation. Check target price",
+   "published": "2026-09-11T10:21:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/IGL_stock_12_1789121987464_0706e04c-1839-47f4-aa73-b8ebcc83f465_1789122002458_35a76864-c447-47d2-8f85-cdb406327471_15ffe987-6475-4911-9688-4e085e6bf429_e1b719be-7d58-4ad7-9b87-8abf3feaef50.png",
+   "topics": [
+    "Valuation / M&A",
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-11T10:30:13+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "8f3078f10172f089",
+   "title": "Sensex, Nifty crash in morning but recovery after some time - What led to bounce back in markets?",
+   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-crash-in-morning-but-recovery-after-some-time-what-led-to-bounce-back-in-markets-11789119152254.html",
+   "summary": "Domestic stocks rebounded on September 11, recovering losses as global crude prices fell. The Nifty gained 0.71% from lows but closed 0.18% down, while the Sensex fell 0.14%. Buying in auto and financial stocks supported the market amidst concerns over elevated crude prices and investor sentiment.",
+   "published": "2026-09-11T10:16:42+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Sensex_1789121975025_fdf27921-b3a2-4df1-8427-23eec6adda93_1789121980031_755eaaf8-ef33-4554-8194-cdcd5b4efefe_a245d37e-c721-4ee7-b0c6-237a22b6c78c_74e38177-cdef-4f33-b848-ec12432ab1cd.png",
+   "topics": [],
+   "first_seen": "2026-09-11T10:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "f947d09affe1006a",
    "title": "Need ₹2 lakh urgently? Here's what experts say is cheaper: Personal loan, savings or credit card",
    "link": "https://www.livemint.com/money/personal-finance/need-2-lakh-urgently-heres-what-experts-say-is-cheaper-personal-loan-savings-or-credit-card-11789119004706.html",
@@ -305,6 +382,26 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pl_cl_or_savings_1789119666189_623a50bf-afa9-472c-9773-eed79e334c9e_1789119671991_f3646f1c-41d9-4737-ab69-3250c9b2b32b_c4044a72-9590-4325-9003-adfd7595dfc5_50b00e28-3649-4bc9-a5a1-dfe37d2ca34c.png",
    "topics": [],
+   "first_seen": "2026-09-11T10:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fd8a6a6f92f67640",
+   "title": "Tata Steel share price falls 3%, among top Nifty 50 laggards; what experts say",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-steel-share-price-falls-3-among-top-nifty-50-laggards-what-experts-say-11789119888853.html",
+   "summary": "Tata Steel shares fell nearly 3% amid weak market trends, with a decline of up to 7.65% over three months. Analysts caution over consolidation and possible support levels. The company recently initiated a sustainable project and received a favorable ruling from the Supreme Court in a GST case.",
+   "published": "2026-09-11T10:15:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Tata_Steel_1789121432107_ce0d83c4-7f39-4b31-90a6-2c8d1d522ecb_1789121437989_9a9c1b6f-4812-4734-8138-530d55b25a45_c9cc4e4d-1d6c-46a0-959f-a4d5d1640ab4_fb4864cf-6074-4317-b4dd-672ff04926c4.jpeg",
+   "topics": [
+    "GST"
+   ],
    "first_seen": "2026-09-11T10:30:13+00:00",
    "valuation_score": 0,
    "valuation_signals": []
@@ -338,7 +435,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Awfis_Space_Solutions_1789118599490_b9266505-face-4dcc-bd80-233420a19d48_1789118604485_2c222706-2eec-4149-b64e-e95b0f3d5f03_c218cae0-4774-43a5-9e72-6564d43caad2_a00ad07d-c40c-4f2e-bcfa-86830e8c5ad6.jpeg",
@@ -356,7 +453,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/kellton_1789116441830_897e6094-b925-49fd-9855-4468fd9ca554_1789116454236_60a0e783-ef35-4fd7-b9d2-f771cd16d729_26d9ba2c-c5cd-464c-b4a6-a4ccf8ee66e2_35b1eda4-4883-4323-a6f3-a6ac49f6d795.png",
@@ -396,7 +493,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/g06f582d07f6a05628b4306ed749cf431a861488c5d6fd53e2_1738215912990_1789116827213_36404ac6-5243-4031-8b48-9316891a44d5_2bfd1f2e-af48-430f-aee2-130d6955231a_b6b1f836-7886-494b-b226-903c35f7ad2b.jpg",
@@ -432,7 +529,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/BSE_share_price_NSE_IPO_Stock_market_today_1789114623745_2993292b-9f0f-4cdf-a5a1-0676cb9fd4e5_1789114624117_c29edd56-7725-4147-add3-58b4bae1679e_4f315e69-5aa6-448d-b648-e633698bd7c1_cda3b4de-3722-4749-994d-0ab8922846c9.png",
@@ -472,7 +569,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Cochin_shipyard_crash_1789115747391_abb5ba75-24c4-42bb-b6d8-2ac21c3b4e51_1789115759564_1cf70b34-8072-45e7-9916-9b9edf55ad22_4d5d0fc1-15ee-4db2-94c6-4d3e6feee6d0_20f1c850-7909-428c-b30f-abfede43a122.png",
@@ -490,7 +587,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Gold_ETFs_1789115519878_b436955d-e78e-4dec-8918-2a867e142db4_1789115525473_0ba4b53d-86d6-4dc2-beac-03f994a3023d_9a3c8580-4875-40b5-92e1-be44345237b3_f24b1c0a-38ad-4790-8f2f-0e9f72a3597d.png",
@@ -508,7 +605,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/HDFC_BANK_1789112226055_d62a8a8a-df54-4d1e-bc4d-47afa42068eb_1789112231524_69036c1e-e487-4e24-90fd-e65619d75924_697a4758-26dd-4a40-8a24-55b6cd166c86_7c91a74a-521a-4ae4-af28-90caca52cb01.png",
@@ -526,7 +623,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pine_labs_1789114746295_628c0437-d4a1-4bb1-b2af-b2663a7fca7f_1789114751358_3e4a64e6-11c3-495e-beb9-0f6332236167_714788ea-b05c-4cf6-a82f-8bbc9d2e37e2_a9189fa5-bd22-4a95-a1f3-c384f8b53ad8.png",
@@ -562,7 +659,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Titan_stock_outlook_1789112738043_20c8e9ee-acd3-4587-836c-f3a381a6be03_1789112764779_64adc87a-2f29-4819-88e4-8ad712631ecd_416885c8-f531-4e55-ba79-7da6e373a189_73ef168b-d7c7-4a06-8752-9663ebd980c2.png",
@@ -582,7 +679,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Suzlon_share_price_today_Stock_market_today_1789109411521_6c2c41ad-acd4-43b7-b45d-598f2b0430d9_1789109411672_4044d61a-441a-4396-a26a-268f04e26ff1_7f430338-bf63-4340-af80-d4344c8166e9_9a68df5c-6f84-4bbf-bf51-0c1e1aa026a7.png",
@@ -600,7 +697,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Raymond_1789110402596_c25aa246-4334-4014-a1fd-160da2de18a8_1789110493590_161d9865-10eb-4d08-91b2-248d54ac2e5a_42d35454-ac12-475e-beba-57fafd609bd8_bd319109-0204-43f5-9d8e-0bd31dfd470d.png",
@@ -620,7 +717,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/smt_1789110984997_bba154be-ecaa-4be6-a57c-d6853b7b8d97_1789111010651_8ba67ab3-2df1-4c7a-8926-967b9ddd8e23_69c4131d-3057-45fc-8fa8-51244bb0ec50_fce561fb-7248-450e-8d0f-98438d9ed0ee.png",
@@ -638,7 +735,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Multibagger_stock_1789111050214_346a1da7-31b1-44a9-8bd0-0508cad368ff_1789111056643_858a3a16-2d1b-4e2f-9cb2-6538f2d70592_eb9b387b-a8be-4b45-95a8-3546efcd731e_47fe402e-e397-4e92-a349-69a761057fef.png",
@@ -656,7 +753,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Orient_Tech_shares_1789108494859_f6ebdab3-101d-4123-af81-00793783a096_1789108500790_d2fed728-c0c8-4c6c-ac8c-58ff7fa11e1f_194881e4-64c8-4ca6-8b5b-33e6fe1f947c_feba730c-9839-45da-afdb-c8cf80d19f58.png",
@@ -674,7 +771,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/kirloskar_1789107912037_a4292f96-d297-445c-9708-b18e7bb54226_1789107924288_f027dd56-aed3-4742-8082-80310152565f_f83f4aa4-a166-46d7-86fd-9575a04e55d5_14adf822-046b-44b3-93f6-98a894fa7d02.png",
@@ -692,7 +789,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/IPO_GMP_comparison_1789106475191_f298ee04-0d1e-4679-b4c1-42790b462ee4_1789106486493_65bcbbea-9aec-42a7-93f0-b919fa4e01af_fa85e7bd-2cb4-4b9d-b47a-d161309d9594_4e97912d-161c-4b58-9af1-2b34ea4f17a9.png",
@@ -714,7 +811,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/gp_1789106035134_d3cdf6c2-c43e-40ec-9fa5-aaff8e02b7bf_1789106042289_49216056-0a1c-40d0-8e97-0237cc311c69_666e36b0-42e2-46e3-8a57-71898904ce16_e0f11898-9b20-4df6-a773-a78f9c367adc.png",
@@ -750,7 +847,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Authum_Investment_1789105262723_a0ddcb86-db0b-4b6f-b76f-5af88742098c_1789105267797_79f927fa-bbb0-49b6-985e-c3306657f78a_56c88076-6069-4566-bd60-2ae5ffe12f6b_20cdca1a-e9ce-4785-9a55-e02f0d1408de.png",
@@ -768,7 +865,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pexels-photo-29902736_1789103508435_e9c69ed3-e5b6-4e3a-9d11-e4714b814f8c_1789103523678_960d76da-4aef-4874-902a-646f9430e9f3_032c811d-806c-4e7d-8593-2938f8ba809f_956af007-b7d0-4eca-a852-d846e21b8318.png",
@@ -786,7 +883,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/neogen_1789104932084_f5c5f0b5-647b-45e7-9c1f-5836d3b23a41_1789104938716_13f57e27-7db8-4b9d-acd8-df509595cb38_5ab6d59c-da9c-44b7-97b0-29e0ecfc8a87_68f3eaa1-1dec-4a37-9aed-47aaf04f7897.png",
@@ -846,7 +943,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Shankesh_Jewellers_1789102986559_6c7c4ab2-ea7c-4741-8d01-0ba685d86d1e_1789102995513_4a607c56-0754-4baa-953b-3c57420a05e9_14545e47-1d80-4e82-9f67-4b9b9ec677fa_75b2a0de-49f2-46b2-a65e-97cdf3547e2a.png",
@@ -864,7 +961,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Neogen_QIP_1789101802600_469e92d5-ac03-480f-a91c-66e456f85d9d_1789101809162_7baa46be-7441-4cb2-b6c9-1d2a0affd0ca_006b423a-dc55-49cb-80c3-d5fc6552f030_9a9aa8e3-c398-4403-b936-c4aded0cdf39.png",
@@ -884,7 +981,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/milky_1789101635543_1615b591-1d67-4e67-9832-d07bf54390bc_1789101650543_ff17eeed-e81b-4961-b04a-c8fea99b3864_c7ca07ec-6fbd-4f52-9a8f-ec30e26defc3_4e85bb72-eda8-464d-ba80-18e8d52bd49a.png",
@@ -942,7 +1039,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/Vedanta_Aluminium_and_Metal_Limited_share_price_1789099316234_9c2c7ab6-edb9-458c-9daa-68f4340d4097_1789099316411_ae5ad24c-79a6-4575-8e66-a74462555e4e_94ae8175-6d3e-4ca0-9fc8-730483228e29_8ba809b0-9cd2-45a4-9359-127b61f77d47.png",
@@ -960,7 +1057,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Molbio_Diagnostics_shares_1789100490979_86ff3898-a062-411d-b77c-4ea4ed5fec3a_1789100496510_86496340-8531-49cb-9d2b-dee0c70eea6d_b0d74dc3-fd8f-448e-93e2-1a2de3d50203_b66baca1-59b5-41ad-a598-bb0d14ad1183.png",
@@ -978,7 +1075,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/esds1_1789100138044_096a1432-50a2-4bc7-9d6b-60f6dfa46b0a_1789100144606_d6ec851a-ba6f-4afb-88dd-2d240eed0c9a_1e74e744-714f-4323-9d73-1ad69881aa59_0fa8feda-3a4e-4e6d-a953-3e64f2ab9d3c.png",
@@ -1016,7 +1113,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Dividend_stock_alertsas_1789098089559_bcf31994-66b6-465a-b67e-b26ac4d9371c_1789098097023_0fd50fc3-c85d-42d7-a7ef-6071345ed9cb_b6f54e9f-dc63-4e7c-9091-ef66de79bb79_74d40980-cf0e-4281-9a43-77ea98f21a57.png",
@@ -1036,7 +1133,7 @@
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Indian_Stock_market_crash_1777542116470_1777542126094_1789097701601_24d8eafa-75d7-45a8-8c70-b394df73a17a_3e422049-2cd7-4db7-a40c-3df66bef48da_58ede0cb-4d5b-40cd-a18a-790f3bd5ae9e.png",
@@ -1528,7 +1625,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/maxresdefault_1789126777561_cac81234-43ad-4968-bd57-2239af84c783_1789126782694_e9fcd46b-da8f-4971-acc0-2530c4160e60_7294f374-61ac-4241-9b16-f4e453d86199_08ecfbd7-9d7d-4272-8146-c5d44c60b28b.jpg",
    "topics": [
     "SEBI / markets regulation",
     "Valuation / M&A"
@@ -11470,96 +11567,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/equity_1788705525613_3e675c01-6f3c-4078-b1ba-64b2410e6b7b_1788705525833_4092f3c8-acf9-4c76-99f2-c705de560256_6ecef621-d4bd-41d3-af2e-b877547edeba_c5b6c811-de8b-4ad5-9295-30a77596cfd2.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a415229dda1e6fc0",
-   "title": "5 signs you're building a financial empire, and you know it: Smarter money habits and better choices for tomorrow",
-   "link": "https://www.livemint.com/money/personal-finance/5-signs-youre-building-a-financial-empire-and-you-know-it-smarter-money-habits-and-better-choices-for-tomorrow-11788704469991.html",
-   "summary": "Building a financial empire involves everyday habits in spending, saving and planning. By recognising personal triggers and avoiding impulsive decisions, individuals can make thoughtful financial choices that align with their goals and values.",
-   "published": "2026-09-06T14:35:49+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Empire_1788705148753_93b47e01-df17-4217-b53b-9be5b8cf841d_1788705155696_fb5c297d-385a-4b96-b5dd-70505e29174c_9914a622-0583-4dc1-a336-b7810e83e6f3_778be699-abda-438b-bc09-c5fdd9fbb8be.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "01ac83027424186d",
-   "title": "India's ₹100 household savings puzzle: ₹33 goes to banks, while ₹39 flows to pension funds and markets",
-   "link": "https://www.livemint.com/money/personal-finance/indias-100-household-savings-puzzle-33-goes-to-banks-while-39-flows-to-pension-funds-and-markets-11788696086703.html",
-   "summary": "India’s household savings are shifting beyond bank deposits. Their share fell to 33% in FY25, while pension funds, mutual funds, shares and debentures together reached 39%. Yet 68% of household wealth remains in physical assets, highlighting the long runway for financialisation.",
-   "published": "2026-09-06T14:10:05+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/bank_deposits_1788702798222_185ef95e-72ac-4f55-a99d-46ef8145f322_1788702801821_249f866f-cc7d-4217-801b-4eb1b98b5001_57282fb7-2158-4607-be0d-88ef339585c4_25abc17d-4f64-424e-96be-14f4c5434705.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d1901b1da870707b",
-   "title": "Delhi Lakshmi Yojana RD maturity: Check lock-in period date, recurring deposit credit amount, eligibility",
-   "link": "https://www.livemint.com/money/personal-finance/delhi-lakshmi-yojana-rd-maturity-lock-in-period-july-2029-recurring-deposit-credit-amount-eligible-women-financial-help-11788698088895.html",
-   "summary": "&nbsp;Delhi Lakshmi Yojana RD maturity: Check lock-in period date and recurring deposit credit amount for eligible women beneficiaries, aged between 21 and 60 years, credited every month through the selected banking partner.&nbsp;",
-   "published": "2026-09-06T13:22:19+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Delhi_Lakshmi_Yojana_1788700339953_83e9fbec-bd18-42d9-bb8e-a61d6cc4e506_1788700353200_7b38f470-877c-40ee-adc0-5487fc9717c2_1a15f3ec-851d-4b71-a88f-355d35bde72d_33432f07-2825-4833-a5ef-e7517127b97e.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1fd62ed75485b5f4",
-   "title": "Bengaluru gamer lost ₹28 lakh after betting ₹2.6 crore—Why ITAT rejected tax on ₹2.33 crore winnings",
-   "link": "https://www.livemint.com/money/personal-finance/bengaluru-gamer-lost-28-lakh-after-betting-2-6-crore-why-itat-rejected-tax-on-2-33-crore-winnings-11788696303296.html",
-   "summary": "The ruling came in the case of a Bengaluru-based gamer who had put more than ₹2 crore into online rummy and poker but ultimately suffered a net loss of nearly ₹28 lakh",
-   "published": "2026-09-06T13:13:55+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Bengaluru_gamer_1788700325386_113952a5-daef-4633-8d17-5eb73d0f27db_1788700325613_555858cf-0eed-4e79-80cd-58e62106b8f2_6867bc62-c373-459e-9acc-cb111edb184a_d4c62487-375a-4694-b61c-cf16d1202724.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cf60693a69d6238f",
-   "title": "NCR's gourmet grocer Modern Bazaar halves store count amid q-comm push, internal woes",
-   "link": "https://www.livemint.com/companies/news/ncr-supermarket-modern-bazaar-stores-close-q-comm-grocery-retail-11788629614673.html",
-   "summary": "Modern Bazaar, a gourmet grocery retailer in Delhi-NCR, is downsizing its store network due to the rise of quick commerce, and deepening financial and management trouble. While restructuring for profitability, the chain aims to adapt to changing consumer preferences without exiting physical retail.",
-   "published": "2026-09-06T12:44:27+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/IMG_4594_1788629909355_b809aea7-0c54-4787-8185-153dc30c6050_1788629919135_6b9aae79-f4f1-461f-9e3f-471b2b15b56e_d3ffc7ba-9035-45ab-8b60-ceaf434a991f_a5cd74df-f333-4dda-9863-38957090d2d3.jpg",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
