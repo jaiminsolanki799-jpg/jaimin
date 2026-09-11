@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T15:00:11+00:00",
+ "generated_at": "2026-09-11T15:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 3,
    "items": 0,
-   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
+   "sample_date": "Mon, 10 Apr 2017 05:09:11 GMT",
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 19:01:58 +0530",
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 19:33:18 +0530",
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 20:11:56 +0530",
+   "sample_date": "Fri, 11 Sep 2026 20:47:17 +0530",
    "error": null,
-   "checked_at": "2026-09-11T15:00:11+00:00"
+   "checked_at": "2026-09-11T15:30:11+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "9129c2f0665daead",
+   "title": "₹20,000 extra every month: Why paying off your personal loan first may win over an SIP",
+   "link": "https://www.livemint.com/money/personal-finance/20000-extra-every-month-why-paying-off-your-personal-loan-first-may-win-over-an-sip-11789137433472.html",
+   "summary": "With a ₹20,000 monthly raise, borrowers must choose between repaying a personal loan or investing in mutual funds. Clearing a high-interest loan first can save more in interest and result in a larger investment corpus compared to investing the entire amount monthly.",
+   "published": "2026-09-11T15:17:17+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/PF_1789139645359_0740d2bd-cc86-4f55-b9c4-6bb9e4b8dafe_1789139645611_46e60a52-5c76-4ad2-8f81-9442b05026e9_80cafbf5-63a3-46c9-8945-697a19041596_0809defc-1a50-4c4c-89e4-22aead216209.png",
+   "topics": [],
+   "first_seen": "2026-09-11T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "981f905aa0248ac3",
    "title": "₹1 crore fine penalty: Why did IRDAI penalise Canara HSBC for mis-selling insurance to an 88-year old? What went wrong",
@@ -11560,24 +11578,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/equity_funds_data_1788719045448_899d4133-2e6a-4e67-84ff-15a7e7eb8d59_1788719049757_3bbe7e34-e691-43c0-9227-bbcb1ad0d5df_d2c0ddf3-83a6-4b6b-af49-86d163c85b5a_c0dba25b-b07f-4b05-b1c8-e099c49fd228.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3fb66f291f21d73f",
-   "title": "5 investment rules everybody must know: You don’t need to be Warren Buffett to understand these simple money basics",
-   "link": "https://www.livemint.com/money/personal-finance/5-investment-rules-everybody-must-know-you-don-t-need-to-be-warren-buffett-to-understand-these-simple-money-basics-11788718796662.html",
-   "summary": "Simple financial rules help manage expenses and investments for Indian households. You don’t need to be Warren Buffett to understand these simple money basics.",
-   "published": "2026-09-06T18:26:17+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Warren_1788718874378_29c7e1fc-4a08-4a71-a579-4d6ff29a40e8_1788718881870_7a247de0-fee9-41b0-9ca5-769910890e58_e0953962-1ee8-4474-b673-bab6c246693d_61addf23-9bb3-4f14-a1f7-dc9595a8a584.jpg",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
