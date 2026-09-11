@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T22:30:10+00:00",
+ "generated_at": "2026-09-11T23:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T22:30:10+00:00"
+   "checked_at": "2026-09-11T23:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 15:19:30 GMT",
+   "sample_date": "Fri, 11 Sep 2026 09:33:42 GMT",
    "error": null,
-   "checked_at": "2026-09-11T22:30:10+00:00"
+   "checked_at": "2026-09-11T23:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-11T22:30:10+00:00"
+   "checked_at": "2026-09-11T23:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T22:30:10+00:00"
+   "checked_at": "2026-09-11T23:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 21:19:05 +0000",
+   "sample_date": "Fri, 11 Sep 2026 22:58:17 +0000",
    "error": null,
-   "checked_at": "2026-09-11T22:30:10+00:00"
+   "checked_at": "2026-09-11T23:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,32 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "fad5f970d0508fcb",
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+   "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+   "published": "2026-09-11T22:58:17+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-11T23:00:09+00:00",
+   "valuation_score": 9,
+   "valuation_signals": [
+    "Valuation",
+    "PE / VC",
+    "Funding"
+   ]
+  },
   {
    "id": "ccfd05f69c6f8e19",
    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
@@ -93,9 +117,9 @@
   },
   {
    "id": "2619d8ade240d7f3",
-   "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+   "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-   "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+   "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
    "published": "2026-09-11T20:59:47+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -124,6 +148,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T21:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-11T20:43:20+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -834,24 +876,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-11T04:11:14+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "7709a52aedc7402e",
