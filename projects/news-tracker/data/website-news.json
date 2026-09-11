@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T04:00:09+00:00",
+ "generated_at": "2026-09-11T04:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:00:09+00:00"
+   "checked_at": "2026-09-11T04:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 09:58:34 GMT",
+   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:00:09+00:00"
+   "checked_at": "2026-09-11T04:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:00:09+00:00"
+   "checked_at": "2026-09-11T04:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 20,
-   "items": 20,
+   "fetched": 23,
+   "items": 23,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:00:09+00:00"
+   "checked_at": "2026-09-11T04:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T04:00:09+00:00"
+   "checked_at": "2026-09-11T04:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "7709a52aedc7402e",
+   "title": "Hero Motors’ Rs 1,000 Cr IPO to open on September 16; price band fixed at Rs 79–84 per share",
+   "link": "https://yourstory.com/2026/09/hero-motors-rs-1000-cr-ipo-to-open-on-september-16",
+   "summary": "The IPO comprises a fresh issue of equity shares worth up to Rs 600 crore, and an offer-for-sale of shares worth up to Rs 400 crore by promoters. Hero Motors’ initial public offering will open for subscription on Wednesday (September 16, 2026) and close on Friday (September 18). The company has s",
+   "published": "2026-09-11T04:06:15+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-11T04:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "02a50a501a58806a",
    "title": "Flipkart Minutes clocks 4X growth in two years, expands to more than 150 cities",
@@ -84,7 +106,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
@@ -106,6 +128,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "81d619960f63f5ed",
+   "title": "Listed Companies - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
+   "summary": "",
+   "published": "2026-09-11T02:03:34+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -648,7 +688,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -668,7 +708,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -765,7 +805,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
@@ -783,7 +823,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T13:00:12+00:00",
@@ -953,7 +993,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T10:30:11+00:00",
@@ -977,24 +1017,6 @@
    "image": "https://static.startuptalky.com/2026/09/amazon-faces-food-safety-scrutiny-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-10T11:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "81d619960f63f5ed",
-   "title": "Listed Companies - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
-   "summary": "",
-   "published": "2026-09-10T10:02:08+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1137,7 +1159,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T07:30:10+00:00",
@@ -1227,7 +1249,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1249,7 +1271,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:30:11+00:00",
@@ -1308,7 +1330,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:00:11+00:00",
@@ -1954,7 +1976,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T14:00:09+00:00",
@@ -2270,7 +2292,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T10:30:11+00:00",
@@ -2290,7 +2312,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T10:00:11+00:00",
@@ -2382,7 +2404,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T08:00:10+00:00",
@@ -2474,7 +2496,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2555,7 +2577,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -2578,7 +2600,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T05:00:10+00:00",
