@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T21:00:11+00:00",
+ "generated_at": "2026-09-11T21:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
+   "ok": true,
+   "fetched": 5,
    "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
+   "error": null,
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:11:51 +0530",
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 01:49:47 +0530",
+   "sample_date": "Sat, 12 Sep 2026 02:36:58 +0530",
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:10:10 +0530",
    "error": null,
-   "checked_at": "2026-09-11T21:00:11+00:00"
+   "checked_at": "2026-09-11T21:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "70cd74a07f9079fd",
+   "title": "Crypto’s Latest Rebound Was Fueled By Fresh Liquidations",
+   "link": "https://www.livemint.com/market/cryptos-latest-rebound-was-fueled-by-fresh-liquidations-11789160818725.html",
+   "summary": "A fresh wave of liquidations in bearish bets — this time on Ether, the second-largest cryptocurrency — drove Friday’s brief rally.",
+   "published": "2026-09-11T21:06:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-09-11T21:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "24a2945e6c2d7459",
    "title": "TSX pares weekly decline as tech shares rally",
@@ -11568,24 +11586,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "7b468c7f084f71d3",
-   "title": "NPS for NRIs: What happens to your account when you move abroad? PFRDA explains",
-   "link": "https://www.livemint.com/money/personal-finance/nps-for-nris-what-happens-to-your-account-when-you-move-abroad-pfrda-explains-11788749878391.html",
-   "summary": "Moving abroad does not automatically mean closing your NPS account. PFRDA allows NRIs to continue NPS Tier I through NRE or NRO accounts, but Tier II cannot be activated.",
-   "published": "2026-09-07T03:09:10+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generatd_Image_7yqzi27yqzi27yqz_1788750318_1788750330177_0b48360f-8d06-49eb-8db5-2d8c0474642d_1788750330347_ead2c69b-6311-48aa-b9db-b0bbdb853187_4d325ba0-0735-4316-b2cd-43997f4af7ce_387325bb-8bd0-4e0a-a6df-1d515604dc9e.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
