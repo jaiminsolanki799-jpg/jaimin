@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T05:30:09+00:00",
+ "generated_at": "2026-09-11T06:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T05:30:09+00:00"
+   "checked_at": "2026-09-11T06:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 09:58:34 GMT",
+   "sample_date": "Thu, 10 Sep 2026 15:23:23 GMT",
    "error": null,
-   "checked_at": "2026-09-11T05:30:09+00:00"
+   "checked_at": "2026-09-11T06:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-11T05:30:09+00:00"
+   "checked_at": "2026-09-11T06:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 18,
-   "items": 18,
+   "fetched": 19,
+   "items": 19,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T05:30:09+00:00"
+   "checked_at": "2026-09-11T06:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T05:30:09+00:00"
+   "checked_at": "2026-09-11T06:00:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "9939b1cfcc0ef632",
+   "title": "Zomato, Swiggy deliver near-Meituan unit economics despite 22X smaller Indian market",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFhvOTc1aGI1eFJ4NW5kV2pUekdfUEtiR0dXUWZnNWlGZWIzdGs1NjY1ZnN4aklRbFhsc19BV2o5THRSRW10X1R4MklnNnpEX3FOcERhbWpEbGVKQlVDekRkWU1kTTg3U05FV1ZRSEF5cllsVmd3Y3M0Qmhjd0MzeWdTcFRjUGo0bUpuOVhyT2NHWGdaV1h3T1poOU03SERpZEJNS1dhTWFreTlrcUhfR0VUVDJEMDBBclHSAboBQVVfeXFMTnBYbzk3NWhiNXhSeDVuZFdqVHpHX1BLYkdHV1FmZzVpRmViM3RrNTY2NWZzeGpJUWxYbHNfQVdqOUx0UkVtdF9UeDJJZzZ6RF9xTnBEYW1qRGxlSkJVQ3pEZFlNZE04N1NORVdWUUhBeXJZbFZnd2NzNEJoY3dDM3lnU3BUY1BqNG1KbjlYck9jR1hnWldYd09aaDlNN0hEaWRCTUtXYU1ha3k5a3FIX0dFVFQyRDAwQXJR?oc=5",
+   "summary": "",
+   "published": "2026-09-11T05:32:10+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T06:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7322552cf6f9eac0",
    "title": "Pocket Entertainment crosses $500M in ARR fuelled by AI",
@@ -128,6 +146,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-11T04:11:14+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "7709a52aedc7402e",
@@ -1273,24 +1309,6 @@
    "image": "https://static.startuptalky.com/2026/09/qualcomm-grants-amazon-warrants-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-10T07:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-10T06:09:52+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
