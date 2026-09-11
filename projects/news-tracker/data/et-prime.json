@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T20:00:09+00:00",
+ "generated_at": "2026-09-11T20:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:11:51 +0530",
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 00:55:50 +0530",
+   "sample_date": "Sat, 12 Sep 2026 01:49:47 +0530",
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:10:10 +0530",
    "error": null,
-   "checked_at": "2026-09-11T20:00:09+00:00"
+   "checked_at": "2026-09-11T20:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "24a2945e6c2d7459",
+   "title": "TSX pares weekly decline as tech shares rally",
+   "link": "https://www.livemint.com/market/tsx-pares-weekly-decline-as-tech-shares-rally-11789157988195.html",
+   "summary": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pares weekly decline as tech shares rally",
+   "published": "2026-09-11T20:19:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T20:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "74b38df0dc428a74",
    "title": "Live cattle futures higher on strengthening cash market, short covering",
@@ -11564,24 +11582,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generatd_Image_7yqzi27yqzi27yqz_1788750318_1788750330177_0b48360f-8d06-49eb-8db5-2d8c0474642d_1788750330347_ead2c69b-6311-48aa-b9db-b0bbdb853187_4d325ba0-0735-4316-b2cd-43997f4af7ce_387325bb-8bd0-4e0a-a6df-1d515604dc9e.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e955d1e9701061d9",
-   "title": "Buy or sell: Gift Nifty signals muted start | Vaishali Parekh recommends three stocks to buy today",
-   "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-muted-start-vaishali-parekh-recommends-three-stocks-to-buy-today-11788747852620.html",
-   "summary": "Buy or sell: Vaishali Parekh recommends three stocks to buy today — TD Power Systems, Vikran Engineering, and Greenply Industrie",
-   "published": "2026-09-07T03:07:18+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Buy_or_sell_Vaishali_Parekh_recommends_three_stock_1788748202366_aa8afe9f-7e2f-49e3-b65e-bea661954e73_1788748202515_ca8abd35-aef7-43dd-b613-202112be44b2_5340704d-d768-4613-a953-69fd72991a6a_9c6bc3c6-040b-44fd-8d1b-39571cde3811.jpg",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
