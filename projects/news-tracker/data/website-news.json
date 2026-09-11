@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T11:00:16+00:00",
+ "generated_at": "2026-09-11T11:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T11:00:16+00:00"
+   "checked_at": "2026-09-11T11:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-11T11:00:16+00:00"
+   "checked_at": "2026-09-11T11:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 11 Sep 2026 10:57:52 GMT",
+   "sample_date": "Fri, 11 Sep 2026 11:17:37 GMT",
    "error": null,
-   "checked_at": "2026-09-11T11:00:16+00:00"
+   "checked_at": "2026-09-11T11:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T11:00:16+00:00"
+   "checked_at": "2026-09-11T11:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T11:00:16+00:00"
+   "checked_at": "2026-09-11T11:30:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,64 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "db97e66664520b73",
+   "title": "NPCI’s FY26 profit falls 32%; revenue rises 22% to Rs 4,240 Cr",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWklldnp5Q3R3cVJIc2NJcExEeVVja2hRbFRQQW8wRXpHY2pRei1qU2lFMTBYdGhUalVZSmQ5c0drVTZvZVY5ZE5RSXdacldWQnVyc3E0ZjEyb1VJTWVkV3JSaERtdkJqQ3hMNW11c19EZGh1eDZUNUtTMEtRRGxjWDctMlBwVGJYeXU1UTNUOUFjbktELVczMjJ5ZEd1UdIBngFBVV95cUxOWklldnp5Q3R3cVJIc2NJcExEeVVja2hRbFRQQW8wRXpHY2pRei1qU2lFMTBYdGhUalVZSmQ5c0drVTZvZVY5ZE5RSXdacldWQnVyc3E0ZjEyb1VJTWVkV3JSaERtdkJqQ3hMNW11c19EZGh1eDZUNUtTMEtRRGxjWDctMlBwVGJYeXU1UTNUOUFjbktELVczMjJ5ZEd1UQ?oc=5",
+   "summary": "",
+   "published": "2026-09-11T11:18:44+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T11:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "67421817ca6bcb02",
+   "title": "Daily Indian Funding Roundup & Key News - 11 September 2026: Popo Global Raises INR 532 Crore, Flipkart Minutes Clocks 4X Growth In Two Years, and More",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-11-september-2026/",
+   "summary": "Here's your daily dose of Indian startup funding roundup and key business news for 11 September 2026. Popo Global raises INR 532 crore, Flipkart Minutes clocks 4X growth in two years, and Flipkart launches AI shopping agents through Super.money.",
+   "published": "2026-09-11T11:17:37+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/daily-indian-funding-roundup-key-news-11-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T11:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "6f3580b1b2bc227e",
+   "title": "Gold and Silver Prices in India Today, 11 September 2026: Gold at ₹152,650, Silver at ₹233,120 as Both Slip",
+   "link": "https://startuptalky.com/news/gold-silver-prices-today-india-11-september-2026-both-metals-slip/",
+   "summary": "Gold and silver rates today in India, 11 September 2026. 24K gold trades at ₹152,650 per 10g and silver at ₹233,120 per kg, both slipping further as Comex weakens. Check city wise rates and MCX data below.",
+   "published": "2026-09-11T11:05:11+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-today-india-11-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T11:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e63549d294ec7e4d",
    "title": "Flipkart Brings AI Agents to Automate Online Shopping",
