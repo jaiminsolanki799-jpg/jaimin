@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T13:00:09+00:00",
+ "generated_at": "2026-09-11T13:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 18:01:27 +0530",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 18:15:51 +0530",
+   "sample_date": "Fri, 11 Sep 2026 18:45:08 +0530",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 18:12:16 +0530",
+   "sample_date": "Fri, 11 Sep 2026 18:51:55 +0530",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "1da739456a9b7884",
+   "title": "MahaRERA orders developer to refund homebuyers: 7 checks to make before booking a flat",
+   "link": "https://www.livemint.com/money/personal-finance/maharera-orders-developer-to-refund-homebuyers-7-checks-to-make-before-booking-a-flat-11789130755044.html",
+   "summary": "A MahaRERA ruling highlights the risks of buying a flat without verifying construction approvals. Here are 7 key checks homebuyers should make, including the Commencement Certificate, sanctioned plans, RERA records, payment trail and written promises.",
+   "published": "2026-09-11T13:21:55+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/flat_1789131816154_6057f69b-8e62-4895-a707-25440b0b7d55_1789131843315_6b1f627c-8fad-400f-b005-d3667c455ee1_7113961f-9f1c-4160-a324-7da99be55ee4_9ef6878a-3c9f-430a-8fb4-6fd94ac550ed.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T13:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5f5fc9390bb3e1fe",
+   "title": "9-day upper circuit: Multibagger small-cap stock surges 55% in September despite weak market",
+   "link": "https://www.livemint.com/market/stock-market-news/9day-upper-circuit-multibagger-small-cap-stock-surges-over-55-in-september-despite-weak-market-11789130057563.html",
+   "summary": "Spice Lounge Food Works defied market trends with a 55.5% return in September, locking in a 5% upper circuit for nine sessions. The surge follows the launch of its food emulsifiers and agribusiness division, aiming for ₹1,200 crore in revenue potential and expanded global partnerships.",
+   "published": "2026-09-11T13:15:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Smallcap_1789132325590_b452fb8e-63e9-4940-b0ad-b718b4bb29c5_1789132333660_2805f56f-968e-48d3-8a38-2db9f4d8d130_8dcddde4-49ac-43cc-9492-f35009519632_9bdf5073-97d1-47bd-9c18-8bbb3ba0d39a.png",
+   "topics": [],
+   "first_seen": "2026-09-11T13:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f35547f676b28c25",
    "title": "Small cap stock: Exporter of stainless-steel washers entering electronic materials space - Choice says buy; target price",
@@ -217,9 +253,9 @@
   },
   {
    "id": "aef11254fb0f783e",
-   "title": "8th pay commission: Here's how much salary hike a conservative fitment factor of 1.83 and 2 can give employees",
+   "title": "8th Pay Commission: How much salary hike will a 1.83 or 2.0 fitment factor give you?",
    "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-cpc-how-much-salary-hike-conservative-fitment-factor-1-83-and-2-give-pay-increase-calculate-employees-11789126623550.html",
-   "summary": "The 8th pay commission's decisions are expected to benefit over 1 crore beneficiaries. Today, we calculate how much salary hike a conservative fitment factor of 1.83 or 2 can give central government employees.",
+   "summary": "Pensioners' body AIFPA has demanded a 3.83 fitment factor from the 8th Pay Commission, the highest proposed so far, though experts peg the realistic range at 1.83 to 2.57, a hike that could raise central govt pay and pensions by 20-80%.",
    "published": "2026-09-11T12:42:16+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -11538,42 +11574,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/5_reasons_1788711117167_2026b182-f8bd-42f0-befa-d69a3eb82fd7_1788711123207_382b3755-ad9d-43f8-ae43-047d7999110d_83cdf129-3828-414c-8f52-f53d9d6ea448_5f4bce8c-0774-40a9-acd5-ad01c205de2f.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "28bbd89e41ff85e9",
-   "title": "EPFO: Don't know how to claim provident fund, pension online after EPF member's death? Check stepwise guide for families",
-   "link": "https://www.livemint.com/money/personal-finance/epfo-how-claim-online-provident-fund-form-20-10d-eps-family-pension-edli-insurance-benefit-epf-member-death-aadhaar-bank-11788707495701.html",
-   "summary": "EPFO: Today, we take a look at how the family (nominees or legal heirs) of subscribers can claim their provident fund (EPF) savings, pension payout (EPS) and insurance benefit (EDLI) after the member's death.",
-   "published": "2026-09-06T16:15:18+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/EPFO_claims_1788710870852_2308966e-4aef-4657-bd32-b32c3b71348d_1788710907975_688afc38-b3c3-4934-b9ed-39002bce1c13_fe0abdff-14e0-45c9-b11d-90e6342e73fd_2eb9b4ec-77d5-4931-ab0e-eea318bfdcd8.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6b0b061921e28fdb",
-   "title": "Annual Information Statement: What AIS covers, how taxpayers can access it and correct errors online",
-   "link": "https://www.livemint.com/money/personal-finance/annual-information-statement-what-ais-covers-how-taxpayers-can-access-it-and-correct-errors-online-11788707721492.html",
-   "summary": "AIS gives taxpayers a consolidated view of financial and tax information linked to their PAN. Here's what it covers, when new information may appear, how to access the statement and what to do if you spot an error.",
-   "published": "2026-09-06T16:15:12+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/ais_eroro_1788710604597_0867ff69-fecb-40bb-80aa-19ad2d5c6d3e_1788710607818_6e8439b1-29da-49a1-a0f5-044bdaf5b6fd_78b72008-c5bc-4613-acaf-710b9fca7af0_6b51dfe6-af15-4636-a12e-450ecb6065eb.png",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,

@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T13:00:09+00:00",
+ "generated_at": "2026-09-11T13:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 10:50:25 GMT",
+   "sample_date": "Thu, 10 Sep 2026 15:23:23 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 11 Sep 2026 11:48:00 GMT",
+   "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T13:00:09+00:00"
+   "checked_at": "2026-09-11T13:30:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "1e3ad698f0a677d8",
+   "title": "Ultraviolette to Invest INR 779 Crore in Tamil Nadu EV Manufacturing Plant",
+   "link": "https://startuptalky.com/news/ultraviolette-to-invest-inr-779-crore-in-tamil-nadu/",
+   "summary": "Ultraviolette Automotive will invest INR 779 crore to establish a new BIGGA Factory in Hosur, Tamil Nadu to increase its electric car manufacturing capability. The plant is expected to produce 250,000 vehicles a year initially, with capacity for 500,000 units as demand increases.",
+   "published": "2026-09-11T13:19:50+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/ultraviolette-to-invest-inr-779-crore-in-tamil-nadu-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T13:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a9b90257a962c970",
    "title": "Graph AI raises $13.3M in Series A funding",
@@ -122,7 +140,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -162,7 +180,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T11:30:11+00:00",
@@ -298,7 +316,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T09:30:13+00:00",
@@ -406,7 +424,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:30:12+00:00",
@@ -424,7 +442,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:00:09+00:00",
@@ -478,7 +496,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T05:00:11+00:00",
@@ -538,7 +556,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
@@ -1120,7 +1138,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1140,7 +1158,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1237,7 +1255,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
@@ -1255,7 +1273,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T13:00:12+00:00",
@@ -1425,7 +1443,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T10:30:11+00:00",
@@ -1591,7 +1609,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T07:30:10+00:00",
@@ -1663,7 +1681,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1685,7 +1703,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:30:11+00:00",
@@ -1744,7 +1762,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:00:11+00:00",
@@ -2390,7 +2408,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-09T14:00:09+00:00",
