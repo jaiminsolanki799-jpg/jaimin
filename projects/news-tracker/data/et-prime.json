@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T17:00:10+00:00",
+ "generated_at": "2026-09-11T17:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
+   "fetched": 5,
    "items": 0,
-   "sample_date": "Mon, 10 Apr 2017 05:09:11 GMT",
+   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 22:08:29 +0530",
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 21:36:23 +0530",
+   "sample_date": "Fri, 11 Sep 2026 22:29:52 +0530",
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 21:25:15 +0530",
+   "sample_date": "Fri, 11 Sep 2026 22:28:35 +0530",
    "error": null,
-   "checked_at": "2026-09-11T17:00:10+00:00"
+   "checked_at": "2026-09-11T17:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "b7dbb17473807a01",
+   "title": "Up 725% in five years: Small-cap stock to be in focus on Monday after ₹5.12 crore order win",
+   "link": "https://www.livemint.com/market/stock-market-news/up-725-in-five-years-small-cap-stock-to-be-in-focus-on-monday-after-rs-5-12-crore-order-win-11789142510005.html",
+   "summary": "Silver Touch Technologies has secured a ₹5.12 crore order from Gujarat Urja Vikas Nigam Limited for managing IT infrastructure. The contract supports GUVNL's e-Urja platform with a commitment to application uptime at 99% SLA, enhancing services for over a crore consumers.",
+   "published": "2026-09-11T16:59:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Multibagger_stock_1789145630471_b44a8ba9-9faf-48ba-8347-6cc91cd9f629_1789145636875_5ba406a9-85f9-4ad5-b8c9-91a162e66e7f_09b5b40e-2d49-43e2-bf7e-64dd21fbe897_5e749f3a-3781-4fab-9ecf-9107e61b125b.png",
+   "topics": [],
+   "first_seen": "2026-09-11T17:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a8489a9f6b18e154",
+   "title": "Global yields surge: How they affect the Indian bond market and why domestic factors matter",
+   "link": "https://www.livemint.com/money/personal-finance/global-yields-surge-how-they-affect-the-indian-bond-market-and-why-domestic-factors-matter-11789137971337.html",
+   "summary": "Analysts believe domestic economic conditions remain the key factor determining the direction of Indian bond yields, rather than movements in global yields alone.",
+   "published": "2026-09-11T16:58:35+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/bond_1789143822210_47d110b3-b385-4077-8f99-4dd773bb7fc5_1789143960914_2beac7e7-e728-4dd1-bf3c-4bdbeaed91e7_04c5ef34-6d4c-412d-96e6-0755899a77b8_055ac6a7-b962-4a4c-8bc3-5784f8bb335d.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T17:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "39c6a702184f5011",
    "title": "Colgate-Palmolive explores sale of three personal care brands in $1 bn plus deal: Report",
@@ -11546,42 +11582,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ffa78b7cb3398faa",
-   "title": "Inside Rashesh Shah’s plan to incubate and scale Edelweiss businesses",
-   "link": "https://www.livemint.com/companies/news/edelweiss-group-chairman-rashesh-shah-new-business-listing-plans-11788678191214.html",
-   "summary": "Chairman Rasheh Shah cites Nuvama Wealth Management, a company that got listed in 2023, where Edelweiss shareholders received 30% of the shares.",
-   "published": "2026-09-07T00:30:17+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/DSC01990_1788678476474_9aef8999-1155-46ee-8c1c-bd0f6e5f12dd_1788678503029_7a61c920-5ef7-4814-afd4-8ac9016751aa_4d8075a5-7a41-4633-90a5-63a0e962cbdb_f18b6d11-7784-4e9f-a90b-c149cf8ac790.JPG",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2d4520516afac257",
-   "title": "Amara Raja joins Indian groups monetizing family-owned brands",
-   "link": "https://www.livemint.com/companies/news/amara-raja-energy-mobility-royalty-revenue-to-promoter-family-11788688391432.html",
-   "summary": "Amara Raja Energy &amp; Mobility Ltd paid ₹6.76 crore in royalty to Amara Raja Enterprises Pvt. Ltd in the year ended March 2026, according to filings reviewed. The payment was equivalent to 0.05% of the company’s ₹13,814 crore revenue and 0.8% of its ₹896 crore net profit during that period.",
-   "published": "2026-09-07T00:20:57+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Amara_Raja_Family_1694454655939_1788703542216_05ab32a1-f589-4839-8ba7-1ffa3824e1cb_5f38562b-94c9-4096-857f-4ccbdf3119d1_ff4bdeb3-b652-400b-bc29-eca9be806cf1.jpg",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
