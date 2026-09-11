@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T04:30:11+00:00",
+ "generated_at": "2026-09-11T05:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 11,
-   "items": 11,
+   "fetched": 12,
+   "items": 12,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:30:11+00:00"
+   "checked_at": "2026-09-11T05:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
+   "sample_date": "Thu, 10 Sep 2026 15:23:23 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:30:11+00:00"
+   "checked_at": "2026-09-11T05:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:30:11+00:00"
+   "checked_at": "2026-09-11T05:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 23,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T04:30:11+00:00"
+   "checked_at": "2026-09-11T05:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T04:30:11+00:00"
+   "checked_at": "2026-09-11T05:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "8c852cbfef2da70f",
+   "title": "$100M gives Pixxel wings to fly. The harder part awaits.",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTQza3B1NmVESnZDdzlSQXpGSDV3RlpRaVI0SWNjRWJOSjIwYzV4dWJ3LVctNUdkZzV4MVFPQ0VabU8wczEtZWx4VXY0MkRBaDV0UzZtVEdOaE5xSkxEdGVZUTdaN0h2X05WUFNjMjhrZWd4clNDX0VYeUtLLXQ4NjlNX1RwYWZxT1o5Ui1zT2FkWnpGVThHRTFPNjdqNXUxRTM0QkFSMVpuclVldEs1YQ?oc=5",
+   "summary": "",
+   "published": "2026-09-11T04:45:13+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "67ba1ed195ff558a",
+   "title": "The Pizza Bakery operator Popo Global raises Rs 532 Cr from Artal Asia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODdZTEtuLUxYWmxCUFgtbjFHVkp2WUozVVpCRUVfQ1o1ZFh5eWtKQWxNU2FEb2RTZ3Zsd2dKSnU4VV9HQlRtcnRwbXRXUnpSVXRJM29BRFNidnJldy14YkRIZXR0cFpFTndkS2V4ZmlVdTBfcjlWdnNiUHFiRXJTWXdrdU5uNUJ4WUhIU3hybDh3dEdkeXVoaWdqN1V1YWcyNXRfZWN6RkZzOEh1NFHSAa4BQVVfeXFMTjg3WUxLbi1MWFpsQlBYLW4xR1ZKdllKM1VaQkVFX0NaNWRYeXlrSkFsTVNhRG9kU2d2bHdnSkp1OFVfR0JUbXJ0cG10V1J6UlV0STNvQURTYnZyZXcteGJESGV0dHBaRU53ZEtleGZpVXUwX3I5VnZzYlBxYkVyU1l3a3VObjVCeFlISFN4cmw4d3RHZHl1aGlnajdVdWFnMjV0X2VjekZGczhIdTRR?oc=5",
+   "summary": "",
+   "published": "2026-09-11T04:40:20+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "entrackr.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T05:00:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "7709a52aedc7402e",
    "title": "Hero Motors’ Rs 1,000 Cr IPO to open on September 16; price band fixed at Rs 79–84 per share",
@@ -5796,24 +5834,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWVGNkMyOGRLNW1SM2ZCUHVqZEhDLU5peHJGd3BzZXNHS1hneG5seUQxdHJyNmRxdWJvY2J4b0M2RzdzTVE2Y0QxTnhwQTRxV09sdGhDZXpsbjFLWmNYVE9XYndvdHMya3M2V2J1bDJHQXdfcDlseC1LN3J2Nm9BYVUxUlJoTFNhYW8wNGcydw?oc=5",
    "summary": "",
    "published": "2026-09-01T05:09:28+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "75f08a3efd282a53",
-   "title": "Harish Mehta",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhTndFMlBfcWdyQXFTbWRJdGM1R3JtV2czNDgySHlpaGhRVmxqTWhsUWlwbXNvOGNVQ09BWG9jUXFOV1pUVG1GTGZmMl95ZElBREZRSG9GOA?oc=5",
-   "summary": "",
-   "published": "2026-09-01T04:39:45+00:00",
    "source": "The CapTable",
    "group": "The CapTable",
    "category": "Startups",
