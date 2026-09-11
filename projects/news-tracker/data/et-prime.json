@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T14:30:09+00:00",
+ "generated_at": "2026-09-11T15:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 19:01:58 +0530",
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 19:33:18 +0530",
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 19:52:02 +0530",
+   "sample_date": "Fri, 11 Sep 2026 20:11:56 +0530",
    "error": null,
-   "checked_at": "2026-09-11T14:30:09+00:00"
+   "checked_at": "2026-09-11T15:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "981f905aa0248ac3",
+   "title": "₹1 crore fine penalty: Why did IRDAI penalise Canara HSBC for mis-selling insurance to an 88-year old? What went wrong",
+   "link": "https://www.livemint.com/money/personal-finance/rs-1-crore-fine-penalty-why-did-irdai-penalise-canara-hsbc-for-mis-selling-insurance-to-an-88-year-old-what-went-wrong-11789135136562.html",
+   "summary": "The regulator flagged several shortcomings in the sale, including failures related to product suitability, solicitation, disclosures and the insurer’s internal controls.",
+   "published": "2026-09-11T14:41:56+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Untitled_design_-_2026-09-11T195125.547_1789136485488_615132c5-34f8-4758-a7fd-7272264f4aaa_1789136493458_b5d18cf3-d119-429a-b9ce-5b11e462e3a1_013525b0-946d-4d76-b8ba-9a636418c50f_e43f6087-a4cd-4cc3-a63e-09091f8e952a.png",
+   "topics": [],
+   "first_seen": "2026-09-11T15:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "15e80cec37dba4f0",
    "title": "Court orders EPFO to pay 6% interest for 35-day delay in settling claim — Here's how to check status, file grievances",
@@ -238,7 +256,7 @@
    "id": "41c1f7c2bfc51784",
    "title": "US stocks rebound as oil prices ease, inflation data steadies market sentiment",
    "link": "https://www.livemint.com/market/us-stocks-rebound-as-oil-prices-ease-inflation-data-steadies-market-sentiment-11789132216174.html",
-   "summary": "The Dow Jones Industrial Average rose 0.27%, the S&amp;P 500 rose 0.59%, the Nasdaq Composite rose 0.80%",
+   "summary": "As of 10:30 a.m. Eastern Time, the S&amp;P 500 climbed 1%, the Dow Jones Industrial Average was up 0.9%, and the Nasdaq Composite was 1.2% higher.",
    "published": "2026-09-11T13:54:20+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -11560,24 +11578,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Warren_1788718874378_29c7e1fc-4a08-4a71-a579-4d6ff29a40e8_1788718881870_7a247de0-fee9-41b0-9ca5-769910890e58_e0953962-1ee8-4474-b673-bab6c246693d_61addf23-9bb3-4f14-a1f7-dc9595a8a584.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "88aa33d4d863228d",
-   "title": "Taj at Delhi Airport, Ritz-Carlton in Hyderabad: Inside Chalet Hotels’ expansion plan to reach 5,500 rooms by FY30",
-   "link": "https://www.livemint.com/companies/news/taj-at-delhi-airport-ritz-carlton-in-hyderabad-inside-chalet-hotels-expansion-plan-to-reach-5-500-rooms-by-fy30-11788717105115.html",
-   "summary": "Chalet Hotels Ltd aims to reach 5,500 hotel keys by FY30, transitioning from a pure asset-ownership model to include third-party and franchise operations while focusing on the Athiva brand and maintaining its hospitality-first approach.",
-   "published": "2026-09-06T18:01:25+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Screenshot_2026-09-07_235311_1788806095785_ed4a04b4-6b11-4e4f-80f1-b34b6cdb9b45_1788806100647_7e675bdc-0faf-45e8-bb90-0351f4790c57_86bf60dc-9be8-4fde-8af1-39d03cfa7de6_e4d2cf78-bf23-4a4a-86b3-d51a9fb95173.png",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
