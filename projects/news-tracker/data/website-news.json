@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T10:30:13+00:00",
+ "generated_at": "2026-09-11T11:00:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T10:30:13+00:00"
+   "checked_at": "2026-09-11T11:00:16+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-11T10:30:13+00:00"
+   "checked_at": "2026-09-11T11:00:16+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 11 Sep 2026 09:28:00 GMT",
+   "sample_date": "Fri, 11 Sep 2026 10:57:52 GMT",
    "error": null,
-   "checked_at": "2026-09-11T10:30:13+00:00"
+   "checked_at": "2026-09-11T11:00:16+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T10:30:13+00:00"
+   "checked_at": "2026-09-11T11:00:16+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T10:30:13+00:00"
+   "checked_at": "2026-09-11T11:00:16+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,50 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "e63549d294ec7e4d",
+   "title": "Flipkart Brings AI Agents to Automate Online Shopping",
+   "link": "https://startuptalky.com/news/flipkart-brings-ai-agents/",
+   "summary": "Flipkart’s finance platform Super.money is introducing AI agents capable of shopping on Flipkart themselves and buying gold when prices hit certain levels. The company aims to expand these agents to bill payments and investments, giving 20% of its IT budget to agentic AI.",
+   "published": "2026-09-11T10:57:52+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/flipkart-brings-ai-agents-Startuptalky.jpg",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-11T11:00:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2430f33991618bfa",
+   "title": "NSE sets IPO price band at Rs 1,700-1,785; issue to open on September 17",
+   "link": "https://yourstory.com/2026/09/nse-sets-ipo-price-band-at-rs-1700-1785-issue-to-open-on-sep-17",
+   "summary": "The Rs 22,569-crore IPO will be the country's second-largest public issue after Hyundai Motor India's Rs 27,870-crore IPO. It will be entirely an offer for sale of up to 12.64 crore equity shares by existing shareholders.",
+   "published": "2026-09-11T10:50:25+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-11T11:00:16+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "2d1e9fe78e8aac41",
    "title": "Pizza Bakery founders Popo Global raise Rs 532 Cr from Artal Asia",
