@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T16:00:09+00:00",
+ "generated_at": "2026-09-11T16:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
+   "fetched": 5,
    "items": 0,
-   "sample_date": "Mon, 10 Apr 2017 05:09:11 GMT",
+   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 21:19:43 +0530",
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 21:18:14 +0530",
+   "sample_date": "Fri, 11 Sep 2026 21:36:23 +0530",
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 21:25:15 +0530",
    "error": null,
-   "checked_at": "2026-09-11T16:00:09+00:00"
+   "checked_at": "2026-09-11T16:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "f376bd6181ccd591",
+   "title": "Fed September meeting: Hike rates to fight inflation or heed Trump’s call for cuts — what should Kevin Warsh do?",
+   "link": "https://www.livemint.com/market/fed-september-meeting-hike-to-fight-inflation-or-heed-trump-s-call-for-cuts-what-should-kevin-warsh-do-11789139960578.html",
+   "summary": "Federal Reserve Chair Kevin Warsh faces pressure from President Trump to cut rates while inflation data suggests a rate hike is necessary. Markets now estimate a 91% chance of a hike, complicating Warsh's balancing act between credibility and political pressure.",
+   "published": "2026-09-11T16:06:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Fed_1789142586529_f38f0193-1251-4bc0-9a52-2d421e1827fd_1789142586832_2928dc45-b8e8-4485-be02-7206b684c890_7660c872-5c24-475a-ab09-11570c98c554_14cede8f-a3f0-42d0-9f41-4d34a4419799.JPG",
+   "topics": [],
+   "first_seen": "2026-09-11T16:30:09+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "fc2a68eef169191a",
    "title": "SWP: Here's how to generate ₹50,000 per month as steady income while keeping your corpus invested",
@@ -11562,24 +11582,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1788706584988_d4ee488c-d718-40f8-9fc3-bd60edb2eb7a_cbf49480-ac3c-42ad-9812-aa5ea25673a5_84c1d1c5-7a78-4247-9bba-4abbe94357e1.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b078f27fc79b8e12",
-   "title": "Can going slow on IPOs revive India’s stock market fortunes?",
-   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNGVleXpBVGZQR2ZPTWFERVhDWXJ3QzBWTG03TXMtRFVzNU1Gejdob2dCWmZsd0FrN3l4VEFUWHh1Wjh3ZnNnM3F1dy1oU0R1R3BrUnZiWlJ6eEtPR1BlMzZ6QWpvQVI5MnRNaG1MaVppNm1uSURLR3dvQnl2WlUzOXRqY2pVWjNJU2NESFc5YmFwVUhfaThFUnJKc1Jkc0Q2bDJQbjNxU25ESWNuUW8tQnJ6NTlvTmNDcks2bXNzeFVFWHgxTVExdjdrRHNIT1NoMndYZmhZUk9KYVpjX1EyTlFQV3REbmlPUnYtMzg2Ql82aGFyS2piRTBkZFU3bHhyeUdwSGxIQWFhVGxzNVRvTksxbGt4Um55S2RlMTJRT0dZT055VWFBV0dBU01EUFJIbnp2Wmc1OGczYXRhVm1mSXV30gHeAUFVX3lxTFBFNjM5WkQ0TElDOGY4S3lpNk9qMGNVOFo1SVRNVmpMalhfOW13OWZoT3lPb1c1cTVleXkweWQ1Nkh5a01wQ0JnOTlXelpha0h1MG5xb2JqNW1vYlBMeHVXQ1FUWWZKMTdwTHhiekluODFHeEpYdzRfb3d3eHRZUXBQQ3ptYmJYUGxpZUFvQVpsdnJLZFJETmRCcDFqbC1mRXJGMkxvMlFIcC00emNndTFFTnhDVWxtN2FkUnRGWm02emdOcGhrdWdSd1VmUG1hTVhFSmo0MVB1ZG43LXRNdw?oc=5",
-   "summary": "",
-   "published": "2026-09-06T22:30:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
