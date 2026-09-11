@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T13:30:08+00:00",
+ "generated_at": "2026-09-11T14:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 15:23:23 GMT",
+   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 22,
-   "items": 22,
+   "fetched": 21,
+   "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
+   "sample_date": "Fri, 11 Sep 2026 13:32:54 +0000",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "a0079c3c10407c5a",
+   "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+   "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+   "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+   "published": "2026-09-11T13:32:54+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T14:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "45045b70576f61e1",
+   "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
+   "link": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
+   "summary": "The Navi founder said access to AI will become less of a differentiator as the technology gets easier to use.",
+   "published": "2026-09-11T13:26:10+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T14:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1e3ad698f0a677d8",
    "title": "Ultraviolette to Invest INR 779 Crore in Tamil Nadu EV Manufacturing Plant",

@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T13:30:08+00:00",
+ "generated_at": "2026-09-11T14:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 18:01:27 +0530",
+   "sample_date": "Fri, 11 Sep 2026 19:01:58 +0530",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 18:45:08 +0530",
+   "sample_date": "Fri, 11 Sep 2026 19:24:20 +0530",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 18:51:55 +0530",
    "error": null,
-   "checked_at": "2026-09-11T13:30:08+00:00"
+   "checked_at": "2026-09-11T14:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "41c1f7c2bfc51784",
+   "title": "US stocks rebound as oil prices ease, inflation data steadies market sentiment",
+   "link": "https://www.livemint.com/market/us-stocks-rebound-as-oil-prices-ease-inflation-data-steadies-market-sentiment-11789132216174.html",
+   "summary": "The Dow Jones Industrial Average rose 0.27%, the S&amp;P 500 rose 0.59%, the Nasdaq Composite rose 0.80%",
+   "published": "2026-09-11T13:54:20+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/nyse3_1789132732918_f6f6d4e1-21eb-4585-bea9-2d7d3751cd44_1789132750320_a1da3ff2-d75e-4d30-913c-187994364140_daac5392-0962-4f85-89c3-ca605d1c9fb7_46d9706c-6317-4029-8ba4-5eced5d7ebd6.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T14:00:08+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
+  {
+   "id": "ced376dfd7f9d2cf",
+   "title": "Reserve Bank of India announces ₹1 lakh crore OMO sale in 3 tranches to boost liquidity",
+   "link": "https://www.livemint.com/market/stock-market-news/reserve-bank-of-india-announces-rs-1-lakh-crore-omo-sale-in-3-tranches-to-boost-liquidity-11789133633537.html",
+   "summary": "The RBI will conduct Open Market Operation sale auctions of ₹1 lakh crore in three tranches to address liquidity conditions, with the first auction of ₹50,000 crore set for September 17, and two follow-up auctions on September 21 and 28.",
+   "published": "2026-09-11T13:45:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/PTI08-06-2025-000137A-0_1759491574933_175949159060_1789134024730_4037f3c1-9b87-46fe-98d4-6e4a25985b11_1789134024959_c679df40-b97c-44bb-8c8d-6951ccd7b88d_32a476ab-36d7-4c47-9dce-a8399f322614_fa9a9c85-baa5-4b43-abcd-5433c8522e48.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-11T14:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7978ccf286eaa2fa",
+   "title": "Meta’s Muse $20 vs $100 AI plans: How much revenue can its paid AI agent really generate?",
+   "link": "https://www.livemint.com/companies/news/metas-muse-20-vs-100-ai-plans-how-much-revenue-can-its-paid-ai-agent-really-generate-11789130248665.html",
+   "summary": "Meta's new AI agent, launched on September 8, offers paid subscription plans of $20 and $100 monthly, but revenue remains small compared to its advertising earnings. The focus is on heavy users, while most will likely use the free tier.",
+   "published": "2026-09-11T13:31:58+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/maxresdefault_1789133394514_e8c94fa0-004e-4829-984d-f9d2cdc99a68_1789133394730_edd191de-3395-464c-aefa-2974ded6e572_6a377930-2d71-43f7-9f25-d3a584381caa_62f5da51-9add-42ab-bcf1-6dc98c1c6003.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T14:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1da739456a9b7884",
    "title": "MahaRERA orders developer to refund homebuyers: 7 checks to make before booking a flat",
@@ -11519,62 +11577,6 @@
    "topics": [
     "Income tax"
    ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "049942dbce955c4d",
-   "title": "Power of attorney holder slapped with ₹29 lakh LTCG tax after property sale: ITAT decides who should pay",
-   "link": "https://www.livemint.com/money/personal-finance/holding-a-power-of-attorney-doesnt-make-you-the-owner-heres-why-itat-deleted-29-lakh-ltcg-tax-on-son-11788711228576.html",
-   "summary": "A recent ITAT ruling has raised an important question for property transactions. Does holding a power of attorney make you liable for capital gains tax when the property is sold? The case draws a clear line between the authority to sell a property and ownership.",
-   "published": "2026-09-06T17:10:58+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/itata_tax_son_1788713303131_179ed817-12b7-459e-a1bc-e5b3b16082f9_1788713318238_ef96a426-22ad-49c4-89f5-b7934e8fbf76_e2ab57cd-c32d-478a-ae06-3539a6d340b2_84b01d67-da6b-4f29-bbb7-c6aab8a148ef.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "83009c47c504fa4b",
-   "title": "Can you stop NPS contributions? What happens to your money, returns and tax benefits",
-   "link": "https://www.livemint.com/money/personal-finance/can-you-stop-nps-contributions-what-happens-to-your-money-returns-and-tax-benefits-11788711180184.html",
-   "summary": "An NPS subscriber can discontinue fresh contributions for a few months or even several years. However, stopping contributions does not mean that the money already accumulated in the account is withdrawn or stops generating returns",
-   "published": "2026-09-06T16:35:38+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/NPS_1788712462013_b4ddc866-a0e7-456f-83e2-039cabe23903_1788712462176_f8871788-55fd-4cd2-a13c-304336d9e822_e1f8b369-edec-4be8-8fb8-163fc02555a6_44150cbf-e5db-44d0-88d6-0830051c7465.png",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "01cff72c0adcd147",
-   "title": "5 investing choices that help your wealth grow even if markets don’t behave as per your expectations | Personal finance",
-   "link": "https://www.livemint.com/money/personal-finance/5-investing-choices-that-help-your-wealth-grow-even-if-markets-don-t-behave-as-per-your-expectations-personal-finance-11788710495421.html",
-   "summary": "Investing requires careful planning regarding purpose, timing and risk. Establishing specific financial goals and maintaining consistent contributions.&nbsp;",
-   "published": "2026-09-06T16:16:12+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/5_reasons_1788711117167_2026b182-f8bd-42f0-befa-d69a3eb82fd7_1788711123207_382b3755-ad9d-43f8-ae43-047d7999110d_83cdf129-3828-414c-8f52-f53d9d6ea448_5f4bce8c-0774-40a9-acd5-ad01c205de2f.jpg",
-   "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
