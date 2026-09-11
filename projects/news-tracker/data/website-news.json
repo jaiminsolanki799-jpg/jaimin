@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T03:30:12+00:00",
+ "generated_at": "2026-09-11T04:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T03:30:12+00:00"
+   "checked_at": "2026-09-11T04:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 02:00:00 GMT",
+   "sample_date": "Thu, 10 Sep 2026 09:58:34 GMT",
    "error": null,
-   "checked_at": "2026-09-11T03:30:12+00:00"
+   "checked_at": "2026-09-11T04:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 10 Sep 2026 14:55:05 GMT",
    "error": null,
-   "checked_at": "2026-09-11T03:30:12+00:00"
+   "checked_at": "2026-09-11T04:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 23,
-   "items": 23,
+   "fetched": 20,
+   "items": 20,
    "sample_date": "Wed, 09 Sep 2026 05:00:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T03:30:12+00:00"
+   "checked_at": "2026-09-11T04:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 22:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-11T03:30:12+00:00"
+   "checked_at": "2026-09-11T04:00:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "02a50a501a58806a",
+   "title": "Flipkart Minutes clocks 4X growth in two years, expands to more than 150 cities",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENTS2ViVWlVSGV4d0lWM3l2Q3VSWVhNRUVVOEV5WGZkS2lJdEZvYTM2MXhIVVNiN0hoM0VHZjNIMXhaMmcwX2h0ZHRjcV9SOTJEa09WZXB0UVU2ZmphZXBkT0NrSFp3YzIzRy1TbVAtQ0gxQ2JiSXk3aWY3N3dzdzR4RV9Uczc2TGZqMWhBandfZUhZdHczMkF2RzRwa2JOOUU5ZWlTNFBHNklWd0RyYW9hUdIBswFBVV95cUxQeENTS2ViVWlVSGV4d0lWM3l2Q3VSWVhNRUVVOEV5WGZkS2lJdEZvYTM2MXhIVVNiN0hoM0VHZjNIMXhaMmcwX2h0ZHRjcV9SOTJEa09WZXB0UVU2ZmphZXBkT0NrSFp3YzIzRy1TbVAtQ0gxQ2JiSXk3aWY3N3dzdzR4RV9Uczc2TGZqMWhBandfZUhZdHczMkF2RzRwa2JOOUU5ZWlTNFBHNklWd0RyYW9hUQ?oc=5",
+   "summary": "",
+   "published": "2026-09-11T03:55:06+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T04:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dcbf9f9ecdfc99ec",
+   "title": "Loss is change, & change is nature's greatest delight today",
+   "link": "https://yourstory.com/2026/09/loss-is-change",
+   "summary": "Explore how loss and change shape growth, resilience, and new beginnings through the wisdom of nature's constant transformation.",
+   "published": "2026-09-11T03:30:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T04:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "371f01991b5949bf",
    "title": "Stellar lineup at TechSparks 2026; How Jagriti is helping women build digital businesses",
