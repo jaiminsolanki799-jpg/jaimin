@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T19:30:16+00:00",
+ "generated_at": "2026-09-11T20:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T19:30:16+00:00"
+   "checked_at": "2026-09-11T20:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
+   "sample_date": "Fri, 11 Sep 2026 13:26:10 GMT",
    "error": null,
-   "checked_at": "2026-09-11T19:30:16+00:00"
+   "checked_at": "2026-09-11T20:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-11T19:30:16+00:00"
+   "checked_at": "2026-09-11T20:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T19:30:16+00:00"
+   "checked_at": "2026-09-11T20:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 19:00:00 +0000",
+   "sample_date": "Fri, 11 Sep 2026 19:35:54 +0000",
    "error": null,
-   "checked_at": "2026-09-11T19:30:16+00:00"
+   "checked_at": "2026-09-11T20:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "83e605502ca51c89",
+   "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+   "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+   "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+   "published": "2026-09-11T19:35:54+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Russell Brandom",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-11T20:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e6be10aaed13329c",
    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
@@ -344,7 +362,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -384,7 +402,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T11:30:11+00:00",
@@ -520,7 +538,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T09:30:13+00:00",
@@ -628,7 +646,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:30:12+00:00",
@@ -646,7 +664,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:00:09+00:00",
@@ -700,7 +718,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T05:00:11+00:00",
@@ -760,7 +778,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
@@ -1306,7 +1324,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1326,7 +1344,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1423,7 +1441,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
@@ -1441,7 +1459,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T13:00:12+00:00",
@@ -1611,7 +1629,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T10:30:11+00:00",
@@ -1777,7 +1795,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T07:30:10+00:00",
@@ -1849,7 +1867,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1871,7 +1889,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:30:11+00:00",
@@ -1930,7 +1948,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T05:00:11+00:00",
