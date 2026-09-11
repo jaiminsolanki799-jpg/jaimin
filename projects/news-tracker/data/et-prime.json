@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T09:00:12+00:00",
+ "generated_at": "2026-09-11T09:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 1,
-   "sample_date": "Mon, 07 Sep 2026 22:30:00 GMT",
+   "fetched": 6,
+   "items": 0,
+   "sample_date": "Fri, 04 Sep 2026 09:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 14:15:22 +0530",
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 14:23:18 +0530",
+   "sample_date": "Fri, 11 Sep 2026 14:56:12 +0530",
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 14:28:19 +0530",
+   "sample_date": "Fri, 11 Sep 2026 14:34:12 +0530",
    "error": null,
-   "checked_at": "2026-09-11T09:00:12+00:00"
+   "checked_at": "2026-09-11T09:30:13+00:00"
   }
  ],
  "topics": [
@@ -192,13 +192,89 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "2a304880c654e0fa",
+   "title": "Awfis Space Solutions share price jumps nearly 20% despite weak Sensex, Nifty 50; what should investors do now?",
+   "link": "https://www.livemint.com/market/stock-market-news/awfis-space-solutions-share-price-jumps-nearly-20-despite-weak-sensex-nifty-50-what-should-investors-do-now-11789116224331.html",
+   "summary": "Awfis Space Solutions shares surged nearly 20% on September 11 amid market pressure from rising crude oil prices and geopolitical tensions. The company reported a significant increase in net profit and revenue growth for the June quarter, driven by demand for flexible workspaces.",
+   "published": "2026-09-11T09:26:12+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Awfis_Space_Solutions_1789118599490_b9266505-face-4dcc-bd80-233420a19d48_1789118604485_2c222706-2eec-4149-b64e-e95b0f3d5f03_c218cae0-4774-43a5-9e72-6564d43caad2_a00ad07d-c40c-4f2e-bcfa-86830e8c5ad6.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-11T09:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "329164657f3738c2",
+   "title": "Small-cap tech stock under ₹50 jumps despite weak trends in the Indian stock market",
+   "link": "https://www.livemint.com/market/stock-market-news/smallcap-tech-stock-under-rs-50-kellton-tech-share-price-jumps-despite-weak-trends-in-the-indian-stock-market-11789115239285.html",
+   "summary": "Kellton Tech Solutions saw a 12% intraday spike despite broader market losses due to rising oil prices and concerns over US Treasury yields. However, the stock remains significantly below its 52-week high, reflecting ongoing pressure across various investment timeframes.",
+   "published": "2026-09-11T09:14:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/kellton_1789116441830_897e6094-b925-49fd-9855-4468fd9ca554_1789116454236_60a0e783-ef35-4fd7-b9d2-f771cd16d729_26d9ba2c-c5cd-464c-b4a6-a4ccf8ee66e2_35b1eda4-4883-4323-a6f3-a6ac49f6d795.png",
+   "topics": [],
+   "first_seen": "2026-09-11T09:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "49d794fac02f96bb",
+   "title": "8th Pay Commission: How Level 6 basic salary may double in 7 years after DA merger; calculations explained",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-level-6-basic-salary-may-double-in-7-years-after-da-merger-calculations-explained-11789113923424.html",
+   "summary": "8th Pay Commission: A proposed merger of DA with basic pay could boost central government employees’ salaries. Here’s how a hypothetical fitment factor of 2.1, 7% annual increments and DA revisions may impact Level 6 pay by 2033.",
+   "published": "2026-09-11T09:04:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/c856d7af-d4d7-4c59-83dc-625bd7e27f12_1789114255090_b0d1efd4-b89f-4d70-aff2-a103446a8f2d_1789114281379_0c140f58-2db1-4a27-ac6e-cc144fc4f857_2f061067-f371-4445-9614-999d29abe223_ab93c3a0-e574-4285-aa55-8842ed0e23db.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-11T09:30:13+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "2a441c85c2c95c0b",
+   "title": "V2 Retail’s rapid expansion plans must be backed by improving store economics",
+   "link": "https://www.livemint.com/market/mark-to-market/v2-retail-store-v2-retail-share-price-apparel-industry-india-11789113536198.html",
+   "summary": "Investors should closely track if V2's rapid expansion is translating into improving store economics or if the pace of expansion is faster than pace of stores maturing.",
+   "published": "2026-09-11T08:59:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/g06f582d07f6a05628b4306ed749cf431a861488c5d6fd53e2_1738215912990_1789116827213_36404ac6-5243-4031-8b48-9316891a44d5_2bfd1f2e-af48-430f-aee2-130d6955231a_b6b1f836-7886-494b-b226-903c35f7ad2b.jpg",
+   "topics": [],
+   "first_seen": "2026-09-11T09:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e48f4ccc032b4001",
    "title": "Does frequent buying and selling hurt returns? Coffee Can Investing fame Saurabh Mukherjea answers in Mint Extraclass",
    "link": "https://www.livemint.com/money/personal-finance/does-frequent-buying-and-selling-hurt-returns-coffee-can-investing-fame-saurabh-mukherjea-answers-in-mint-extraclass-11789109000681.html",
-   "summary": "Frequent buying and selling of stocks may reduce gains, according to an expert. He advocates for long-term investment strategies, demonstrating that fewer trades often lead to better performance. Here's how to assess whether to hold a stock or not.",
+   "summary": "Saurabh Mukherjea, author, founder and Chief Investment Officer, Marcellus Investment Managers, in an interview with ‘Mint Extraclass’, says frequent buying and selling of stocks may reduce gains. He advocates for long-term investment strategies, saying fewer trades lead to better performance.&nbsp;",
    "published": "2026-09-11T08:58:19+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -214,7 +290,7 @@
   },
   {
    "id": "e9a04d3e5d4d15fa",
-   "title": "BSE share price fall 3% - Is it impact of NSE IPO price band announcement? Experts decode",
+   "title": "BSE share price falls 3% - Is it impact of NSE IPO price band announcement? Experts decode",
    "link": "https://www.livemint.com/market/stock-market-news/bse-share-price-fall-3-is-it-impact-of-nse-ipo-price-band-announcement-experts-decode-11789114062988.html",
    "summary": "BSE share price today opened at ₹3,280 apiece on the BSE and touched an intraday low of ₹3,193.20 per share during the Friday dealings, logging nearly 3% intraday dip",
    "published": "2026-09-11T08:53:18+00:00",
@@ -11477,78 +11553,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/maxresdefault_1788774714480_d2863ba7-eebb-4844-9308-44a3a4e49306_1788774719591_e85e5e39-c85f-4790-8049-6c4631610cd3_2d5d8b3e-40e7-4053-9686-f2148025fe95_6a2001e2-b09d-4668-b285-071d4be1779f.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0f9453d18a5a4eaf",
-   "title": "SBI to hire 12,000 employees, add 250 branches in FY27, says State Bank of India's chairman CS Setty",
-   "link": "https://www.livemint.com/companies/news/sbi-to-hire-12-000-employees-add-250-branches-in-fy27-says-state-bank-of-indias-chairman-cs-setty-11788678529774.html",
-   "summary": "State Bank of India (SBI) intends to hire about 12,000 employees and add around 250 new branches to its network in the ongoing financial year, said C S Setty, Chairman of the country's biggest lender.",
-   "published": "2026-09-06T07:17:52+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/CS_Setty_1788678645001_5056bb97-25e9-4fb7-a078-0d0eb2d14c21_1788678650790_f5f5f6e1-3f4a-4582-8a40-c53a18d9aff8_184b039c-6559-4bf5-be50-44546934ce53_6e9bced7-13a4-49e0-af8e-ade274a7d93b.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a25f8c1ecbba2375",
-   "title": "From sponsorships to storytelling: how ITC Foods is going local with festivals",
-   "link": "https://www.livemint.com/companies/itc-foods-festive-season-durga-puja-rath-yatra-advertising-marketing-11788637774293.html",
-   "summary": "The festive season is an important advertising period for all consumer companies. But as regional festivals become more popular, not just in their home states but across the country, brands are trying to find ways to be present as authentically as possible.&nbsp;",
-   "published": "2026-09-06T07:02:23+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Shuvadip_Banerjee_chief_marketing_officer_of_ITC_F_1788685586582_f11aa00a-4902-4df5-a059-17dffd70b32c_1788685586736_292c5051-06ed-47c7-9a4a-b5e600db108b_c3c7a7da-e8b0-4c1e-8dc3-c8c179dae985_77488524-c8c5-4029-8f34-6c1d839c22fa.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a6450de629aa41cd",
-   "title": "Not just Adobe's new CEO Anil Chakravarthy, meet Indian-origin C-Suite leaders heading top global companies — Profiles",
-   "link": "https://www.livemint.com/companies/people/not-just-adobes-new-ceo-anil-chakravarthy-meet-indian-origin-c-suite-leaders-heading-top-global-companies-profiles-11788670611164.html",
-   "summary": "From Big Tech stalwarts like Microsoft and Alphabet to legacy conglomerates across logistics and consumer goods, check out the Indian-origin C-suite leaders heading the world’s biggest companies",
-   "published": "2026-09-06T06:23:49+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Untitled_design_1788672260614_5e35d49b-d32a-4491-9fdf-b0ba14de8734_1788672268508_9123e32d-9791-463a-8dd2-51c1b81626ee_4f96a687-e602-46c8-a4f1-050eb782ea69_0d0ab571-b1cf-423d-9cce-aa0402ef48dd.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b006cc7a6b48c877",
-   "title": "CIL offers additional coal to power plants as stocks decline: Here's what led to critically low levels",
-   "link": "https://www.livemint.com/companies/news/cil-offers-additional-coal-to-power-plants-as-stocks-decline-heres-what-led-to-critically-low-levels-11788673042864.html",
-   "summary": "Coal India has offered additional coal to power plants amid critically low stocks, with prolonged rains disrupting mining and transportation. As rainfall eases, production and coal evacuation are expected to improve.",
-   "published": "2026-09-06T05:48:39+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Coal_India-coal-stock_fuel_1788673499881_669c3fd0-b2ba-44d7-a5bd-2878e02dd04b_1788673500023_451b87ec-4424-4e3f-bcbb-a62157d390ac_9c5464e7-c8a9-49c1-8f32-1e28f0bb31c1_73d7cd99-9306-4894-bf74-a87f2890be36.jpg",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
