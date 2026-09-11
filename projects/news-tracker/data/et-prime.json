@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-11T16:30:09+00:00",
+ "generated_at": "2026-09-11T17:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 3,
    "items": 0,
-   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
+   "sample_date": "Mon, 10 Apr 2017 05:09:11 GMT",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 11 Sep 2026 21:19:43 +0530",
+   "sample_date": "Fri, 11 Sep 2026 22:08:29 +0530",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 21:36:23 +0530",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 11 Sep 2026 21:25:15 +0530",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "39c6a702184f5011",
+   "title": "Colgate-Palmolive explores sale of three personal care brands in $1 bn plus deal: Report",
+   "link": "https://www.livemint.com/companies/news/colgatepalmolive-explores-sale-of-three-personal-care-brands-in-1-bn-plus-deal-report-11789143028717.html",
+   "summary": "Colgate-Palmolive is exploring the sale of mass-market personal care brands like Softsoap and Irish Spring to focus on its core portfolio. The potential sales could exceed $1 billion, with Goldman Sachs assisting in the process, as companies adapt to economic pressures.",
+   "published": "2026-09-11T16:38:29+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/2-0-400420138-colgate-palmolive-0_1680669721634_1789144359847_03a44a27-26a7-4aff-ae68-4ac62de481a0_1896058d-c269-4ea0-bbc9-25da22c8394f_f4f8ee94-a140-41e3-b2bd-8f9678f841cd.JPG",
+   "topics": [],
+   "first_seen": "2026-09-11T17:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f376bd6181ccd591",
    "title": "Fed September meeting: Hike rates to fight inflation or heed Trump’s call for cuts — what should Kevin Warsh do?",
@@ -11564,24 +11582,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Amara_Raja_Family_1694454655939_1788703542216_05ab32a1-f589-4839-8ba7-1ffa3824e1cb_5f38562b-94c9-4096-857f-4ccbdf3119d1_ff4bdeb3-b652-400b-bc29-eca9be806cf1.jpg",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "35024253a7e18abe",
-   "title": "An email throws up fresh questions on Tata Sons' clean chit to top exec",
-   "link": "https://www.livemint.com/companies/news/tata-trusts-tata-sons-group-company-secretary-suprakash-mukhopadhyay-11788684881220.html",
-   "summary": "A previously unreported email detailing Tata Sons group company secretary Suprakash Mukhopadhyay's role in soliciting an investment for his family’s wealth-advisory business raises questions over whether the internal probe that cleared him before was thorough enough and examined all relevant details",
-   "published": "2026-09-07T00:15:17+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1788706584988_d4ee488c-d718-40f8-9fc3-bd60edb2eb7a_cbf49480-ac3c-42ad-9812-aa5ea25673a5_84c1d1c5-7a78-4247-9bba-4abbe94357e1.jpg",
    "topics": [],
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,

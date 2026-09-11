@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-11T16:30:09+00:00",
+ "generated_at": "2026-09-11T17:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 09:33:42 GMT",
+   "sample_date": "Fri, 11 Sep 2026 10:50:25 GMT",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 21,
    "sample_date": "Thu, 10 Sep 2026 04:40:24 GMT",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 15:19:00 +0000",
+   "sample_date": "Fri, 11 Sep 2026 16:46:25 +0000",
    "error": null,
-   "checked_at": "2026-09-11T16:30:09+00:00"
+   "checked_at": "2026-09-11T17:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "b8f06fc0f83627df",
+   "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+   "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+   "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+   "published": "2026-09-11T16:46:25+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-11T17:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "e6be10aaed13329c",
    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
@@ -111,7 +133,7 @@
   },
   {
    "id": "32dab8dab57e6ade",
-   "title": "Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster",
+   "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
    "published": "2026-09-11T15:19:00+00:00",
