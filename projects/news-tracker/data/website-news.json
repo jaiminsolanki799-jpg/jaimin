@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-12T07:00:13+00:00",
+ "generated_at": "2026-09-12T07:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
+   "sample_date": "Sat, 12 Sep 2026 03:00:00 GMT",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 17,
-   "items": 17,
+   "fetched": 16,
+   "items": 16,
    "sample_date": "Fri, 11 Sep 2026 05:32:10 GMT",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 11 Sep 2026 22:58:17 +0000",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   }
  ],
  "topics": [
@@ -84,7 +84,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T06:30:11+00:00",
@@ -604,7 +604,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -644,7 +644,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T11:30:11+00:00",
@@ -780,7 +780,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T09:30:13+00:00",
@@ -888,7 +888,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:30:12+00:00",
@@ -906,7 +906,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T06:00:09+00:00",
@@ -960,7 +960,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T05:00:11+00:00",
@@ -1002,7 +1002,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T04:00:09+00:00",
@@ -1512,7 +1512,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1532,7 +1532,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T14:30:11+00:00",
@@ -1629,7 +1629,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
@@ -1647,7 +1647,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T13:00:12+00:00",
@@ -1817,7 +1817,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T10:30:11+00:00",

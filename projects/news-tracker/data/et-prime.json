@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-12T07:00:13+00:00",
+ "generated_at": "2026-09-12T07:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 12:25:28 +0530",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 12:26:33 +0530",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 12:12:54 +0530",
+   "sample_date": "Sat, 12 Sep 2026 12:44:39 +0530",
    "error": null,
-   "checked_at": "2026-09-12T07:00:13+00:00"
+   "checked_at": "2026-09-12T07:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "20d09ab98d7ad783",
+   "title": "Hawkins Cookers FD opens on September 16; Know interest rates, minimum deposit required and other details",
+   "link": "https://www.livemint.com/money/personal-finance/hawkins-cookers-fd-opens-on-september-16-know-interest-rates-minimum-deposit-required-and-other-details-11789187679745.html",
+   "summary": "Hawkins Cookers will launch a fixed deposit scheme on September 16, with interest rates up to 8% for a 36-month tenure. Check full details of the offering here.",
+   "published": "2026-09-12T07:14:39+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/hawkins_fd_second_1789197246317_b614cbfb-db80-4eeb-be06-9539fe786787_1789197252081_ba2dfbb2-3500-4e23-a630-00cc1d512bab_3e25b8c7-fa69-43f4-af9b-6b9e87c78d55_72d17df3-70cd-4b4b-9760-2d1d02075616.png",
+   "topics": [],
+   "first_seen": "2026-09-12T07:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ff999ff1348f7f24",
    "title": "ET Prime special: Know Your Company – Coal India, Part 1: One tonne of coal, two prices",
@@ -11553,26 +11571,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "469e73ac4bfcd5a5",
-   "title": "Consultant mistakenly opted taxpayer for old tax regime, triggering ₹1.23 lakh demand: ITAT gives relief",
-   "link": "https://www.livemint.com/money/personal-finance/consultant-mistakenly-opted-taxpayer-for-old-tax-regime-triggering-1-23-lakh-demand-itat-gives-relief-11788760147465.html",
-   "summary": "A Bengaluru taxpayer faced a ₹1.23 lakh tax demand after his consultant mistakenly filed Form 10-IEA for the old tax regime. ITAT Bangalore accepted the new regime chosen in his ITR and directed the tax authorities to recompute his liability.",
-   "published": "2026-09-07T06:12:30+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Gemini_Generated_Imge_5ohw8e5ohw8e5ohw_1788761457_1788761469734_2354eba7-4ba2-4c00-becd-ebe151ebc477_1788761469908_cc47ee33-57f3-43fa-b29a-927321e07ab6_a00f5faf-326b-47e6-8cf1-3c120a1ec8ce_b307f573-e108-4ac8-b20f-76db3a615eec.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
