@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-12T19:30:09+00:00",
+ "generated_at": "2026-09-12T20:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:30:09+00:00"
+   "checked_at": "2026-09-12T20:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 08:16:06 GMT",
+   "sample_date": "Sat, 12 Sep 2026 15:11:14 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:30:09+00:00"
+   "checked_at": "2026-09-12T20:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 12 Sep 2026 13:23:36 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:30:09+00:00"
+   "checked_at": "2026-09-12T20:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Fri, 11 Sep 2026 04:40:20 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:30:09+00:00"
+   "checked_at": "2026-09-12T20:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 19:21:19 +0000",
+   "sample_date": "Sat, 12 Sep 2026 19:34:44 +0000",
    "error": null,
-   "checked_at": "2026-09-12T19:30:09+00:00"
+   "checked_at": "2026-09-12T20:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "7658eb64cf663b96",
+   "title": "Anthropic CEO outlines plan to slow AI development",
+   "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+   "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+   "published": "2026-09-12T19:34:44+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-12T16:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "94903067997a1428",
    "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
@@ -124,24 +142,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7658eb64cf663b96",
-   "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-   "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-   "summary": "What would it actually look like to \"pace the frontier\"?",
-   "published": "2026-09-12T15:52:11+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Anthony Ha",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T16:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
