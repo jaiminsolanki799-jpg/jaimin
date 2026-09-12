@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-12T19:00:09+00:00",
+ "generated_at": "2026-09-12T19:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:00:09+00:00"
+   "checked_at": "2026-09-12T19:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 15:11:14 GMT",
+   "sample_date": "Sat, 12 Sep 2026 08:16:06 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:00:09+00:00"
+   "checked_at": "2026-09-12T19:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 12 Sep 2026 13:23:36 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:00:09+00:00"
+   "checked_at": "2026-09-12T19:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Fri, 11 Sep 2026 04:40:20 GMT",
    "error": null,
-   "checked_at": "2026-09-12T19:00:09+00:00"
+   "checked_at": "2026-09-12T19:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 15:52:11 +0000",
+   "sample_date": "Sat, 12 Sep 2026 19:21:19 +0000",
    "error": null,
-   "checked_at": "2026-09-12T19:00:09+00:00"
+   "checked_at": "2026-09-12T19:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "94903067997a1428",
+   "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+   "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+   "summary": "Tesla’s halo sports car was first announced in November 2017.",
+   "published": "2026-09-12T19:21:19+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-12T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dc81b1eefa7b3b07",
    "title": "- The CapTable",
