@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-12T20:00:10+00:00",
+ "generated_at": "2026-09-12T20:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 15:11:14 GMT",
+   "sample_date": "Fri, 11 Sep 2026 04:06:15 GMT",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 12 Sep 2026 13:23:36 GMT",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 14,
    "items": 14,
-   "sample_date": "Fri, 11 Sep 2026 04:40:20 GMT",
+   "sample_date": "Fri, 24 Apr 2020 02:21:50 GMT",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 19:34:44 +0000",
+   "sample_date": "Sat, 12 Sep 2026 20:19:16 +0000",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "e82b8a9af4fda703",
+   "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+   "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+   "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+   "published": "2026-09-12T20:19:16+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-12T20:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7658eb64cf663b96",
    "title": "Anthropic CEO outlines plan to slow AI development",
@@ -106,6 +126,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "27475406f5797668",
+   "title": "Foodtech - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZUVFQ2dadGRaak5CeThZeW1Cc19oVUZYZHZpUU5YaDdqbDNCUmJTVWcwOWFhVzBoeWhyb0ZkbWFDYzFoX1ZBeWpIbEhPcGU4elJ3NzAwOA?oc=5",
+   "summary": "",
+   "published": "2026-09-12T18:13:08+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1510,24 +1548,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T15:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "27475406f5797668",
-   "title": "Foodtech - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZUVFQ2dadGRaak5CeThZeW1Cc19oVUZYZHZpUU5YaDdqbDNCUmJTVWcwOWFhVzBoeWhyb0ZkbWFDYzFoX1ZBeWpIbEhPcGU4elJ3NzAwOA?oc=5",
-   "summary": "",
-   "published": "2026-09-10T15:17:02+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },

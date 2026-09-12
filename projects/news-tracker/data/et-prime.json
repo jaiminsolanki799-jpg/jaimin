@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-12T20:00:10+00:00",
+ "generated_at": "2026-09-12T20:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 21:46:49 +0530",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 20:54:23 +0530",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 23:54:39 +0530",
    "error": null,
-   "checked_at": "2026-09-12T20:00:10+00:00"
+   "checked_at": "2026-09-12T20:30:12+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0e9f1d8e441b37bc",
+   "title": "AI threat to India mkts may be fading, but another lurks",
+   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/death-of-easy-money-what-rajans-fed-role-means-for-india/primearticleshow/132687218.cms",
+   "summary": "",
+   "published": "2026-09-12T20:30:12+00:00",
+   "source": "ET Prime: Economy & policy",
+   "group": "ET Prime",
+   "category": "Economy & policy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-12T20:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0fd61b845d830e6d",
    "title": "AI is powering US GDP: Why India cannot afford to be left behind",
@@ -11529,24 +11547,6 @@
    "id": "b536a74c188c46a8",
    "title": "FCNR (B) scheme garners USD65 bn, but why isn't the rupee gaining?",
    "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/fcnr-b-scheme-garners-usd65-bn-but-why-isnt-the-rupee-gaining/primearticleshow/133443534.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime: Economy & policy",
-   "group": "ET Prime",
-   "category": "Economy & policy",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "81c36138590a0112",
-   "title": "Rupee is stabilising, but another currency risk is staring at India Inc",
-   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/rupee-is-stabilising-but-another-currency-risk-is-staring-at-india-inc/primearticleshow/133108692.cms",
    "summary": "",
    "published": "2026-09-07T09:31:50+00:00",
    "source": "ET Prime: Economy & policy",
