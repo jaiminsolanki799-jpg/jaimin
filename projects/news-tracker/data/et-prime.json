@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-12T13:00:09+00:00",
+ "generated_at": "2026-09-12T13:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 16:25:47 +0530",
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 17:03:09 +0530",
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 17:22:16 +0530",
+   "sample_date": "Sat, 12 Sep 2026 18:41:01 +0530",
    "error": null,
-   "checked_at": "2026-09-12T13:00:09+00:00"
+   "checked_at": "2026-09-12T13:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "f19984fc5d9b6f57",
+   "title": "Credit card limit ₹3 lakh, usage ₹50,000: How unused credit can help your credit score and finances",
+   "link": "https://www.livemint.com/money/personal-finance/credit-card-limit-3-lakh-usage-50-000-how-unused-credit-can-help-your-credit-score-and-finances-11788979211578.html",
+   "summary": "A ₹3 lakh credit card limit with ₹50,000 usage keeps credit utilisation at about 16.7%. An expert explains how low utilisation can support your credit profile, provide an emergency cushion, and encourage disciplined borrowing and repayment.",
+   "published": "2026-09-12T13:11:01+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/credit_card_limit_1788979786402_f728967a-d9fa-450e-b287-d5524503b12c_1788979786562_e0b0918c-c016-413f-ae1c-644f08c2ff91_6bb39485-c3b5-444c-ad66-4a9cc2af2303_a96ac033-8375-4649-8fb3-2ef24224b407.png",
+   "topics": [],
+   "first_seen": "2026-09-12T13:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2e368359dfd81a99",
+   "title": "8th pay commission: Pension revision, minimum pension, dearness relief, pension commutation—Top 12 demands by pensioners",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pension-revision-minimum-pension-dearness-relief-pension-commutation-dr-ops-top-12-demands-pensioners-11789214013990.html",
+   "summary": "8th pay commission: From pension revision to minimum pension and dearness relief (DR), pension commutation, and OPS — Here are the top 12 demands made by pensioners during the consultation stage so far.",
+   "published": "2026-09-12T13:01:40+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Screenshot_2023-04-24_141911_1682326228015_1789218047631_9902c0dc-1d0d-43a4-9752-6e011fc685d4_a469d75f-3fa9-4ac7-af62-cda452a6ed5d_d5b96123-229d-4931-9179-b07ec99d19d2.png",
+   "topics": [],
+   "first_seen": "2026-09-12T13:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f9270907a64ae683",
    "title": "DA news update: Andhra Pradesh sanctions two dearness allowance instalments — When will employees get arrears?",
@@ -11527,46 +11563,6 @@
    "valuation_signals": [
     "Funding",
     "PE / VC"
-   ]
-  },
-  {
-   "id": "a72fd6fbb58f279d",
-   "title": "HUL is resetting its growth playbook. Investors want proof",
-   "link": "https://www.livemint.com/market/mark-to-market/hul-growth-strategy-new-india-fmcg-premiumization-11788765124179.html",
-   "summary": "Hindustan Unilever is sharpening its portfolio, investing more and widening its margin range, but has offered no timeline for the growth revival investors are waiting for.",
-   "published": "2026-09-07T08:30:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Hindustan_Unilever_1689875893643_1788769515854_2c8c9937-14b1-4429-b9ce-c39175672937_beb302c9-a4ef-46ca-9450-fe89c37e2693_5bcac3c1-6004-414a-b631-524b7908170d.JPG",
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7fdacabc5db591ac",
-   "title": "Deepa Jewellers IPO listing date tomorrow: GMP at ₹23.5; check subscription, allotment",
-   "link": "https://www.livemint.com/market/ipo/deepa-jewellers-ipo-listing-date-tomorrow-gmp-at-rs-23-5-check-subscription-allotment-11788766311514.html",
-   "summary": "Deepa Jewellers IPO shares are set to list on 8 September after strong subscription rates from various investor segments. The IPO's grey market premium suggests a promising debut, with an expected listing price of ₹200.5—about 13.28% above the upper IPO price of ₹177.",
-   "published": "2026-09-07T08:16:41+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Deepa_Jewellers_IPO_1788768731129_7f52b443-64b9-4cfd-af8b-17dc70225d23_1788768737474_8edbdbb8-fdef-4253-a30a-e8890fd8d320_adadc8d1-96d7-4d57-9f1d-093942a0b5e7_2869a676-a174-428a-969d-5e3d6cc0a863.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
    ]
   }
  ]
