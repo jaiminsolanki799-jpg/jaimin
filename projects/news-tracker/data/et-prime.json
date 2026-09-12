@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-12T17:00:08+00:00",
+ "generated_at": "2026-09-12T17:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 21:46:49 +0530",
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 20:54:23 +0530",
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 21:42:14 +0530",
+   "sample_date": "Sat, 12 Sep 2026 22:40:03 +0530",
    "error": null,
-   "checked_at": "2026-09-12T17:00:08+00:00"
+   "checked_at": "2026-09-12T17:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "40dc83049469e0e6",
+   "title": "In a first, Airbus set to source Indian titanium for its planes",
+   "link": "https://economictimes.indiatimes.com/prime/transportation/in-a-first-airbus-set-to-source-indian-titanium-for-its-planes/primearticleshow/132659986.cms",
+   "summary": "",
+   "published": "2026-09-12T17:30:10+00:00",
+   "source": "ET Prime: Transportation",
+   "group": "ET Prime",
+   "category": "Transportation",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-12T17:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cddaf3b02bfbc8f8",
+   "title": "Atal Pension Yojana: Premature withdrawal rules and how to claim maturity payout amount, explained",
+   "link": "https://www.livemint.com/money/personal-finance/atal-pension-yojana-apy-premature-withdrawal-rules-steps-how-claim-maturity-payout-amount-explained-how-to-apply-guide-11789229504909.html",
+   "summary": "Administered by the Pension Fund Regulatory and Development Authority, the Atal Pension Yojana (APY) aims to create a universal social security system in India. Today, we check the rules for premature withdrawal and how to claim maturity payouts.",
+   "published": "2026-09-12T17:10:03+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/APY_1789232813732_18100854-fc6f-4cf4-a9f1-3012c26092ed_1789232827223_69d07c45-efb7-48d7-8729-2639cc9e08f9_14bc193c-61aa-497f-9df7-fb1373e092cd_8b913b60-e0c8-4f00-93de-ae5a3ac9cc93.png",
+   "topics": [],
+   "first_seen": "2026-09-12T17:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "de91d8fc9a0a502d",
    "title": "From survival to 193 mn subscribers: Is Vi finally making a comeback?",
@@ -11513,42 +11549,6 @@
    "id": "436d18d07cb8c66f",
    "title": "As IndiGo, Air India scramble for pilots, fresh headwinds hit hard",
    "link": "https://economictimes.indiatimes.com/prime/transportation/as-indigo-air-india-scramble-for-pilots-fresh-headwinds-hit-hard/primearticleshow/133512792.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime: Transportation",
-   "group": "ET Prime",
-   "category": "Transportation",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f3770a88be10aaaa",
-   "title": "Power shift, a déjà vu: Air India could be new CEO’s toughest flight yet",
-   "link": "https://economictimes.indiatimes.com/prime/transportation/power-shift-a-dj-vu-air-india-could-be-new-ceos-toughest-flight-yet/primearticleshow/133276657.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime: Transportation",
-   "group": "ET Prime",
-   "category": "Transportation",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "82adc59296581a0e",
-   "title": "More troubles brewing, is SpiceJet flying too close to the sun?",
-   "link": "https://economictimes.indiatimes.com/prime/transportation/more-troubles-brewing-is-spicejet-flying-too-close-to-the-sun/primearticleshow/132839484.cms",
    "summary": "",
    "published": "2026-09-07T09:31:50+00:00",
    "source": "ET Prime: Transportation",
