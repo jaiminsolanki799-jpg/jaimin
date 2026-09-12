@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-12T05:00:08+00:00",
+ "generated_at": "2026-09-12T05:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-12T05:00:08+00:00"
+   "checked_at": "2026-09-12T05:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 10 Sep 2026 14:38:47 GMT",
    "error": null,
-   "checked_at": "2026-09-12T05:00:08+00:00"
+   "checked_at": "2026-09-12T05:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 11 Sep 2026 13:19:50 GMT",
    "error": null,
-   "checked_at": "2026-09-12T05:00:08+00:00"
+   "checked_at": "2026-09-12T05:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 20,
-   "items": 20,
+   "fetched": 19,
+   "items": 19,
    "sample_date": "Fri, 11 Sep 2026 05:32:10 GMT",
    "error": null,
-   "checked_at": "2026-09-12T05:00:08+00:00"
+   "checked_at": "2026-09-12T05:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 11 Sep 2026 22:58:17 +0000",
    "error": null,
-   "checked_at": "2026-09-12T05:00:08+00:00"
+   "checked_at": "2026-09-12T05:30:11+00:00"
   }
  ],
  "topics": [
@@ -73,24 +73,6 @@
  ],
  "new_since_last_run": 5,
  "items": [
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-12T03:38:34+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
   {
    "id": "944ce2ac78bd1af6",
    "title": "Charm, warmth and design: Inside Slohh by Roach and Hilton’s Curio Collection",
@@ -1148,6 +1130,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-10T20:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-10T19:44:02+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
