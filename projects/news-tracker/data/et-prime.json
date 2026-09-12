@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-12T00:00:11+00:00",
+ "generated_at": "2026-09-12T00:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 12 Sep 2026 05:19:39 +0530",
+   "sample_date": "Sat, 12 Sep 2026 05:30:22 +0530",
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 02:36:58 +0530",
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 00:10:10 +0530",
    "error": null,
-   "checked_at": "2026-09-12T00:00:11+00:00"
+   "checked_at": "2026-09-12T00:30:09+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,26 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "94f49f5aa48fc1f4",
+   "title": "A green flag, a red flag and an exit: the 43-day board tussle at Coforge",
+   "link": "https://www.livemint.com/companies/board-tussle-at-coforge-chairman-bhatt-advent-kpmg-11789121388870.html",
+   "summary": "Veteran banker Bhatt was set for five more years as Coforge chairman. Then, over 43 days, came an audit flag, a low board rating, opposition from the largest shareholder and a 3 am resignation. A look at what unfolded behind the boardroom doors",
+   "published": "2026-09-12T00:00:22+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Coforge_1785322445781_1785322446061_266d5c40-3eaa-40c5-85d8-cd5feebcb843_1789133503220_525a0517-71f2-4ef7-9266-45e51936309b_fa5f03ea-5b7a-46d2-bcf6-1d8ee05175f7_c46e5201-c25b-49d3-aa64-1864a8016e9f.jpg",
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-09-12T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "238641caf72a5dfc",
    "title": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending",
@@ -11560,28 +11580,6 @@
    "first_seen": "2026-09-07T09:31:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "73b727f0247ca303",
-   "title": "Steamhouse India IPO: Price band set at ₹77-81 per share; check key dates, issue details",
-   "link": "https://www.livemint.com/market/ipo/steamhouse-india-ipo-price-band-set-at-rs-77-81-per-share-check-key-dates-issue-details-11788750249196.html",
-   "summary": "Steamhouse India IPO price band has been set at ₹77 and ₹81 per share, launching on 9 September and closing on 11 September. The company plans to raise ₹353 crore, primarily for debt repayment and facility expansions, with a strong client retention rate supporting its financial growth.",
-   "published": "2026-09-07T03:28:14+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/oden-cubes-cold-grey-light-background-w_1782374793_1788751594907_c0cc0806-979b-4660-bb10-5bfa070bd04a_1788751595071_49ca90d5-164a-4a7a-a131-3ee82e3352fb_e5f532a1-6a03-42e8-84b0-8e27f8e9d7e2_2bfcb8fc-a37e-4c4e-911d-f9df6a9afa33.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
