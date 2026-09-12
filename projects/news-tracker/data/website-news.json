@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-12T14:30:09+00:00",
+ "generated_at": "2026-09-12T15:00:07+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 08 Sep 2026 05:30:35 GMT",
    "error": null,
-   "checked_at": "2026-09-12T14:30:09+00:00"
+   "checked_at": "2026-09-12T15:00:07+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 12 Sep 2026 02:28:22 GMT",
+   "sample_date": "Sat, 12 Sep 2026 08:12:07 GMT",
    "error": null,
-   "checked_at": "2026-09-12T14:30:09+00:00"
+   "checked_at": "2026-09-12T15:00:07+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 12 Sep 2026 13:23:36 GMT",
    "error": null,
-   "checked_at": "2026-09-12T14:30:09+00:00"
+   "checked_at": "2026-09-12T15:00:07+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Fri, 11 Sep 2026 05:32:10 GMT",
    "error": null,
-   "checked_at": "2026-09-12T14:30:09+00:00"
+   "checked_at": "2026-09-12T15:00:07+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 11 Sep 2026 22:58:17 +0000",
+   "sample_date": "Sat, 12 Sep 2026 14:40:00 +0000",
    "error": null,
-   "checked_at": "2026-09-12T14:30:09+00:00"
+   "checked_at": "2026-09-12T15:00:07+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "07e30d1ae0c54331",
+   "title": "Revolut confirms customer data breach through fake government requests",
+   "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+   "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+   "published": "2026-09-12T14:40:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-12T15:00:07+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ae8f726bf31e8faa",
    "title": "Gold and Silver Prices in India Today, 12 September 2026: Gold at ₹153,240, Silver at ₹234,650 as MCX Stays Shut",
