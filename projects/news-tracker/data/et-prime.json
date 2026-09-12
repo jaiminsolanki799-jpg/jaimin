@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-12T21:00:15+00:00",
+ "generated_at": "2026-09-12T21:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 13 Sep 2026 02:16:03 +0530",
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 20:54:23 +0530",
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 12 Sep 2026 23:54:39 +0530",
    "error": null,
-   "checked_at": "2026-09-12T21:00:15+00:00"
+   "checked_at": "2026-09-12T21:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "b536a74c188c46a8",
+   "title": "FCNR (B) scheme garners USD65 bn, but why isn't the rupee gaining?",
+   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/fcnr-b-scheme-garners-usd65-bn-but-why-isnt-the-rupee-gaining/primearticleshow/133443534.cms",
+   "summary": "",
+   "published": "2026-09-12T21:30:12+00:00",
+   "source": "ET Prime: Economy & policy",
+   "group": "ET Prime",
+   "category": "Economy & policy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-12T21:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "81c36138590a0112",
    "title": "Rupee is stabilising, but another currency risk is staring at India Inc",
@@ -11536,28 +11554,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "Rules"
-   ]
-  },
-  {
-   "id": "c02821b90eb43734",
-   "title": "“Shortchanged ahead of IPO”, ex-Juniper CEO seeks INR365-cr compensation",
-   "link": "https://economictimes.indiatimes.com/prime/corporate-governance/shortchanged-ahead-of-ipo-ex-juniper-ceo-seeks-inr365-cr-compensation/primearticleshow/132558651.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime: Corporate governance",
-   "group": "ET Prime",
-   "category": "Corporate governance",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
    ]
   }
  ]
