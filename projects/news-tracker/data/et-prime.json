@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-13T02:30:08+00:00",
+ "generated_at": "2026-09-13T03:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 0,
    "items": 0,
-   "sample_date": "Mon, 03 Apr 2017 13:57:01 GMT",
+   "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 13 Sep 2026 07:00:43 +0530",
+   "sample_date": "Sun, 13 Sep 2026 08:25:23 +0530",
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 13 Sep 2026 06:35:29 +0530",
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 13 Sep 2026 07:00:23 +0530",
+   "sample_date": "Sun, 13 Sep 2026 08:20:47 +0530",
    "error": null,
-   "checked_at": "2026-09-13T02:30:08+00:00"
+   "checked_at": "2026-09-13T03:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "fb677a19f7e7b540",
+   "title": "How Sundaram Alternates’ bet on a long-ignored sector returned 30%",
+   "link": "https://economictimes.indiatimes.com/prime/money-and-markets/how-sundaram-alternates-bet-on-a-long-ignored-sector-returned-30/primearticleshow/132748223.cms",
+   "summary": "",
+   "published": "2026-09-13T03:00:09+00:00",
+   "source": "ET Prime: Money & markets",
+   "group": "ET Prime",
+   "category": "Money & markets",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-13T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ee5e10d94ad04b8a",
+   "title": "Larry Ellison cancels plan to sell $7.5 billion worth of Oracle stock",
+   "link": "https://www.livemint.com/companies/news/larry-ellison-cancels-plan-to-sell-7-5-billion-worth-of-oracle-stock-11789266726806.html",
+   "summary": "The statement came a day after Oracle Executive Chairman Larry Ellison said that a trading plan (10b5-1 Plan) would allow him to sell up to 50 million shares of Oracle common stock.",
+   "published": "2026-09-13T02:55:23+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/Larry_Ellison_1789267228931_af214b69-9d48-4744-a24a-98f2e720d622_1789267232416_0daf6548-67b1-4a33-bf50-e30112165f10_66ee7fbd-83e4-4b32-b7fa-a939dd4b2ae7_64319151-4feb-4189-aeda-a7b9a113699d.jpg",
+   "topics": [],
+   "first_seen": "2026-09-13T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc301090df971064",
+   "title": "Bank holidays this week: SBI, HDFC, ICICI, PNB closed on up to 4 days from 14–20 Sep; check city-wise RBI list",
+   "link": "https://www.livemint.com/money/personal-finance/bank-holidays-this-week-sbi-hdfc-icici-pnb-closed-on-up-to-4-days-from-14-20-sep-check-city-wise-rbi-list-11789266166017.html",
+   "summary": "Banks will remain closed on four days between September 14 and 20, 2026, although the closures vary by location. Here is the RBI holiday calendar-based list for customers planning branch visits this week.",
+   "published": "2026-09-13T02:50:47+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/MixCollage-13-Sep-2026-07-59-AM-935_1789266585105_dad7d4ec-82b0-47b0-9c43-4d3a44a1ea4b_1789266596438_d2f2e991-1903-416a-95dc-48500cddd8d4_06cdd72c-f8b7-483b-b2b1-7eaf647df1f2_a0e968bd-5104-4fbd-9c79-432d58d4b863.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-13T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "205b40bc0959cece",
    "title": "How Future Consumer insolvency professional selection slipped from SBI’s control",
@@ -11493,60 +11549,6 @@
    "id": "e2f69221f51e76b2",
    "title": "Is crude oil becoming a financial problem?",
    "link": "https://economictimes.indiatimes.com/prime/is-crude-oil-becoming-a-financial-problem/primearticleshow/133713568.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "99721a6845542f40",
-   "title": "Patent Cliff approaching: Can Indian pharma companies repeat past success?",
-   "link": "https://economictimes.indiatimes.com/prime/patent-cliff-approaching-can-indian-pharma-companies-repeat-past-success/primearticleshow/133678901.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6d3e32cafc4782c8",
-   "title": "ET Prime special: Bigger, Better or Both? Understanding business to figure out the mystery: Power Grid Corp – Part 1",
-   "link": "https://economictimes.indiatimes.com/prime/et-prime-special-bigger-better-or-both-understanding-business-to-figure-out-the-mystery-power-grid-corp-part-1/primearticleshow/133433235.cms",
-   "summary": "",
-   "published": "2026-09-07T09:31:50+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T09:31:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "19d44029fdcebdf7",
-   "title": "ET Prime special series: 2013 to 2026. Not years, but evidence: Power Grid, Part 2",
-   "link": "https://economictimes.indiatimes.com/prime/et-prime-special-series-2013-to-2026-not-years-but-evidence-power-grid-part-2/primearticleshow/133610467.cms",
    "summary": "",
    "published": "2026-09-07T09:31:50+00:00",
    "source": "ET Prime home",
