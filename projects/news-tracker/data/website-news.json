@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T07:30:09+00:00",
+ "generated_at": "2026-09-21T08:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T07:30:09+00:00"
+   "checked_at": "2026-09-21T08:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 20 Sep 2026 13:04:53 GMT",
+   "sample_date": "Mon, 21 Sep 2026 01:15:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T07:30:09+00:00"
+   "checked_at": "2026-09-21T08:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 06:36:21 GMT",
    "error": null,
-   "checked_at": "2026-09-21T07:30:09+00:00"
+   "checked_at": "2026-09-21T08:00:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 10,
+   "items": 10,
    "sample_date": "Sat, 19 Sep 2026 08:42:48 GMT",
    "error": null,
-   "checked_at": "2026-09-21T07:30:09+00:00"
+   "checked_at": "2026-09-21T08:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T07:30:09+00:00"
+   "checked_at": "2026-09-21T08:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "a3ecd02347233ff8",
+   "title": "Skillmatics posts Rs 659 Cr revenue in FY26, profit rises marginally",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnE3SXJ0Vl9ubE55STNybExRNU13MVlxT0RQdlRRTDA2ZnBQOWdVTGI1dHZFRlVEdUhoZFAzd0dETGs1b3lNaDM2a0ozRjVXNzM1R1B0aExmUHBlQTJRSHo0MDMxaXAyYkhJelhROFp6V1oxSDJUeVJ5OEo5Y01WR01lenpHdFhJQmNGeHpIVHBIcnVhTVo1UDUzc08wa29HUTEzVDJZblAxalXSAasBQVVfeXFMT25xN0lydFZfbmxOeUkzcmxMUTVNdzFZcU9EUHZUUUwwNmZwUDlnVUxiNXR2RUZVRHVIaGRQM3dHRExrNW95TWgzNmtKM0Y1VzczNUdQdGhMZlBwZUEyUUh6NDAzMWlwMmJISXpYUThaeldaMUgyVHlSeThKOWNNVkdNZXp6R3RYSUJjRnh6SFRwSHJ1YU1aNVA1M3NPMGtvR1ExM1QyWW5QMWpV?oc=5",
+   "summary": "",
+   "published": "2026-09-21T07:24:14+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T08:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7b3cd1a498d32cab",
    "title": "Moneyview IPO to open on September 24",
@@ -212,6 +230,24 @@
    "valuation_signals": [
     "IPO"
    ]
+  },
+  {
+   "id": "c9e7f1b885596f33",
+   "title": "SRM University AP launches UNITES Global Innovation Society",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTA2WF9wLXFFVlZhOExtMklZa2EwVUtEbzY4T2NHQ3VrZkw5czdCaXBFVFpGaG9QaTIxS21Zb3JvRGJoMkhUTHhMRUNtN3p6WVlnTWFfN0tEVGE0dk1hb2NaWXhGZHgwbUFlSWZ5dHlQbllhdkNldTMyRUxyTUVxZ1ZzVHdKOFM1XzhlNGVHd2M0OGZNdGhsdS130gGaAUFVX3lxTE95MDZYX3AtcUVWVmE4TG0ySVlrYTBVS0RvNjhPY0dDdWtmTDlzN0JpcEVUWkZob1BpMjFLbVlvcm9EYmgySFRMeExFQ203enpZWWdNYV83S0RUYTR2TWFvY1pZeEZkeDBtQWVJZnl0eVBuWWF2Q2V1MzJFTHJNRXFnVnNUd0o4UzVfOGU0ZUd3YzQ4Zk10aGx1LXc?oc=5",
+   "summary": "",
+   "published": "2026-09-21T04:31:03+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T08:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "c15a0c1eec488fe6",
