@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T14:00:09+00:00",
+ "generated_at": "2026-09-21T14:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 17:33:16 +0530",
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 19:00:20 +0530",
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 18:52:38 +0530",
    "error": null,
-   "checked_at": "2026-09-21T14:00:09+00:00"
+   "checked_at": "2026-09-21T14:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,7 +192,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 0,
  "items": [
   {
    "id": "074af7391ae9b529",
@@ -5261,46 +5261,6 @@
    "first_seen": "2026-09-11T15:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "15e80cec37dba4f0",
-   "title": "Court orders EPFO to pay 6% interest for 35-day delay in settling claim — Here's how to check status, file grievances",
-   "link": "https://www.livemint.com/money/personal-finance/epfo-pay-6-pc-interest-35-days-delay-settle-pf-claim-mumbai-consumer-court-order-how-check-status-file-grievances-online-11789130166113.html",
-   "summary": "A consumer court ordered the EPFO to pay 6% interest for a 35-day delay in settling a PF claim over ₹14 lakh. The EPFO was found guilty of service deficiency, failing to meet the 20-day processing deadline as required by the EPF Scheme, 1952.",
-   "published": "2026-09-11T14:22:02+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/EPFO_delay_1789136481051_402e1f49-913a-4b0a-a945-bf7de1efd64f_1789136488643_454764f7-998b-4b81-8fba-88e6a80860bf_87e9f929-d3b5-4c61-9873-5368a4c5d87e_52c55087-7333-4be2-8ce3-f982b6e05d7f.png",
-   "topics": [],
-   "first_seen": "2026-09-11T14:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3b2c955840b1d5e1",
-   "title": "Pulse of the Street: oil surge and rate hike fears trigger a market sell-off",
-   "link": "https://www.livemint.com/market/pulse-of-the-street-oil-surge-and-rate-hike-fears-trigger-a-market-selloff-11789130520769.html",
-   "summary": "Rising crude oil has pushed US-Treasury toward 5%, raising market expectations of a rate hike at the upcoming Fed meeting. Market participants brace for heightened volatility ahead of key policy decisions.&nbsp;&nbsp;",
-   "published": "2026-09-11T14:03:18+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/INDIA-STOCKS-FLOWS-0_1789135165211_00ddd3f4-db5e-463f-970a-ea628e022a19_1789135186656_61a29155-cece-44f5-851d-99f4629f5cb6_bee3993b-6fc5-4f14-b201-7ee36c2817bb_2eb402db-f21a-4ac9-9296-6166063fb5a2.JPG",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-11T14:30:09+00:00",
-   "valuation_score": 2,
-   "valuation_signals": [
-    "Rates & macro"
-   ]
   }
  ]
 }
