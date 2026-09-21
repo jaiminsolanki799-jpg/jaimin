@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T19:30:12+00:00",
+ "generated_at": "2026-09-21T20:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T19:30:12+00:00"
+   "checked_at": "2026-09-21T20:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 12:49:51 GMT",
+   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
    "error": null,
-   "checked_at": "2026-09-21T19:30:12+00:00"
+   "checked_at": "2026-09-21T20:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T19:30:12+00:00"
+   "checked_at": "2026-09-21T20:00:08+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 15,
-   "items": 15,
+   "fetched": 16,
+   "items": 16,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T19:30:12+00:00"
+   "checked_at": "2026-09-21T20:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 19:25:00 +0000",
    "error": null,
-   "checked_at": "2026-09-21T19:30:12+00:00"
+   "checked_at": "2026-09-21T20:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
   {
    "id": "66ce002dbe90ee1c",
@@ -113,7 +113,7 @@
    "id": "88172ca13ee47e3c",
    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
    "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-   "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50 megawatt nuclear power plant.",
+   "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
    "published": "2026-09-21T18:23:05+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -131,7 +131,7 @@
    "id": "c476924b2eb2bb2a",
    "title": "Meta’s AI agent has been blocked from using Amazon.com",
    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-   "summary": "Muse isn't welcome as a shopper anymore.",
+   "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
    "published": "2026-09-21T17:55:18+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -2449,24 +2449,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T21:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "83e605502ca51c89",
-   "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-   "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-   "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-   "published": "2026-09-11T19:35:54+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Russell Brandom",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T20:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
