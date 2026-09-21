@@ -34,14 +34,11 @@ permissions:
   contents: write
   actions: read      # the self-rescheduling step lists runs to keep a single chain
 
-concurrency:
-  group: news-tracker-${{ github.ref }}
-  cancel-in-progress: false
-
 jobs:
   refresh:
     name: Fetch feeds and commit data
     runs-on: ubuntu-latest
+    timeout-minutes: 45      # fetch + a wait of at most 30 minutes; anything longer is stuck
     steps:
       - uses: actions/checkout@v4
         with:
@@ -53,11 +50,14 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch feeds
+        id: fetch
+        continue-on-error: true   # a bad feed must not break the refresh chain
         working-directory: projects/news-tracker
         run: python scripts/fetch_news.py
 
       - name: Commit updated data
         id: commit
+        if: github.ref_name == 'main' && steps.fetch.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -73,7 +73,7 @@ jobs:
 
       # ---- self-rescheduling (see the note at the top of this file) ----
       - name: Wait for the next 30-minute mark and start the next run
-        if: github.ref_name == 'main' && env.REFRESH_TOKEN != ''
+        if: always() && github.ref_name == 'main' && env.REFRESH_TOKEN != ''
         env:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           GH_TOKEN: ${{ github.token }}
@@ -91,9 +91,17 @@ jobs:
           wait=$(( 1800 - (now % 1800) ))
           echo "Sleeping ${wait}s until the next half-hour mark..."
           sleep "$wait"
-          curl -sS -f -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${REFRESH_TOKEN}" \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/dispatches" \
-            -d '{"ref":"main"}'
-          echo "Next run requested."
+          for attempt in 1 2 3 4; do
+            if curl -sS -f -X POST \
+                 -H "Accept: application/vnd.github+json" \
+                 -H "Authorization: Bearer ${REFRESH_TOKEN}" \
+                 "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/dispatches" \
+                 -d '{"ref":"main"}'; then
+              echo "Next run requested."
+              exit 0
+            fi
+            echo "Dispatch failed (attempt $attempt); retrying in 20s..."
+            sleep 20
+          done
+          echo "::error::Could not start the next run after 4 attempts."
+          exit 1
