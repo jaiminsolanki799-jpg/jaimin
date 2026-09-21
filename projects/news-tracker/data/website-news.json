@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T13:00:13+00:00",
+ "generated_at": "2026-09-21T13:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
+   "fetched": 8,
+   "items": 8,
+   "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:00:13+00:00"
+   "checked_at": "2026-09-21T13:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 12:49:51 GMT",
+   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:00:13+00:00"
+   "checked_at": "2026-09-21T13:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:00:13+00:00"
+   "checked_at": "2026-09-21T13:30:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 15,
-   "items": 15,
+   "fetched": 14,
+   "items": 14,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:00:13+00:00"
+   "checked_at": "2026-09-21T13:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T13:00:13+00:00"
+   "checked_at": "2026-09-21T13:30:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "c832a5b0d248b800",
+   "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+   "link": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+   "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSparks Hyderabad, Subish Ram traced a decade-long shift from RPA to agentic AI and made the case that in addition to bu",
+   "published": "2026-09-21T13:00:27+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T13:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f79deb9c2b3316b5",
    "title": "Open-source is more than free code. It’s a way to build for the future",
@@ -531,7 +549,7 @@
    "id": "341132aac33e20e4",
    "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
    "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-   "summary": "Many of The Boring Company's announced project have not materialized.",
+   "summary": "Many of The Boring Company's announced projects have not materialized.",
    "published": "2026-09-20T19:38:48+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -549,7 +567,7 @@
    "id": "9515eed3cd4bd0a8",
    "title": "Is the AI industry really ready to slow down?",
    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-   "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+   "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
    "published": "2026-09-20T18:56:04+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -2301,42 +2319,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T14:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "45045b70576f61e1",
-   "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
-   "link": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
-   "summary": "The Navi founder said access to AI will become less of a differentiator as the technology gets easier to use.",
-   "published": "2026-09-11T13:26:10+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T14:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1e3ad698f0a677d8",
-   "title": "Ultraviolette to Invest INR 779 Crore in Tamil Nadu EV Manufacturing Plant",
-   "link": "https://startuptalky.com/news/ultraviolette-to-invest-inr-779-crore-in-tamil-nadu/",
-   "summary": "Ultraviolette Automotive will invest INR 779 crore to establish a new BIGGA Factory in Hosur, Tamil Nadu to increase its electric car manufacturing capability. The plant is expected to produce 250,000 vehicles a year initially, with capacity for 500,000 units as demand increases.",
-   "published": "2026-09-11T13:19:50+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/ultraviolette-to-invest-inr-779-crore-in-tamil-nadu-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-11T13:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
