@@ -78,19 +78,21 @@ jobs:
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           GH_TOKEN: ${{ github.token }}
         run: |
-          # Only one chain at a time: if another run of this workflow is already
-          # queued or in progress, let it carry the chain and stop here.
-          others=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/runs?per_page=20" \
-            --jq "[.workflow_runs[] | select(.id != ${GITHUB_RUN_ID}) | select(.status == \"queued\" or .status == \"in_progress\" or .status == \"waiting\")] | length")
-          if [ "${others:-0}" != "0" ]; then
-            echo "Another run is active ($others); not scheduling a follow-up."
-            exit 0
-          fi
           now=$(date -u +%s)
           # seconds until the next :00 or :30
           wait=$(( 1800 - (now % 1800) ))
           echo "Sleeping ${wait}s until the next half-hour mark..."
           sleep "$wait"
+          # Only one chain at a time. If a NEWER run of this workflow is active
+          # (queued or in progress), it carries the chain and this one stops.
+          # Older active runs do not count, so two runs waking together can
+          # never both stand down: the newest one always passes the baton.
+          newer=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/runs?per_page=20" \
+            --jq "[.workflow_runs[] | select(.id > ${GITHUB_RUN_ID}) | select(.status == \"queued\" or .status == \"in_progress\" or .status == \"waiting\")] | length")
+          if [ "${newer:-0}" != "0" ]; then
+            echo "A newer run is active ($newer); it will schedule the follow-up."
+            exit 0
+          fi
           for attempt in 1 2 3 4; do
             if curl -sS -f -X POST \
                  -H "Accept: application/vnd.github+json" \
