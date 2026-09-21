@@ -50,7 +50,8 @@ This repository is a workspace of small, self-contained projects.
     ├── python-playground/       src/ + tests/ + requirements.txt
     ├── web-starter/             index.html + css/ + js/
     ├── notes/                   Markdown reference notes
-    └── news-tracker/            ET Prime + website news dashboards (GitHub Pages)
+    ├── news-tracker/            ET Prime + website news dashboards (GitHub Pages)
+    └── implied-erp-tracker/     single-file implied ERP page
 ```
 
 ## Testing

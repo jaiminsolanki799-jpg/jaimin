@@ -12,6 +12,7 @@ run instructions.
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
 | [news-tracker](projects/news-tracker) | ET Prime and website news dashboards, refreshed by GitHub Actions and served by GitHub Pages | HTML / CSS / JS + Python |
+| [implied-erp-tracker](projects/implied-erp-tracker) | Daily implied equity risk premium tracker for Sensex and Nifty 50 | HTML / CSS / JS |
 
 ## Work folders
 
@@ -56,7 +57,8 @@ dashboards are available at:
     ├── python-playground/
     ├── web-starter/
     ├── notes/
-    └── news-tracker/
+    ├── news-tracker/
+    └── implied-erp-tracker/
 ```
 
 ## Getting started
