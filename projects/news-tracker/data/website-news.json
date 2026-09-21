@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T20:00:08+00:00",
+ "generated_at": "2026-09-21T20:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T20:00:08+00:00"
+   "checked_at": "2026-09-21T20:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
+   "sample_date": "Mon, 21 Sep 2026 13:00:27 GMT",
    "error": null,
-   "checked_at": "2026-09-21T20:00:08+00:00"
+   "checked_at": "2026-09-21T20:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T20:00:08+00:00"
+   "checked_at": "2026-09-21T20:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 16,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T20:00:08+00:00"
+   "checked_at": "2026-09-21T20:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 19:25:00 +0000",
+   "sample_date": "Mon, 21 Sep 2026 20:15:58 +0000",
    "error": null,
-   "checked_at": "2026-09-21T20:00:08+00:00"
+   "checked_at": "2026-09-21T20:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,13 +71,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "5310781f5f6fb68b",
+   "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+   "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+   "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+   "published": "2026-09-21T20:15:58+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aditya Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T20:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "66ce002dbe90ee1c",
    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-   "summary": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25, 11:59 p.m. PT.",
+   "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
    "published": "2026-09-21T19:25:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
