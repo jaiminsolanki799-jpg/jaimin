@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T10:00:08+00:00",
+ "generated_at": "2026-09-21T10:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 11,
-   "items": 11,
+   "fetched": 13,
+   "items": 13,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "36247098cccb1f9e",
+   "title": "Exclusive: Drivn’s Indian entity raises Rs 45 Cr from Avaana Capital",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRwZzY2M2JuelVscVBvQlhWX1B0ZmZxTzF1Y1NyMk5IOXBxRTFTWmk0d0VFakwyRC12c21tWDJIcXFnMi15SkM3blVmZjF6MkJmb2M5MDctQTh6eC1vQlV6Z252UHBTRS1zdXFiSzFYSWhzRFhqREI5ckxlTFNJT2tXNTNDcmpkWTRjVGNxRmZ4Rm5RTVlDVmtRM01SU1B6ZUF0M3RaTGlMUdIBqgFBVV95cUxQbjRwZzY2M2JuelVscVBvQlhWX1B0ZmZxTzF1Y1NyMk5IOXBxRTFTWmk0d0VFakwyRC12c21tWDJIcXFnMi15SkM3blVmZjF6MkJmb2M5MDctQTh6eC1vQlV6Z252UHBTRS1zdXFiSzFYSWhzRFhqREI5ckxlTFNJT2tXNTNDcmpkWTRjVGNxRmZ4Rm5RTVlDVmtRM01SU1B6ZUF0M3RaTGlMUQ?oc=5",
+   "summary": "",
+   "published": "2026-09-21T10:01:19+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T10:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "3730ad608ae6ce79",
    "title": "Startup news and updates: daily roundup (September 21, 2026)",
@@ -88,6 +108,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T09:30:15+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "72e5718e9fbaf869",
+   "title": "SRM University",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGM3p5OGVXVWtMcHk4WGVXX3pvMm5wdVEzVHlSRk5vNDBOamE5R25sNVg1N3RIV0F6YlJWem1oeTF5Q3ZFd2phbzAyMmktZExnc2c?oc=5",
+   "summary": "",
+   "published": "2026-09-21T08:09:27+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T10:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },

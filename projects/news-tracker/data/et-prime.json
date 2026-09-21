@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T10:00:08+00:00",
+ "generated_at": "2026-09-21T10:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,18 +101,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 13:33:10 +0530",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 21 Sep 2026 14:49:47 +0530",
+   "sample_date": "Mon, 21 Sep 2026 15:54:49 +0530",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Pzt, 21 Eyl 2026 15:18:56 +0530",
+   "sample_date": "lun., 21 sept. 2026 15:18:56 +0530",
    "error": null,
-   "checked_at": "2026-09-21T10:00:08+00:00"
+   "checked_at": "2026-09-21T10:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,68 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "7aac204c2a4b5e9a",
+   "title": "Concord Biotech bonus issue sparks rally! Pharma stock jumps 6% on maiden share reward - Top things to know",
+   "link": "https://www.livemint.com/market/stock-market-news/concord-biotech-bonus-issue-sparks-rally-pharma-stock-jumps-6-on-maiden-share-reward-top-things-to-know-11789984107486.html",
+   "summary": "Concord Biotech shares surged nearly 6% after announcing a bonus issue. The board will meet on September 23, 2026, to discuss issuing bonus shares to existing shareholders.",
+   "published": "2026-09-21T10:24:49+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/concord_biotech_1789985829501_7IPh_1789985838432_7EV7_878fa429-1e11-4f3a-8d57-766380ed8be9_0sSV.png",
+   "topics": [],
+   "first_seen": "2026-09-21T10:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "b1837499a8fdd25d",
+   "title": "Emami share price jumps 4% ahead of buyback: What should investors do? Check stop loss, target",
+   "link": "https://www.livemint.com/market/stock-market-news/emami-share-price-jumps-4-ahead-of-buyback-what-should-investors-do-check-stop-loss-target-11789983617370.html",
+   "summary": "Emami's buyback plan targets ₹475 per share, with a maximum buyback size of ₹282 crore. Existing shareholding may shift, increasing promoter ownership to 55.6%. Analysts suggest accumulating shares in the ₹360-380 range, while key support stands at ₹340.",
+   "published": "2026-09-21T10:22:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Emami_1789985858630_65E2_1789985863871_xXUO_0dd810a0-41da-459b-a0e6-3250da7f9a67_qCyz.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-21T10:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "429c1f4a73ba8925",
+   "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 22 Sept",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tue-kospi-taiwan-index-nikkei-cues-to-watch-22-sept-11789983235735.html",
+   "summary": "Indian stocks gained on September 21, driven by value buying and a recovery in oil-sensitive stocks, despite ongoing geopolitical tensions. Frontline indices rose, led by heavyweights, while the Nifty climbed 0.29% and Sensex 0.81%. Mixed performance was noted in broader markets and sectors.",
+   "published": "2026-09-21T10:08:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/SM_on_Sep_22_1789985129879_iTur_1789985159311_3Ki2_5c900f6b-dab5-442f-b5d4-47dfc1e92c78_Zyor.png",
+   "topics": [],
+   "first_seen": "2026-09-21T10:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0b82b75154b50f41",
    "title": "Bank strike from Sept 28-30: Will it affect your loan EMI and credit card bill payments? Check details here",
@@ -5210,123 +5270,6 @@
    "first_seen": "2026-09-11T11:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "ed419c1e431a2e90",
-   "title": "Two months of red: Large-cap outflows deepen after 6-month inflow streak — what should investors do?",
-   "link": "https://www.livemint.com/money/personal-finance/two-months-of-red-large-cap-outflows-deepen-after-6-month-inflow-streak-what-should-investors-do-11789116067701.html",
-   "summary": "Large-cap mutual funds saw ₹1,147 crore in outflows in August 2026, despite previous &nbsp;inflows. Rising mid- and small-cap investments suggest a shift in investor preference. Here's what investors should make of the divergence.",
-   "published": "2026-09-11T10:30:08+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/large_cap-50a3-436c-be67-c1_1789118932303_f34a5496-c6fe-439a-bfdb-58dc23e6b126_1789118932500_a9cd14a6-1835-4237-be7d-9326ea0e5b40_a84e3a5e-bbaa-43a5-9ca4-175a15a9cd71_23c4e3eb-e8d4-422a-a485-440f1bba2133.png",
-   "topics": [],
-   "first_seen": "2026-09-11T11:00:16+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "037282d31c301d96",
-   "title": "IGL stock outlook by Motilal Oswal: Buy for 27% upside; check target price - 'Margins bottoming; volumes diversifying'",
-   "link": "https://www.livemint.com/market/stock-market-news/igl-stock-outlook-by-motilal-oswal-buy-for-27-upside-check-target-price-margins-bottoming-volumes-diversifying-11789121783951.html",
-   "summary": "IGL stock declined nearly 20% in 2026, pressured by a host of factors like crude oil and gas costs, currency issues, and Delhi's EV policy risks. Despite these challenges, Motilal Oswal views the stock's valuation as attractive, maintaining a 'Buy' recommendation. Check target price",
-   "published": "2026-09-11T10:21:55+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/IGL_stock_12_1789121987464_0706e04c-1839-47f4-aa73-b8ebcc83f465_1789122002458_35a76864-c447-47d2-8f85-cdb406327471_15ffe987-6475-4911-9688-4e085e6bf429_e1b719be-7d58-4ad7-9b87-8abf3feaef50.png",
-   "topics": [
-    "Valuation / M&A",
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
-  },
-  {
-   "id": "8f3078f10172f089",
-   "title": "Sensex, Nifty crash in morning but recovery after some time - What led to bounce back in markets?",
-   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-crash-in-morning-but-recovery-after-some-time-what-led-to-bounce-back-in-markets-11789119152254.html",
-   "summary": "Domestic stocks rebounded on September 11, recovering losses as global crude prices fell. The Nifty gained 0.71% from lows but closed 0.18% down, while the Sensex fell 0.14%. Buying in auto and financial stocks supported the market amidst concerns over elevated crude prices and investor sentiment.",
-   "published": "2026-09-11T10:16:42+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Sensex_1789121975025_fdf27921-b3a2-4df1-8427-23eec6adda93_1789121980031_755eaaf8-ef33-4554-8194-cdcd5b4efefe_a245d37e-c721-4ee7-b0c6-237a22b6c78c_74e38177-cdef-4f33-b848-ec12432ab1cd.png",
-   "topics": [],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f947d09affe1006a",
-   "title": "Need ₹2 lakh urgently? Here's what experts say is cheaper: Personal loan, savings or credit card",
-   "link": "https://www.livemint.com/money/personal-finance/need-2-lakh-urgently-heres-what-experts-say-is-cheaper-personal-loan-savings-or-credit-card-11789119004706.html",
-   "summary": "Facing an urgent ₹2 lakh need? Experts say using savings is usually cheapest, personal loans suit structured repayment, while credit card balances can cost 24%+ annually, turning a ₹1 lakh outstanding into nearly ₹40,000 in interest.",
-   "published": "2026-09-11T10:16:32+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pl_cl_or_savings_1789119666189_623a50bf-afa9-472c-9773-eed79e334c9e_1789119671991_f3646f1c-41d9-4737-ab69-3250c9b2b32b_c4044a72-9590-4325-9003-adfd7595dfc5_50b00e28-3649-4bc9-a5a1-dfe37d2ca34c.png",
-   "topics": [],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fd8a6a6f92f67640",
-   "title": "Tata Steel share price falls 3%, among top Nifty 50 laggards; what experts say",
-   "link": "https://www.livemint.com/market/stock-market-news/tata-steel-share-price-falls-3-among-top-nifty-50-laggards-what-experts-say-11789119888853.html",
-   "summary": "Tata Steel shares fell nearly 3% amid weak market trends, with a decline of up to 7.65% over three months. Analysts caution over consolidation and possible support levels. The company recently initiated a sustainable project and received a favorable ruling from the Supreme Court in a GST case.",
-   "published": "2026-09-11T10:15:47+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Tata_Steel_1789121432107_ce0d83c4-7f39-4b31-90a6-2c8d1d522ecb_1789121437989_9a9c1b6f-4812-4734-8138-530d55b25a45_c9cc4e4d-1d6c-46a0-959f-a4d5d1640ab4_fb4864cf-6074-4317-b4dd-672ff04926c4.jpeg",
-   "topics": [
-    "GST"
-   ],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6bf3dbd44424a7c1",
-   "title": "Ultraviolette Auto eyes funding from Yali, Speciale and TDK as part of ongoing round",
-   "link": "https://www.livemint.com/companies/ultraviolette-automotive-ultraviolette-auto-electric-vehicles-ev-funding-yali-capital-speciale-invest-tdk-ventures-11789110678964.html",
-   "summary": "Ultraviolette is stitching together over ₹500 crore from new and existing investors as it steps up manufacturing in Karnataka and Tamil Nadu and expands its electric two-wheeler portfolio.",
-   "published": "2026-09-11T10:00:12+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Ultraviolette_X47_Crossover_1758628257027_1758628263456_1789117321173_edc2661e-e533-45f3-b8f5-5c59e7185da7_93d2d79c-e917-4181-958f-fae4467592eb_1d727e06-707c-4d41-9a7a-5dd1464b7ff3.jpeg",
-   "topics": [],
-   "first_seen": "2026-09-11T10:30:13+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
   }
  ]
 }
