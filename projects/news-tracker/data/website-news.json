@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T06:30:13+00:00",
+ "generated_at": "2026-09-21T07:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:30:13+00:00"
+   "checked_at": "2026-09-21T07:00:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
+   "sample_date": "Mon, 21 Sep 2026 01:15:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:30:13+00:00"
+   "checked_at": "2026-09-21T07:00:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 18 Sep 2026 16:14:32 GMT",
+   "sample_date": "Mon, 21 Sep 2026 06:36:21 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:30:13+00:00"
+   "checked_at": "2026-09-21T07:00:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 8,
    "sample_date": "Sat, 19 Sep 2026 08:42:48 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:30:13+00:00"
+   "checked_at": "2026-09-21T07:00:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T06:30:13+00:00"
+   "checked_at": "2026-09-21T07:00:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,70 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "7b3cd1a498d32cab",
+   "title": "Moneyview IPO to open on September 24",
+   "link": "https://yourstory.com/2026/09/moneyview-ipo-to-open-on-sep-24",
+   "summary": "The IPO will close on September 28, and the company's shares are proposed to be listed on the NSE and BSE on October 1, according to a public announcement on Monday.",
+   "published": "2026-09-21T06:48:47+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-21T07:00:13+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "90e125af9cb99262",
+   "title": "Uday Narang Set for 11.3% of Listed Prime Industries",
+   "link": "https://startuptalky.com/news/uday-narang-prime-industries-preferential-issue/",
+   "summary": "Prime Industries' board has approved a preferential issue that would give Omega Seiki Mobility founder Uday Narang 11.32% of the listed company for about ₹10.5 crore. The total issue raises ₹11.47 crore, and it still needs shareholder approval.",
+   "published": "2026-09-21T06:36:21+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/uday-narang-prime-industries-preferential-issue.webp",
+   "topics": [],
+   "first_seen": "2026-09-21T07:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b7a75f0951052cc1",
+   "title": "Soach Global eyes 25X returns from NSE IPO, to pocket Rs 295 Cr via partial exit",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHNRMFVIckZ4b05neFA2Rl9XVFFaZGwtSFJmcGRNb0hXR1R3amgxSXkzQ3BGUXZYNl84N3RxbUcwS000RjFCVHFFQXg0bG5mR0dxR3VwRERzNWR3di1ZODktdXBlN0pIaS1aWFFiQlVORkFtaTR4RzFROHZ2N3Y4NkVSeTkxUkphVXY1OVNWSFowNFd1NHJHOE9oVEZaU21fcC12Q3R2a095RGt0M0o0UmNCb2_SAbQBQVVfeXFMUHhzUTBVSHJGeG9OZ3hQNkZfV1RRWmRsLUhSZnBkTW9IV0dUd2poMUl5M0NwRlF2WDZfODd0cW1HMEtNNEYxQlRxRUF4NGxuZkdHcUd1cEREczVkd3YtWTg5LXVwZTdKSGktWlhRYkJVTkZBbWk0eEcxUTh2djd2ODZFUnk5MVJKYVV2NTlTVkhaMDRXdTRyRzhPaFRGWlNtX3AtdkN0dmtPeURrdDNKNFJjQm9v?oc=5",
+   "summary": "",
+   "published": "2026-09-21T06:31:57+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-21T07:00:13+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "a594a7561c0dbd6f",
    "title": "His software is inside your router. Now he wants it inside much smaller things",
@@ -110,6 +172,24 @@
    "valuation_signals": [
     "M&A"
    ]
+  },
+  {
+   "id": "40eef4af58b90d73",
+   "title": "Digital Gold Investment in India 2026: Top Platforms, Benefits, Risks and How to Buy",
+   "link": "https://startuptalky.com/top-gold-investment-platforms/",
+   "summary": "Digital gold investment in India has grown with easy app-based buying and fractional ownership. Explore the top digital gold platforms in 2026, their benefits, risks, charges, regulations and what to check before investing.",
+   "published": "2026-09-21T05:00:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Pratiksha Bajikar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2023/11/Best-Gold-Investment-App-StartupTalky-1.jpg",
+   "topics": [],
+   "first_seen": "2026-09-21T07:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "0169616966978377",
@@ -2301,24 +2381,6 @@
    "author": "Nitin Konde",
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/india-tightens-e-commerce-rules-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-11T07:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b74a9cd0bb178446",
-   "title": "Vidit Aatrey: Transforming Indian ECommerce with Meesho",
-   "link": "https://startuptalky.com/vidit-aatrey-success-story/",
-   "summary": "Vidit Aatrey co-founded Meesho with Sanjeev Barnwal after spotting an opportunity to bring small businesses and consumers online. Here’s his journey from IIT Delhi and ITC to building and leading Meesho.",
-   "published": "2026-09-11T06:40:00+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Kanimozhi Sivakumar",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2024/07/Vidit-Aatrey-Meesho-StartupTalky.jpg",
    "topics": [],
    "first_seen": "2026-09-11T07:30:10+00:00",
    "valuation_score": 0,
