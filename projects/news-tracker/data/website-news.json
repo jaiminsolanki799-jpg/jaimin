@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T06:00:43+00:00",
+ "generated_at": "2026-09-21T06:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:00:43+00:00"
+   "checked_at": "2026-09-21T06:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:00:43+00:00"
+   "checked_at": "2026-09-21T06:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 18 Sep 2026 16:14:32 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:00:43+00:00"
+   "checked_at": "2026-09-21T06:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 8,
    "sample_date": "Sat, 19 Sep 2026 08:42:48 GMT",
    "error": null,
-   "checked_at": "2026-09-21T06:00:43+00:00"
+   "checked_at": "2026-09-21T06:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T06:00:43+00:00"
+   "checked_at": "2026-09-21T06:30:13+00:00"
   }
  ],
  "topics": [
@@ -366,6 +366,42 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-20T12:48:36+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-20T12:33:20+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -718,24 +754,6 @@
    "valuation_signals": []
   },
   {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-19T06:25:05+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "c72983319f65b179",
    "title": "DPIIT to unveil QCO framework for semiconductor, deeptech firms in 2-3 months",
    "link": "https://yourstory.com/2026/09/dpiit-to-unveil-qco-framework-for-semiconductor-deeptech-firms-in-2-3-months",
@@ -1028,24 +1046,6 @@
    "image": "https://static.startuptalky.com/2026/09/apple-pay-may-launch-in-india-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-18T12:13:10+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2321,42 +2321,6 @@
    "image": "https://static.startuptalky.com/2024/07/Vidit-Aatrey-Meesho-StartupTalky.jpg",
    "topics": [],
    "first_seen": "2026-09-11T07:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "df656f964e9b7fce",
-   "title": "Namma Yatri launches retail platform for drivers",
-   "link": "https://yourstory.com/2026/09/namma-yatri-launches-retail-platform-namma-santhe-drivers",
-   "summary": "Namma Yatri has entered the retail space with Namma Santhe, a physical and online shopping platform offering everyday products to its drivers in Bengaluru.",
-   "published": "2026-09-11T06:18:12+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T06:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "aeb0031bd2e39144",
-   "title": "Nishant Pitti pledges Rs 212 Cr EaseMyTrip shares with Motilal Oswal for personal use",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOVQtRVQ1V09PU0t5Q19JNWkzbGRTbExkOVByU2wyMGJZbkVwU3hDQnhYNFNDNFhvQWxVR19OYmduU3ZoTUtkWWlVcXl4WndtUzFYRE9BWWpUZWh0bUFzTjlMb1AwUE51cnNPb1JwSHRhcTdKcGU5WEl5eXdIWWhWb3JIem5iY2RxMC1XY1NzZ3Z2SFA1OVIyYzI1VUVwTk5RaFJ1Q05WcmZub2xDazMxV0NPbVN4a3VjU2N1VtIBvAFBVV95cUxQOVQtRVQ1V09PU0t5Q19JNWkzbGRTbExkOVByU2wyMGJZbkVwU3hDQnhYNFNDNFhvQWxVR19OYmduU3ZoTUtkWWlVcXl4WndtUzFYRE9BWWpUZWh0bUFzTjlMb1AwUE51cnNPb1JwSHRhcTdKcGU5WEl5eXdIWWhWb3JIem5iY2RxMC1XY1NzZ3Z2SFA1OVIyYzI1VUVwTk5RaFJ1Q05WcmZub2xDazMxV0NPbVN4a3VjU2N1Vg?oc=5",
-   "summary": "",
-   "published": "2026-09-11T06:10:05+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T06:30:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
