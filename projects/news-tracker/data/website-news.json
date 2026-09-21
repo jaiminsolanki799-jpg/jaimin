@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T13:30:09+00:00",
+ "generated_at": "2026-09-21T14:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:30:09+00:00"
+   "checked_at": "2026-09-21T14:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
+   "sample_date": "Mon, 21 Sep 2026 11:15:55 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:30:09+00:00"
+   "checked_at": "2026-09-21T14:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:30:09+00:00"
+   "checked_at": "2026-09-21T14:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 14,
-   "items": 14,
+   "fetched": 15,
+   "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T13:30:09+00:00"
+   "checked_at": "2026-09-21T14:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
+   "sample_date": "Mon, 21 Sep 2026 13:49:00 +0000",
    "error": null,
-   "checked_at": "2026-09-21T13:30:09+00:00"
+   "checked_at": "2026-09-21T14:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "b9779344bfba17f6",
+   "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+   "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+   "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+   "published": "2026-09-21T13:49:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T14:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "f55021938848625a",
+   "title": "AceVector files RHP for Rs 287 Cr fresh issue, turns free cash flow positive in FY26",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXo2QzNGMURvbFRhWXRIdUFkUUFMMjlUWFgtLWN2M3h1T0U5MGdmcjBjRFFCbEJDU25NbVRXMHhWNE0tM2lWOVFQelBNTjNvUUNWWm1KNmxKSUpoMTlXcWh2dkhnNHA0akRBbjdVU1lHSjdWbV9SSVNKTUJlWlA4YWl5Q1pWY0llVV9kalVLQ0pwbXVKbmUwOFJ2eG1HZVNpbTRXMDZIYjJ3by0wUEZLNlpQeGVDSlY2QVHSAboBQVVfeXFMT3F6NkMzRjFEb2xUYVl0SHVBZFFBTDI5VFhYLS1jdjN4dU9FOTBnZnIwY0RRQmxCQ1NuTW1UVzB4VjRNLTNpVjlRUHpQTU4zb1FDVlptSjZsSklKaDE5V3FodnZIZzRwNGpEQW43VVNZR0o3Vm1fUklTSk1CZVpQOGFpeUNaVmNJZVVfZGpVS0NKcG11Sm5lMDhSdnhtR2VTaW00VzA2SGIyd28tMFBGSzZaUHhlQ0pWNkFR?oc=5",
+   "summary": "",
+   "published": "2026-09-21T13:32:37+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T14:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "c832a5b0d248b800",
    "title": "Building intelligent enterprises: why developers must bridge code and business reality",
@@ -585,7 +625,7 @@
    "id": "71efe47bc53fd9a7",
    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-   "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+   "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
    "published": "2026-09-20T18:32:52+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -2281,44 +2321,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-11T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f9aba8dbddd839f4",
-   "title": "[Weekly funding roundup Sept 5-11] VC inflow doubles this week",
-   "link": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-5-11-vc-inflow-doubles-this-week",
-   "summary": "Indian startup funding doubled to $392M this week, with Pixxel, Popo Global, and Nua among the biggest deals. Spacetech, restaurants, and women’s wellness drew investor interest, while Series A startups accounted for $104M of the funding.",
-   "published": "2026-09-11T13:59:47+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T14:30:09+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
-  },
-  {
-   "id": "a0079c3c10407c5a",
-   "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-   "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-   "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-   "published": "2026-09-11T13:32:54+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Zack Whittaker",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T14:00:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
