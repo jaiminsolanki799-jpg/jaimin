@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T21:00:08+00:00",
+ "generated_at": "2026-09-21T21:30:44+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T21:00:08+00:00"
+   "checked_at": "2026-09-21T21:30:44+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 14:08:55 GMT",
+   "sample_date": "Mon, 21 Sep 2026 17:16:11 GMT",
    "error": null,
-   "checked_at": "2026-09-21T21:00:08+00:00"
+   "checked_at": "2026-09-21T21:30:44+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T21:00:08+00:00"
+   "checked_at": "2026-09-21T21:30:44+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 16,
-   "items": 16,
+   "fetched": 17,
+   "items": 17,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T21:00:08+00:00"
+   "checked_at": "2026-09-21T21:30:44+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 20:15:58 +0000",
    "error": null,
-   "checked_at": "2026-09-21T21:00:08+00:00"
+   "checked_at": "2026-09-21T21:30:44+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
   {
    "id": "5310781f5f6fb68b",
@@ -2379,24 +2379,6 @@
     "PE / VC",
     "Funding"
    ]
-  },
-  {
-   "id": "ccfd05f69c6f8e19",
-   "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-   "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-   "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-   "published": "2026-09-11T21:19:05+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Connie Loizos",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T21:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
