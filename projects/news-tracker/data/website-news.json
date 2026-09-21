@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T15:00:11+00:00",
+ "generated_at": "2026-09-21T15:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T15:00:11+00:00"
+   "checked_at": "2026-09-21T15:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 12:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-21T15:00:11+00:00"
+   "checked_at": "2026-09-21T15:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T15:00:11+00:00"
+   "checked_at": "2026-09-21T15:30:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T15:00:11+00:00"
+   "checked_at": "2026-09-21T15:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 14:39:22 +0000",
+   "sample_date": "Mon, 21 Sep 2026 15:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-21T15:00:11+00:00"
+   "checked_at": "2026-09-21T15:30:12+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "623ca8b417a92181",
+   "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+   "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
+   "published": "2026-09-21T15:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "26792917d6d70d37",
    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
@@ -2361,24 +2379,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "32dab8dab57e6ade",
-   "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-   "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-   "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-   "published": "2026-09-11T15:19:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sarah Perez",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
