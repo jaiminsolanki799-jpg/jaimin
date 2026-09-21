@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T18:30:12+00:00",
+ "generated_at": "2026-09-21T19:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,18 +13,18 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "error": null,
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,18 +90,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "error": null,
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,29 +112,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "error": null,
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "error": null,
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 21 Sep 2026 21:20:23 +0530",
+   "sample_date": "Tue, 22 Sep 2026 00:01:50 +0530",
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 21 Sep 2026 23:08:27 +0530",
+   "sample_date": "Tue, 22 Sep 2026 00:07:56 +0530",
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 21 Sep 2026 23:48:08 +0530",
+   "sample_date": "Mon, 21 Sep 2026 23:59:36 +0530",
    "error": null,
-   "checked_at": "2026-09-21T18:30:12+00:00"
+   "checked_at": "2026-09-21T19:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "32b2e10d5c6a4d12",
+   "title": "Oil Drops Below $100 as Iran Diplomacy, Hormuz Flows Stunt Rally",
+   "link": "https://www.livemint.com/market/oil-drops-below-100-as-iran-diplomacy-hormuz-flows-stunt-rally-11790015876956.html",
+   "summary": "Oil fell below $100, heading for its longest run of declines since June, as robust flows through the Strait of Hormuz and diplomacy around the US-Iran war tamed a recent rally.",
+   "published": "2026-09-21T18:37:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-21T19:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7d0289c9f638c417",
+   "title": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal",
+   "link": "https://www.livemint.com/companies/states-settle-lawsuit-over-paramount-warner-merger-clearing-key-hurdle-for-81-billion-deal-11790015510451.html",
+   "summary": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal",
+   "published": "2026-09-21T18:31:50+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/maxresdefault_live_1790016250769_UiEc_1790016257956_vr4i_ebfcbb81-b244-4d1e-bc3e-1d67dd51e956_yYA2.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-21T19:00:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "6cdf3e3dd50529cb",
+   "title": "UPI MDR on mutual funds: Experts explain how investors could bear the charge and its impact on returns",
+   "link": "https://www.livemint.com/money/personal-finance/upi-mdr-on-mutual-funds-experts-explain-how-investors-could-bear-the-charge-and-its-impact-on-returns-11790010902585.html",
+   "summary": "UPI payments for mutual fund and other capital-market transactions will attract a 0.02% MDR from October 15, capped at ₹300 per transaction. While the charge is meant to be borne by merchants, experts explain how investors could be affected if it is passed on.",
+   "published": "2026-09-21T18:29:36+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/upi_mutal_1790015143203_kGah_1790015147955_C9Sf_8d48caa4-9f7a-4aa9-9d36-262bc32ba93c_YaVC.png",
+   "topics": [],
+   "first_seen": "2026-09-21T19:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b4c232b205f6fe58",
+   "title": "NHAI launches ‘OneTag’ portability service on Rajmargyatra app — Here's how FASTag users benefit",
+   "link": "https://www.livemint.com/money/personal-finance/nhai-launch-onetag-portability-service-rajmargyatra-mobile-app-how-fastag-users-benefit-keep-sticker-change-bank-issuer-11790012009181.html",
+   "summary": "NHAI has launched the OneTag service on the Rajmargyatra app, allowing FASTag users to change issuers while retaining their original sticker. Here's how to complete this process and what it means for you…&nbsp;",
+   "published": "2026-09-21T18:28:14+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/NHAI_FASTag_OneTag_portability_1790014224351_lyth_1790014231793_W2mc_1c8d651b-1923-4bf1-b75d-8d790d71d375_Fnar.png",
+   "topics": [],
+   "first_seen": "2026-09-21T19:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "80dc540226f9de81",
    "title": "5 business lessons from The Richest Man In Babylon by George Samuel Clason; make your money work for you and more",
@@ -232,7 +308,7 @@
   },
   {
    "id": "9522c8ed84eb0226",
-   "title": "Top stocks to buy tomorrow: Eternal, Urban Company, Rain Industries by Vaishali Parekh | Targets, stop-loss",
+   "title": "Top stocks to buy today: Eternal, Urban Company, Rain Industries by Vaishali Parekh | Targets, stop-loss",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-eternal-urban-company-rain-industries-by-vaishali-parekh-targets-stoploss-11790008798372.html",
    "summary": "Vaishali Parekh recommends three stocks for intraday trading on 22 September: Eternal, Urban Company, and Rain Industries. Market trends showed mixed performance with Nifty closing at 23,414 and Sensex at 74,894, while sector performance varied.",
    "published": "2026-09-21T17:38:27+00:00",
@@ -386,7 +462,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/WARNER-BROS-DIS-M-A-PARAMOUNT-SKYDAN-BRITAIN-0_179_1790003804943_KpJU_1790003805112_Ogtm_d1c4d7b8-8f6a-4d21-8123-25edcae03dda_CMsy.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/maxresdefault_live_1790016274235_M5LI_1790016279730_aaeA_886b43c4-c13d-43f0-b3d6-f9c17b96ed86_37it.jpg",
    "topics": [
     "Valuation / M&A"
    ],
@@ -414,7 +490,7 @@
   },
   {
    "id": "a067f64b39d37191",
-   "title": "Top stocks to buy tomorrow: Eternal, NTPC Green, Kaynes Tech, Aavas, GESHIP by Sumeet Bagadia | target price, stop-loss",
+   "title": "Top stocks to buy today: Eternal, NTPC Green, Kaynes Tech, Aavas, GESHIP by Sumeet Bagadia | target price, stop-loss",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-eternal-ntpc-green-kaynes-tech-aavas-geship-by-sumeet-bagadia-target-price-stoploss-11790001244923.html",
    "summary": "Amid market volatility, Sumeet Bagadia highlights five stocks to watch—Kaynes Technology, GESHIP, NTPC Green Energy, Eternal, and AAVAS—for bullish signals. Each shows improving technical setups and performance patterns, suggesting further upside potential if key risk levels are maintained.",
    "published": "2026-09-21T15:00:01+00:00",
@@ -490,7 +566,7 @@
   },
   {
    "id": "2cb9df84bcde3f51",
-   "title": "Top stocks in focus tomorrow: Investors must watch Pine Labs, Waaree Energies, GRSE shares on Tue, 22 Sept | Triggers",
+   "title": "Top stocks in focus today: Investors must watch Pine Labs, Waaree Energies, GRSE shares on Tue, 22 Sept | Triggers",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-pine-labs-waaree-energies-grse-shares-on-tue-22-sept-triggers-11789998888451.html",
    "summary": "Indian investors will focus on companies like Pine Labs and Waaree Energies on September 22 due to significant business updates, including funding and expansion plans. Key players include Motilal Oswal, GK Energy, and Transrail Lighting.&nbsp;",
    "published": "2026-09-21T14:28:01+00:00",
@@ -873,7 +949,7 @@
   },
   {
    "id": "429c1f4a73ba8925",
-   "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 22 Sept",
+   "title": "Stock Market prediction today: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 22 Sept",
    "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tue-kospi-taiwan-index-nikkei-cues-to-watch-22-sept-11789983235735.html",
    "summary": "Indian stocks gained on September 21, driven by value buying and a recovery in oil-sensitive stocks, despite ongoing geopolitical tensions. Frontline indices rose, led by heavyweights, while the Nifty climbed 0.29% and Sensex 0.81%. Mixed performance was noted in broader markets and sectors.",
    "published": "2026-09-21T10:08:57+00:00",
@@ -1643,7 +1719,7 @@
    "link": "https://economictimes.indiatimes.com/prime/money-and-markets/gold-rush-on-dalal-st-as-regional-jewellers-bid-to-be-the-next-tanishq/primearticleshow/134212884.cms",
    "summary": "",
    "published": "2026-09-21T05:21:11+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Money & markets",
    "group": "ET Prime",
    "category": "Money & markets",
    "date_known": false,
@@ -3306,7 +3382,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/maxresdefault_live_1790016267503_pVQj_1790016273316_1nxA_b31c76e3-0dae-462e-bc4d-c1a73a1ecdf9_xWWy.jpg",
    "topics": [
     "Valuation / M&A"
    ],
@@ -5275,62 +5351,6 @@
    "first_seen": "2026-09-11T19:30:16+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "b84a59ae4e258262",
-   "title": "Stellantis Signs Memo with Roshel for Possible Sale of Idle Plant",
-   "link": "https://www.livemint.com/companies/stellantis-signs-memo-with-roshel-for-possible-sale-of-idle-plant-11789152111752.html",
-   "summary": "Stellantis NV has signed a memorandum with a Canadian armored vehicle manufacturer that outlines steps toward the sale of an idled car factory near Toronto — a move that represents yet another ripple effect of US tariffs on the Canadian auto sector.",
-   "published": "2026-09-11T18:41:51+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
-   "topics": [],
-   "first_seen": "2026-09-11T19:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "55e0d09280733364",
-   "title": "Digital Credit and Inclusion Index: Borrowers from Tier II cities are driving India’s digital credit story, finds report",
-   "link": "https://www.livemint.com/money/personal-finance/borrowers-tier-ii-cities-drive-india-digital-credit-and-inclusion-index-payments-story-loans-amazon-pay-dcii-2026-report-11789148410703.html",
-   "summary": "Tier-2 cities in India are leading digital credit and inclusion, with an average score of 58.64, ahead of Tier-1 and Tier-3 cities, the Digital Credit &amp; Inclusion Index (DCII) 2026 by Pahlé India Foundation and Amazon Pay found.",
-   "published": "2026-09-11T18:40:10+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/digital_credit_image_1789151951662_10dbbe16-ccef-486d-b747-c2d37e2b12ad_1789151959840_66d569c4-164a-4618-b1eb-bc07f69b89f9_05a304e5-e9eb-4660-9d08-52bdfb7a8d31_e0bf7668-d9bc-40e8-90c6-4223b85baba7.png",
-   "topics": [],
-   "first_seen": "2026-09-11T19:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4881bcf7ed899b34",
-   "title": "Wall Street rallies as strong inflation data cements rate-hike bets",
-   "link": "https://www.livemint.com/market/wall-street-rallies-as-strong-inflation-data-cements-rate-hike-bets-11789151749335.html",
-   "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street rallies as strong inflation data cements rate-hike bets",
-   "published": "2026-09-11T18:35:48+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-   "topics": [],
-   "first_seen": "2026-09-11T19:00:11+00:00",
-   "valuation_score": 2,
-   "valuation_signals": [
-    "Rates & macro"
-   ]
   }
  ]
 }
