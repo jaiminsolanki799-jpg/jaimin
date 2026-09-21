@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T18:00:11+00:00",
+ "generated_at": "2026-09-21T18:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,18 +13,18 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,18 +90,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,29 +112,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 21:20:23 +0530",
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 23:08:27 +0530",
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 21 Sep 2026 23:10:50 +0530",
+   "sample_date": "Mon, 21 Sep 2026 23:48:08 +0530",
    "error": null,
-   "checked_at": "2026-09-21T18:00:11+00:00"
+   "checked_at": "2026-09-21T18:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "80dc540226f9de81",
+   "title": "5 business lessons from The Richest Man In Babylon by George Samuel Clason; make your money work for you and more",
+   "link": "https://www.livemint.com/money/5-business-lessons-from-the-richest-man-in-babylon-by-george-samuel-clason-make-your-money-work-for-you-and-more-11790014300133.html",
+   "summary": "The Richest Man in Babylon by George S. Clason offers timeless financial lessons through ancient parables.",
+   "published": "2026-09-21T18:18:08+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Babylon_1790014426304_tCbA_1790014443406_Vphk_3bdf7847-5ea4-4523-9e9f-68d4f1816506_pIFp.jpg",
+   "topics": [],
+   "first_seen": "2026-09-21T18:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7ca3648d1ee8ebd6",
    "title": "Have ₹1 crore? How to invest the amount, depending on your age; build wealth, balance growth and make the money last",
@@ -406,7 +424,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/STB_1790002658269_wD7I_1790002679177_f397_ae47a75f-a785-403b-8e81-a3575d4a3dc5_fPXh.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Sumet_1790013522059_djwn_1790013529255_REue_a808ca41-73d3-4b7a-aef5-e637817e3572_x55f.png",
    "topics": [],
    "first_seen": "2026-09-21T15:30:12+00:00",
    "valuation_score": 4,
@@ -1625,7 +1643,7 @@
    "link": "https://economictimes.indiatimes.com/prime/money-and-markets/gold-rush-on-dalal-st-as-regional-jewellers-bid-to-be-the-next-tanishq/primearticleshow/134212884.cms",
    "summary": "",
    "published": "2026-09-21T05:21:11+00:00",
-   "source": "ET Prime: Money & markets",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Money & markets",
    "date_known": false,
@@ -2812,6 +2830,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "704ed79223e03569",
+   "title": "Forget the UPI fee fight. Do we know how India pays today?",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1pNM25mNzhOTUh3VW03dDlmUlZFaGVXazN2b1FlbDJqY3g0a3VQVVY4dHktVkYzZVVaWU5uZy1pSV9QR3FxZW5CU2M1Yl92TzVqLXN1LVZsNm05UXlheGJ2VnBTYVBUbWtYMGlqSno1VHdaUnMtZFVKc3h3eDdDWDVvc1FLOHQ5bE55azhQVXhYYjdfWkdkVDdoeUNjVmxaVWxZUGtFSDVkbVBGZExJcDFkV1pJTGZmTDNEaFpNdTFDRVQ0dEZGNExn0gHDAUFVX3lxTE8wUHR3MnRULXhBU2xTR0o4ZEVOaGlhUEp6bnZnUTFpQVk2bFF5MExKQzlXX0tLUlRLQk4zOTQyemNvbkUwVXFVWU9mOExfRnhrVm5oODdVbndWMHUxd0M0UWs1a0dqRFA0RTJoTHpRZG9pbnY4YlI1QzlybExabnQ3b2FSZ2FvOExnaHhpa2Q4LUlHaWEzclVHV1o0ZWRsYUpnYm1wMXNUMkYtdnpTd1ZQWllCRDdVNGVXcXhDWDIzSHRzdw?oc=5",
+   "summary": "",
+   "published": "2026-09-20T10:55:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T18:30:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -5295,24 +5331,6 @@
    "valuation_signals": [
     "Rates & macro"
    ]
-  },
-  {
-   "id": "96aafd067859b6e9",
-   "title": "After chairman Bhatt, Coforge NRC chief Singh quits, cites differences in board",
-   "link": "https://www.livemint.com/companies/coforge-nrc-chair-singh-resignation-board-evaluation-report-11789140983146.html",
-   "summary": "The country’s seventh-largest technology services firm announced Singh's resignation on Friday evening.",
-   "published": "2026-09-11T18:02:41+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Coforge_1785322445781_1785322446061_266d5c40-3eaa-40c5-85d8-cd5feebcb843_1789149565067_c8a92870-5b2c-479d-8a22-a291afe3bea0_aadb68c6-7553-4096-9c68-d831a47e2dd7_01a7957f-0bea-4a07-9133-406fe29e3c96.jpg",
-   "topics": [],
-   "first_seen": "2026-09-11T18:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
