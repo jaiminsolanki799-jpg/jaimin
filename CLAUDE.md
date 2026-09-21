@@ -46,7 +46,8 @@ This repository is a workspace of small, self-contained projects.
 └── projects/
     ├── python-playground/       src/ + tests/ + requirements.txt
     ├── web-starter/             index.html + css/ + js/
-    └── notes/                   Markdown reference notes
+    ├── notes/                   Markdown reference notes
+    └── implied-erp-tracker/     single-file implied ERP page
 ```
 
 ## Testing

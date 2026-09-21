@@ -11,6 +11,7 @@ run instructions.
 | [python-playground](projects/python-playground) | Python practice code with a tested calculator module | Python 3.9+ |
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
+| [implied-erp-tracker](projects/implied-erp-tracker) | Daily implied equity risk premium tracker for Sensex and Nifty 50 | HTML / CSS / JS |
 
 ## Work folders
 
@@ -37,7 +38,8 @@ suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci
 └── projects/
     ├── python-playground/
     ├── web-starter/
-    └── notes/
+    ├── notes/
+    └── implied-erp-tracker/
 ```
 
 ## Getting started
