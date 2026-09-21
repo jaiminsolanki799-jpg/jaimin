@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T17:00:08+00:00",
+ "generated_at": "2026-09-21T17:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 21:20:23 +0530",
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 21:15:56 +0530",
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 21 Sep 2026 21:27:17 +0530",
+   "sample_date": "Mon, 21 Sep 2026 22:52:43 +0530",
    "error": null,
-   "checked_at": "2026-09-21T17:00:08+00:00"
+   "checked_at": "2026-09-21T17:30:13+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "f1c8290e62d489af",
+   "title": "India-New Zealand FTA from 20 October: From kiwi to apples and honey, here's what could get cheaper for you",
+   "link": "https://www.livemint.com/money/personal-finance/indianew-zealand-fta-from-20-october-from-kiwi-to-apples-and-honey-heres-what-could-get-cheaper-for-you-11790004510234.html",
+   "summary": "India-New Zealand FTA will come into force on 20 October 2026, lowering or removing import duties on several products. From kiwi and apples to Manuka honey, here’s what could get cheaper for Indian consumers and which products will remain excluded.",
+   "published": "2026-09-21T17:22:43+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/ftaaa_1790009590550_yDgm_1790009600453_Ekyh_b0b1f32c-9019-49c4-942d-87b7a42b397d_6ORR.png",
+   "topics": [],
+   "first_seen": "2026-09-21T17:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0b5b6ce368685efa",
+   "title": "Bank Strike Sept 28-30: What consumers should know about UPI, ATM transaction, cash withdrawal from SBI, HDFC Banks",
+   "link": "https://www.livemint.com/money/bank-strike-sept-28-30-what-consumers-should-know-about-upi-atm-transaction-cash-withdrawal-from-sbi-hdfc-banks-11790007418230.html",
+   "summary": "Bank employees across India will strike for three days starting September 28, seeking a five-day work week. Customers are advised to manage banking tasks in advance, with October 2 being a national holiday. The strike is supported by the United Forum of Bank Unions, representing 90% of employees.",
+   "published": "2026-09-21T17:08:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/banks_1790010404293_r6i7_1790010409548_at8M_3aeb6edc-1123-4205-b742-28ff4519dd28_yV8F.jpg",
+   "topics": [],
+   "first_seen": "2026-09-21T17:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d95c536f02dad8a0",
    "title": "Attention, Delhi women! 18.5 lakh Saheli Pink Cards issued; get yours now to continue free bus travel from 1 October",
@@ -2718,7 +2754,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -3544,7 +3580,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
