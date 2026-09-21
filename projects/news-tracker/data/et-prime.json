@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T12:30:09+00:00",
+ "generated_at": "2026-09-21T13:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 17:33:16 +0530",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 17:52:33 +0530",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 21 Sep 2026 17:47:04 +0530",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   }
  ],
  "topics": [
@@ -192,7 +192,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 0,
  "items": [
   {
    "id": "e659b46614857e89",
@@ -5299,69 +5299,6 @@
    "first_seen": "2026-09-11T13:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "f35547f676b28c25",
-   "title": "Small cap stock: Exporter of stainless-steel washers entering electronic materials space - Choice says buy; target price",
-   "link": "https://www.livemint.com/market/stock-market-news/small-cap-stock-exporter-of-stainless-steel-washers-entering-electronic-materials-space-choice-says-buy-target-price-11789129722898.html",
-   "summary": "Shares of Ratnaveer Precision Engineering ended 7% lower after a rally. Analysts foresee a 27.8% upside, bolstered by a recent rights issue and improving fundamentals. The stock closed at ₹288.5, with a target price of ₹388 for twelve months.",
-   "published": "2026-09-11T12:45:51+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/ratnaveer_1789130937261_04eea885-bac4-475d-a8c8-57bab387435b_1789130937445_04b2f270-9fb3-4f67-9724-b239e5481f2d_e952acdb-5306-4cd0-ad23-f04e2a736d91_44202805-7d64-4642-8791-308edaed24e5.jpg",
-   "topics": [],
-   "first_seen": "2026-09-11T13:00:09+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Valuation",
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "aef11254fb0f783e",
-   "title": "8th Pay Commission: How much salary hike will a 1.83 or 2.0 fitment factor give you?",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-cpc-how-much-salary-hike-conservative-fitment-factor-1-83-and-2-give-pay-increase-calculate-employees-11789126623550.html",
-   "summary": "Pensioners' body AIFPA has demanded a 3.83 fitment factor from the 8th Pay Commission, the highest proposed so far, though experts peg the realistic range at 1.83 to 2.57, a hike that could raise central govt pay and pensions by 20-80%.",
-   "published": "2026-09-11T12:42:16+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/fitment_factor_DA_1789130475215_892b2af7-1477-423f-b2a3-3fc00bbb37b5_1789130487263_632922bf-ba4b-4eb7-91a3-b47bce4b0325_45b707a5-303a-4ad5-8cff-4c0fd3b6987d_5f3b130b-eedf-48a0-8587-2dcf447a1e9e.png",
-   "topics": [],
-   "first_seen": "2026-09-11T13:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7a3f29e19188ed86",
-   "title": "Fidelity, GIC, BlackRock among global funds eyeing NSE’s anchor allocation",
-   "link": "https://www.livemint.com/companies/news/fidelity-prudential-and-gic-likely-to-participate-in-6-800-crore-nse-ipo-anchor-book-11789123294707.html",
-   "summary": "The anchor portion is likely to be valued at approximately ₹6,800 crore, less than a third of the truncated IPO size, which will comprise entirely an offer for sale by existing investors.",
-   "published": "2026-09-11T12:31:27+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/INDIA-NSE-22_1789129292618_7aec6fa0-2356-4410-aaad-07a47c7e2cb7_1789129303516_a76616e0-92a1-45bf-bbb5-af5ae319864c_6feaa640-c113-4157-a643-daa57ae55fb7_14b7e225-eef3-46d8-abb8-8f7e26a16d77.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-11T13:00:09+00:00",
-   "valuation_score": 8,
-   "valuation_signals": [
-    "PE / VC",
-    "Valuation",
-    "IPO"
-   ]
   }
  ]
 }

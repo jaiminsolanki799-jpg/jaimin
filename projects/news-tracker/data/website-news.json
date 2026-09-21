@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T12:30:09+00:00",
+ "generated_at": "2026-09-21T13:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
-   "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
+   "sample_date": "Mon, 21 Sep 2026 12:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 14,
-   "items": 14,
+   "fetched": 15,
+   "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T12:30:09+00:00"
+   "checked_at": "2026-09-21T13:00:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "f79deb9c2b3316b5",
+   "title": "Open-source is more than free code. It’s a way to build for the future",
+   "link": "https://yourstory.com/2026/09/open-source-is-more-than-free-code-its-a-way-to-build-for-the-future",
+   "summary": "From sovereign AI to open-code culture, Margaret Dawson on what it really takes to build for the AI era",
+   "published": "2026-09-21T12:49:51+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T13:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b3c4b029bf491c19",
    "title": "Starbucks to set up first India GCC in Chennai, plans to hire 800",
