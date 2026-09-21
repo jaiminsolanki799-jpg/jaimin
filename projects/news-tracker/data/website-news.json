@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-21T12:00:09+00:00",
+ "generated_at": "2026-09-21T12:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:00:09+00:00"
+   "checked_at": "2026-09-21T12:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 20 Sep 2026 02:45:00 GMT",
+   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:00:09+00:00"
+   "checked_at": "2026-09-21T12:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:00:09+00:00"
+   "checked_at": "2026-09-21T12:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-21T12:00:09+00:00"
+   "checked_at": "2026-09-21T12:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 20 Sep 2026 21:41:08 +0000",
    "error": null,
-   "checked_at": "2026-09-21T12:00:09+00:00"
+   "checked_at": "2026-09-21T12:30:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "b3c4b029bf491c19",
+   "title": "Starbucks to set up first India GCC in Chennai, plans to hire 800",
+   "link": "https://yourstory.com/2026/09/starbucks-set-up-first-india-gcc-in-chennai-plans-to-hire-800",
+   "summary": "Starbucks has also signed a Memorandum of Understanding (MoU) with the Tamil Nadu government to establish the centre.",
+   "published": "2026-09-21T12:12:07+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-21T12:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1261840420a66c01",
    "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
@@ -410,7 +428,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:29:50+00:00",
@@ -646,7 +664,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -655,7 +673,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- the-captable.com",
+   "title": "- The CapTable",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-20T12:33:20+00:00",
@@ -884,7 +902,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1176,7 +1194,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1466,7 +1484,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T09:30:15+00:00",
@@ -1577,7 +1595,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -1595,7 +1613,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -2303,66 +2321,6 @@
    "first_seen": "2026-09-11T13:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "a9b90257a962c970",
-   "title": "Graph AI raises $13.3M in Series A funding",
-   "link": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
-   "summary": "The tech startup focused on the pharmaceutical industry will use the funding to expand its presence across the US and Europe and accelerate product development.",
-   "published": "2026-09-11T12:28:43+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T13:00:09+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
-  },
-  {
-   "id": "9e2d216deb94b0d9",
-   "title": "Startup news and updates: Daily roundup (September 11, 2026)",
-   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-11-2026",
-   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, September 11, 2026.",
-   "published": "2026-09-11T12:25:21+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-11T13:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2fe8995ed96f7ad4",
-   "title": "RentoMojo IPO subscribed 72.87X; QIB portion leads with 177.3X bids",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGRrN2Zua21LUUtGOGFxUXJ2ekFBWHh4WUY3SmdHcllJalpaV3c4a25UU29MTV9JcGNkcTBwRVVlNE1rVFpCRzZmbHQ4bE1NdUJ2amJEUGpnOXBzOGVXS0dWUkN3MmtHcGZnUEliREJGZ1MwaW5LYmZ3WDd6R3hMbnRleEl5dndnY01Za2xMLTlzNjBXZ09UX01waVByQU1B0gGgAUFVX3lxTFBMZGs3Zm5rbUtRS0Y4YXFRcnZ6QUFYeHhZRjdKZ0dyWUlqWlpXdzhrblRTb0xNX0lwY2RxMHBFVWU0TWtUWkJHNmZsdDhsTU11QnZqYkRQamc5cHM4ZVdLR1ZSQ3cya0dwZmdQSWJEQkZnUzBpbktiZndYN3pHeExudGV4SXl2d2djTVlrbEwtOXM2MFdnT1RfTXBpUHJBTUE?oc=5",
-   "summary": "",
-   "published": "2026-09-11T12:05:25+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-11T12:30:10+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
