@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T23:00:10+00:00",
+ "generated_at": "2026-09-22T23:30:07+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T23:00:10+00:00"
+   "checked_at": "2026-09-22T23:30:07+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 15:28:14 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T23:00:10+00:00"
+   "checked_at": "2026-09-22T23:30:07+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T23:00:10+00:00"
+   "checked_at": "2026-09-22T23:30:07+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-22T23:00:10+00:00"
+   "checked_at": "2026-09-22T23:30:07+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 21:56:43 +0000",
+   "sample_date": "Tue, 22 Sep 2026 23:21:49 +0000",
    "error": null,
-   "checked_at": "2026-09-22T23:00:10+00:00"
+   "checked_at": "2026-09-22T23:30:07+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "d93240d4c3f73720",
+   "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+   "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+   "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+   "published": "2026-09-22T23:21:49+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T23:30:07+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "7e5d39ad04c052e9",
    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -287,7 +307,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T16:00:13+00:00",
@@ -853,7 +873,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -948,7 +968,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -984,7 +1004,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -1074,7 +1094,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -1092,7 +1112,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:00:10+00:00",
@@ -1110,7 +1130,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1206,7 +1226,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T13:00:12+00:00",
@@ -1246,7 +1266,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T06:00:08+00:00",
@@ -1320,7 +1340,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1360,7 +1380,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -1402,7 +1422,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1424,7 +1444,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T04:00:10+00:00",
@@ -1812,7 +1832,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T14:00:09+00:00",
@@ -1926,7 +1946,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T11:00:11+00:00",
@@ -1944,7 +1964,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T10:30:11+00:00",
@@ -1982,7 +2002,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T10:30:11+00:00",
@@ -2018,7 +2038,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T08:00:11+00:00",
@@ -2058,7 +2078,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T08:30:08+00:00",
@@ -2094,7 +2114,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2152,7 +2172,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -2190,7 +2210,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2212,7 +2232,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T08:00:11+00:00",
@@ -3439,24 +3459,6 @@
     "Income tax"
    ],
    "first_seen": "2026-09-13T02:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "014b0fffb81552b3",
-   "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-   "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-   "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
-   "published": "2026-09-12T23:25:38+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sarah Perez",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T23:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
