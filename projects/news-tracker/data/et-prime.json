@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T08:30:13+00:00",
+ "generated_at": "2026-09-22T09:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
+   "fetched": 3,
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 13:43:38 +0530",
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 13:41:50 +0530",
+   "sample_date": "Tue, 22 Sep 2026 14:07:30 +0530",
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 13:49:35 +0530",
+   "sample_date": "Tue, 22 Sep 2026 14:06:04 +0530",
    "error": null,
-   "checked_at": "2026-09-22T08:30:13+00:00"
+   "checked_at": "2026-09-22T09:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "befa5d28c367331a",
+   "title": "'Tata Group Must Be Protected': Sharad Pawar weighs in on Tata Sons-Tata Trusts row",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-group-must-be-protected-sharad-pawar-weighs-in-on-tata-sons-tata-trusts-row-11790064360578.html",
+   "summary": "A dispute has emerged between Tata Sons and Tata Trusts following N Chandrasekaran's reappointment as executive chairman, with the Trusts challenging its validity. The conflict raises critical questions about corporate governance and the future structure of Tata Sons and the Tata Group.",
+   "published": "2026-09-22T08:37:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Tatat_Group_1790065306530_rBNi_1790065313058_KpOe_4fef0a11-f37d-479d-89c2-ee9b79bcdb6d_A9Ru.png",
+   "topics": [],
+   "first_seen": "2026-09-22T09:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "98d47b89ed3a9c6a",
+   "title": "Repaid your loan but your credit report still shows it as active? Experts explain how to fix it",
+   "link": "https://www.livemint.com/money/personal-finance/repaid-your-loan-but-your-credit-report-still-shows-it-as-active-experts-explain-how-to-fix-it-11790060243159.html",
+   "summary": "Repaid your loan? Your credit report may take time to reflect the closure. Here’s what borrowers should check, which documents to retain and what to do if a closed loan still shows as active.",
+   "published": "2026-09-22T08:36:04+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/9e7a3ad3-0dfb-44c4-89d4-4620a28ca675_1790060778212_xlSJ_1790060793355_7X1e_f0f1c511-446c-433b-8cc0-0dc6d1790d8f_Wopt.png",
+   "topics": [],
+   "first_seen": "2026-09-22T09:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "505c479d5fc874de",
+   "title": "Penny stock under 10 rupees close to 5% upper circuit | Here's why",
+   "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-rupees-elitecon-international-close-to-5-upper-circuit-heres-why-11790064881570.html",
+   "summary": "Elitecon International shares opened at ₹8.14 per share today on BSE, as compared to previous close of ₹8.38 on Monday",
+   "published": "2026-09-22T08:33:45+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Elitecon_1790065876077_mWu1_1790065876238_aJXU_c94d9b06-cfb4-4fe1-b12e-899c44ec5ac7_zFGo.png",
+   "topics": [],
+   "first_seen": "2026-09-22T09:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c2001d7dd4a26924",
    "title": "Small-cap funds draw record ₹7,973 crore. But volatility remains the catch",
@@ -1207,6 +1261,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T02:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6e9754d1707c6842",
+   "title": "Gold prices: Caught in a three-way tug-of-war",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3hWakxnRUVoQXRZeVFibUdkRmwwN0QxdnJTckN0dU54ZDZBS0M5Zl94cFJ4TlJaZExQekhHUU14RFoxSV83ckR1UHRleWNMN2VqbDdxeHB4RV9hdmNua2VIdW1UbXNjTUY1aGVZQzJJWUIxdmV4T2NlMjZTcExmY05wSkp1ZFhhdHhNcExDTjVTWE5kYnlka0Z2X29oNHhWSHQySndSRGc0M1pSU243eTk1dWhJWlNtSHfSAbMBQVVfeXFMTkFydW5xQ2RzS3ZQMkdKYlJfNTUzRWphWG9OV1p2T0NyT0dBYnRwcWdGLW45QUwxS0V2bHk5Sy14bU1BcnRrcnJQNUtqS3BBRWtVY3M2MThFLVo0QmVkOHUwYmQ1LVhCVzdOYnA3RlB0TnJ0blVVQmd4ZUVzdE5tQjhoS3JpRTBBQ19Jdkd1bXViNThPWWJaN00wNERzb2tkaDJmaFdSUjJraEZlQXRCU3RBdVU?oc=5",
+   "summary": "",
+   "published": "2026-09-22T01:38:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "economictimes.indiatimes.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T09:00:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -4190,7 +4262,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -6028,46 +6100,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Tech_giants_layoffs_uber_amazon_oracle_apple_1789204431741_c6f0d443-7229-4317-b4aa-6d2f6964cf86_1789204431973_8eebef21-707b-4bef-9cc3-917d701148d7_4a5a6e83-63d6-49c5-9c74-0e67dd5e3de4_3844cbb4-b554-4fbd-b54a-5e8cfc7d0158.jpg",
    "topics": [],
    "first_seen": "2026-09-12T09:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8f61c7f89c91320d",
-   "title": "India’s SEBI Seeks Major Changes to Unpopular Auction System",
-   "link": "https://www.livemint.com/market/indias-sebi-seeks-major-changes-to-unpopular-auction-system-11789203494288.html",
-   "summary": "India’s markets regulator proposed sweeping changes to the closing auction system, including a possible return to the previous method for settling derivatives on expiry days, after sharp price swings and liquidity concerns emerged around the month-old mechanism.",
-   "published": "2026-09-12T08:58:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-12T09:00:12+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Rules"
-   ]
-  },
-  {
-   "id": "05c416102f2bf930",
-   "title": "Pool, park and gym missing: Karnataka homebuyers get relief from RERA after builder fails to provide promised amenities",
-   "link": "https://www.livemint.com/money/pool-park-and-gym-missing-karnataka-homebuyers-get-relief-from-rera-after-builder-fails-to-provide-promised-amenities-11789199416685.html",
-   "summary": "&nbsp;Karnataka RERA recently fined a builder ₹10 lakh for failing to deliver amenities as promised. Here's how aggrieved buyers can register complaints online through state portals.",
-   "published": "2026-09-12T08:52:59+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/rera_picture_1789203094845_90524be6-d066-4991-a171-bdc998470c89_1789203100960_e7b4dc88-d335-432d-8f5e-f79d260dcf7f_6bca0317-aba8-49fa-a8ec-33af0ded6440_c1cfeb45-6252-4fb2-bad1-038e5eca877d.webp",
-   "topics": [],
-   "first_seen": "2026-09-12T09:00:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
