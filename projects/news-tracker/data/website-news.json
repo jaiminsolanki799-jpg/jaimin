@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T12:30:10+00:00",
+ "generated_at": "2026-09-22T13:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 10,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T12:30:10+00:00"
+   "checked_at": "2026-09-22T13:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 22 Sep 2026 11:02:10 GMT",
    "error": null,
-   "checked_at": "2026-09-22T12:30:10+00:00"
+   "checked_at": "2026-09-22T13:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 22 Sep 2026 12:00:05 GMT",
+   "sample_date": "Tue, 22 Sep 2026 12:37:24 GMT",
    "error": null,
-   "checked_at": "2026-09-22T12:30:10+00:00"
+   "checked_at": "2026-09-22T13:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 28,
-   "items": 28,
+   "fetched": 29,
+   "items": 29,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T12:30:10+00:00"
+   "checked_at": "2026-09-22T13:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 22 Sep 2026 12:23:05 +0000",
    "error": null,
-   "checked_at": "2026-09-22T12:30:10+00:00"
+   "checked_at": "2026-09-22T13:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,85 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 12,
  "items": [
+  {
+   "id": "0f85327c15ef3471",
+   "title": "Startup news and updates: daily roundup (September 22, 2026)",
+   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-22-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, September 22, 2026.",
+   "published": "2026-09-22T12:38:15+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e72312ff8806b0cb",
+   "title": "Daily Indian Funding Roundup & Key News - 22 September 2026: Definedge Raises ₹22 Crore, Spinny Confidentially Pre-Files IPO, Snapdeal Parent AceVector Sets ₹420 Crore IPO Price Band",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-22-september-2026/",
+   "summary": "Here's your daily dose of Indian startup funding roundup and key business news for 22 September 2026. Definedge raises INR 22 crore, Spinny confidentially pre-files its IPO, and Snapdeal parent AceVector sets its IPO price band.",
+   "published": "2026-09-22T12:37:24+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/daily-indian-funding-roundup-key-news-22-september-2026-Startuptalky.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-22T13:00:12+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "IPO"
+   ]
+  },
+  {
+   "id": "5aebcada1c15f557",
+   "title": "Parag Milk Foods Announces INR 100 Crore Investment to Expand Paneer Capacity",
+   "link": "https://startuptalky.com/news/parag-milk-foods-announces-inr-100-crore-investment/",
+   "summary": "Parag Milk Foods is planning to invest roughly INR 100 crore to increase its paneer production capacity from 20 MT per day to 80 MT per day. The company will add 60 MT per day at its Manchar plant in Maharashtra and Palamaner facility in Andhra Pradesh and expects to be operational by June 2027.",
+   "published": "2026-09-22T12:35:12+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/parag-milk-foods-announces-inr-100-crore-investment-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "76146c60b6b8a151",
+   "title": "Gold and Silver Prices in India Today, 22 September 2026: Gold at ₹152,970, Silver at ₹238,000 as Both Ease",
+   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-22-september-2026/",
+   "summary": "Gold and silver rates today in India, 22 September 2026. 24K gold trades at ₹152,970 per 10g and silver at ₹238,000 per kg, both easing as Comex slips from recent highs. Check city wise rates and MCX data below.",
+   "published": "2026-09-22T12:30:02+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-india-today-22-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0f7edaaa76fe5f43",
    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
@@ -582,6 +659,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "188902b61e769aff",
+   "title": "Protein Pantry",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ybEY2cFNBZnJDRjFRV3AzMFFwVzZJQnV5TWdOQTQ2V3JsMUlzcGNVWXE4ZlMwakM5c0piX05OWERKdzI3R041V2MxWEtsel9aU2c?oc=5",
+   "summary": "",
+   "published": "2026-09-22T05:50:01+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T13:00:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
