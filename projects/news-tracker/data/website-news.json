@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T18:30:10+00:00",
+ "generated_at": "2026-09-22T19:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:30:10+00:00"
+   "checked_at": "2026-09-22T19:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 15:34:21 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:30:10+00:00"
+   "checked_at": "2026-09-22T19:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:30:10+00:00"
+   "checked_at": "2026-09-22T19:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:30:10+00:00"
+   "checked_at": "2026-09-22T19:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 18:24:34 +0000",
+   "sample_date": "Tue, 22 Sep 2026 18:40:30 +0000",
    "error": null,
-   "checked_at": "2026-09-22T18:30:10+00:00"
+   "checked_at": "2026-09-22T19:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "7df9c7e1f29d359c",
+   "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+   "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+   "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+   "published": "2026-09-22T18:40:30+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T19:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cb061ec01fea5fe9",
    "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
