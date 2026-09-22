@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T11:00:09+00:00",
+ "generated_at": "2026-09-22T11:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 10,
-   "items": 10,
+   "fetched": 8,
+   "items": 8,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T11:00:09+00:00"
+   "checked_at": "2026-09-22T11:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 10:36:42 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T11:00:09+00:00"
+   "checked_at": "2026-09-22T11:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 22 Sep 2026 09:26:42 GMT",
+   "sample_date": "Tue, 22 Sep 2026 11:04:08 GMT",
    "error": null,
-   "checked_at": "2026-09-22T11:00:09+00:00"
+   "checked_at": "2026-09-22T11:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 28,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T11:00:09+00:00"
+   "checked_at": "2026-09-22T11:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 06:00:00 +0000",
+   "sample_date": "Tue, 22 Sep 2026 11:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-22T11:00:09+00:00"
+   "checked_at": "2026-09-22T11:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 12,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "8b3c389e8716d7c6",
+   "title": "Paramount-Warner Merger: States Settle Lawsuit Over $81 Billion Deal",
+   "link": "https://startuptalky.com/news/paramount-warner-merger/",
+   "summary": "Paramount Skydance has resolved an antitrust lawsuit filed by 12 U.S. states over its $81 billion purchase of Warner Bros. Discovery, a big hurdle cleared for merging. The settlement includes promises to promote U.S. film production, help workers affected by the transaction and more.",
+   "published": "2026-09-22T11:04:08+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/paramount-warner-merger-Startuptalky.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-22T11:30:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "ca75bc89890ea827",
+   "title": "KEONICS turns 50, takes Karnataka’s tech story beyond Bengaluru",
+   "link": "https://yourstory.com/2026/09/keonics-50-years-karnataka-tech-beyond-bengaluru",
+   "summary": "KEONICS marks 50 years with plans to expand technology infrastructure, AI skilling and digital services across Karnataka.",
+   "published": "2026-09-22T11:02:10+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T11:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "01100f853614f581",
+   "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+   "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+   "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+   "published": "2026-09-22T11:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T11:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fd3ad69cb0adba4c",
    "title": "Indian founders account for $560B unicorn valuation overseas: report",
