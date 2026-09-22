@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T09:00:10+00:00",
+ "generated_at": "2026-09-22T09:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
+   "fetched": 4,
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 13:43:38 +0530",
+   "sample_date": "Tue, 22 Sep 2026 14:45:39 +0530",
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 14:07:30 +0530",
+   "sample_date": "Tue, 22 Sep 2026 14:50:36 +0530",
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 14:06:04 +0530",
    "error": null,
-   "checked_at": "2026-09-22T09:00:10+00:00"
+   "checked_at": "2026-09-22T09:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "28a0d1b9ff048c91",
+   "title": "Action Construction share price jumps 50% in 6 months - ICICI Direct sees it rising further | 12-month target price",
+   "link": "https://www.livemint.com/market/stock-market-news/action-construction-share-price-jumps-50-in-6-months-icici-direct-sees-it-rising-further-12-month-target-price-11790065905916.html",
+   "summary": "As per BSE data, Action Construction stock has jumped 50% in the last six months, while year-to-date, the stock has gained 32%. The stock hit a 521-week high of ₹1,267.05 on 21 September, while it hit a 52-week low of ₹746.10 on 30 March.",
+   "published": "2026-09-22T09:20:36+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Action_Construction_Equipment_1790066911105_2II8_1790066919186_mXuQ_41e9827e-330b-471b-b0b8-e0b60f9ef584_snpi.png",
+   "topics": [],
+   "first_seen": "2026-09-22T09:30:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "cff3a07ff485c895",
+   "title": "Noel Tata's latest proposal offers alternative to Tata Sons' listing but Shapoorji Pallonji Group supports going public",
+   "link": "https://www.livemint.com/market/stock-market-news/noel-tatas-latest-proposal-offers-alternative-to-tata-sons-listing-but-shapoorji-pallonji-group-supports-going-public-11790064847753.html",
+   "summary": "Tata Sons listing: Noel Tata has suggested restructuring of the&nbsp;Tata Group holding company, an alternative to avoid going public",
+   "published": "2026-09-22T09:19:07+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Tata_Sons_Listing_Noel_Tata_Shapoorji_Pallonji_1790065723921_ZaB7_1790065724079_58Fb_2a7d58e2-94e9-4908-926e-12bccdb95618_sQki.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-22T09:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ce891f9fe75e44e9",
+   "title": "PhonePe expands to UAE: Fintech gets in-principle nod for 2 payment licences | What it means",
+   "link": "https://www.livemint.com/companies/news/phonepe-expands-to-uae-fintech-gets-in-principle-nod-for-2-payment-licences-what-it-means-11790067151094.html",
+   "summary": "PhonePe has received in-principle approval from the UAE central bank for two licences covering retail payments, card schemes and stored value facilities. The fintech will need final regulatory approval before starting commercial operations in the UAE.",
+   "published": "2026-09-22T09:15:39+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/phonepe_1790068401718_1Q27_1790068408146_HYxI_d41308d4-663d-41fa-98ce-d3b9eb4a1166_nZSo.png",
+   "topics": [],
+   "first_seen": "2026-09-22T09:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "befa5d28c367331a",
    "title": "'Tata Group Must Be Protected': Sharad Pawar weighs in on Tata Sons-Tata Trusts row",
@@ -206,7 +264,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Tatat_Group_1790065306530_rBNi_1790065313058_KpOe_4fef0a11-f37d-479d-89c2-ee9b79bcdb6d_A9Ru.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/tata_1790067957110_kJ5i_1790067962624_rEJd_9d3bf850-ecbb-4699-b19c-d898281f9c99_wrsa.png",
    "topics": [],
    "first_seen": "2026-09-22T09:00:10+00:00",
    "valuation_score": 0,
@@ -1275,7 +1333,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:00:10+00:00",
@@ -4262,7 +4320,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -6082,24 +6140,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Pension_payments_1789206884416_84dad35c-c644-4e82-bfc9-bbfc471f9b3c_1789206891417_38f16b62-5261-4677-afc9-116d3d536827_b298bd0c-9569-4846-aaba-37b3ca0459f7_3ed5f17e-c29d-4897-adb0-ff72a5efebf7.png",
    "topics": [],
    "first_seen": "2026-09-12T10:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3042622ef518eebf",
-   "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees",
-   "link": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
-   "summary": "In the first 10 days of September, more than 5,000 tech jobs were cut, taking 2026 layoffs to 128,536 across 299 companies. Oracle, Amazon, Dell, Meta, Uber, PayPal and other major firms have announced workforce reductions this year.",
-   "published": "2026-09-12T09:24:50+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Tech_giants_layoffs_uber_amazon_oracle_apple_1789204431741_c6f0d443-7229-4317-b4aa-6d2f6964cf86_1789204431973_8eebef21-707b-4bef-9cc3-917d701148d7_4a5a6e83-63d6-49c5-9c74-0e67dd5e3de4_3844cbb4-b554-4fbd-b54a-5e8cfc7d0158.jpg",
-   "topics": [],
-   "first_seen": "2026-09-12T09:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
