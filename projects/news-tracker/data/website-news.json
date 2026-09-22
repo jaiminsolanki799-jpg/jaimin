@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T04:30:09+00:00",
+ "generated_at": "2026-09-22T05:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 5,
-   "items": 5,
-   "sample_date": "Fri, 18 Sep 2026 05:57:36 GMT",
+   "fetched": 8,
+   "items": 8,
+   "sample_date": "Tue, 22 Sep 2026 04:36:11 GMT",
    "error": null,
-   "checked_at": "2026-09-22T04:30:09+00:00"
+   "checked_at": "2026-09-22T05:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 05:11:20 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T04:30:09+00:00"
+   "checked_at": "2026-09-22T05:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T04:30:09+00:00"
+   "checked_at": "2026-09-22T05:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 19,
-   "items": 19,
+   "fetched": 21,
+   "items": 21,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-22T04:30:09+00:00"
+   "checked_at": "2026-09-22T05:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 23:44:28 +0000",
    "error": null,
-   "checked_at": "2026-09-22T04:30:09+00:00"
+   "checked_at": "2026-09-22T05:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,122 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 13,
  "items": [
+  {
+   "id": "fcfef1e895be45f0",
+   "title": "Kaynes Semicon built its chip-packaging plant in just 10 months. Can it make the economics work?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlF0dF9RMGVTNW45X1JZWk9ORkYtWlNyemdJSmpWeHRrWnBJMW5zRXBiczQtOXJOOXZPZmVOTWxqbHVoWlEzRXBaajVyWllDaFhfbkcyV3BkaVI5M1pKZzJaNlRtLUhSUy1RYWFHdGhVRXhyWk1YRndjdUNNVS1xckRISDhSSE9kX0dzbGg0b1ZNdFFQTUdLSFNvUm9DVVk2alVoM3FuZ3JMREFXN2ExdlNrU1RLRkJ1dVotdFdlM3k2cGM?oc=5",
+   "summary": "",
+   "published": "2026-09-22T04:51:16+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "872de8a9f01903b6",
+   "title": "Deoria MP Shashank Mani Tripathi on the 2026 NEET crisis, India's growth story and entrepreneurship",
+   "link": "https://yourstory.com/2026/09/shashank-mani-tripathi-neet-crisis-entrepreneurship-opportunity",
+   "summary": "A paper leak, a resignation and a rocket launch, how one MP connects examinations, growth and enterprise into a single argument",
+   "published": "2026-09-22T04:41:24+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e29b3876ce43c784",
+   "title": "Team YS",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UWGpCSHBhTW9kOWkwOVFVSmVua3JlUG5NeWdNNXBMX1FBNXVsT0swYlJuODViZW9DSGtMN3Bfa3AxQ2ljZVRPWHlhY0w3X1Y2dThva0xRS01QbkoxdTNsN2RTbDY5ejVjRjh2T3gtME1jTWJvdWtadktR?oc=5",
+   "summary": "",
+   "published": "2026-09-22T04:37:00+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b2dfccc2d38c7c5c",
+   "title": "NSE IPO subscribed 5.71X; retail investors show muted response",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWVUNlA2NktEQzlITzdnLUdFNUhzNHR5ak1XX0NaTW9ZQV9YMGxkWk1LSE1LVE1PNkxkU3d3bWI4aW91ZkJnbFBJc1h5b3Qtdm11amxDUGJjd3NCZnd1N19uLWlPMWFHeWVjSm4xYkVFcmRfZUNvcFZvdm9BaDdHSXE4SkxsSG5TOUUwWVpJbE1jaFJ4ckNJUlJqZ9IBmwFBVV95cUxQSWVUNlA2NktEQzlITzdnLUdFNUhzNHR5ak1XX0NaTW9ZQV9YMGxkWk1LSE1LVE1PNkxkU3d3bWI4aW91ZkJnbFBJc1h5b3Qtdm11amxDUGJjd3NCZnd1N19uLWlPMWFHeWVjSm4xYkVFcmRfZUNvcFZvdm9BaDdHSXE4SkxsSG5TOUUwWVpJbE1jaFJ4ckNJUlJqZw?oc=5",
+   "summary": "",
+   "published": "2026-09-22T04:36:12+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-22T05:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "191245dfd4677f6c",
+   "title": "How Kaynes built its Sanand chip plant in 10 months, from construction to first customer samples",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlBmcWxGemJsaTZLRDJodUw2c010bUJYLTB5SDdFYWhQWWNjclpVY0Z0RHJSX2Zqb3ZrV0FkMmZKUGhBYmZ2ZC1kSjdCLURNSGZLLVhMM0t4OGlxNTRmN0U3VUZiNUJ1Z2lmd3FNcEdZa25tWWd1R1RYeVNFRXhXYWtlb19oRjVwbmNsUDZuZ1MxTkk0?oc=5",
+   "summary": "",
+   "published": "2026-09-22T04:36:11+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ffa7bb9668215c79",
+   "title": "Protein Pantry raises Rs 9 Cr in seed round led by Sharrp Ventures",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlpQQWxFZ250bk1ac2Z0VnlWbVhzWFBPZERUZk9WVi1nVzEtcUlkbXZJU3k2YU9SVHBDSEIxeG5XTW5rUDQwUzEyTDc4aFhpU1NrZWdFTTNaZ2JidGxGQWtwOFBqOGp2Z0l0aEFubG56OVA4R09PYmhVZ0daZnU3cEFxclZsZDlKclg1SXBPby14dnNxZTBhYWZMUmk1bi1yX3Fr0gGjAUFVX3lxTE1GWlBBbEVnbnRuTVpzZnRWeVZtWHNYUE9kRFRmT1ZWLWdXMS1xSWRtdklTeTZhT1JUcENIQjF4bldNbmtQNDBTMTJMNzhoWGlTU2tlZ0VNM1pnYmJ0bEZBa3A4UGo4anZnSXRoQW5sbno5UDhHT09iaFVnR1pmdTdwQXFyVmxkOUpyWDVJcE9vLXh2c3FlMGFhZkxSaTVuLXJfcWs?oc=5",
+   "summary": "",
+   "published": "2026-09-22T04:30:37+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T05:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "e16bec16c68e38f7",
    "title": "Spinny confidentially pre-files IPO; FY26 revenue touches Rs 6,000 Cr",
