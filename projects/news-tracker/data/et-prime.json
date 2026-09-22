@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T17:30:10+00:00",
+ "generated_at": "2026-09-22T18:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 22:18:44 +0530",
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 22:52:35 +0530",
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 22:43:27 +0530",
+   "sample_date": "Tue, 22 Sep 2026 23:15:27 +0530",
    "error": null,
-   "checked_at": "2026-09-22T17:30:10+00:00"
+   "checked_at": "2026-09-22T18:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "7511b2ba2fc2a17b",
+   "title": "Indian households' savings mix shifts: Mutual funds and equity gain, insurance flows weaken — what it means",
+   "link": "https://www.livemint.com/money/personal-finance/indian-households-savings-mix-shifts-mutual-funds-and-equity-gain-insurance-flows-weaken-what-it-means-11790096626147.html",
+   "summary": "Indian households’ financial savings mix is changing, with mutual funds seeing the sharpest rise in inflows over three years. Equity has also grown from a small base, while deposits remain the largest avenue. Life insurance and small savings have seen weaker or uneven flows.",
+   "published": "2026-09-22T17:45:27+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/houshe_1790098368999_hrcu_1790098372882_2Erv_40356d14-e7d8-42bc-a27e-0d10f9bdebde_CNbp.png",
+   "topics": [],
+   "first_seen": "2026-09-22T18:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2567323d202b32e5",
+   "title": "NPS Vatsalya: Want to register a complaint? Here's how to access grievance redressal online — Stepwise guide",
+   "link": "https://www.livemint.com/money/personal-finance/nps-vatsalya-want-register-complaint-how-to-access-grievance-redressal-online-stepwise-guide-cgms-portal-pension-account-11790092872921.html",
+   "summary": "NPS Vatsalya, allows parents or guardians to open and operate a pension account for minor(s) till they become an adult. Today we take a look at how the subscribers can access grievance redressal online.",
+   "published": "2026-09-22T17:30:49+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/NPS_Vatsalya_1789495307387_Ui2C_1789495322668_DLSi_1790097685421_pVG8_1790097685600_6S21_14d7c83c-bd7e-4231-8a79-1155b09c2701_YUSH.png",
+   "topics": [],
+   "first_seen": "2026-09-22T18:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "de91d8fc9a0a502d",
    "title": "From survival to 193 mn subscribers: Is Vi finally making a comeback?",
@@ -6551,24 +6587,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T18:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40dc83049469e0e6",
-   "title": "In a first, Airbus set to source Indian titanium for its planes",
-   "link": "https://economictimes.indiatimes.com/prime/transportation/in-a-first-airbus-set-to-source-indian-titanium-for-its-planes/primearticleshow/132659986.cms",
-   "summary": "",
-   "published": "2026-09-12T17:30:10+00:00",
-   "source": "ET Prime: Transportation",
-   "group": "ET Prime",
-   "category": "Transportation",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T17:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
