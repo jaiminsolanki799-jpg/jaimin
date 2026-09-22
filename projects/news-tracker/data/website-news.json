@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T21:30:11+00:00",
+ "generated_at": "2026-09-22T22:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T21:30:11+00:00"
+   "checked_at": "2026-09-22T22:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T21:30:11+00:00"
+   "checked_at": "2026-09-22T22:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T21:30:11+00:00"
+   "checked_at": "2026-09-22T22:00:08+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-22T21:30:11+00:00"
+   "checked_at": "2026-09-22T22:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 20:00:00 +0000",
+   "sample_date": "Tue, 22 Sep 2026 21:56:43 +0000",
    "error": null,
-   "checked_at": "2026-09-22T21:30:11+00:00"
+   "checked_at": "2026-09-22T22:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "7e5d39ad04c052e9",
+   "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+   "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+   "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+   "published": "2026-09-22T21:56:43+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-22T22:00:08+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
   {
    "id": "948ab460c8b3929a",
    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
