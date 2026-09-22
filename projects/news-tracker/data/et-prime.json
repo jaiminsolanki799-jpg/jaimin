@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T01:00:11+00:00",
+ "generated_at": "2026-09-22T01:30:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 06:00:53 +0530",
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 06:23:23 +0530",
+   "sample_date": "Tue, 22 Sep 2026 06:52:00 +0530",
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 01:05:53 +0530",
    "error": null,
-   "checked_at": "2026-09-22T01:00:11+00:00"
+   "checked_at": "2026-09-22T01:30:16+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "ddb4278392a58620",
+   "title": "Prop Shops Pull Back From NSE’s $2 Trillion Derivatives Market",
+   "link": "https://www.livemint.com/market/prop-shops-pull-back-from-nse-s-2-trillion-derivatives-market-11790040120720.html",
+   "summary": "Proprietary traders’ share of equity derivatives turnover has fallen to the lowest level in almost four years at the National Stock Exchange of India Ltd., as problems with the closing auction mechanism add to an increasingly restrictive trading environment.",
+   "published": "2026-09-22T01:22:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-09-22T01:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "72b469c42846cbbc",
+   "title": "Sensex, Nifty prediction today: How Asian markets, crude will impact Indian markets? GIFT Nifty, KOSPI, Taiwan signals",
+   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-prediction-today-how-asian-markets-crude-will-impact-indian-markets-gift-nifty-kospi-taiwan-signals-11790037893806.html",
+   "summary": "Gift Nifty was trading around the 23,521.50 level, up nearly 75.20 points from the Nifty futures’ previous close, indicating a positive start for the Indian stock market indices.",
+   "published": "2026-09-22T01:19:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/prediction_1790039697305_l2e2_1790039697452_bJPY_f5fa198b-cd61-4fcd-81cb-e3ffc1f26115_wL9o.png",
+   "topics": [],
+   "first_seen": "2026-09-22T01:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "baabd6920e00df29",
+   "title": "Gold Edges Higher as Lower Oil Prices Damp Chance of Rate Hikes",
+   "link": "https://www.livemint.com/market/gold-edges-higher-as-lower-oil-prices-damp-chance-of-rate-hikes-11790039506795.html",
+   "summary": "Gold edged higher as a slump in oil prices over the past few sessions reduced the chance of further interest-rate hikes by the Federal Reserve to contain inflation.",
+   "published": "2026-09-22T01:11:46+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T01:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4385a251084465b8",
    "title": "Yen squeezed as hawkish turn grips central banks",
@@ -5457,24 +5511,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pexels-photo-31334739_1789023059603_fd76e37d-4fb9-_1789128770485_85cbc243-3a79-4361-8654-e305172b67ea_1789128770673_a8c095f6-7672-4c43-9090-1a4167772049_7eddd979-f88a-4a09-b9da-9753e8429852_7d516ca0-991e-444d-8a51-d217504c8cd6.jpeg",
    "topics": [],
    "first_seen": "2026-09-12T02:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9dc08c2fc54789f8",
-   "title": "Credit score 780, but home loan application rejected? Expert explains what lenders look for",
-   "link": "https://www.livemint.com/money/personal-finance/credit-score-780-but-home-loan-application-rejected-expert-explains-what-lenders-look-for-11789138844605.html",
-   "summary": "Credit score 780 but home loan rejected? Experts explain why a high CIBIL score may not guarantee approval, covering income stability, existing EMIs, repayment capacity, property value and documentation that lenders assess before sanctioning a home loan.",
-   "published": "2026-09-12T01:16:32+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/credit_score_780_1789139333582_b0200118-5c40-4fa2-b890-3e4bee81a575_1789139343584_8bbff9d6-2ee8-49be-9ede-ac8505670763_e292b5d9-4bb6-47d9-bd62-78ef6f9955f2_5666e82b-b983-4a11-b0b1-871d282c0c64.png",
-   "topics": [],
-   "first_seen": "2026-09-12T01:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
