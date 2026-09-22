@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-21T23:30:09+00:00",
+ "generated_at": "2026-09-22T00:00:20+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
+   "fetched": 3,
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 00:48:39 +0530",
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 02:09:07 +0530",
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 01:05:53 +0530",
    "error": null,
-   "checked_at": "2026-09-21T23:30:09+00:00"
+   "checked_at": "2026-09-22T00:00:20+00:00"
   }
  ],
  "topics": [
@@ -2976,7 +2976,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -3820,7 +3820,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -5351,24 +5351,6 @@
     "Audit / accounting"
    ],
    "first_seen": "2026-09-12T00:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "238641caf72a5dfc",
-   "title": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending",
-   "link": "https://www.livemint.com/companies/oracle-to-spend-700-million-more-on-restructuring-costs-as-it-ramps-up-ai-spending-11789170579977.html",
-   "summary": "ORACLE-STOCKS:Oracle to spend $700 million more on restructuring costs as it ramps up AI spending",
-   "published": "2026-09-11T23:49:39+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-   "topics": [],
-   "first_seen": "2026-09-12T00:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
