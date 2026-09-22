@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T15:30:11+00:00",
+ "generated_at": "2026-09-22T16:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:30:11+00:00"
+   "checked_at": "2026-09-22T16:00:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
+   "sample_date": "Mon, 21 Sep 2026 13:00:27 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:30:11+00:00"
+   "checked_at": "2026-09-22T16:00:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:30:11+00:00"
+   "checked_at": "2026-09-22T16:00:13+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:30:11+00:00"
+   "checked_at": "2026-09-22T16:00:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 15:00:00 +0000",
+   "sample_date": "Tue, 22 Sep 2026 15:50:58 +0000",
    "error": null,
-   "checked_at": "2026-09-22T15:30:11+00:00"
+   "checked_at": "2026-09-22T16:00:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "c169620ea001e674",
+   "title": "Stolen passwords are exposing America’s water providers to hackers",
+   "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+   "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+   "published": "2026-09-22T15:50:58+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T16:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "992f07c8575bb92a",
+   "title": "Proactive AI startup Sol raises $4 Mn from General Catalyst, Nexus VP, and others",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeV9lbmtBMjRJdGd1Y2lOeHAtNEZBYmZHdTFJYkMxQnJnZ0ZEZ3BuMGRhU2ZQZ2Jub1VkdFR2Y0Z6dC02dnRkYmRGV1hpSnI4TXFmM3JybnFKVmZtMDd3NldudkloUDdGa2hNbG1ZajlubWE1cFNOeDR1VF94QzlQUzRTV3BmMU56Q3UzQUFqVjh4RENCNXRDN2dfbVpHS1pZOHg0Mm9JbDNiaVdEVGpFVWZYT2pTQjhw0gG4AUFVX3lxTE55X2Vua0EyNEl0Z3VjaU54cC00RkFiZkd1MUliQzFCcmdnRkRncG4wZGFTZlBnYm5vVWR0VHZjRnp0LTZ2dGRiZEZXWGlKcjhNcWYzcnJucUpWZm0wN3c2V252SWhQN0ZraE1sbVlqOW5tYTVwU054NHVUX3hDOVBTNFNXcGYxTnpDdTNBQWpWOHhEQ0I1dEM3Z19tWkdLWlk4eDQyb0lsM2JpV0RUakVVZlhPalNCOHA?oc=5",
+   "summary": "",
+   "published": "2026-09-22T15:48:58+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T16:00:13+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "278368da88c50093",
+   "title": "7 Books that can change the way you view happiness",
+   "link": "https://yourstory.com/2026/09/7-books-that-can-change-the-way-you-view-happiness",
+   "summary": "Discover 7 powerful books that challenge common ideas about happiness and offer deeper insights into meaning, fulfillment, and well-being.",
+   "published": "2026-09-22T15:34:21+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T16:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6c2a98e0a23872d0",
+   "title": "4 Quotes from books that can help you through tough times",
+   "link": "https://yourstory.com/2026/09/quotes-tough-times",
+   "summary": "Discover 4 powerful book quotes that offer comfort, resilience, and perspective when life feels challenging and uncertain.",
+   "published": "2026-09-22T15:28:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T16:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ade5f579157885f5",
    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
