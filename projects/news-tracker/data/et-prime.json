@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T00:00:20+00:00",
+ "generated_at": "2026-09-22T00:30:20+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sun, 20 Sep 2026 10:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 00:48:39 +0530",
+   "sample_date": "Tue, 22 Sep 2026 05:40:12 +0530",
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 02:09:07 +0530",
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 01:05:53 +0530",
    "error": null,
-   "checked_at": "2026-09-22T00:00:20+00:00"
+   "checked_at": "2026-09-22T00:30:20+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "8bd256b00ec312c0",
+   "title": "UPI MDR to pinch retailers with bigger baskets, while sparing others",
+   "link": "https://www.livemint.com/companies/upi-mdr-charge-impact-retailers-e-commerce-companies-above-2000-11789973148560.html",
+   "summary": "The MDR could pressure margins for retailers with larger baskets, while lower-ticket businesses remain largely insulated.&nbsp;",
+   "published": "2026-09-22T00:10:12+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/digital_payment_1744967393921_1789995699333_T4vV_41430d5a-5142-42bb-90b0-bb5d14b72c36_4lp9.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T00:30:20+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2ac20c19d0867d66",
    "title": "TSX gains powered by tech, financial stocks",
@@ -5331,26 +5349,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/credit_score_780_1789139333582_b0200118-5c40-4fa2-b890-3e4bee81a575_1789139343584_8bbff9d6-2ee8-49be-9ede-ac8505670763_e292b5d9-4bb6-47d9-bd62-78ef6f9955f2_5666e82b-b983-4a11-b0b1-871d282c0c64.png",
    "topics": [],
    "first_seen": "2026-09-12T01:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "94f49f5aa48fc1f4",
-   "title": "A green flag, a red flag and an exit: the 43-day board tussle at Coforge",
-   "link": "https://www.livemint.com/companies/board-tussle-at-coforge-chairman-bhatt-advent-kpmg-11789121388870.html",
-   "summary": "Veteran banker Bhatt was set for five more years as Coforge chairman. Then, over 43 days, came an audit flag, a low board rating, opposition from the largest shareholder and a 3 am resignation. A look at what unfolded behind the boardroom doors",
-   "published": "2026-09-12T00:00:22+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Coforge_1785322445781_1785322446061_266d5c40-3eaa-40c5-85d8-cd5feebcb843_1789133503220_525a0517-71f2-4ef7-9266-45e51936309b_fa5f03ea-5b7a-46d2-bcf6-1d8ee05175f7_c46e5201-c25b-49d3-aa64-1864a8016e9f.jpg",
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-12T00:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
