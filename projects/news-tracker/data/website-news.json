@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T18:00:09+00:00",
+ "generated_at": "2026-09-22T18:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:00:09+00:00"
+   "checked_at": "2026-09-22T18:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 15:34:21 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:00:09+00:00"
+   "checked_at": "2026-09-22T18:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:00:09+00:00"
+   "checked_at": "2026-09-22T18:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T18:00:09+00:00"
+   "checked_at": "2026-09-22T18:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 17:36:06 +0000",
+   "sample_date": "Tue, 22 Sep 2026 18:24:34 +0000",
    "error": null,
-   "checked_at": "2026-09-22T18:00:09+00:00"
+   "checked_at": "2026-09-22T18:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,13 +71,49 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "cb061ec01fea5fe9",
+   "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+   "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+   "summary": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program.",
+   "published": "2026-09-22T18:24:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "11b524309fbdd29a",
+   "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+   "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+   "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+   "published": "2026-09-22T18:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "119e83680bcf458c",
    "title": "Waymo’s latest expansion strategy: teenagers",
    "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
-   "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city the offer rides to minors.",
+   "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
    "published": "2026-09-22T17:36:06+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
