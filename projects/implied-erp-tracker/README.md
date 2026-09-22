@@ -3,8 +3,8 @@
 A single-page tracker for the **implied equity risk premium (ERP)** of the
 Sensex and the Nifty 50. You enter one reading per index per day (the closing
 level plus three assumptions); the page solves for the implied cost of equity,
-charts the ERP over time, and gives a plain-English read on where the market
-is heading.
+charts the ERP over time, explains why the premium moved, and looks up what
+the index did the last times it was in the same state.
 
 No build step, no package manager, no dependencies beyond two Google Fonts.
 
@@ -49,6 +49,7 @@ Inputs per reading:
 | Trailing 12-month cash flow | Dividends plus buybacks per index point, in points |
 | Expected earnings growth | Consensus growth, % p.a., applied for five years |
 | Risk-free rate | 10-year G-Sec yield, % |
+| Sovereign default spread | Optional, %. Deducted from the G-Sec yield if you follow Damodaran's adjusted convention; leave blank to use the yield as is |
 
 ## Method
 
@@ -63,6 +64,20 @@ ERP   = Ke − Rf
 
 The index level enters only through the cash yield (cash flow ÷ level), so the
 daily close moves the ERP while the assumptions stay fixed until revised.
+
+Panels on the page:
+
+- **Why it moved** splits the change in ERP since the previous reading into
+  the part caused by the price move and the parts caused by each revised
+  assumption (cash flow, growth, G-Sec yield, default spread), in basis
+  points, and names the driver. Your note for the day is shown alongside.
+- **What happened before in this state** finds earlier readings in the log
+  that had today's trend and valuation state and reports the index move over
+  the following 5, 10 and 20 readings (cases, median move, share that were
+  higher). It uses only your own log, so it needs history to be useful.
+- **Past episodes** is a fixed reference table (2008, 2013, 2016, 2020, 2022)
+  of what the premium did and what came next. Figures are rounded; verify
+  before citing.
 
 Signals on the index cards:
 
