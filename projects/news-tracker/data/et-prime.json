@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T14:30:12+00:00",
+ "generated_at": "2026-09-22T15:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 19:49:12 +0530",
+   "sample_date": "Tue, 22 Sep 2026 20:11:39 +0530",
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 19:51:10 +0530",
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 19:57:49 +0530",
    "error": null,
-   "checked_at": "2026-09-22T14:30:12+00:00"
+   "checked_at": "2026-09-22T15:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "b5a92c9059129c39",
+   "title": "Kylian Mbappe dumps Nike after 20 years for On: Football star gets equity, not just endorsement cheque; check details",
+   "link": "https://www.livemint.com/companies/news/kylian-mbappe-dumps-nike-after-20-years-for-on-football-star-gets-equity-not-just-endorsement-cheque-check-details-11790085380175.html",
+   "summary": "Nike had been with Kylian Mbappe since 2006, when he was still a child. He chose not to renew once that deal expired this summer. On has confirmed the contract is a mix of cash and company shares, not a simple endorsement cheque.",
+   "published": "2026-09-22T14:41:39+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/HSzbOH9XUAAFgHq_1790085636761_GWbc_1790085645883_R9jc_2ead139a-5204-4be7-a86b-eb0179b3e9eb_VbE6.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T15:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "23a96fd4ebb830cc",
    "title": "8th pay commission panel to visit Mumbai next month — Here's how to apply, deadline, dates of meetings",
@@ -209,6 +227,24 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/8th_CPC_Mumbai_meet_1790086995574_LZCN_1790087006587_d5ab_e5819ca2-6f6f-4903-ba18-5a74f44997dd_zzjD.png",
    "topics": [],
    "first_seen": "2026-09-22T14:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f624e7042be35a42",
+   "title": "Chandrasekaran family's TVS link surfaces as Srinivasan judges his term",
+   "link": "https://www.livemint.com/companies/news/tat-sons-chandrasekaran-family-tvs-link-went-undisclosed-venu-srinivasan-judged-his-term-11790084628035.html",
+   "summary": "Filings show that family members of Tata Sons chairman N Chandrasekaran hold business relations with TVS Motor Co. Ltd, a firm led by Venu Srinivasan, who recently cast a decisive board vote backing Chandrasekaran's fresh term.",
+   "published": "2026-09-22T14:25:51+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/PTI09-17-2026-000279A-0_1790086981147_0Flc_1790086981322_r9FD_b9ba639c-b28a-46be-8d93-4cb1c7c64e50_oDy6.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T15:00:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -351,7 +387,7 @@
    "id": "bfb2bb4f5c4328d8",
    "title": "DA news: Delhi govt to consult labour dept amid DTC drivers’ strike — Here's a look at the top demands, latest updates",
    "link": "https://www.livemint.com/money/personal-finance/da-news-delhi-govt-consult-labour-dept-dtc-drivers-strike-top-updates-wage-hike-demand-basic-salary-medical-overtime-pay-11790076275975.html",
-   "summary": "The Delhi government plans to consult with the labour department regarding striking DTC drivers’ salaries. They have threatened ‘kaam bandh’ on September 28 if demands such as DA and contract workers regularisation is not met.&nbsp;",
+   "summary": "The Delhi government plans to consult the labour department regarding the striking DTC drivers’ salaries. They have threatened ‘kaam bandh’ on September 28 if demands such as DA and contract workers' regularisation are not met.&nbsp;",
    "published": "2026-09-22T13:17:20+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -6435,62 +6471,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/nRI_nominee_1789146874973_fca5dced-fb79-42af-a7ab-c4ba66d708d8_1789146882230_046ef9f8-4743-447b-864a-90fa9fe1cad4_cdb1cce2-db5a-437c-ad52-050887782b87_e1a5a6b8-7f89-45eb-9e78-a05b32007a59.png",
    "topics": [],
    "first_seen": "2026-09-12T15:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a0f6f7baa7bef3ca",
-   "title": "Who is Jimmy Tata? HDFC Bank appoints Chief Credit Officer as Executive Director for 3 years",
-   "link": "https://www.livemint.com/companies/people/who-is-jimmy-tata-hdfc-bank-appoints-chief-credit-officer-as-executive-director-for-3-years-11789215257358.html",
-   "summary": "Jimmy Tata has been appointed as a HDFC's Whole-time Director, pending RBI approval, while V Srinivasa Rangan's reappointment was also approved. Tata has more than 35 years of experience in the banking and financial services sector.",
-   "published": "2026-09-12T14:47:29+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Untitled_design_1789222248902_fe6c60df-1cd9-4921-a301-efca8135f3ca_1789222252510_eabfa500-1616-4b76-b209-46e2c805ffd5_fe08367d-f891-40b1-86af-5e2732e96bef_9f034ba3-a06a-43c3-8d96-14060d326ee3.png",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-09-12T15:00:07+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "82b33ae8c9ec89fa",
-   "title": "Paying cash for Zomato orders? You may now have to pay a separate fee | All you need to know",
-   "link": "https://www.livemint.com/companies/news/paying-cash-for-zomato-orders-you-may-now-have-to-pay-a-separate-fee-all-you-need-to-know-11789211057442.html",
-   "summary": "Zomato introduces a cash-on-delivery fee, increasing costs for customers paying in cash. The fee varies based on order value and other factors. Rivals like Swiggy do not impose similar charges, while Zomato continues to raise fees to boost its monetisation strategy amidst growing market competition.",
-   "published": "2026-09-12T14:42:12+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/zomato_1789234701582_93921611-e81b-4dc1-b3f4-41627db27043_1789234712386_138d0a55-86c9-4add-8537-3b1078b66b96_cfeb65dd-e6ce-4a6d-b111-15f8243959d7_cc70e26f-af36-42b4-8030-007f1137467f.jpg",
-   "topics": [],
-   "first_seen": "2026-09-12T15:00:07+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a3c073fea9534aa0",
-   "title": "EPFO: 79% of new UANs in FY26 generated by Gen Z employees aged 18-30 years, including 28% women",
-   "link": "https://www.livemint.com/money/personal-finance/epfo-fy26-new-uans-79-percent-generate-gen-z-employees-age-18-30-years-and-28-pc-women-generation-shift-india-workforce-11789218312827.html",
-   "summary": "EPFO data indicates that Gen Z comprised 79% of new UANs in FY26, signaling a generational shift in India's workforce. Key sectors like retail and logistics remain major entry points for first-time workers.",
-   "published": "2026-09-12T14:42:04+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/umang_app_o_1788695502865_bccc5718-6000-481c-9f5a-_1789222656656_4bb99312-05d2-4af0-9d64-b38fe82f2431_1789222656795_099e4939-8ae7-4bee-adfe-36be1f110617_a3438737-8f81-4799-acdc-a4a4ec4e4793_459bc75e-a24e-4407-b759-77d18f5db7a0.png",
-   "topics": [],
-   "first_seen": "2026-09-12T15:00:07+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
