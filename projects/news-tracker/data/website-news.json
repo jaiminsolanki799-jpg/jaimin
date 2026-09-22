@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T19:00:09+00:00",
+ "generated_at": "2026-09-22T19:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T19:00:09+00:00"
+   "checked_at": "2026-09-22T19:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 15:34:21 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T19:00:09+00:00"
+   "checked_at": "2026-09-22T19:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T19:00:09+00:00"
+   "checked_at": "2026-09-22T19:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T19:00:09+00:00"
+   "checked_at": "2026-09-22T19:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 18:40:30 +0000",
+   "sample_date": "Tue, 22 Sep 2026 19:27:57 +0000",
    "error": null,
-   "checked_at": "2026-09-22T19:00:09+00:00"
+   "checked_at": "2026-09-22T19:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "d5243681b66480f9",
+   "title": "Apple could take on Whoop with a new fitness tracker, report says",
+   "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+   "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+   "published": "2026-09-22T19:27:57+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "047d6bbad93c2200",
+   "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+   "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+   "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+   "published": "2026-09-22T19:09:11+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7df9c7e1f29d359c",
    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
@@ -93,9 +129,9 @@
   },
   {
    "id": "cb061ec01fea5fe9",
-   "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+   "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
    "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-   "summary": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program.",
+   "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
    "published": "2026-09-22T18:24:34+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -3436,24 +3472,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T16:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "94903067997a1428",
-   "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-   "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-   "summary": "Tesla’s halo sports car was first announced in November 2017.",
-   "published": "2026-09-12T19:21:19+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Anthony Ha",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T19:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
