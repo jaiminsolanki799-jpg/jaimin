@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T06:00:08+00:00",
+ "generated_at": "2026-09-22T06:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 10,
-   "items": 10,
+   "fetched": 8,
+   "items": 8,
    "sample_date": "Tue, 22 Sep 2026 04:36:11 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 23:44:28 +0000",
+   "sample_date": "Tue, 22 Sep 2026 06:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "456bb691c45dd0e4",
+   "title": "Morphotonics raises €40M to expand its display tech into data centers",
+   "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+   "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+   "published": "2026-09-22T06:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta, Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a4ae2cb28d39f440",
    "title": "Snapdeal parent firm AceVector's IPO to open on September 25",
@@ -227,6 +245,28 @@
    "valuation_score": 3,
    "valuation_signals": [
     "Funding"
+   ]
+  },
+  {
+   "id": "ed5df2b47950ac64",
+   "title": "Spinny confidentially pre-files IPO; appoints Ex Bharti executive Akhil Gupta as board chairman",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTFwS1R2ZjJ3ZlZCaC1PR09IOFFxNkszRjVZdWczMnNJdHlMZG1Td3l3WE8xdGVwcEhONGRRWmNKWmVwNGVpT3FtYnVOZG1SSUpCTlNlRUhQTTc5SGhkUF9IeTBDaWtaMUY5WHFMbVBnR2laUzVqR05TTjJWWi13YUQxSlU0dlYzOTR5Zlo5dkFuTDRmQS1tU2pEZG9LOTFGVmI1VFJDamJnWVROaklqd2ZGdVVRM1lvWk1tOHFycmVHLWxGMXU1Uzh6N2NIbDQy0gHQAUFVX3lxTE1hMXBLVHZmMndmVkJoLU9HT0g4UXE2SzNGNVl1ZzMyc0l0eUxkbVN3eXdYTzF0ZXBwSE40ZFFaY0paZXA0ZWlPcW1idU5kbVJJSkJOU2VFSFBNNzlIaGRQX0h5MENpa1oxRjlYcUxtUGdHaVpTNWpHTlNOMlZaLXdhRDFKVTR2VjM5NHlmWjl2QW5MNGZBLW1TakRkb0s5MUZWYjVUUkNqYmdZVE5qSWp3ZkZ1VVEzWW9aTW04cXJyZUctbEYxdTVTOHo3Y0hsNDI?oc=5",
+   "summary": "",
+   "published": "2026-09-22T04:03:27+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-22T06:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
    ]
   },
   {
@@ -2533,26 +2573,6 @@
    "first_seen": "2026-09-12T08:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "8b1296a77fda199a",
-   "title": "Funding and acquisitions in Indian startups this week [Sep 07 - Sep 12]",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd0p5MGwtZm1DZVJTYmFjeWYxbG01SWZTSXk5VG1yZzdWN2g5bXFsY291QzBxZXJjRUtpX19ma3NwVW5hQ2tqcGh2N0V5WFRoeFNqZ2hobW1ZYklMVEVNTmZKdkRGdEd5Q1dYRC1xM1c0VWd1Q1RfZ1FsQ2hsSW9lbEdiZHBjamc0UzNmZVFURFZSQk43SFNwV3pkSGMyRHpUNm1Nc3gzZGtRTGhIZFQxRTdLZEpVVURiR1FFYzBmU3pXNDJUZ01VaDc4SmxIQWJKX0hhUGZiOU5XWERHRG1BaDJB0gHiAUFVX3lxTFB3SnkwbC1mbUNlUlNiYWN5ZjFsbTVJZlNJeTlUbXJnN1Y3aDltcWxjb3VDMHFlcmNFS2lfX2Zrc3BVbmFDa2pwaHY3RXlYVGh4U2pnaGhtbVliSUxURU1OZkp2REZ0R3lDV1hELXEzVzRVZ3VDVF9nUWxDaGxJb2VsR2JkcGNqZzRTM2ZlUVREVlJCTjdIU3BXemRIYzJEelQ2bU1zeDNka1FMaEhkVDFFN0tkSlVVRGJHUUVjMGZTelc0MlRnTVVoNzhKbEhBYkpfSGFQZmI5TldYREdEbUFoMkE?oc=5",
-   "summary": "",
-   "published": "2026-09-12T06:05:05+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T06:30:11+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
   }
  ]
 }

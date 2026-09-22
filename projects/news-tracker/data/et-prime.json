@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T06:00:08+00:00",
+ "generated_at": "2026-09-22T06:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
-   "items": 3,
+   "fetched": 4,
+   "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 10:33:05 +0530",
+   "sample_date": "Tue, 22 Sep 2026 11:32:29 +0530",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 11:23:27 +0530",
+   "sample_date": "Tue, 22 Sep 2026 11:54:50 +0530",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 11:01:58 +0530",
    "error": null,
-   "checked_at": "2026-09-22T06:00:08+00:00"
+   "checked_at": "2026-09-22T06:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,65 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "3fd9842a944141b8",
+   "title": "Tata Sons listing: How will it impact the Tata Group shareholders?",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-sons-listing-how-will-it-impact-the-tata-group-shareholders-11790053625211.html",
+   "summary": "Tata Sons listing: According to experts, Tata Sons has a capital market valuation of around ₹12 lakh crore",
+   "published": "2026-09-22T06:24:50+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Tata_Sons_share_pirce_News_Listing_IPO_News_1790054703360_Lnjl_1790054703530_yPNF_c6d116bc-d558-4d2d-a2da-80f97722524e_hGmC.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-22T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "97f5c59898a1be3d",
+   "title": "Fedders Holding shares hit a 52-week high - What is driving the stock rally? Should you buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/fedders-holding-shares-hit-a-52-week-high-what-is-driving-the-stock-rally-should-you-buy-11790057112380.html",
+   "summary": "Fedders Holding shares opened at ₹64.51 against their previous close of ₹61.83 and surged 17.7% to their one-year high of ₹72.79.",
+   "published": "2026-09-22T06:20:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/Fedders_Holding_1790057755597_qC4O_1790057759835_v3Pj_7154b03c-c954-4cd5-82b9-2e50a75713b3_mHJz.png",
+   "topics": [],
+   "first_seen": "2026-09-22T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b114dcdc9dd010b5",
+   "title": "Mark Zuckerberg adds $25 billion to his fortune in a day as Meta doubles down on AI",
+   "link": "https://www.livemint.com/companies/people/mark-zuckerberg-adds-25-billion-to-his-fortune-in-a-day-as-meta-doubles-down-on-ai-11790056394633.html",
+   "summary": "Mark Zuckerberg’s estimated net worth jumped by $25 billion in a single day as Meta Platforms shares surged nearly 12%. The rally came after Wells Fargo raised its price target on Meta and as investors turned their attention to the company’s AI strategy and its new Muse assistant.",
+   "published": "2026-09-22T06:02:29+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/AI-Safety-Zuckerberg-0_1790056407178_pZba_1790056433998_ws7N_bcdf357c-7e23-4513-805c-b409b19afc61_5oWA.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9ca9b66bf1757246",
    "title": "Waaree Energies share price: Joindre Capital initiates coverage | Check target, rationale, upside, returns",
