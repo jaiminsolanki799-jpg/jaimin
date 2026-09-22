@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T16:30:48+00:00",
+ "generated_at": "2026-09-22T17:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 20:47:00 +0530",
+   "sample_date": "Tue, 22 Sep 2026 22:18:44 +0530",
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 21:21:27 +0530",
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 21:33:38 +0530",
    "error": null,
-   "checked_at": "2026-09-22T16:30:48+00:00"
+   "checked_at": "2026-09-22T17:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "15c167049b8ad1fc",
+   "title": "Paramount’s $110 billion Warner Bros deal nears finish line: What happens to $49 billion debt?",
+   "link": "https://www.livemint.com/companies/news/paramounts-110-billion-warner-bros-deal-nears-finish-line-what-happens-to-49-billion-debt-11790094677600.html",
+   "summary": "Bankers are reaching out to investors ahead of the sale of $49 billion in financing backing Paramount Skydance Corp.’s takeover of Warner Bros. Discovery Inc., after the company settled a series of lawsuits that had held up the $110 billion acquisition.",
+   "published": "2026-09-22T16:48:44+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/paramount_1790095666042_rCDs_1790095666251_SRjG_8d8e4253-ed1d-4327-a2f5-818aae83fff8_3G62.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-22T17:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ccafaa1fbd56f784",
+   "title": "‘I know how difficult today will be’: CCO Matt Booty opens up as Microsoft's Xbox division lays off more employees",
+   "link": "https://www.livemint.com/companies/news/i-know-how-difficult-today-will-be-cco-matt-booty-opens-up-as-microsofts-xbox-division-lays-off-more-employees-11790094313663.html",
+   "summary": "Microsoft's Xbox division is laying off more employees amid a reorganisation of its game studios. Xbox continues to face challenges, including declining revenue and profit margins.",
+   "published": "2026-09-22T16:37:57+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Xbox_fire_1790094832299_lPGV_1790094838591_9yd8_9bda5f9d-8794-4d18-a6be-29527e0ed162_rmAr.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T17:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "44d25836f2bfba9f",
    "title": "EPFO: How to file nomination for your provident fund account online? Who can be nominee? Check steps here…",
@@ -6493,24 +6531,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/APY_1789232813732_18100854-fc6f-4cf4-a9f1-3012c26092ed_1789232827223_69d07c45-efb7-48d7-8729-2639cc9e08f9_14bc193c-61aa-497f-9df7-fb1373e092cd_8b913b60-e0c8-4f00-93de-ae5a3ac9cc93.png",
    "topics": [],
    "first_seen": "2026-09-12T17:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "de91d8fc9a0a502d",
-   "title": "From survival to 193 mn subscribers: Is Vi finally making a comeback?",
-   "link": "https://economictimes.indiatimes.com/prime/media-and-communications/from-survival-to-193-mn-subscribers-is-vi-finally-making-a-comeback/primearticleshow/133631930.cms",
-   "summary": "",
-   "published": "2026-09-12T17:00:08+00:00",
-   "source": "ET Prime: Media & communications",
-   "group": "ET Prime",
-   "category": "Media & communications",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T17:00:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
