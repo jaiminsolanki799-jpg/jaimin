@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T08:00:10+00:00",
+ "generated_at": "2026-09-22T08:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 9,
    "sample_date": "Tue, 22 Sep 2026 04:36:11 GMT",
    "error": null,
-   "checked_at": "2026-09-22T08:00:10+00:00"
+   "checked_at": "2026-09-22T08:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
+   "sample_date": "Mon, 21 Sep 2026 13:00:27 GMT",
    "error": null,
-   "checked_at": "2026-09-22T08:00:10+00:00"
+   "checked_at": "2026-09-22T08:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 22 Sep 2026 06:58:45 GMT",
+   "sample_date": "Tue, 22 Sep 2026 08:07:47 GMT",
    "error": null,
-   "checked_at": "2026-09-22T08:00:10+00:00"
+   "checked_at": "2026-09-22T08:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 23,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T08:00:10+00:00"
+   "checked_at": "2026-09-22T08:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 22 Sep 2026 06:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-22T08:00:10+00:00"
+   "checked_at": "2026-09-22T08:30:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "df34141907f29035",
+   "title": "Sterling and Wilson Renewable Energy Wins INR 985 Crore Orders",
+   "link": "https://startuptalky.com/news/sterling-and-wilson-renewable-energy-wins-inr-985-crore-orders/",
+   "summary": "Sterling and Wilson Renewable Energy has acquired new orders worth over INR 985 crore in India and South Africa. The orders comprise a Balance of System package of 534.3 MWp in Rajasthan and two BESS projects with a combined capacity of 616 MWh in South Africa.",
+   "published": "2026-09-22T08:07:47+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/sterling-and-wilson-renewable-energy-wins-inr-985-crore-orders-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T08:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3285ec4ac9a82539",
    "title": "Exclusive: CarDekho parent to convert into public company ahead of IPO",
@@ -2595,60 +2613,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T10:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d63a737cf4c3a69e",
-   "title": "New ecommerce rules could add compliance load for small sellers, say industry experts",
-   "link": "https://yourstory.com/2026/09/new-e-commerce-rules-could-add-compliance-load-small-sellers-say-industry-experts",
-   "summary": "The new disclosure parameters will be difficult to met by small and unorganised players while it may favour the larger entities.",
-   "published": "2026-09-12T08:16:06+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T08:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6be6ceaafd1d389e",
-   "title": "Airtel bats for sovereign stack to process data from India",
-   "link": "https://yourstory.com/2026/09/airtel-bats-for-sovereign-stack-to-process-data-from-india",
-   "summary": "According to Airtel it would be incorrect to equate local data residency with data sovereignty as it is about controlling the data with a sovereign technology stack.",
-   "published": "2026-09-12T08:12:07+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T08:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "55b007930ff37656",
-   "title": "Flipkart Minutes records 4X YoY growth with presence in 150 cities",
-   "link": "https://yourstory.com/2026/09/flipkart-minutes-records-4x-yoy-growth-presence-150-cities",
-   "summary": "Gen Z has emerged as the fastest-growing customer cohort on Flipkart Minutes, with the customer base growing nearly 5X year-on-year in the past twelve months.",
-   "published": "2026-09-12T08:09:43+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T08:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
