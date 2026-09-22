@@ -240,6 +240,24 @@
   .del { border: 1px solid var(--line); background: transparent; color: var(--ink-2); border-radius: 6px; padding: 2px 8px; font-size: 12px; cursor: pointer; }
   .del[data-armed] { border-color: var(--down); color: var(--down); }
 
+  .why { border-top: 1px solid var(--line); padding-top: 12px; display: grid; gap: 8px; }
+  .att { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+  .att li { display: grid; grid-template-columns: 1fr auto; gap: 2px 12px; align-items: baseline; font-size: 13px; }
+  .att-l { color: var(--ink-2); }
+  .att-v { font: 500 13px var(--mono); text-align: right; }
+  .att-v.up { color: var(--up); }
+  .att-v.down { color: var(--down); }
+  .att-d { grid-column: 1 / -1; font: 11px var(--mono); color: var(--muted); }
+  .note-line { font-size: 13px; color: var(--note-ink); background: var(--note-bg); padding: 6px 10px; border-radius: 8px; }
+  .analogs { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-top: 12px; }
+  .analog { display: grid; gap: 8px; align-content: start; }
+  .analog .state { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .analog table { min-width: 0; }
+  .analog th:first-child, .analog td:first-child { text-align: left; }
+  .episodes { min-width: 640px; }
+  .episodes td { white-space: normal; text-align: left; vertical-align: top; font-size: 13px; }
+  .episodes th { text-align: left; }
+  .episodes td.when { font-family: var(--mono); white-space: nowrap; }
   details summary { cursor: pointer; font-weight: 600; }
   .method p { margin-top: 10px; font-size: 14px; color: var(--ink-2); max-width: 66ch; }
   .method code { font: 13px var(--mono); background: var(--surface-2); padding: 1px 5px; border-radius: 4px; }
@@ -270,6 +288,12 @@
     </div>
 
     <section class="cards" id="cards" aria-label="Latest readings"></section>
+
+    <section class="card">
+      <h2>What happened before in this state</h2>
+      <p class="reading">Past readings of each index with the same trend and valuation state as today, and how the index moved over the following readings. Built only from your own log, so it sharpens as the log grows.</p>
+      <div class="analogs" id="analogs"></div>
+    </section>
 
     <section class="card">
       <div class="chart-head">
@@ -304,13 +328,14 @@
         <label>Closing level<input type="number" id="f-level" step="0.01" min="1" inputmode="decimal" placeholder="Index close" required></label>
         <label>Trailing 12-month cash flow, index points<input type="number" id="f-cash" step="0.01" min="0.01" inputmode="decimal" placeholder="Dividends + buybacks per point" required></label>
         <label>Expected earnings growth, % p.a. for 5 years<input type="number" id="f-growth" step="0.01" inputmode="decimal" placeholder="Consensus growth" required></label>
-        <label>Risk-free rate, % (10-year G-Sec)<input type="number" id="f-rf" step="0.01" min="0.01" max="99" inputmode="decimal" placeholder="10-year yield" required></label>
+        <label>Risk-free rate, % (10-year G-Sec yield)<input type="number" id="f-rf" step="0.01" min="0.01" max="99" inputmode="decimal" placeholder="10-year yield" required></label>
+        <label>Sovereign default spread, % (optional)<input type="number" id="f-spread" step="0.01" min="0" max="50" inputmode="decimal" placeholder="Blank = use G-Sec yield as is"></label>
         <label class="wide">Note (optional)<input type="text" id="f-note" maxlength="120" placeholder="e.g. RBI policy day, results season"></label>
       </div>
       <div class="preview" id="preview"></div>
       <div class="actions">
         <button class="btn" type="submit" id="save-btn">Save reading</button>
-        <span class="hint" id="form-hint">Cash flow, growth and risk-free rate carry over from your last saved reading.</span>
+        <span class="hint" id="form-hint">Cash flow, growth, risk-free rate and spread carry over from your last saved reading.</span>
       </div>
     </form>
 
@@ -320,7 +345,7 @@
         <table>
           <thead>
             <tr>
-              <th>Date</th><th class="l">Index</th><th>Close</th><th>Cash (pts)</th><th>Cash yield</th><th>Growth</th><th>Rf</th><th>Ke</th><th>Implied ERP</th><th class="l">Note</th><th></th>
+              <th>Date</th><th class="l">Index</th><th>Close</th><th>Cash (pts)</th><th>Cash yield</th><th>Growth</th><th>G-Sec</th><th>Spread</th><th>Ke</th><th>Implied ERP</th><th class="l">Note</th><th></th>
             </tr>
           </thead>
           <tbody id="rows"></tbody>
@@ -334,8 +359,28 @@
         <p>The implied equity risk premium is the discount rate that equates today's index level to the present value of the cash flows equity holders expect, less the risk-free rate. Cash flow per index point (trailing dividends plus buybacks) grows at the expected earnings growth rate for five years, then at the risk-free rate in perpetuity. This is Damodaran's two-stage set-up.</p>
         <div class="formula">Level = Σ<sub>t=1..5</sub> CF<sub>t</sub> / (1+Ke)<sup>t</sup> + CF<sub>5</sub>(1+Rf) / ((Ke−Rf)(1+Ke)<sup>5</sup>)&nbsp;&nbsp;·&nbsp;&nbsp;ERP = Ke − Rf</div>
         <p>Ke is solved by bisection to 1e-12. The index level enters only through the cash yield (cash flow ÷ level), so the daily close moves the ERP while the three assumptions stay fixed until you revise them. A falling ERP means prices are running ahead of the cash-flow inputs and the market is pricing less risk; a rising ERP means the opposite.</p>
+        <p>Risk-free rate: the tracker uses the 10-year G-Sec yield you enter, less the optional sovereign default spread. Enter the raw yield and leave the spread blank to follow the RBI/FBIL benchmark as is; enter the spread (Damodaran's convention: the yield of a government bond that carries default risk overstates the risk-free rate, so the country's default spread is deducted) to follow the adjusted convention. Both are valid. Keep one convention every day, and if you later build a cost of equity with a separate country risk premium, use the adjusted rate so country risk is not counted twice.</p>
         <p>Indian payout ratios are low, so a dividend-only cash flow gives a lower implied ERP than the US series. For a payout-adjusted view, enter a sustainable cash flow per point, for example earnings per point × (1 − g ÷ ROE), in the cash flow field and keep the same basis every day.</p>
         <p>Trend chips compare the latest close with the average of the last 20 readings (±0.5% band). The valuation chip places the latest ERP within this index's own history: bottom quartile reads as priced rich, top quartile as priced cheap. Both are rules of thumb, not a recommendation.</p>
+      </details>
+    </section>
+    <section class="card method">
+      <details>
+        <summary>Past episodes: what the premium did and what came next</summary>
+        <p>Reference episodes for reading today's state against history. Figures are from public market records and are rounded; verify before citing in a report. The three episodes without figures are described qualitatively.</p>
+        <div class="scroll">
+          <table class="episodes">
+            <thead><tr><th>Episode</th><th>What the premium did</th><th>What happened next</th></tr></thead>
+            <tbody>
+              <tr><td class="when">2008<br>Global financial crisis</td><td>Nifty 50 peaked at 6,357 on 8 Jan 2008 and fell to 2,252 on 27 Oct 2008, about 65% peak to trough; calendar 2008 was −51.3%. Prices fell far faster than cash flows, so the implied premium expanded sharply: the market was priced cheap on this measure through late 2008 and early 2009.</td><td>Calendar 2009 returned +77.6%. Readings taken when the premium was at its widest were followed by the strongest year in the index's history.</td></tr>
+              <tr><td class="when">2013<br>Taper tantrum</td><td>After the US Fed signalled it would slow bond buying, foreign investors sold Indian assets, the rupee slid and the index dropped sharply in the middle of the year. Bond yields jumped, so both the risk-free rate and the premium moved at once.</td><td>The fall reversed within months once flows returned and the rupee stabilised; the year ended positive. A premium spike driven by flows rather than earnings was short-lived.</td></tr>
+              <tr><td class="when">2016<br>Demonetisation</td><td>A domestic policy shock in Nov 2016 pushed prices down while cash-flow inputs were unchanged, widening the premium for a few weeks.</td><td>The dip was recovered in early 2017 and a broad rally followed. Same pattern: price-driven widening with fundamentals intact did not last.</td></tr>
+              <tr><td class="when">2020<br>Covid crash</td><td>Nifty 50 fell from 12,430 on 20 Jan 2020 to 7,511 on 23 Mar 2020, about 38% in 45 trading days, with foreign investors selling more than ₹65,000 crore in March alone. The premium expanded to its widest since 2008 while cash-flow inputs had barely been revised.</td><td>The index regained its pre-Covid high by Jan 2021, within about ten months of the low, and kept rising through 2021. The widest premium of the decade marked the best entry point of the decade.</td></tr>
+              <tr><td class="when">2022<br>Rate-hike cycle</td><td>Bond yields rose through the year as the RBI and the US Fed tightened. With prices moving sideways, the premium compressed mainly through the risk-free rate rather than through price.</td><td>A roughly flat year for the index; the next leg up came only after yields stopped rising. A rate-driven compression behaved differently from a price-driven one.</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>The pattern across these episodes: when the premium widened because prices fell while cash flows held (2008, 2020), the following year was strong. When a long rally compressed the premium (2007, 2021), the following year was weak or flat. Five episodes are a small sample, so treat this as context for the state chips, not a forecast.</p>
       </details>
     </section>
   </main>
@@ -371,8 +416,8 @@
   function fmtLevel(v) { return nfLevel.format(v); }
   function fmtPct(v, dp) { return isFinite(v) ? v.toFixed(dp == null ? 2 : dp) + '%' : '—'; }
   function fmtBps(deltaPct) {
-    var b = Math.round(deltaPct * 100);
-    return (b > 0 ? '+' : b < 0 ? '−' : '') + Math.abs(b) + ' bps';
+    var b = Math.round(deltaPct * 1000) / 10;
+    return (b > 0 ? '+' : b < 0 ? '−' : '') + Math.abs(b).toFixed(1) + ' bps';
   }
   function fmtSignedPct(v) { return (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(v).toFixed(2) + '%'; }
   function parseDate(s) { var p = s.split('-'); return new Date(+p[0], +p[1] - 1, +p[2]); }
@@ -407,10 +452,12 @@
     }
     return (lo + hi) / 2;
   }
+  // Risk-free used in the model: the entered G-Sec yield less the optional sovereign default spread.
+  function rfOf(e) { return e.rf - (e.spread > 0 ? e.spread : 0); }
   function derive(e) {
-    var yieldPct = e.cash / e.level * 100;
-    var ke = solveKe(yieldPct, e.growth, e.rf) * 100;
-    return { yieldPct: yieldPct, ke: ke, erp: ke - e.rf, t: parseDate(e.date).getTime() };
+    var yieldPct = e.cash / e.level * 100, rf = rfOf(e);
+    var ke = solveKe(yieldPct, e.growth, rf) * 100;
+    return { yieldPct: yieldPct, ke: ke, erp: ke - rf, rfEff: rf, t: parseDate(e.date).getTime() };
   }
 
   /* ---------- illustrative example rows (shown only while the store is empty) ---------- */
@@ -533,7 +580,7 @@
       fact('Close', fmtLevel(last.level), prev ? fmtSignedPct(dLv) : '');
       fact('Cost of equity (Ke)', fmtPct(last.ke));
       fact('Cash yield', fmtPct(last.yieldPct), 'g ' + fmtPct(last.growth));
-      fact('Risk-free', fmtPct(last.rf));
+      fact('Risk-free', fmtPct(last.rfEff), last.spread > 0 ? 'G-Sec ' + fmtPct(last.rf) + ' − ' + fmtPct(last.spread) : '');
       card.append(facts);
 
       var chips = h('div', 'chips');
@@ -560,7 +607,109 @@
         }
       }
       card.append(h('p', 'reading', txt));
+      if (prev) {
+        var why = h('div', 'why'); why.append(h('h3', null, 'Why it moved'));
+        var att = attribution(prev, last), ul = h('ul', 'att');
+        att.forEach(function (a) {
+          if (a.key === 'spread' && !a.from && !a.to) return;
+          var li = h('li');
+          li.append(h('span', 'att-l', a.label));
+          li.append(h('span', 'att-v ' + (a.bps > 0.00005 ? 'up' : a.bps < -0.00005 ? 'down' : ''), fmtBps(a.bps)));
+          if (Math.abs(a.bps) >= 0.00005) li.append(h('span', 'att-d', fmtInput(a.key, a.from) + ' → ' + fmtInput(a.key, a.to)));
+          ul.append(li);
+        });
+        why.append(ul);
+        why.append(h('p', 'reading', driverText(idx, att, last, prev)));
+        if (last.note) why.append(h('p', 'note-line', 'Your note for this reading: ' + last.note));
+        card.append(why);
+      }
       host.append(card);
+    });
+  }
+
+  /* ---------- why it moved: sequential attribution of the ERP change ---------- */
+  var INPUT_LABELS = { level: 'Price move', cash: 'Cash-flow revision', growth: 'Growth revision', rf: 'G-Sec yield move', spread: 'Default-spread revision' };
+  function fmtInput(key, v) { return key === 'level' || key === 'cash' ? fmtLevel(v) : fmtPct(v || 0); }
+  function attribution(prev, last) {
+    var cur = { level: prev.level, cash: prev.cash, growth: prev.growth, rf: prev.rf, spread: prev.spread || 0, date: last.date };
+    var base = derive(cur).erp, out = [];
+    ['level', 'cash', 'growth', 'rf', 'spread'].forEach(function (k) {
+      cur[k] = last[k];
+      var e = derive(cur).erp;
+      out.push({ key: k, label: INPUT_LABELS[k], bps: e - base, from: prev[k] || 0, to: last[k] || 0 });
+      base = e;
+    });
+    return out;
+  }
+  function driverText(idx, att, last, prev) {
+    var main = att.reduce(function (m, a) { return Math.abs(a.bps) > Math.abs(m.bps) ? a : m; }, att[0]);
+    if (Math.abs(main.bps) < 0.00005) return 'No meaningful change: price and assumptions are effectively unchanged since the previous reading.';
+    var others = att.filter(function (a) { return a.key !== main.key && Math.abs(a.bps) >= 0.00005; });
+    var tail = others.length ? ' The other inputs contributed ' + others.map(function (a) { return a.label.toLowerCase() + ' ' + fmtBps(a.bps); }).join(', ') + '.' : '';
+    var dLv = (last.level / prev.level - 1) * 100;
+    if (main.key === 'level') {
+      var fell = dLv < 0;
+      return 'Driven by the price move. ' + IDX[idx].name + (fell ? ' fell ' : ' rose ') + Math.abs(dLv).toFixed(2) + '% while the cash-flow, growth and risk-free inputs ' + (others.length ? 'moved only slightly' : 'were unchanged') + '. A ' + (fell ? 'fall' : 'rise') + ' with fundamentals intact means investors are ' + (fell ? 'demanding more' : 'accepting less') + ' compensation for holding equities, which usually traces to flows, sentiment or news rather than earnings.' + tail;
+    }
+    if (main.key === 'rf') {
+      return 'Driven by the risk-free rate, which moved from ' + fmtPct(main.from) + ' to ' + fmtPct(main.to) + ' while the index ' + (Math.abs(dLv) < 0.05 ? 'barely moved' : (dLv < 0 ? 'fell ' : 'rose ') + Math.abs(dLv).toFixed(2) + '%') + '. This is a bond-market move, not an equity repricing: the premium changes because equities are measured against a new yield.' + tail;
+    }
+    if (main.key === 'spread') {
+      return 'Driven by your default-spread revision from ' + fmtPct(main.from) + ' to ' + fmtPct(main.to) + '. This changes the risk-free rate used in the model, not the market price.' + tail;
+    }
+    if (main.key === 'growth') {
+      return 'Driven by your growth revision from ' + fmtPct(main.from) + ' to ' + fmtPct(main.to) + '. Higher expected growth raises the implied premium at the same price and lower growth reduces it; the market price itself is not the cause.' + tail;
+    }
+    return 'Driven by your cash-flow revision from ' + fmtLevel(main.from) + ' to ' + fmtLevel(main.to) + ' points. This is a change in the fundamentals input, not a market move.' + tail;
+  }
+
+  /* ---------- what happened before: analogues from the reading log ---------- */
+  var HORIZONS = [5, 10, 20];
+  function stateAt(series, i) {
+    var pre = series.slice(0, i + 1), tr = trendOf(pre), va = valuationOf(pre);
+    return tr && va ? { key: tr.label + '|' + va.label, trend: tr, val: va } : null;
+  }
+  function renderAnalogs() {
+    var host = $('analogs'); host.replaceChildren();
+    var rows = allRows();
+    Object.keys(IDX).forEach(function (idx) {
+      var s = byIdx(rows, idx), box = h('div', 'analog');
+      var head = h('div', 'state'); head.append(h('h3', null, IDX[idx].name)); box.append(head);
+      var today = s.length ? stateAt(s, s.length - 1) : null;
+      if (!today) {
+        box.append(h('p', 'reading', 'Needs at least 5 readings to define today\'s state.'));
+        host.append(box); return;
+      }
+      head.append(h('span', 'chip ' + today.trend.cls, today.trend.label));
+      head.append(h('span', 'chip', today.val.label));
+      var states = s.map(function (_, i) { return stateAt(s, i); });
+      var table = h('table'), thead = h('thead'), trh = h('tr');
+      ['After', 'Cases', 'Median move', 'Up'].forEach(function (t) { trh.append(h('th', null, t)); });
+      thead.append(trh); table.append(thead);
+      var tbody = h('tbody'), any = false;
+      HORIZONS.forEach(function (hz) {
+        var fwd = [];
+        for (var i = 0; i + hz < s.length - 1; i++) {
+          if (states[i] && states[i].key === today.key) fwd.push((s[i + hz].level / s[i].level - 1) * 100);
+        }
+        var tr = h('tr'); tr.append(h('td', null, hz + ' readings'));
+        if (!fwd.length) { tr.append(h('td', 'num', '0')); tr.append(h('td', 'num', '—')); tr.append(h('td', 'num', '—')); }
+        else {
+          any = true;
+          fwd.sort(function (a, b) { return a - b; });
+          var mid = fwd.length % 2 ? fwd[(fwd.length - 1) / 2] : (fwd[fwd.length / 2 - 1] + fwd[fwd.length / 2]) / 2;
+          var up = fwd.filter(function (v) { return v > 0; }).length;
+          tr.append(h('td', 'num', String(fwd.length)));
+          tr.append(h('td', 'num', fmtSignedPct(mid)));
+          tr.append(h('td', 'num', Math.round(up / fwd.length * 100) + '%'));
+        }
+        tbody.append(tr);
+      });
+      table.append(tbody); box.append(table);
+      box.append(h('p', 'reading', any
+        ? 'Each case is an earlier reading that was also ' + today.trend.label.toLowerCase() + ' and ' + today.val.label.toLowerCase() + ' at the time. Median move is the index change after that many readings; Up is how often it was higher.'
+        : 'No earlier reading has been in this state yet. Cases will appear as the log grows.'));
+      host.append(box);
     });
   }
 
@@ -603,6 +752,7 @@
 
     var ends = [];
     cfg.series.forEach(function (s) {
+      if (!s.points.length) return;
       var p = s.points.slice().sort(function (a, b) { return a.t - b.t; });
       var d = p.map(function (q, i) { return (i ? 'L' : 'M') + sx(q.t).toFixed(1) + ' ' + sy(q.v).toFixed(1); }).join(' ');
       if (p.length > 1) {
@@ -700,7 +850,7 @@
                    .sort(function (a, b) { return b.t - a.t || a.idx.localeCompare(b.idx); });
     $('count').textContent = list.length + ' of ' + rows.length + ' readings';
     if (!list.length) {
-      var tr0 = h('tr'), td0 = h('td', 'l', 'No readings in this range.'); td0.colSpan = 11; tr0.append(td0); body.append(tr0); return;
+      var tr0 = h('tr'), td0 = h('td', 'l', 'No readings in this range.'); td0.colSpan = 12; tr0.append(td0); body.append(tr0); return;
     }
     list.forEach(function (r) {
       var tr = h('tr');
@@ -711,6 +861,7 @@
       tr.append(h('td', 'num', fmtPct(r.yieldPct, 4)));
       tr.append(h('td', 'num', fmtPct(r.growth)));
       tr.append(h('td', 'num', fmtPct(r.rf)));
+      tr.append(h('td', 'num', fmtPct(r.spread || 0)));
       tr.append(h('td', 'num', fmtPct(r.ke, 4)));
       tr.append(h('td', 'num', fmtPct(r.erp, 4)));
       var tn = h('td', 'l note', r.note || ''); tn.title = r.note || ''; tr.append(tn);
@@ -743,9 +894,9 @@
   function prefill(force) {
     var last = latestReal(selectedIdx());
     if (!last) return;
-    ['cash', 'growth', 'rf'].forEach(function (k) {
-      var inp = $('f-' + k);
-      if (force || inp.value === '') inp.value = last[k];
+    ['cash', 'growth', 'rf', 'spread'].forEach(function (k) {
+      var inp = $('f-' + k), v = last[k];
+      if (force || inp.value === '') inp.value = (v == null || (k === 'spread' && !v)) ? '' : v;
     });
     updatePreview();
   }
@@ -754,6 +905,7 @@
       idx: selectedIdx(), date: $('f-date').value,
       level: parseFloat($('f-level').value), cash: parseFloat($('f-cash').value),
       growth: parseFloat($('f-growth').value), rf: parseFloat($('f-rf').value),
+      spread: $('f-spread').value === '' ? 0 : parseFloat($('f-spread').value),
       note: $('f-note').value.trim()
     };
   }
@@ -779,12 +931,13 @@
     if (!(e.cash > 0)) return setHint('Cash flow per index point must be greater than zero.', true);
     if (!isFinite(e.growth)) return setHint('Enter the expected growth rate.', true);
     if (!(e.rf > 0) || e.rf >= 100) return setHint('Enter the risk-free rate as a percentage, e.g. 6.60.', true);
+    if (!(e.spread >= 0) || e.spread >= e.rf) return setHint('The default spread must be zero or more and smaller than the G-Sec yield.', true);
     var d = derive(e);
     if (!isFinite(d.erp)) return setHint('These inputs give no solution. Check that the cash flow and growth are on the same basis as the level.', true);
     var id = e.idx + '_' + e.date, existed = state.entries.has(id);
-    var doc = { idx: e.idx, date: e.date, level: e.level, cash: e.cash, growth: e.growth, rf: e.rf, note: e.note, updatedAt: new Date().toISOString() };
+    var doc = { idx: e.idx, date: e.date, level: e.level, cash: e.cash, growth: e.growth, rf: e.rf, spread: e.spread, note: e.note, updatedAt: new Date().toISOString() };
     saveEntry(id, doc).then(function () {
-      setHint('Cash flow, growth and risk-free rate carry over from your last saved reading.');
+      setHint('Cash flow, growth, risk-free rate and spread carry over from your last saved reading.');
       toast((existed ? 'Updated ' : 'Saved ') + IDX[e.idx].name + ' for ' + fmtDate(parseDate(e.date).getTime()));
       $('f-level').value = ''; $('f-note').value = ''; updatePreview();
     }, function (err) {
@@ -830,7 +983,7 @@
   function renderAll() {
     var real = state.entries.size > 0;
     $('example-note').hidden = real || state.mode === 'connecting';
-    renderCards(); renderCharts(); renderTable(); prefill(false);
+    renderCards(); renderAnalogs(); renderCharts(); renderTable(); prefill(false);
   }
   var resizeTimer;
   window.addEventListener('resize', function () { clearTimeout(resizeTimer); resizeTimer = setTimeout(renderCharts, 120); });
