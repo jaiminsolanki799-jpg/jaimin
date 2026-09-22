@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T16:00:13+00:00",
+ "generated_at": "2026-09-22T16:30:48+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 20:47:00 +0530",
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 21:21:27 +0530",
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 21:03:02 +0530",
+   "sample_date": "Tue, 22 Sep 2026 21:33:38 +0530",
    "error": null,
-   "checked_at": "2026-09-22T16:00:13+00:00"
+   "checked_at": "2026-09-22T16:30:48+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "44d25836f2bfba9f",
+   "title": "EPFO: How to file nomination for your provident fund account online? Who can be nominee? Check steps here…",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-how-file-nomination-your-provident-fund-account-online-umang-app-who-can-be-nominees-family-spouse-child-step-guide-11790087374012.html",
+   "summary": "EPFO: Members can add nominee(s) for their provident fund account either online or offline. Here's the top FAQs, eligibility and stepwise guide to file e-nomination and who is considered a valid nominee.&nbsp;",
+   "published": "2026-09-22T16:03:38+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/EPFO_1790092718111_EQzD_1790092726778_z8kZ_2716fd87-5c17-418b-8f30-a01f6cab77df_fdAK.png",
+   "topics": [],
+   "first_seen": "2026-09-22T16:30:48+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "57041f4ea785611b",
    "title": "Why NSE IPO became India's 2nd-largest, not biggest: MD-CEO Ashishkumar Chauhan explains | Exclusive",
@@ -404,9 +422,9 @@
   },
   {
    "id": "0aee58b9bbd28459",
-   "title": "Wall Street extends gains as oil prices retreat on hopes of US-Iran breakthrough",
+   "title": "Wall Street mixed as oil prices retreat on hopes of US-Iran breakthrough",
    "link": "https://www.livemint.com/market/stock-market-news/wall-street-extends-gains-as-oil-prices-retreat-on-hopes-of-us-iran-breakthrough-11790085064437.html",
-   "summary": "At 09:32 a.m. ET, the Dow Jones Industrial Average rose 0.30%, the S&amp;P 500 gained 0.19%, the Nasdaq Composite added 0.33%",
+   "summary": "As of 10:45 a.m. Eastern Time, the S&amp;P 500 was virtually unchanged, the Dow Jones Industrial Average was down 0.4%, and the Nasdaq Composite added 0.3%.",
    "published": "2026-09-22T14:08:58+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -6493,42 +6511,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T17:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1935cb749e6c1db5",
-   "title": "From smartphone to luxury tech: Why Apple may be pushing the iPhone further upmarket",
-   "link": "https://www.livemint.com/companies/from-smartphone-to-luxury-tech-iphone-duo-iphone-18-pro-why-apple-may-be-pushing-the-iphone-further-upmarket-11789221620065.html",
-   "summary": "Apple's iPhone 18 launch skipped the standard model entirely. With the $1,999 iPhone Duo foldable and Pro-only lineup, is Apple turning the iPhone into a luxury product?",
-   "published": "2026-09-12T16:16:49+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Untitled_design_1789229733506_02aff93c-71a7-4af9-954b-c78bff3f554c_1789229756220_21340c55-7413-46fc-bd5b-6b330b2c47f9_2e27920d-4f8b-49da-881c-be9047275fdb_f186acb8-5160-4353-b458-0fd7a919559d.png",
-   "topics": [],
-   "first_seen": "2026-09-12T16:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7f36ffb392d867cd",
-   "title": "PPF: Investing ₹1.5 lakh/year will accumulate this much corpus till your child turns 18 — Check calculations",
-   "link": "https://www.livemint.com/money/personal-finance/ppf-invest-rs-1-5-lakh-year-accumulate-55-lakh-corpus-till-your-child-turns-18-check-calculations-3-crore-retirement-age-11789224208907.html",
-   "summary": "Today, we take a look at how much annual contributions of ₹50,000, ₹1 lakh and ₹1.5 lakh, made either as lumpsum or monthly credits, can generate for your child over 18 years. We also check how much they can accumulate by continuing the account till retirement…",
-   "published": "2026-09-12T16:12:14+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/PPF_contributions_1789229396170_cd8aa039-eca2-4a92-be7c-dd3ed21db315_1789229420401_8d9d956f-2721-42fa-9ff7-47e7bfe8ff2f_350642a6-b908-4f40-b954-8a6769949b62_c8486eda-3b7d-4887-bba5-35506118674e.png",
-   "topics": [],
-   "first_seen": "2026-09-12T16:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
