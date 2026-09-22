@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T06:30:10+00:00",
+ "generated_at": "2026-09-22T07:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 11,
+   "items": 11,
    "sample_date": "Tue, 22 Sep 2026 04:36:11 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:30:10+00:00"
+   "checked_at": "2026-09-22T07:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
+   "sample_date": "Mon, 21 Sep 2026 14:08:55 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:30:10+00:00"
+   "checked_at": "2026-09-22T07:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 06:58:45 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:30:10+00:00"
+   "checked_at": "2026-09-22T07:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T06:30:10+00:00"
+   "checked_at": "2026-09-22T07:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 22 Sep 2026 06:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-22T06:30:10+00:00"
+   "checked_at": "2026-09-22T07:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "09c9c59d36ff513a",
+   "title": "Tesla Heads to Trial Over Alleged Bias and Discrimination Against Black Workers",
+   "link": "https://startuptalky.com/news/tesla-heads-to-trial-over-alleged-bias-and-discrimination/",
+   "summary": "Tesla is under trial on claims of racial discrimination and harassment of Black workers at its factory in Fremont, California. Black employees were subjected to racial slurs, graffiti, unequal pay, less promotion prospects and were segregated into lower-paying jobs.",
+   "published": "2026-09-22T06:58:45+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/tesla-heads-to-trial-over-alleged-bias-and-discrimination-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-22T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0d3fadebd076d1c1",
+   "title": "Adith Charlie",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HbWxnYkxpQ1lBaERhSWZIOEdEQ0xoQWNHM3g4Q01xeWszWktZdFI1RjlKVzRBUkRPUnYzY2xvcVR3dy1lbHhGTDM2WTVaNzZEbjEzTENIa3I?oc=5",
+   "summary": "",
+   "published": "2026-09-22T06:36:33+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "01f9cfd5b5d8a892",
+   "title": "Demoverse Raises $600K to Let Shoppers Design Products",
+   "link": "https://startuptalky.com/news/demoverse-raises-600k-pre-seed-lumikai/",
+   "summary": "Demoverse has raised $600,000 led by Lumikai for a platform where shoppers redesign brand concepts using AI and earn royalties if their version gets made. The pitch is a demand signal before production, in an industry that made up to 5 billion unsold garments in 2023.",
+   "published": "2026-09-22T06:31:43+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/akshay-mehta-demoverse-pre-seed-lumikai.webp",
+   "topics": [],
+   "first_seen": "2026-09-22T07:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "456bb691c45dd0e4",
    "title": "Morphotonics raises €40M to expand its display tech into data centers",
