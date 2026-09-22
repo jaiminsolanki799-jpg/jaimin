@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T03:00:11+00:00",
+ "generated_at": "2026-09-22T03:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:00:11+00:00"
+   "checked_at": "2026-09-22T03:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 21 Sep 2026 14:08:55 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:00:11+00:00"
+   "checked_at": "2026-09-22T03:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:00:11+00:00"
+   "checked_at": "2026-09-22T03:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 17,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:00:11+00:00"
+   "checked_at": "2026-09-22T03:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 23:44:28 +0000",
    "error": null,
-   "checked_at": "2026-09-22T03:00:11+00:00"
+   "checked_at": "2026-09-22T03:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "bf41d35578c70b1d",
+   "title": "Reports of our death are greatly exaggerated, Rajendran Dandapani tells audience at DevSparks Chennai",
+   "link": "https://yourstory.com/2026/09/reports-of-our-death-greatly-exaggerated-rajendran-dandapani-developers-devsparks-chennai",
+   "summary": "Zoho Corporation Director Rajendran Dandapani said AI may take over more of the work of writing code, but developers will increasingly need to focus on deciding what to build, directing AI systems, and judging what they produce.",
+   "published": "2026-09-22T03:00:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T03:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f2cdc9b71d2dbb2c",
    "title": "Starbucks picks Chennai for first India GCC; Building a Wi-Fi software powerhouse",
