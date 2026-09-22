@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T15:00:12+00:00",
+ "generated_at": "2026-09-22T15:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:00:12+00:00"
+   "checked_at": "2026-09-22T15:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 10:36:42 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:00:12+00:00"
+   "checked_at": "2026-09-22T15:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:00:12+00:00"
+   "checked_at": "2026-09-22T15:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Mon, 21 Sep 2026 05:01:57 GMT",
    "error": null,
-   "checked_at": "2026-09-22T15:00:12+00:00"
+   "checked_at": "2026-09-22T15:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 22 Sep 2026 15:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-22T15:00:12+00:00"
+   "checked_at": "2026-09-22T15:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 11,
+ "new_since_last_run": 8,
  "items": [
   {
    "id": "ade5f579157885f5",
@@ -106,6 +106,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T15:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b9dfdf1a71e60707",
+   "title": "AstroForge is putting AI in command of its next spacecraft",
+   "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+   "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+   "published": "2026-09-22T15:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T15:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -207,7 +225,7 @@
    "id": "e8445564967ae3e2",
    "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
    "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-   "summary": "Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.",
+   "summary": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
    "published": "2026-09-22T14:00:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -546,7 +564,7 @@
    "id": "fd3ad69cb0adba4c",
    "title": "Indian founders account for $560B unicorn valuation overseas: report",
    "link": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
-   "summary": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas",
+   "summary": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas.",
    "published": "2026-09-22T10:36:42+00:00",
    "source": "YourStory",
    "group": "YourStory",
@@ -3254,24 +3272,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T19:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ddbc328c90973ad1",
-   "title": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration",
-   "link": "https://yourstory.com/2026/09/brics-startup-incubator-network-considers-innovation-fund-new-delhi-declaration",
-   "summary": "The grouping also proposed a digital public infrastructure repository, deeper cooperation on AI and faster cross-border payments among member countries.",
-   "published": "2026-09-12T15:11:14+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T15:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
