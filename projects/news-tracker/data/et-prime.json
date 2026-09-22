@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-22T19:30:09+00:00",
+ "generated_at": "2026-09-22T20:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 00:17:54 +0530",
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 22 Sep 2026 22:52:35 +0530",
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 22 Sep 2026 23:48:51 +0530",
+   "sample_date": "Wed, 23 Sep 2026 01:17:42 +0530",
    "error": null,
-   "checked_at": "2026-09-22T19:30:09+00:00"
+   "checked_at": "2026-09-22T20:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "7b64dbbdcdb6ae5c",
+   "title": "What LIC should do to remain money-spinner for govt, policyholders",
+   "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/what-lic-should-do-to-remain-money-spinner-for-govt-policyholders/primearticleshow/133657196.cms",
+   "summary": "",
+   "published": "2026-09-22T20:00:10+00:00",
+   "source": "ET Prime: Fintech & BFSI",
+   "group": "ET Prime",
+   "category": "Fintech & BFSI",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cd872212097af951",
+   "title": "Are patients paying the price for India’s PE-led healthcare boom?",
+   "link": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare/are-patients-paying-the-price-for-indias-pe-led-healthcare-boom/primearticleshow/133304885.cms",
+   "summary": "",
+   "published": "2026-09-22T20:00:10+00:00",
+   "source": "ET Prime: Pharma & healthcare",
+   "group": "ET Prime",
+   "category": "Pharma & healthcare",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c0cd4473983dcad7",
+   "title": "Will Uncle Sam’s 100% tariff threat stop India’s Russian oil imports?",
+   "link": "https://economictimes.indiatimes.com/prime/energy/will-uncle-sams-100-tariff-threat-stop-indias-russian-oil-imports/primearticleshow/133181250.cms",
+   "summary": "",
+   "published": "2026-09-22T20:00:10+00:00",
+   "source": "ET Prime: Energy",
+   "group": "ET Prime",
+   "category": "Energy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40b4d487474034f2",
+   "title": "Thinking about your next money move? Here's how crypto is gaining traction among Gen Z investors",
+   "link": "https://www.livemint.com/money/personal-finance/thinking-about-your-next-money-move-heres-how-crypto-is-gaining-traction-among-gen-z-investors-11790101743186.html",
+   "summary": "Gen Z is emerging as a major crypto investor group in India, accounting for around half of new registrations in H1 2026. A new report shows that Indian investors bought around 7% more crypto than they sold.",
+   "published": "2026-09-22T19:47:42+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/tire_1790105612301_6lWD_1790105617644_2ZU5_6000334f-4c16-4399-8bc8-faf90e2a21b0_2J7H.png",
+   "topics": [],
+   "first_seen": "2026-09-22T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "654e632e27c8485a",
    "title": "Train station to rocket propellants, a Nagpur firm’s INR21k-cr journey",
@@ -6517,24 +6589,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-12T20:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a3a19757c983263f",
-   "title": "Weddings are changing: Why Manyavar needs to look beyond sherwanis",
-   "link": "https://economictimes.indiatimes.com/prime/consumer/weddings-are-changing-why-manyavar-needs-to-look-beyond-sherwanis/primearticleshow/132810752.cms",
-   "summary": "",
-   "published": "2026-09-12T19:30:09+00:00",
-   "source": "ET Prime: Consumer",
-   "group": "ET Prime",
-   "category": "Consumer",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-12T19:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
