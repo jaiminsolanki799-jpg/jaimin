@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-22T03:30:09+00:00",
+ "generated_at": "2026-09-22T04:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 7,
-   "items": 7,
+   "fetched": 6,
+   "items": 6,
    "sample_date": "Tue, 15 Sep 2026 04:19:16 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:30:09+00:00"
+   "checked_at": "2026-09-22T04:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 03:00:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:30:09+00:00"
+   "checked_at": "2026-09-22T04:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 21 Sep 2026 07:29:00 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:30:09+00:00"
+   "checked_at": "2026-09-22T04:00:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 17,
-   "items": 17,
+   "fetched": 19,
+   "items": 19,
    "sample_date": "Mon, 21 Sep 2026 07:24:14 GMT",
    "error": null,
-   "checked_at": "2026-09-22T03:30:09+00:00"
+   "checked_at": "2026-09-22T04:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 21 Sep 2026 23:44:28 +0000",
    "error": null,
-   "checked_at": "2026-09-22T03:30:09+00:00"
+   "checked_at": "2026-09-22T04:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,68 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "e16bec16c68e38f7",
+   "title": "Spinny confidentially pre-files IPO; FY26 revenue touches Rs 6,000 Cr",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVpFMnlJZDdDa09rZllMb2pYd0VOeGwzMkd0LUVqOFRPWkE4ckE1MjRrdHZ6MU9uTGhnSHhJSjFUa2RhYkdTbEg2aTNYaDU4MHdwd19ybEs5YVVLU0J5dkJxcm9XUWtKRVZHeS12TkFPdGZiNnpqWVpYRW1iOU9hVG5wbEtvck9MWlBwaXkxVS1KSTFfZXBobDV6VkZvb21HcjZMMNIBpAFBVV95cUxNYVpFMnlJZDdDa09rZllMb2pYd0VOeGwzMkd0LUVqOFRPWkE4ckE1MjRrdHZ6MU9uTGhnSHhJSjFUa2RhYkdTbEg2aTNYaDU4MHdwd19ybEs5YVVLU0J5dkJxcm9XUWtKRVZHeS12TkFPdGZiNnpqWVpYRW1iOU9hVG5wbEtvck9MWlBwaXkxVS1KSTFfZXBobDV6VkZvb21HcjZMMA?oc=5",
+   "summary": "",
+   "published": "2026-09-22T03:48:20+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-22T04:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "466c0bba1e7dc178",
+   "title": "Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDBnWUVTN01RN1hvVm5sV0UtNUJ4dVVVOVB3QXB1YmlQUXhqOV9ORktUQi1fUTN6ZVFjMTJ2cGdCUlVNYk9MYXZ0WTNHZEZWNXFrd3dxWGRPYTh1S21LcWlrQWpXY3JqM2o1WkJfT1JBTThhTjBnbVQwQ1JaMnB3SkJlREs3eENjRXZmdV9aRHBkN25vS3k4alZjTWxIOVpsZHc0UWl4bHRxb3lWdGtz0gGvAUFVX3lxTE1sMGdZRVM3TVE3WG9WbmxXRS01Qnh1VVU5UHdBcHViaVBReGo5X05GS1RCLV9RM3plUWMxMnZwZ0JSVU1iT0xhdnRZM0dkRlY1cWt3d3FYZE9hOHVLbUtxaWtBaldjcmozajVaQl9PUkFNOGFOMGdtVDBDUloycHdKQmVESzd4Q2NFdmZ1X1pEcGQ3bm9LeThqVmNNbEg5WmxkdzRRaXhsdHFveVZ0a3M?oc=5",
+   "summary": "",
+   "published": "2026-09-22T03:30:37+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T04:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "f4412887c250047b",
+   "title": "Use AI to build the first prototype, but don’t stop learning the fundamentals: Intel’s Aditi Nanda",
+   "link": "https://yourstory.com/2026/09/devsparks-chennai-ai-first-prototype-dont-stop-learning--fundamentals-intel-aditi-nanda",
+   "summary": "At DevSparks Chennai, Intel Director Aditi Nanda said developers may need to spend less time memorizing languages and frameworks, but engineering fundamentals, system knowledge, and the ability to understand user needs will remain essential.",
+   "published": "2026-09-22T03:30:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-22T04:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bf41d35578c70b1d",
    "title": "Reports of our death are greatly exaggerated, Rajendran Dandapani tells audience at DevSparks Chennai",
@@ -2337,24 +2397,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-12T03:38:34+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
