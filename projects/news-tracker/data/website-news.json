@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T00:30:11+00:00",
+ "generated_at": "2026-09-23T01:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Mon, 21 Sep 2026 05:26:34 GMT",
    "error": null,
-   "checked_at": "2026-09-23T00:30:11+00:00"
+   "checked_at": "2026-09-23T01:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 15:34:21 GMT",
+   "sample_date": "Mon, 21 Sep 2026 13:00:27 GMT",
    "error": null,
-   "checked_at": "2026-09-23T00:30:11+00:00"
+   "checked_at": "2026-09-23T01:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-23T00:30:11+00:00"
+   "checked_at": "2026-09-23T01:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T00:30:11+00:00"
+   "checked_at": "2026-09-23T01:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 22 Sep 2026 23:21:49 +0000",
    "error": null,
-   "checked_at": "2026-09-23T00:30:11+00:00"
+   "checked_at": "2026-09-23T01:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "20fb50b82f179bb8",
+   "title": "D2C streetwear brand Indian Walker raises pre-seed round at Rs 20 Cr post-money valuation",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRF9Ic01UbFlTVkEzSzJOcm5pV2Z0UDY5SWQwUk0xaDIyYmpWNXctUDJMZ3JhelFaUDR3ckhta3UxUmU2c25WWXFMUy1Wbk5OSG0wYndiWUhIQmZGNHBNa0Z5dmk0WTdmMVIxUm9HaVJ1R0JrQzZZR3VjWThsd2ZGS2xycThSTVBabzJVVElzRXhzXzAyeHYxWDlkSkhLMlpPWWN1c3MzMmZ3am5HVnJnSnhySGp0d2xxMzY0aEVydGRCYlE3ZDQ00gHHAUFVX3lxTFBEX0hzTVRsWVNWQTNLMk5ybmlXZnRQNjlJZDBSTTFoMjJialY1dy1QMkxncmF6UVpQNHdySG1rdTFSZTZzblZZcUxTLVZuTk5IbTBid2JZSEhCZkY0cE1rRnl2aTRZN2YxUjFSb0dpUnVHQmtDNllHdWNZOGx3ZkZLbHJxOFJNUFpvMlVUSXNFeHNfMDJ4djFYOWRKSEsyWk9ZY3VzczMyZndqbkdWcmdKeHJIanR3bHEzNjRoRXJ0ZEJiUTdkNDQ?oc=5",
+   "summary": "",
+   "published": "2026-09-23T00:30:37+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-23T01:00:12+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
   {
    "id": "d93240d4c3f73720",
    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
@@ -307,7 +330,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T16:00:13+00:00",
@@ -873,7 +896,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -968,7 +991,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -1004,7 +1027,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -1094,7 +1117,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -1112,7 +1135,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:00:10+00:00",
@@ -1130,7 +1153,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1226,7 +1249,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T13:00:12+00:00",
@@ -1266,7 +1289,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T06:00:08+00:00",
@@ -1340,7 +1363,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1380,7 +1403,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -1422,7 +1445,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1444,7 +1467,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T04:00:10+00:00",
@@ -1832,7 +1855,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T14:00:09+00:00",
@@ -1946,7 +1969,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T11:00:11+00:00",
@@ -1964,7 +1987,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T10:30:11+00:00",
@@ -2002,7 +2025,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T10:30:11+00:00",
@@ -2038,7 +2061,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T08:00:11+00:00",
@@ -2078,7 +2101,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T08:30:08+00:00",
@@ -2114,7 +2137,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2172,7 +2195,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
@@ -2210,7 +2233,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2232,7 +2255,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T08:00:11+00:00",
