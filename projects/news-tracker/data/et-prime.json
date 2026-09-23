@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T17:00:11+00:00",
+ "generated_at": "2026-09-23T17:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 22:09:51 +0530",
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 22:18:31 +0530",
+   "sample_date": "Wed, 23 Sep 2026 22:54:27 +0530",
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 21:57:07 +0530",
+   "sample_date": "Wed, 23 Sep 2026 22:32:23 +0530",
    "error": null,
-   "checked_at": "2026-09-23T17:00:11+00:00"
+   "checked_at": "2026-09-23T17:30:09+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,42 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "776ad43043f53d21",
+   "title": "Nifty outlook, guide tomorrow: Why 23,600 matters; bullish candle formed, check resistance, support levels | Thu 24 Sep",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-guide-tomorrow-why-23-600-matters-bullish-candle-formed-check-resistance-support-levels-thu-24-sep-11790181438414.html",
+   "summary": "The Nifty 50 recovered on Wednesday, gaining 118 points and closing near 23,450. It formed a bullish candle despite previous bearish pressure, but resistance remains at 23,489–23,600. Support is noted at 23,350 and 23,285, while GNA Axles signals a potential uptrend following a recent breakout.",
+   "published": "2026-09-23T17:24:27+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Dalal_Street_Investment_1789433297270_4qOt_1789433_1790181835722_bWvE_1790181835952_TfMZ_ffac8cec-acda-4ea7-9fb9-99c73daaf264_urhm.png",
+   "topics": [],
+   "first_seen": "2026-09-23T17:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6d198bb7b8b808c3",
+   "title": "US ETF frenzy: Why Indians are paying ₹150 for ₹100 of assets, and what to do instead",
+   "link": "https://www.livemint.com/money/personal-finance/us-etf-frenzy-why-indians-are-paying-150-for-100-of-assets-and-what-to-do-instead-11790179135194.html",
+   "summary": "Indian ETFs faced a tumultuous week, with some trading at steep premiums and experiencing sharp declines. Experts warn that limited supply amidst high demand creates risks for investors",
+   "published": "2026-09-23T17:02:23+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/ETF_1790181266352_aiyq_1790181266764_s1VN_053e1eed-c852-4331-b5f9-6bf143f17b02_ja9P.png",
+   "topics": [],
+   "first_seen": "2026-09-23T17:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "151d3a04512bf508",
    "title": "Top breakout stocks to buy tomorrow: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
