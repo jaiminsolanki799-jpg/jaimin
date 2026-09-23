@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T05:30:11+00:00",
+ "generated_at": "2026-09-23T06:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T05:30:11+00:00"
+   "checked_at": "2026-09-23T06:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 10:36:42 GMT",
    "error": null,
-   "checked_at": "2026-09-23T05:30:11+00:00"
+   "checked_at": "2026-09-23T06:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
    "error": null,
-   "checked_at": "2026-09-23T05:30:11+00:00"
+   "checked_at": "2026-09-23T06:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T05:30:11+00:00"
+   "checked_at": "2026-09-23T06:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T05:30:11+00:00"
+   "checked_at": "2026-09-23T06:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "c317f070259b3fdd",
+   "title": "Mastercard sells entire 4.31% Pine Labs stake for Rs 934 Cr",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1dqZmR2VEZ3c0NYYWEtaFdJZmlES1VvUWNfYUFnS0t6SDE3VlREczQ0TEtuYjNlTGpNYnYycjhkaU9vemNkYTZSSzRiVFpZaGEwalV6amdoXzlzUzRQT0cxUDlGR0tfbnByVXJvVEZpSzNJQ2k5anpIeXVTbW1tZkhzRFYzYTNMTUtEOFhBN3VmekM2T3R30gGXAUFVX3lxTE9vV2pmZHZURndzQ1hhYS1oV0lmaURLVW9RY19hQWdLS3pIMTdWVERzNDRMS25iM2VMak1idjJyOGRpT296Y2RhNlJLNGJUWlloYTBqVXpqZ2hfOXNTNFBPRzFQOUZHS19ucHJVcm9URmlLM0lDaTlqekh5dVNtbW1mSHNEVjNhM0xNS0Q4WEE3dWZ6QzZPdHc?oc=5",
+   "summary": "",
+   "published": "2026-09-23T05:54:57+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T06:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "233cf3705a5a02e9",
    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -146,6 +164,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "efe4e783511c035b",
+   "title": "Indian Walker",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KT3l4aDN4NHl1SHVMWFoxb0lRNXp0di1POFBIRG5Vcl9VbUY2OWUtcU8wWkpCdFdxaVZMaGdJNUlyR0pkZUtwY055anJaWl9K?oc=5",
+   "summary": "",
+   "published": "2026-09-23T04:29:08+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T06:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "587faf73bdc2e86d",
