@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T21:00:09+00:00",
+ "generated_at": "2026-09-23T21:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:00:09+00:00"
+   "checked_at": "2026-09-23T21:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
+   "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:00:09+00:00"
+   "checked_at": "2026-09-23T21:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:00:09+00:00"
+   "checked_at": "2026-09-23T21:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:00:09+00:00"
+   "checked_at": "2026-09-23T21:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 20:35:17 +0000",
+   "sample_date": "Wed, 23 Sep 2026 21:21:33 +0000",
    "error": null,
-   "checked_at": "2026-09-23T21:00:09+00:00"
+   "checked_at": "2026-09-23T21:30:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "c95096769e0f0d75",
+   "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+   "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+   "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net zero pledge?",
+   "published": "2026-09-23T21:21:33+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T21:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ec1e6deeacaf5727",
    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
