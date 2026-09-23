@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T16:00:10+00:00",
+ "generated_at": "2026-09-23T16:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:00:10+00:00"
+   "checked_at": "2026-09-23T16:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
+   "sample_date": "Wed, 23 Sep 2026 08:11:20 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:00:10+00:00"
+   "checked_at": "2026-09-23T16:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:00:10+00:00"
+   "checked_at": "2026-09-23T16:30:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:00:10+00:00"
+   "checked_at": "2026-09-23T16:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 15:46:57 +0000",
+   "sample_date": "Wed, 23 Sep 2026 16:03:44 +0000",
    "error": null,
-   "checked_at": "2026-09-23T16:00:10+00:00"
+   "checked_at": "2026-09-23T16:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "cb8771dad7d11536",
+   "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+   "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+   "summary": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+   "published": "2026-09-23T16:03:44+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T16:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9816aa8dcf608168",
+   "title": "On-demand convenience platform TimBuckDo raises bridge round at Rs 150 Cr valuation",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0llV0M3ZjJsR29xWHYxWm54dG1zSV9aN1NxTUFYRzdWQXZfa1ROTnh5LWJvN09OWERPMGZtMWl3Z0tJeUFXN3lTcVJTTmNldWIzOTBXV2VkdHJnb19rME84Xy1rTVNUN1RBWlpsU0RWbjRCM09PRFI4eDJEWTNRdldDRGlWWW5ob01kWHY5LURvUzZTN2tibzNvU3c1UmVPWG9RQnVSY2hEZllXZEsxU2xuUmVkNkFHMlItd2V5ONIBvwFBVV95cUxOd0llV0M3ZjJsR29xWHYxWm54dG1zSV9aN1NxTUFYRzdWQXZfa1ROTnh5LWJvN09OWERPMGZtMWl3Z0tJeUFXN3lTcVJTTmNldWIzOTBXV2VkdHJnb19rME84Xy1rTVNUN1RBWlpsU0RWbjRCM09PRFI4eDJEWTNRdldDRGlWWW5ob01kWHY5LURvUzZTN2tibzNvU3c1UmVPWG9RQnVSY2hEZllXZEsxU2xuUmVkNkFHMlItd2V5OA?oc=5",
+   "summary": "",
+   "published": "2026-09-23T15:58:49+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-23T16:30:12+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "6c5b86c7b0658b70",
    "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
@@ -95,7 +135,7 @@
    "id": "8138d300d9ea6ebf",
    "title": "YouTube Music gets more conversational with new AI features",
    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-   "summary": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Pod…",
+   "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
    "published": "2026-09-23T15:19:30+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -149,7 +189,7 @@
    "id": "e79119bd8aef4fec",
    "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
    "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
-   "summary": "Eight Sleep said the new pod is now 20% faster than the previous generation",
+   "summary": "Eight Sleep said the new pod is 20% faster than the previous generation.",
    "published": "2026-09-23T14:45:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -201,7 +241,7 @@
   },
   {
    "id": "3daa0a7dba531948",
-   "title": "YouTube’s new ‘Short series’ feature brings episodic viewing to Shorts",
+   "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
    "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
    "summary": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
    "published": "2026-09-23T14:30:00+00:00",
