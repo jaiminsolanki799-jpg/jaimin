@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T19:00:10+00:00",
+ "generated_at": "2026-09-23T19:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T19:00:10+00:00"
+   "checked_at": "2026-09-23T19:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
+   "sample_date": "Wed, 23 Sep 2026 14:33:44 GMT",
    "error": null,
-   "checked_at": "2026-09-23T19:00:10+00:00"
+   "checked_at": "2026-09-23T19:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T19:00:10+00:00"
+   "checked_at": "2026-09-23T19:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T19:00:10+00:00"
+   "checked_at": "2026-09-23T19:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 18:06:27 +0000",
+   "sample_date": "Wed, 23 Sep 2026 19:05:00 +0000",
    "error": null,
-   "checked_at": "2026-09-23T19:00:10+00:00"
+   "checked_at": "2026-09-23T19:30:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "efbe6a785f56d7c3",
+   "title": "Modal Motors is trying to cut China out of electric motors entirely",
+   "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+   "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+   "published": "2026-09-23T19:05:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sean O'Kane",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T19:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cefd9ae37460de61",
    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
@@ -194,7 +212,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -288,7 +306,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
@@ -632,7 +650,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T12:30:09+00:00",
@@ -805,7 +823,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T11:00:12+00:00",
@@ -933,7 +951,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T09:00:11+00:00",
@@ -953,7 +971,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T10:00:12+00:00",
@@ -1253,7 +1271,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
@@ -1289,7 +1307,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1325,7 +1343,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1345,7 +1363,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
@@ -1471,7 +1489,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -1699,7 +1717,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T16:00:13+00:00",
@@ -2247,7 +2265,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -2324,7 +2342,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -2360,7 +2378,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -2432,7 +2450,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -2450,7 +2468,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:00:10+00:00",
@@ -2468,7 +2486,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2564,7 +2582,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T13:00:12+00:00",
@@ -2604,7 +2622,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T06:00:08+00:00",
@@ -2678,7 +2696,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2718,7 +2736,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -2738,7 +2756,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2782,7 +2800,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T04:00:10+00:00",
