@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T09:30:13+00:00",
+ "generated_at": "2026-09-23T10:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 14,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T09:30:13+00:00"
+   "checked_at": "2026-09-23T10:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 08:57:24 GMT",
+   "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T09:30:13+00:00"
+   "checked_at": "2026-09-23T10:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 23 Sep 2026 08:07:32 GMT",
+   "sample_date": "Wed, 23 Sep 2026 09:41:18 GMT",
    "error": null,
-   "checked_at": "2026-09-23T09:30:13+00:00"
+   "checked_at": "2026-09-23T10:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T09:30:13+00:00"
+   "checked_at": "2026-09-23T10:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T09:30:13+00:00"
+   "checked_at": "2026-09-23T10:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "15e0ae222dd47093",
+   "title": "Brand Licensing in India: How Businesses Can Turn Brand Equity Into New Revenue",
+   "link": "https://startuptalky.com/brand-licensing-in-india-how-businesses-can-turn-brand-equity-into-new-revenue/",
+   "summary": "Brand licensing is moving beyond merchandise. Discover how Indian businesses can use established brands, characters and IP to enter new categories, reach consumers and create additional revenue streams.",
+   "published": "2026-09-23T09:41:18+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Apoorva Bajj",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Shipra-Dubey-LMCA-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6fb07901494278bf",
+   "title": "Anthropic Launches Claude Opus 5.5 AI Model with 40% Lower Costs",
+   "link": "https://startuptalky.com/news/anthropic-launches-claude-opus-5-5/",
+   "summary": "Anthropic has unveiled Claude Opus 5.5, the latest in its flagship AI lineup that offers increased performance, faster responses, better safeguards, and up to 40% less expensive to run. The model is priced 20% below the Claude Opus 5 and targeted knowledge work, computer use and agentic coding.",
+   "published": "2026-09-23T09:31:08+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/anthropic-launches-claude-opus-5-5-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "825488b813bb6895",
    "title": "Startup news and updates: daily roundup (September 23, 2026)",
@@ -110,6 +146,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "16d35fea4b2fafe2",
+   "title": "Rio.ai",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE94Y2xnMWdtaUVuOTdPWWVYSVAwVUM1Y2x6STZ0V003NmhhQ0ZmOGloeEFaSGxab1dkM2dQT1ROVHZZV0R1ZFE?oc=5",
+   "summary": "",
+   "published": "2026-09-23T08:18:09+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9a5c161bc8d662c2",
@@ -193,9 +247,9 @@
   },
   {
    "id": "d34a4567f2a44f87",
-   "title": "‘AI is the new UI’: Zoho’s Sridhar Vembu outlines vision for ‘ubiquitous intelligence’",
+   "title": "‘AI is the new UI’: Zoho’s Sridhar Vembu outlines his vision for ‘ubiquitous intelligence’",
    "link": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence",
-   "summary": "On a day when Donald Trump announced his decision to rename AI as super intelligence, Zoho's Sridhar Vembu called it ubiquitous intelligence.",
+   "summary": "Even as US President Donald Trump rebrands AI as \"super intelligence\", Zoho's Sridhar Vembu believes it can be \"ubiquitous intelligence\".",
    "published": "2026-09-23T07:23:05+00:00",
    "source": "YourStory",
    "group": "YourStory",
