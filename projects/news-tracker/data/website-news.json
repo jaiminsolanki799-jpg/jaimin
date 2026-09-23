@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T16:30:12+00:00",
+ "generated_at": "2026-09-23T17:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:30:12+00:00"
+   "checked_at": "2026-09-23T17:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 08:11:20 GMT",
+   "sample_date": "Wed, 23 Sep 2026 07:23:05 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:30:12+00:00"
+   "checked_at": "2026-09-23T17:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:30:12+00:00"
+   "checked_at": "2026-09-23T17:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T16:30:12+00:00"
+   "checked_at": "2026-09-23T17:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 16:03:44 +0000",
+   "sample_date": "Wed, 23 Sep 2026 16:49:58 +0000",
    "error": null,
-   "checked_at": "2026-09-23T16:30:12+00:00"
+   "checked_at": "2026-09-23T17:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "40adb5958ef21730",
+   "title": "Even Americans who use AI every day are worried about it",
+   "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+   "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+   "published": "2026-09-23T16:49:58+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ram Iyer",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T17:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cb8771dad7d11536",
    "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
@@ -279,7 +297,7 @@
    "id": "3fbc62c6d1b242a7",
    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-   "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+   "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
    "published": "2026-09-23T14:30:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
