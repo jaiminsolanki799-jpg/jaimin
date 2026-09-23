@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T13:00:12+00:00",
+ "generated_at": "2026-09-23T13:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 18:27:05 +0530",
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 18:00:28 +0530",
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 18:19:59 +0530",
+   "sample_date": "Wed, 23 Sep 2026 18:58:21 +0530",
    "error": null,
-   "checked_at": "2026-09-23T13:00:12+00:00"
+   "checked_at": "2026-09-23T13:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "b35d9c593c525c2e",
+   "title": "Railways notifies UPS rules for employees covered by NPS: ₹10,000 minimum pension, 25-year full pension",
+   "link": "https://www.livemint.com/money/personal-finance/railways-notifies-ups-rules-for-employees-covered-by-nps-10-000-minimum-pension-25-year-full-pension-11790163249783.html",
+   "summary": "The rules spell out eligibility requirements, employee and government contributions, pension calculation, lump-sum benefits, minimum and maximum pension provisions, VRS rules and the process for switching from UPS to NPS.",
+   "published": "2026-09-23T13:28:21+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/PTI02-01-2026-000470A-0_1771056492997_1771056516059_1790165239215_NReG_f7b36867-49ca-4589-9352-adc42432e1eb_GkP9.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T13:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1389e139b7fd9001",
    "title": "Multiples targets industrials as new investment frontier",
@@ -268,9 +286,9 @@
   },
   {
    "id": "e4b4eae19fd67151",
-   "title": "Concord Biotech 1:1 bonus issue: Jhunjhunwala family-backed pharma stock gains 50% in 6 months, check record date detail",
+   "title": "Concord Biotech 1:1 bonus issue: Jhunjhunwala family-backed pharma stock gains 50% in 6 months— record date, details",
    "link": "https://www.livemint.com/market/stock-market-news/concord-biotech-1-1-bonus-issue-jhunjhunwala-family-backed-pharma-stock-gains-50-in-6-months-check-record-date-detail-11790165743583.html",
-   "summary": "Concord Biotech Limited announced its first-ever 1:1 bonus issue, approved by its board on September 23. The stock rose nearly 2%, reflecting investor interest",
+   "summary": "Concord Biotech Limited announced its first-ever 1:1 bonus issue, approved by its board on September 23. The stock rose nearly 2%, reflecting investor interest.",
    "published": "2026-09-23T12:21:41+00:00",
    "source": "Mint Markets",
    "group": "Mint",
