@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T14:00:14+00:00",
+ "generated_at": "2026-09-23T14:30:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 19:15:22 +0530",
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 19:05:57 +0530",
+   "sample_date": "Wed, 23 Sep 2026 19:44:57 +0530",
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 19:06:11 +0530",
    "error": null,
-   "checked_at": "2026-09-23T14:00:14+00:00"
+   "checked_at": "2026-09-23T14:30:14+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,53 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "4188de8c9a9e4069",
+   "title": "Shapoorji Pallonji seeks additional funding amid Tata Sons IPO uncertainty: Report",
+   "link": "https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-seeks-additional-funding-amid-tata-sons-ipo-uncertainty-report-11790171339046.html",
+   "summary": "Shapoorji Pallonji Group seeks 35 billion rupees to meet debt obligations while exploring options to monetize its stake in Tata Sons. In talks with lenders, the group requests extensions on existing loans amid ongoing negotiations about Tata Group's potential IPO.",
+   "published": "2026-09-23T14:14:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/SP_1789710868636_m8Ws_1789710872994_TFSy_17cd56d6-_1790172512033_BuKW_1790172512230_dtuh_2202d1d1-a42d-4c8d-83cb-99010827c0b3_LMRc.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-23T14:30:14+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "IPO"
+   ]
+  },
+  {
+   "id": "385f0c21460240f2",
+   "title": "Sebi weighs margin changes for longer-dated derivatives",
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-stock-futures-options-derivatives-index-options-11790168119720.html",
+   "summary": "Sebi may look&nbsp; to review margin requirements for longer-dated derivatives as it seeks to broaden India’s equity derivatives market beyond the dominance of short-term index options.",
+   "published": "2026-09-23T14:03:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/INDIA-REGULATION-KORE-DIGITAL-0_1790171845161_Khy6_1790171860691_Ywtl_a875225c-50fe-4cdc-8a09-964081a5cd7a_IXQP.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-23T14:30:14+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
   {
    "id": "deabc958065e1b90",
    "title": "Byju’s parent Think & Learn, Aakash reach settlement over rights issue before NCLT Bengaluru",
@@ -301,7 +346,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Multiples_1790167936535_Lkhx_1790167982175_GNZ2_cc6e95d0-ae0e-47dd-9f08-ed4e802ec0e3_G1Wc.jpeg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/2-0-766980901-hires1-0_1680411550170_1790173269538_Sz6D_813fb298-deb4-4fee-a3fe-3b3d0fc016d6_nS1C.jpg",
    "topics": [],
    "first_seen": "2026-09-23T13:00:12+00:00",
    "valuation_score": 0,
