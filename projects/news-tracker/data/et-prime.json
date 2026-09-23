@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T19:30:13+00:00",
+ "generated_at": "2026-09-23T20:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 00:44:05 +0530",
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 00:12:48 +0530",
+   "sample_date": "Thu, 24 Sep 2026 01:20:13 +0530",
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 23:50:47 +0530",
    "error": null,
-   "checked_at": "2026-09-23T19:30:13+00:00"
+   "checked_at": "2026-09-23T20:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "b92d75c33b61e06f",
+   "title": "Dollar jumps to near two-month high on Fed outlook, inflation concern",
+   "link": "https://www.livemint.com/market/dollar-jumps-to-near-two-month-high-on-fed-outlook-inflation-concern-11790193013788.html",
+   "summary": "GLOBAL-FOREX/ (UPDATE 5, GRAPHIC):FOR",
+   "published": "2026-09-23T19:50:13+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-09-23T20:00:10+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "5f8ba862ab70ab92",
    "title": "More tech and hand-breaded chicken coming to McDonalds as part of $8.5 billion modernization push",
@@ -5069,7 +5089,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T02:00:09+00:00",
@@ -8074,7 +8094,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
