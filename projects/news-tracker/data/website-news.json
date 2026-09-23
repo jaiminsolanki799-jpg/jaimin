@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T11:30:45+00:00",
+ "generated_at": "2026-09-23T12:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 14,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:30:45+00:00"
+   "checked_at": "2026-09-23T12:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
+   "sample_date": "Wed, 23 Sep 2026 07:23:05 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:30:45+00:00"
+   "checked_at": "2026-09-23T12:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 23 Sep 2026 11:24:43 GMT",
+   "sample_date": "Wed, 23 Sep 2026 11:54:07 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:30:45+00:00"
+   "checked_at": "2026-09-23T12:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:30:45+00:00"
+   "checked_at": "2026-09-23T12:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T11:30:45+00:00"
+   "checked_at": "2026-09-23T12:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,69 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "7af6f758fcf56b08",
+   "title": "Indian Walker Raises Pre-Seed at ₹20 Crore Valuation",
+   "link": "https://startuptalky.com/news/indian-walker-pre-seed-20-crore-valuation/",
+   "summary": "Indian Walker, started by a former Rapido captain who could not find a bag that survived Delhi's roads, has raised a pre-seed from Palette Wealth Management at a ₹20 crore post-money valuation. The round size has not been disclosed.",
+   "published": "2026-09-23T11:54:07+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/md-sakib-indian-walker-pre-seed.webp",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-23T12:00:12+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
+  {
+   "id": "b4b5130dcc8c401a",
+   "title": "Definedge Raises ₹22 Crore to Scale Its Trading Tools",
+   "link": "https://startuptalky.com/news/definedge-raises-22-crore-pre-series-a/",
+   "summary": "Definedge has raised ₹22 crore in a Pre-Series A, taking total funding to ₹30 crore. The Pune firm built trading tools and an education community before it took a broking licence, and says its Momentify platform has crossed ₹1,000 crore in assets under management.",
+   "published": "2026-09-23T11:54:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/definedge-founders-rajesh-badiye-prashant-shah.webp",
+   "topics": [],
+   "first_seen": "2026-09-23T12:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "2de826e5646434d1",
+   "title": "How the MSME ODR portal is helping small businesses recover delayed payments",
+   "link": "https://yourstory.com/2026/09/msme-odr-portal-small-businesses-recover-delayed-payments",
+   "summary": "Learn how the MSME ODR portal, run by the Ministry of MSME, helps small businesses recover delayed payments online, with case studies from Telangana.",
+   "published": "2026-09-23T11:47:02+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T12:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dd8dd04f63ec2339",
    "title": "betterhood Raises ₹11.5 Crore Led by Sauce for Pain Care",
