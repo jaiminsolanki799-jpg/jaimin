@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T08:00:11+00:00",
+ "generated_at": "2026-09-23T08:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 13:22:11 +0530",
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 13:23:45 +0530",
+   "sample_date": "Wed, 23 Sep 2026 13:30:07 +0530",
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 13:25:09 +0530",
    "error": null,
-   "checked_at": "2026-09-23T08:00:11+00:00"
+   "checked_at": "2026-09-23T08:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "0db5b46efca37fdb",
+   "title": "Ethos shares jump 5%, up 27% in 6 months - Choice Broking sees further double-digit upside - Target, return potential",
+   "link": "https://www.livemint.com/market/stock-market-news/ethos-shares-jump-5-up-27-in-6-months-choice-broking-sees-further-double-digit-upside-target-return-potential-11790147516660.html",
+   "summary": "Ethos shares jumped 5% intraday, reflecting a 27% increase over six months. With robust growth forecasts driven by store expansions and exclusive brand partnerships, Choice Broking predict double-digit upside potential.",
+   "published": "2026-09-23T08:00:07+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Ethos_shares_1790148320048_x4Uu_1790148324347_ZW6i_b10cdaae-84df-4673-a07a-6fc95aecd37a_sm8p.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "329d88585cc81470",
    "title": "Railway NPS rules 2026: Families can now get up to 100% of an employee’s pay as pension after death in specified cases",
@@ -231,8 +249,26 @@
    "valuation_signals": []
   },
   {
+   "id": "4744a3288ccd9ddd",
+   "title": "This stock is one of the top gainers in Nifty 500 today - Check share price performance | Do you own it?",
+   "link": "https://www.livemint.com/market/stock-market-news/elecon-engineering-stock-is-one-of-the-top-gainers-in-nifty-500-today-check-share-price-performance-do-you-own-it-11790146275326.html",
+   "summary": "Small-cap stock rallied as much as 10% on NSE, making it one of the top gainers in Nifty 500 index on Wednesday.",
+   "published": "2026-09-23T07:53:45+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Elecon_1790149809584_rwty_1790149809758_r40g_794c8870-4beb-49e1-bdb8-fec11986594d_3DXu.jfif",
+   "topics": [],
+   "first_seen": "2026-09-23T08:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "56dfbf15ab19e335",
-   "title": "Raymond share price: Defence stock falls over 3% after hitting 52-week high; soars 214% in 6 months",
+   "title": "214% rally in 6 months! Defence stock Raymond retraces from its 52-week high; what next now?",
    "link": "https://www.livemint.com/market/stock-market-news/raymond-share-price-defence-stock-falls-over-3-after-hitting-52-week-high-soars-214-in-6-months-11790147096265.html",
    "summary": "Raymond's share price fell over 3% on September 23 after a 52-week high. Despite this, the stock's gains include 10% in one week and 214% in six months. Investors eye the upcoming EGM on October 3, where key proposals will be discussed.",
    "published": "2026-09-23T07:53:40+00:00",
@@ -310,7 +346,7 @@
    "id": "4334497695649530",
    "title": "Microsoft-owned Xbox cuts 268 more jobs; over 1,800 layoffs so far as overhaul continues",
    "link": "https://www.livemint.com/companies/news/microsoftowned-xbox-cuts-268-more-jobs-over-1-800-layoffs-so-far-as-overhaul-continues-11790147184126.html",
-   "summary": "Microsoft's Xbox division is cutting 268 jobs as part of a wider restructuring. The latest layoffs affect Halo Studios and other first-party teams, bringing the company roughly three-quarters through a previously announced overhaul.",
+   "summary": "Microsoft's Xbox division is cutting 268 jobs as part of a wider restructuring. The latest layoffs affect Halo Studios and other first-party teams.",
    "published": "2026-09-23T07:30:29+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -709,7 +745,7 @@
   },
   {
    "id": "fbd40499255d56ba",
-   "title": "Ola Electric Mobility share price jumps 12%, up almost 80% in 6 months - What is driving the stock? Time to buy or sell?",
+   "title": "Ola Electric Mobility share price up almost 80% in 6 months - What is driving the stock? What should investors do?",
    "link": "https://www.livemint.com/market/stock-market-news/ola-electric-mobility-share-price-jumps-12-up-almost-80-in-6-months-what-is-driving-the-stock-11790141073905.html",
    "summary": "Ola Electric shares have been on an uptrend lately. BSE data show the company's shares have surged nearly 80% over the last six months, defying stock market volatility.",
    "published": "2026-09-23T05:44:11+00:00",
@@ -787,7 +823,7 @@
   },
   {
    "id": "fb6ec7df320592bf",
-   "title": "Arihant Capital Markets share price rallies 9% to ₹99 today: Check 1-week, 1-month, 1-year returns",
+   "title": "Arihant Capital Markets share price rallies 9% to ₹99 today: Check 1-week, 1-month, 1-year returns - Should you buy?",
    "link": "https://www.livemint.com/market/stock-market-news/arihant-capital-markets-share-price-rallies-9-to-rs-99-today-check-1-week-1-month-1-year-returns-11790136734071.html",
    "summary": "Arihant Capital Markets shares rose 9% to ₹99 amid a strong Indian equity market. Despite a year-over-year decline, the stock has delivered 244% growth over five years. Q1 profit surged 69% year-over-year, though annual income slightly fell due to market challenges.",
    "published": "2026-09-23T04:54:14+00:00",
