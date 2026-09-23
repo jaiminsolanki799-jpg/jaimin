@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T06:30:09+00:00",
+ "generated_at": "2026-09-23T07:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T06:30:09+00:00"
+   "checked_at": "2026-09-23T07:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T06:30:09+00:00"
+   "checked_at": "2026-09-23T07:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 22 Sep 2026 14:57:53 GMT",
+   "sample_date": "Wed, 23 Sep 2026 06:25:20 GMT",
    "error": null,
-   "checked_at": "2026-09-23T06:30:09+00:00"
+   "checked_at": "2026-09-23T07:00:08+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T06:30:09+00:00"
+   "checked_at": "2026-09-23T07:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T06:30:09+00:00"
+   "checked_at": "2026-09-23T07:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "406db17d7b93c710",
+   "title": "Binance Invests $100M in Circle to Expand USDC Adoption",
+   "link": "https://startuptalky.com/news/binance-invests-100m-in-circle/",
+   "summary": "This investment of $100 million by Binance in Circle signifies the extension of the strategic relationship to promote USDC worldwide on its platform. The five-year deal will focus on driving the use of USDC, particularly in emerging economies.",
+   "published": "2026-09-23T06:25:20+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/binance-invests-100m-in-circle-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T07:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "5c31065dfcab4f5e",
    "title": "DMI Finance secures Rs 1,455 Cr via listed NCDs to drive lending growth",
@@ -757,7 +775,7 @@
    "date_known": true,
    "author": "Shubham Kumar",
    "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/PhonePe-Clears-First-Step-Toward-a-UAE-Payments-Arm.png",
+   "image": "https://static.startuptalky.com/2026/09/phonepe-uae-cbuae-approval.webp",
    "topics": [],
    "first_seen": "2026-09-22T14:30:12+00:00",
    "valuation_score": 0,
