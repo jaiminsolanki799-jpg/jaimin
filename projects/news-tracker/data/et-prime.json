@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T06:00:09+00:00",
+ "generated_at": "2026-09-23T06:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,18 +90,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,29 +112,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 11:24:40 +0530",
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 11:17:06 +0530",
+   "sample_date": "Wed, 23 Sep 2026 11:31:13 +0530",
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 10:31:16 +0530",
+   "sample_date": "Wed, 23 Sep 2026 11:40:38 +0530",
    "error": null,
-   "checked_at": "2026-09-23T06:00:09+00:00"
+   "checked_at": "2026-09-23T06:30:09+00:00"
   }
  ],
  "topics": [
@@ -195,10 +195,84 @@
  "new_since_last_run": 4,
  "items": [
   {
+   "id": "a282cef6f5016e92",
+   "title": "Montessori, Waldorf, or Reggio Emilia? Why specialized preschools cost up to ₹400,000 a year",
+   "link": "https://www.livemint.com/money/personal-finance/premium-preschools-india-montessori-waldorf-reggio-emilia-fees-11790084490146.html",
+   "summary": "India’s premium preschools are selling specialized learning methods at a steep markup. What are parents actually paying for—and can the spending be sustained through a child’s education?",
+   "published": "2026-09-23T06:10:38+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/preschool_1790143404667_LOFS_1790143413802_Q3ZI_5f3c42d0-71c3-4a0e-94c9-b5c48951d779_N4bj.png",
+   "topics": [],
+   "first_seen": "2026-09-23T06:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ba775fc503963aaf",
+   "title": "Silver Price Outlook: Future is bright with ₹3.25 lk/kg target in sight? Expert explains what could trigger next spark",
+   "link": "https://www.livemint.com/market/commodities/silver-price-outlook-future-is-bright-with-rs-3-25-lk-kg-target-in-sight-expert-explains-what-could-trigger-next-spark-11790141170060.html",
+   "summary": "With silver currently trading around the mid-$60s per ounce ( ₹2.40 lakh/kg), the key question for investors is what could push the precious metal towards the higher end of its expected range.",
+   "published": "2026-09-23T06:01:13+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/silver_1790143226001_WcPP_1790143232187_fcWN_ee53fc7d-0cbf-497a-b0fd-f18edc7a36ec_reBW.png",
+   "topics": [],
+   "first_seen": "2026-09-23T06:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4f44edf07f9aa860",
+   "title": "Hero Motors share price hits 20% upper circuit after tepid listing | What investors should watch",
+   "link": "https://www.livemint.com/market/stock-market-news/hero-motors-share-price-hits-20-upper-circuit-after-tepid-listing-what-investors-should-watch-11790142486424.html",
+   "summary": "Hero Motors share price surged 20% after a lackluster debut, trading at ₹98.40 on the NSE. Despite initial declines, analysts suggest a neutral outlook due to high valuations and risks but acknowledge strong growth potential in powertrain solutions and electric vehicles.",
+   "published": "2026-09-23T05:58:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Hero_Motors_listing_1790143010314_7V9B_1790143015164_q3Ui_58c3f547-b6e2-4887-a557-4cf5863b4543_LUmG.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-23T06:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "41a972a6e5e46185",
+   "title": "Vedanta Iron and Steel to Vedanta Oil and Gas shares: Anil Agarwal-owned stocks rise up to 6%; target, stoploss",
+   "link": "https://www.livemint.com/market/stock-market-news/vedanta-iron-and-steel-to-vedanta-oil-and-gas-shares-anil-agarwal-owned-stocks-rise-up-to-6-target-stoploss-11790139232331.html",
+   "summary": "Vedanta Group shares are skyrocketing today as rising metal prices and ease in the Middle East tension has created buzz for the high beta stocks, say experts",
+   "published": "2026-09-23T05:58:43+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Vedanta_Iron_and_Steel_share_price_target_1790142600067_pHEm_1790142600253_U6kc_a1ef1239-5e50-4622-a58a-77c7b2d48d48_RFkC.png",
+   "topics": [],
+   "first_seen": "2026-09-23T06:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "5203af1f88c16150",
-   "title": "Who Is Venu Srinivasan? TVS Group Veteran headlining the Tata Sons row",
+   "title": "Who is Venu Srinivasan? TVS Group veteran headlining the Tata Sons row",
    "link": "https://www.livemint.com/companies/news/who-is-venu-srinivasan-tvs-group-veteran-headlining-the-tata-sons-row-11790140178459.html",
-   "summary": "Who is Venu Srinivasan? A look at the TVS Motor chairman emeritus and Tata Sons director, now in the news over the Tata Sons IPO vote.",
+   "summary": "Who is Venu Srinivasan? A look at the TVS Motor chairman emeritus and a lifetime vice-chairman of Tata Trusts, now in the news over the Tata Sons IPO vote.",
    "published": "2026-09-23T05:54:40+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -264,7 +338,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/Ola_Electric_Mobility_share_price_1790141605795_vT91_1790141617930_1oVf_2a2ca1bc-efb1-40fe-994b-0c5a69070e17_9xfj.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Ola_Electric_Mobility_share_price_1790141605795_vT91_1790141617930_1oVf_2a2ca1bc-efb1-40fe-994b-0c5a69070e17_9xfj.png",
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
    "valuation_score": 0,
