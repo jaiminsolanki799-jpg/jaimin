@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T12:00:12+00:00",
+ "generated_at": "2026-09-23T12:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 17:02:08 +0530",
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 17:24:25 +0530",
+   "sample_date": "Wed, 23 Sep 2026 17:51:41 +0530",
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 16:37:55 +0530",
+   "sample_date": "Wed, 23 Sep 2026 17:30:02 +0530",
    "error": null,
-   "checked_at": "2026-09-23T12:00:12+00:00"
+   "checked_at": "2026-09-23T12:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "e4b4eae19fd67151",
+   "title": "Concord Biotech 1:1 bonus issue: Jhunjhunwala family-backed pharma stock gains 50% in 6 months, check record date detail",
+   "link": "https://www.livemint.com/market/stock-market-news/concord-biotech-1-1-bonus-issue-jhunjhunwala-family-backed-pharma-stock-gains-50-in-6-months-check-record-date-detail-11790165743583.html",
+   "summary": "Concord Biotech Limited announced its first-ever 1:1 bonus issue, approved by its board on September 23. The stock rose nearly 2%, reflecting investor interest",
+   "published": "2026-09-23T12:21:41+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/concord_biotech_asase_1790165908614_5g40_1790165928118_nsxh_c415ce6f-9c5f-480d-8e0d-5c20f0bbbf33_ByYY.png",
+   "topics": [],
+   "first_seen": "2026-09-23T12:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "2cc7fd971f2188c2",
+   "title": "Constant rebalancing destroys the historical relevance of mid-cap indices, Kotak explains in its strategy note",
+   "link": "https://www.livemint.com/market/stock-market-news/constant-rebalancing-destroys-the-historical-relevance-of-mid-cap-indices-kotak-explains-in-its-strategy-note-11790163231491.html",
+   "summary": "New insights from Kotak Institutional Equities reveal that mid-cap indices, often seen as investment tools, suffer from constant rebalancing and sector concentration, undermining their historical relevance.&nbsp;",
+   "published": "2026-09-23T12:09:24+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Midcap_indices_rebalancing_1790163757000_Ys94_1790163762471_FU4m_63a88f07-6097-4995-a106-a1c536095e86_RVZU.png",
+   "topics": [],
+   "first_seen": "2026-09-23T12:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "df8706149616c8d4",
+   "title": "8th pay commission: Full list of upcoming state visits, meetings and dates in October 2026 — Check here",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-full-list-upcoming-meetings-state-visits-dates-bengaluru-7-8-october-22-23-mumbai-railways-employees-11790161929086.html",
+   "summary": "The 8th pay commission will conduct state visits in October to meet with employee and pensioners representatives and stakeholders to discuss recommendations for over 1 crore beneficiaries. It is expected to make an announcement by May 2027.",
+   "published": "2026-09-23T12:00:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/8th_CPC_Mumbai_meet_1790086995574_LZCN_17900870065_1790164634677_Ekca_1790164634834_hQ27_41c2c000-d286-4dcf-93e6-122c606d6e4d_9mmN.png",
+   "topics": [],
+   "first_seen": "2026-09-23T12:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "910d1cea3f915c66",
+   "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 24 Sept 2026",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-thursday-kospi-taiwan-cues-to-watch-24-sept-2026-11790160091667.html",
+   "summary": "The Indian stock market rallied on September 23, buoyed by falling crude oil prices and diplomatic efforts in the Middle East. The Nifty 50 and Sensex gained 0.50% and 0.40%, respectively, with strong performances in metals and financial stocks, despite declines in technology sectors.",
+   "published": "2026-09-23T11:58:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/SM_on_23_1790164526994_BB3c_1790164534428_khQx_45e284e3-b706-442a-a8e9-ab07189f40bf_f2zs.png",
+   "topics": [],
+   "first_seen": "2026-09-23T12:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "505a14e6499df7c1",
    "title": "328% returns in 5 years! ICICI Securities sees 27% upside in this hotel stock, do you own? Check target price",
