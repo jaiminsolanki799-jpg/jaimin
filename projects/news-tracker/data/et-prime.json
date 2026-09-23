@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T12:30:09+00:00",
+ "generated_at": "2026-09-23T13:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 17:02:08 +0530",
+   "sample_date": "Wed, 23 Sep 2026 18:27:05 +0530",
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 17:51:41 +0530",
+   "sample_date": "Wed, 23 Sep 2026 18:00:28 +0530",
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 17:30:02 +0530",
+   "sample_date": "Wed, 23 Sep 2026 18:19:59 +0530",
    "error": null,
-   "checked_at": "2026-09-23T12:30:09+00:00"
+   "checked_at": "2026-09-23T13:00:12+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,78 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "1389e139b7fd9001",
+   "title": "Multiples targets industrials as new investment frontier",
+   "link": "https://www.livemint.com/companies/pe-firm-multiples-targets-industrials-new-investment-frontier-fund-vi-ai-technology-11790159336484.html",
+   "summary": "Multiples Alternate Asset Management is moving into the industrial and precision manufacturing sectors for the first time, targeting family-owned businesses. The PE firm is investing via its $885 million Fund IV as it also shows keen interest in the technology and AI areas.",
+   "published": "2026-09-23T12:57:05+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Multiples_1790167936535_Lkhx_1790167982175_GNZ2_cc6e95d0-ae0e-47dd-9f08-ed4e802ec0e3_G1Wc.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-23T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "afdf4012255fc7d9",
+   "title": "5 money lessons from The Little Book of Common Sense Investing by John C Bogle; spend less, remain patient and more",
+   "link": "https://www.livemint.com/money/personal-finance/5-money-lessons-from-the-little-book-of-common-sense-investing-by-john-c-bogle-spend-less-remain-patient-and-more-11790164436731.html",
+   "summary": "John C Bogle's investment philosophy centres on simplicity: own less and stay patient. Check out these 5 money lessons from the book.",
+   "published": "2026-09-23T12:49:59+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Common_Sense_Investing_1790167494871_I3J8_1790167504905_yZlC_d253d114-eb4c-4c15-ae58-609c4aeb713a_bPYS.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e5e2a65696d28205",
+   "title": "Salesforce missed OpenAI. Its $50 million Anthropic bet is now worth $5 billion",
+   "link": "https://www.livemint.com/companies/news/salesforce-missed-openai-its-50-million-anthropic-bet-is-now-worth-5-billion-11790164533797.html",
+   "summary": "Salesforce's $50 million investment in AI company Anthropic has surged to around $5 billion, following extensive funding rounds. The partnership aligns with Salesforce's push into AI, amidst competition among growing generative AI valuations.",
+   "published": "2026-09-23T12:36:27+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Salesforce_1790166443763_hLWQ_1790166444796_QvxF_fd558163-149f-424d-8876-2baeeb083f5b_rVWF.png",
+   "topics": [],
+   "first_seen": "2026-09-23T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "50ae2e19ce430437",
+   "title": "Penny stock under ₹10: Textile stock hits 5% upper circuit on multiple order wins; Sept gains reach 106%",
+   "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-textile-stock-hits-5-upper-circuit-after-this-update-finds-no-seller-for-sixth-day-in-a-row-11790165061485.html",
+   "summary": "Tuni Textile Mills shares hit a 5% upper circuit limit, closing at ₹1.66 amid market volatility. The company received three domestic orders for woven fabrics, valued at approximately ₹295.13 million, reinforcing its market position and customer demand in the textile sector.",
+   "published": "2026-09-23T12:30:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Multibagger_stock_1790166373575_IxnJ_1790166380547_ZXyo_caa71156-520f-4805-adc0-48e607b22226_waAs.png",
+   "topics": [],
+   "first_seen": "2026-09-23T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e4b4eae19fd67151",
    "title": "Concord Biotech 1:1 bonus issue: Jhunjhunwala family-backed pharma stock gains 50% in 6 months, check record date detail",
@@ -234,9 +306,9 @@
   },
   {
    "id": "df8706149616c8d4",
-   "title": "8th pay commission: Full list of upcoming state visits, meetings and dates in October 2026 — Check here",
+   "title": "8th Pay Commission: Full list of upcoming state visits, meetings and dates in October 2026 — Check here",
    "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-full-list-upcoming-meetings-state-visits-dates-bengaluru-7-8-october-22-23-mumbai-railways-employees-11790161929086.html",
-   "summary": "The 8th pay commission will conduct state visits in October to meet with employee and pensioners representatives and stakeholders to discuss recommendations for over 1 crore beneficiaries. It is expected to make an announcement by May 2027.",
+   "summary": "The 8th Pay Commission will conduct state visits in October to meet with employee and pensioner representatives and stakeholders to discuss recommendations for over 1 crore beneficiaries. It is expected to be announced by May 2027.",
    "published": "2026-09-23T12:00:02+00:00",
    "source": "Mint Money",
    "group": "Mint",
