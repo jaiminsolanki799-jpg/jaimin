@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T10:30:10+00:00",
+ "generated_at": "2026-09-23T11:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 14,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T10:30:10+00:00"
+   "checked_at": "2026-09-23T11:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
+   "sample_date": "Tue, 22 Sep 2026 15:28:14 GMT",
    "error": null,
-   "checked_at": "2026-09-23T10:30:10+00:00"
+   "checked_at": "2026-09-23T11:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 10:10:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T10:30:10+00:00"
+   "checked_at": "2026-09-23T11:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 28,
-   "items": 28,
+   "fetched": 29,
+   "items": 29,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T10:30:10+00:00"
+   "checked_at": "2026-09-23T11:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T10:30:10+00:00"
+   "checked_at": "2026-09-23T11:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "817a5e765e6f774b",
+   "title": "Sauce leads seed round in preventive pain care brand betterhood",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUQ2TndodFJMQy1xcUt1dFUzOGFfY0NUTm1OX2MzakhyWk5hWHY2N2t5WHNBdTNvakJNZ1dtTWVJTnNZMGdhTUR5NTR5NGE1TW5BWUI3cVNuUThhUXdEb1RtVi0yMTAzTEhJeVpaVDhHa2ZMTzJiVl9WS1k2UDlVUmhVNjJTSktvWERQVHBqQXUwdldGSFZ5LU9JLVQxV1R6RS1HV9IBpAFBVV95cUxQRUQ2TndodFJMQy1xcUt1dFUzOGFfY0NUTm1OX2MzakhyWk5hWHY2N2t5WHNBdTNvakJNZ1dtTWVJTnNZMGdhTUR5NTR5NGE1TW5BWUI3cVNuUThhUXdEb1RtVi0yMTAzTEhJeVpaVDhHa2ZMTzJiVl9WS1k2UDlVUmhVNjJTSktvWERQVHBqQXUwdldGSFZ5LU9JLVQxV1R6RS1HVw?oc=5",
+   "summary": "",
+   "published": "2026-09-23T10:43:06+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T11:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "d870a256cac2ccb2",
    "title": "AgInvest 2026 in Coimbatore puts farm economics at the centre of AgriTech investment",
@@ -578,7 +598,7 @@
    "title": "The sandbox is breaking",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1ZSR092VkZYd0FQNGp6dTJnUFZEMS1qNi1aV1BaTFNHVjJsTDZnQWUtcC10SDhqbmZyWU1rMlNMcHE0Um9QWF9hQlN5TUVTZDcwM0xXOXJrWjVTOTlsU2F5Ym1TMlVJUnVLYThrb3ZzNVI1ZEpITTh3a1ZESVd2VENZYzh3SWYzV2RZNDdB?oc=5",
    "summary": "",
-   "published": "2026-09-23T04:35:46+00:00",
+   "published": "2026-09-23T04:36:23+00:00",
    "source": "The CapTable",
    "group": "The CapTable",
    "category": "Startups",
