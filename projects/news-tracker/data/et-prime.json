@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T04:30:10+00:00",
+ "generated_at": "2026-09-23T05:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 09:52:42 +0530",
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 09:39:47 +0530",
+   "sample_date": "Wed, 23 Sep 2026 10:24:14 +0530",
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 09:34:02 +0530",
    "error": null,
-   "checked_at": "2026-09-23T04:30:10+00:00"
+   "checked_at": "2026-09-23T05:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,105 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "fb6ec7df320592bf",
+   "title": "Arihant Capital Markets share price rallies 9% to ₹99 today: Check 1-week, 1-month, 1-year returns",
+   "link": "https://www.livemint.com/market/stock-market-news/arihant-capital-markets-share-price-rallies-9-to-rs-99-today-check-1-week-1-month-1-year-returns-11790136734071.html",
+   "summary": "Arihant Capital Markets shares rose 9% to ₹99 amid a strong Indian equity market. Despite a year-over-year decline, the stock has delivered 244% growth over five years. Q1 profit surged 69% year-over-year, though annual income slightly fell due to market challenges.",
+   "published": "2026-09-23T04:54:14+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Arihant_1790138676837_xkrX_1790138684926_hOUH_b5bbbff0-f9c5-4250-8186-90ce235768e5_t3Uq.png",
+   "topics": [],
+   "first_seen": "2026-09-23T05:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9a1d9c2a089f177c",
+   "title": "IPO listings today: SS Retail vs Hero Motors vs Jindal Supreme - Bumper listing and flop show details",
+   "link": "https://www.livemint.com/market/ipo/ipo-listings-today-ss-retail-vs-hero-motors-vs-jindal-supreme-bumper-listing-and-flop-show-details-11790134601026.html",
+   "summary": "Hero Motors, Jindal Supreme, and SS Retail debuted on Indian exchanges on 23 September, showcasing varied performances. While SS Retail surged nearly 50% and Jindal Supreme up 30%, Hero Motors fell below its issue price of ₹84, reflecting strong investor interest during the IPO phase.",
+   "published": "2026-09-23T04:48:02+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/IPO_listings_1790138737581_EabL_1790138742385_2WVO_a6bb5b74-6e97-47e8-9074-84d9eb3e9b68_DhgW.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-23T05:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "fbf98bfaa959617d",
+   "title": "Oswal Pumps share price rises 8% after ₹273 crore order win | Rally ahead or resistance wall?",
+   "link": "https://www.livemint.com/market/stock-market-news/oswal-pumps-share-price-rises-8-after-rs-273-crore-order-win-rally-ahead-or-resistance-wall-11790135838844.html",
+   "summary": "Oswal Pumps' share price rose 8% after securing a ₹273.19-crore order from TGREDCO for rooftop solar power plants in Telangana's government schools. The project includes installing solar systems in 9,937 schools, supporting the state's renewable energy efforts.",
+   "published": "2026-09-23T04:35:41+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Oswal_Pumps_1790137876048_equa_1790137881623_SNi3_ed9cc022-d7ef-4b7e-b232-3b66f3a06eb4_QSEW.png",
+   "topics": [],
+   "first_seen": "2026-09-23T05:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "554da12348df3cb7",
+   "title": "Allcargo Terminals share price jumps 7% after this monthly business update - Stock up 20% in 6 months",
+   "link": "https://www.livemint.com/market/stock-market-news/allcargo-terminals-share-price-jumps-7-after-this-monthly-business-update-stock-up-20-in-6-months-11790137565229.html",
+   "summary": "Allcargo Terminals shares opened at ₹25.49 against their previous close of ₹24.26 and surged as much as 7.1% to an intraday high of ₹25.99.",
+   "published": "2026-09-23T04:34:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/Allcargo_Terminals_1790138001527_fHYG_1790138006814_PBWY_b74966d9-95a5-4f59-8909-41afc6dbb3d3_wsn0.png",
+   "topics": [],
+   "first_seen": "2026-09-23T05:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "272a292a012789f9",
+   "title": "Aditya Infotech stock hits upper circuit after QIP; know floor price, up 172% in 1 yr: CP Plus firm ₹1500 cr fundraise",
+   "link": "https://www.livemint.com/market/stock-market-news/aditya-infotech-stock-hits-upper-circuit-after-qip-know-floor-price-up-172-in-1-yr-cp-plus-firm-rs-1500-cr-fundraise-11790135755330.html",
+   "summary": "Aditya Infotech's shares rose nearly 5% after the company launched a ₹1500 crore QIP, setting a floor price of ₹3,648.43 per share. The company may offer a discount of up to 5% on this price, reflecting strong market interest.",
+   "published": "2026-09-23T04:31:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Aditya_infotech_q_1790137775961_Wkuw_1790137810007_b1FA_48906a8c-db39-441e-95a0-d91918d29a20_ubFp.png",
+   "topics": [],
+   "first_seen": "2026-09-23T05:00:10+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Buyback & payout",
+    "Funding"
+   ]
+  },
   {
    "id": "82386df4586bbe8f",
    "title": "Two Gen Z's saw a trend in pickle videos and built a brand around it. Now it’s worth $8.5 million",
