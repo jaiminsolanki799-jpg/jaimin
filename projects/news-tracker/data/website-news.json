@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T21:30:11+00:00",
+ "generated_at": "2026-09-23T22:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:30:11+00:00"
+   "checked_at": "2026-09-23T22:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:30:11+00:00"
+   "checked_at": "2026-09-23T22:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:30:11+00:00"
+   "checked_at": "2026-09-23T22:00:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T21:30:11+00:00"
+   "checked_at": "2026-09-23T22:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 21:21:33 +0000",
    "error": null,
-   "checked_at": "2026-09-23T21:30:11+00:00"
+   "checked_at": "2026-09-23T22:00:10+00:00"
   }
  ],
  "topics": [
@@ -77,7 +77,7 @@
    "id": "c95096769e0f0d75",
    "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
    "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-   "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net zero pledge?",
+   "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
    "published": "2026-09-23T21:21:33+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -110,6 +110,24 @@
    "valuation_signals": [
     "PE / VC"
    ]
+  },
+  {
+   "id": "1a532cc38da15873",
+   "title": "TimBuckDo",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZWUFRR2NjWGpRTGM1ZUlCQTNZRGlwcnpOdzFzRzZqXy1kRGtPQ0RRYm1MSW42ZTZFeEJBYlJFMWExZXVVNWh6OEFmSQ?oc=5",
+   "summary": "",
+   "published": "2026-09-23T19:49:28+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T22:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "d6b54cabcf8d5174",
