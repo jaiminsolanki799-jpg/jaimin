@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T15:30:09+00:00",
+ "generated_at": "2026-09-23T16:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 20:50:31 +0530",
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 20:46:11 +0530",
+   "sample_date": "Wed, 23 Sep 2026 21:09:00 +0530",
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 20:49:56 +0530",
    "error": null,
-   "checked_at": "2026-09-23T15:30:09+00:00"
+   "checked_at": "2026-09-23T16:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "9bf26fb06ff3ef91",
+   "title": "Top stocks in focus tomorrow: Investors must watch GHCL, Max Estates, Bharat Dynamics shares on Thu, 24 Sept | Triggers",
+   "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-ghcl-max-estates-bharat-dynamics-shares-on-thu-24-sept-triggers-11790174249617.html",
+   "summary": "Key companies in the spotlight for investors on September 24 include Sheetal Universal, which secured an export order, and GHCL, bidding for a limestone block. Other highlights include Motilal Oswal's custodial approval and BCPL's rail contract.",
+   "published": "2026-09-23T15:39:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/STW_duplicate_1790175850856_IygQ_1790175870800_D6Ba_6ee06930-e034-4545-aca6-a63359be0fce_1bVi.png",
+   "topics": [],
+   "first_seen": "2026-09-23T16:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3a359d0fb9f698d4",
    "title": "Amazon to rehire laid-off workers for AI roles: ‘A lot has changed since you were….’",
@@ -242,7 +260,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/Block_deal_1790176510603_YFEz_1790176521703_6c2P_3b6258f6-93b6-4896-bb4f-e8436392bf3f_oJA2.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Block_deal_1790176510603_YFEz_1790176521703_6c2P_3b6258f6-93b6-4896-bb4f-e8436392bf3f_oJA2.png",
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
    "valuation_score": 0,
@@ -1653,7 +1671,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T11:00:12+00:00",
@@ -1854,7 +1872,7 @@
    "id": "fedaa6b6fe9c09a8",
    "title": "Subhash Chandra repayment plan: NCLT seeks CBI response, puts hearing on hold",
    "link": "https://www.livemint.com/companies/news/subhash-chandra-repayment-plan-nclt-seeks-cbi-response-puts-hearing-on-hold-11790136656008.html",
-   "summary": "The tribunal said the CBI’s investigation into the Zee founder’s case could have a bearing on proceedings over his ₹6.5 crore repayment plan",
+   "summary": "Minutes after the NCLT proceedings, a plea made by Subhash Chandra was also heard in NCLAT challenging the constitution of five judge bench by the NCLT and the alienation of assets in ₹6.5 crore repayment plan case. The bench accepted the plea and agreed to hear the matter on 28 September.",
    "published": "2026-09-23T05:02:12+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -4786,7 +4804,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T02:00:09+00:00",
@@ -7791,7 +7809,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
