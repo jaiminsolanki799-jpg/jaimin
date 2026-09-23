@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T18:30:11+00:00",
+ "generated_at": "2026-09-23T19:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 14:33:44 GMT",
+   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 18:06:27 +0000",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,13 +71,13 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 6,
  "items": [
   {
    "id": "cefd9ae37460de61",
    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
    "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-   "summary": "Disney is raising the prices of Disney+ and Hulu as streaming costs continue to rise across the industry.",
+   "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
    "published": "2026-09-23T18:06:27+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -185,7 +185,7 @@
   },
   {
    "id": "9816aa8dcf608168",
-   "title": "On-demand convenience platform TimBuckDo raises bridge round at Rs 150 Cr valuation",
+   "title": "On-demand convenience platform TimBuckDo raises bridge round at Rs 120 Cr valuation",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0llV0M3ZjJsR29xWHYxWm54dG1zSV9aN1NxTUFYRzdWQXZfa1ROTnh5LWJvN09OWERPMGZtMWl3Z0tJeUFXN3lTcVJTTmNldWIzOTBXV2VkdHJnb19rME84Xy1rTVNUN1RBWlpsU0RWbjRCM09PRFI4eDJEWTNRdldDRGlWWW5ob01kWHY5LURvUzZTN2tibzNvU3c1UmVPWG9RQnVSY2hEZllXZEsxU2xuUmVkNkFHMlItd2V5ONIBvwFBVV95cUxOd0llV0M3ZjJsR29xWHYxWm54dG1zSV9aN1NxTUFYRzdWQXZfa1ROTnh5LWJvN09OWERPMGZtMWl3Z0tJeUFXN3lTcVJTTmNldWIzOTBXV2VkdHJnb19rME84Xy1rTVNUN1RBWlpsU0RWbjRCM09PRFI4eDJEWTNRdldDRGlWWW5ob01kWHY5LURvUzZTN2tibzNvU3c1UmVPWG9RQnVSY2hEZllXZEsxU2xuUmVkNkFHMlItd2V5OA?oc=5",
    "summary": "",
    "published": "2026-09-23T15:58:49+00:00",
@@ -194,7 +194,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -288,7 +288,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
@@ -632,7 +632,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T12:30:09+00:00",
@@ -805,7 +805,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T11:00:12+00:00",
@@ -933,7 +933,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T09:00:11+00:00",
@@ -953,7 +953,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T10:00:12+00:00",
@@ -1253,7 +1253,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
@@ -1289,7 +1289,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1325,7 +1325,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1345,7 +1345,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
@@ -1471,7 +1471,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -1699,7 +1699,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T16:00:13+00:00",
@@ -2247,7 +2247,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -2324,7 +2324,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -2360,7 +2360,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:30:10+00:00",
@@ -2432,7 +2432,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -2450,7 +2450,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T09:00:10+00:00",
@@ -2468,7 +2468,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2564,7 +2564,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T13:00:12+00:00",
@@ -2604,7 +2604,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T06:00:08+00:00",
@@ -2678,7 +2678,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2718,7 +2718,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -2738,7 +2738,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -2782,7 +2782,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T04:00:10+00:00",

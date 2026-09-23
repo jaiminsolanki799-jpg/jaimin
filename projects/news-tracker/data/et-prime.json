@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T18:30:11+00:00",
+ "generated_at": "2026-09-23T19:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 22:09:51 +0530",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 22:54:27 +0530",
+   "sample_date": "Thu, 24 Sep 2026 00:12:48 +0530",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 23:50:47 +0530",
    "error": null,
-   "checked_at": "2026-09-23T18:30:11+00:00"
+   "checked_at": "2026-09-23T19:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,47 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "8cdfc706fe66a2f8",
+   "title": "Top 3 IPOs Performance Report Card: Ahead of NSE, know how Hyundai, LIC, Paytm fared on exchange debut day; data details",
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html",
+   "summary": "The National Stock Exchange's debut on September 24 has investors eager to compare it with previous major IPOs. Hyundai, LIC, and Paytm faced weak openings but saw varied recoveries, highlighting market volatility and valuation concerns impacting stock performance post-listing.",
+   "published": "2026-09-23T18:42:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/LIC_1790186244069_uKXK_1790186272945_wfBy_849998f1-9e4a-466b-8b28-283c4d9a2ca6_BPX3.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-23T19:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f6e975a4a26f684d",
+   "title": "Wall Street falls as oil prices, Treasury yields rise",
+   "link": "https://www.livemint.com/market/wall-street-falls-as-oil-prices-treasury-yields-rise-11790188753276.html",
+   "summary": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall Street falls as oil prices, Treasury yields rise",
+   "published": "2026-09-23T18:39:12+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T19:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1d47e17fc2467f13",
    "title": "UP RERA approves 12 realty projects, worth investment of ₹1,663.85 crore across six districts — Here's all we know",
@@ -288,7 +327,7 @@
   },
   {
    "id": "151d3a04512bf508",
-   "title": "Top breakout stocks to buy tomorrow: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
+   "title": "Top breakout stocks to buy today: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
    "link": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-aptus-krbl-tata-steel-radico-gnfc-by-sumeet-bagadia-targets-11790178360010.html",
    "summary": "Multiple stocks, including Aptus, KRBL, Tata Steel, Radico Khaitan, and GNFC, show potential for breakout as recommended by Sumeet Bagadia from Choice Broking, highlighting technical indicators such as bullish reversal signals and volume confirmation.&nbsp;",
    "published": "2026-09-23T16:48:31+00:00",
@@ -386,7 +425,7 @@
   },
   {
    "id": "9bf26fb06ff3ef91",
-   "title": "Top stocks in focus tomorrow: Investors must watch GHCL, Max Estates, Bharat Dynamics shares on Thu, 24 Sept | Triggers",
+   "title": "Top stocks in focus today: Investors must watch GHCL, Max Estates, Bharat Dynamics shares on Thu, 24 Sept | Triggers",
    "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-ghcl-max-estates-bharat-dynamics-shares-on-thu-24-sept-triggers-11790174249617.html",
    "summary": "Key companies in the spotlight for investors on September 24 include Sheetal Universal, which secured an export order, and GHCL, bidding for a limestone block. Other highlights include Motilal Oswal's custodial approval and BCPL's rail contract.",
    "published": "2026-09-23T15:39:00+00:00",
@@ -820,7 +859,7 @@
   },
   {
    "id": "910d1cea3f915c66",
-   "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 24 Sept 2026",
+   "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 24 Sept 2026",
    "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-thursday-kospi-taiwan-cues-to-watch-24-sept-2026-11790160091667.html",
    "summary": "The Indian stock market rallied on September 23, buoyed by falling crude oil prices and diplomatic efforts in the Middle East. The Nifty 50 and Sensex gained 0.50% and 0.40%, respectively, with strong performances in metals and financial stocks, despite declines in technology sectors.",
    "published": "2026-09-23T11:58:05+00:00",
