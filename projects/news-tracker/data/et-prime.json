@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T18:00:11+00:00",
+ "generated_at": "2026-09-23T18:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 22:09:51 +0530",
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 22:54:27 +0530",
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 23:22:04 +0530",
+   "sample_date": "Wed, 23 Sep 2026 23:50:47 +0530",
    "error": null,
-   "checked_at": "2026-09-23T18:00:11+00:00"
+   "checked_at": "2026-09-23T18:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "1d47e17fc2467f13",
+   "title": "UP RERA approves 12 realty projects, worth investment of ₹1,663.85 crore across six districts — Here's all we know",
+   "link": "https://www.livemint.com/money/up-rera-approves-12-realty-projects-worth-investment-1664-crore-six-districts-lucknow-ghaziabad-ayodhya-kanpur-prayagraj-11790184547968.html",
+   "summary": "The Uttar Pradesh RERA has approved 12 new real estate projects, worth investment of ₹1,663.85 crore across six districts in the state. The plan will comprise 3,090 residential and commercial units. Here's all we know…&nbsp;",
+   "published": "2026-09-23T18:20:47+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/UP_RERA_1790187024401_P7rA_1790187045583_rgQK_cdec8e9b-c41d-4268-9182-5c62865aae43_gzcY.png",
+   "topics": [],
+   "first_seen": "2026-09-23T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "51dba541d25d65e2",
    "title": "Are Americans benefitting? Fed survey finds how US firms are using their Trump tariff refunds",
@@ -346,7 +364,7 @@
    "id": "3863026d88a9b4b4",
    "title": "NSE IPO may see modest debut despite strong institutional demand",
    "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-market-cap-gmp-11790167142139.html",
-   "summary": "The NSE IPO is expected to debut modestly, despite strong institutional interest with QIBs bidding ₹4,498 crore in shares. The grey market premium has decreased significantly, indicating a tepid retail appetite amidst concerns over valuation, with a potential listing premium of 4.5%.",
+   "summary": "The GMP for NSE IPO shares has decreased significantly, indicating a tepid retail appetite amid concerns over valuation, with a potential listing premium of 4.5%.",
    "published": "2026-09-23T16:03:40+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -354,7 +372,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/RENTOMOJO-IPO--0_17889_1790178041474_SKh3_1790178041674_KyOv_348a26dd-fd04-450a-9efb-f0c3391048ad_1KUS.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/NSE_on_Train_1790187308882_vLwQ_1790187309043_EGKF_590ea82d-c751-428b-aec0-03464589ace8_nIse.JPG",
    "topics": [
     "SEBI / markets regulation",
     "Valuation / M&A"
@@ -414,7 +432,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/EMI_1763399961375_1763399961539_1790176755477_fiix_20d7266e-4012-4d84-8968-c166a8212af2_VeDy.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/EMI_1763399961375_1763399961539_1790176755477_fiix_20d7266e-4012-4d84-8968-c166a8212af2_VeDy.jpg",
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
    "valuation_score": 0,
