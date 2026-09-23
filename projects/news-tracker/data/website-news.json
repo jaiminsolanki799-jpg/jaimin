@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T07:00:08+00:00",
+ "generated_at": "2026-09-23T07:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T07:00:08+00:00"
+   "checked_at": "2026-09-23T07:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
+   "sample_date": "Tue, 22 Sep 2026 15:28:14 GMT",
    "error": null,
-   "checked_at": "2026-09-23T07:00:08+00:00"
+   "checked_at": "2026-09-23T07:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 23 Sep 2026 06:25:20 GMT",
+   "sample_date": "Wed, 23 Sep 2026 07:18:36 GMT",
    "error": null,
-   "checked_at": "2026-09-23T07:00:08+00:00"
+   "checked_at": "2026-09-23T07:30:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 29,
+   "items": 29,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T07:00:08+00:00"
+   "checked_at": "2026-09-23T07:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T07:00:08+00:00"
+   "checked_at": "2026-09-23T07:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "d34a4567f2a44f87",
+   "title": "‘AI is the new UI’: Zoho’s Sridhar Vembu outlines vision for ‘ubiquitous intelligence’",
+   "link": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence",
+   "summary": "On a day when Donald Trump announced his decision to rename AI as super intelligence, Zoho's Sridhar Vembu called it ubiquitous intelligence.",
+   "published": "2026-09-23T07:23:05+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T07:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fdf3a072765694a9",
+   "title": "Zetwerk and Ayr Energy Settle Legal Dispute, Urge USITC to End Probe",
+   "link": "https://startuptalky.com/news/zetwerk-and-ayr-energy-settle-legal-dispute/",
+   "summary": "Zetwerk and US-based Ayr Energy have resolved their legal dispute, agreeing to dismiss the allegations pending before the Texas Business Court and to seek termination of the related USITC Section 337 inquiry.",
+   "published": "2026-09-23T07:18:36+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/zetwerk-and-ayr-energy-settle-legal-dispute-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T07:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "406db17d7b93c710",
    "title": "Binance Invests $100M in Circle to Expand USDC Adoption",
