@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T14:30:14+00:00",
+ "generated_at": "2026-09-23T15:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 13,
-   "items": 13,
+   "fetched": 12,
+   "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T14:30:14+00:00"
+   "checked_at": "2026-09-23T15:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
+   "sample_date": "Wed, 23 Sep 2026 07:23:05 GMT",
    "error": null,
-   "checked_at": "2026-09-23T14:30:14+00:00"
+   "checked_at": "2026-09-23T15:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T14:30:14+00:00"
+   "checked_at": "2026-09-23T15:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T14:30:14+00:00"
+   "checked_at": "2026-09-23T15:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 14:30:00 +0000",
+   "sample_date": "Wed, 23 Sep 2026 14:45:00 +0000",
    "error": null,
-   "checked_at": "2026-09-23T14:30:14+00:00"
+   "checked_at": "2026-09-23T15:00:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 12,
  "items": [
+  {
+   "id": "e79119bd8aef4fec",
+   "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+   "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+   "summary": "Eight Sleep said the new pod is now 20% faster than the previous generation",
+   "published": "2026-09-23T14:45:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T15:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "37a5bb594cffd545",
+   "title": "5 Lessons about self-acceptance from Why Is My Skin Brown",
+   "link": "https://yourstory.com/2026/09/lessons-self-acceptance",
+   "summary": "Discover 5 powerful lessons on self-acceptance from Why Is My Skin Brown?, a story about identity, belonging, and confidence.",
+   "published": "2026-09-23T14:33:44+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T15:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "33d4153d93666fb2",
    "title": "YouTube releases new AI features for creators within its Studio app",
@@ -128,10 +164,66 @@
    "valuation_signals": []
   },
   {
+   "id": "3fbc62c6d1b242a7",
+   "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+   "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+   "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+   "published": "2026-09-23T14:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T15:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "ec5172ddcc942332",
+   "title": "YouTube will let you build your own algorithm with AI",
+   "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+   "summary": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+   "published": "2026-09-23T14:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T15:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0258e7f2cd74f90c",
+   "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+   "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+   "summary": "YouTube's AI feature can now help you compare products as you shop.",
+   "published": "2026-09-23T14:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T15:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "6feed7a62cc84678",
    "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
    "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-   "summary": "In this cursed timeline, we have been gifted with something so unfathomable that we could never have imagined it.",
+   "summary": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
    "published": "2026-09-23T14:21:41+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -728,7 +820,7 @@
   },
   {
    "id": "d34a4567f2a44f87",
-   "title": "'Next wave of AI is UI': Zoho’s Sridhar Vembu outlines his vision for ‘ubiquitous intelligence’",
+   "title": "Next wave of AI is UI: Zoho’s Sridhar Vembu outlines his vision for ‘ubiquitous intelligence’",
    "link": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence",
    "summary": "Even as US President Donald Trump rebrands AI as \"super intelligence\", Zoho's Sridhar Vembu believes it can be \"ubiquitous intelligence\".",
    "published": "2026-09-23T07:23:05+00:00",
