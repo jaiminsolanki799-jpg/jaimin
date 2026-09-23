@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T02:30:11+00:00",
+ "generated_at": "2026-09-23T03:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 06:00:52 +0530",
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 07:30:44 +0530",
+   "sample_date": "Wed, 23 Sep 2026 08:13:59 +0530",
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 23 Sep 2026 07:31:19 +0530",
    "error": null,
-   "checked_at": "2026-09-23T02:30:11+00:00"
+   "checked_at": "2026-09-23T03:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "205b40bc0959cece",
+   "title": "How Future Consumer insolvency professional selection slipped from SBI’s control",
+   "link": "https://economictimes.indiatimes.com/prime/corporate-governance/how-future-consumer-insolvency-professional-selection-slipped-from-sbis-control/primearticleshow/133007093.cms",
+   "summary": "",
+   "published": "2026-09-23T03:00:09+00:00",
+   "source": "ET Prime: Corporate governance",
+   "group": "ET Prime",
+   "category": "Corporate governance",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Insolvency / IBC"
+   ],
+   "first_seen": "2026-09-23T03:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
+  },
+  {
+   "id": "aa2caf8c6ce0e222",
+   "title": "Gold vs Silver: Which metal to invest in for maximum profit amid ongoing US-Iran war and oil on the boil?",
+   "link": "https://www.livemint.com/market/commodities/gold-vs-silver-which-metal-to-invest-in-for-maximum-profit-amid-ongoing-us-iran-war-and-oil-on-the-boil-11790129018853.html",
+   "summary": "Amid the ongoing US-Iran conflict, investors may be weighing which metal could offer a better investment opportunity, particularly as crude oil prices have started to ease after witnessing a sharp rally since the war began.",
+   "published": "2026-09-23T02:43:59+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/gold_vs_silver_1790131408520_Kd9o_1790131408668_pa8o_c7d02978-2003-4f89-9820-710f2ffbb97f_GbKe.png",
+   "topics": [],
+   "first_seen": "2026-09-23T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b49a5dcb12734a8b",
+   "title": "Goldman Sees China Oil Imports Staying Subdued in Fourth Quarter",
+   "link": "https://www.livemint.com/market/goldman-sees-china-oil-imports-staying-subdued-in-fourth-quarter-11790131198162.html",
+   "summary": "China’s oil imports are likely to remain subdued in the coming months if crude prices stay elevated, according to Goldman Sachs Group Inc., which could keep a lid on further gains.",
+   "published": "2026-09-23T02:39:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-09-23T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "77b7a61f3b1a84d1",
+   "title": "Trump’s 100% tariff threat: What Indian investors should do now",
+   "link": "https://www.livemint.com/market/stock-market-news/trumps-100-tariff-threat-what-indian-investors-should-do-now-11790073880709.html",
+   "summary": "A potential US tariff shock could hit export-heavy Indian sectors, but investors should assess company fundamentals and valuations before reacting to market volatility.",
+   "published": "2026-09-23T02:30:14+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/TRUMP-HELIPAD-33_1790078468444_5dHO_1790078477481_BKe7_81b8ae3d-c6ab-457a-8468-7ba7edd3087b_L7nS.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "22340febcaf47626",
    "title": "BHIM App rolls out MyUPI AI assistant for UPI support, mandate management and safety controls",
@@ -684,9 +760,9 @@
   },
   {
    "id": "b0505791a5d8e3bb",
-   "title": "Form 141 for TDS: What taxpayers need to know about the new challan-cum-statement under the Income Tax Act 2025",
+   "title": "Form 141 for TDS: What taxpayers need to know about new challan-cum-statement under the Income Tax Act 2025",
    "link": "https://www.livemint.com/money/personal-finance/form-141-for-tds-what-taxpayers-need-to-know-about-the-new-challan-cum-statement-under-the-income-tax-act-2025-11790098883159.html",
-   "summary": "Form 141 is the new unified challan-cum-statement for specified TDS transactions under the Income Tax Act 2025. Know who needs to file it, which transactions it covers, the applicable deadlines, and how to submit the form.",
+   "summary": "Form 141 is the new unified challan-cum-statement for specified TDS transactions under the Income Tax Act 2025. Know who needs to file it, which transactions it covers, the applicable deadlines and how to submit the form.",
    "published": "2026-09-22T18:09:53+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -6617,44 +6693,6 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-13T03:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ee5e10d94ad04b8a",
-   "title": "Larry Ellison cancels plan to sell $7.5 billion worth of Oracle stock",
-   "link": "https://www.livemint.com/companies/news/larry-ellison-cancels-plan-to-sell-7-5-billion-worth-of-oracle-stock-11789266726806.html",
-   "summary": "The statement came a day after Oracle Executive Chairman Larry Ellison said that a trading plan (10b5-1 Plan) would allow him to sell up to 50 million shares of Oracle common stock.",
-   "published": "2026-09-13T02:55:23+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/Larry_Ellison_1789267228931_af214b69-9d48-4744-a24a-98f2e720d622_1789267232416_0daf6548-67b1-4a33-bf50-e30112165f10_66ee7fbd-83e4-4b32-b7fa-a939dd4b2ae7_64319151-4feb-4189-aeda-a7b9a113699d.jpg",
-   "topics": [],
-   "first_seen": "2026-09-13T03:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dc301090df971064",
-   "title": "Bank holidays this week: SBI, HDFC, ICICI, PNB closed on up to 4 days from 14–20 Sep; check city-wise RBI list",
-   "link": "https://www.livemint.com/money/personal-finance/bank-holidays-this-week-sbi-hdfc-icici-pnb-closed-on-up-to-4-days-from-14-20-sep-check-city-wise-rbi-list-11789266166017.html",
-   "summary": "Banks will remain closed on four days between September 14 and 20, 2026, although the closures vary by location. Here is the RBI holiday calendar-based list for customers planning branch visits this week.",
-   "published": "2026-09-13T02:50:47+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/MixCollage-13-Sep-2026-07-59-AM-935_1789266585105_dad7d4ec-82b0-47b0-9c43-4d3a44a1ea4b_1789266596438_d2f2e991-1903-416a-95dc-48500cddd8d4_06cdd72c-f8b7-483b-b2b1-7eaf647df1f2_a0e968bd-5104-4fbd-9c79-432d58d4b863.jpg",
-   "topics": [
-    "RBI / banking"
-   ],
    "first_seen": "2026-09-13T03:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
