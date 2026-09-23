@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-23T11:00:12+00:00",
+ "generated_at": "2026-09-23T11:30:45+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 16:07:37 +0530",
+   "sample_date": "Wed, 23 Sep 2026 16:52:55 +0530",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 16:28:13 +0530",
+   "sample_date": "Wed, 23 Sep 2026 16:51:52 +0530",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 23 Sep 2026 16:28:36 +0530",
+   "sample_date": "Wed, 23 Sep 2026 16:37:55 +0530",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,136 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "fad4c3d12f9eee99",
+   "title": "Airtel Money plans biggest London listing since 2021",
+   "link": "https://www.livemint.com/companies/airtel-money-plans-london-stock-exchange-listing-2021-sub-saharan-africa-11790158568232.html",
+   "summary": "Airtel Money seeks to debut on the London Stock Exchange, potentially raising $800 million through an offer for sale by current shareholders.&nbsp;",
+   "published": "2026-09-23T11:22:55+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/BHARTI-AIRTEL-RESULTS--0_1770388033704_1770388047139_1790162656065_mmzS_b0813da3-26a5-425b-b648-0905a81f751c_5TOp.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "43bd1f55281dfcfa",
+   "title": "Textile stocks to buy: PL Capital sees up to 37% upside in these two stocks | Do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/textile-stocks-to-buy-pl-capital-sees-up-to-37-upside-in-these-two-stocks-do-you-own-11790162195724.html",
+   "summary": "PL Capital recommends investing in Gokaldas Exports, KPR Mill, highlighting strong growth prospects. Check target price",
+   "published": "2026-09-23T11:21:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Textile_stocks_to_buy_1790162435729_fhzZ_1790162444691_9HdG_3cd3e6bd-fa98-4182-87a7-b4be47e9efe0_iTor.png",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "977f2fd1605cabf2",
+   "title": "Sensex slips over 11,000 points from record high in 10 months; 3 triggers that may fuel the Indian stock market",
+   "link": "https://www.livemint.com/market/stock-market-news/sensex-slips-over-11-000-points-from-record-high-in-10-months-3-triggers-that-may-fuel-the-indian-stock-market-11790151935193.html",
+   "summary": "Sensex today: The 30-stock index hit a new peak of 86,159 on 1 December 2025",
+   "published": "2026-09-23T11:16:36+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Sensex_today_Stock_market_today_FII_data_US_Iran_1790153830031_zNMa_1790153830230_1Daz_00e9b705-d521-45b5-b490-2b223caac3cd_m8ma.png",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "54e35735285836f5",
+   "title": "US stock market LIVE updates: Dow Jones trades flat; Xi Jinping US visit, US-Iran news in focus",
+   "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-live-updates-dow-jones-trades-flat-xi-jinping-us-visit-us-iran-news-in-focus-11790159539990.html",
+   "summary": "US stock futures showed mixed trends on September 23, with Nasdaq 100 remaining flat post-record highs. Traders are also looking to the summit between Trump and China’s Xi Jinping for signs of progress on trade and other economic disputes.",
+   "published": "2026-09-23T11:15:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Nasdaq_1790160533598_2M9l_1790160538715_rV99_5cfa46ab-1c4e-4e2e-9afa-f48e0d146170_vKmd.png",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ecf2fa0f5088324d",
+   "title": "Hong Kong Exchange to Discuss Extended Stock Trading Hours",
+   "link": "https://www.livemint.com/market/hong-kong-exchange-to-discuss-extended-stock-trading-hours-11790161805423.html",
+   "summary": "Hong Kong’s stock exchange will consult with stakeholders on a potential extension of stock trading hours that would align the bourse with major global markets.",
+   "published": "2026-09-23T11:10:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b7b0a6614d25309f",
+   "title": "Who is Arvind Subramanian? Axis Bank appoints IIT and IIM alumnus as additional independent director for four years",
+   "link": "https://www.livemint.com/companies/people/who-is-arvind-subramanian-axis-bank-appoints-iit-and-iim-alumnus-as-additional-independent-director-for-four-years-11790157357492.html",
+   "summary": "Axis Bank appointed Arvind Subramanian as an additional independent director for a four-year term, pending shareholder approval. He holds a B.Tech in Electrical and Electronics Engineering from IIT Madras and completed his postgraduate management studies at IIM Ahmedabad.",
+   "published": "2026-09-23T11:08:00+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Untitled_design_1790160886676_Qo3v_1790160890389_WdzE_25c28a10-bbe3-443c-bdb8-b02af840ed27_GeHw.png",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "51dd0df81cf504df",
+   "title": "DA row: Punjab HC directs official to appear on 5 Oct for not complying with order, govt says ‘committed’ — Top updates",
+   "link": "https://www.livemint.com/money/personal-finance/da-row-punjab-hc-directs-chief-secretary-to-appear-5-oct-no-comply-arrears-payment-order-govt-says-committed-top-updates-11790158242986.html",
+   "summary": "DA row: The Punjab and Haryana High Court has directed the state chief secretary to appear before it on 5 October for not complying with its previous order regarding payment of pending DA arrears of state employees and pensioners.&nbsp;",
+   "published": "2026-09-23T11:07:55+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Punjab_DA_1788261144748_1788261174498_c774c8e1-abd7-497a-b6fc-041a79c52523_1790161606320_2WiS_9da9a095-bbc9-4646-a330-53278fd2929c_fiSr.png",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a3d0dd3494d89036",
    "title": "Tax benefits on co-owned house hinge on actual contribution, not ownership share",

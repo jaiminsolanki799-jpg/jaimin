@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T11:00:12+00:00",
+ "generated_at": "2026-09-23T11:30:45+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 14,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 22 Sep 2026 15:28:14 GMT",
+   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 23 Sep 2026 10:10:00 GMT",
+   "sample_date": "Wed, 23 Sep 2026 11:24:43 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 04:59:08 +0000",
    "error": null,
-   "checked_at": "2026-09-23T11:00:12+00:00"
+   "checked_at": "2026-09-23T11:30:45+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "dd8dd04f63ec2339",
+   "title": "betterhood Raises ₹11.5 Crore Led by Sauce for Pain Care",
+   "link": "https://startuptalky.com/news/betterhood-raises-11-5-crore-seed-sauce/",
+   "summary": "betterhood has raised ₹11.5 crore led by Sauce for preventive pain care. Musculoskeletal pain affects 53.5% of Indians over 45, but 62.3% of women against 48.9% of men, and the company's 7,000-strong physiotherapist community is the channel that matters.",
+   "published": "2026-09-23T11:24:43+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/betterhood-Raises----11.5-Crore-Led-by-Sauce-for-Pain-Care.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "454a2a19c370e6c0",
+   "title": "Instamart Eyes Wider Battery-Swapping Network to Boost EV Deliveries",
+   "link": "https://startuptalky.com/news/instamart-eyes-wider-battery-swapping-network/",
+   "summary": "Instamart intends to build its battery swapping network around the micro-fulfilment centers to speed up the use of EVs in the last mile deliveries. The company is collaborating with Yuma Energy and Yulu to minimise charging downtime, travel and operating costs for delivery partners.",
+   "published": "2026-09-23T11:12:28+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/instamart-eyes-wider-battery-swapping-network-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-23T11:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "817a5e765e6f774b",
    "title": "Sauce leads seed round in preventive pain care brand betterhood",
@@ -348,7 +386,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -384,7 +422,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -402,7 +440,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -420,7 +458,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -429,7 +467,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
+   "title": "- the-captable.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-23T06:40:58+00:00",
@@ -456,7 +494,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -604,7 +642,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1236,7 +1274,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -1326,7 +1364,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1823,7 +1861,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
@@ -2015,7 +2053,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -2789,7 +2827,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T10:30:10+00:00",
@@ -3905,7 +3943,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T17:30:10+00:00",
@@ -4016,7 +4054,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
