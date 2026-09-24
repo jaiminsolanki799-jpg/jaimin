@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T05:30:08+00:00",
+ "generated_at": "2026-09-24T06:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T05:30:08+00:00"
+   "checked_at": "2026-09-24T06:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 07:23:05 GMT",
+   "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
    "error": null,
-   "checked_at": "2026-09-24T05:30:08+00:00"
+   "checked_at": "2026-09-24T06:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
+   "sample_date": "Thu, 24 Sep 2026 05:57:47 GMT",
    "error": null,
-   "checked_at": "2026-09-24T05:30:08+00:00"
+   "checked_at": "2026-09-24T06:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 29,
+   "items": 29,
    "sample_date": "Tue, 22 Sep 2026 07:10:51 GMT",
    "error": null,
-   "checked_at": "2026-09-24T05:30:08+00:00"
+   "checked_at": "2026-09-24T06:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T05:30:08+00:00"
+   "checked_at": "2026-09-24T06:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "70c9ed2e4aa04793",
+   "title": "ByteAsk Raises $1 Mn Led by Y Combinator for C++ AI Agents",
+   "link": "https://startuptalky.com/news/byteask-raises-1-mn-led-by-y-combinator-for-c-ai-agents/",
+   "summary": "ByteAsk has raised $1 million from Y Combinator and Entrepreneur First to build AI coding agents for C and C++ in defence, trading, automotive and semiconductors. On the two programmes' published standard terms, roughly $375,000 of the round came from angels.",
+   "published": "2026-09-24T05:57:47+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/image-1790228606688.webp",
+   "topics": [],
+   "first_seen": "2026-09-24T06:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "c411cac7b4f6beb1",
+   "title": "Amazon once sold a Rs 185 Surf Excel pack for Rs 82,740. Then it had to stop 90 deliveries",
+   "link": "https://yourstory.com/2026/09/amazon-once-sold-185-surf-excel-pack-for-82740-stop-90-deliveries",
+   "summary": "The unusually high price might ordinarily have been expected to prevent sales. Instead, the listing was circulated on Twitter, along with a suggestion that customers could buy the product, preserve their invoices, and approach a consumer court seeking compensation.",
+   "published": "2026-09-24T05:44:48+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-24T06:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b70e118031c03695",
+   "title": "Nithin Kamath: The Unlikely Billionaire Who’s Shaking Up India's Stock Market",
+   "link": "https://startuptalky.com/nithin-kamath-zerodha/",
+   "summary": "From a teenage trader to the co-founder of Zerodha, discover Nithin Kamath’s journey, education, career, salary, net worth, family and success story, updated for 2026.",
+   "published": "2026-09-24T05:30:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Megha Rani",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2023/12/Nithin-Kamath-Zerodha-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T06:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e64fab48444dc911",
    "title": "Moneyview raises Rs 327 Cr from anchor investors ahead of IPO",
@@ -115,6 +173,24 @@
    "valuation_signals": []
   },
   {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-24T04:51:34+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "the-captable.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "3b772b02e999af34",
    "title": "Enterprise AI startup Ema raises $77 Mn in Series B led by Creaegis",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3lRenJlYTNMWXZLZHlXa2s1SGd5bElxWTJSZDNfU1ZsWnFTMncwYXVwS28wSHZFWURBT1FxRXF6Z1pYbHBqRVZuc2FfZzRFSHdVbmlSLW96eU1NMlVCaXVhTVU5VkFOSjd5V3F6QWhPTWd6QjRfRkRIaTFWc2VCZ25JN0xjZDRrRFNHU2VKV1FHVTR2dlBqX01tWkRjUDJ5U1VF0gGjAUFVX3lxTE5PeVF6cmVhM0xZdktkeVdrazVIZ3lsSXFZMlJkM19TVmxacVMydzBhdXBLbzBIdkVZREFPUXFFcXpnWlhscGpFVm5zYV9nNEVId1VuaVItb3p5TU0yVUJpdWFNVTlWQU5KN3lXcXpBaE9NZ3pCNF9GREhpMVZzZUJnbkk3TGNkNGtEU0dTZUpXUUdVNHZ2UGpfTW1aRGNQMnlTVUU?oc=5",
@@ -133,6 +209,42 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-24T04:23:40+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "the-captable.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T08:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- the-captable.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-24T04:00:23+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "40ad5b1c9658db4e",
@@ -1039,7 +1151,7 @@
   },
   {
    "id": "2de826e5646434d1",
-   "title": "How the MSME ODR portal is helping small businesses recover delayed payments",
+   "title": "No more waiting for payments: How MSME ODR portal is helping small businesses get paid",
    "link": "https://yourstory.com/2026/09/msme-odr-portal-small-businesses-recover-delayed-payments",
    "summary": "Learn how the MSME ODR portal, run by the Ministry of MSME, helps small businesses recover delayed payments online, with case studies from Telangana.",
    "published": "2026-09-23T11:47:02+00:00",
@@ -1405,60 +1517,6 @@
    "date_known": true,
    "author": null,
    "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-23T06:41:03+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "the-captable.com",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T08:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- the-captable.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-23T06:40:58+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-23T06:37:53+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
