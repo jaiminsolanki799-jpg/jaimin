@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T04:30:09+00:00",
+ "generated_at": "2026-09-24T05:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -143,9 +143,9 @@
    "ok": true,
    "fetched": 6,
    "items": 3,
-   "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
+   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 06:00:51 +0530",
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 09:50:38 +0530",
+   "sample_date": "Thu, 24 Sep 2026 10:23:01 +0530",
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 09:21:58 +0530",
    "error": null,
-   "checked_at": "2026-09-24T04:30:09+00:00"
+   "checked_at": "2026-09-24T05:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,86 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "602b79b5ebab6a48",
+   "title": "Hero Motors share price hits record high despite stock market crash | Is it time to book profits?",
+   "link": "https://www.livemint.com/market/stock-market-news/hero-motors-share-price-hits-record-high-despite-stock-market-crash-is-it-time-to-book-profits-11790223907951.html",
+   "summary": "Hero Motors share price: The newly listed stock surged as much as 18% on NSE on 24 September, after falling over 20% in the previous session.",
+   "published": "2026-09-24T04:53:01+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/hm_1790225551994_sdzb_1790225552214_XW9j_97a22982-cf43-4e90-94bf-6e7a7a79f106_cFuF.png",
+   "topics": [],
+   "first_seen": "2026-09-24T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "aba9ffe512f0c4f0",
+   "title": "NTPC dividend alert: Maharatna PSU pays ₹3,394 crore final dividend in FY26, check payout per share, yield",
+   "link": "https://www.livemint.com/market/stock-market-news/ntpc-dividend-alert-maharatna-psu-pays-rs-3-394-crore-final-dividend-in-fy26-check-payout-per-share-yield-11790222460353.html",
+   "summary": "NTPC Limited announced a final dividend of ₹3,393.8 crore for FY 2025-26, maintaining a 35% payout ratio. This brings total dividends to ₹8,727 crore, marking 33 years of consistent payments.&nbsp;",
+   "published": "2026-09-24T04:50:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/ntpcas_1790225387811_vq6A_1790225406142_CWQg_559bd1e3-44f0-4b9b-9697-ea0acfb652b3_2X5r.png",
+   "topics": [],
+   "first_seen": "2026-09-24T05:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "0edc2116ad9adc19",
+   "title": "NSE shares rise on stock market debut after $2.4-billion IPO",
+   "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-market-cap-gmp-11790224426513.html",
+   "summary": "NSE's share price rose 0.8% to ₹1,800 on debut compared with an IPO price of ₹1,785 a share. The deal had valued the exchange at ₹4.4 lakh crore.",
+   "published": "2026-09-24T04:35:53+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/NSE_1790224520674_VNG8_1790224520843_5J30_0291550f-c6fd-41d3-b9b8-e8494804664d_6N1z.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-24T05:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "4499b5e63dfcd48a",
+   "title": "Bank, financial stocks tumble as IRDAI flags high insurance payouts; Axis Bank, IDFC First Bank, Bajaj Finance tank",
+   "link": "https://www.livemint.com/market/stock-market-news/bank-financial-stocks-tumble-as-irdai-flags-high-insurance-payouts-axis-bank-idfc-first-bank-bajaj-finance-tank-11790223420011.html",
+   "summary": "Bank stocks fell on 24 September due to regulatory scrutiny of bank-led insurance distribution. The IRDAI questioned the remuneration structures and their alignment with the work involved, pushing for a shift towards customer value and long-term outcomes.&nbsp;",
+   "published": "2026-09-24T04:29:34+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/bank_stocks_1790224108626_efRW_1790224113072_0gKG_90e5d447-798b-45e7-beeb-eba4880deb4a_kX28.png",
+   "topics": [],
+   "first_seen": "2026-09-24T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "21e8e7dbb87dd8f6",
    "title": "HDFC Bank share price down 25% in 2026 - Opportunity for bottom fishing ahead of new CEO appointment? Experts decode",
@@ -214,9 +292,9 @@
   },
   {
    "id": "7ba5853295b7a0a2",
-   "title": "NSE Listing LIVE: World's largest derivatives exchange shows ₹15 premium in pre-open session",
+   "title": "NSE Listing LIVE: NSE shares rise after flat debut on BSE. Buy, sell or hold?",
    "link": "https://www.livemint.com/market/ipo/nse-listing-live-big-day-for-worlds-largest-derivatives-exchange-gains-or-discount-share-price-prediction-gmp-11790220769453.html",
-   "summary": "NSE Listing LIVE: World's largest derivatives exchange shows ₹15 premium in pre-open session, which began at 9:45 AM",
+   "summary": "NSE Listing LIVE: World's largest derivatives exchange made a flat debut on Dalal Street, delivering a listing premium of ₹15 to the share allottees",
    "published": "2026-09-24T04:03:13+00:00",
    "source": "Mint Markets",
    "group": "Mint",
