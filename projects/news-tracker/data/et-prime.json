@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T04:00:46+00:00",
+ "generated_at": "2026-09-24T04:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 06:00:51 +0530",
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 09:24:38 +0530",
+   "sample_date": "Thu, 24 Sep 2026 09:50:38 +0530",
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 09:21:58 +0530",
    "error": null,
-   "checked_at": "2026-09-24T04:00:46+00:00"
+   "checked_at": "2026-09-24T04:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "21e8e7dbb87dd8f6",
+   "title": "HDFC Bank share price down 25% in 2026 - Opportunity for bottom fishing ahead of new CEO appointment? Experts decode",
+   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-down-25-in-2026-opportunity-for-bottom-fishing-ahead-of-new-ceo-appointment-experts-decode-11790221093029.html",
+   "summary": "HDFC Bank share price have crashed over 25% year-to-date (YTD) and are down nearly 33% from its 52-week high of ₹1,020.",
+   "published": "2026-09-24T04:20:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/HDFC_1790223594498_yu24_1790223594707_5nk4_5472314e-74f5-429f-a6c7-d4eb349b1a61_69Hn.jfif",
+   "topics": [],
+   "first_seen": "2026-09-24T04:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7ba5853295b7a0a2",
+   "title": "NSE Listing LIVE: World's largest derivatives exchange shows ₹15 premium in pre-open session",
+   "link": "https://www.livemint.com/market/ipo/nse-listing-live-big-day-for-worlds-largest-derivatives-exchange-gains-or-discount-share-price-prediction-gmp-11790220769453.html",
+   "summary": "NSE Listing LIVE: World's largest derivatives exchange shows ₹15 premium in pre-open session, which began at 9:45 AM",
+   "published": "2026-09-24T04:03:13+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/NSE_IPO_listing_date_NSE_share_price_Stock_Market_1790221491193_CRk6_1790221491340_EcDg_765cf7bf-6472-46af-9a9d-6374460b46f3_VecN.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-24T04:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "46f75cb47c0128e5",
+   "title": "Stock market crash: Nifty 50, Sensex fall 1% as crude tops $102; financial, insurance stocks slide on IRDAI proposal",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-sensex-fall-1-as-crude-tops-102-financial-insurance-stocks-slide-on-irdai-proposal-11790221859967.html",
+   "summary": "Indian benchmark indices Nifty 50 and Sensex dropped about 1% on September 24, driven by rising crude oil prices and higher US bond yields. Key financial stocks like HDFC Life and Bajaj Finance contributed significantly to the decline.",
+   "published": "2026-09-24T04:02:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/stock_market_crash_1790222463855_kC4z_1790222468542_OXMo_4a847d28-f5a9-4026-9dfe-39ed04262c6b_kkTg.png",
+   "topics": [],
+   "first_seen": "2026-09-24T04:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b86e48e7790ec9fd",
    "title": "IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Check details",
