@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T13:00:10+00:00",
+ "generated_at": "2026-09-24T13:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:00:10+00:00"
+   "checked_at": "2026-09-24T13:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 11:06:46 GMT",
+   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:00:10+00:00"
+   "checked_at": "2026-09-24T13:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 12:23:41 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:00:10+00:00"
+   "checked_at": "2026-09-24T13:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Wed, 23 Sep 2026 04:29:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:00:10+00:00"
+   "checked_at": "2026-09-24T13:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 12:54:19 +0000",
    "error": null,
-   "checked_at": "2026-09-24T13:00:10+00:00"
+   "checked_at": "2026-09-24T13:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "a0d99aa575d4dd70",
+   "title": "Engineering is not a degree anymore, it is a mindset: Google exec Amit Kumar",
+   "link": "https://yourstory.com/2026/09/engineering-is-not-a-degree-anymore-it-is-a-mindset-google-amit-kumar",
+   "summary": "As India leapfrogs in global AI, enterprises are shifting from model debates to agentic value, hybrid cloud sovereignty, and a democratised engineering mindset, says Amit Kumar, Managing Director, Digital Natives Business at Google Cloud India.",
+   "published": "2026-09-24T13:21:25+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T13:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "312829f484b304c7",
+   "title": "Startup news and updates: daily roundup (September 24, 2026)",
+   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-24-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, September 24, 2026.",
+   "published": "2026-09-24T13:04:16+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T13:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eb461d26ec818632",
    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
