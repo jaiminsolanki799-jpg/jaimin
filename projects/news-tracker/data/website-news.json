@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T10:00:11+00:00",
+ "generated_at": "2026-09-24T10:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T10:00:11+00:00"
+   "checked_at": "2026-09-24T10:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 15:09:30 GMT",
+   "sample_date": "Wed, 23 Sep 2026 08:57:24 GMT",
    "error": null,
-   "checked_at": "2026-09-24T10:00:11+00:00"
+   "checked_at": "2026-09-24T10:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 09:52:01 GMT",
    "error": null,
-   "checked_at": "2026-09-24T10:00:11+00:00"
+   "checked_at": "2026-09-24T10:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Wed, 23 Sep 2026 04:29:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T10:00:11+00:00"
+   "checked_at": "2026-09-24T10:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T10:00:11+00:00"
+   "checked_at": "2026-09-24T10:30:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "42b974e7089ab8d6",
+   "title": "Google Cloud pushes Gemini deeper into India’s businesses",
+   "link": "https://yourstory.com/2026/09/google-cloud-brings-gemini-deeper-into-india-businesses",
+   "summary": "At an event in Bengaluru, Google Cloud outlined its India strategy, which combines Gemini AI models and infrastructure, to take AI from pilots into production environments through industry partnerships.",
+   "published": "2026-09-24T09:56:31+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T10:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "38b42a3a281e45d7",
    "title": "Oracle Cloud Unit Job Cuts Target Middle Managers and Older Workers",
