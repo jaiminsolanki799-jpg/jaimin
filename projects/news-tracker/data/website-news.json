@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T19:00:13+00:00",
+ "generated_at": "2026-09-24T19:30:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T19:00:13+00:00"
+   "checked_at": "2026-09-24T19:30:14+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 11:06:46 GMT",
+   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
    "error": null,
-   "checked_at": "2026-09-24T19:00:13+00:00"
+   "checked_at": "2026-09-24T19:30:14+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
    "error": null,
-   "checked_at": "2026-09-24T19:00:13+00:00"
+   "checked_at": "2026-09-24T19:30:14+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T19:00:13+00:00"
+   "checked_at": "2026-09-24T19:30:14+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 18:52:38 +0000",
+   "sample_date": "Thu, 24 Sep 2026 19:15:00 +0000",
    "error": null,
-   "checked_at": "2026-09-24T19:00:13+00:00"
+   "checked_at": "2026-09-24T19:30:14+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "b5f88521e80c82ea",
+   "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+   "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+   "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+   "published": "2026-09-24T19:15:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T19:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9ef4a7c3c6317153",
+   "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+   "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+   "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+   "published": "2026-09-24T19:00:42+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T19:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a028535758107f8d",
    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
