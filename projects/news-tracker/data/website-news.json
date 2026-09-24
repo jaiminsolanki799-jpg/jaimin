@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-23T23:30:10+00:00",
+ "generated_at": "2026-09-24T00:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-23T23:30:10+00:00"
+   "checked_at": "2026-09-24T00:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 13:46:55 GMT",
+   "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
    "error": null,
-   "checked_at": "2026-09-23T23:30:10+00:00"
+   "checked_at": "2026-09-24T00:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-23T23:30:10+00:00"
+   "checked_at": "2026-09-24T00:00:08+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-23T23:30:10+00:00"
+   "checked_at": "2026-09-24T00:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 22:17:39 +0000",
+   "sample_date": "Wed, 23 Sep 2026 23:47:35 +0000",
    "error": null,
-   "checked_at": "2026-09-23T23:30:10+00:00"
+   "checked_at": "2026-09-24T00:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "2cd971e282db687c",
+   "title": "Meta is trying VR glasses (again), this time with more IMAX",
+   "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+   "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+   "published": "2026-09-23T23:47:35+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T00:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b8569e46aaeee2e5",
+   "title": "Meta introduces camera-free AI glasses",
+   "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+   "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+   "published": "2026-09-23T23:39:44+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T00:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e82a636c6ed2d032",
+   "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+   "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+   "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+   "published": "2026-09-23T23:33:22+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T00:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "72bffe5e6639c434",
    "title": "Anthropic says its biology lab has already found something big",
