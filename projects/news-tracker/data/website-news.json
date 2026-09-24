@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T15:00:12+00:00",
+ "generated_at": "2026-09-24T15:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T15:00:12+00:00"
+   "checked_at": "2026-09-24T15:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 13:21:25 GMT",
+   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
    "error": null,
-   "checked_at": "2026-09-24T15:00:12+00:00"
+   "checked_at": "2026-09-24T15:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 13:33:58 GMT",
    "error": null,
-   "checked_at": "2026-09-24T15:00:12+00:00"
+   "checked_at": "2026-09-24T15:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T15:00:12+00:00"
+   "checked_at": "2026-09-24T15:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 14:43:25 +0000",
+   "sample_date": "Thu, 24 Sep 2026 15:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-24T15:00:12+00:00"
+   "checked_at": "2026-09-24T15:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "5b513703eb7f50ea",
+   "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+   "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+   "published": "2026-09-24T15:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "069f9e507b9bc4e6",
    "title": "PB Fintech crashes 36%, Turtlemint 20% as IRDAI overhaul rattles insurance stocks",
@@ -110,10 +128,28 @@
    "valuation_signals": []
   },
   {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-24T14:35:50+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "7921e1c1f3981a03",
    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-   "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence.",
+   "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
    "published": "2026-09-24T14:31:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -1826,24 +1862,6 @@
    "image": "https://static.startuptalky.com/2026/09/instamart-eyes-wider-battery-swapping-network-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-23T11:30:45+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-23T11:02:06+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
