@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T07:00:10+00:00",
+ "generated_at": "2026-09-24T07:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 06:03:52 GMT",
+   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 24 Sep 2026 06:42:08 GMT",
+   "sample_date": "Thu, 24 Sep 2026 07:18:19 GMT",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
-   "sample_date": "Tue, 22 Sep 2026 07:10:51 GMT",
+   "fetched": 27,
+   "items": 27,
+   "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,44 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "bd5ce8c2a249605b",
+   "title": "Amazon Rehires Former Employees for AI and Cloud Roles After Mass Layoffs",
+   "link": "https://startuptalky.com/news/amazon-rehires-former-employees/",
+   "summary": "Amazon is expanding its AI efforts and hiring former employees, including some who were laid off, for positions in artificial intelligence, machine learning and cloud computing. Ex-employees have been approached by recruiters about potential roles and fast-tracked interview processes.",
+   "published": "2026-09-24T07:18:19+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/amazon-rehires-former-employees-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "99a2e2987200c9e0",
+   "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
+   "link": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis",
+   "summary": "Ema's agentic platform allows enterprises to automate workflows across functions. The company will use the funds for go-to-market activities and expanding into newer geographies.",
+   "published": "2026-09-24T07:11:19+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "b70d194fa483e30d",
    "title": "Trade Body Calls for Rollback of New UPI MDR Charges on High-Value Payments",
@@ -131,7 +169,7 @@
    "id": "cffd790fec130145",
    "title": "Tata tussle puts spotlight on Hanno’s TVS deal as filings reveal 29-year lease, build-to-suit structure",
    "link": "https://yourstory.com/2026/09/tata-tussle-spotlight-hannos-tvs-deal-filings-reveal-29-year-lease",
-   "summary": "Regulatory filings reveal an arrangement in which TVS Motor is both the lessor of the underlying land and the customer for the facility Hanno is developing on it, with rental income projected to begin in November 2026.",
+   "summary": "New MCA filings reveal TVS Motor leased land to Chandrasekaran family-backed Hanno for 29 years under a build-to-suit model amid the Tata Sons and Trusts governance row.",
    "published": "2026-09-24T06:03:52+00:00",
    "source": "YourStory",
    "group": "YourStory",
@@ -140,7 +178,9 @@
    "author": null,
    "publisher": null,
    "image": null,
-   "topics": [],
+   "topics": [
+    "MCA / ROC"
+   ],
    "first_seen": "2026-09-24T06:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []

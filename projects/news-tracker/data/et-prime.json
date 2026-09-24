@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T07:00:10+00:00",
+ "generated_at": "2026-09-24T07:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 12:09:46 +0530",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 12:20:44 +0530",
+   "sample_date": "Thu, 24 Sep 2026 12:50:05 +0530",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 12:28:55 +0530",
    "error": null,
-   "checked_at": "2026-09-24T07:00:10+00:00"
+   "checked_at": "2026-09-24T07:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "3fcfc45337d65609",
+   "title": "Nifty 50 crossed 26K for first time 2 yrs ago, now down 2900 points from record high but one factor may trigger bull run",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-crossed-26k-for-first-time-2-yrs-ago-now-down-2900-points-from-record-high-but-one-factor-may-trigger-bull-run-11790219519167.html",
+   "summary": "Nifty 50 today: Exactly two years ago on 24 September 2024, the 50-stock index crossed the landmark 26,000 level for the first time",
+   "published": "2026-09-24T07:20:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Nifty_50_today_Stock_Market_today_Stock_Market_New_1790220049280_b6DR_1790220049455_1sXT_f2e3dd7b-62e5-43e7-8d9c-42d4e14f7c50_RIx4.png",
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e2bb22a2fbbe91e5",
+   "title": "IPO GMPs: Runwal Enterprises IPO, German Green Steel IPO to Acevector IPO | What grey market hints ahead of opening?",
+   "link": "https://www.livemint.com/market/ipo/ipo-gmps-runwal-enterprises-ipo-german-green-steel-ipo-to-acevector-ipo-what-grey-market-hints-ahead-of-opening-11790232398413.html",
+   "summary": "The primary market is bustling with four IPOs opening for public subscription on 25 September, aiming to raise ₹1,776 crore. Grey market premiums indicate positive trends for Runwal Enterprises, German Green Steel, and Orient Cables, while Acevector IPO shows no premium.",
+   "published": "2026-09-24T07:15:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Upcoming_IPOs_1_1790233682768_2251_1790233686746_uHSw_3569e41a-0e9d-4f4d-ab77-1cfc5886cc85_Rtln.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-24T07:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "fc3e07bd13081297",
    "title": "Did your agent mis-sell insurance? IRDAI proposes clawing back their commission under new reforms",
@@ -612,7 +652,7 @@
   },
   {
    "id": "b86e48e7790ec9fd",
-   "title": "IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Check details",
+   "title": "IRDAI paper impact: Insurance stocks crash - PB Fintech, HDFC Life, ICICI Prudential, Turtlemint tanks - Should you buy?",
    "link": "https://www.livemint.com/market/stock-market-news/irdai-paper-impact-insurance-stocks-crash-pb-fintech-hdfc-life-icici-prudential-turtlemint-tanks-check-details-11790220763445.html",
    "summary": "Insurance stocks, including HDFC Life and SBI Life, plummeted on September 24 after IRDAI proposed reforms affecting management expense limits and commission structures to prevent mis-selling. The changes aim for transparent, digital insurance purchases.",
    "published": "2026-09-24T03:54:38+00:00",
@@ -2740,7 +2780,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T07:00:08+00:00",
@@ -5194,6 +5234,24 @@
    "valuation_signals": []
   },
   {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus Ltd.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "",
+   "published": "2026-09-22T06:43:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "5a27b188d7a492ac",
    "title": "BEML’s mega bullet train order puts execution in spotlight",
    "link": "https://www.livemint.com/market/mark-to-market/beml-share-price-rises-rs-5400-crore-bullet-train-order-book-11790055954221.html",
@@ -5891,7 +5949,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T02:00:09+00:00",
