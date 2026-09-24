@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T09:00:09+00:00",
+ "generated_at": "2026-09-24T09:30:45+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T09:00:09+00:00"
+   "checked_at": "2026-09-24T09:30:45+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
+   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
    "error": null,
-   "checked_at": "2026-09-24T09:00:09+00:00"
+   "checked_at": "2026-09-24T09:30:45+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 07:18:19 GMT",
    "error": null,
-   "checked_at": "2026-09-24T09:00:09+00:00"
+   "checked_at": "2026-09-24T09:30:45+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 28,
-   "items": 28,
+   "fetched": 27,
+   "items": 27,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T09:00:09+00:00"
+   "checked_at": "2026-09-24T09:30:45+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T09:00:09+00:00"
+   "checked_at": "2026-09-24T09:30:45+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "f23e18826dd709ff",
+   "title": "PB Fintech shares fall over 30% after IRDAI proposes lower insurance commissions",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTRqR3kxbTJEOWtJNU82Y2NjYkxuVUdOZ0tvLW92TXh0VkRGNGVPOWx1b3Y2VnZJMkJZTldFc01GNDB1MXhCd3JsU3Y5VXA2alNtdjZDbTlJWjVWaUFaZVRCc0VwYmI5R2dLUmdTU01PT1NtUF92TldoZ05feGZrNnFBSlpFSkp6eDhkNUVHajlMbTJHejhGcDRwMENaakI0bkZnR1B2anNndC1iTzZUOXRiQ0_SAbQBQVVfeXFMT2k0akd5MW0yRDlrSTVPNmNjY2JMblVHTmdLby1vdk14dFZERjRlTzlsdW92NlZ2STJCWU5XRXNNRjQwdTF4QndybFN2OVVwNmpTbXY2Q205SVo1VmlBWmVUQnNFcGJiOUdnS1JnU1NNT09TbVBfdk5XaGdOX3hmazZxQUpaRUpKeng4ZDVFR2o5TG0yR3o4RnA0cDBDWmpCNG5GZ0dQdmpzZ3QtYk82VDl0YkNP?oc=5",
+   "summary": "",
+   "published": "2026-09-24T09:18:58+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "entrackr.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T09:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "744315a4b12bd274",
    "title": "Lab-grown diamond jewellery brand ONYA raises Rs 12.5 crore in pre-Series A round",
@@ -84,7 +102,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T09:00:09+00:00",
@@ -92,6 +110,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "924da907ac117887",
+   "title": "Srijan Realty aims to redefine residential living in Kolkata with the launch of Orizon",
+   "link": "https://yourstory.com/2026/09/srijan-realty-aims-redefine-residential-living-kolkata-launch-orizon",
+   "summary": "Srijan Realty aims to redefine residential living in Kolkata with the launch of Orizon Spread across 8.3 acres on the Southern EM Bypass, the six‑tower, 702‑unit community blends 80% open space, barrier‑free design, and IGBC Platinum pre‑certified sustainability. Image caption : The 702-unit,",
+   "published": "2026-09-24T08:55:21+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T09:30:45+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "bd5ce8c2a249605b",
@@ -274,7 +310,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -297,7 +333,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T05:30:08+00:00",
@@ -333,7 +369,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T05:00:09+00:00",
@@ -371,7 +407,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T06:30:10+00:00",
@@ -479,7 +515,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T01:00:09+00:00",
@@ -609,7 +645,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T22:00:10+00:00",
@@ -773,7 +809,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -867,7 +903,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
@@ -1211,7 +1247,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T12:30:09+00:00",
@@ -1384,7 +1420,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T11:00:12+00:00",
@@ -1512,7 +1548,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T09:00:11+00:00",
@@ -1532,7 +1568,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T10:00:12+00:00",
@@ -1760,7 +1796,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
@@ -1796,7 +1832,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1832,7 +1868,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -1852,7 +1888,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T06:00:09+00:00",
@@ -1978,7 +2014,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -2206,7 +2242,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T16:00:13+00:00",
@@ -2754,7 +2790,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
