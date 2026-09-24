@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T23:00:15+00:00",
+ "generated_at": "2026-09-24T23:30:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T23:00:15+00:00"
+   "checked_at": "2026-09-24T23:30:16+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 17:02:43 GMT",
+   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
    "error": null,
-   "checked_at": "2026-09-24T23:00:15+00:00"
+   "checked_at": "2026-09-24T23:30:16+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
    "error": null,
-   "checked_at": "2026-09-24T23:00:15+00:00"
+   "checked_at": "2026-09-24T23:30:16+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T23:00:15+00:00"
+   "checked_at": "2026-09-24T23:30:16+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 20:45:00 +0000",
+   "sample_date": "Thu, 24 Sep 2026 23:24:33 +0000",
    "error": null,
-   "checked_at": "2026-09-24T23:00:15+00:00"
+   "checked_at": "2026-09-24T23:30:16+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "2c6cdd30ec1f74e1",
+   "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+   "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+   "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+   "published": "2026-09-24T23:24:33+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T23:30:16+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f047c708f2aa51fd",
    "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
