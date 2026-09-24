@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T18:00:09+00:00",
+ "generated_at": "2026-09-24T18:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 22:02:33 +0530",
+   "sample_date": "Thu, 24 Sep 2026 23:53:39 +0530",
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 23:18:55 +0530",
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 23:16:24 +0530",
+   "sample_date": "Thu, 24 Sep 2026 23:45:48 +0530",
    "error": null,
-   "checked_at": "2026-09-24T18:00:09+00:00"
+   "checked_at": "2026-09-24T18:30:10+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,62 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "21e12e181991222d",
+   "title": "PhonePe targets rural India with 20,000+ new hires and 50 lakh payment devices in 12 months",
+   "link": "https://www.livemint.com/companies/news/phonepe-targets-rural-india-with-20-000-new-hires-and-50-lakh-payment-devices-in-12-months-11790272731263.html",
+   "summary": "PhonePe plans to hire more than 20,000 frontline sales personnel on its rolls over the next year. The company will also deploy more than 50 lakh payment devices over the next 12 months.",
+   "published": "2026-09-24T18:23:39+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Untitled_design_-_2026-09-24T233542.757_1790273136420_DEF4_1790273144763_7Lba_b43bec25-9c4c-4d46-a2f6-2278f8abed0f_Bgff.png",
+   "topics": [],
+   "first_seen": "2026-09-24T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8d7eb3a136e5a7e0",
+   "title": "6 international mutual funds are reopening: 5 delivered double-digit returns in 1 year - is it time to invest?",
+   "link": "https://www.livemint.com/money/personal-finance/6-international-mutual-funds-are-reopening-5-delivered-double-digit-returns-in-1-year-is-it-time-to-invest-11790271409473.html",
+   "summary": "Six international mutual funds are reopening for fresh subscriptions after periodic restrictions on overseas investments. With some schemes delivering double-digit returns over the past year, investors may be tempted to invest. Here's what you should check before putting money in.&nbsp;",
+   "published": "2026-09-24T18:15:48+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/intnerna_1790273657403_9L5s_1790273662018_TeMV_be186e11-cf12-498a-b84c-0a37ba55160d_9N6f.png",
+   "topics": [],
+   "first_seen": "2026-09-24T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a9e44248e01e59fb",
+   "title": "Health insurance: Sum insured, policy terms, evolving needs - all you need to know before policy renewal",
+   "link": "https://www.livemint.com/money/personal-finance/health-insurance-sum-insured-policy-terms-evolving-needs-all-you-need-to-know-before-policy-renewal-11790266159674.html",
+   "summary": "Reviewing coverage, sum insured, healthcare requirements and premiums can help ensure uninterrupted protection",
+   "published": "2026-09-24T18:10:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/healthinsurance_1790266263611_6tP4_1790266294962_z06o_992903e2-e09a-4c43-869c-ce1f2e54399b_U5xw.jpg",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-09-24T18:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "316bb3fb883cf68d",
    "title": "IRDAI commission proposals: Why does Nithin Kamath see regulatory risk as key?",
