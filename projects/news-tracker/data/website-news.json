@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T06:30:10+00:00",
+ "generated_at": "2026-09-24T07:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:30:10+00:00"
+   "checked_at": "2026-09-24T07:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
+   "sample_date": "Thu, 24 Sep 2026 06:03:52 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:30:10+00:00"
+   "checked_at": "2026-09-24T07:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 24 Sep 2026 06:05:42 GMT",
+   "sample_date": "Thu, 24 Sep 2026 06:42:08 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:30:10+00:00"
+   "checked_at": "2026-09-24T07:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Tue, 22 Sep 2026 07:10:51 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:30:10+00:00"
+   "checked_at": "2026-09-24T07:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T06:30:10+00:00"
+   "checked_at": "2026-09-24T07:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "b70d194fa483e30d",
+   "title": "Trade Body Calls for Rollback of New UPI MDR Charges on High-Value Payments",
+   "link": "https://startuptalky.com/news/trade-body-calls-for-rollback-of-new-upi-mdr-charges/",
+   "summary": "The Chamber of Trade and Industry (CTI) has called on Finance Minister Nirmala Sitharaman to roll back the proposed UPI MDR on high-value merchant payments. From October 15, 2026, a 0.4% MDR will be levied on eligible person-to-merchant UPI transactions above INR 2,000 with a ceiling of INR 300.",
+   "published": "2026-09-24T06:42:08+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/trade-body-calls-for-rollback-of-new-upi-mdr-charges-Startuptalky-1.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1e3905e21bbf815e",
+   "title": "The DPDP Act Isn't One 2027 Deadline, It's Three",
+   "link": "https://startuptalky.com/dpdp-act-timeline-phases-2026-2027-explained/",
+   "summary": "DPDP is usually called a \"2027 law.\" It actually commences in three phases, and the second one, the Consent Manager framework, lands 13 November 2026, less than two months from now.",
+   "published": "2026-09-24T06:39:16+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/The-DPDP-Act-Isn-t-One-2027-Deadline--It-s-Three.png",
+   "topics": [],
+   "first_seen": "2026-09-24T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4dbe2477a1b406d5",
    "title": "FSSAI Plans One-Phase Rollout of Front-of-Pack Labelling Rules",
@@ -205,6 +241,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T05:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-24T04:51:34+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1547,24 +1601,6 @@
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZUVFQ2dadGRaak5CeThZeW1Cc19oVUZYZHZpUU5YaDdqbDNCUmJTVWcwOWFhVzBoeWhyb0ZkbWFDYzFoX1ZBeWpIbEhPcGU4elJ3NzAwOA?oc=5",
    "summary": "",
    "published": "2026-09-23T07:02:14+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-23T06:37:53+00:00",
    "source": "The CapTable",
    "group": "The CapTable",
    "category": "Startups",
