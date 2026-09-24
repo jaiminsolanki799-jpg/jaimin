@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T13:30:10+00:00",
+ "generated_at": "2026-09-24T14:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:30:10+00:00"
+   "checked_at": "2026-09-24T14:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
+   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:30:10+00:00"
+   "checked_at": "2026-09-24T14:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 24 Sep 2026 12:23:41 GMT",
+   "sample_date": "Thu, 24 Sep 2026 13:33:58 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:30:10+00:00"
+   "checked_at": "2026-09-24T14:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 31,
    "items": 31,
-   "sample_date": "Wed, 23 Sep 2026 04:29:49 GMT",
+   "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T13:30:10+00:00"
+   "checked_at": "2026-09-24T14:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 12:54:19 +0000",
+   "sample_date": "Thu, 24 Sep 2026 14:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-24T13:30:10+00:00"
+   "checked_at": "2026-09-24T14:00:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "9091e5e67e944af8",
+   "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+   "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+   "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+   "published": "2026-09-24T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T14:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "49ac8cf61cd3bfb5",
+   "title": "Adani Group Announces Over INR 1 Trillion Investment Plan for West Bengal",
+   "link": "https://startuptalky.com/news/adani-group-announces-over-inr-1-trillion-investment/",
+   "summary": "Adani Group has declared plans to invest over ₹1 trillion in West Bengal by 2035, including ports, logistics, power, highways, green cement and data centers. Chairman Gautam Adani pointed to the state’s strategic position and potential as a major hub for trade.",
+   "published": "2026-09-24T13:33:58+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/adani-group-announces-over-inr-1-trillion-investment-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T14:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a0d99aa575d4dd70",
    "title": "Engineering is not a degree anymore, it is a mindset: Google exec Amit Kumar",
@@ -858,7 +894,7 @@
    "id": "2cd971e282db687c",
    "title": "Meta is trying VR glasses (again), this time with more IMAX",
    "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-   "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+   "summary": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
    "published": "2026-09-23T23:47:35+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -876,7 +912,7 @@
    "id": "b8569e46aaeee2e5",
    "title": "Meta introduces camera-free AI glasses",
    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-   "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+   "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
    "published": "2026-09-23T23:39:44+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
