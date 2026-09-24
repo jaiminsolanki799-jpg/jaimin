@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T02:00:09+00:00",
+ "generated_at": "2026-09-24T02:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T02:00:09+00:00"
+   "checked_at": "2026-09-24T02:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 02:05:00 GMT",
+   "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
    "error": null,
-   "checked_at": "2026-09-24T02:00:09+00:00"
+   "checked_at": "2026-09-24T02:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 23 Sep 2026 13:28:23 GMT",
    "error": null,
-   "checked_at": "2026-09-24T02:00:09+00:00"
+   "checked_at": "2026-09-24T02:30:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Tue, 22 Sep 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-09-24T02:00:09+00:00"
+   "checked_at": "2026-09-24T02:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T02:00:09+00:00"
+   "checked_at": "2026-09-24T02:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "a6eb9d023ae03d6d",
+   "title": "Zoho’s Sridhar Vembu talks about ‘ubiquitous intelligence’; Meet the speakers at TechSparks 2026",
+   "link": "https://yourstory.com/2026/09/zohos-sridhar-vembu-talks-about-ubiquitous-intelligence",
+   "summary": "Zoho introduced Zia Chat, a conversational AI interface that unifies data across systems while optimising token efficiency to keep costs affordable.",
+   "published": "2026-09-24T02:00:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T02:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "5f9b2dff770ee5ee",
    "title": "Everything new coming to Meta’s AI agent Muse",
