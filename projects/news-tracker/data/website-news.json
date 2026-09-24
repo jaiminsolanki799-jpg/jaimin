@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T16:30:11+00:00",
+ "generated_at": "2026-09-24T17:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T16:30:11+00:00"
+   "checked_at": "2026-09-24T17:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 13:21:25 GMT",
    "error": null,
-   "checked_at": "2026-09-24T16:30:11+00:00"
+   "checked_at": "2026-09-24T17:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 13:33:58 GMT",
    "error": null,
-   "checked_at": "2026-09-24T16:30:11+00:00"
+   "checked_at": "2026-09-24T17:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T16:30:11+00:00"
+   "checked_at": "2026-09-24T17:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 16:03:36 +0000",
+   "sample_date": "Thu, 24 Sep 2026 16:46:47 +0000",
    "error": null,
-   "checked_at": "2026-09-24T16:30:11+00:00"
+   "checked_at": "2026-09-24T17:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 12,
  "items": [
+  {
+   "id": "b62a6183ee4bf651",
+   "title": "5 Lessons from the Grammar of Silence by R Seshasayee",
+   "link": "https://yourstory.com/2026/09/lessons-from-grammar-of-silence",
+   "summary": "Discover 5 powerful lessons from The Grammar of Silence on resilience, courage, identity, and challenging social barriers.",
+   "published": "2026-09-24T16:55:52+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T17:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "06d8bd23c921860b",
+   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+   "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+   "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+   "published": "2026-09-24T16:46:47+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T17:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5fbe01394f97e037",
+   "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+   "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+   "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+   "published": "2026-09-24T16:35:13+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T17:00:09+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "a0af0f0d7e888fbf",
    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
@@ -378,6 +434,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T12:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2527ec3cf178ece3",
+   "title": "Amazon Fresh",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BV0oteElpY3hVWEJpU19nZEV2RFJ3Z1JWQjBiUU04QWJqRXZ4NGJuQkhhRG9oejNkR1hTN3pCQzZMQVo0aXZLYS1obDRKQTg?oc=5",
+   "summary": "",
+   "published": "2026-09-24T11:42:12+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T17:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
