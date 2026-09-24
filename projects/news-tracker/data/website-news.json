@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T18:30:10+00:00",
+ "generated_at": "2026-09-24T19:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T18:30:10+00:00"
+   "checked_at": "2026-09-24T19:00:13+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 11:06:46 GMT",
    "error": null,
-   "checked_at": "2026-09-24T18:30:10+00:00"
+   "checked_at": "2026-09-24T19:00:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
    "error": null,
-   "checked_at": "2026-09-24T18:30:10+00:00"
+   "checked_at": "2026-09-24T19:00:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T18:30:10+00:00"
+   "checked_at": "2026-09-24T19:00:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 18:11:44 +0000",
+   "sample_date": "Thu, 24 Sep 2026 18:52:38 +0000",
    "error": null,
-   "checked_at": "2026-09-24T18:30:10+00:00"
+   "checked_at": "2026-09-24T19:00:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "a028535758107f8d",
+   "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+   "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+   "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+   "published": "2026-09-24T18:52:38+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T19:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "57d9461ca601ffb7",
    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
@@ -226,7 +244,7 @@
   },
   {
    "id": "5fbe01394f97e037",
-   "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+   "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
    "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
    "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
    "published": "2026-09-24T16:35:13+00:00",
@@ -237,11 +255,13 @@
    "author": "Connie Loizos",
    "publisher": null,
    "image": null,
-   "topics": [],
+   "topics": [
+    "SEBI / markets regulation"
+   ],
    "first_seen": "2026-09-24T17:00:09+00:00",
-   "valuation_score": 4,
+   "valuation_score": 3,
    "valuation_signals": [
-    "Valuation"
+    "IPO"
    ]
   },
   {
@@ -273,7 +293,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -363,7 +383,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1068,7 +1088,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1115,7 +1135,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
+   "title": "- the-captable.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-24T04:00:23+00:00",
@@ -1142,7 +1162,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1548,7 +1568,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -2531,7 +2551,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -3163,7 +3183,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -3732,7 +3752,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
@@ -3924,7 +3944,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -4698,7 +4718,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T10:30:10+00:00",
@@ -5814,7 +5834,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T17:30:10+00:00",
