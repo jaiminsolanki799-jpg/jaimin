@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T06:00:09+00:00",
+ "generated_at": "2026-09-24T06:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:00:09+00:00"
+   "checked_at": "2026-09-24T06:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 23 Sep 2026 13:35:46 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:00:09+00:00"
+   "checked_at": "2026-09-24T06:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 24 Sep 2026 05:57:47 GMT",
+   "sample_date": "Thu, 24 Sep 2026 06:05:42 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:00:09+00:00"
+   "checked_at": "2026-09-24T06:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Tue, 22 Sep 2026 07:10:51 GMT",
    "error": null,
-   "checked_at": "2026-09-24T06:00:09+00:00"
+   "checked_at": "2026-09-24T06:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T06:00:09+00:00"
+   "checked_at": "2026-09-24T06:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "4dbe2477a1b406d5",
+   "title": "FSSAI Plans One-Phase Rollout of Front-of-Pack Labelling Rules",
+   "link": "https://startuptalky.com/news/fssai-plans-one-phase-rollout/",
+   "summary": "FSSAI has suggested one-time introduction of FoPL norms for packaged foods that include more added sugar, fat or salt than is allowed. The suggested framework includes red hexagonal warning labels for nutrients of concern and a front-of-pack warning for non-caloric sweeteners.",
+   "published": "2026-09-24T06:05:42+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/fssai-plans-one-phase-rollout-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cffd790fec130145",
+   "title": "Tata tussle puts spotlight on Hanno’s TVS deal as filings reveal 29-year lease, build-to-suit structure",
+   "link": "https://yourstory.com/2026/09/tata-tussle-spotlight-hannos-tvs-deal-filings-reveal-29-year-lease",
+   "summary": "Regulatory filings reveal an arrangement in which TVS Motor is both the lessor of the underlying land and the customer for the facility Hanno is developing on it, with rental income projected to begin in November 2026.",
+   "published": "2026-09-24T06:03:52+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "70c9ed2e4aa04793",
    "title": "ByteAsk Raises $1 Mn Led by Y Combinator for C++ AI Agents",
@@ -173,24 +209,6 @@
    "valuation_signals": []
   },
   {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-24T04:51:34+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "the-captable.com",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "3b772b02e999af34",
    "title": "Enterprise AI startup Ema raises $77 Mn in Series B led by Creaegis",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3lRenJlYTNMWXZLZHlXa2s1SGd5bElxWTJSZDNfU1ZsWnFTMncwYXVwS28wSHZFWURBT1FxRXF6Z1pYbHBqRVZuc2FfZzRFSHdVbmlSLW96eU1NMlVCaXVhTVU5VkFOSjd5V3F6QWhPTWd6QjRfRkRIaTFWc2VCZ25JN0xjZDRrRFNHU2VKV1FHVTR2dlBqX01tWkRjUDJ5U1VF0gGjAUFVX3lxTE5PeVF6cmVhM0xZdktkeVdrazVIZ3lsSXFZMlJkM19TVmxacVMydzBhdXBLbzBIdkVZREFPUXFFcXpnWlhscGpFVm5zYV9nNEVId1VuaVItb3p5TU0yVUJpdWFNVTlWQU5KN3lXcXpBaE9NZ3pCNF9GREhpMVZzZUJnbkk3TGNkNGtEU0dTZUpXUUdVNHZ2UGpfTW1aRGNQMnlTVUU?oc=5",
@@ -221,7 +239,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -229,8 +247,26 @@
    "valuation_signals": []
   },
   {
+   "id": "f8d3ad7711eb91b1",
+   "title": "ByteAsk",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00Q1JLM2ozYWk3M2ExZjk0YnBLTFdNZXVXUnpCVDZwTWtzczF2VVdpQXFYVHFnYWF3MlQxdEFKQV9rZnpEdnF2WA?oc=5",
+   "summary": "",
+   "published": "2026-09-24T04:18:48+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "dc81b1eefa7b3b07",
-   "title": "- the-captable.com",
+   "title": "- The CapTable",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-24T04:00:23+00:00",
@@ -257,7 +293,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -663,7 +699,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -1216,7 +1252,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1524,6 +1560,24 @@
    "valuation_signals": []
   },
   {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-23T06:37:53+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "406db17d7b93c710",
    "title": "Binance Invests $100M in Circle to Expand USDC Adoption",
    "link": "https://startuptalky.com/news/binance-invests-100m-in-circle/",
@@ -1664,7 +1718,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T05:00:10+00:00",
@@ -2296,7 +2350,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -2865,7 +2919,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
@@ -3057,7 +3111,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T05:00:09+00:00",
@@ -3831,7 +3885,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T10:30:10+00:00",
@@ -4947,7 +5001,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T17:30:10+00:00",
