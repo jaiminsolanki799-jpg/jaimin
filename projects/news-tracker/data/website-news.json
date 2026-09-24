@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T12:00:09+00:00",
+ "generated_at": "2026-09-24T12:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T12:00:09+00:00"
+   "checked_at": "2026-09-24T12:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
+   "sample_date": "Thu, 24 Sep 2026 06:03:52 GMT",
    "error": null,
-   "checked_at": "2026-09-24T12:00:09+00:00"
+   "checked_at": "2026-09-24T12:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 24 Sep 2026 10:56:05 GMT",
+   "sample_date": "Thu, 24 Sep 2026 12:23:41 GMT",
    "error": null,
-   "checked_at": "2026-09-24T12:00:09+00:00"
+   "checked_at": "2026-09-24T12:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Wed, 23 Sep 2026 04:29:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T12:00:09+00:00"
+   "checked_at": "2026-09-24T12:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T12:00:09+00:00"
+   "checked_at": "2026-09-24T12:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "818789d22a00d67e",
+   "title": "Daily Indian Funding Roundup & Key News - 24 September 2026: Ema Raises $77 Million, PB Fintech Crashes 36% On IRDAI Commission Cap Plan",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-24-september-2026/",
+   "summary": "Here's your daily dose of Indian startup funding roundup and key business news for 24 September 2026. Ema raises $77 million, and PB Fintech crashes 36% on IRDAI's commission cap plan.",
+   "published": "2026-09-24T12:23:41+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/daily-indian-funding-roundup-key-news-24-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T12:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "e431f06636f717db",
+   "title": "Gold and Silver Prices in India Today, 24 September 2026: Gold at ₹151,270, Silver at ₹233,050 as Both Fall Sharply",
+   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-24-september-2026/",
+   "summary": "Gold and silver rates today in India, 24 September 2026. 24K gold trades at ₹151,270 per 10g and silver at ₹233,050 per kg, both falling sharply as Fed hawkishness and a strong dollar weigh on metals. Check city wise rates and MCX data below.",
+   "published": "2026-09-24T12:09:13+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-india-today-24-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T12:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "27dc247f35d6c221",
+   "title": "Nykaa and L’Oréal’s venture fund BOLD join hands to invest in Indian beauty startups",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY09HMEJaelIxekFqOTE5Q3BpbWZwQVdEcG1lNzdKbnIybmtaYWlBZ1NvZ0psWno2M2JGWXpKMU1ZYUl4bXdCbmNpN29TVkYtX04zSUx4OVd0a2UybEdyR1VlNnA0cC00YktXSU13cnFvR28wbmVXRUVPY0JVeFdmLVF2NnQtRG92NnZnTU0wNlhvQnRaaFpCdmpCWml1c0NpS2tuZ2FGT0J2b09aLTJwd09oU01JNmY2eTdvMDl3cUNFOS1Q0gHEAUFVX3lxTE1jT0cwQlp6UjF6QWo5MTlDcGltZnBBV0RwbWU3N0pucjJua1phaUFnU29nSmxaejYzYkZZekoxTVlhSXhtd0JuY2k3b1NWRi1fTjNJTHg5V3RrZTJsR3JHVWU2cDRwLTRiS1dJTXdycW9HbzBuZVdFRU9jQlV4V2YtUXY2dC1Eb3Y2dmdNTTA2WG9CdFpoWkJ2akJaaXVzQ2lLa25nYUZPQnZvT1otMnB3T2hTTUk2ZjZ5N28wOXdxQ0U5LVA?oc=5",
+   "summary": "",
+   "published": "2026-09-24T11:59:34+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T12:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "84a74c6e57831901",
    "title": "Amazon Now and Amazon Fresh report Rs 3,065 Cr revenue and Rs 1,158 Cr loss in FY26",
