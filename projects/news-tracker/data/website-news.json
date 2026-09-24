@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T14:00:11+00:00",
+ "generated_at": "2026-09-24T14:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 23 Sep 2026 10:19:36 GMT",
+   "sample_date": "Thu, 24 Sep 2026 11:06:46 GMT",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 13:33:58 GMT",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 14:00:00 +0000",
+   "sample_date": "Thu, 24 Sep 2026 14:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "eb48c349777e4f2b",
+   "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+   "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+   "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+   "published": "2026-09-24T14:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T14:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9091e5e67e944af8",
    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
@@ -349,7 +367,7 @@
   },
   {
    "id": "55f83770975da5da",
-   "title": "India’s tech cos raise $10.3B in 2026: Tracxn",
+   "title": "India’s tech cos raise $10.3B in 2026, clocking a modest growth: Tracxn",
    "link": "https://yourstory.com/2026/09/indias-tech-cos-raise-usd-103b-in-2026-tracxn-report",
    "summary": "The report by Tracxn shows that capital is concentrated in fewer but larger, higher-conviction bets.",
    "published": "2026-09-24T10:48:54+00:00",

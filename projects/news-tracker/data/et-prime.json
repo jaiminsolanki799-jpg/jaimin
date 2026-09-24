@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T14:00:11+00:00",
+ "generated_at": "2026-09-24T14:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 19:06:42 +0530",
+   "sample_date": "Thu, 24 Sep 2026 19:53:01 +0530",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 19:20:21 +0530",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 18:39:18 +0530",
    "error": null,
-   "checked_at": "2026-09-24T14:00:11+00:00"
+   "checked_at": "2026-09-24T14:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,11 +192,29 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
   {
+   "id": "76fb1621d374dc1f",
+   "title": "Starbucks to shut 250 underperforming stores across North America: What did COO say in his message to employees?",
+   "link": "https://www.livemint.com/companies/news/starbucks-to-shut-250-underperforming-stores-across-north-america-what-did-coo-say-in-his-message-to-employees-11790256516813.html",
+   "summary": "Starbucks Corp. will close 250 underperforming stores across North America, representing around 1% of its 18,000 locations. The company has been streamlining its store network as part of a wider strategy aimed at improving sales and profitability.",
+   "published": "2026-09-24T14:23:01+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/images_1790258191263_VU3j_1790258194758_IMSe_4d4d37af-cad7-44c1-843b-ba0c0af9eab5_sWJy.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T14:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "7a30734c6f99db3f",
-   "title": "SEBI opens wider commodity derivatives market to foreign portfolio investors",
+   "title": "SEBI widens FPI access to commodity derivatives; delivery rules laid out",
    "link": "https://www.livemint.com/market/stock-market-news/sebi-opens-wider-commodity-derivatives-market-to-foreign-portfolio-investors-11790257586159.html",
    "summary": "The Securities and Exchange Board of India has permitted foreign portfolio investors to engage in a broader array of exchange-traded commodity derivatives, enhancing investor participation and liquidity in the market.",
    "published": "2026-09-24T13:50:21+00:00",
@@ -288,7 +306,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/3-0-64268220-bse--3--0_1679804518242_1790255607464_qmhI_200060aa-9144-4259-91db-5a174f3c1a39_m81t.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/ANI-20260915174-0_1790257342808_w1V1_1790257421663_5BK4_5a30506f-ff62-410d-859e-81c13c4af4ff_rJl3.jpg",
    "topics": [],
    "first_seen": "2026-09-24T13:30:10+00:00",
    "valuation_score": 0,
@@ -380,7 +398,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/INDIA-NSE-22_1789129292618_7aec6fa0-2356-4410-aaad-07a47c7e2cb7_1789129303516_a76616e0-92a1-45bf-bbb5-af5ae319864c_c0936d29-2b06-4a1d-a767-463aa5f3f905_112f4ac3-b66a-423d-bf3f-dd90ae7bb76c_1790250512093_lEgX_c86ed11b-38c3-4344-9aca-32f22b4528c6_T1VG.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/PTI09-24-2026-000094B-0_1790257365828_61ZC_1790257731542_E69a_68707d58-b22a-457c-899c-d058f8a27ac2_zBxq.jpg",
    "topics": [
     "SEBI / markets regulation"
    ],
@@ -3617,7 +3635,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T07:00:08+00:00",
@@ -6786,7 +6804,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T02:00:09+00:00",
