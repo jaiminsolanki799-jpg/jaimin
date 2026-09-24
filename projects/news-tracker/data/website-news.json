@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-24T11:30:10+00:00",
+ "generated_at": "2026-09-24T12:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-24T11:30:10+00:00"
+   "checked_at": "2026-09-24T12:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 11:06:46 GMT",
+   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
    "error": null,
-   "checked_at": "2026-09-24T11:30:10+00:00"
+   "checked_at": "2026-09-24T12:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 10:56:05 GMT",
    "error": null,
-   "checked_at": "2026-09-24T11:30:10+00:00"
+   "checked_at": "2026-09-24T12:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Wed, 23 Sep 2026 04:29:49 GMT",
    "error": null,
-   "checked_at": "2026-09-24T11:30:10+00:00"
+   "checked_at": "2026-09-24T12:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 01:13:32 +0000",
    "error": null,
-   "checked_at": "2026-09-24T11:30:10+00:00"
+   "checked_at": "2026-09-24T12:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "84a74c6e57831901",
+   "title": "Amazon Now and Amazon Fresh report Rs 3,065 Cr revenue and Rs 1,158 Cr loss in FY26",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEl5Z0p1T1ppQnFZZzRITnVhUWF2b1dmTVZUQUlrZS1pNFZTeTZqbkR2ZzhDLUE5NHQtTTVJUzQtamtLaDRVVkZMdEotWnJPaVNkNEx1R25ETjBJQkttRGo2UWExUUxrbXZ2bzI0Rnc5SFI4ZzNxdG44T0hNcWw0N3pveUtBZ1F2V2plcjJQUzg0MnMxbGJGa1I1ajctdDRCT3Jha3FBTzdtNjZyYnFTQUEycWR5RkdNNVdSWENn0gG-AUFVX3lxTE9oSXlnSnVPWmlCcVlnNEhOdWFRYXZvV2ZNVlRBSWtlLWk0VlN5NmpuRHZnOEMtQTk0dC1NNUlTNC1qa0toNFVWRkx0Si1ack9pU2Q0THVHbkROMElCS21EajZRYTFRTGttdnZvMjRGdzlIUjhnM3F0bjhPSE1xbDQ3em95S0FnUXZXamVyMlBTODQyczFsYkZrUjVqNy10NEJPcmFrcUFPN202NnJicVNBQTJxZHlGR001V1JYQ2c?oc=5",
+   "summary": "",
+   "published": "2026-09-24T11:37:45+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T12:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "da1955bbac1fa946",
    "title": "Catalonia deepens India push, targets New Opportunities in AI, deeptech, and semiconductors",
@@ -124,6 +142,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T11:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a3a8198277ed91c1",
+   "title": "Sridhar Vembu Biography: A Journey from Vision to Zoho's Global Success",
+   "link": "https://startuptalky.com/sridhar-vembu-success-story/",
+   "summary": "Sridhar Vembu’s journey from IIT Madras and Princeton to building Zoho into a global software company is a story of bootstrapping, innovation, and unconventional entrepreneurship. Discover his career, net worth, education, family, and the story behind Zoho.",
+   "published": "2026-09-24T10:53:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "shifa ali",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/04/Sridhar-Vembu-Story-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-24T12:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
