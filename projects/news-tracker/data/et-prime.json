@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T19:30:14+00:00",
+ "generated_at": "2026-09-24T20:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 00:43:21 +0530",
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 00:52:43 +0530",
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 23:45:48 +0530",
+   "sample_date": "Fri, 25 Sep 2026 01:12:57 +0530",
    "error": null,
-   "checked_at": "2026-09-24T19:30:14+00:00"
+   "checked_at": "2026-09-24T20:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "f91e763384292777",
+   "title": "Mutual fund inflows over 1 year: Which equity, debt and hybrid categories attracted money despite being in the red?",
+   "link": "https://www.livemint.com/money/personal-finance/mutual-fund-inflows-over-1-year-which-equity-debt-and-hybrid-categories-attracted-money-despite-being-in-the-red-11790274938544.html",
+   "summary": "Mutual fund flows over the last 12 months show a mixed picture across equity, debt, and hybrid categories. Some categories attracted substantial money despite negative returns, while others saw outflows even after delivering positive returns.&nbsp;",
+   "published": "2026-09-24T19:42:57+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/mg_1790278581213_ZrQJ_1790278585099_ivp6_f9cc4c24-ce5a-4c8a-85cf-1c2d2277debb_Ve0I.png",
+   "topics": [],
+   "first_seen": "2026-09-24T20:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "af456ed0aad56604",
    "title": "Treasury Rout Threatens Popular EM Carry Trade as Citi Pulls Back",
