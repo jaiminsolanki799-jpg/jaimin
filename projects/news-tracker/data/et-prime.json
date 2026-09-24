@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-24T03:00:15+00:00",
+ "generated_at": "2026-09-24T03:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 22 Sep 2026 01:38:00 GMT",
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 06:00:51 +0530",
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 24 Sep 2026 08:14:01 +0530",
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 24 Sep 2026 07:41:14 +0530",
+   "sample_date": "Thu, 24 Sep 2026 08:45:15 +0530",
    "error": null,
-   "checked_at": "2026-09-24T03:00:15+00:00"
+   "checked_at": "2026-09-24T03:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "03a65301a41d8fe2",
+   "title": "IRDAI proposes new motor insurance rules: What could change for new car buyers",
+   "link": "https://www.livemint.com/money/personal-finance/irdai-proposes-new-motor-insurance-rules-what-could-change-for-new-car-buyers-11790218819778.html",
+   "summary": "IRDAI has proposed changes to motor insurance distribution that could alter how new-vehicle buyers purchase insurance. It proposes digital purchase options through platforms such as Bima Sugam, tighter rules for motor dealers and lower commissions on mandatory third-party motor insurance.",
+   "published": "2026-09-24T03:15:15+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_Generate_Image_htl9h2htl9h2htl9_179021930_1790219311758_gRxE_1790219312040_Sv3o_4fe14094-2efa-44ed-8b5c-9cd1e8831d1f_9Xfq.png",
+   "topics": [],
+   "first_seen": "2026-09-24T03:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7e6a3c9ca1dcaa71",
    "title": "US Dollar jumps to near two-month high. What could it mean for Indian stock markets - Sensex, Nifty impact",
