@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T04:30:12+00:00",
+ "generated_at": "2026-09-25T05:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T04:30:12+00:00"
+   "checked_at": "2026-09-25T05:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
    "error": null,
-   "checked_at": "2026-09-25T04:30:12+00:00"
+   "checked_at": "2026-09-25T05:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
    "error": null,
-   "checked_at": "2026-09-25T04:30:12+00:00"
+   "checked_at": "2026-09-25T05:00:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-25T04:30:12+00:00"
+   "checked_at": "2026-09-25T05:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 23:24:33 +0000",
    "error": null,
-   "checked_at": "2026-09-25T04:30:12+00:00"
+   "checked_at": "2026-09-25T05:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "bc671fbe346aac91",
+   "title": "MDR on UPI payments above Rs 2,000 will not be passed on to consumers: Govt sources",
+   "link": "https://yourstory.com/2026/09/mdr-on-upi-payments-above-rs-2000-will-not-be-passed-on-to-consumers-govt-sources",
+   "summary": "Effective October 15, a 0.4% merchant discount rate will be levied on merchants for UPI transactions over Rs 2,000. However, no charge will be levied on person-to-person transactions regardless of the amount.",
+   "published": "2026-09-25T04:50:23+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "eca800256fd58134",
+   "title": "Exclusive: K12 Techno Services grants fresh ESOPs worth $20 Mn",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1FJcGVGbmhROHVnYlIyTFlWWG1RVUx0Q3B5czYzSXRZTU1RenNMMnEtbHAydmdqcXQzY3NtYmdkbWh4a1ExdnlJeXBFQlV5X09BVlNGUXp3ZkhlcW0tUG9nNVJXdFNOYnJ1aG9CWVY5bTgzcWh0OWlERUN3d1hSRlJURlRfenE3X0FMLWJ1NjktX0tLY25IaW5yYXdPRld1MnfSAaIBQVVfeXFMUG9RSXBlRm5oUTh1Z2JSMkxZVlhtUVVMdENweXM2M0l0WU1NUXpzTDJxLWxwMnZnanF0M2NzbWJnZG1oeGtRMXZ5SXlwRUJVeV9PQVZTRlF6d2ZIZXFtLVBvZzVSV3RTTmJydWhvQllWOW04M3FodDlpREVDd3dYUkZSVEZUX3pxN19BTC1idTY5LV9LS2NuSGlucmF3T0ZXdTJ3?oc=5",
+   "summary": "",
+   "published": "2026-09-25T04:48:30+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "21e25460c857e5d1",
    "title": "AceVector raises Rs 189 Cr from anchor investors ahead of IPO",
