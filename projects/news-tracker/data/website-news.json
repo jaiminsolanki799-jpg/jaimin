@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T12:00:12+00:00",
+ "generated_at": "2026-09-25T12:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T12:00:12+00:00"
+   "checked_at": "2026-09-25T12:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 17:02:43 GMT",
+   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T12:00:12+00:00"
+   "checked_at": "2026-09-25T12:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 25 Sep 2026 11:13:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T12:00:12+00:00"
+   "checked_at": "2026-09-25T12:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Thu, 24 Sep 2026 11:59:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T12:00:12+00:00"
+   "checked_at": "2026-09-25T12:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 25 Sep 2026 05:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-25T12:00:12+00:00"
+   "checked_at": "2026-09-25T12:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "918ae2aec1846212",
+   "title": "Accel, 360 ONE offload 4.07% stake in BlueStone for Rs 513 Cr via bulk deals",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlZSTXFZSEI1YzNNVURMdHlXVnBzY25QNEZfZ1BHdjlhSV9MdUNHbXZzS3JFelRZejFjcmh6dURMamMzV2FzeXh1Tk9vdGxHNXdlWHNLdzZZMGJVR280RTRZU213cVpaUFY0N0VQTVJQTWgzSktuUjRpeFY2TUhkY290d2NIMTJXRndoV1cyOHdZOWIxU1k3cWNGcmZPbmZob0pkc3RPdVRoRHo10gGsAUFVX3lxTE1WVlJNcVlIQjVjM01VREx0eVdWcHNjblA0Rl9nUEd2OWFJX0x1Q0dtdnNLckV6VFl6MWNyaHp1RExqYzNXYXN5eHVOT290bEc1d2VYc0t3NlkwYlVHbzRFNFlTbXdxWlpQVjQ3RVBNUlBNaDNKS25SNGl4VjZNSGRjb3R3Y0gxMldGd2hXVzI4d1k5YjFTWTdxY0ZyZk9uZmhvSmRzdE91VGhEejU?oc=5",
+   "summary": "",
+   "published": "2026-09-25T12:07:18+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T12:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
   {
    "id": "1383e17f8b0daece",
    "title": "Ankita Luharuka on Building Alliance City Developers, Real Estate Growth & the Future of Indian Housing",
