@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T11:00:10+00:00",
+ "generated_at": "2026-09-25T11:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 5,
-   "items": 2,
-   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
-   "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 16:21:15 +0530",
+   "sample_date": "Fri, 25 Sep 2026 16:56:14 +0530",
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 16:21:12 +0530",
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 16:14:13 +0530",
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,65 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "bf7fd9732173da19",
+   "title": "What is OpenEvidence, the ‘ChatGPT for doctors’ valued at $15 billion in a new funding round?",
+   "link": "https://www.livemint.com/companies/news/what-is-openevidence-the-chatgpt-for-doctors-valued-at-15-billion-in-a-new-funding-round-11790333618550.html",
+   "summary": "OpenEvidence, valued at $15 billion, is deploying its AI search engine for doctors in 100 countries, enhancing medical knowledge access.&nbsp;",
+   "published": "2026-09-25T11:26:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/openevidence_1790335485690_R05k_1790335485896_eKbn_2f1b13e4-f674-4e75-9a1d-532db6216d0a_clRj.png",
+   "topics": [],
+   "first_seen": "2026-09-25T11:30:12+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
+  {
+   "id": "9330c5f1b83cbd80",
+   "title": "Akasa Air eyes billion-dollar 200+ Boeing 737 MAX order for fleet expansion, decision expected early 2027: Report",
+   "link": "https://www.livemint.com/companies/news/akasa-air-eyes-billion-dollar-200-boeing-737-max-order-for-fleet-expansion-decision-expected-early-2027-report-11790330099654.html",
+   "summary": "Akasa Air, India’s third-largest airline, is reportedly contemplating an order for over 200 Boeing 737 MAX aircraft. A decision could be made early next year, with commercial terms expected by late 2027.&nbsp;",
+   "published": "2026-09-25T11:18:20+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Untitled_design_1790332748363_Xvh8_1790332751789_5Iey_9eb8bf80-c2a1-4098-a868-18632f8b8698_nhbc.png",
+   "topics": [],
+   "first_seen": "2026-09-25T11:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d63a15935f1d932b",
+   "title": "What are Dopamine Sites? The order is fake, the craving is real- Indian founders bet on ‘digital consumption’",
+   "link": "https://www.livemint.com/companies/start-ups/what-are-dopamine-sites-the-order-is-fake-the-craving-is-real-indian-founders-bet-on-digital-consumption-11790328955930.html",
+   "summary": "Indian founders are turning food ordering into a digital experience, raising a bigger question: can the thrill of buying be separated from the purchase itself?",
+   "published": "2026-09-25T11:02:01+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/dopamine_sites_1790333796251_SIix_1790333796436_e6lq_5d4c799b-ab94-42b0-9943-85ca8fb1b69c_CdMc.png",
+   "topics": [],
+   "first_seen": "2026-09-25T11:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "57dadeb9d20979fd",
    "title": "Paramount+ is going the YouTube, TikTok and Netflix way: What David Ellison is changing before WBD takeover",
@@ -11414,60 +11471,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/gold_1789904868496_c1hC_1789904868649_NjKg_22e8829d-797f-40d3-88f8-64b21d179aa3_audD.jfif",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1f4174d2cfb52575",
-   "title": "Bank Strike September 28-30: SBI advisory on UPI, internet banking, ATM services - What you should know",
-   "link": "https://www.livemint.com/money/bank-strike-september-28-30-sbi-advisory-on-upi-internet-banking-atm-services-what-you-should-know-11789898928265.html",
-   "summary": "United Forum of Bank Unions (UFBU) proposed three-day strike from September 28 to 30, 2026. SBI issued an advisory on banking services, UPI, ATM and more.",
-   "published": "2026-09-20T10:59:18+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/21542_1789901922522_QOmp_1789901930530_BfaQ_099168ff-ebef-4aa5-8047-3fd2a8cb80f0_7vhA.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5f4e75be234ddd67",
-   "title": "Micron workers demand 15% of operating profit as AI boom lifts chip earnings, point to Samsung, SK Hynix",
-   "link": "https://www.livemint.com/companies/news/micron-workers-demand-15-of-operating-profit-as-ai-boom-lifts-chip-earnings-point-to-samsung-sk-hynix-11789897628988.html",
-   "summary": "Micron Technology faces labor unrest as employees reject a proposed bonus of 68 months' salary, threatening strikes. Workers demand a one-time bonus equivalent to 83 months' salary and quarterly bonus distributions amidst rising profits driven by AI technology demand.",
-   "published": "2026-09-20T10:56:20+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/Untitled_design_1789900723776_6RGd_1789900727265_Fary_8dcc1da1-ae1f-4dfb-98e9-8d387a72d19f_XICU.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a0119e41e7576a98",
-   "title": "Forget the UPI fee fight. Do we know how India pays today?",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdUtGRnZOLXMtcS1weERoTjhFV3RIMlFJMVNnQmlzdGl1VjZ2U1NseTJrYlRjWG1sUzFGNU9NUzBkb202SDk0OU1MWHVXbm5UQ0g0TWh5RERIQmZpNlpQcVFJLW1FdlVSdXU3a0lINEJlM2Y1UHRRZV92WWFRMXgxM2xNZU92N21CM3pKMlJsR2UwMzJjUTIxNER4UExMZmRxUHdaNzNjRTNZM3ZSc3liVWJDS3VjUlJJVXNvSlpobU5JZlFTNVNVVmt6RE4tNlJCMzRKOHdzYmoyS1RoWmxVSmM2WlFOLWZFeWJfaEJPTDdfcTc4MzJ1R2FaRlZaTHBHb0NWcFJLeVNDMmZGZWJDUnRtY2laTzdZNDlQMHhjNTg5b3oxN3YzTXpn0gHDAUFVX3lxTE8wUHR3MnRULXhBU2xTR0o4ZEVOaGlhUEp6bnZnUTFpQVk2bFF5MExKQzlXX0tLUlRLQk4zOTQyemNvbkUwVXFVWU9mOExfRnhrVm5oODdVbndWMHUxd0M0UWs1a0dqRFA0RTJoTHpRZG9pbnY4YlI1QzlybExabnQ3b2FSZ2FvOExnaHhpa2Q4LUlHaWEzclVHV1o0ZWRsYUpnYm1wMXNUMkYtdnpTd1ZQWllCRDdVNGVXcXhDWDIzSHRzdw?oc=5",
-   "summary": "",
-   "published": "2026-09-20T10:55:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "economictimes.indiatimes.com",
-   "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,

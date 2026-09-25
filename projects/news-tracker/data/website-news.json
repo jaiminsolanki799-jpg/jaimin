@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T11:00:10+00:00",
+ "generated_at": "2026-09-25T11:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 13,
-   "items": 13,
-   "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
-   "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 07:29:21 GMT",
+   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 25 Sep 2026 10:12:20 GMT",
+   "sample_date": "Fri, 25 Sep 2026 11:13:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 31,
-   "items": 31,
-   "sample_date": "Thu, 24 Sep 2026 11:59:34 GMT",
-   "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-25T11:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 25 Sep 2026 05:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-25T11:00:10+00:00"
+   "checked_at": "2026-09-25T11:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 11,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "1383e17f8b0daece",
+   "title": "Ankita Luharuka on Building Alliance City Developers, Real Estate Growth & the Future of Indian Housing",
+   "link": "https://startuptalky.com/ankita-luharuka-on-building-alliance-city-developers-real-estate-growth-the-future-of-indian-housing/",
+   "summary": "Ankita Luharuka, CEO of Alliance City Developers, shares her journey in real estate, the importance of timely delivery, changing homebuyer expectations, women in leadership, and her vision for building lasting communities.",
+   "published": "2026-09-25T11:13:34+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Apoorva Bajj",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Ankita-Luharuka-Alliance-City-Developers-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T11:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b30e1d746f38584a",
+   "title": "TPG Sells FirstCry Stake Worth INR 202 Crore in Bulk Deal",
+   "link": "https://startuptalky.com/news/tpg-sells-firstcry-stake/",
+   "summary": "Private equity company TPG has sold its 2.21% interest worth INR 202 crore in FirstCry via a bulk deal. NewQuest Asia Investments sold 1.2 crore TPG shares at INR 175.15 each III. Goldman Sachs Investments Mauritius bought 68 lakh shares worth INR 119 crore.",
+   "published": "2026-09-25T11:06:28+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/tpg-sells-firstcry-stake-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T11:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7e91d92845619028",
    "title": "Tender247 brings Anupam Kher on board to expand access to India’s Rs 70 Lakh Cr tender market",
