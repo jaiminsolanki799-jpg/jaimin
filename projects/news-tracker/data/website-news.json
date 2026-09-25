@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T16:00:12+00:00",
+ "generated_at": "2026-09-25T16:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T16:00:12+00:00"
+   "checked_at": "2026-09-25T16:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 16:55:52 GMT",
+   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
    "error": null,
-   "checked_at": "2026-09-25T16:00:12+00:00"
+   "checked_at": "2026-09-25T16:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 25 Sep 2026 11:13:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T16:00:12+00:00"
+   "checked_at": "2026-09-25T16:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-25T16:00:12+00:00"
+   "checked_at": "2026-09-25T16:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 15:52:13 +0000",
+   "sample_date": "Fri, 25 Sep 2026 16:16:52 +0000",
    "error": null,
-   "checked_at": "2026-09-25T16:00:12+00:00"
+   "checked_at": "2026-09-25T16:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 13,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "794c162566b6335b",
+   "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+   "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+   "published": "2026-09-25T16:16:52+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T16:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "066b079084bc64e1",
    "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
