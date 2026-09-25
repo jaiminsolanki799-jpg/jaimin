@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T06:00:08+00:00",
+ "generated_at": "2026-09-25T06:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 11,
-   "items": 11,
+   "fetched": 13,
+   "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 08:55:21 GMT",
+   "sample_date": "Thu, 24 Sep 2026 17:02:43 GMT",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
+   "sample_date": "Fri, 25 Sep 2026 06:26:11 GMT",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 25 Sep 2026 05:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "e7787f9b7a1c3e77",
+   "title": "Gupshup Launches Agentic AI Solution to Power Real Estate Businesses",
+   "link": "https://startuptalky.com/news/gupshup-launches-agentic-ai-solution/",
+   "summary": "Gupshup has launched an agentic AI solution for the real estate industry to assist developers in automating property discovery, lead qualifying, sales, and post-sale services. The platform links AI agents to CRM, inventory and property management systems.",
+   "published": "2026-09-25T06:26:11+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/gupshup-launches-agentic-ai-solution-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "75da4a6b3467f4a1",
+   "title": "Startup Funding",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqN3BKUWdlRlgyZGZKVXA3N01lNjhvRU8yYk00U2lqUDlEWnJMZVFBODdVcDA1cDlRbWhjMEpiWmpVb3BKZEw0UFpZOGxnUnpzbXV3cjcyd3JVR2EyTFE?oc=5",
+   "summary": "",
+   "published": "2026-09-25T06:19:16+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "2c4000448d009f5e",
+   "title": "India’s startup funding needle moves, but only slightly",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenZFUm9GWXI2SlJvUWdZN04weWs1SllRSndKR29wV1ctcUNHVXNxc0RjU1hxa0xteklfVE1kYnNPVkU5bVJtaGxhcm1SUHNDdXJQdXdoM3dxeDJUMHZZRHdCT095MnVEeV9JNkJQNVZPTXNRV2pEWjNNYUxGbldpcjZYRmxRQThMYkdMUFUtNA?oc=5",
+   "summary": "",
+   "published": "2026-09-25T06:18:36+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "6de09d9c95641af0",
    "title": "From Bihar to SEMICON India: How Shweta Suman is building Swadeza for the world",
@@ -138,10 +196,28 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-25T04:41:42+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T08:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -156,7 +232,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -540,24 +616,6 @@
    "valuation_signals": []
   },
   {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-24T16:03:01+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T08:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "b79191560dd64013",
    "title": "Google tests letting Gemini call businesses for you",
    "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
@@ -840,7 +898,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T12:30:10+00:00",
@@ -858,7 +916,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T17:00:09+00:00",
@@ -876,7 +934,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T12:00:09+00:00",
@@ -966,7 +1024,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T11:00:11+00:00",
@@ -1022,7 +1080,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T11:00:11+00:00",
@@ -1078,7 +1136,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T09:30:45+00:00",
@@ -1096,7 +1154,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T09:00:09+00:00",
@@ -1304,7 +1362,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1327,7 +1385,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T05:30:08+00:00",
@@ -1345,7 +1403,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T05:00:09+00:00",
@@ -1365,7 +1423,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T06:30:10+00:00",
@@ -1437,7 +1495,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T01:00:09+00:00",
@@ -1567,7 +1625,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T22:00:10+00:00",
@@ -1731,7 +1789,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -1807,7 +1865,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
@@ -2151,7 +2209,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T12:30:09+00:00",
@@ -2306,7 +2364,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T11:00:12+00:00",
@@ -2434,7 +2492,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T09:00:11+00:00",
@@ -2454,7 +2512,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T10:00:12+00:00",

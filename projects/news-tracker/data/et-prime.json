@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T06:00:08+00:00",
+ "generated_at": "2026-09-25T06:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,29 +24,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
    "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,29 +68,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
-   "items": 1,
+   "fetched": 5,
+   "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 10:03:40 +0530",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 11:22:23 +0530",
+   "sample_date": "Fri, 25 Sep 2026 11:54:52 +0530",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 10:30:27 +0530",
+   "sample_date": "Fri, 25 Sep 2026 11:41:53 +0530",
    "error": null,
-   "checked_at": "2026-09-25T06:00:08+00:00"
+   "checked_at": "2026-09-25T06:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,85 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "ea330bc5412c31bb",
+   "title": "Adani Power shares up over 30% in last 6 months - PL Capital sees a further 30% upside - Price target, rationale",
+   "link": "https://www.livemint.com/market/stock-market-news/adani-power-shares-up-over-30-in-last-6-months-pl-capital-sees-a-further-30-upside-price-target-rationale-11790315503215.html",
+   "summary": "Adani Power's shares have climbed over 30% in the past six months, with PL Capital predicting an additional 30% upside. The company aims to expand its capacity significantly by FY32, positioning itself as a major player in India's energy sector amidst strong earnings and declining debt.",
+   "published": "2026-09-25T06:24:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Adani_Power_shares_1790316116505_g4lJ_1790316121201_SXUt_156b6869-8484-4b4e-9b18-a96039b6dd02_xEh1.png",
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "31ed298189fb8841",
+   "title": "Double QIP action: Inox Green, Wheels India shares soar as fundraises kick off- Check floor price, discount, other info",
+   "link": "https://www.livemint.com/market/stock-market-news/double-qip-action-inox-green-wheels-india-shares-soar-as-fundraises-kick-off-check-floor-price-discount-other-info-11790314096180.html",
+   "summary": "Inox Green Energy and Wheels India shares rose following their QIP fundraise announcements. Inox aims to raise ₹300 crore with a share price floor of ₹174.36, while Wheels plans ₹250 crore at ₹2,197.10 per share, both potentially offering a 5% discount.",
+   "published": "2026-09-25T06:12:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/qips_1790316542683_yOYx_1790316583172_Yws1_a93b6c52-41a7-4a2d-9c4f-e8b54e0511d1_TjkD.png",
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Buyback & payout",
+    "Funding"
+   ]
+  },
+  {
+   "id": "5fb4c7bcb1749b00",
+   "title": "Can you rent out a residential apartment as an b&b or service apartment? Check the rules",
+   "link": "https://www.livemint.com/money/can-you-rent-out-a-residential-apartment-as-an-b-b-or-service-apartment-check-the-rules-11790313466437.html",
+   "summary": "Residents of Windsor Park Society protested against the conversion of flats into Airbnb rentals, citing security concerns. Here's what a flat owner should ensure before renting out a residential apartment as an b&amp;b or service apartment.&nbsp;",
+   "published": "2026-09-25T06:11:53+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/2-0-291220118-000-Par8154041-0_1680518918992_1790316693184_AeTT_3e9e9114-f2dd-4985-8e66-75031a7335b0_ALtk.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dab4c7f3608482c3",
+   "title": "Whirlpool of India share price zooms 33% in 3 days, up 12% today; what's driving this stock? Will the bull run continue?",
+   "link": "https://www.livemint.com/market/stock-market-news/whirlpool-of-india-share-price-zooms-33-in-3-days-up-12-today-whats-driving-this-stock-will-the-bull-run-continue-11790314326762.html",
+   "summary": "Whirlpool of India is not involved in its promoter's plans to sell shares. The company stated that Whirlpool Mauritius is considering multiple buyers for its remaining stake. Following the announcement, Whirlpool of India shares rose over 12%.",
+   "published": "2026-09-25T06:09:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/whirlpool_1790316445462_xMg3_1790316452311_nY7D_d3e8fbf2-f390-44c6-bb42-8bdaa61fc7fd_M7B6.png",
+   "topics": [],
+   "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2a7cb3c4533a2fb5",
    "title": "Decoded: Sensex lost nearly 3300 points, Nifty dip 1000 since announcement of blockbuster GDP of India | Top 3 reasons",
@@ -11381,82 +11458,6 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4a20cdf7bbf0052d",
-   "title": "Price range, ready-to-move or under construction, 1, 2, or 3BHK — Check here for what homebuyers prefer",
-   "link": "https://www.livemint.com/money/personal-finance/homebuyers-prefer-house-price-50-lakh-1-5-crore-2-3-bhk-ready-to-move-near-complete-construct-affordable-colliers-report-11789837182920.html",
-   "summary": "The residential sector in India is supported by strong demand and lifestyle aspirations. A Colliers report indicates resilient housing sales, driven by long-term homeownership and selective purchasing amid affordability concerns.",
-   "published": "2026-09-19T18:42:29+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/Housing_Colliers_1789843111180_tqkb_1789843120626_ZCT9_faf04f84-f761-4352-9f12-ccc056a6fa3e_EnTX.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5e0b78de259d65f9",
-   "title": "E-commerce platforms Eternal's Zomato, Blinkit, Meesho's Valmo facilitate ITR refunds for delivery partners—What we know",
-   "link": "https://www.livemint.com/money/personal-finance/e-commerce-platforms-eternal-zomato-blinkit-meesho-valmo-facilitate-itr-refunds-delivery-partners-first-time-tax-filers-11789836630916.html",
-   "summary": "Eternal's Zomato and Blinkit, and Meesho's Valmo have facilitated ITR for over 2 lakh delivery partners, unlocking ₹35.6 crore combined in refunds. Over 70% of filers were first timers, the companies added.",
-   "published": "2026-09-19T18:06:54+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/ITR_1785327729090_1785327742091_5e840704-9bf5-4cd7-b4d3-0ca2dfda18fa_1789841167151_Wp8M_02f389fd-ecee-4110-a2d0-71121a12f566_hzLC.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "514e6f22136179f1",
-   "title": "Unlimited health insurance explained: Exclusions, waiting periods - 5 things you must check before buying a policy",
-   "link": "https://www.livemint.com/money/personal-finance/unlimited-health-insurance-explained-exclusions-waiting-periods-5-things-you-must-check-before-buying-a-policy-11789834869250.html",
-   "summary": "The actual protection available depends on the terms and conditions of the policy, including its coverage, exclusions, waiting periods, deductibles, co-payments and sub-limits",
-   "published": "2026-09-19T17:28:36+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/health_insurance_1789838809351_uCa8_1789838809513_9d6h_b4a10919-911a-4e33-9aa8-bb01218e5009_4yQG.png",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "61bf686b70474646",
-   "title": "Alibaba, Meituan units in trouble? China antitrust probe follows Trip.com’s $776 million penalty",
-   "link": "https://www.livemint.com/companies/news/alibaba-meituan-units-in-trouble-china-antitrust-probe-follows-trip-com-s-776-million-penalty-11789834813094.html",
-   "summary": "China investigates Alibaba and Meituan units over suspected unfair competition as Alibaba backs a $2.5 billion AI startup.",
-   "published": "2026-09-19T16:30:17+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/alibaba_1789835219211_AGSb_1789835219654_TdwA_ecb8c611-ca48-4bb8-bc92-c144d17c3819_r3IC.png",
-   "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
