@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T05:30:10+00:00",
+ "generated_at": "2026-09-25T06:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
-   "items": 2,
+   "fetched": 4,
+   "items": 1,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 10:03:40 +0530",
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 10:42:44 +0530",
+   "sample_date": "Fri, 25 Sep 2026 11:22:23 +0530",
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 10:30:27 +0530",
    "error": null,
-   "checked_at": "2026-09-25T05:30:10+00:00"
+   "checked_at": "2026-09-25T06:00:08+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,71 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "2a7cb3c4533a2fb5",
+   "title": "Decoded: Sensex lost nearly 3300 points, Nifty dip 1000 since announcement of blockbuster GDP of India | Top 3 reasons",
+   "link": "https://www.livemint.com/market/stock-market-news/decoded-sensex-lost-nearly-3300-points-nifty-dip-1000-since-announcement-of-blockbuster-gdp-of-india-top-3-reasons-11790303163599.html",
+   "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) released the GDP data for India's Q1 FY2026-27 on 31 August 2026",
+   "published": "2026-09-25T05:52:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Nifty_50_Sensex_today_Stock_Market_News_Today_1790304735668_XSsI_1790304735858_rurZ_7a37d796-eecc-4e6a-91b6-a3f39edb1072_3XSR.png",
+   "topics": [],
+   "first_seen": "2026-09-25T06:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5250168ad01cc7b3",
+   "title": "Goldman Sachs buys stake in Firstcry brand parent owner Brainbees Solutions | Check price, quantity traded",
+   "link": "https://www.livemint.com/market/stock-market-news/goldman-sachs-buys-stake-in-firstcry-brand-parent-owner-brainbees-solutions-check-price-quantity-traded-11790313331674.html",
+   "summary": "Goldman Sachs has acquired a significant stake in Brainbees Solutions, FirstCry's parent company, purchasing 68 lakh shares at ₹175 each. The deal is valued at approximately ₹119 crore, with Goldman Sachs also as an anchor investor in the company's IPO.",
+   "published": "2026-09-25T05:49:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Goldman_Sachs_Invests_1790315192491_pIRn_1790315197826_oi9i_4453dbe3-3454-4140-a436-434e5eb687c1_K8wk.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-25T06:00:08+00:00",
+   "valuation_score": 9,
+   "valuation_signals": [
+    "M&A",
+    "Valuation",
+    "IPO"
+   ]
+  },
+  {
+   "id": "fa1347ac841fdd42",
+   "title": "ESDS Software share price hits 5% lower circuit after Q1 results; stock still up 310% from IPO price - Should you buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/esds-software-share-price-hits-5-lower-circuit-after-q1-results-stock-still-up-310-from-ipo-price-should-you-buy-11790312030206.html",
+   "summary": "Despite Friday’s fall, ESDS Software shares have delivered a substantial gain since their market debut. The stock had touched a 52-week high of ₹1,864.35 in September 2026, while its 52-week low stood at ₹746.30 on September 4.",
+   "published": "2026-09-25T05:26:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/esds_soft_1790313709946_KvpU_1790313753816_6UDY_84df3567-0c47-4390-bea4-10c0ef5feeb5_GMoo.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-25T06:00:08+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Results"
+   ]
+  },
   {
    "id": "ffe42cfef88f7e4b",
    "title": "240% rally in six months! Defence stock Raymond hits 52-week high; exit or hold? Explained with target, stop-loss, ratio",
@@ -306,7 +371,7 @@
   },
   {
    "id": "96925fa1c10040bc",
-   "title": "Hero Motors shares up 17% — what's driving the stock? Explained with target, stop-loss",
+   "title": "Hero Motors shares up 20% — what's driving the stock? Explained with target, stop-loss",
    "link": "https://www.livemint.com/market/stock-market-news/hero-motors-shares-up-17-whats-driving-the-stock-explained-with-target-stoploss-11790309428957.html",
    "summary": "Hero Motors shares surged 20% on September 25, recovering from a weak debut. The stock climbed from an IPO price of ₹84 to ₹141.85, marking a total gain of nearly 69%. Analysts suggest investors wait for stabilization due to premium valuation concerns.",
    "published": "2026-09-25T04:27:09+00:00",
@@ -11392,66 +11457,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/alibaba_1789835219211_AGSb_1789835219654_TdwA_ecb8c611-ca48-4bb8-bc92-c144d17c3819_r3IC.png",
    "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b15cb6e5319cecbe",
-   "title": "Who is Robert Kraft? What is his net worth? Patriots owner’s fortune in the spotlight after Macklemore’s $1M challenge",
-   "link": "https://www.livemint.com/news/trends/who-is-robert-kraft-what-is-his-net-worth-patriots-owner-s-fortune-in-the-spotlight-after-macklemore-s-1m-challenge-11789832139008.html",
-   "summary": "Kraft’s donation pledge comes amid controversy surrounding Macklemore’s removal from Sheeran’s ongoing tour following the rapper’s public comments in support of Palestinians.",
-   "published": "2026-09-19T16:05:33+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/SPO-NEW-ENGLAND-PATRIOTS-V-SEATTLE-SEAHAWKS-15_1789833313858_5Q4a_1789833313996_TGSf_b9ec7a5b-11f9-48cd-968f-c6d7cceb0778_OIs9.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "44c4fac65685d73a",
-   "title": "Paramount-Warner merger: California and 11 states could settle lawsuit blocking $110 billion acquisition this weekend",
-   "link": "https://www.livemint.com/companies/news/paramountwarner-merger-california-and-11-states-could-settle-lawsuit-blocking-110-billion-acquisition-report-11789828816137.html",
-   "summary": "A settlement would potentially remove one of the major legal obstacles to the acquisition, but its precise impact would depend on the conditions agreed upon.",
-   "published": "2026-09-19T15:06:56+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/BROS-DIS-M-A-PARAMOUNT-SKYDAN-0_17682322597_1789830259678_sQln_1789830259821_JGcJ_e3e71115-dd2b-47b9-becc-b9692b67f749_e1gS.JPG",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
-   ]
-  },
-  {
-   "id": "8b19725c58ddf588",
-   "title": "Netflix stock tumbles: Wells Fargo cuts target, says streamer giant needs ‘breakout hits'",
-   "link": "https://www.livemint.com/companies/news/netflix-stock-tumbles-wells-fargo-cuts-target-says-streamer-giant-needs-breakout-hits-11789824110933.html",
-   "summary": "Netflix is facing a massive challenge: convincing investors that it can keep producing blockbuster shows that drive engagement and support its valuation.",
-   "published": "2026-09-19T14:38:37+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/netflix_1789828635631_6lm9_1789828635828_LkaQ_6e877447-01f1-4039-8f55-0a6f5d3b1935_GfRa.png",
-   "topics": [
-    "Valuation / M&A"
-   ],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
