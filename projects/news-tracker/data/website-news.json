@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T09:30:09+00:00",
+ "generated_at": "2026-09-25T10:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
+   "sample_date": "Fri, 25 Sep 2026 07:29:21 GMT",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 25 Sep 2026 09:14:00 GMT",
+   "sample_date": "Fri, 25 Sep 2026 09:30:30 GMT",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Thu, 24 Sep 2026 11:59:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 25 Sep 2026 05:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 12,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "17a74c474ef6212e",
+   "title": "Exclusive: Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYW84N0NtTGEtaEhmSDFFNTF5ck9PSV8yRzFpcjdYVnZQbXo3ZTgycllOUjlPVy1aZFptM2V1T25jcjE5ckRGdTdoaVFkaDFFV0t3ZGRyTGstMzlvWHZWUmVhZlVnM2FTWjZmY2ZPRWZVMFdBdnBmYVpvbjNwRmIwRmwtSFhyQXBfaEo4ejdQNUJSQ1VIRUxhNmF4YTBjMHJtazVYanZDVjBkNGpZMkRvNjhPWdIBswFBVV95cUxNYW84N0NtTGEtaEhmSDFFNTF5ck9PSV8yRzFpcjdYVnZQbXo3ZTgycllOUjlPVy1aZFptM2V1T25jcjE5ckRGdTdoaVFkaDFFV0t3ZGRyTGstMzlvWHZWUmVhZlVnM2FTWjZmY2ZPRWZVMFdBdnBmYVpvbjNwRmIwRmwtSFhyQXBfaEo4ejdQNUJSQ1VIRUxhNmF4YTBjMHJtazVYanZDVjBkNGpZMkRvNjhPWQ?oc=5",
+   "summary": "",
+   "published": "2026-09-25T09:57:41+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-25T10:00:09+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "abfac824ebdbc090",
+   "title": "Gold and Silver Prices in India Today, 25 September 2026: Gold at ₹151,660, Silver at ₹234,190 as Both Steady",
+   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-25-september-2026/",
+   "summary": "Gold and silver rates today in India, 25 September 2026. 24K gold trades at ₹151,660 per 10g and silver at ₹234,190 per kg, both steadying after yesterday's sharp Fed driven fall. Check city wise rates and MCX data below.",
+   "published": "2026-09-25T09:30:30+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-india-today-25-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T10:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "180f48175429209e",
+   "title": "Amazon Plans $3 Billion India Investment to Expand Quick Commerce by 2030",
+   "link": "https://startuptalky.com/news/amazon-plans-3-billion-india-investment/",
+   "summary": "Amazon will spend $3 billion on India’s quick-commerce company, Amazon Now, by 2030, with $1 billion of that to be spent by the end of 2027. The investment will assist neighbourhood warehouses, fulfilment centers, inventory systems, demand forecasts and product selection.",
+   "published": "2026-09-25T09:28:06+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/amazon-plans-3-billion-india-investment-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T10:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "71e6a128648dd6f3",
    "title": "Proposed UPI Merchant Discount Rate not a tax, cess or surcharge; will not burden consumers: FM",

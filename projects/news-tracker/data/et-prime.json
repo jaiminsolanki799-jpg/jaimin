@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T09:30:09+00:00",
+ "generated_at": "2026-09-25T10:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 13:35:28 +0530",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 14:51:48 +0530",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 14:29:50 +0530",
+   "sample_date": "Fri, 25 Sep 2026 15:22:19 +0530",
    "error": null,
-   "checked_at": "2026-09-25T09:30:09+00:00"
+   "checked_at": "2026-09-25T10:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "b896867ce45a2f94",
+   "title": "Top 5 FD rates: Suryoday, Jana, Ujjivan, Equitas and AU SFB compared for key tenures",
+   "link": "https://www.livemint.com/money/personal-finance/top-5-fd-rates-suryoday-jana-ujjivan-equitas-and-au-sfb-compared-for-key-tenures-11790325386744.html",
+   "summary": "Fixed deposit rates vary across banks and tenures. Compare the latest 1-, 2-, 3-, 5-, and 10-year FD interest rates from five small finance banks, along with key checks on taxes, premature withdrawal, and deposit insurance.",
+   "published": "2026-09-25T09:52:19+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/4cc124d8-6297-4f26-bc62-bc5bfa6d6674_1790327006489_8xHU_1790327012011_9om3_dfde4c9f-d065-4ed3-a0e7-93c506bc4661_KWUK.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T10:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7e44c7b06acb1cfa",
    "title": "JPMorgan CEO Jamie Dimon warns Trump against punishing India; gives this advice on Russian oil imports",
@@ -312,7 +330,7 @@
    "id": "9d2f8ab07f898f2d",
    "title": "Tata Trusts vs Tata Sons: What are Articles of Association at the centre of Chandrasekaran row?",
    "link": "https://www.livemint.com/companies/news/tata-trusts-vs-tata-sons-what-are-articles-of-association-at-the-centre-of-chandrasekaran-row-11790322115913.html",
-   "summary": "The problem revolves around the reappointment of N Chandrasekaran as the chairman for a third five-year term. Here's what the controversy is about and what the Articles of Association are.",
+   "summary": "Tata Sons vs Tata Trusts: The dispute over N Chandrasekaran’s third term hinges on Articles 104B, 118 and 121 of the company’s Articles of Association and the chairman’s casting vote.",
    "published": "2026-09-25T08:05:28+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -5098,7 +5116,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T07:00:08+00:00",
@@ -7083,7 +7101,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T07:30:11+00:00",
@@ -11438,24 +11456,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/cvd_1789893826257_VjSY_1789893826440_GZQc_cb632db7-3ea5-486c-ac56-1e49e50a242c_NY66.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7fdaa79a135e38dd",
-   "title": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-   "link": "https://www.livemint.com/market/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints-11789892890813.html",
-   "summary": "The yen is vulnerable to sharp moves and further declines over the next week, with a three-day holiday in Japan set to reduce trading liquidity and investors disappointed that the central bank didn’t offer stronger guidance on the pace of future interest rate hikes.",
-   "published": "2026-09-20T08:28:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
