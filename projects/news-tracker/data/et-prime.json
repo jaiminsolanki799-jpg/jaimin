@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T09:00:09+00:00",
+ "generated_at": "2026-09-25T09:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 13:35:28 +0530",
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 14:16:20 +0530",
+   "sample_date": "Fri, 25 Sep 2026 14:51:48 +0530",
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 14:29:50 +0530",
    "error": null,
-   "checked_at": "2026-09-25T09:00:09+00:00"
+   "checked_at": "2026-09-25T09:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,50 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "7e44c7b06acb1cfa",
+   "title": "JPMorgan CEO Jamie Dimon warns Trump against punishing India; gives this advice on Russian oil imports",
+   "link": "https://www.livemint.com/market/stock-market-news/jpmorgan-ceo-jamie-dimon-warns-trump-against-punishing-india-gives-this-advice-on-russian-oil-imports-11790326652038.html",
+   "summary": "JPMorgan CEO Jamie Dimon emphasized the bank's commitment to India, citing economic growth and strong ties with US. He advocated for dialogue over potential tariffs on Indian oil purchases amidst geopolitical tensions, highlighting the importance of the India-US relationship.",
+   "published": "2026-09-25T09:21:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/jamie_dimon_1790327808962_o0ze_1790327820678_qFro_96b010fc-87e9-4717-b2b8-698a67340789_29MT.png",
+   "topics": [],
+   "first_seen": "2026-09-25T09:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bfca2cd1a30ec97f",
+   "title": "Adani Power share price jumps after receipt of NCLT nod for merger of 10 wholly owned subsidiaries",
+   "link": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-jumps-after-receipt-of-nclt-nod-for-merger-of-10-wholly-owned-subsidiaries-11790327103674.html",
+   "summary": "Adani Power share price increased following the NCLT's approval of its plan to merge 10 subsidiaries. The Mumbai Bench sanctioned the merger of Vidarbha Industries Power Ltd. on 24 September, completing the merger process initiated by an earlier approval from the Ahmedabad Bench on 4 August.",
+   "published": "2026-09-25T09:11:12+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/Adani_Power_Stock_Surge_at_NCLT_1790327397367_umIi_1790327402160_jFew_6e25899e-4381-4903-b459-50ab01fe2f63_D90J.png",
+   "topics": [
+    "Insolvency / IBC",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-25T09:30:09+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "M&A",
+    "Distress"
+   ]
+  },
   {
    "id": "263e5bf81f96a188",
    "title": "UPI is accepted in 11 countries: Will MDR charges apply globally? What we know so far",
@@ -209,6 +251,24 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/MDR_cgarges_1790326694791_rTzs_1790326698591_txyq_e58848f8-d62b-4996-88b9-df822bbbb624_aZiu.png",
    "topics": [],
    "first_seen": "2026-09-25T09:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9c62b2510a250627",
+   "title": "Hyundai Motor India shares rebound after 4-day slide: What’s driving the stock price rise? Buy or book profits?",
+   "link": "https://www.livemint.com/market/stock-market-news/hyundai-motor-india-shares-rebound-after-4-day-slide-what-s-driving-the-stock-price-rise-buy-or-book-profits-11790322771831.html",
+   "summary": "After a four-day slump, Hyundai Motor India shares surged, opening at ₹2,030 and climbing to ₹2,134. Experts emphasise value buying ahead of upcoming launches. Is now the right time for investors to capitalise or book profits?",
+   "published": "2026-09-25T08:58:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Hyundai_Motor_India_shares_1790323369967_5suR_1790323380267_O3SY_6a8d8179-b019-40fb-a053-1e22ffcfbc4e_vrCz.png",
+   "topics": [],
+   "first_seen": "2026-09-25T09:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -286,7 +346,7 @@
   },
   {
    "id": "d77065da73792eeb",
-   "title": "47% rally in 6 months! Motilal Oswal Fin Services sees 37% upside auto ancillary stock | Check target price, rationale",
+   "title": "47% rally in 6 months! Motilal Oswal sees 37% upside in auto ancillary stock | Check target price, rationale",
    "link": "https://www.livemint.com/market/stock-market-news/47-rally-in-6-months-motilal-oswal-fin-services-sees-37-upside-auto-ancillary-stock-check-target-price-rationale-11790321376278.html",
    "summary": "Shares of SPR Auto Technologies Limited rose 47% in six months, with strong margin growth and a positive outlook supported by Motilal Oswal. The stock may see a 37% upside, with a target price of ₹6,150 amid a transition to a diversified mobility platform.",
    "published": "2026-09-25T07:38:45+00:00",
@@ -5038,7 +5098,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T07:00:08+00:00",
@@ -7023,7 +7083,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T07:30:11+00:00",
@@ -11396,60 +11456,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f72bd1f38732ee5d",
-   "title": "Invesco MF reopens 3 international FoFs for investments: ₹10 lakh daily limit, SIP & STP rules investors must know",
-   "link": "https://www.livemint.com/money/personal-finance/invesco-mf-reopens-3-international-fofs-for-investments-10-lakh-daily-limit-sip-stp-rules-investors-must-k-11789891567455.html",
-   "summary": "Invesco Mutual Fund will resume fresh subscriptions in three overseas Fund of Funds from September 28, 2026, allowing lumpsum investments, switch-ins and new SIP, STP and IDCW Transfer Plan registrations. Investors face a ₹10 lakh daily limit per PAN, including existing systematic-plan instalments.",
-   "published": "2026-09-20T08:15:22+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/Gemini_Genrated_Image_s439vns439vns439_17898918_1789891815087_Cesg_1789891815235_aIy7_87c0884c-680b-4d8b-b92f-a92ac9d4923e_1xOG.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6ab1cdc73e1dd20e",
-   "title": "Top stocks to buy today: DLF, PN Gadgil Jewellers, HPCL - Stop-loss, target by Ganesh Dongre",
-   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-when-market-opens-dlf-pn-gadgil-jewellers-hpcl-stop-loss-target-by-ganesh-dongre-11789887141838.html",
-   "summary": "Indian stock market: Amid ongoing Middle East Tension, Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by the market expert.",
-   "published": "2026-09-20T07:42:43+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/Ganesh_Dongre_1789888834079_RLgv_1789888834209_DAVA_ca5ed1d2-8f80-4f73-a726-5d3e210bc251_JZKX.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f64d3a9189f84745",
-   "title": "New EPF wage ceiling: What changes for your PF, pension and insurance",
-   "link": "https://www.livemint.com/money/personal-finance/epf-wage-ceiling-25000-pf-pension-edli-benefits-11789728651459.html",
-   "summary": "The revised EPFO ceiling of ₹25,000 a month, effective 17 September, will affect employees differently depending on their existing PF status, wages and contribution structure.",
-   "published": "2026-09-20T07:28:20+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/epfo_1789888998314_tqrT_1789888998552_fPsa_b46ee9c8-c135-4a26-b7ac-18beaa642675_usbU.png",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
