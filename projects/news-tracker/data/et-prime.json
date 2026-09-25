@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T08:30:11+00:00",
+ "generated_at": "2026-09-25T09:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
-   "items": 1,
+   "fetched": 5,
+   "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 13:35:28 +0530",
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 13:52:01 +0530",
+   "sample_date": "Fri, 25 Sep 2026 14:16:20 +0530",
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sept 2026 13:16:42 +0530",
+   "sample_date": "Fri, 25 Sep 2026 14:29:50 +0530",
    "error": null,
-   "checked_at": "2026-09-25T08:30:11+00:00"
+   "checked_at": "2026-09-25T09:00:09+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,42 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "263e5bf81f96a188",
+   "title": "UPI is accepted in 11 countries: Will MDR charges apply globally? What we know so far",
+   "link": "https://www.livemint.com/money/personal-finance/upi-is-accepted-in-11-countries-will-mdr-charges-apply-globally-what-we-know-so-far-11790323100919.html",
+   "summary": "The government has announced that new MDR fees on UPI transactions will apply in some cases. Will the charge apply in every country where UPI is functional? Here's what we know so far.",
+   "published": "2026-09-25T08:59:50+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/MDR_cgarges_1790326694791_rTzs_1790326698591_txyq_e58848f8-d62b-4996-88b9-df822bbbb624_aZiu.png",
+   "topics": [],
+   "first_seen": "2026-09-25T09:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1ff773c4f85b367f",
+   "title": "Indian stock market: Jefferies' Chris Wood highlights one trigger that can fuel bull run; check his long-term portfolio",
+   "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-jefferies-chris-wood-highlights-one-trigger-that-can-fuel-bull-run-check-his-long-term-portfolio-11790321380094.html",
+   "summary": "Indian stock market: In an exclusive conversation with The BroadView, the Head of Equity Research at Jefferies said that AI money is moving from the KOSPI and the Taiwan Index to the US treasuries",
+   "published": "2026-09-25T08:46:20+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Stock_market_today_Chris_Woods_Jefferies_Portfolio_1790321667054_C93I_1790321667229_sDPr_831eeb17-0591-4b99-8085-128214ec8cb4_cPvo.png",
+   "topics": [],
+   "first_seen": "2026-09-25T09:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c84532f39ad3c122",
    "title": "Suzlon shares crash 30% in 3 months! Will it bounce back, or more pain ahead? Explained with support, resistance",
@@ -239,7 +275,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/f8e118ff-221a-428d-961b-10b7e7cebe43_1790318334792_j2jo_1790318351897_FD1K_36cf1d44-5c73-4430-8f7d-100ac0a2c30e_MzBh.jpg",
@@ -277,7 +313,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/online_services_1790320874464_Tt20_1790320887992_oJFE_b7dfe067-86f5-4918-9eb1-1c1ecf7dee8f_I7Lw.png",
@@ -446,7 +482,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/2-0-291220118-000-Par8154041-0_1680518918992_1790316693184_AeTT_3e9e9114-f2dd-4985-8e66-75031a7335b0_ALtk.jpg",
@@ -565,7 +601,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/nirmala_1790310300270_5GJp_1790310300442_W3oV_361010aa-7fe1-4973-9484-32c0e15d14d2_pNJn.jpg",
@@ -696,7 +732,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1790307554811_GlaJ_1790307559065_pr8z_c5e79f39-7647-4fee-bfb0-1f5cbbbacdb4_rayL.png",
@@ -732,7 +768,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/80aeebd1-44c0-4634-9420-ded35315e236_1790304802816_64BT_1790304809686_xJTf_016d48d4-af70-47d2-9fa1-6bd9f5bd22ee_GxPX.jpg",
@@ -752,7 +788,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/-da90-41f4-87d7-3870a57e_1790307622860_MXyF_1790307623053_KwCZ_b9d32e91-4238-4c4a-85cc-b53907540dfe_eavJ.jpg",
@@ -810,7 +846,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/rajasa_1790228048595_xpfH_1790228053526_TPmk_ec7328e8-153d-4493-ad08-98b16cbc7907_gZwQ.jpeg",
@@ -864,7 +900,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/inheritance_1790302469280_LQrC_1790302469562_V9yz_eba01636-268a-46c0-b8ea-9c5ae8332845_fcEN.png",
@@ -900,7 +936,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/death_certificate_1790300615112_f846_1790300625464_qtk8_bd3d61a3-86eb-4f51-9bbe-faa566019e55_J2la.jpg",
@@ -1162,7 +1198,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/mg_1790278581213_ZrQJ_1790278585099_ivp6_f9cc4c24-ce5a-4c8a-85cf-1c2d2277debb_Ve0I.png",
@@ -1272,7 +1308,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/intnerna_1790273657403_9L5s_1790273662018_TeMV_be186e11-cf12-498a-b84c-0a37ba55160d_9N6f.png",
@@ -1290,7 +1326,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/healthinsurance_1790266263611_6tP4_1790266294962_z06o_992903e2-e09a-4c43-869c-ce1f2e54399b_U5xw.jpg",
@@ -1328,7 +1364,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/Policy_1768567996134_1768568005500_1790268291416_lMGf_90bb04ad-a7b3-4e0c-9d7a-4a9b3c518914_GESX.png",
@@ -1346,7 +1382,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/mdr_onla_1790271273233_Vwso_1790271278077_IAfa_3f4926d3-0aaf-4525-9f3c-d02f09648d0d_8S4j.png",
@@ -1364,7 +1400,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/pms_mit_1790267639588_deTn_1790267643309_mvoM_d5a356fb-4d05-46cc-bdaa-b56730703ad8_cCT0.png",
@@ -1460,7 +1496,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/sker_1790264027931_RzW8_1790264031549_fUW4_5f09ed97-f3ce-41f5-b98f-91e624ecf0ca_vlzL.png",
@@ -1480,7 +1516,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/bse_1790262521543_gyeU_1790262521800_ukyY_1d324422-7548-488a-87f9-61eb4c13458d_mUEP.jpg",
@@ -1516,7 +1552,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/tripss_1790261696428_X22o_1790261701526_K5Ku_18ca186d-0a5d-4cb4-8b53-8f4adc67825f_ZakA.png",
@@ -1688,7 +1724,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/flexuc_1790252116603_HP1N_1790252121920_ahvY_f9162d45-9488-4a5a-a36e-8d4d803e4d27_CDg7.png",
@@ -1744,7 +1780,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/21566_1790250668272_l2SD_1790250671654_iao8_4d5db543-d7d3-4a9f-aac9-79570e2ba191_HGFO.jpg",
@@ -1953,7 +1989,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/iStock-1284408352_1773081229189_1773081236794_1790245542897_0H6B_7c7f48dc-1e06-4a66-8f2d-6225755e0dcd_NaDU.jpg",
@@ -1989,7 +2025,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/no_onternet_1790244183449_hGTr_1790244187439_kmHH_9192ed8e-88d6-4c28-b451-cd3575c3e5ac_Xal8.png",
@@ -2065,7 +2101,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_Generated_Image_n5vg5lnvg5ln5vg_17902415_1790241562093_QlHQ_1790241562323_ShML_8b92d570-0e4d-4a37-bb17-35a1347616ca_01fL.png",
@@ -2177,7 +2213,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/INDIA-FINTECH-FEST-93_1790238876607_prRe_1790238884944_Min0_6b5ca6cf-fccd-4b4d-bdff-3bc2fd486261_1ixA.jpg",
@@ -2215,7 +2251,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/bank_1790239428783_prQG_1790239443210_TJ2w_44cb739a-3e80-4cd4-805d-82be8d0e76d0_K7wB.png",
@@ -2235,7 +2271,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/pexels-photo-7688374_1781348272697_1781348293522_648a68b0-7ed3-40d4-b061-05499a15b019_1790239528365_xD5l_43ce4851-1e4d-486a-83c1-f5f3c14ecc88_Jg8y.jpeg",
@@ -2253,7 +2289,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/gff268d431be724e4fc4efcc737ab8f05e74e9e65691f3684d_1790235417030_D58S_1790235417193_oIug_ab2c43b0-59ff-4630-91ce-eb82a74f658d_rNfp.png",
@@ -2271,7 +2307,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_enerated_Image_7ybx2b7ybx2b7ybx_17902389_1790239001393_syd4_1790239001707_cde5_2005fa79-a0c6-422d-bd57-b75a62cfb4dd_aWwX.png",
@@ -2464,7 +2500,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_Generted_Image_z930dhz930dhz930_179023271_1790232726603_BO4X_1790232726759_EfjJ_a60b8908-463e-4353-9f57-6280dceb4f9b_4sp0.png",
@@ -2522,7 +2558,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/ANI-20260911477-_1790232073092_fJDQ_1790232073304_IRTy_3f0c1ae6-8716-4a69-9cfa-b26fbb3e042f_VMJc.jpg",
@@ -2594,7 +2630,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/house_2_1698506895392_1790230014482_cmWj_95f18e50-a002-4775-a52e-4c6cfd3ae919_mM0j.jpg",
@@ -2673,7 +2709,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/ITAT_case_ruling_1790227831081_PiUd_1790227835314_Ev5s_50e28fa4-7e50-484f-a7ef-2408e6cbc5b1_QeaA.jpg",
@@ -2691,7 +2727,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_Generated_Imae_ckvcp4ckvcp4ckvc_179022743_1790227442507_DBmH_1790227442684_RpI2_1b4f2861-2d0d-4a5d-8b52-f01ad2ae1dc9_qvFl.png",
@@ -11418,44 +11454,6 @@
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "d1f0f272a1306048",
-   "title": "ST certificate cancelled 40 years later: Retired employee loses claim to full pension benefits, what Madras HC said",
-   "link": "https://www.livemint.com/money/personal-finance/st-certificate-cancelled-40-years-later-retired-employee-loses-claim-to-full-pension-benefits-what-madras-hc-said-11789885661584.html",
-   "summary": "The Madras HC upheld the cancellation of an employee's ST certificate after authorities found that he belonged to the Urali Gounder community. The court also refused full pension and other terminal benefits, ruling that retirement does not prevent verification of an old community certificate.",
-   "published": "2026-09-20T06:38:31+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/Gemini_Generated_Image_v16w8v16bw8v16b_17898860_1789886097267_FH4u_1789886097433_idi2_10f2d831-d97e-4b1f-8d8e-3cd47454ab42_WTXP.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4fcfbc35001216ee",
-   "title": "Top stocks to buy under ₹100: Equitas Small, Meghmani Organics, Filatex by Sumeet Bagadia; check stop-loss, target price",
-   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-100-equitas-small-meghmani-organics-filatex-by-sumeet-bagadia-check-stop-loss-target-price-11789883488386.html",
-   "summary": "Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks under ₹100 that he feels are a buy in current situation.",
-   "published": "2026-09-20T06:34:20+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/Sumeet_Bagadia_1789885076634_8Hqo_1789885076818_s8iq_98609dca-104b-4994-bebd-ece73e8e3601_98D1.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
   }
  ]
 }
