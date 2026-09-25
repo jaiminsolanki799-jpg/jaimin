@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T13:00:09+00:00",
+ "generated_at": "2026-09-25T13:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 18:00:13 +0530",
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 18:03:48 +0530",
+   "sample_date": "Fri, 25 Sep 2026 18:51:23 +0530",
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 18:14:03 +0530",
    "error": null,
-   "checked_at": "2026-09-25T13:00:09+00:00"
+   "checked_at": "2026-09-25T13:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "6e75f6b23bc5773b",
+   "title": "Nifty 50 posts biggest weekly drop in 6 years amid crude surge, rising global yields. Can bulls roar back?",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-posts-biggest-weekly-drop-in-six-years-amid-crude-surge-rising-global-yields-can-bulls-roar-back-11790340140172.html",
+   "summary": "The Indian stock market has fallen into bear territory as the Nifty 50 posted a 1.64% decline, marking its biggest drop in 10 weeks. Weak sentiment persists amid rising crude prices and fears of tightening measures by the RBI, impacting technology stocks and overall market performance.",
+   "published": "2026-09-25T13:21:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Nifty_1790341152796_oq06_1790341159107_DEeY_2e27ca8e-3493-4d2f-8b51-602e8c99c7e0_AFjL.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-25T13:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "61468479e1c6b6ed",
    "title": "UPI MDR: Where will 0.4% fee go? FM clarifies banks, payment gateways & apps to get a share | Check breakdown",
@@ -258,7 +278,7 @@
    "id": "e6cb3ff461326303",
    "title": "1670% return in 5 years! Multibagger stock gets 'buy' tag from PL Capital | Target price, rationale",
    "link": "https://www.livemint.com/market/stock-market-news/1670-return-in-5-years-multibagger-stock-gets-buy-tag-from-pl-capital-target-price-rationale-11790338487601.html",
-   "summary": "Pearl Global Industries' share price surged nearly 85% in six months and 103% over one year. The stock reached a 52-week high after announcing growth targets for FY30, with PL Capital upgrading its rating to 'Buy' and setting a target price of ₹1,500.",
+   "summary": "Pearl Global Industries' share price surged nearly 85% in six months and 103% over one year. The stock reached a 52-week high after announcing growth targets for FY30, with PL Capital upgrading its rating to 'buy' and setting a target price of ₹1,500.",
    "published": "2026-09-25T12:21:17+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -513,7 +533,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/2-0-1260531121-Naveen-Tewari-12-20170401-HM-0_1679607150354_1790309372374_hq9P_cc047f9f-8f7e-4607-a94e-eaee31e1f045_nAhB.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/retirement_fund_investment_strategy_money_PF_1747645814265_1790341543502_AKHg_9c4351b9-4d3d-4ef4-910c-addf20df1ce4_5ziq.jpg",
    "topics": [
     "SEBI / markets regulation",
     "Valuation / M&A"
@@ -5543,7 +5563,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T07:00:08+00:00",
@@ -7528,7 +7548,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T07:30:11+00:00",
@@ -11467,26 +11487,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "ce381fe3ea8b2e4b",
-   "title": "How is your financial health? Answer a few simple questions to find out where you stand in investment, insurance, loans",
-   "link": "https://www.livemint.com/money/personal-finance/how-is-your-financial-health-answer-a-few-simple-questions-to-find-out-where-you-stand-in-investment-insurance-loans-11789920221456.html",
-   "summary": "A regular salary isn't the sole indicator of financial health. Insurance, savings, debt, and retirement planning are crucial. SEBI's Financial Health Check quiz helps evaluate your financial habits and suggests improvements.&nbsp;",
-   "published": "2026-09-20T16:13:45+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/financial_health_1789920658183_Ic7v_1789920662684_VjXK_0fcf80d6-45f1-4739-9190-5e10b2a560ed_kh2S.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
