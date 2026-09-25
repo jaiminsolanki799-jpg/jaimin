@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T13:30:11+00:00",
+ "generated_at": "2026-09-25T14:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T13:30:11+00:00"
+   "checked_at": "2026-09-25T14:00:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
+   "sample_date": "Thu, 24 Sep 2026 17:02:43 GMT",
    "error": null,
-   "checked_at": "2026-09-25T13:30:11+00:00"
+   "checked_at": "2026-09-25T14:00:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 25 Sep 2026 11:13:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T13:30:11+00:00"
+   "checked_at": "2026-09-25T14:00:13+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-25T13:30:11+00:00"
+   "checked_at": "2026-09-25T14:00:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 25 Sep 2026 13:24:34 +0000",
    "error": null,
-   "checked_at": "2026-09-25T13:30:11+00:00"
+   "checked_at": "2026-09-25T14:00:13+00:00"
   }
  ],
  "topics": [
@@ -77,7 +77,7 @@
    "id": "a1d444d35a88b7ae",
    "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
    "link": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
-   "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high profile hacks targeting the crypto sector.",
+   "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
    "published": "2026-09-25T13:24:34+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -110,6 +110,24 @@
    "valuation_signals": [
     "PE / VC"
    ]
+  },
+  {
+   "id": "8d1f6c9178a21b86",
+   "title": "Dextr AI",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjXzVyaGQ2SnQ3RXlYcHlDbms0LXhjSlAwMHFJZE5rQ0ZURUdwcm1Od0VpTDdxekd5Q2U2dDI3ZjlzMm5leUYzeFlR?oc=5",
+   "summary": "",
+   "published": "2026-09-25T11:50:14+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T14:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "1383e17f8b0daece",
