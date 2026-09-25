@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T18:30:09+00:00",
+ "generated_at": "2026-09-25T19:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "ok": true,
+   "fetched": 5,
+   "items": 2,
+   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 22:09:49 +0530",
+   "sample_date": "Sat, 26 Sep 2026 00:03:05 +0530",
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 23:57:57 +0530",
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sept 2026 23:45:31 +0530",
+   "sample_date": "Cmt, 26 Eyl 2026 00:18:57 +0530",
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "1b1b2e4c5b53fd8a",
+   "title": "Gold ETF vs Gold FoF: How do they differ and which one costs more?",
+   "link": "https://www.livemint.com/money/personal-finance/gold-etf-vs-gold-fof-how-do-they-differ-and-which-one-costs-more-11790357534258.html",
+   "summary": "Gold ETFs trade live on stock exchanges, whereas Gold FoFs are bought and redeemed through mutual fund platforms at end-of-day NAV",
+   "published": "2026-09-25T19:00:08+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/gold_etf_1779881435895_1779881466407_4778d577-4c53-4637-9c54-a2e8be136522_1790357908051_DXxr_6184b39b-989b-4334-a830-c131c5961692_LWMS.png",
+   "topics": [],
+   "first_seen": "2026-09-25T19:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "494a8ca1b953b997",
+   "title": "Converse pauses social media ads after CEO apology over racism outrage: Report ahead of Nike's earnings announcement",
+   "link": "https://www.livemint.com/companies/news/converse-pauses-social-media-ads-after-ceo-apology-over-racism-outrage-report-ahead-of-nikes-earnings-announcement-11790358925524.html",
+   "summary": "Converse has paused all marketing efforts this week after an ad evoking the Ku Klux Klan caused outrage. This decision comes amid a prolonged sales decline as the company prepares to report earnings on Oct. 1.",
+   "published": "2026-09-25T18:33:05+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Untitled_design_1790361091872_pDXb_1790361096027_yBJI_7cdd8558-3343-47c3-be70-dcf7081f6bf6_kWlY.png",
+   "topics": [],
+   "first_seen": "2026-09-25T19:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4867a971dcd216ef",
    "title": "Diversified equity mutual funds: Which top 5 schemes have outperformed their category over 3 years?",
@@ -11439,45 +11475,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/mitrankur-majumdar_1789918636159_9MiA_1789918641293_tgbD_1d9f3b54-a491-45e7-90c0-866711a4d7c9_bIkB.jpeg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "07dd68c839e45eba",
-   "title": "EMs have a bitter pill to swallow",
-   "link": "https://www.livemint.com/market/mark-to-market/ems-have-a-bitter-pill-to-swallow-11789883644014.html",
-   "summary": "Tightening monetary policy and higher bond yields in developed markets are pushing capital away from emerging economies, weakening their currencies and raising corporate debt costs.&nbsp;",
-   "published": "2026-09-21T00:30:53+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/im-28741974_1786451481403_1789897910491_QHeh_a8ffd033-33f0-46c8-aeb5-0abc02d28eea_vwp4.jpg",
-   "topics": [
-    "RBI / banking",
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7cf1651c81620cf2",
-   "title": "Nifty may recover after two years of underperformance, says Anand Rathi’s Azeez",
-   "link": "https://www.livemint.com/market/stock-market-news/nifty-may-recover-after-two-years-of-underperformance-says-anand-rathi-s-azeez-11789883934427.html",
-   "summary": "Azeez now oversees ₹1.06 lakh crore in assets under management (AUM), up sharply from ₹32,000 crore four and a half years ago.",
-   "published": "2026-09-21T00:30:53+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/FA_1789906097070_rdyx_1789906101220_qsn3_8cc63298-512a-49f6-bad5-464e147a149b_0zym.jpg",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,

@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T18:30:09+00:00",
+ "generated_at": "2026-09-25T19:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "ok": true,
+   "fetched": 13,
+   "items": 13,
+   "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 07:02:32 GMT",
+   "sample_date": "Thu, 24 Sep 2026 17:02:43 GMT",
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 25 Sep 2026 11:13:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "ok": true,
+   "fetched": 32,
+   "items": 32,
+   "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T19:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 17:30:00 +0000",
+   "sample_date": "Fri, 25 Sep 2026 18:48:33 +0000",
    "error": null,
-   "checked_at": "2026-09-25T18:30:09+00:00"
+   "checked_at": "2026-09-25T19:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,49 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "b97518582a39afcd",
+   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+   "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+   "published": "2026-09-25T18:48:33+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T19:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e3ed29775d07d0fb",
+   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+   "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+   "published": "2026-09-25T18:33:59+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-25T19:00:08+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "IPO",
+    "Funding"
+   ]
+  },
   {
    "id": "483f16612c3d515d",
    "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
@@ -146,8 +187,26 @@
    "valuation_signals": []
   },
   {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-25T16:14:58+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T08:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "0fc9c86402b397c8",
-   "title": "Will Meta’s AI Tamagotchi bet is…working?",
+   "title": "Meta’s AI Tamagotchi bet is…working?",
    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotl…",
    "published": "2026-09-25T16:00:00+00:00",
@@ -1012,24 +1071,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T05:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-25T04:41:42+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T08:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
