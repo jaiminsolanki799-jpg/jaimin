@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T05:00:11+00:00",
+ "generated_at": "2026-09-25T05:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T05:00:11+00:00"
+   "checked_at": "2026-09-25T05:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
+   "sample_date": "Thu, 24 Sep 2026 13:21:25 GMT",
    "error": null,
-   "checked_at": "2026-09-25T05:00:11+00:00"
+   "checked_at": "2026-09-25T05:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
    "error": null,
-   "checked_at": "2026-09-25T05:00:11+00:00"
+   "checked_at": "2026-09-25T05:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
    "error": null,
-   "checked_at": "2026-09-25T05:00:11+00:00"
+   "checked_at": "2026-09-25T05:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 23:24:33 +0000",
+   "sample_date": "Fri, 25 Sep 2026 05:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-25T05:00:11+00:00"
+   "checked_at": "2026-09-25T05:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 10,
  "items": [
+  {
+   "id": "6de09d9c95641af0",
+   "title": "From Bihar to SEMICON India: How Shweta Suman is building Swadeza for the world",
+   "link": "https://yourstory.com/2026/09/swadeza-bihar-ai-semiconductor-forge-chip-design",
+   "summary": "Bihar-based Swadeza is building FORGE, an AI-native chip platform for verification, design and post-silicon engineering workflows.",
+   "published": "2026-09-25T05:20:35+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T05:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "96064fbcf338a90a",
+   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+   "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+   "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+   "published": "2026-09-25T05:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T05:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bc671fbe346aac91",
    "title": "MDR on UPI payments above Rs 2,000 will not be passed on to consumers: Govt sources",
