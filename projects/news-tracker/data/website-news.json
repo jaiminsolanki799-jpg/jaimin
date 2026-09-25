@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T23:00:08+00:00",
+ "generated_at": "2026-09-25T23:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T23:00:08+00:00"
+   "checked_at": "2026-09-25T23:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
+   "sample_date": "Fri, 25 Sep 2026 07:29:21 GMT",
    "error": null,
-   "checked_at": "2026-09-25T23:00:08+00:00"
+   "checked_at": "2026-09-25T23:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 25 Sep 2026 11:13:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T23:00:08+00:00"
+   "checked_at": "2026-09-25T23:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-25T23:00:08+00:00"
+   "checked_at": "2026-09-25T23:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 22:20:47 +0000",
+   "sample_date": "Fri, 25 Sep 2026 23:11:10 +0000",
    "error": null,
-   "checked_at": "2026-09-25T23:00:08+00:00"
+   "checked_at": "2026-09-25T23:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "303ad555831b21db",
+   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+   "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+   "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+   "published": "2026-09-25T23:11:10+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T23:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "54c4b4a4bd131ddc",
+   "title": "Automattic has a new board after failed attempt to put CEO on leave",
+   "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+   "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+   "published": "2026-09-25T23:04:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T23:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "df19e6663c5ff486",
    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
