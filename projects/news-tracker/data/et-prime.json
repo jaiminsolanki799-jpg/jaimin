@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T04:00:10+00:00",
+ "generated_at": "2026-09-25T04:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "ok": true,
+   "fetched": 5,
+   "items": 2,
+   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 06:30:20 +0530",
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 09:28:38 +0530",
+   "sample_date": "Fri, 25 Sep 2026 09:57:09 +0530",
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 09:20:20 +0530",
+   "sample_date": "Fri, 25 Sep 2026 09:33:49 +0530",
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,13 +192,70 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 3,
  "items": [
   {
+   "id": "96925fa1c10040bc",
+   "title": "Hero Motors shares up 17% — what's driving the stock? Explained with target, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/hero-motors-shares-up-17-whats-driving-the-stock-explained-with-target-stoploss-11790309428957.html",
+   "summary": "Hero Motors shares surged 20% on September 25, recovering from a weak debut. The stock climbed from an IPO price of ₹84 to ₹141.85, marking a total gain of nearly 69%. Analysts suggest investors wait for stabilization due to premium valuation concerns.",
+   "published": "2026-09-25T04:27:09+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/heromo_1790310378862_J6Y2_1790310392320_9QA4_0c5d6044-83a9-4c0e-b432-8102986a0267_tgnx.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-25T04:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "08375f10ab76b782",
+   "title": "PB Fintech shares slump 40% in two sessions| What Jefferies, Morgan Stanley, BofA say on the stock",
+   "link": "https://www.livemint.com/market/stock-market-news/pb-fintech-shares-slump-40-in-two-sessions-what-jefferies-morgan-stanley-bofa-say-on-the-stock-11790308344209.html",
+   "summary": "PB Fintech shares rose nearly 4% after a 36% plunge, yet fell over 6% today, losing about 40% in two sessions due to proposed regulatory changes. Analysts are cautious, advising against immediate investments amid weakening technical indicators and revised price targets from global brokerages.",
+   "published": "2026-09-25T04:19:32+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/PB_Fintech_stock_1790309844535_JBEv_1790309851251_AzE7_7fe8e03e-c14c-4bf6-af3d-a1cab658a8a0_bsis.png",
+   "topics": [],
+   "first_seen": "2026-09-25T04:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "48d7ed84eac17971",
+   "title": "Gold, silver prices today, 25 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-september-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11789009039125.html",
+   "summary": "Gold and silver prices today, 25 September: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+   "published": "2026-09-25T04:03:49+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1790307554811_GlaJ_1790307559065_pr8z_c5e79f39-7647-4fee-bfb0-1f5cbbbacdb4_rayL.png",
+   "topics": [],
+   "first_seen": "2026-09-25T04:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "206bffebd3184031",
-   "title": "Welspun Corp share price rises 4% after subsidiary wins its largest-ever order | All details here",
+   "title": "Welspun Corp share price hits 52-week high after subsidiary wins its largest-ever order | All details here",
    "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-rises-4-after-subsidiary-wins-its-largest-ever-order-all-details-here-11790308262281.html",
-   "summary": "Welspun Corp shares opened at ₹2,782 against their previous close of ₹2,694.60 and rose by 4.3% to an intraday high of ₹2,810.",
+   "summary": "Welspun Corp share price climbed over 5% in early deals on the BSE on Friday, 25 September, to hit its 52-week high of ₹2,837.50, boosted by the company's announcement about its subsidiary winning its largest-ever order in the US.",
    "published": "2026-09-25T03:58:38+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -206,7 +263,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/Welspun_Corp_share_price_1790308682569_gddT_1790308687455_CppF_c8e4b407-fbbc-4bcf-8324-49e6798db959_ky0R.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Welspun_Corp_share_price_1790308682569_gddT_1790308687455_CppF_c8e4b407-fbbc-4bcf-8324-49e6798db959_ky0R.png",
    "topics": [],
    "first_seen": "2026-09-25T04:00:10+00:00",
    "valuation_score": 0,
@@ -11398,65 +11455,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/mehul_1789810995045_BYUS_1789811002251_6EZI_f61a51fd-6608-4a22-921f-1026acebd349_LJ4h.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "18c016dd1c70e9b4",
-   "title": "Inside the 24 hours that laid bare Tata’s brutal power struggle",
-   "link": "https://www.livemint.com/companies/news/tata-sons-board-meeting-ipo-listing-chairman-natarajan-chandrasekaran-tata-trusts-noel-tata-11789804829713.html",
-   "summary": "In three hours, Noel Tata lost the vote for reappointing Chairman Chandra and a Tata Sons listing. A blow-by-blow account of what transpired at the Tata Sons board meeting.",
-   "published": "2026-09-19T08:14:40+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/Natarajan-Chandrasekaran-Noel-Tata_1789805524156_RwYG_1789805524656_l7rs_a3d93f69-f5ad-461f-b078-13b50631c264_D7a1.jpeg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c89605a923853535",
-   "title": "Tata Sons-Tata Trusts row: Harish Salve backs listing, says company's legal position 'legally perfect'",
-   "link": "https://www.livemint.com/companies/news/tata-sons-tata-trusts-row-harish-salve-backs-listing-says-companys-legal-position-legally-perfect-11789792619105.html",
-   "summary": "Harish Salve, advising Tata Sons Chairman N Chandrasekaran, called the company's legal position legally perfect amid its governance differences with Tata Trusts. He backed Tata Sons becoming a public company, citing RBI rules, greater transparency and professional management.",
-   "published": "2026-09-19T04:53:18+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/Tata_Son_1789793522251_QSIu_1789793529152_YUql_33571a56-2c0a-4613-895d-86d898598a9d_ob4K.png",
-   "topics": [
-    "SEBI / markets regulation",
-    "RBI / banking"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1397d131bedd3d01",
-   "title": "Parents awarded $40 million after Uber found liable for passenger who was fatally struck on highway",
-   "link": "https://www.livemint.com/companies/parents-awarded-40-million-after-uber-found-liable-for-passenger-who-was-fatally-struck-on-highway-11789772395156.html",
-   "summary": "Parents awarded $40 million after Uber found liable for passenger who was fatally struck on highway",
-   "published": "2026-09-18T22:59:54+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,

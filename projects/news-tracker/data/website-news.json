@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T04:00:10+00:00",
+ "generated_at": "2026-09-25T04:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "ok": true,
+   "fetched": 12,
+   "items": 12,
+   "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 16:55:52 GMT",
+   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 24 Sep 2026 18:04:37 GMT",
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "ok": true,
+   "fetched": 30,
+   "items": 30,
+   "sample_date": "Wed, 23 Sep 2026 15:58:49 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T04:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 24 Sep 2026 23:24:33 +0000",
    "error": null,
-   "checked_at": "2026-09-25T04:00:10+00:00"
+   "checked_at": "2026-09-25T04:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,49 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "21e25460c857e5d1",
+   "title": "AceVector raises Rs 189 Cr from anchor investors ahead of IPO",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWEzZ2NKZEQ5LWkzaHZBcEVTVHJiSUIxWDVrX1B3bTNCRkFYMFpuTlhHbzAtYUZmUzd3QlNCTHpjVFczalU4TjhmLU9waFZMSEdQOVlKeC1YbFBsanhfN3pzOWFuLVlVa1dXZFJUcTJ1UjVob2ZaRkJlM1M2bUlCZm1HQVhFU1ZzOF84TDF5SHZxWnhpTzlXbGotUGXSAZwBQVVfeXFMTWlhM2djSmREOS1pM2h2QXBFU1RyYklCMVg1a19Qd20zQkZBWDBabk5YR28wLWFGZlM3d0JTQkx6Y1RXM2pVOE44Zi1PcGhWTEhHUDlZSngtWGxQbGp4Xzd6czlhbi1ZVWtXV2RSVHEydVI1aG9mWkZCZTNTNm1JQmZtR0FYRVNWczhfOEwxeUh2cVp4aU85V2xqLVBl?oc=5",
+   "summary": "",
+   "published": "2026-09-25T04:26:34+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-25T04:30:12+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "IPO"
+   ]
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-25T02:36:58+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c8dd0b9e4a7ca7e4",
    "title": "Tata tussle turns the spotlight on TVS-Hanno deal; India is leapfrogging in AI: Google Cloud executive",
@@ -1256,24 +1297,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T06:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-24T02:51:35+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -6030,24 +6053,6 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPamY3LVZ3eXBRclZRbVd5TWhxdHpnc0VRdWlrNkxFbE9IdlJaRFlXNkI0RWUyS3BmeVIxRDdRZWxCUVZYeGczcUViaENyc0daNjQwUDEtbHZOSnhjbFRLS2ZTUFdLTHRXNnlWTTVyMEJzSTQzMlc0WmN0Wnkyb1BRSG43MA?oc=5",
    "summary": "",
    "published": "2026-09-16T14:09:07+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a73415e1680fdd70",
-   "title": "Shop all you want, buy nothing: The rise of dopamine sites",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90Tk9OS0dId0huSE5Mci1ybWYtOUNuc2ZiUjVyR25EcWY4VGpMZTQyRlYzNVhMaThfYmQxajFrTGJzUlpuT2dDdnBNczFEMmZkaGlTZzVaTXZ1cjNpUThJMTlBMUk5NlhoOTdISHFn?oc=5",
-   "summary": "",
-   "published": "2026-09-15T04:19:16+00:00",
    "source": "The CapTable",
    "group": "The CapTable",
    "category": "Startups",
