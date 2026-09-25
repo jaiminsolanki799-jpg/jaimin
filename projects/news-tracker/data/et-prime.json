@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T03:30:10+00:00",
+ "generated_at": "2026-09-25T04:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 5,
-   "items": 2,
-   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
-   "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 06:30:20 +0530",
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 08:38:42 +0530",
+   "sample_date": "Fri, 25 Sep 2026 09:28:38 +0530",
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 07:45:49 +0530",
+   "sample_date": "Fri, 25 Sep 2026 09:20:20 +0530",
    "error": null,
-   "checked_at": "2026-09-25T03:30:10+00:00"
+   "checked_at": "2026-09-25T04:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,122 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "206bffebd3184031",
+   "title": "Welspun Corp share price rises 4% after subsidiary wins its largest-ever order | All details here",
+   "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-rises-4-after-subsidiary-wins-its-largest-ever-order-all-details-here-11790308262281.html",
+   "summary": "Welspun Corp shares opened at ₹2,782 against their previous close of ₹2,694.60 and rose by 4.3% to an intraday high of ₹2,810.",
+   "published": "2026-09-25T03:58:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/Welspun_Corp_share_price_1790308682569_gddT_1790308687455_CppF_c8e4b407-fbbc-4bcf-8324-49e6798db959_ky0R.png",
+   "topics": [],
+   "first_seen": "2026-09-25T04:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e758db6396652f55",
+   "title": "Tax consultant filed incorrect deduction claims: Why ITAT cancelled ₹2.21 lakh penalty on a salaried employee",
+   "link": "https://www.livemint.com/money/personal-finance/tax-consultant-filed-incorrect-deduction-claims-why-itat-cancelled-2-21-lakh-penalty-on-a-salaried-employee-11790304198598.html",
+   "summary": "A Pune ITAT ruling cancels a ₹2.21 lakh income-tax penalty imposed on a salaried employee after he revised his ITR and paid additional tax and interest. The case highlights why taxpayers should verify deductions and correct errors promptly.",
+   "published": "2026-09-25T03:50:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/80aeebd1-44c0-4634-9420-ded35315e236_1790304802816_64BT_1790304809686_xJTf_016d48d4-af70-47d2-9fa1-6bd9f5bd22ee_GxPX.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-25T04:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9c314697bfe1e9f4",
+   "title": "Are banks open or closed on Sunday, September 27? Here’s why there’s confusion ahead of the proposed bank unions strike",
+   "link": "https://www.livemint.com/money/personal-finance/are-banks-open-or-closed-on-sunday-september-27-here-s-why-there-s-confusion-ahead-of-the-proposed-bank-unions-strike-11790302699517.html",
+   "summary": "The central government has decided to keep all public-sector and rural banks open on September 27, despite it being a holiday. This decision aims to mitigate service disruptions ahead of the three-day bank strike. Here's why confusion still persists.",
+   "published": "2026-09-25T03:46:05+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/-da90-41f4-87d7-3870a57e_1790307622860_MXyF_1790307623053_KwCZ_b9d32e91-4238-4c4a-85cc-b53907540dfe_eavJ.jpg",
+   "topics": [],
+   "first_seen": "2026-09-25T04:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "57ab3d6bbd7685a7",
+   "title": "Bonus issue record date today: Last chance to buy Aastha Spintex shares as deadline approaches-Check stock performance",
+   "link": "https://www.livemint.com/market/stock-market-news/bonus-issue-record-date-today-last-chance-to-buy-aastha-spintex-shares-as-deadline-approaches-check-stock-performance-11790305269197.html",
+   "summary": "Aastha Spintex Limited's shares are under focus ahead of its 1:1 bonus issue record date on September 28. Investors must buy before September 25 to be eligible for the bonus. The company has also secured a ₹25 crore order for Greige Fabric from JSK Textile LLP.",
+   "published": "2026-09-25T03:33:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/asaraw_1790307097648_iMOy_1790307110840_jZ8P_b4b19f95-9a79-4bae-a99a-6f4ad1621eac_OV5W.png",
+   "topics": [
+    "MCA / ROC"
+   ],
+   "first_seen": "2026-09-25T04:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "c849582cf9fc17d5",
+   "title": "₹9,450 turns into over ₹1.30 lakh in one day despite 35% fall in PB Fintech share price; here's how",
+   "link": "https://www.livemint.com/market/stock-market-news/rs-9-450-turns-into-over-rs-1-30-lakh-in-one-day-despite-35-fall-in-pb-fintech-share-price-heres-how-11790304551027.html",
+   "summary": "PB Fintech shares fell 35% on September 24, leading to a market cap loss of ₹30,000 crore. This triggered a surge in put options, allowing traders to profit significantly from the decline. The stock reached a 52-week low due to regulatory changes proposed by the IRDAI.",
+   "published": "2026-09-25T03:32:15+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/pbf_1790307096137_gIJi_1790307102911_2LCm_8bc272d7-89a8-4720-9495-0dfdb27010ef_FF8n.png",
+   "topics": [],
+   "first_seen": "2026-09-25T04:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2ef2ad6935ed8a9f",
+   "title": "‘Elevated volatility is now a permanent feature’: Templeton’s Rajasa K.",
+   "link": "https://www.livemint.com/money/rajasa-k-templeton-india-equities-market-outlook-ai-financials-11790226486978.html",
+   "summary": "Tariffs, AI disruption, FII outflows and geopolitical tensions have tested Indian markets, but Templeton’s Rajasa K. sees resilient earnings and structural growth opportunities ahead.",
+   "published": "2026-09-25T03:30:42+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/rajasa_1790228048595_xpfH_1790228053526_TPmk_ec7328e8-153d-4493-ad08-98b16cbc7907_gZwQ.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-25T04:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "321baade7b7fd6ed",
    "title": "Trump Shared Concerns Over Weak Yen With Japan’s Takaichi",
@@ -232,7 +346,7 @@
   },
   {
    "id": "e570f8f314782c17",
-   "title": "Can you inherit ancestral family property in India after becoming an NRI? Know rules",
+   "title": "Can an NRI sell inherited agricultural land to another NRI? Know the rules",
    "link": "https://www.livemint.com/money/can-you-inherit-ancestral-family-property-in-india-after-becoming-an-nri-know-the-rules-11790300120014.html",
    "summary": "Moving abroad does not revoke an NRI's right to inherit property in India. NRIs can inherit various properties but face restrictions on selling agricultural land. Know the rules.",
    "published": "2026-09-25T02:15:49+00:00",
@@ -11343,78 +11457,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "02bb13b19c0590bb",
-   "title": "Multiple unions threaten strikes at Barricks flagship Mali gold mine, documents show",
-   "link": "https://www.livemint.com/companies/multiple-unions-threaten-strikes-at-barricks-flagship-mali-gold-mine-documents-show-11789759839092.html",
-   "summary": "MALI-BARRICK MINING/STRIKES:Multiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show",
-   "published": "2026-09-18T19:30:38+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e9e3426ea3144570",
-   "title": "Boohoo’s New Chairman Stirs Controversy as Broker Drops Coverage",
-   "link": "https://www.livemint.com/companies/boohoos-new-chairman-stirs-controversy-as-broker-drops-coverage-11789756651352.html",
-   "summary": "Boohoo Group Plc appointed former board member Iain McDonald as its new chairman, prompting broker Shore Capital to cease coverage over corporate governance concerns.",
-   "published": "2026-09-18T18:37:30+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c008431b84407600",
-   "title": "Nobody's money? The fortune Indian families forgot they had",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWTI2TjU2WWkyNzk4WXJmY2FPd0R4WU1FSU1Fa1ZDTFhSejhOc0d4X3FHUTc1clFQNzZZZU9rVEMwSENMeTdZdlFzT05pZlNGOFplQkVyTEROZ21nRXNkcmJQQ2xNYm1jZ3JrRzFDT1pHTVZhUEc5ZUNGX3AyV2hGN25razQ2aTFxeTRsZWh6Q3p3ZEFlY2F2bGpVWk4tSDhoc0lFWTZ4VGJELTlrdTN3RUJrd09UUXJtWHFBV3lqT1NCOHRyNXZPS2lIRkJKR2U0WXh4eUtmUENtclFsbWZ0VGs4MDBFMjZnWVl6Q2ZZaFk1WGp5T0hkdFROY1FpOS1xMGM4c0FnbHBtRE91bGk3REs0U1piZWFHSDFmSnRKTHJtTXBwaDI4SG9RMNIBxAFBVV95cUxOeERqNXJSTHNnRk1WRklMUXJOVUhkVlZ2VVVjZWl3ZENvMEFvcXpTSFFBQ1E2cXE2aDJuN1FMWXNZU21ja1lLaTRtd3VzWGdSS1dmRGw2amZkeUhaQkV3RmFtYzFqeEFsUTdiNTQ2VS02LXZvWUJtZnY1X3NsendIRC11eGluaVRBWlZmSHp2WHU2bTYtNlAwODZ2WUNXaEdQbTFJOGtWNjJiYWpRVFF5MFBMcUN0a25PWEJudGd2bFVkZ3Jv?oc=5",
-   "summary": "",
-   "published": "2026-09-18T17:56:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "def78f9bf90285c3",
-   "title": "L&T expects more modular infra business after Australian project success",
-   "link": "https://www.livemint.com/companies/news/lt-expects-more-modular-infra-business-after-australian-project-success-11789738947276.html",
-   "summary": "Modular infrastructure projects represent a $100-150 billion market opportunity, according to L&amp;T's deputy managing director and president Subramanian Sarma.",
-   "published": "2026-09-18T15:17:02+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/INDIA-L-T--2_1744171270396_1789743077418_7rtR_834411b4-4d8f-4533-97aa-5e1876a22fc0_4lx3.JPG",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
