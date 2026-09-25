@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-25T10:00:09+00:00",
+ "generated_at": "2026-09-25T10:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-25T10:00:09+00:00"
+   "checked_at": "2026-09-25T10:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 07:29:21 GMT",
+   "sample_date": "Thu, 24 Sep 2026 14:51:22 GMT",
    "error": null,
-   "checked_at": "2026-09-25T10:00:09+00:00"
+   "checked_at": "2026-09-25T10:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 25 Sep 2026 09:30:30 GMT",
+   "sample_date": "Fri, 25 Sep 2026 10:12:20 GMT",
    "error": null,
-   "checked_at": "2026-09-25T10:00:09+00:00"
+   "checked_at": "2026-09-25T10:30:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Thu, 24 Sep 2026 11:59:34 GMT",
    "error": null,
-   "checked_at": "2026-09-25T10:00:09+00:00"
+   "checked_at": "2026-09-25T10:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 25 Sep 2026 05:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-25T10:00:09+00:00"
+   "checked_at": "2026-09-25T10:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,50 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 11,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "d622489fc866ab81",
+   "title": "Dabur-Sesa Care Merger Gets NCLT Approval",
+   "link": "https://startuptalky.com/news/dabur-sesa-care-merger/",
+   "summary": "Ayurvedic hair care brand Sesa Care’s merger with Dabur India has received nod from NCLT. Dabur bought 51% of Sesa Care in October 2024 and had authorised the merger in May 2025. The deal is intended to boost Dabur’s hair care portfolio and provide cost and revenue synergies.",
+   "published": "2026-09-25T10:12:20+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/dabur-sesa-care-merger-Startuptalky.jpg",
+   "topics": [
+    "Insolvency / IBC",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-25T10:30:12+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "M&A",
+    "Distress"
+   ]
+  },
+  {
+   "id": "7680db886043f68e",
+   "title": "Startup news and updates: daily roundup (September 25, 2026)",
+   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-25-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here’s the roundup for Friday, September 25, 2026.",
+   "published": "2026-09-25T10:01:23+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-25T10:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "17a74c474ef6212e",
    "title": "Exclusive: Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
