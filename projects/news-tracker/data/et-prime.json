@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-25T11:30:12+00:00",
+ "generated_at": "2026-09-25T12:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "ok": true,
+   "fetched": 5,
+   "items": 2,
+   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
+   "error": null,
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 16:56:14 +0530",
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 25 Sep 2026 16:21:12 +0530",
+   "sample_date": "Fri, 25 Sep 2026 17:25:40 +0530",
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 25 Sep 2026 16:14:13 +0530",
    "error": null,
-   "checked_at": "2026-09-25T11:30:12+00:00"
+   "checked_at": "2026-09-25T12:00:12+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,64 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "8c4ca242ac519ff3",
+   "title": "60% rally in FY27! Ventura Securities sees 32% more upside in short term | Technical outlook, target, stoploss",
+   "link": "https://www.livemint.com/market/stock-market-news/60-rally-in-fy27-ventura-securities-sees-32-more-upside-in-short-term-technical-outlook-target-stoploss-11790334304008.html",
+   "summary": "Texmaco Rail stock declined nearly 1% on BSE, with intraday prices ranging from ₹124 to ₹128.55. The company reported a 70.7% increase in net profit, despite a decline in consolidated income during Q1 FY27.",
+   "published": "2026-09-25T11:55:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Texmaco_Rail_1_1790336599869_x7hR_1790336606374_m1ON_f11671cf-ca06-41d5-956e-cf001dca9fd4_h19Z.png",
+   "topics": [],
+   "first_seen": "2026-09-25T12:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ead1e4bfa9232287",
+   "title": "Himadri Speciality, Borosil Renewables among 5 fundamental stock picks Ambareesh Baliga recommends buying for short term",
+   "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-borosil-renewables-among-5-fundamental-stock-picks-ambareesh-baliga-recommends-buying-for-short-term-11790333179461.html",
+   "summary": "SEBI-registered independent market expert Ambareesh Baliga identifies five promising stocks, including Himadri and Borosil Renewables, poised for growth. Do you own any?",
+   "published": "2026-09-25T11:40:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Stocks_to_buy_1790333775766_BZsc_1790333785136_K8Sm_f98e72ad-e2b4-4735-9b86-0c1d777ddea2_ZCOL.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-25T12:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "96c5953611f3b0cd",
+   "title": "Motilal Oswal believes IRDAI draft is positive for this insurance stock, sees 31% upside- Check target price, rationale",
+   "link": "https://www.livemint.com/market/stock-market-news/motilal-oswal-believes-irdai-draft-is-positive-for-this-insurance-stock-sees-31-upside-check-target-price-rationale-11790318618352.html",
+   "summary": "Niva Bupa Health Insurance shares rose 1.63% after IRDAI proposed distribution regulation reforms. Brokerage Motilal Oswal supports a bullish view, forecasting a 31% upside.",
+   "published": "2026-09-25T11:32:59+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/insurance_stock_to_buy_1790335799843_IRvc_1790335873440_qovg_632ec46c-0928-44ea-9c7c-98392a46d970_wMXu.png",
+   "topics": [],
+   "first_seen": "2026-09-25T12:00:12+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "bf7fd9732173da19",
    "title": "What is OpenEvidence, the ‘ChatGPT for doctors’ valued at $15 billion in a new funding round?",
@@ -513,7 +571,7 @@
    "id": "9c62b2510a250627",
    "title": "Hyundai Motor India shares rebound after 4-day slide: What’s driving the stock price rise? Buy or book profits?",
    "link": "https://www.livemint.com/market/stock-market-news/hyundai-motor-india-shares-rebound-after-4-day-slide-what-s-driving-the-stock-price-rise-buy-or-book-profits-11790322771831.html",
-   "summary": "After a four-day slump, Hyundai Motor India shares surged, opening at ₹2,030 and climbing to ₹2,134. Experts emphasise value buying ahead of upcoming launches. Is now the right time for investors to capitalise or book profits?",
+   "summary": "After a four-day slump, Hyundai Motor India shares surged, opening at ₹2,030 and ending at ₹2,105. Experts emphasise value buying ahead of upcoming launches. Is now the right time for investors to capitalise or book profits?",
    "published": "2026-09-25T08:58:52+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -11417,60 +11475,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/PTI09-17-2026-000279A-0_1789906542621_VX7K_1789906551825_Q9Hh_03926f95-b55f-4f9a-abdc-e578c135f04f_g7Fo.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "48f2bc9c999dfaf9",
-   "title": "EPFO wage ceiling raised to ₹25,000: Know the impact on contributions, pension and EDLI benefits — all FAQs answered",
-   "link": "https://www.livemint.com/money/personal-finance/epfo-wage-ceiling-raised-to-25-000-know-the-impact-on-contributions-pension-and-edli-benefits-all-faqs-answered-11789899546017.html",
-   "summary": "The EPFO wage ceiling has risen from ₹15,000 to ₹25,000, bringing over 51 lakh employees into coverage. Know how the change could affect EPF deductions, employer contributions, pension, and EDLI insurance.&nbsp;",
-   "published": "2026-09-20T12:02:24+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/epfo_wa_1789904911931_ArUP_1789904915902_nrnf_d37f492d-a20e-4d7c-a0c4-9a6c348f633a_SA6D.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "000d296dfcfdee01",
-   "title": "Tata Sons chairman vote: Chandrasekaran reappointment ‘void ab initio’; Tata Trusts says resolution 'not validly passed'",
-   "link": "https://www.livemint.com/companies/news/tata-sons-chairman-vote-chandrasekaran-reappointment-void-ab-initio-tata-trusts-says-resolution-not-validly-passed-11789904818737.html",
-   "summary": "Tata Trusts said N Chandrasekaran’s reappointment as Tata Sons chairman is invalid because both Trust-nominated directors were required to approve it. Noel Tata opposed the extension while Venu Srinivasan backed it, leaving the 4-1 board vote legally ineffective, according to the Trusts.",
-   "published": "2026-09-20T11:52:35+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/tata_1789905044044_8fTo_1789905063151_22HZ_e2644c96-9d94-4a30-963f-a768ef1fd5bc_ubiS.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "079eef98a10a1e21",
-   "title": "Gold price prediction: Will US-Iran war, crude oil rates impact yellow metal rates? Check technical outlook",
-   "link": "https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html",
-   "summary": "Gold is expected to remain highly sensitive to movements in Treasury yields, the US dollar and inflation data, as well as further signals on the pace and timing of additional tightening.",
-   "published": "2026-09-20T11:48:06+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/gold_1789904868496_c1hC_1789904868649_NjKg_22e8829d-797f-40d3-88f8-64b21d179aa3_audD.jfif",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
