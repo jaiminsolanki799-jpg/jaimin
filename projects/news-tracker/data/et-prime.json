@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-26T13:00:07+00:00",
+ "generated_at": "2026-09-26T13:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
-   "items": 2,
-   "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
+   "fetched": 4,
+   "items": 3,
+   "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 16:28:51 +0530",
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 17:57:36 +0530",
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 17:47:11 +0530",
+   "sample_date": "Sat, 26 Sep 2026 18:51:55 +0530",
    "error": null,
-   "checked_at": "2026-09-26T13:00:07+00:00"
+   "checked_at": "2026-09-26T13:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "ce104447c6c84053",
+   "title": "What is Passive Investing? How’s it different from putting your money through active investments? Explained",
+   "link": "https://www.livemint.com/money/what-is-passive-investing-how-s-it-different-from-putting-your-money-through-active-investments-explained-11790428192953.html",
+   "summary": "With passive investing, funds track market indices, reducing the need for individual stock selection. Read more to find out.",
+   "published": "2026-09-26T13:21:55+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Passive_Investing_1790428744410_wOLh_1790428750094_DhcX_993f69cd-3b4e-490e-822d-7ce405985373_Ud7N.jpg",
+   "topics": [],
+   "first_seen": "2026-09-26T13:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d5e1b0f87be14e5e",
    "title": "Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling?",
@@ -266,6 +284,24 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/DA_1790423890288_Pu6v_1790423890553_2KwD_553d1098-7724-440a-b1ec-89b28b13543a_esUW.png",
    "topics": [],
    "first_seen": "2026-09-26T12:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6820891bbfb8c665",
+   "title": "Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling?",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOYkdhYzdRZktCcnpaQTFPU09mRWJBRzZsNHJEYVN1ZW9RTXJGbkZLc3ZmV2xnWUpSX29EX0dJZmdIUTAzS056VF84MWRpa3ZJd0RhQXdtYi0zQVZ6Sl9lRFo0bUY4OV9JS3JpOWJleVdLMllOYlFnWG1OMWJ0YVdFZWtGUF9OVlFfcHhtR1pPdmFlWEZOYVJ2dW9qZ01VZ1ZoQW9DVHpNVXItNjhOVjlGXy1Wc0RIWVBydHltSkpaQ1hsZk5hdGNOTTJDaXhwdkVaTnlqRjNRd2lKck8xZ1JJdFdZSTgzNmVLMXVKM1FsVE9fSDc4Um1fQVJWWFBrZHBnV1lrRW1sUE1TSW11SmhYX1BEaXRqY0k0VjJ3YzhZOUNlclo3bDRuWExKWUVSeG1XWEVmYXhxUlFzV3p3ZjBqeFphQ2lyS1XSAeABQVVfeXFMTU5DNFhqVGZoZ0RxTHlTUXZfOWtqOFRqS04zUHNKdzBrSkpUb2Fja3hTWUhfOE1TNmEzdy04RUJEdkJRN2dkUW9INVpqVjYwY1FuMS1KMzl4TnB2RTVtS2RlbmJOajJWeWRwZEgxaFVIV25WQmdKWFM0ZjQyVG5PUzJBSmFlSTljODRLZU1JOXpFRExGRTJFYnhmUGI5b01SQ3NoU1ZURnhlbThPTTBYT1FtcVZTd1JPbzdTb0tSMkxJTUhHQ0ZxX2w4eWFocENEQ1lOTzViRjFLdi02T1ZzMDc?oc=5",
+   "summary": "",
+   "published": "2026-09-26T11:54:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-26T13:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -8863,24 +8899,6 @@
    "valuation_signals": []
   },
   {
-   "id": "87ed1d1bef06237f",
-   "title": "Prime Focus Ltd.",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
-   "summary": "",
-   "published": "2026-09-22T09:53:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-24T07:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "5b5855d11c0611e5",
    "title": "Can Tata Capital stay ahead of rising funding costs?",
    "link": "https://www.livemint.com/market/mark-to-market/tata-capital-share-price-margin-pressure-rbi-rates-11790062281655.html",
@@ -9356,6 +9374,24 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus Ltd.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "",
+   "published": "2026-09-22T06:43:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11438,42 +11474,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/RN_1789992970777_e0O7_1789992983202_wUKY_42019da8-620e-4708-b657-c928bc157700_HTbb.JPG",
-   "topics": [],
-   "first_seen": "2026-09-21T07:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "97266edb9377c84e",
-   "title": "Rainwater damaged luxury car, insurer denied claim; owner wins ₹2.02 lakh in compensation — here's what happened",
-   "link": "https://www.livemint.com/money/rainwater-damaged-luxury-car-insurer-denied-claim-owner-wins-2-02-lakh-in-compensation-heres-what-happened-11789970753383.html",
-   "summary": "A dispute over a vehicle insurance claim for rainwater damage was resolved in the car owner's favour, and he received compensation. Full details about the case here.",
-   "published": "2026-09-21T07:19:08+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/insurance_claim_1789975034804_mBd5_1789975041529_reJu_a00ee216-a5ad-48f6-a7b9-adf19025a3d4_cccf.png",
-   "topics": [],
-   "first_seen": "2026-09-21T07:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2c3f44b1f1802a66",
-   "title": "Oracle Financial Services share price falls 6.5% today | What's behind the plunge?",
-   "link": "https://www.livemint.com/market/stock-market-news/oracle-financial-services-share-price-falls-6-5-today-whats-behind-the-plunge-11789970827243.html",
-   "summary": "Oracle Financial Services Software (OFSS) shares have delivered a positive performance in the near term, gaining 5.50% over the past week.",
-   "published": "2026-09-21T07:13:46+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/oracle_1789974476916_8K7h_1789974477081_8oCL_60dc2279-649b-4e86-976c-dfc8d87222e1_Qkmz.png",
    "topics": [],
    "first_seen": "2026-09-21T07:30:09+00:00",
    "valuation_score": 0,
