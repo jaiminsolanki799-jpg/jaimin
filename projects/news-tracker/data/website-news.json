@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-26T20:00:43+00:00",
+ "generated_at": "2026-09-26T20:30:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-26T20:00:43+00:00"
+   "checked_at": "2026-09-26T20:30:14+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
+   "sample_date": "Fri, 25 Sep 2026 07:02:32 GMT",
    "error": null,
-   "checked_at": "2026-09-26T20:00:43+00:00"
+   "checked_at": "2026-09-26T20:30:14+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-26T20:00:43+00:00"
+   "checked_at": "2026-09-26T20:30:14+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 18,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-26T20:00:43+00:00"
+   "checked_at": "2026-09-26T20:30:14+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 17:44:00 +0000",
+   "sample_date": "Sat, 26 Sep 2026 20:24:45 +0000",
    "error": null,
-   "checked_at": "2026-09-26T20:00:43+00:00"
+   "checked_at": "2026-09-26T20:30:14+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "31b997b1e97a393e",
+   "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+   "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+   "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+   "published": "2026-09-26T20:24:45+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-26T20:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dc81b1eefa7b3b07",
    "title": "- The CapTable",
