@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-26T13:30:10+00:00",
+ "generated_at": "2026-09-26T14:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-26T13:30:10+00:00"
+   "checked_at": "2026-09-26T14:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 07:02:32 GMT",
+   "sample_date": "Fri, 25 Sep 2026 07:29:21 GMT",
    "error": null,
-   "checked_at": "2026-09-26T13:30:10+00:00"
+   "checked_at": "2026-09-26T14:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-26T13:30:10+00:00"
+   "checked_at": "2026-09-26T14:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 19,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-26T13:30:10+00:00"
+   "checked_at": "2026-09-26T14:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sat, 26 Sep 2026 01:08:57 +0000",
    "error": null,
-   "checked_at": "2026-09-26T13:30:10+00:00"
+   "checked_at": "2026-09-26T14:00:12+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,27 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "40b992dbc49e0002",
+   "title": "[Weekly funding roundup Sept 19-25] VC inflow gets the debt boost",
+   "link": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-19-25-vc-inflow-gets-the-debt-boost",
+   "summary": "Venture capital funding into Indian startups surged this week, driven primarily by a handful of large deals.",
+   "published": "2026-09-26T13:46:49+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-26T14:00:12+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
+  },
   {
    "id": "6a5f0a714a2269a9",
    "title": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman",
@@ -218,7 +239,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T07:00:08+00:00",
@@ -769,7 +790,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T15:00:11+00:00",
@@ -805,7 +826,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T14:30:13+00:00",
@@ -823,7 +844,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T12:30:11+00:00",
@@ -843,7 +864,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T14:00:13+00:00",
@@ -975,7 +996,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -1087,7 +1108,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T09:30:09+00:00",
@@ -1105,7 +1126,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T08:30:11+00:00",
@@ -1143,7 +1164,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T08:00:11+00:00",
@@ -1365,7 +1386,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T05:00:11+00:00",
@@ -1383,7 +1404,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "Entrackr",
+   "publisher": "entrackr.com",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
