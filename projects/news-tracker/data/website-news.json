@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-26T10:30:08+00:00",
+ "generated_at": "2026-09-26T11:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-26T10:30:08+00:00"
+   "checked_at": "2026-09-26T11:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 24 Sep 2026 13:21:25 GMT",
+   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T10:30:08+00:00"
+   "checked_at": "2026-09-26T11:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-26T10:30:08+00:00"
+   "checked_at": "2026-09-26T11:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 24,
-   "items": 24,
+   "fetched": 22,
+   "items": 22,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-26T10:30:08+00:00"
+   "checked_at": "2026-09-26T11:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sat, 26 Sep 2026 01:08:57 +0000",
    "error": null,
-   "checked_at": "2026-09-26T10:30:08+00:00"
+   "checked_at": "2026-09-26T11:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,52 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "b1f9b7145c2480a1",
+   "title": "IITM Unicorn Frontier Fund I hits Rs 450 Cr first close",
+   "link": "https://yourstory.com/2026/09/iitm-unicorn-frontier-fund-i-hits-rs-450-cr-first-close",
+   "summary": "The IITM Unicorn Frontier Fund I has reached its Rs 450 crore first close and deployed nearly Rs 55 crore across four deep-tech startups in space, quantum, batteries and carbon capture.",
+   "published": "2026-09-26T10:46:40+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-26T11:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "9d3ba17560de6b22",
+   "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
+   "link": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
+   "summary": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
+   "published": "2026-09-26T10:33:47+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-26T11:00:09+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Valuation"
+   ]
+  },
   {
    "id": "7bda74a2e5fd354b",
    "title": "Zee-JioStar Copyright Dispute Escalates as Zee Seeks Contempt Action",
