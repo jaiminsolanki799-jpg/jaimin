@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-26T14:00:12+00:00",
+ "generated_at": "2026-09-26T14:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-26T14:00:12+00:00"
+   "checked_at": "2026-09-26T14:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 07:29:21 GMT",
+   "sample_date": "Fri, 25 Sep 2026 07:02:32 GMT",
    "error": null,
-   "checked_at": "2026-09-26T14:00:12+00:00"
+   "checked_at": "2026-09-26T14:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-26T14:00:12+00:00"
+   "checked_at": "2026-09-26T14:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 19,
    "sample_date": "Fri, 25 Sep 2026 09:57:41 GMT",
    "error": null,
-   "checked_at": "2026-09-26T14:00:12+00:00"
+   "checked_at": "2026-09-26T14:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 01:08:57 +0000",
+   "sample_date": "Sat, 26 Sep 2026 14:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-26T14:00:12+00:00"
+   "checked_at": "2026-09-26T14:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "c6fb97f6187af92c",
+   "title": "I created an interactive digital avatar of myself — and you can talk to it",
+   "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+   "published": "2026-09-26T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-26T14:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "40b992dbc49e0002",
    "title": "[Weekly funding roundup Sept 19-25] VC inflow gets the debt boost",
@@ -239,7 +257,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T07:00:08+00:00",
@@ -790,7 +808,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T15:00:11+00:00",
@@ -826,7 +844,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T14:30:13+00:00",
@@ -844,7 +862,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T12:30:11+00:00",
@@ -864,7 +882,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T14:00:13+00:00",
@@ -996,7 +1014,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -1108,7 +1126,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T09:30:09+00:00",
@@ -1126,7 +1144,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T08:30:11+00:00",
@@ -1164,7 +1182,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T08:00:11+00:00",
@@ -1386,7 +1404,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T05:00:11+00:00",
@@ -1404,7 +1422,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -7308,24 +7326,6 @@
    "author": "Sakshi Jadhav",
    "publisher": null,
    "image": "https://static.startuptalky.com/2025/01/Lalit-Keshre-Success-Story-StartupTalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a24bcac02637ef8a",
-   "title": "Getting stupider in the age of intelligence",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPamY3LVZ3eXBRclZRbVd5TWhxdHpnc0VRdWlrNkxFbE9IdlJaRFlXNkI0RWUyS3BmeVIxRDdRZWxCUVZYeGczcUViaENyc0daNjQwUDEtbHZOSnhjbFRLS2ZTUFdLTHRXNnlWTTVyMEJzSTQzMlc0WmN0Wnkyb1BRSG43MA?oc=5",
-   "summary": "",
-   "published": "2026-09-16T14:09:07+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
