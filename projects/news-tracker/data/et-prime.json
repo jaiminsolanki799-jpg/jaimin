@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-26T14:30:10+00:00",
+ "generated_at": "2026-09-26T15:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 16:28:51 +0530",
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 17:57:36 +0530",
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 19:42:27 +0530",
+   "sample_date": "Sat, 26 Sep 2026 20:25:25 +0530",
    "error": null,
-   "checked_at": "2026-09-26T14:30:10+00:00"
+   "checked_at": "2026-09-26T15:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "75eb9895fc608c6e",
+   "title": "Cash deposits from farm sales: ITAT rules in favour of Karnataka farmer despite missing expense records",
+   "link": "https://www.livemint.com/money/personal-finance/cash-deposits-from-farm-sales-itat-rules-in-favour-of-karnataka-farmer-despite-missing-expense-records-11790423826613.html",
+   "summary": "Documentary evidence trumps procedural lapses as tribunal validates cash sales at APMC yard",
+   "published": "2026-09-26T14:55:25+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/pexels-photo-6289059_1780992571628_1780992582324_d6bc9f68-fc4d-4fb1-9dfe-a76319ac88bf_1790426365444_Ll9E_cc3fd5d7-cc07-4166-b82f-b330b9e89468_c0N6.jpeg",
+   "topics": [],
+   "first_seen": "2026-09-26T15:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "577ae23c4ad9943b",
+   "title": "‘Seems to be an issue between the broker and client; no govt talks on new UPI MDR’: NSE CEO Ashish Chauhan",
+   "link": "https://www.livemint.com/money/personal-finance/seems-to-be-an-issue-between-the-broker-and-client-no-govt-talks-on-new-upi-mdr-nse-ceo-ashish-chauhan-11790433535759.html",
+   "summary": "NSE CEO Ashish Chauhan stated there have been no talks with the government regarding the new Merchant Discount Rate for UPI payments, which he claims is a matter for brokers and clients to resolve. The new MDR framework takes effect on October 15, impacting capital-market transactions.",
+   "published": "2026-09-26T14:43:34+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/upi_mutal__1790433699985_hqy5_1790433700230_nzOR_cfcaea38-499e-4d06-b20a-5bd647e5ab37_CADc.png",
+   "topics": [],
+   "first_seen": "2026-09-26T15:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ce887e83b633aea8",
    "title": "Odisha govt to clear pension dues of over 20 lakh beneficiaries by October — Here's all we know",
@@ -11438,46 +11474,6 @@
    "first_seen": "2026-09-21T08:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "5eba30ee36063d55",
-   "title": "125% rally in six months | Apparel stock retraces after hitting 52-week high",
-   "link": "https://www.livemint.com/market/stock-market-news/125-rally-in-six-months-apparel-stock-iris-clothing-share-price-retraces-after-hitting-52-week-high-11789975567320.html",
-   "summary": "The latest move came on a day when Iris Clothings announced that it had entered into an agreement with Amazon to sell its Doreme products on the e-commerce platform. The company said the partnership formed part of its ongoing digital expansion strategy.",
-   "published": "2026-09-21T07:35:55+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/apparel_1789976103702_WUxB_1789976116207_Qitq_6b909950-4976-4bb9-9c4b-2512a0188194_xMeC.png",
-   "topics": [],
-   "first_seen": "2026-09-21T08:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d6ea9e9a51c2a7c8",
-   "title": "GAIL Gas begins process to appoint bankers for up to ₹3,100 crore IPO",
-   "link": "https://www.livemint.com/market/ipo/gail-gas-ipo-rs-3100-crore-investment-banks-city-gas-distribution-11789970175845.html",
-   "summary": "The city gas distribution company, a wholly owned subsidiary of GAIL (India) Ltd, is seeking up to four book-running lead managers, with bids expected to come in by early October.",
-   "published": "2026-09-21T07:27:31+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/IPO_1789975390756_lfNO_1789975390972_WDMC_7f9eef83-0214-499f-9034-37738c84a590_1izx.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-21T07:30:09+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
