@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-26T09:00:09+00:00",
+ "generated_at": "2026-09-26T09:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 13:10:05 +0530",
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 14:24:13 +0530",
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 14:15:21 +0530",
+   "sample_date": "Sat, 26 Sep 2026 14:39:49 +0530",
    "error": null,
-   "checked_at": "2026-09-26T09:00:09+00:00"
+   "checked_at": "2026-09-26T09:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "df324f77d5217584",
+   "title": "Gold rush on Dalal St as regional jewellers bid to be the next Tanishq",
+   "link": "https://economictimes.indiatimes.com/prime/money-and-markets/gold-rush-on-dalal-st-as-regional-jewellers-bid-to-be-the-next-tanishq/primearticleshow/134212884.cms",
+   "summary": "",
+   "published": "2026-09-26T09:30:09+00:00",
+   "source": "ET Prime: Money & markets",
+   "group": "ET Prime",
+   "category": "Money & markets",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-26T09:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b533119c16936f3b",
+   "title": "Can legal heirs be liable for a deceased parent’s income tax dues? Experts explain",
+   "link": "https://www.livemint.com/money/personal-finance/can-legal-heirs-be-liable-for-a-deceased-parent-s-income-tax-dues-experts-explain-11790271514809.html",
+   "summary": "A parent’s death does not automatically erase income tax dues. Under Section 302 of the Income-tax Act, 2025, legal heirs may be liable, generally to the extent of the deceased’s estate. Know when personal liability can arise and what heirs should do.",
+   "published": "2026-09-26T09:09:49+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/estate_1790271967687_NzEP_1790271976642_ST8R_9484bd41-3b4a-40fe-b654-b303fa659d87_erCF.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-26T09:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1c18e8c4247b1bba",
    "title": "₹8 interim dividend declared; check company, record date, payment date",
@@ -11423,46 +11461,6 @@
    "id": "1cda3895a5188c8d",
    "title": "Has the US Fed and AI created a costlier world? And has the queue got longer for India?",
    "link": "https://economictimes.indiatimes.com/prime/has-the-us-fed-and-ai-created-a-costlier-world-and-has-the-queue-got-longer-for-india/primearticleshow/134320524.cms",
-   "summary": "",
-   "published": "2026-09-21T05:21:11+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7d1cbdb7e449da00",
-   "title": "A different kind of buyback. Is this the beginning of these kinds of buybacks?",
-   "link": "https://economictimes.indiatimes.com/prime/a-different-kind-of-buyback-is-this-the-beginning-of-these-kinds-of-buybacks/primearticleshow/134267911.cms",
-   "summary": "",
-   "published": "2026-09-21T05:21:11+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "77b4e87c28eb82b4",
-   "title": "Come January 2027, will India’s online platforms get their own Tukaram?",
-   "link": "https://economictimes.indiatimes.com/prime/come-january-2027-will-indias-online-platforms-get-their-own-tukaram/primearticleshow/134254646.cms",
    "summary": "",
    "published": "2026-09-21T05:21:11+00:00",
    "source": "ET Prime home",
