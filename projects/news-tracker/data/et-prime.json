@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-26T02:00:08+00:00",
+ "generated_at": "2026-09-26T02:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 01:08:28 +0530",
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 02:21:38 +0530",
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 06:37:15 +0530",
+   "sample_date": "Sat, 26 Sep 2026 07:34:40 +0530",
    "error": null,
-   "checked_at": "2026-09-26T02:00:08+00:00"
+   "checked_at": "2026-09-26T02:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "21d7761258d56851",
+   "title": "Bank holiday today: Check if SBI, HDFC, ICICI branches are open or closed on Saturday, 26 September",
+   "link": "https://www.livemint.com/money/personal-finance/bank-holiday-today-check-if-sbi-hdfc-icici-branches-are-open-or-closed-on-saturday-26-september-11790386977286.html",
+   "summary": "Bank holiday today, 26 September: SBI, HDFC Bank and ICICI Bank branches are closed as it is the fourth Saturday. Public sector banks and RRBs will operate on Sunday, 27 September, ahead of the proposed nationwide bank strike from September 28-30.",
+   "published": "2026-09-26T02:04:40+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/b40f3a8d-c1e2-4b33-a81a-2b5d8876c86b_1790387412263_T3C4_1790387422967_JJOM_d9f800ad-d32e-4e95-956b-86310c409e0c_0kl0.png",
+   "topics": [],
+   "first_seen": "2026-09-26T02:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "33995898c9f16b53",
    "title": "Closing an unused credit card? Experts explain how it can affect your credit utilisation",
@@ -11459,24 +11477,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Tata_1789956368298_VDVD_1789956368454_vkqB_f64c3b94-0cec-4341-a9e2-d936120bcbf8_Gsh5.jfif",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1c3477354a3d9762",
-   "title": "EMI bounce can incur penalty, lower credit score; is there a grace period before it's reported to credit bureaus?",
-   "link": "https://www.livemint.com/money/personal-finance/emi-bounce-can-incur-penalty-lower-credit-score-is-there-a-grace-period-before-its-reported-to-credit-bureaus-11789952596181.html",
-   "summary": "A failed EMI payment can result in penalties and lower credit scores, as lenders report such details to credit bureaus. Check whether the borrower gets a grace period before it's reported.&nbsp;",
-   "published": "2026-09-21T02:05:08+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/cs_image2_1788056681074_1788056684839_3860e5b4-e776-4b98-b3d4-0c566bc751a5_1789954191985_2hul_b43991e9-01ea-4e23-9d24-07c899cd777d_Fq0q.jpg",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
