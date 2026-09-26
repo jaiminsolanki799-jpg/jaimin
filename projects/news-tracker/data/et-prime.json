@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-26T15:30:09+00:00",
+ "generated_at": "2026-09-26T16:00:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 16:28:51 +0530",
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 17:57:36 +0530",
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 20:25:25 +0530",
+   "sample_date": "Sat, 26 Sep 2026 21:14:44 +0530",
    "error": null,
-   "checked_at": "2026-09-26T15:30:09+00:00"
+   "checked_at": "2026-09-26T16:00:13+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "bc9cf9860a9f455b",
+   "title": "Maharashtra announces relief measures in drought—Restructures crop loans, concessions in pump electric bills; check list",
+   "link": "https://www.livemint.com/money/maharashtra-relief-measures-restructures-crop-loans-agriculture-pump-electricity-bills-concessions-land-revenue-drought-11790432082028.html",
+   "summary": "Maharashtra has activated ‘Trigger-1’ under its Drought Management Code 2016 to initiate relief measures in drought-affected areas. We take a look at the financial relief measures announced by the state government.&nbsp;",
+   "published": "2026-09-26T15:44:44+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Maharashtra_relief_1790437384660_zmT4_1790437402908_umRd_7d73fc3f-6abc-45d3-90eb-d930d89b544c_zuGC.png",
+   "topics": [],
+   "first_seen": "2026-09-26T16:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "75eb9895fc608c6e",
    "title": "Cash deposits from farm sales: ITAT rules in favour of Karnataka farmer despite missing expense records",
@@ -11452,24 +11470,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/law_1789977350355_QQEC_1789977355751_C7nM_35b0f502-33c7-4248-8623-e4059022d372_aZnI.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T08:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c29bb49cb7b7751f",
-   "title": "Personalization of benefits is no longer an HR perk, it's leadership imperative",
-   "link": "https://www.livemint.com/money/personal-finance/employee-benefits-personalised-health-insurance-workplace-india-11789968881386.html",
-   "summary": "A 24-year-old starting a career, a new parent, a mid-career employee supporting ageing parents and a colleague managing a chronic health condition do not face the same risks. Giving all of them an identical health insurance package may be administratively equal, but it is not experienced as fair.",
-   "published": "2026-09-21T08:01:44+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/health_insurance2__1714127396900_1789977468648_yC9P_d97216db-2d69-4a53-8da5-88fb14accdd6_MePo.jpg",
    "topics": [],
    "first_seen": "2026-09-21T08:30:08+00:00",
    "valuation_score": 0,
