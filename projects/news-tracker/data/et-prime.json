@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-26T06:30:09+00:00",
+ "generated_at": "2026-09-26T07:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Wed, 23 Sep 2026 06:33:00 GMT",
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 01:08:28 +0530",
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 10:50:34 +0530",
+   "sample_date": "Sat, 26 Sep 2026 12:08:00 +0530",
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 11:28:22 +0530",
    "error": null,
-   "checked_at": "2026-09-26T06:30:09+00:00"
+   "checked_at": "2026-09-26T07:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "fb6bea06dc93f09e",
+   "title": "Stocks to buy for long term: Vedanta Iron and Steel, Vedanta Oil and Gas or Vedanta Power: Which is better? Target, SL",
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-vedanta-iron-and-steel-vedanta-oil-and-gas-or-vedanta-power-which-is-better-target-sl-11790398619797.html",
+   "summary": "Stocks to buy for long term: Experts believe all these three Vedanta Group stocks are better suited to your portfolio from the fundamental perspective, as they are portfolio stocks",
+   "published": "2026-09-26T06:38:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Vedanta_Iron_and_Steel_share_price_target_1790399566558_1srL_1790399566759_sn7Y_e59a9a07-590f-42bd-9098-6d8b60f8d426_6mWV.png",
+   "topics": [],
+   "first_seen": "2026-09-26T07:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5124df597b660ca2",
+   "title": "Greed and Fear index: BEL, Adani Energy to Eternal | Chris Wood's Jefferies India portfolio has 22 stocks for long term",
+   "link": "https://www.livemint.com/market/stock-market-news/greed-and-fear-index-bel-adani-energy-to-eternal-chris-woods-jefferies-india-portfolio-has-22-stocks-for-long-term-11790402739237.html",
+   "summary": "Jefferies' Christopher Wood emphasizes India's structural growth, focusing on rising private investment, particularly in energy and manufacturing. The recent portfolio update reflects this shift, adding Hitachi Energy India while noting potential in sectors like solar and electrification.",
+   "published": "2026-09-26T06:33:26+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/chris_wood_1790404291411_3Dwg_1790404297491_BfpA_aba3f4a6-22b9-4b80-ac0e-e4b4e4009928_pGqy.png",
+   "topics": [],
+   "first_seen": "2026-09-26T07:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0c0469c8a89fab0b",
    "title": "No ATM charges, banks to operate on Sunday: What initiatives did Centre take to minimise disruptions during 3-day strike",
@@ -11430,44 +11466,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/welspun_1789963482822_yH4m_1789963491986_M9wL_6f990c04-227c-4944-a87b-ff324ce3ab87_o21z.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "da97ffd289a5449d",
-   "title": "Dividend record date alert: BEML, IRCTC, Ambika Cotton, others - Check biggest payout | Last chance to buy today",
-   "link": "https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-beml-gocl-irctc-kpi-green-ambika-cotton-among-62-stocks-check-big-11789962628299.html",
-   "summary": "Shares of several companies, including BEML and Ambika Cotton Mills, are poised for increased investor interest due to upcoming dividends. With September 22 set as the record date for nearly 62 firms, September 21 marks the last buying day for related corporate actions.",
-   "published": "2026-09-21T04:07:44+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/dividend_a_1789963550993_xcRv_1789963569003_mYgA_26e7b308-6f96-4885-9700-8232b2a6cbda_vXfe.png",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "5ad09a9ee8c1b4d4",
-   "title": "Xi Jinping US visit: Trump to weigh on rare-earth magnet | Experts bet high on Vedanta, GMDC, Ather Energy, other stocks",
-   "link": "https://www.livemint.com/market/stock-market-news/xi-jinping-us-visit-trump-to-weigh-on-rare-earth-magnet-experts-bet-high-on-vedanta-gmdc-ather-energy-other-stocks-11789959864197.html",
-   "summary": "Xi Jinping US visit: Experts believe Donald Trump may weigh on the rare-earth magnet exports to the US",
-   "published": "2026-09-21T04:04:51+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Xi_Jinping_US_Visit_Vedanta_NMDC_GMDC_Ather_Energy_1789962142593_WRkB_1789962142718_ZxcZ_57db4cd6-49ad-4993-a25b-02e650264650_fIuD.png",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
