@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T08:30:11+00:00",
+ "generated_at": "2026-09-27T09:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 13:39:51 +0530",
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 13:11:48 +0530",
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sept 2026 13:32:52 +0530",
+   "sample_date": "Sun, 27 Sep 2026 14:23:21 +0530",
    "error": null,
-   "checked_at": "2026-09-27T08:30:11+00:00"
+   "checked_at": "2026-09-27T09:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,25 +192,61 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
   {
-   "id": "4f9fa074b5c2779e",
-   "title": "Salary earned abroad, credited to NRE account: Does that make it taxable in India? ITAT ruling explained",
-   "link": "https://www.livemint.com/money/personal-finance/salary-earned-abroad-credited-to-nre-account-does-that-make-it-taxable-in-india-itat-ruling-explained-11790495697091.html",
-   "summary": "A Bengaluru ITAT ruling says foreign salary credited to an Indian NRE account cannot alone make it taxable in India. The taxpayer’s overseas employment, passport and bank records were considered, while the case was sent back for fresh assessment.",
-   "published": "2026-09-27T08:30:11+00:00",
+   "id": "0a18d26f7f97e6fe",
+   "title": "Buying a car for ₹10-15 lakh? Here’s what buyers should check before choosing a new lower-end or used higher-end model",
+   "link": "https://www.livemint.com/money/personal-finance/buying-a-car-for-10-15-lakh-here-s-what-buyers-should-check-before-choosing-a-new-lower-end-or-used-higher-end-model-11790498793388.html",
+   "summary": "A ₹10-15 lakh car budget can buy a new lower-end model or a pre-owned higher-end car. Compare depreciation, loan rates, EMI, maintenance, warranty, insurance and resale value before deciding which offers lower ownership costs.",
+   "published": "2026-09-27T08:53:21+00:00",
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Generted_Image_x6ya0ix6ya0ix6ya_17904960821_1790496089852_xyV8_1790496090077_1erO_5b8a6878-3e20-44e6-a56e-800db813410c_PHoX.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Geerated_Image_6bqbu66bqbu66bqb_179049910_1790499109387_hQd2_1790499109545_d4WC_96c41f52-195c-438f-99e9-7b94458760ec_3c4f.png",
    "topics": [
-    "Income tax"
+    "Budget / policy"
    ],
-   "first_seen": "2026-09-27T08:30:11+00:00",
+   "first_seen": "2026-09-27T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ee3abade70cbe957",
+   "title": "World Tourism Day 2026 special: 5 common money mistakes Indian tourists should avoid",
+   "link": "https://www.livemint.com/money/world-tourism-day-2026-special-5-common-money-mistakes-indian-tourists-should-avoid-11790494641339.html",
+   "summary": "Planning an international trip requires careful budgeting beyond flights and hotels. Indian travelers should avoid common money mistakes that may ruin their experience. Details here.&nbsp;",
+   "published": "2026-09-27T08:51:57+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/trip_1790498833059_qXvY_1790498849001_O2i1_a38c3096-bcb6-4b70-81d5-6fc2536dc74d_UPYz.png",
+   "topics": [],
+   "first_seen": "2026-09-27T09:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "63cca123a6f297d3",
+   "title": "Money gifted to spouse: Can income earned from it be taxed in your hands? Tax expert explains",
+   "link": "https://www.livemint.com/money/personal-finance/money-gifted-to-spouse-can-income-earned-from-it-be-taxed-in-your-hands-tax-expert-explains-11790493056022.html",
+   "summary": "Money gifted to a spouse may not be taxable as a gift, but income earned from it can be clubbed with the donor’s income. Know how spouse clubbing provisions work, including when reinvested income is taxed separately.",
+   "published": "2026-09-27T08:46:36+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Section_99_itr_2025_1790493835647_e5Wf_1790493841260_cnMU_c6f0f886-34fa-4b41-a751-f2c4bdce3285_KHmh.jpg",
+   "topics": [],
+   "first_seen": "2026-09-27T09:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -228,6 +264,26 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Glg65kVa8AEeWWS_1790496012570_BzXU_1790496048426_nm63_0b901c06-e0ee-426c-bed8-417181c4c7c1_XWCB.jpeg",
    "topics": [],
+   "first_seen": "2026-09-27T08:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4f9fa074b5c2779e",
+   "title": "Salary earned abroad, credited to NRE account: Does that make it taxable in India? ITAT ruling explained",
+   "link": "https://www.livemint.com/money/personal-finance/salary-earned-abroad-credited-to-nre-account-does-that-make-it-taxable-in-india-itat-ruling-explained-11790495697091.html",
+   "summary": "A Bengaluru ITAT ruling says foreign salary credited to an Indian NRE account cannot alone make it taxable in India. The taxpayer’s overseas employment, passport and bank records were considered, while the case was sent back for fresh assessment.",
+   "published": "2026-09-27T08:02:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Generted_Image_x6ya0ix6ya0ix6ya_17904960821_1790496089852_xyV8_1790496090077_1erO_5b8a6878-3e20-44e6-a56e-800db813410c_PHoX.png",
+   "topics": [
+    "Income tax"
+   ],
    "first_seen": "2026-09-27T08:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
@@ -315,7 +371,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/EPFO_KYC_178887_1790491174987_Z7ec_1790491175252_1x2s_eba34a52-2ad2-4f38-a3a6-e26afc10612f_EGtY.png",
@@ -333,7 +389,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/GeminiGenerated_Image_t2tpuzt2tpuzt2tp_17904907_1790490768492_cLv8_1790490768646_0Swq_b9d57624-fcec-4f6e-bdc7-bfbee341c835_rkFq.png",
@@ -351,7 +407,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/9933275a-246f-4142-bc10-b230dfdb1d8f_1790488901808_dX0V_1790488913577_f3mA_42cf2b08-6c61-4ff1-a210-13b62a500683_N0CY.png",
@@ -407,7 +463,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/protest_1790485724035_XHfI_1790485724270_TyRl_030923bd-43ea-4816-8a1d-2229474eac76_b7UM.JPG",
@@ -443,7 +499,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Generated_Image_zocopizocopizoc_17904827_1790482714010_6BEb_1790482714178_DmrG_cc021f5f-c93f-4131-9410-0f780b20e13a_ZCwj.png",
@@ -479,7 +535,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/bull_1790481827645_diMd_1790481827912_wYIP_d8a977bf-7ab7-4979-8df5-9a3775ad0f0a_QXWK.png",
@@ -497,7 +553,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/4b9d074f-ba91-4c74-91dc-33a9bcd95917_1790479988348_0oWr_1790479994736_MfZH_e5068220-4ad4-47f0-81b1-a5470b22f3a9_HEgv.jpg",
@@ -533,7 +589,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/e6ba0a49-c1c1-4969-9aa2-4343f1eb9832_1790470153669_oiH8_1790470164352_bRyP_d3356869-e754-43b7-99e5-5571cf3a15d0_vk0Y.png",
@@ -553,7 +609,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Home-home_1790475735672_jylE_1790475735880_jdEW_0638bb64-3a7f-4eb9-98e8-5f95d2d5f4d5_dpH3.jpg",
@@ -591,7 +647,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Generaed_Image_uxjabquxjabquxja_179047570_1790475708504_cANL_1790475708781_zvaa_f211dfd2-665f-4789-8278-aaac29625cfd_1uik.png",
@@ -613,7 +669,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Geerated_Image_l3k0zel3k0zel3k0_17904751_1790475113171_L5Bi_1790475113342_VPHH_c4b6cd24-48a7-4674-9c21-83e157839c6d_MMVU.png",
@@ -633,7 +689,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/ga6998e0fe75cd17bf06f72d8b68dc820f965b6fd93b7dfa8e_1790354534218_hpP6_1790354534544_YgSb_1e12f5f2-d72f-4231-b1fb-d52c2a7bc3f7_j7XK.jpg",
@@ -651,7 +707,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/6092f3c4-7d66-4f88-a182-52cbeea425f8_1790269414402_KW04_1790269423859_ymB9_64a87e34-2cbe-4354-9815-d7e22c00e257_PSEB.png",
@@ -705,7 +761,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/tobacco_scheme_1790446163324_LR3a_1790446174452_jp1K_8c56a037-0aef-407a-aa20-fcee026ffb2c_vb9j.png",
@@ -723,7 +779,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/DTC_drivers_strike_1790082828045_SRL0_179008284250_1790439209475_pKg5_1790439209892_kGRZ_01277055-d13a-4c56-b1d0-86c7bf79e6e6_YPdi.png",
@@ -741,7 +797,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Maharashtra_relief_1790437384660_zmT4_1790437402908_umRd_7d73fc3f-6abc-45d3-90eb-d930d89b544c_zuGC.png",
@@ -759,7 +815,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/farming_1790447861553_9TTh_1790447921440_x4Fn_c40fb72d-b219-4716-8e04-095c40de0ce3_rt6a.png",
@@ -777,7 +833,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/mdr_1790445928889_xbHJ_1790445948705_HRTt_169fc7ad-2a57-4b69-bacc-64bf05bb5fe0_x9RA.png",
@@ -795,7 +851,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/8th_pay_commission_news_1788401458454_ea405b11-bfb_1790431728215_5X90_1790431728481_Wp0h_340f3e6e-9bf9-497b-95cf-a1784378a719_xShx.jpg",
@@ -813,7 +869,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Passive_Investing_1790428744410_wOLh_1790428750094_DhcX_993f69cd-3b4e-490e-822d-7ce405985373_Ud7N.jpg",
@@ -870,7 +926,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/8th_CPC_Mumbai_meet_1790086995574_LZCN_17900870065_1790424053047_k3Ea_1790424053180_fULR_ccb16e46-80bb-48db-976e-31d51621611f_tveo.png",
@@ -888,7 +944,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/DA_1790423890288_Pu6v_1790423890553_2KwD_553d1098-7724-440a-b1ec-89b28b13543a_esUW.png",
@@ -947,7 +1003,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Punjab_DA_1788261144748_1788261174498_c774c8e1-abd7-497a-b6fc-041a79c52523_1790421101299_8v9i_edd61796-ec92-4352-beb4-d97c0fbba8b8_liRq.png",
@@ -1109,7 +1165,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/stamp_duty_1790417942028_wFCo_1790417942435_fxEr_3cb91dc3-595f-4618-8118-3fa289078279_qp9I.png",
@@ -1167,7 +1223,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/bright_1790413237428_JFXJ_1790413244970_hZ87_9bfe3037-b249-49df-867b-d61d8f3159eb_saI4.jpg",
@@ -1187,7 +1243,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/itr_1790414605369_qbcN_1790414605516_7q1c_98bf9865-5945-4301-b63b-b017392cb29f_qCEr.jpg",
@@ -1225,7 +1281,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/estate_1790271967687_NzEP_1790271976642_ST8R_9484bd41-3b4a-40fe-b654-b303fa659d87_erCF.png",
@@ -1265,7 +1321,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/121f3a35-dba6-4d5b-9680-856168fbe4a9_1790089717493_am5Z_1790089740399_ACqe_d4efdff5-8007-4d58-84c0-5d337cd43e57_YCe3.png",
@@ -1283,7 +1339,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/05/07/1600x900/logo/3333_1715080623582_1715080625995.png",
@@ -1301,7 +1357,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2-0-1422536355-iStock-503052802-0_1679748824621_1790411114886_TgnB_fb85353c-a05a-4506-9376-c95a50006c55_DIUk.jpg",
@@ -1339,7 +1395,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/54fb922f-70e3-4450-863b-54ad763a8b45_1790406030525_tSB0_1790406035514_VJrz_332317b9-dcc9-4583-8ad7-853856681c19_ipIb.jpg",
@@ -9509,24 +9565,6 @@
    "valuation_signals": []
   },
   {
-   "id": "87ed1d1bef06237f",
-   "title": "Prime Focus Ltd.",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
-   "summary": "",
-   "published": "2026-09-22T09:53:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-24T07:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "5b5855d11c0611e5",
    "title": "Can Tata Capital stay ahead of rising funding costs?",
    "link": "https://www.livemint.com/market/mark-to-market/tata-capital-share-price-margin-pressure-rbi-rates-11790062281655.html",
@@ -10002,6 +10040,24 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus Ltd.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "",
+   "published": "2026-09-22T06:43:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11403,66 +11459,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/PINE-LABS-IPO-INTERVIEW-0_1763101608407_1763101637552_1789997140446_708C_c7e636a0-bac4-4a71-a826-d3233c5cd0ae_tzpz.JPG",
    "topics": [],
    "first_seen": "2026-09-21T14:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8b1c2da5c563ac14",
-   "title": "Invested in Nifty 50 index mutual funds? Here's why you should consider REITs to diversify your portfolio",
-   "link": "https://www.livemint.com/money/personal-finance/invested-in-nifty-50-index-mutual-funds-heres-why-you-should-consider-reits-to-diversify-your-portfolio-11789991310621.html",
-   "summary": "If you’re invested in Nifty 50 index funds, REITs could offer a different asset exposure. Their positive returns and higher distributions over the past year highlight how REITs could add diversification to an equity-heavy mutual fund portfolio.",
-   "published": "2026-09-21T13:22:38+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/reit_fun_1789994633844_MgU7_1789994639242_ocuG_5667af13-6363-49c8-81d0-21822280b7e0_xXUb.png",
-   "topics": [],
-   "first_seen": "2026-09-21T13:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f6bd7e0b2ccc8af1",
-   "title": "US Fed, Bank of Japan and others impact on Indian stock markets: Global rate hike cycle begins - Sensex, Nifty outlook",
-   "link": "https://www.livemint.com/market/stock-market-news/us-fed-bank-of-japan-and-others-impact-on-indian-stock-markets-global-rate-hike-cycle-begins-sensex-nifty-outlook-11789995507694.html",
-   "summary": "The challenging landscape of 2026 for Dalal Street includes rising inflation and global rate hikes, which may compel the RBI to raise interest rates. This could further impact market conditions, particularly affecting sectors sensitive to borrowing costs.",
-   "published": "2026-09-21T13:21:09+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Bull_and_bear_1789996822547_O0Bn_1789996828456_p7re_64fa3a3a-7f23-4611-8cc6-271ccc86e925_hoh0.png",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-09-21T13:30:09+00:00",
-   "valuation_score": 2,
-   "valuation_signals": [
-    "Rates & macro"
-   ]
-  },
-  {
-   "id": "f091f7accf834127",
-   "title": "DA news: Finance Ministry calls for meetings with PSB, RRB chiefs — Check top updates on 3-day banking sector strike",
-   "link": "https://www.livemint.com/money/personal-finance/da-news-finance-ministry-meetings-public-sector-bank-psbs-regional-rural-rrbs-ceo-top-update-3-day-banking-strike-demand-11789989222934.html",
-   "summary": "The Finance Ministry reportedly called for a meeting with CEOs of public sector banks and regional rural banks today, to discuss measures to ensure smooth continuity of bank operations and essential customers services during the UFBU's 3-day national strike.",
-   "published": "2026-09-21T13:10:29+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/strike_1789984092413_B9Vt_1789984092600_X4qp_e641f_1789996004199_dO7R_1789996004407_Xgrs_a25ef1dc-9cbb-4747-8f85-9abfa0ad7fb8_pGkw.jpg",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-21T13:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
