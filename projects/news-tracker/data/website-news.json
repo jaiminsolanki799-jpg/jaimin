@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-27T12:30:14+00:00",
+ "generated_at": "2026-09-27T13:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
+   "sample_date": "Sat, 26 Sep 2026 11:10:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 9,
-   "items": 9,
+   "fetched": 8,
+   "items": 8,
    "sample_date": "Sat, 26 Sep 2026 06:30:42 GMT",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 27 Sep 2026 01:40:30 +0000",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "57582db99968afad",
+   "title": "NEET paper leak impact: CISF to guard NTA premises",
+   "link": "https://yourstory.com/2026/09/neet-paper-leak-impact-cisf-to-guard-nta-premises",
+   "summary": "The move comes in the wake of the question paper leak of medical entrance exam NEET-UG earlier this year, which had sparked nationwide student protests and led to the resignation of then Union education minister Dharmendra Pradhan.",
+   "published": "2026-09-27T12:42:06+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-27T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fa41442042a7946a",
    "title": "Mobile phone retailers to protest against UPI MDR charges on Oct 2",
@@ -7494,24 +7512,6 @@
    "author": "Muskaan Kapoor",
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-india-today-17-september-2026-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5707a4182493d75b",
-   "title": "Huawei Unveils Atlas 960 to Boost China’s AI Chip Capabilities",
-   "link": "https://startuptalky.com/news/huawei-unveils-atlas-960/",
-   "summary": "Huawei unveils Atlas 960 SuperPoD computer cluster as China looks to ramp up indigenous AI chip capabilities in the face of US tech curbs The new system replaces last year’s Atlas 950 and is aimed to deliver higher performance for AI training and inference.",
-   "published": "2026-09-17T12:37:33+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/huawei-unveils-atlas-960-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,

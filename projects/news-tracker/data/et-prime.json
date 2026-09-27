@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T12:30:14+00:00",
+ "generated_at": "2026-09-27T13:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sep 2026 15:49:42 +0530",
+   "sample_date": "Sun, 27 Sep 2026 18:22:28 +0530",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 17:26:58 +0530",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 17:55:28 +0530",
    "error": null,
-   "checked_at": "2026-09-27T12:30:14+00:00"
+   "checked_at": "2026-09-27T13:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "8dcc9fa349ecbdac",
+   "title": "Embraer partners with Mahindra for IAF’s 60 transport plane tender, teams up with Adani for commercial planes",
+   "link": "https://www.livemint.com/companies/news/embraer-partners-with-mahindra-for-iaf-s-60-transport-plane-tender-teams-up-with-adani-for-commercial-planes-11790513195846.html",
+   "summary": "Embraer has partnered with Mahindra for India's Multi-Role Transport Aircraft program, using the KC-390 Millennium jet. For civilian flights, Embraer collaborates with Adani to meet the growing demand for connectivity.",
+   "published": "2026-09-27T12:52:28+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/Embraer_Mahindra_Adani_1790513407179_UX43_1790513417832_kXUL_dba78613-edbe-4c06-b927-b601bc6ea332_O4K4.jpg",
+   "topics": [],
+   "first_seen": "2026-09-27T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3f24db0b0694b9a0",
+   "title": "Deeptech startups seek easier route to government contracts",
+   "link": "https://www.livemint.com/companies/start-ups/deeptech-startups-government-contracts-procurement-rules-venture-capital-11790491490396.html",
+   "summary": "The reforms in government procurement rules could provide startups with better chances of scaling up by improving their engagement in the procurement process, with a white paper to be released this year.",
+   "published": "2026-09-27T12:45:37+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Deeptech_Pixabay_1790512554382_3VAF_1790512554541_9a1s_9a3af528-5953-4ee8-ab48-633425ac36ff_QB0i.jpg",
+   "topics": [],
+   "first_seen": "2026-09-27T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "51148b1ca8eceeb1",
+   "title": "SIR voter list: IndusInd Bank CEO Rajiv Anand 'unmapped', asked to appear for hearing ‘else my name will be deleted’",
+   "link": "https://www.livemint.com/companies/people/sir-voter-list-indusind-bank-ceo-rajiv-anand-unmapped-asked-to-appear-for-hearing-else-my-name-will-be-deleted-11790510132217.html",
+   "summary": "IndusInd Bank CEO Rajiv Anand said his name has been marked “unmapped” in the electoral roll during SIR, and he was asked to attend a hearing or face deletion from the voter list.",
+   "published": "2026-09-27T12:42:07+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Untitled_design_1790512520796_QvOY_1790512524769_AkEE_d3cfb095-0a04-4583-b104-b493af9756e2_uC9k.png",
+   "topics": [],
+   "first_seen": "2026-09-27T13:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "68d60bfc3b6eff72",
    "title": "Sold house, land, shares or mutual funds? Know 9 reinvestment options to claim capital gains tax exemption",
@@ -11405,60 +11459,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/maxresdefault_1790053539137_cWFm_1790053545929_2SDg_f27c1dfc-0675-43d8-ba91-04741e7fcf41_i6Ta.jpg",
    "topics": [],
    "first_seen": "2026-09-21T18:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f1c8290e62d489af",
-   "title": "India-New Zealand FTA from 20 October: From kiwi to apples and honey, here's what could get cheaper for you",
-   "link": "https://www.livemint.com/money/personal-finance/indianew-zealand-fta-from-20-october-from-kiwi-to-apples-and-honey-heres-what-could-get-cheaper-for-you-11790004510234.html",
-   "summary": "India-New Zealand FTA will come into force on 20 October 2026, lowering or removing import duties on several products. From kiwi and apples to Manuka honey, here’s what could get cheaper for Indian consumers and which products will remain excluded.",
-   "published": "2026-09-21T17:22:43+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/ftaaa_1790009590550_yDgm_1790009600453_Ekyh_b0b1f32c-9019-49c4-942d-87b7a42b397d_6ORR.png",
-   "topics": [],
-   "first_seen": "2026-09-21T17:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0b5b6ce368685efa",
-   "title": "Bank Strike Sept 28-30: What consumers should know about UPI, ATM transaction, cash withdrawal from SBI, HDFC Banks",
-   "link": "https://www.livemint.com/money/bank-strike-sept-28-30-what-consumers-should-know-about-upi-atm-transaction-cash-withdrawal-from-sbi-hdfc-banks-11790007418230.html",
-   "summary": "Bank employees across India will strike for three days starting September 28, seeking a five-day work week. Customers are advised to manage banking tasks in advance, with October 2 being a national holiday. The strike is supported by the United Forum of Bank Unions, representing 90% of employees.",
-   "published": "2026-09-21T17:08:20+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/banks_1790010404293_r6i7_1790010409548_at8M_3aeb6edc-1123-4205-b742-28ff4519dd28_yV8F.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T17:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d95c536f02dad8a0",
-   "title": "Attention, Delhi women! 18.5 lakh Saheli Pink Cards issued; get yours now to continue free bus travel from 1 October",
-   "link": "https://www.livemint.com/money/personal-finance/attention-delhi-women-18-5-lakh-saheli-pink-cards-issued-get-yours-now-to-continue-free-bus-travel-from-1-october-11790000302264.html",
-   "summary": "Delhi’s Pink Saheli Smart Card will be mandatory for free DTC and Cluster bus travel from 1 October. Eligible women and transgender residents aged 5+ can apply using Aadhaar and a linked mobile number. Here's how to get the card, its cost, and its validity.&nbsp;",
-   "published": "2026-09-21T15:57:17+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/saheli_1790003887163_q4sM_1790003898592_JHkY_b8bbcaa2-27bb-44b8-aa1b-c8a6a097a792_80ar.png",
-   "topics": [],
-   "first_seen": "2026-09-21T16:00:16+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
