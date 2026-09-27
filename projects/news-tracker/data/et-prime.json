@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T14:00:10+00:00",
+ "generated_at": "2026-09-27T14:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 19:00:57 +0530",
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 17:26:58 +0530",
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sep 2026 19:22:13 +0530",
+   "sample_date": "Sun, 27 Sep 2026 19:28:24 +0530",
    "error": null,
-   "checked_at": "2026-09-27T14:00:10+00:00"
+   "checked_at": "2026-09-27T14:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "4b84de909a73fdee",
+   "title": "Expecting nil tax liability this year? Know which form to submit to avoid TDS on bank interest, rent and dividend income",
+   "link": "https://www.livemint.com/money/personal-finance/expecting-nil-tax-liability-this-year-know-which-form-to-submit-to-avoid-tds-on-bank-interest-rent-and-dividend-income-11790513596123.html",
+   "summary": "Taxpayers with nil estimated tax liability can avoid TDS on certain incomes by submitting a declaration to the payer. Here’s who can submit Form 121, which incomes are covered, what details are required and what the payer must do after receiving it.",
+   "published": "2026-09-27T13:58:24+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/form_one_tw_1790516518023_eZ90_1790516521806_NSLJ_e158ea1a-66bd-49a3-9537-52a2ca4eb3d3_jJF1.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-27T14:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "5b45ec5ac5135aa5",
    "title": "CM Vijay to launch Tamil Nadu gold ring scheme on 28 Sept: What is it, who is eligible and how does it work? | Explained",
@@ -242,7 +264,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/Embraer_Mahindra_Adani_1790513407179_UX43_1790513417832_kXUL_dba78613-edbe-4c06-b927-b601bc6ea332_O4K4.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Embraer_Mahindra_Adani_1790513407179_UX43_1790513417832_kXUL_dba78613-edbe-4c06-b927-b601bc6ea332_O4K4.jpg",
    "topics": [],
    "first_seen": "2026-09-27T13:00:09+00:00",
    "valuation_score": 0,
@@ -9859,24 +9881,6 @@
    "valuation_signals": []
   },
   {
-   "id": "87ed1d1bef06237f",
-   "title": "Prime Focus Ltd.",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
-   "summary": "",
-   "published": "2026-09-22T09:53:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-24T07:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "5b5855d11c0611e5",
    "title": "Can Tata Capital stay ahead of rising funding costs?",
    "link": "https://www.livemint.com/market/mark-to-market/tata-capital-share-price-margin-pressure-rbi-rates-11790062281655.html",
@@ -10352,6 +10356,24 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus Ltd.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "",
+   "published": "2026-09-22T06:43:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11441,24 +11463,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Babylon_1790014426304_tCbA_1790014443406_Vphk_3bdf7847-5ea4-4523-9e9f-68d4f1816506_pIFp.jpg",
    "topics": [],
    "first_seen": "2026-09-21T18:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7ca3648d1ee8ebd6",
-   "title": "Have ₹1 crore? How to invest the amount, depending on your age; build wealth, balance growth and make the money last",
-   "link": "https://www.livemint.com/money/personal-finance/have-1-crore-how-to-invest-the-amount-depending-on-your-age-build-wealth-balance-growth-and-make-the-money-last-11790011838421.html",
-   "summary": "Having ₹1 crore offers a range of spending options, but setting clear financial goals is crucial. Split the amount for essential expenses, emergencies, investments for growth and personal enjoyment.",
-   "published": "2026-09-21T17:40:50+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/1_crore_1790012419226_725P_1790012429915_SN37_4169c788-dcf4-48f4-bf27-6222753a4a5b_npRw.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T18:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
