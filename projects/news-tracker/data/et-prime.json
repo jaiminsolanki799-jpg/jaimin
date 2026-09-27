@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T15:00:08+00:00",
+ "generated_at": "2026-09-27T15:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 19:00:57 +0530",
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sep 2026 17:26:58 +0530",
+   "sample_date": "Sun, 27 Sep 2026 20:55:57 +0530",
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 19:28:24 +0530",
    "error": null,
-   "checked_at": "2026-09-27T15:00:08+00:00"
+   "checked_at": "2026-09-27T15:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0e7d4c7105d66dec",
+   "title": "IPO rush: Trans ACNR Solutions among 9 companies to file preliminary papers with SEBI | Check list",
+   "link": "https://www.livemint.com/market/ipo/ipo-rush-trans-acnr-solutions-among-9-companies-to-file-preliminary-papers-with-sebi-check-list-11790521805527.html",
+   "summary": "Nine companies, including Trans ACNR Solutions and Maharashtra Oil Extractions, have filed IPO papers with SEBI to raise capital for various needs. The filings were made between September 21 and September 26, with proposals including fresh issues and offer for sale from multiple firms.",
+   "published": "2026-09-27T15:25:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Untitled_design_1790522135889_AGhr_1790522139817_14C2_23667cea-943f-4723-9751-f1d13ccc3a1e_8niA.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-27T15:30:09+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Rules"
+   ]
+  },
   {
    "id": "4b84de909a73fdee",
    "title": "Expecting nil tax liability this year? Know which form to submit to avoid TDS on bank interest, rent and dividend income",
@@ -11445,24 +11468,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/NHAI_FASTag_OneTag_portability_1790014224351_lyth_1790014231793_W2mc_1c8d651b-1923-4bf1-b75d-8d790d71d375_Fnar.png",
    "topics": [],
    "first_seen": "2026-09-21T19:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "80dc540226f9de81",
-   "title": "5 business lessons from The Richest Man In Babylon by George Samuel Clason; make your money work for you and more",
-   "link": "https://www.livemint.com/money/5-business-lessons-from-the-richest-man-in-babylon-by-george-samuel-clason-make-your-money-work-for-you-and-more-11790014300133.html",
-   "summary": "The Richest Man in Babylon by George S. Clason offers timeless financial lessons through ancient parables.",
-   "published": "2026-09-21T18:18:08+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Babylon_1790014426304_tCbA_1790014443406_Vphk_3bdf7847-5ea4-4523-9e9f-68d4f1816506_pIFp.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T18:30:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
