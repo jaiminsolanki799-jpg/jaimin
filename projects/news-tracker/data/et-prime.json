@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T20:00:10+00:00",
+ "generated_at": "2026-09-27T20:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 00:41:47 +0530",
+   "sample_date": "Mon, 28 Sep 2026 01:32:23 +0530",
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 20:55:57 +0530",
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 00:11:55 +0530",
    "error": null,
-   "checked_at": "2026-09-27T20:00:10+00:00"
+   "checked_at": "2026-09-27T20:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "5f0639a03893b99f",
+   "title": "Walmart says its not using personal information to set prices as it expands digital shelf labels",
+   "link": "https://www.livemint.com/companies/walmart-says-its-not-using-personal-information-to-set-prices-as-it-expands-digital-shelf-labels-11790539344317.html",
+   "summary": "Walmart says it's not using personal information to set prices as it expands digital shelf labels",
+   "published": "2026-09-27T20:02:23+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-09-27T20:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cfd0218c3899e66d",
    "title": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
@@ -11449,24 +11467,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/IMG_8762_1790001201647_Q1Nz_1790001214872_0vNj_9a6f9945-4879-4c27-94a0-3322d5b02dd2_VFA2.jpeg",
-   "topics": [],
-   "first_seen": "2026-09-22T01:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9bfc4d75259690bd",
-   "title": "A year after Nayara blip, Microsoft promises Indian clients full sovereign cloud and data control",
-   "link": "https://www.livemint.com/companies/news/a-year-after-nayara-blip-microsoft-promises-indian-clients-full-sovereign-cloud-and-data-control-11789999144448.html",
-   "summary": "The tech giant will grant Indian clients complete legal and technical authority over their cloud data, shielding operations from overseas sanction-led disruptions like last year's Azure outage at Nayara Energy.",
-   "published": "2026-09-22T00:30:13+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Puneet_Chandok_1790009320508_h5df_1790009331297_Z6Lw_313fbbf7-59ce-4bfb-a2c7-600f4aaa3149_mk9c.jpg",
    "topics": [],
    "first_seen": "2026-09-22T01:00:11+00:00",
    "valuation_score": 0,
