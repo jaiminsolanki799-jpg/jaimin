@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-27T20:30:09+00:00",
+ "generated_at": "2026-09-27T21:00:28+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-27T20:30:09+00:00"
+   "checked_at": "2026-09-27T21:00:28+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
+   "sample_date": "Fri, 25 Sep 2026 15:01:51 GMT",
    "error": null,
-   "checked_at": "2026-09-27T20:30:09+00:00"
+   "checked_at": "2026-09-27T21:00:28+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-27T20:30:09+00:00"
+   "checked_at": "2026-09-27T21:00:28+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Sat, 26 Sep 2026 06:30:42 GMT",
    "error": null,
-   "checked_at": "2026-09-27T20:30:09+00:00"
+   "checked_at": "2026-09-27T21:00:28+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 27 Sep 2026 19:57:30 +0000",
+   "sample_date": "Sun, 27 Sep 2026 20:34:28 +0000",
    "error": null,
-   "checked_at": "2026-09-27T20:30:09+00:00"
+   "checked_at": "2026-09-27T21:00:28+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "79b213b7598aad14",
+   "title": "Anthropic’s CEO is about to have dinner with President Trump",
+   "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+   "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+   "published": "2026-09-27T20:34:28+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-27T21:00:28+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eaa520eb586c5ae8",
    "title": "Can Muse overcome Meta’s trust issues?",
