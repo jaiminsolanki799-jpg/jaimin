@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T10:30:10+00:00",
+ "generated_at": "2026-09-27T11:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 15:49:42 +0530",
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 15:31:54 +0530",
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sep 2026 15:06:58 +0530",
+   "sample_date": "Sun, 27 Sep 2026 16:06:23 +0530",
    "error": null,
-   "checked_at": "2026-09-27T10:30:10+00:00"
+   "checked_at": "2026-09-27T11:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "48cea0d141d59a25",
+   "title": "Irdai’s distribution overhaul: Will it make insurance cheaper, curb mis-selling?",
+   "link": "https://www.livemint.com/money/personal-finance/irdais-distribution-overhaul-will-it-make-insurance-cheaper-curb-misselling-11790485109995.html",
+   "summary": "Irdai has proposed commission caps, tighter expense limits and stronger safeguards against mis-selling. But whether the reforms make insurance cheaper and easier to buy and claim will depend on implementation.",
+   "published": "2026-09-27T10:36:23+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/stocks_to_buy_1790240545390_RPlG_1790240551612_l38_1790505153419_51pU_1790505153574_ATSO_b2597f93-52fe-407f-b71d-9d9efbf7df43_extC.png",
+   "topics": [],
+   "first_seen": "2026-09-27T11:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "5920e155c7493678",
    "title": "Alvarez & Marsal eyes 10X India growth in six years: MD Luis de Lucio",
@@ -11438,24 +11456,6 @@
    "topics": [
     "Valuation / M&A"
    ],
-   "first_seen": "2026-09-21T15:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a9ca8bd247b5c50d",
-   "title": "Mastercard to exit Pine Labs in $93 million block deal",
-   "link": "https://www.livemint.com/market/mastercard-to-exit-pine-labs-in-93-million-block-deal-11790000864502.html",
-   "summary": "Mastercard seeks to sell up to 49.7 million shares in Pine Labs through a block deal valued at up to ₹893 crore.",
-   "published": "2026-09-21T15:15:53+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/2-0-117072852-Credit-Card-3C--0_1681805760706_1790003343893_IW60_42926f2b-b5ca-4940-b452-df75e8506dcb_a1od.jpg",
-   "topics": [],
    "first_seen": "2026-09-21T15:30:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
