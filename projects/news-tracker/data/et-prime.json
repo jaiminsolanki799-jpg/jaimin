@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T02:30:10+00:00",
+ "generated_at": "2026-09-27T03:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 07:56:16 +0530",
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 01:04:26 +0530",
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sep 2026 07:53:51 +0530",
+   "sample_date": "Sun, 27 Sep 2026 08:02:21 +0530",
    "error": null,
-   "checked_at": "2026-09-27T02:30:10+00:00"
+   "checked_at": "2026-09-27T03:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "8075c671bb57059e",
+   "title": "Buying property from an NRI gets easier from October 1: Check key rule changes for residents and HUFs",
+   "link": "https://www.livemint.com/money/personal-finance/buying-property-from-an-nri-gets-easier-from-october-1-check-key-rule-changes-for-residents-and-hufs-11790473095505.html",
+   "summary": "Starting October 1, resident individuals and HUFs purchasing properties from non-resident sellers can simplify TDS compliance by using their existing PAN instead of a TAN. Details here.",
+   "published": "2026-09-27T02:32:21+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Home-home_1790475735672_jylE_1790475735880_jdEW_0638bb64-3a7f-4eb9-98e8-5f95d2d5f4d5_dpH3.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-27T03:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c7596ec14f2b21d8",
    "title": "Could Boeing 737 MAX software glitch disrupt navigation feature? Here's what company says on automated flight guidance",
@@ -9139,6 +9159,24 @@
    "valuation_signals": []
   },
   {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus Ltd.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "",
+   "published": "2026-09-22T09:53:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-24T07:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "5b5855d11c0611e5",
    "title": "Can Tata Capital stay ahead of rising funding costs?",
    "link": "https://www.livemint.com/market/mark-to-market/tata-capital-share-price-margin-pressure-rbi-rates-11790062281655.html",
@@ -9614,24 +9652,6 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "87ed1d1bef06237f",
-   "title": "Prime Focus Ltd.",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
-   "summary": "",
-   "published": "2026-09-22T06:43:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-24T07:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11458,24 +11478,6 @@
    "valuation_signals": [
     "Buyback & payout"
    ]
-  },
-  {
-   "id": "486b049f0521dd2c",
-   "title": "What is duration risk in debt funds and how does it affect your NAV? 4 things investors should know",
-   "link": "https://www.livemint.com/money/personal-finance/what-is-duration-risk-in-debt-funds-and-how-does-it-affect-your-nav-4-things-investors-should-know-11789981075023.html",
-   "summary": "Debt fund NAVs can fluctuate when bond yields change, with longer-duration portfolios generally more sensitive to interest-rate movements. Investors should assess modified duration along with maturity, credit quality, yield-to-maturity and their investment horizon.",
-   "published": "2026-09-21T09:05:41+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Gemini_Generted_Image_zbdruczbdruczbdr_17899813_1789981407860_1rct_1789981408024_yMiE_c8558ebd-5a8a-44cd-b1ea-47db95ee5ef4_4oRF.png",
-   "topics": [],
-   "first_seen": "2026-09-21T09:30:15+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
