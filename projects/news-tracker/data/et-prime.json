@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T00:00:08+00:00",
+ "generated_at": "2026-09-27T00:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 26 Sep 2026 16:28:51 +0530",
+   "sample_date": "Sun, 27 Sep 2026 05:51:27 +0530",
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 01:04:26 +0530",
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 26 Sep 2026 23:50:17 +0530",
    "error": null,
-   "checked_at": "2026-09-27T00:00:08+00:00"
+   "checked_at": "2026-09-27T00:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "80660e3761d5e28d",
+   "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+   "link": "https://www.livemint.com/companies/chinas-consumer-stocks-face-lost-decade-as-ai-steals-spotlight-11790468488047.html",
+   "summary": "Under the shadow of Beijing’s single-minded focus on artificial intelligence, China’s consumer stocks are trapped in a lost decade.",
+   "published": "2026-09-27T00:21:27+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+   "topics": [],
+   "first_seen": "2026-09-27T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d337172685fea1d4",
    "title": "Rate Market Fear Gauge Is Warning for Corporates: Credit Weekly",
@@ -11452,24 +11470,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/smallcap_1789979316293_I2rI_1789979316430_ohf1_7ea06803-4579-455c-8bf1-7e82a73cbcf4_cG1S.png",
-   "topics": [],
-   "first_seen": "2026-09-21T09:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f44619335fc82c7f",
-   "title": "Adani Total Gas: Why investor preference for the stock is intriguing",
-   "link": "https://www.livemint.com/market/mark-to-market/adani-total-gas-share-price-valuation-igl-mgl-city-gas-distribution-11789974534573.html",
-   "summary": "ATGL's market capitalization of about ₹70,000 crore remains significantly higher than comparable city gas distribution (CGD) peers such as Indraprastha Gas Ltd (IGL) and Mahanagar Gas Ltd (MGL) that have a market value of of almost ₹20,800 crore and ₹10600 crore, respectively.",
-   "published": "2026-09-21T08:27:18+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/FITCH-ADANI--0_1732893367416_1789978900495_KAVJ_e64bf2e1-04c7-4782-a800-9bd37710406f_qI4O.JPG",
    "topics": [],
    "first_seen": "2026-09-21T09:00:09+00:00",
    "valuation_score": 0,
