@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-27T11:30:08+00:00",
+ "generated_at": "2026-09-27T12:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "ok": true,
+   "fetched": 4,
+   "items": 2,
+   "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
+   "error": null,
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 15:49:42 +0530",
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 27 Sep 2026 15:31:54 +0530",
+   "sample_date": "Sun, 27 Sep 2026 17:24:12 +0530",
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 27 Sep 2026 16:58:44 +0530",
    "error": null,
-   "checked_at": "2026-09-27T11:30:08+00:00"
+   "checked_at": "2026-09-27T12:00:08+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,26 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "c2ecb1ee72502f50",
+   "title": "Fortis says it is ‘complete stranger’ to Daiichi-Singh Brothers dispute after SC allows forensic audit | Shares in focus",
+   "link": "https://www.livemint.com/market/stock-market-news/fortis-says-it-is-complete-stranger-to-daiichi-singh-brothers-dispute-after-sc-allows-forensic-audit-shares-in-focus-11790503647988.html",
+   "summary": "In June 2018, the newly constituted independent Board, with the support of established investment bankers and legal advisors, initiated a competitive bidding process to identify and induct a new investor into the company.",
+   "published": "2026-09-27T11:54:12+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/fortis_1790505449659_RLG6_1790505449839_yWuV_6cba68bf-757d-4713-aa44-37ddeb5dff6c_Scbx.png",
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-09-27T12:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "366580f64e44af8f",
    "title": "Invested in a top-performing mutual fund? Why strong returns may not translate into similar gains for you",
@@ -11435,24 +11455,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/USA-TESLA--0_1790004388172_jcf8_1790004465319_R9PV_1611b97e-aff9-440f-8f89-ad9aefc5e4e2_nIdd.JPG",
-   "topics": [],
-   "first_seen": "2026-09-21T16:00:16+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8a210646cb73c467",
-   "title": "AMD joins $1 trillion club as shares surge over 180% in 2026 — what’s driving the chipmaker’s massive rally?",
-   "link": "https://www.livemint.com/market/stock-market-news/amd-joins-1-trillion-club-as-shares-surge-over-180-in-2026-what-s-driving-the-chipmaker-s-massive-rally-11790003392477.html",
-   "summary": "Advanced Micro Devices shares surged 10% to a record $616, entering the $1 trillion market-cap club. Its rally reflects renewed optimism in chip stocks amid declining energy prices and rising demand for AI products, despite concerns over inflation and competition from Nvidia.",
-   "published": "2026-09-21T15:45:56+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/AMD_1790005115406_upj5_1790005123964_9Rk0_93b4627c-c031-44d6-96c8-33942b06ded0_9IjN.jpeg",
    "topics": [],
    "first_seen": "2026-09-21T16:00:16+00:00",
    "valuation_score": 0,
