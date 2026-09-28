@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T01:30:09+00:00",
+ "generated_at": "2026-09-28T02:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 06:00:57 +0530",
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 06:54:03 +0530",
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 00:11:55 +0530",
+   "sample_date": "Mon, 28 Sep 2026 07:10:53 +0530",
    "error": null,
-   "checked_at": "2026-09-28T01:30:09+00:00"
+   "checked_at": "2026-09-28T02:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "93cc9f2415e4d4c4",
+   "title": "Tax audit due date remains Sept 30: No extension yet — Here's how much penalty you could face for late filing",
+   "link": "https://www.livemint.com/money/personal-finance/tax-audit-due-date-remains-sept-30-no-extension-yet-heres-how-much-penalty-you-could-face-for-late-filing-11790556806407.html",
+   "summary": "The September 30 deadline for taxpayers to submit tax audit reports is approaching, with no extensions granted yet. Here's the penalty for late filing.&nbsp;",
+   "published": "2026-09-28T01:40:53+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/audit_1790559564783_X4vv_1790559565039_F4NC_cd3207b4-3e48-4c5f-a962-74957d137cdf_aCMT.png",
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-09-28T02:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bfcc4ff75076482b",
    "title": "Wheat falls as markets monitor Black Sea export prospects",
@@ -488,7 +508,7 @@
    "id": "de13eca002806d01",
    "title": "3-day bank strike deferred: What happened during union body meet? Will SBI, HDFC Bank now remain open 5 days a week?",
    "link": "https://www.livemint.com/money/3-day-bank-strike-deferred-what-happened-during-iba-ubfu-meet-will-sbi-hdfc-and-o-now-remain-open-5-days-a-week-11790531936213.html",
-   "summary": "The nationwide bank strike scheduled for September 28-30 has been deferred after IBA and UFBU reached an agreement. The decision offers temporary relief to customers of banks such as SBI &amp; HDFC Bank, while discussions will now focus on a five-day banking week and unresolved issues.",
+   "summary": "The nationwide bank strike scheduled for 28-30 September has been deferred following an agreement between the IBA and the UFBU. The decision offers temporary relief to bank customers, including those of SBI and HDFC Bank, while discussions will focus on a five-day banking week and unresolved issues.",
    "published": "2026-09-27T18:41:55+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -11453,26 +11473,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "d23d21dd50b56965",
-   "title": "Paytm is looking beyond payments. What it means for the stock",
-   "link": "https://www.livemint.com/market/stock-market-news/paytm-is-looking-beyond-payments-what-it-means-for-the-stock-11789987671394.html",
-   "summary": "Stronger profits, tighter spending and a push into wealth products are reshaping Paytm’s growth story, while competition, regulation and a steep valuation remain key risks.",
-   "published": "2026-09-22T02:30:34+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/INDIA-PAYMENTS-UPI-0_1789989931549_zFcp_1789989953455_GtN6_ffee7ab0-1b37-49ea-968c-f0d1746a2beb_RQ0D.JPG",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-22T03:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
