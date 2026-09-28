@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T08:30:13+00:00",
+ "generated_at": "2026-09-28T09:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:30:13+00:00"
+   "checked_at": "2026-09-28T09:00:10+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:30:13+00:00"
+   "checked_at": "2026-09-28T09:00:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 08:14:35 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:30:13+00:00"
+   "checked_at": "2026-09-28T09:00:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:30:13+00:00"
+   "checked_at": "2026-09-28T09:00:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T08:30:13+00:00"
+   "checked_at": "2026-09-28T09:00:10+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
   {
    "id": "073842d52b2abfe7",
@@ -279,6 +279,26 @@
    "first_seen": "2026-09-28T06:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
+  },
+  {
+   "id": "0f18a57060666ad2",
+   "title": "Indian Startups Funding and Investors Data for 2026 (Updated Weekly)",
+   "link": "https://startuptalky.com/indian-startups-funding-investors-data-2026/",
+   "summary": "Explore Indian startup funding updates 2026 with weekly tables covering funding amounts, sectors, and key investors. Track the latest funding news in India.",
+   "published": "2026-09-28T05:41:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/01/indian-startups-funding-investors-data-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T09:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "8f53d85b4181090a",
