@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T14:30:09+00:00",
+ "generated_at": "2026-09-28T15:00:24+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:30:09+00:00"
+   "checked_at": "2026-09-28T15:00:24+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 10:54:58 GMT",
+   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:30:09+00:00"
+   "checked_at": "2026-09-28T15:00:24+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 28 Sep 2026 13:41:05 GMT",
+   "sample_date": "Mon, 28 Sep 2026 14:45:14 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:30:09+00:00"
+   "checked_at": "2026-09-28T15:00:24+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 13,
-   "items": 13,
+   "fetched": 12,
+   "items": 12,
    "sample_date": "Mon, 28 Sep 2026 05:05:31 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:30:09+00:00"
+   "checked_at": "2026-09-28T15:00:24+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 14:30:00 +0000",
+   "sample_date": "Mon, 28 Sep 2026 15:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T14:30:09+00:00"
+   "checked_at": "2026-09-28T15:00:24+00:00"
   }
  ],
  "topics": [
@@ -74,6 +74,82 @@
  "new_since_last_run": 8,
  "items": [
   {
+   "id": "31ac3c58c3d5df5e",
+   "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+   "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+   "published": "2026-09-28T15:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T15:00:24+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "52035eff27e32315",
+   "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
+   "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+   "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+   "published": "2026-09-28T14:50:30+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T15:00:24+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dcbc7850b734fcde",
+   "title": "Daily Indian Funding Roundup & Key News - 28 September 2026: Balwaan Krishi Raises ₹100 Crore, SC Refuses To Stay UPI MDR",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-28-september-2026/",
+   "summary": "Here's your daily dose of Indian startup funding roundup and key business news for 28 September 2026. Balwaan Krishi raises INR 100 crore, and the Supreme Court refuses to stay the UPI MDR framework.",
+   "published": "2026-09-28T14:45:14+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/daily-indian-funding-roundup-key-news-28-september-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T15:00:24+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "30b5b0e6e75b113f",
+   "title": "Tata Trusts propose Tata Sons rejig to keep it private",
+   "link": "https://yourstory.com/2026/09/tata-trusts-propose-tata-sons-rejig-to-keep-it-private",
+   "summary": "The Tata Trusts have asked the Tata Sons board to consider the plan and seek a prior no-objection certificate from the Reserve Bank of India.",
+   "published": "2026-09-28T14:32:44+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-28T15:00:24+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "1766de63251c73b9",
    "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
@@ -88,6 +164,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T14:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a3e3444dc6212da3",
+   "title": "Gold and Silver Prices in India Today, 28 September 2026: Gold at ₹148,010, Silver at ₹227,640 as Both Tumble",
+   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-28-september-2026-rates-fall-sharply/",
+   "summary": "Gold and silver rates today in India, 28 September 2026. 24K gold trades at ₹148,010 per 10g and silver at ₹227,640 per kg, both tumbling as Fed rate hike fears and high oil prices hit metals. Check city wise rates and MCX data below.",
+   "published": "2026-09-28T14:21:56+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/gold-silver-prices-india-today-28-september-2026-rates-fall-sharply-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T15:00:24+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
