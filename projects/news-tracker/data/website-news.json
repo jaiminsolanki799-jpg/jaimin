@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T05:00:09+00:00",
+ "generated_at": "2026-09-28T05:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 13,
-   "items": 13,
+   "fetched": 12,
+   "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T05:00:09+00:00"
+   "checked_at": "2026-09-28T05:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
+   "sample_date": "Sat, 26 Sep 2026 11:10:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T05:00:09+00:00"
+   "checked_at": "2026-09-28T05:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-28T05:00:09+00:00"
+   "checked_at": "2026-09-28T05:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 6,
-   "items": 6,
+   "fetched": 7,
+   "items": 7,
    "sample_date": "Sat, 26 Sep 2026 06:30:42 GMT",
    "error": null,
-   "checked_at": "2026-09-28T05:00:09+00:00"
+   "checked_at": "2026-09-28T05:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T05:00:09+00:00"
+   "checked_at": "2026-09-28T05:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "f2a14e6d4e83b697",
+   "title": "Amaani raises $5M in Series A",
+   "link": "https://yourstory.com/2026/09/amaani-raises-5-million-in-series-a",
+   "summary": "Amaani will use this funding round for expansion of its brand, product development, and enhancing technology",
+   "published": "2026-09-28T05:28:21+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T05:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "df6111eaa403ca44",
+   "title": "Beauty and wellness startup Amaani raises $5 Mn led by BECO Capital",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGpwMmQ0WFhDYXIwdy1EYUI1WnFJbXlMdjVIanpzeVk2X3lxNVZFZVFCZDRxMHJ0bks3Q1RWT0w5ak83Mi1XTllwTXdkZzRjQWNBV3JFRmlOVXNWODQ5c25saklMeUF5YWRvWWswOHN3c21sWHhmbmQtUUJaYUZiY0R5bmFYcDNNX0N1OHRRN2lTVWJNY0JRMENDaEdOQ25qYlhqdU9RNkzSAagBQVVfeXFMTkxqcDJkNFhYQ2FyMHctRGFCNVpxSW15THY1SGp6c3lZNl95cTVWRWVRQmQ0cTBydG5LN0NUVk9MOWpPNzItV05ZcE13ZGc0Y0FjQVdyRUZpTlVzVjg0OXNubGpJTHlBeWFkb1lrMDhzd3NtbFh4Zm5kLVFCWmFGYmNEeW5hWHAzTV9DdTh0UTdpU1ViTWNCUTBDQ2hHTkNuamJYanVPUTZM?oc=5",
+   "summary": "",
+   "published": "2026-09-28T05:05:31+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T05:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "70addb5019474741",
    "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
