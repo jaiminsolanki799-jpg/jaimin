@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T10:30:10+00:00",
+ "generated_at": "2026-09-28T11:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T10:30:10+00:00"
+   "checked_at": "2026-09-28T11:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 09:48:12 GMT",
    "error": null,
-   "checked_at": "2026-09-28T10:30:10+00:00"
+   "checked_at": "2026-09-28T11:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 28 Sep 2026 09:40:33 GMT",
+   "sample_date": "Mon, 28 Sep 2026 10:30:43 GMT",
    "error": null,
-   "checked_at": "2026-09-28T10:30:10+00:00"
+   "checked_at": "2026-09-28T11:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
-   "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
+   "fetched": 9,
+   "items": 9,
+   "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-28T10:30:10+00:00"
+   "checked_at": "2026-09-28T11:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T10:30:10+00:00"
+   "checked_at": "2026-09-28T11:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "e3d0e02c4160c8b0",
+   "title": "\"Fundraising is tortuous\": Nat Malupillai on how IIT Madras’ new fund gives founders room to breathe",
+   "link": "https://yourstory.com/2026/09/fundraising-tortuous-nat-malupillai-iit-madras-new-fund-gives-founders-room-breathe",
+   "summary": "IIT Madras Research Park and Unicorn India Ventures have launched the Rs 1,000-crore Frontier Fund I to provide patient capital to early-stage deep-tech startups. Group CEO Nat Malupillai explains how the fund eliminates fundraising distractions.",
+   "published": "2026-09-28T10:54:58+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T11:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "3e0fe3acfa13655b",
+   "title": "Airbnb, Tourism Ministry Launch Partnership to Boost Homestays in Emerging Destinations",
+   "link": "https://startuptalky.com/news/airbnb-tourism-ministry-launch-partnership/",
+   "summary": "Airbnb and India’s Ministry of Tourism have struck a two-year MoU to enhance the country’s homestay economy and promote growing tourism destinations. The relationship will cover digital onboarding, training, hospitality best practices, listing development, pricing and platform features.",
+   "published": "2026-09-28T10:30:43+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/airbnb-tourism-ministry-launch-partnership-Startuptalky.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-28T11:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9e0ea75ba61995d4",
    "title": "Every few years Ram Sukumar remakes Indium. AI is his best chance yet",
@@ -7782,24 +7822,6 @@
    "author": "Nitin Konde",
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/09/apple-pay-may-launch-in-india-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "920eae16727b7bba",
-   "title": "Nestlé India Under FSSAI Scrutiny Over Infant Products and Marketing Claims",
-   "link": "https://startuptalky.com/news/nestle-india-under-fssai-scrutiny/",
-   "summary": "The FSSAI has taken action against Nestlé India for alleged non-compliance for three baby nutrition products – NAN Excella Pro Stage 1, Lactogen Pro 1 and another formula. The cases, which claimed violations of India’s baby nourishment rules, are still being adjudicated.",
-   "published": "2026-09-18T10:40:32+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/nestle-india-under-fssai-scrutiny-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
