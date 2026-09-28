@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T15:30:12+00:00",
+ "generated_at": "2026-09-28T16:00:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 20:55:13 +0530",
+   "sample_date": "Mon, 28 Sep 2026 21:06:16 +0530",
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 20:43:52 +0530",
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 20:52:36 +0530",
    "error": null,
-   "checked_at": "2026-09-28T15:30:12+00:00"
+   "checked_at": "2026-09-28T16:00:16+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "36c84955dd33d994",
+   "title": "Tata Trusts proposes rejig to keep Tata Sons private, avoid IPO to comply with RBI rules — Here's what could change",
+   "link": "https://www.livemint.com/companies/news/tata-trusts-propose-rejig-tata-sons-keep-private-no-ipo-listing-rbi-rule-what-change-merge-tess-tata-consulting-engineer-11790605492614.html",
+   "summary": "Tata Trusts has proposed merging Tata Sons with Tata Electronics and Tata Consulting Engineers to restructure and avoid classification as an NBFC, potentially eliminating the need for a stock market listing.&nbsp;",
+   "published": "2026-09-28T15:36:16+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Tata_Sons_1790609313229_sxol_1790609318095_Y8Rd_77aff856-8e8d-43f0-a728-aa0a31ca1df7_uVCm.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-28T16:00:16+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "c8f5ae4e6fe6aedb",
    "title": "Sebi settles case against Adani Group companies over public shareholding allegations",
@@ -350,9 +373,9 @@
   },
   {
    "id": "427ed70880d3ead3",
-   "title": "Tata Trusts moves to merge units with Tata Sons to fend off listing by RBI",
+   "title": "Tata Trusts moots two mergers to avoid Tata Sons listing",
    "link": "https://www.livemint.com/companies/news/tata-trusts-tata-sons-restructuring-ipo-listing-rbi-11790599919373.html",
-   "summary": "Move is meant to remove the Group’s Core Investment Company status, which the main shareholder believes will help it avoid the Reserve Bank of India’s order to list on a stock exchange.",
+   "summary": "Move is meant to nix the group’s core investment company status, which the main shareholder believes will help it avoid the Reserve Bank of India’s order to list on a stock exchange.",
    "published": "2026-09-28T13:18:48+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -11433,24 +11456,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/8th_CPC_Mumbai_meet_1790086995574_LZCN_1790087006587_d5ab_e5819ca2-6f6f-4903-ba18-5a74f44997dd_zzjD.png",
    "topics": [],
    "first_seen": "2026-09-22T14:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f624e7042be35a42",
-   "title": "Disclosure gap at heart of Chandra family's TVS link",
-   "link": "https://www.livemint.com/companies/news/tat-sons-chandrasekaran-family-tvs-link-went-undisclosed-venu-srinivasan-judged-his-term-11790084628035.html",
-   "summary": "Filings show that family members of Tata Sons chairman N Chandrasekaran hold business relations with TVS Motor Co. Ltd, a firm led by Venu Srinivasan, who recently cast a decisive board vote backing Chandrasekaran's fresh term.",
-   "published": "2026-09-22T14:25:51+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/PTI09-17-2026-000279A-0_1790086981147_0Flc_1790086981322_r9FD_b9ba639c-b28a-46be-8d93-4cb1c7c64e50_oDy6.jpg",
-   "topics": [],
-   "first_seen": "2026-09-22T15:00:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
