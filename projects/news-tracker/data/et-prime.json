@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T22:30:09+00:00",
+ "generated_at": "2026-09-28T23:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 01:47:42 +0530",
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 02:55:50 +0530",
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 00:15:27 +0530",
    "error": null,
-   "checked_at": "2026-09-28T22:30:09+00:00"
+   "checked_at": "2026-09-28T23:00:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "f6e193410a5148fa",
+   "title": "How Irdai’s big reset can change insurance landscape, customer choice",
+   "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-irdais-big-reset-can-change-insurance-landscape-customer-choice/primearticleshow/134544907.cms",
+   "summary": "",
+   "published": "2026-09-28T23:00:08+00:00",
+   "source": "ET Prime: Fintech & BFSI",
+   "group": "ET Prime",
+   "category": "Fintech & BFSI",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T23:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b536a74c188c46a8",
+   "title": "FCNR (B) scheme garners USD65 bn, but why isn't the rupee gaining?",
+   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/fcnr-b-scheme-garners-usd65-bn-but-why-isnt-the-rupee-gaining/primearticleshow/133443534.cms",
+   "summary": "",
+   "published": "2026-09-28T23:00:08+00:00",
+   "source": "ET Prime: Economy & policy",
+   "group": "ET Prime",
+   "category": "Economy & policy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T23:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "81c36138590a0112",
    "title": "Rupee is stabilising, but another currency risk is staring at India Inc",
@@ -11415,42 +11451,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/presidentimg_1790063763926_IJx5_1790063770828_VVzh_579b1a0f-7434-4ea9-826d-dffedecb973e_fL3O.jpeg",
    "topics": [],
    "first_seen": "2026-09-23T01:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "94a860e0ae76f672",
-   "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
-   "link": "https://www.livemint.com/market/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path-11790122783726.html",
-   "summary": "Gold was steady as traders monitored progress in talks between the US and Iran for clues on how energy costs will influence the Federal Reserve’s path for interest rates.",
-   "published": "2026-09-23T00:19:43+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-   "topics": [],
-   "first_seen": "2026-09-23T00:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bf89ce01287d963e",
-   "title": "Oil Extends Slump on Iran Talks Optimism, Saudi Pipeline Outlook",
-   "link": "https://www.livemint.com/market/oil-extends-slump-on-iran-talks-optimism-saudi-pipeline-outlook-11790120533470.html",
-   "summary": "Oil extended losses as the US flagged progress in talks with Iran to end their war, and Saudi Arabia moved to restart a key pipeline.",
-   "published": "2026-09-22T23:42:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-   "topics": [],
-   "first_seen": "2026-09-23T00:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
