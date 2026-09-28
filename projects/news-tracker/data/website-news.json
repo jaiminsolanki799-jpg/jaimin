@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T12:00:14+00:00",
+ "generated_at": "2026-09-28T12:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T12:00:14+00:00"
+   "checked_at": "2026-09-28T12:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 11:10:00 GMT",
+   "sample_date": "Mon, 28 Sep 2026 10:54:58 GMT",
    "error": null,
-   "checked_at": "2026-09-28T12:00:14+00:00"
+   "checked_at": "2026-09-28T12:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 11:05:33 GMT",
    "error": null,
-   "checked_at": "2026-09-28T12:00:14+00:00"
+   "checked_at": "2026-09-28T12:30:13+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 10,
-   "items": 10,
-   "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
+   "fetched": 12,
+   "items": 12,
+   "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
    "error": null,
-   "checked_at": "2026-09-28T12:00:14+00:00"
+   "checked_at": "2026-09-28T12:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T12:00:14+00:00"
+   "checked_at": "2026-09-28T12:30:13+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,46 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "d1b7cfff79078950",
+   "title": "Moneyview IPO sees nearly 100X subscription on final day",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmc1MU9FRkFWX1l4QjdaeHJwX1pVMDAyWE1WZXUtT0dReXlTbG9UbTVCam12bnM3anAxTkViYnAyb2FtZlVnVXJNYnJPRjJxcV9fbEFJTkdNOXFkQjhnT2t3VkdpU2JhS2M2ZTRGaHdLRlYzMGFRTVhNTVpiWjBUa05RX2lPRU41R0RHX3FKNG9qcXN0bmfSAZYBQVVfeXFMTkZnNTFPRUZBVl9ZeEI3WnhycF9aVTAwMlhNVmV1LU9HUXl5U2xvVG01Qmptdm5zN2pwMU5FYmJwMm9hbWZVZ1VyTWJyT0YycXFfX2xBSU5HTTlxZEI4Z09rd1ZHaVNiYUtjNmU0Rmh3S0ZWMzBhUU1YTU1aYlowVGtOUV9pT0VONUdER19xSjRvanFzdG5n?oc=5",
+   "summary": "",
+   "published": "2026-09-28T12:12:30+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-28T12:30:13+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "eac7f73d9a20b86e",
+   "title": "Entrackr’s The Spur D2C Mixer brings together over 40 founders and 10 investors",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkJUYlExQ1dxbXRySGhCY1Zib3p3UFVMXzhDdXQ0ek9EMzZ5TmVwYU5nemtyX3A1MTRnR0tUXzM3QkNzRTNqN0p1Z09HXzVCTEV5ZUpNc2I0TWlBN2g5Z3E0bXNYODBnYUw5UGNZcWNCZ29UVV9IVnc3OGR5Y2lHSjlQQXFVY3c5ZDBialBhTTZuY0dWZDZzdy1jdUQwRFlwd0ZWc2FBMWRvWTJtMVVucFc0TmnSAbQBQVVfeXFMTXZCVGJRMUNXcW10ckhoQmNWYm96d1BVTF84Q3V0NHpPRDM2eU5lcGFOZ3prcl9wNTE0Z0dLVF8zN0JDc0UzajdKdWdPR181QkxFeWVKTXNiNE1pQTdoOWdxNG1zWDgwZ2FMOVBjWXFjQmdvVFVfSFZ3NzhkeWNpR0o5UEFxVWN3OWQwYmpQYU02bmNHVmQ2c3ctY3VEMERZcHdGVnNhQTFkb1kybTFVbnBXNE5p?oc=5",
+   "summary": "",
+   "published": "2026-09-28T12:00:41+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7b7f49b5498efcea",
    "title": "5 must-read books before September comes to an end",
@@ -276,6 +316,24 @@
    "image": "https://static.startuptalky.com/2025/07/Cadbury-Marketing-Strategy-StartupTalky-1.jpg",
    "topics": [],
    "first_seen": "2026-09-28T08:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a210de137c1db1df",
+   "title": "RummyCulture",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5STTJ3RmktNURSU0U5VjI1UWJhZDlJNFJfckI3ZURSVTJUdjZCX1RnZmQ5SW1iUFJYamFKVWdoNUFNSDdEbWJQZEcyWjdqX28?oc=5",
+   "summary": "",
+   "published": "2026-09-28T08:02:18+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T12:30:13+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
