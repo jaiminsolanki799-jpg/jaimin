@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T04:30:08+00:00",
+ "generated_at": "2026-09-28T05:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T04:30:08+00:00"
+   "checked_at": "2026-09-28T05:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
+   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T04:30:08+00:00"
+   "checked_at": "2026-09-28T05:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-28T04:30:08+00:00"
+   "checked_at": "2026-09-28T05:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 6,
    "sample_date": "Sat, 26 Sep 2026 06:30:42 GMT",
    "error": null,
-   "checked_at": "2026-09-28T04:30:08+00:00"
+   "checked_at": "2026-09-28T05:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 27 Sep 2026 20:34:28 +0000",
+   "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T04:30:08+00:00"
+   "checked_at": "2026-09-28T05:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "70addb5019474741",
+   "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+   "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+   "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+   "published": "2026-09-28T04:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T05:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6ee01cd8c3314a0d",
    "title": "OpenAI hits pause on powerful AI; NEET leak fallout sees CISF step in",
