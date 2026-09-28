@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T08:00:10+00:00",
+ "generated_at": "2026-09-28T08:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:00:10+00:00"
+   "checked_at": "2026-09-28T08:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:00:10+00:00"
+   "checked_at": "2026-09-28T08:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 28 Sep 2026 07:16:20 GMT",
+   "sample_date": "Mon, 28 Sep 2026 08:14:35 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:00:10+00:00"
+   "checked_at": "2026-09-28T08:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
    "error": null,
-   "checked_at": "2026-09-28T08:00:10+00:00"
+   "checked_at": "2026-09-28T08:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T08:00:10+00:00"
+   "checked_at": "2026-09-28T08:30:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "073842d52b2abfe7",
+   "title": "UPI MDR: SC seeks responses from Centre, RBI",
+   "link": "https://yourstory.com/2026/09/upi-mdr-sc-seeks-responses-from-centre-rbi",
+   "summary": "The bench of the Supreme Court refused to grant any interim stay on the decision to introduce merchant discount rate on UPI payment",
+   "published": "2026-09-28T08:20:37+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-28T08:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f504cdc2e4ec97bd",
+   "title": "HSBC Expands India Wealth Strategy to Attract Affluent Clients",
+   "link": "https://startuptalky.com/news/hsbc-expands-india-wealth-strategy/",
+   "summary": "HSBC is stepping up its wealth management playbook in India to target high networth clients and expand its footprint beyond the major cities. The bank wants to grow the number of branches from current 34 to 46 in next two years.",
+   "published": "2026-09-28T08:14:35+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/hsbc-expands-india-wealth-strategy-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T08:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cd689ab0b5856ea3",
+   "title": "Cadbury Marketing Strategy: Target Market, Advertising Tactics & Dairy Milk Success",
+   "link": "https://startuptalky.com/cadbury-marketing-strategies/",
+   "summary": "Discover Cadbury’s marketing strategy in 2026, from emotional storytelling and iconic campaigns to digital marketing, product innovation, personalisation, cricket and festival-led campaigns.",
+   "published": "2026-09-28T08:11:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Apoorva Bajj",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/07/Cadbury-Marketing-Strategy-StartupTalky-1.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T08:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d648361b64f390ee",
    "title": "OpenAI teams up with Sachin Tendulkar to demystify AI in India",
@@ -7693,26 +7749,6 @@
    "image": "https://static.startuptalky.com/2025/10/mohit-yadav-success-story-startuptalky-1.jpg",
    "topics": [
     "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f61380cf6714e3c4",
-   "title": "FMCG Distributors Seek Zero-MDR Policy for Merchant UPI Transactions",
-   "link": "https://startuptalky.com/news/fmcg-distributors-seek-zero-mdr/",
-   "summary": "The All India Consumer Products Distributors Federation (AICPDF) has asked the government to maintain zero-MDR UPI transactions for merchants, saying the planned taxes could put pressure on low-margin FMCG businesses. The federation asked the Prime Minister for clarity on the INR 1 lakh barrier.",
-   "published": "2026-09-18T08:04:29+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/fmcg-distributors-seek-zero-mdr-Startuptalky.jpg",
-   "topics": [
-    "Budget / policy"
    ],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
