@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T14:00:09+00:00",
+ "generated_at": "2026-09-28T14:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:00:09+00:00"
+   "checked_at": "2026-09-28T14:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 06:22:32 GMT",
+   "sample_date": "Mon, 28 Sep 2026 10:54:58 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:00:09+00:00"
+   "checked_at": "2026-09-28T14:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 13:41:05 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:00:09+00:00"
+   "checked_at": "2026-09-28T14:30:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 12,
-   "items": 12,
+   "fetched": 13,
+   "items": 13,
    "sample_date": "Mon, 28 Sep 2026 05:05:31 GMT",
    "error": null,
-   "checked_at": "2026-09-28T14:00:09+00:00"
+   "checked_at": "2026-09-28T14:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 14:00:00 +0000",
+   "sample_date": "Mon, 28 Sep 2026 14:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T14:00:09+00:00"
+   "checked_at": "2026-09-28T14:30:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,44 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "1766de63251c73b9",
+   "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+   "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Startup Battlefield 200 is almost here, and with today’s announcement, the judging panel is nearly complete. In just a couple of weeks, 200 carefull…",
+   "published": "2026-09-28T14:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "99a28bb41a76f4e3",
+   "title": "Modulate raises $25M for its voice models and analysis suite",
+   "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+   "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+   "published": "2026-09-28T14:05:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "c8d62adae18155e7",
    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
@@ -108,6 +146,49 @@
    "first_seen": "2026-09-28T14:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
+  },
+  {
+   "id": "6639960050d0cc09",
+   "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+   "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+   "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+   "published": "2026-09-28T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "09747765f360d4bf",
+   "title": "Tonbo Imaging gets SEBI approval for IPO",
+   "link": "https://yourstory.com/2026/09/tonbo-imaging-gets-sebi-approval-for-ipo",
+   "summary": "The defence electronics maker has received SEBI approval for an IPO comprising an OFS of up to 18.09 million shares.",
+   "published": "2026-09-28T13:56:37+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-28T14:30:09+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Rules"
+   ]
   },
   {
    "id": "e7f6a51a51d29775",
@@ -188,7 +269,7 @@
   },
   {
    "id": "dda89f3bdc5b57d9",
-   "title": "Maritime intelligenc startup Quartermaster raises another $140M",
+   "title": "Maritime intelligence startup Quartermaster raises another $140M",
    "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
    "summary": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
    "published": "2026-09-28T13:00:00+00:00",
@@ -559,24 +640,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-28T07:20:20+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "dc6d9e02248fbab4",
@@ -1183,6 +1246,24 @@
    "date_known": true,
    "author": null,
    "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-26T18:07:15+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -2374,6 +2455,26 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T06:30:08+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "c325f9e223510580",
+   "title": "Startup Funding",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UTm9OaDZQYVVBRUNmZEtfbGI5VlB5emN0X2E0VGdDdlVMWTU0czZpZjJrMUxSWElndk1GQ3V4SldVdXNFa2hYZzA0YWozTjhsNHBWSDU0WERyZnNFX0Q0?oc=5",
+   "summary": "",
+   "published": "2026-09-25T06:19:16+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:30:09+00:00",
    "valuation_score": 3,
    "valuation_signals": [
     "Funding"
@@ -8019,63 +8120,6 @@
    "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-18-2026",
    "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, September 18, 2026.",
    "published": "2026-09-18T15:03:35+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9ea203dbdd9e1383",
-   "title": "Anthropic’s Claude AI Allegedly Used by Hackers to Target OpenAI",
-   "link": "https://startuptalky.com/news/anthropics-claude-ai-allegedly-used-by-hackers/",
-   "summary": "Security researchers allegedly utilised Anthropic’s Claude AI to exploit a Discourse vulnerability and access computers connected to OpenAI. The breach reportedly revealed authentication tokens of some OpenAI personnel that may have been used to access ChatGPT and GitHub services.",
-   "published": "2026-09-18T14:22:17+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/anthropics-claude-ai-allegedly-used-by-hackers-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "aad0f11811193bab",
-   "title": "(Weekly funding roundup Sept 12-18) Sharp fall in VC inflow",
-   "link": "https://yourstory.com/2026/09/weekly-funding-roundup-sept-12-18-sharp-fall-in-vc-inflow",
-   "summary": "The third week of September saw a sharp decline in venture capital funding into Indian startups and this was primarily due to absence of large deals",
-   "published": "2026-09-18T14:15:51+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 5,
-   "valuation_signals": [
-    "Funding",
-    "PE / VC"
-   ]
-  },
-  {
-   "id": "40e78ebd0fa7cf69",
-   "title": "SFAL signs seven MoUs to boost India’s semiconductor ecosystem",
-   "link": "https://yourstory.com/2026/09/sfal-seven-mous-semicon-india-2026",
-   "summary": "SFAL signs seven MoUs at SEMICON India 2026 to connect startups with semiconductor research, design, manufacturing and investment.",
-   "published": "2026-09-18T14:05:12+00:00",
    "source": "YourStory",
    "group": "YourStory",
    "category": "Startups",
