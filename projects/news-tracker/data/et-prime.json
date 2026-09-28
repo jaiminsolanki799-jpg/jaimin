@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T18:00:11+00:00",
+ "generated_at": "2026-09-28T18:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,73 +24,73 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
    "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,29 +112,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 23:20:01 +0530",
+   "sample_date": "Mon, 28 Sep 2026 23:42:26 +0530",
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 23:18:34 +0530",
+   "sample_date": "Mon, 28 Sep 2026 23:31:24 +0530",
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 23:26:55 +0530",
+   "sample_date": "Mon, 28 Sep 2026 23:50:02 +0530",
    "error": null,
-   "checked_at": "2026-09-28T18:00:11+00:00"
+   "checked_at": "2026-09-28T18:30:13+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,82 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "566b89d225c81fbb",
+   "title": "Sectoral mutual funds: Defence, metals gave double-digit returns in 2 years while tech, consumer in red — here's why",
+   "link": "https://www.livemint.com/money/personal-finance/sectoral-mutual-funds-defence-metals-gave-double-digit-returns-in-2-years-while-tech-consumer-in-red-heres-why-11790616331002.html",
+   "summary": "Sectoral mutual funds have seen a sharp divergence in returns over the past two years, with some sectors delivering strong gains while others slipped into the red. Here's what drove this divergence, and what should investors consider before making sectoral bets.&nbsp;",
+   "published": "2026-09-28T18:20:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/sect_1790619317941_uU50_1790619321727_NEcV_20733d4f-67cc-4d2f-bb31-d2180d8f5808_fkWB.png",
+   "topics": [],
+   "first_seen": "2026-09-28T18:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7bbf5d458514eb77",
+   "title": "Mark Zuckerberg loses nearly $20 billion in 2 days: Is Meta’s AI spending to blame?",
+   "link": "https://www.livemint.com/companies/people/mark-zuckerberg-loses-nearly-20-billion-in-2-days-is-meta-s-ai-spending-to-blame-11790617513609.html",
+   "summary": "Mark Zuckerberg loses nearly $20 billion in two days as Meta shares fall amid concerns over its massive AI spending.",
+   "published": "2026-09-28T18:12:26+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/TRUMP-XI-54_1790618107487_FFJ4_1790618246707_Pq2Z_5eac9ba2-b7f5-4c42-87f1-5bf70ebcdddc_Rq7I.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T18:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3b0fdc4b28111c4b",
+   "title": "New rules from October: SBI ATM charges, bulk FD rates, fee on UPI, Aadhaar verification for LPG subsidy, and more",
+   "link": "https://www.livemint.com/money/personal-finance/new-rules-from-october-sbi-atm-charges-bulk-fd-rates-fee-on-upi-aadhaar-verification-for-lpg-subsidy-and-more-11790617791321.html",
+   "summary": "From 1 October, households need biometric Aadhaar verification to keep accessing LPG subsidies, affecting 14.2 kg refills. Also, revised NPS charges and changes to ATM transactions for SBI customers will be implemented.",
+   "published": "2026-09-28T18:05:18+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Oct_Banking_1790618380366_dFkb_1790618392507_sFPT_f8844eac-f2fb-483e-b523-4bd500d77755_H5Ih.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T18:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b1e3bddcc8ef84ad",
+   "title": "Moneyview IPO: 98x subscription, 3rd biggest ₹1,000 cr issue; GMP signals 41% premium - allotment, listing date",
+   "link": "https://www.livemint.com/market/stock-market-news/moneyview-ipo-98x-subscription-3rd-biggest-rs-1-000-cr-issue-gmp-signals-41-premium-allotment-listing-date-11790614713333.html",
+   "summary": "Moneyview's IPO was well-received, with a subscription of 98.5 times. Non-institutional and retail investors led the response, while the IPO included a fresh issue and an Offer-for-Sale. The listing price could reach around ₹48 per share based on the grey market premium.",
+   "published": "2026-09-28T18:01:24+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Moneyview_1790616004308_qNvS_1790616010111_wgqI_735b6eb6-dde6-4926-8c46-cab69a8cbca6_aM2W.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-28T18:30:13+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "d72e208a03fdcc0b",
    "title": "Bank strike deferred: Will SBI, HDFC and cooperative banks across India stay open on Tuesday-Wednesday, 29-30 October?",
@@ -11375,82 +11451,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Dalal_Street_Investment_1789433297270_4qOt_1789433_1790097641149_9oJw_1790097641408_48tl_91fc0204-c30e-4717-8a9a-90aa742ce714_MxH6.png",
    "topics": [],
    "first_seen": "2026-09-22T17:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f94b25ac83d6b67e",
-   "title": "Gifted assets to your spouse? Know when clubbing of income rules apply, who pays tax and how to report it in ITR",
-   "link": "https://www.livemint.com/money/personal-finance/gifted-assets-to-your-spouse-know-when-clubbing-of-income-rules-apply-who-pays-tax-and-how-to-report-it-in-itr-11790090713203.html",
-   "summary": "Gifted money or assets between spouses do not always shift the tax liability to the recipient. Under clubbing rules, income from assets transferred without adequate consideration can be taxed in the transferor's hands. Here's when the rules apply and what taxpayers should report.",
-   "published": "2026-09-22T17:13:27+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/itr_income_1790095248179_TeIF_1790095256544_kcVy_a62cfd51-af80-41e0-b941-8216c495ba72_TWvX.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-22T17:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "65d99f92a4e07804",
-   "title": "Why are foreign investors leaving Indian stocks? Bernstein flags ‘bygone’ large-cap businesses, low AI exposure",
-   "link": "https://www.livemint.com/market/stock-market-news/why-are-foreign-investors-leaving-indian-stocks-bernstein-flags-bygone-large-cap-businesses-low-ai-exposure-11790095265527.html",
-   "summary": "In September, overseas investors began selling Indian equities, influenced by concerns over high valuations and limited AI market exposure. Bernstein highlights that many large Indian firms are struggling to adapt, diminishing their attractiveness to foreign investors amid changing technologies.",
-   "published": "2026-09-22T17:05:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/FPI_1790097355422_BldZ_1790097366612_Neo7_7380be4c-a0a9-4421-aa82-0610da530a75_kZc8.png",
-   "topics": [],
-   "first_seen": "2026-09-22T17:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "15c167049b8ad1fc",
-   "title": "Paramount’s $110 billion Warner Bros deal nears finish line: What happens to $49 billion debt?",
-   "link": "https://www.livemint.com/companies/news/paramounts-110-billion-warner-bros-deal-nears-finish-line-what-happens-to-49-billion-debt-11790094677600.html",
-   "summary": "Bankers are reaching out to investors ahead of the sale of $49 billion in financing backing Paramount Skydance Corp.’s takeover of Warner Bros. Discovery Inc., after the company settled a series of lawsuits that had held up the $110 billion acquisition.",
-   "published": "2026-09-22T16:48:44+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/paramount_1790095666042_rCDs_1790095666251_SRjG_8d8e4253-ed1d-4327-a2f5-818aae83fff8_3G62.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-22T17:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ccafaa1fbd56f784",
-   "title": "‘I know how difficult today will be’: CCO Matt Booty opens up as Microsoft's Xbox division lays off more employees",
-   "link": "https://www.livemint.com/companies/news/i-know-how-difficult-today-will-be-cco-matt-booty-opens-up-as-microsofts-xbox-division-lays-off-more-employees-11790094313663.html",
-   "summary": "Microsoft's Xbox division is laying off more employees amid a reorganisation of its game studios. Xbox continues to face challenges, including declining revenue and profit margins.",
-   "published": "2026-09-22T16:37:57+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/maxresdefault_1790170534826_OC5i_1790170540213_bIxV_607d2ef9-3882-4929-9903-55c5b6d28df2_qpfx.jpg",
-   "topics": [],
-   "first_seen": "2026-09-22T17:00:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
