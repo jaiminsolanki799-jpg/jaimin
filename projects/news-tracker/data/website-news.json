@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T13:30:14+00:00",
+ "generated_at": "2026-09-28T14:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T13:30:14+00:00"
+   "checked_at": "2026-09-28T14:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 10:54:58 GMT",
+   "sample_date": "Mon, 28 Sep 2026 06:22:32 GMT",
    "error": null,
-   "checked_at": "2026-09-28T13:30:14+00:00"
+   "checked_at": "2026-09-28T14:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 28 Sep 2026 11:05:33 GMT",
+   "sample_date": "Mon, 28 Sep 2026 13:41:05 GMT",
    "error": null,
-   "checked_at": "2026-09-28T13:30:14+00:00"
+   "checked_at": "2026-09-28T14:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 13,
-   "items": 13,
+   "fetched": 12,
+   "items": 12,
    "sample_date": "Mon, 28 Sep 2026 05:05:31 GMT",
    "error": null,
-   "checked_at": "2026-09-28T13:30:14+00:00"
+   "checked_at": "2026-09-28T14:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 13:19:18 +0000",
+   "sample_date": "Mon, 28 Sep 2026 14:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T13:30:14+00:00"
+   "checked_at": "2026-09-28T14:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,85 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "c8d62adae18155e7",
+   "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+   "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+   "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
+   "published": "2026-09-28T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8aee52ffdb14ad39",
+   "title": "ElevenLabs’ new v4 speech model supports more expression control and 90 languages",
+   "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
+   "summary": "ElevenLabs v4 can clone voices with a 10 second clip",
+   "published": "2026-09-28T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e7f6a51a51d29775",
+   "title": "Switch Mobility to Supply 840 Electric Buses to Delhi Under PM E-Drive",
+   "link": "https://startuptalky.com/news/switch-mobility-to-supply-840-electric-buses-to-delhi/",
+   "summary": "Antony Road Transport Solutions has ordered 840 electric buses from Switch Mobility for deployment in Delhi under the PM E-Drive plan. It involves 420 nine-meter and 420 12-meter electric buses for the Delhi Transport Corporation and Delhi Transport Dept.",
+   "published": "2026-09-28T13:41:05+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/switch-mobility-to-supply-840-electric-buses-to-delhi-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T14:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4fc7509a6662a1b0",
+   "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+   "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+   "published": "2026-09-28T13:38:48+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-28T14:00:09+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
   {
    "id": "477a4e2e40ebff3d",
    "title": "SpaceX’s Starship rocket reaches orbit for the first time",
@@ -106,6 +183,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T13:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dda89f3bdc5b57d9",
+   "title": "Maritime intelligenc startup Quartermaster raises another $140M",
+   "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+   "summary": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+   "published": "2026-09-28T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sean O'Kane",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T14:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
