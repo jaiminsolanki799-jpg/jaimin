@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T06:00:10+00:00",
+ "generated_at": "2026-09-28T06:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 13,
-   "items": 13,
+   "fetched": 12,
+   "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:00:10+00:00"
+   "checked_at": "2026-09-28T06:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
+   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:00:10+00:00"
+   "checked_at": "2026-09-28T06:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:00:10+00:00"
+   "checked_at": "2026-09-28T06:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 10,
+   "items": 10,
    "sample_date": "Sat, 26 Sep 2026 06:30:42 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:00:10+00:00"
+   "checked_at": "2026-09-28T06:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T06:00:10+00:00"
+   "checked_at": "2026-09-28T06:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,67 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "ff31eb8cfe6876d0",
+   "title": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHVjZVRZd2RYY2Y2ZGp0b1gxUm5EeVRuNHc2UmpDRGZ2N21SbW9ObkFYbW1vNk1WR1V2cnY5cUY3OVJYN2ZBeG0ydVNSZDEzd09fV2RtMEtJSEVvczREbXdOeFo5MXRLV2ZSV2lOMjkzVlNyU2FkRFotUmFzZWdaeElnYmY3dF83ZkJ0b2MxQTV6X0QzU09EODNB0gGaAUFVX3lxTE84dWNlVFl3ZFhjZjZkanRvWDFSbkR5VG40dzZSakNEZnY3bVJtb05uQVhtbW82TVZHVXZydjlxRjc5Ulg3ZkF4bTJ1U1JkMTN3T19XZG0wS0lIRW9zNERtd054WjkxdEtXZlJXaU4yOTNWU3JTYWREWi1SYXNlZ1p4SWdiZjd0XzdmQnRvYzFBNXpfRDNTT0Q4M0E?oc=5",
+   "summary": "",
+   "published": "2026-09-28T06:27:03+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T06:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "e4439fa8029e484f",
+   "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B",
+   "link": "https://yourstory.com/2026/09/agricultural-machinery-balwaan-krishi-raises-rs-100-crore-series-b",
+   "summary": "The round was led by First Bridge India Growth Fund Private Equity, with participation from other institutional investors.",
+   "published": "2026-09-28T06:22:32+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T06:30:10+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "179b20f1270cff99",
+   "title": "D2C fashion brand The Indian Garage Co growth tapers down in FY26",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWc2aU83WHJDWXM3dzA1ZHd0NW9QcTFZRGg1VnZvaFpGMHhsbE5TcnZIUzhWbG1kRkpyajkwTFRDQm05ejl6aVhoc1l2Q3ltRVZ1bTRLdk9IeHhNWDBLUGZkaGdPdVk2T0JjTVFRUW54VzZRaTNUYkJ5YjVsb3JJNDh1dENoSWM4VjNydnY1YUt0VlNfN1U2ci1hQ0pfU3NRY2xUVS1NclfSAagBQVVfeXFMTWlnNmlPN1hyQ1lzN3cwNWR3dDVvUHExWURoNVZ2b2haRjB4bGxOU3J2SFM4VmxtZEZKcmo5MExUQ0JtOXo5emlYaHNZdkN5bUVWdW00S3ZPSHh4TVgwS1BmZGhnT3VZNk9CY01RUVFueFc2UWkzVGJCeWI1bG9ySTQ4dXRDaEljOFYzcnZ2NWFLdFZTXzdVNnItYUNKX1NzUWNsVFUtTXJX?oc=5",
+   "summary": "",
+   "published": "2026-09-28T06:20:16+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T06:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8f53d85b4181090a",
    "title": "ED attaches Rs 442 Cr assets in RummyCulture case; total value stands at Rs 2,843 Cr",
