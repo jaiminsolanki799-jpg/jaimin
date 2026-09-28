@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T21:00:12+00:00",
+ "generated_at": "2026-09-28T21:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T21:00:12+00:00"
+   "checked_at": "2026-09-28T21:30:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 07:00:57 GMT",
+   "sample_date": "Mon, 28 Sep 2026 09:48:12 GMT",
    "error": null,
-   "checked_at": "2026-09-28T21:00:12+00:00"
+   "checked_at": "2026-09-28T21:30:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 14:45:14 GMT",
    "error": null,
-   "checked_at": "2026-09-28T21:00:12+00:00"
+   "checked_at": "2026-09-28T21:30:08+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 15,
-   "items": 15,
+   "fetched": 16,
+   "items": 16,
    "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
    "error": null,
-   "checked_at": "2026-09-28T21:00:12+00:00"
+   "checked_at": "2026-09-28T21:30:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 20:39:33 +0000",
+   "sample_date": "Mon, 28 Sep 2026 21:29:18 +0000",
    "error": null,
-   "checked_at": "2026-09-28T21:00:12+00:00"
+   "checked_at": "2026-09-28T21:30:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "a84e841eac253bfe",
+   "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+   "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+   "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+   "published": "2026-09-28T21:29:18+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-28T21:30:08+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "2f5ef06215656984",
    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
@@ -272,6 +294,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T17:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d992e70c0ddb8fb6",
+   "title": "SiMa.ai",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkSG9aY3g5LVJnMGJIbDBXWTRPcnFDNU5WcXZ3SDc5SmMtbTNNUkRwcEUtTjUxVHhwZVJuSlc3SC1mMEdub3dn?oc=5",
+   "summary": "",
+   "published": "2026-09-28T16:29:47+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T21:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -945,6 +985,24 @@
    "valuation_signals": []
   },
   {
+   "id": "b20cd264f8e1d61d",
+   "title": "The Indian Garage Co",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKeVM1b2xhU1lHTDc3YUEyci1vdExvc1k4SVluVDFZY0ZZVjhrTnlRN0xobzVPbnBJZV85T3p1RlV4VWR1UFJscWdRMWVrNy1hZXdCRDJ4RlhIUQ?oc=5",
+   "summary": "",
+   "published": "2026-09-28T08:15:07+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T21:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "f504cdc2e4ec97bd",
    "title": "HSBC Expands India Wealth Strategy to Attract Affluent Clients",
    "link": "https://startuptalky.com/news/hsbc-expands-india-wealth-strategy/",
@@ -1298,6 +1356,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-28T04:38:07+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "70addb5019474741",
@@ -1662,24 +1738,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T20:30:14+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-26T19:44:16+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
