@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T09:00:10+00:00",
+ "generated_at": "2026-09-28T09:30:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T09:00:10+00:00"
+   "checked_at": "2026-09-28T09:30:14+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
+   "sample_date": "Mon, 28 Sep 2026 07:00:57 GMT",
    "error": null,
-   "checked_at": "2026-09-28T09:00:10+00:00"
+   "checked_at": "2026-09-28T09:30:14+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 08:14:35 GMT",
    "error": null,
-   "checked_at": "2026-09-28T09:00:10+00:00"
+   "checked_at": "2026-09-28T09:30:14+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
    "error": null,
-   "checked_at": "2026-09-28T09:00:10+00:00"
+   "checked_at": "2026-09-28T09:30:14+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T09:00:10+00:00"
+   "checked_at": "2026-09-28T09:30:14+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "90c5fce2f98001a1",
+   "title": "Startup news and updates: daily roundup (September 28, 2026)",
+   "link": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-28-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, September 28, 2026.",
+   "published": "2026-09-28T09:17:59+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T09:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "073842d52b2abfe7",
    "title": "UPI MDR: SC seeks responses from Centre, RBI",
@@ -166,6 +184,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "dc81b1eefa7b3b07",
+   "title": "- The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
+   "summary": "",
+   "published": "2026-09-28T07:20:20+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "dc6d9e02248fbab4",
@@ -754,24 +790,6 @@
    "date_known": true,
    "author": null,
    "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
-   "summary": "",
-   "published": "2026-09-26T18:07:15+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -7753,26 +7771,6 @@
    "valuation_signals": [
     "Rules"
    ]
-  },
-  {
-   "id": "b4ce8454d6c84f67",
-   "title": "From Skincare Startup to Shark Tank India: The Inspiring Journey of Minimalist Co-founder Mohit Yadav",
-   "link": "https://startuptalky.com/mohit-yadav-success-story/",
-   "summary": "Mohit Yadav is the co-founder of Minimalist and a Shark Tank India Season 5 Shark. Explore his education, career, Minimalist journey, HUL acquisition, investments, net worth and latest updates in 2026.",
-   "published": "2026-09-18T09:30:00+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Sakshi Jadhav",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2025/10/mohit-yadav-success-story-startuptalky-1.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
