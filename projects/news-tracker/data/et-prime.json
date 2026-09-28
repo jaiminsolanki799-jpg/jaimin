@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T02:30:11+00:00",
+ "generated_at": "2026-09-28T03:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 06:00:57 +0530",
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 07:34:57 +0530",
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 07:46:18 +0530",
+   "sample_date": "Mon, 28 Sep 2026 08:26:33 +0530",
    "error": null,
-   "checked_at": "2026-09-28T02:30:11+00:00"
+   "checked_at": "2026-09-28T03:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "6e77a3cdeac2ec7b",
+   "title": "Customers may not be able to use UPI at mobile stores on October 2; why retailers are protesting",
+   "link": "https://www.livemint.com/money/customers-may-not-be-able-to-use-upi-at-mobile-stores-on-october-2-why-retailers-are-protesting-11790561531219.html",
+   "summary": "Mobile retailers &nbsp;have called for a 'No UPI Day' protest on October 2, during which customers may not be able to use UPI for making payments at mobile shops. Here's why the protest is happening and what are their demands.",
+   "published": "2026-09-28T02:56:33+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/UPI_1790563875539_RMBM_1790563875739_kIDl_7ec1e0e6-842c-4cbc-9960-5562fb049943_Vy9t.png",
+   "topics": [],
+   "first_seen": "2026-09-28T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "441f4e5ff1bea853",
    "title": "Can money collected for someone else be taxed as your income? ITAT ruling on ₹20.33 lakh cash deposits",
@@ -479,7 +497,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-27T23:00:09+00:00",
@@ -1800,7 +1818,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
@@ -10411,7 +10429,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-24T07:30:11+00:00",
@@ -11446,24 +11464,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Gemini_Generated_Image_xbrltxpbrltxpbr_17900475_1790047588197_SCZd_1790047588355_l6A5_a24cff77-fa91-4bf3-8eb4-02a28d0596dc_jp9S.png",
    "topics": [],
    "first_seen": "2026-09-22T04:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "38acec3aebf6939c",
-   "title": "Nikkei index: Why Japan stock market is closed for three days? When will it open for trading again? Details for investor",
-   "link": "https://www.livemint.com/market/stock-market-news/nikkei-index-why-japan-stock-market-is-closed-for-three-days-when-will-it-open-for-trading-again-details-for-investor-11790044996688.html",
-   "summary": "Japan’s major financial markets will remain closed for the first three days of the week.",
-   "published": "2026-09-22T03:28:15+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Japan_1790047649967_bwH3_1790047650129_IY46_05843f65-1944-4def-8702-5e085bf0d62b_5s1S.jfif",
-   "topics": [],
-   "first_seen": "2026-09-22T03:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
