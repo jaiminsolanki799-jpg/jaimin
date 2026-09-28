@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T06:30:10+00:00",
+ "generated_at": "2026-09-28T07:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:30:10+00:00"
+   "checked_at": "2026-09-28T07:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
+   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:30:10+00:00"
+   "checked_at": "2026-09-28T07:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Sat, 26 Sep 2026 08:29:10 GMT",
+   "sample_date": "Mon, 28 Sep 2026 06:43:59 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:30:10+00:00"
+   "checked_at": "2026-09-28T07:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 10,
-   "items": 10,
-   "sample_date": "Sat, 26 Sep 2026 06:30:42 GMT",
+   "fetched": 6,
+   "items": 6,
+   "sample_date": "Mon, 21 Oct 2024 13:57:33 GMT",
    "error": null,
-   "checked_at": "2026-09-28T06:30:10+00:00"
+   "checked_at": "2026-09-28T07:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T06:30:10+00:00"
+   "checked_at": "2026-09-28T07:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "0cc4bd266522e17e",
+   "title": "ITC Strengthens East India Dairy Business, Targets Value-Added Products",
+   "link": "https://startuptalky.com/news/itc-strengthens-east-india-dairy-business/",
+   "summary": "ITC is building its dairy business in Eastern India with its Aashirvaad Svasti brand focused on fresh milk and value added goods including curd, paneer, lassi and Mishti Doi. The company has emerged as the second largest dairy player of Bihar and is operating in Bihar, West Bengal and Jharkhand.",
+   "published": "2026-09-28T06:43:59+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/itc-strengthens-east-india-dairy-business-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T07:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ff31eb8cfe6876d0",
    "title": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures",
@@ -7648,24 +7666,6 @@
     "IPO",
     "Rules"
    ]
-  },
-  {
-   "id": "9b263c78010dc423",
-   "title": "Applied Materials Plans $5 Billion India Investment to Expand Green Energy Operations",
-   "link": "https://startuptalky.com/news/applied-materials-plans-5-billion-india-investment/",
-   "summary": "Applied Materials to invest $5 billion in India over next decade to boost country’s semiconductor ecosystem, green energy ops. The US semiconductor equipment giant will build a 140-acre research park, develop its Indian supply chain and add to its global supplier base.",
-   "published": "2026-09-18T06:39:15+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/applied-materials-plans-5-billion-india-investment-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
