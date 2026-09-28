@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T23:00:08+00:00",
+ "generated_at": "2026-09-28T23:30:16+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T23:00:08+00:00"
+   "checked_at": "2026-09-28T23:30:16+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 07:00:57 GMT",
+   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
    "error": null,
-   "checked_at": "2026-09-28T23:00:08+00:00"
+   "checked_at": "2026-09-28T23:30:16+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 22:43:45 GMT",
    "error": null,
-   "checked_at": "2026-09-28T23:00:08+00:00"
+   "checked_at": "2026-09-28T23:30:16+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 06:27:03 GMT",
    "error": null,
-   "checked_at": "2026-09-28T23:00:08+00:00"
+   "checked_at": "2026-09-28T23:30:16+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 22:58:35 +0000",
    "error": null,
-   "checked_at": "2026-09-28T23:00:08+00:00"
+   "checked_at": "2026-09-28T23:30:16+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
   {
    "id": "59cf86a3e2e0dc06",
@@ -8557,24 +8557,6 @@
    "category": "Tech",
    "date_known": true,
    "author": "Amanda Silberling",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "23d6e2a4a2bf4abc",
-   "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-   "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-   "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-   "published": "2026-09-18T23:25:01+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Kirsten Korosec",
    "publisher": null,
    "image": null,
    "topics": [],
