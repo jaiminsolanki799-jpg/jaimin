@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-28T07:00:09+00:00",
+ "generated_at": "2026-09-28T07:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-28T07:00:09+00:00"
+   "checked_at": "2026-09-28T07:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 25 Sep 2026 10:43:02 GMT",
+   "sample_date": "Sat, 26 Sep 2026 01:55:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T07:00:09+00:00"
+   "checked_at": "2026-09-28T07:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 28 Sep 2026 06:43:59 GMT",
+   "sample_date": "Mon, 28 Sep 2026 07:16:20 GMT",
    "error": null,
-   "checked_at": "2026-09-28T07:00:09+00:00"
+   "checked_at": "2026-09-28T07:30:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 6,
-   "items": 6,
-   "sample_date": "Mon, 21 Oct 2024 13:57:33 GMT",
+   "fetched": 7,
+   "items": 7,
+   "sample_date": "Mon, 28 Sep 2026 05:05:31 GMT",
    "error": null,
-   "checked_at": "2026-09-28T07:00:09+00:00"
+   "checked_at": "2026-09-28T07:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 28 Sep 2026 04:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-28T07:00:09+00:00"
+   "checked_at": "2026-09-28T07:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "d56bff18f5f3583d",
+   "title": "Agricultural machinery company Balwaan Krishi raises Rs 100 Cr in Series B round",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWtXQlZfdnQ4MGtqalJVN2RQblVTc3Yza252OVI4bzVmZFQxbkdUdDJMeHN3VnVCbU9lSDdFZWNuRUl0S1otM1FZOG9wRmxMMGJRTkxxNE9ZQjhWVGFzck1HVGxURGpoUUhHRkMxemFxSWJHaF9WWnBTT1FXa19RdXZvNENOdGYzSDBmeGJWbTRRLWVHSG11MzJGQWJqVVZDd3ozUVlwcDJBQmt2TXFIV3hNMWJsQdIBtgFBVV95cUxPQWtXQlZfdnQ4MGtqalJVN2RQblVTc3Yza252OVI4bzVmZFQxbkdUdDJMeHN3VnVCbU9lSDdFZWNuRUl0S1otM1FZOG9wRmxMMGJRTkxxNE9ZQjhWVGFzck1HVGxURGpoUUhHRkMxemFxSWJHaF9WWnBTT1FXa19RdXZvNENOdGYzSDBmeGJWbTRRLWVHSG11MzJGQWJqVVZDd3ozUVlwcDJBQmt2TXFIV3hNMWJsQQ?oc=5",
+   "summary": "",
+   "published": "2026-09-28T07:21:48+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T07:30:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "dc6d9e02248fbab4",
+   "title": "30-Day Recharge Plans for Prepaid Users Soon, Says Raghav Chadha",
+   "link": "https://startuptalky.com/news/30-day-recharge-plans-for-prepaid-users/",
+   "summary": "Rajya Sabha MP Raghav Chadha has praised the new Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026 by Telecom Regulatory Authority of India (TRAI) that bring in a 30-day validity for voice and SMS-only prepaid Special Tariff Vouchers (STVs).",
+   "published": "2026-09-28T07:16:20+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/30-day-recharge-plans-for-prepaid-users-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T07:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0f64a0d28b665a38",
+   "title": "What to keep in mind before applying for a personal loan",
+   "link": "https://yourstory.com/2026/09/what-to-keep-in-mind-before-applying-for-a-personal-loan",
+   "summary": "From EMI planning to hidden charges, here are the essentials every borrower should check to make smarter, stress‑free borrowing decisions. A personal loan can help cover planned expenses, unexpected costs, or larger financial requirements without using your savings all at once. Since it is gen",
+   "published": "2026-09-28T07:00:57+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-28T07:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0cc4bd266522e17e",
    "title": "ITC Strengthens East India Dairy Business, Targets Value-Added Products",
@@ -179,7 +235,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:00:10+00:00",
@@ -423,7 +479,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -441,7 +497,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -567,7 +623,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -603,7 +659,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -612,7 +668,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
+   "title": "- the-captable.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-26T18:07:15+00:00",
@@ -675,7 +731,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1827,7 +1883,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T06:30:08+00:00",
@@ -1867,7 +1923,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T09:00:09+00:00",
@@ -3864,7 +3920,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-25T22:30:09+00:00",
@@ -5081,7 +5137,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T11:00:09+00:00",
@@ -5650,7 +5706,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-22T07:00:10+00:00",
@@ -7643,29 +7699,6 @@
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "75f462e86eee5050",
-   "title": "Kuku Technologies Secures SEBI Approval for INR 3,500 Crore IPO",
-   "link": "https://startuptalky.com/news/kuku-technologies-secures-sebi-approva/",
-   "summary": "Kuku Technologies gained SEBI permission for its proposed INR 3,500 crore IPO, after privately filed its draft prospectus in June. The OTT audio and microdrama startup will use the IPO revenues for technology, AI infrastructure, content development and expansion.",
-   "published": "2026-09-18T07:12:12+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/09/kuku-technologies-secures-sebi-approva-Startuptalky.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "IPO",
-    "Rules"
-   ]
   }
  ]
 }
