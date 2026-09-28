@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T16:00:16+00:00",
+ "generated_at": "2026-09-28T16:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,18 +46,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 30,
+   "items": 30,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,29 +68,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -142,10 +142,10 @@
    "category": "ET Prime",
    "ok": true,
    "fetched": 6,
-   "items": 3,
+   "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 21:06:16 +0530",
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 20:43:52 +0530",
+   "sample_date": "Mon, 28 Sep 2026 21:53:31 +0530",
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 20:52:36 +0530",
+   "sample_date": "Mon, 28 Sep 2026 21:43:06 +0530",
    "error": null,
-   "checked_at": "2026-09-28T16:00:16+00:00"
+   "checked_at": "2026-09-28T16:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,102 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "a60fb3155c2b0dd5",
+   "title": "Top 5 Breakout stocks to buy: KPI Green, Crisil, Manyavar, Prudent, Go Digit by Sumeet Bagadia | Target, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-kpi-green-crisil-manyavar-prudent-go-digit-by-sumeet-bagadia-target-stoploss-11790605918011.html",
+   "summary": "Sumeet Bagadia of Choice Broking recommends five stocks: KPI Green Energy, CRISIL, Vedant Fashions, Prudent Corporate Advisory Services, and Go Digit General Insurance based on technical setups and price momentum, with specific stop-loss and target levels outlined for each stock.",
+   "published": "2026-09-28T16:23:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Summet_2_1790607505206_XaNk_1790607558333_lSyu_54ae4d8a-3343-4797-b6bd-d1312bfdd88a_bn7i.png",
+   "topics": [],
+   "first_seen": "2026-09-28T16:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Ratings"
+   ]
+  },
+  {
+   "id": "35107550088bbe5c",
+   "title": "Nifty 50 breaks below 23K! Monthly expiry may keep volatility elevated | Support, resistance, outlook for Sep 29",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-breaks-below-23k-monthly-expiry-may-keep-volatility-elevated-support-resistance-outlook-for-sep-29-11790611758900.html",
+   "summary": "The Nifty 50 bears continued to pressure the market, closing at 22,780.25 after a 1.56% drop. Volatility increased sharply, and market breadth was weak, with heavyweights dragging down the index, suggesting ongoing bearish momentum and the need for a substantial recovery.",
+   "published": "2026-09-28T16:19:21+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Nifty_Technical_1790611824540_0iKs_1790611829836_xU1q_a8e6eec2-fef6-478a-b85e-ca1bd11e8517_tYL8.png",
+   "topics": [],
+   "first_seen": "2026-09-28T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a02c88d6cc0ced17",
+   "title": "Credit card debt: Can banks ask families to repay it after cardholder dies? What if there’s no will? Explained",
+   "link": "https://www.livemint.com/money/credit-card-debt-can-banks-ask-families-to-repay-it-after-cardholder-dies-what-if-there-s-no-will-explained-11790610775906.html",
+   "summary": "Credit card debt: Can banks ask families to repay it after a cardholder dies? What if there’s no will? Read out to find out.",
+   "published": "2026-09-28T16:13:06+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Credit_Card_debt_1790611791130_KlTe_1790611799446_eSbH_1f14ed9a-3f07-4e2a-9752-f404df9f8393_7FaC.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "57fdbe4b9442b5a1",
+   "title": "Tax audit due by 21 October: How to pick between Form 3CA and 3CB — and what to do if you filed the wrong one",
+   "link": "https://www.livemint.com/money/personal-finance/tax-audit-due-by-21-october-how-to-pick-between-form-3ca-and-3cb-and-what-to-do-if-you-filed-the-wrong-one-11790608180375.html",
+   "summary": "Tax audit reports are filed using Form 3CA-3CD or 3CB-3CD, but the choice depends on specific conditions. With the deadline extended to 21 October, taxpayers should know which form applies to them and what they should do if they make an error.",
+   "published": "2026-09-28T16:12:21+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/formm_1790610861927_BjPY_1790610865624_pmPH_2c8ae992-07d1-4e21-b655-cb2b0d5470e0_WCNw.png",
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-09-28T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8efdb8d6fe5bdc31",
+   "title": "Nifty slides to six-month low as US-Iran deal hopes fade, oil tops $100 a barrel",
+   "link": "https://www.livemint.com/market/stock-market-news/crude-oil-impact-india-stock-market-nifty-today-11790598428016.html",
+   "summary": "Crude oil staying above the $100 mark is weighing on sentiment towards Indian stocks. The surge in oil prices has a major bearing on the Indian economy, as the country imports 90% of its oil requirement.",
+   "published": "2026-09-28T16:04:01+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/COFORGE-STOCKS--0_1781542526592_1781542540540_deb5d779-9230-4cf5-a52b-ecf64a6a4a68_1790606617912_xodZ_a471efb6-dcc7-430a-b37c-814113ef02a9_3Sjb.JPG",
+   "topics": [],
+   "first_seen": "2026-09-28T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "36c84955dd33d994",
    "title": "Tata Trusts proposes rejig to keep Tata Sons private, avoid IPO to comply with RBI rules — Here's what could change",
@@ -375,7 +469,7 @@
    "id": "427ed70880d3ead3",
    "title": "Tata Trusts moots two mergers to avoid Tata Sons listing",
    "link": "https://www.livemint.com/companies/news/tata-trusts-tata-sons-restructuring-ipo-listing-rbi-11790599919373.html",
-   "summary": "Move is meant to nix the group’s core investment company status, which the main shareholder believes will help it avoid the Reserve Bank of India’s order to list on a stock exchange.",
+   "summary": "The proposed Tata Sons restructuring would involve absorbing Tata Electronics and Tata Consulting Engineers to remove the IPO overhang on the holding company.",
    "published": "2026-09-28T13:18:48+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -385,8 +479,7 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/TATA-INDIA-SHAREHOLDERS-0_1790601143063_kVVO_1790601156071_DvNf_db5f7fa9-66ff-4889-99c8-96a8b90ed29d_lRio.JPG",
    "topics": [
-    "SEBI / markets regulation",
-    "RBI / banking"
+    "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-28T13:30:14+00:00",
    "valuation_score": 0,
@@ -11362,100 +11455,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/sifff_1790089394721_paUd_1790089400326_ZNVT_5ac7f984-83cb-4df0-b476-d2dd64f2e658_fdEW.png",
    "topics": [],
    "first_seen": "2026-09-22T16:00:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "84b54f34ad902057",
-   "title": "What's 'Egg-Selling Mindset' in business? Check unique financial lessons from Power of the Jewish Intellect",
-   "link": "https://www.livemint.com/money/whats-egg-selling-mindset-in-business-check-unique-financial-lessons-from-power-of-the-jewish-intellect-11790090275626.html",
-   "summary": "The story of Mr Cohen and his four sons illustrates varying investment strategies. From traditional saving to advanced leveraging and collaboration, this shows that a financial mindset and creative use of resources drive wealth.",
-   "published": "2026-09-22T15:24:39+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Egg_1790090453258_w3sZ_1790090461584_G4KY_dc80e9eb-10c0-4bab-9714-e54b309889df_B2M4.jpg",
-   "topics": [],
-   "first_seen": "2026-09-22T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fe17ee8b8422d411",
-   "title": "CCI clears L’Oréal India's acquisition of Bare Anatomy maker Innovist: All you need to know",
-   "link": "https://www.livemint.com/companies/news/cci-clears-l-or-al-indias-acquisition-of-bare-anatomy-maker-innovist-all-you-need-to-know-11790081555179.html",
-   "summary": "As part of the proposed transaction, Innovist’s founding team will remain responsible for running the business. Its brands will be brought under L’Oréal’s Consumer Products Division.",
-   "published": "2026-09-22T15:17:00+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/a1034156-492c-11ed-b446-6e9b673f27d3_1665469242101_1790088036028_rlGy_c054de42-04b5-4a85-8cee-26287318e077_uXKh.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-22T15:30:11+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
-   ]
-  },
-  {
-   "id": "f06e79dea3a346c4",
-   "title": "Binance invests $100 million in Circle, signs five-year USDC deal",
-   "link": "https://www.livemint.com/market/stock-market-news/binance-invests-100-million-in-circle-signs-five-year-usdc-deal-11790087542601.html",
-   "summary": "Circle Internet Group and Binance have formed a five-year partnership, with Binance investing $100 million in Circle. This deal aims to expand USDC usage, which has around $75 billion in circulation, enhancing its role in payments and institutional finance.",
-   "published": "2026-09-22T15:02:43+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/CRYPTOCURRENCY-BINANCE-RUSSIA-2_1787138261430_1787_1790089182644_Qe3K_1790089182877_WkjC_23b1977f-4ea4-4fa3-a059-fbd57fe9200a_Q4sf.JPG",
-   "topics": [],
-   "first_seen": "2026-09-22T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b5a92c9059129c39",
-   "title": "Kylian Mbappe dumps Nike after 20 years for On: Football star gets equity, not just endorsement cheque; check details",
-   "link": "https://www.livemint.com/companies/news/kylian-mbappe-dumps-nike-after-20-years-for-on-football-star-gets-equity-not-just-endorsement-cheque-check-details-11790085380175.html",
-   "summary": "Nike had been with Kylian Mbappe since 2006, when he was still a child. He chose not to renew once that deal expired this summer. On has confirmed the contract is a mix of cash and company shares, not a simple endorsement cheque.",
-   "published": "2026-09-22T14:41:39+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/HSzbOH9XUAAFgHq_1790085636761_GWbc_1790085645883_R9jc_2ead139a-5204-4be7-a86b-eb0179b3e9eb_VbE6.jpg",
-   "topics": [],
-   "first_seen": "2026-09-22T15:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "23a96fd4ebb830cc",
-   "title": "8th pay commission panel to visit Mumbai next month — Here's how to apply, deadline, dates of meetings",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-panel-visit-mumbai-october-how-employees-pensioners-stakeholders-apply-deadline-meeting-date-11790083150758.html",
-   "summary": "The 8th CPC is scheduled to be in Mumbai next month to host discussions and meetings with employee unions, representative groups, pensioner associations, federations, and other stakeholders.",
-   "published": "2026-09-22T14:27:49+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/8th_CPC_Mumbai_meet_1790086995574_LZCN_1790087006587_d5ab_e5819ca2-6f6f-4903-ba18-5a74f44997dd_zzjD.png",
-   "topics": [],
-   "first_seen": "2026-09-22T14:30:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
