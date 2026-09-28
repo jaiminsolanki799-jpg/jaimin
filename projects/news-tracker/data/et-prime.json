@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T16:30:10+00:00",
+ "generated_at": "2026-09-28T17:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,18 +46,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,29 +68,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 21:06:16 +0530",
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 21:53:31 +0530",
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 28 Sep 2026 21:43:06 +0530",
    "error": null,
-   "checked_at": "2026-09-28T16:30:10+00:00"
+   "checked_at": "2026-09-28T17:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,7 +192,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 2,
  "items": [
   {
    "id": "a60fb3155c2b0dd5",
@@ -2163,7 +2163,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T08:00:10+00:00",
@@ -3484,7 +3484,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
