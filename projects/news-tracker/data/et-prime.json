@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-28T18:30:13+00:00",
+ "generated_at": "2026-09-28T19:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,73 +24,73 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
    "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "error": null,
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,29 +112,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -142,10 +142,10 @@
    "category": "ET Prime",
    "ok": true,
    "fetched": 6,
-   "items": 4,
+   "items": 3,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 23:42:26 +0530",
+   "sample_date": "Tue, 29 Sep 2026 00:08:15 +0530",
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 23:31:24 +0530",
+   "sample_date": "Tue, 29 Sep 2026 00:20:22 +0530",
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 28 Sep 2026 23:50:02 +0530",
+   "sample_date": "Tue, 29 Sep 2026 00:15:27 +0530",
    "error": null,
-   "checked_at": "2026-09-28T18:30:13+00:00"
+   "checked_at": "2026-09-28T19:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "efffd6cf95596a0d",
+   "title": "Wall St declines as oil prices, Treasury yields remain elevated",
+   "link": "https://www.livemint.com/market/wall-st-declines-as-oil-prices-treasury-yields-remain-elevated-11790621422930.html",
+   "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall St declines as oil prices, Treasury yields r",
+   "published": "2026-09-28T18:50:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T19:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e494a765580aed9a",
+   "title": "₹1,000 monthly SIP became ₹4.67 lakh in 10 years: Which diversified equity mutual fund delivered the highest returns?",
+   "link": "https://www.livemint.com/money/personal-finance/1000-monthly-sip-became-4-67-lakh-in-10-years-which-diversified-equity-mutual-fund-delivered-the-highest-returns-11790619741046.html",
+   "summary": "A ₹1,000 monthly SIP can grow substantially over a decade as returns compound. We look at diversified equity mutual funds that delivered the highest 10-year SIP returns, with Quant Small Cap Fund leading the list. Here’s how the funds compare.",
+   "published": "2026-09-28T18:45:27+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/fund_re_1790620604831_Juye_1790620609338_WcuQ_56b0004b-bf99-4c0b-9694-d6e4f298fd14_vKhB.png",
+   "topics": [],
+   "first_seen": "2026-09-28T19:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "07dec801699ccea1",
+   "title": "8th pay commission: Awaiting announcement? Here are the terms of reference and timeline of recommendations, explained",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-employees-pensioners-await-announcement-terms-of-reference-tor-timeline-of-recommendations-explained-11790597203431.html",
+   "summary": "8th Pay Commission: The official terms of reference outline what central government employees and pensioners can expect from the panel. We will likely get official recommendations sometime next year.&nbsp;",
+   "published": "2026-09-28T18:41:34+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/8th_pay_commission_news_1788401458454_ea405b11-bfb_1790619148486_VijS_1790619148600_knbL_204d60ac-b84b-4d31-9d65-7639f4c202bc_wjJs.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T19:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ed7189d47cd69b62",
+   "title": "Coforge appoints Akhil Kumar Gupta as chairperson",
+   "link": "https://www.livemint.com/companies/coforge-appoints-akhil-kumar-gupta-as-chairperson-11790618685616.html",
+   "summary": "Gupta, who has four decades of experience as a chartered accountant, currently chairs ONE WAM and Bharti Life Insurance. He also serves on the boards of Zepto, Snapdeal, Eutelsat Communications and Lodha Developers.",
+   "published": "2026-09-28T18:38:15+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Coforge_1785322445781_1785322446061_266d5c40-3eaa-40c5-85d8-cd5feebcb843_1790620517778_B2y5_8956e5e2-5975-43af-aecc-e5065f1893f6_SAAq.jpg",
+   "topics": [],
+   "first_seen": "2026-09-28T19:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "566b89d225c81fbb",
    "title": "Sectoral mutual funds: Defence, metals gave double-digit returns in 2 years while tech, consumer in red — here's why",
@@ -541,7 +613,7 @@
   },
   {
    "id": "432eb8e09228fc32",
-   "title": "Top stocks in focus tomorrow: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers",
+   "title": "Top stocks in focus today: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hcl-tech-ncc-irfc-power-mech-shares-on-tue-29-sept-triggers-11790605116716.html",
    "summary": "Investors will focus on HCL Technologies, NLC India, Power Mech Projects, and others following recent business developments and contracts. Key announcements include HCL's acquisition of Robotiq.ai and NCC's ₹1,076.71 crore water supply contract in Andhra Pradesh.",
    "published": "2026-09-28T14:30:29+00:00",
@@ -927,7 +999,7 @@
   },
   {
    "id": "f3e916499ee3309a",
-   "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 29 Sept 2026",
+   "title": "Stock market prediction for today: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 29 Sept 2026",
    "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-tuesday-kospi-taiwan-cues-to-watch-29-sept-2026-11790589056945.html",
    "summary": "On September 28, the Indian stock market faced significant selling pressure, with indices dropping due to rising crude oil prices and global monetary tightening fears. The Nifty 50 fell 1.54%, closing below 23,000 for the first time since April, as multiple sectors showed losses.",
    "published": "2026-09-28T10:15:08+00:00",
@@ -2311,7 +2383,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T08:00:10+00:00",
@@ -3632,7 +3704,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
@@ -11379,78 +11451,6 @@
     "Income tax"
    ],
    "first_seen": "2026-09-22T18:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7511b2ba2fc2a17b",
-   "title": "Indian households' savings mix shifts: Mutual funds and equity gain, insurance flows weaken — what it means",
-   "link": "https://www.livemint.com/money/personal-finance/indian-households-savings-mix-shifts-mutual-funds-and-equity-gain-insurance-flows-weaken-what-it-means-11790096626147.html",
-   "summary": "Indian households’ financial savings mix is changing, with mutual funds seeing the sharpest rise in inflows over three years. Equity has also grown from a small base, while deposits remain the largest avenue. Life insurance and small savings have seen weaker or uneven flows.",
-   "published": "2026-09-22T17:45:27+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/houshe_1790098368999_hrcu_1790098372882_2Erv_40356d14-e7d8-42bc-a27e-0d10f9bdebde_CNbp.png",
-   "topics": [],
-   "first_seen": "2026-09-22T18:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2567323d202b32e5",
-   "title": "NPS Vatsalya: Want to register a complaint? Here's how to access grievance redressal online — Stepwise guide",
-   "link": "https://www.livemint.com/money/personal-finance/nps-vatsalya-want-register-complaint-how-to-access-grievance-redressal-online-stepwise-guide-cgms-portal-pension-account-11790092872921.html",
-   "summary": "NPS Vatsalya, allows parents or guardians to open and operate a pension account for minor(s) till they become an adult. Today we take a look at how the subscribers can access grievance redressal online.",
-   "published": "2026-09-22T17:30:49+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/NPS_Vatsalya_1789495307387_Ui2C_1789495322668_DLSi_1790097685421_pVG8_1790097685600_6S21_14d7c83c-bd7e-4231-8a79-1155b09c2701_YUSH.png",
-   "topics": [],
-   "first_seen": "2026-09-22T18:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "de91d8fc9a0a502d",
-   "title": "From survival to 193 mn subscribers: Is Vi finally making a comeback?",
-   "link": "https://economictimes.indiatimes.com/prime/media-and-communications/from-survival-to-193-mn-subscribers-is-vi-finally-making-a-comeback/primearticleshow/133631930.cms",
-   "summary": "",
-   "published": "2026-09-22T17:30:10+00:00",
-   "source": "ET Prime: Media & communications",
-   "group": "ET Prime",
-   "category": "Media & communications",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-22T17:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6e35a2832a0970dc",
-   "title": "Nifty 50 deep-dive guide for investors: Bearish engulfing candlestick; check resistance, support levels | Wed 23 Sept",
-   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-deep-dive-guide-for-investors-bearish-engulfing-candlestick-check-resistance-support-levels-wed-23-sept-11790096646921.html",
-   "summary": "The Nifty 50 paused its four-session recovery on Tuesday, closing at 23,329 after facing selling pressure. Profit booking indicated resistance near 23,500, leading to a bearish candlestick formation. Key support lies around 23,286, while a breakout above 23,500 could rejuvenate market sentiment.",
-   "published": "2026-09-22T17:22:35+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Dalal_Street_Investment_1789433297270_4qOt_1789433_1790097641149_9oJw_1790097641408_48tl_91fc0204-c30e-4717-8a9a-90aa742ce714_MxH6.png",
-   "topics": [],
-   "first_seen": "2026-09-22T17:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
