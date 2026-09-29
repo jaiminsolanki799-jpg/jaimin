@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T10:30:15+00:00",
+ "generated_at": "2026-09-29T11:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:30:15+00:00"
+   "checked_at": "2026-09-29T11:00:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
+   "sample_date": "Tue, 29 Sep 2026 06:02:33 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:30:15+00:00"
+   "checked_at": "2026-09-29T11:00:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 29 Sep 2026 10:06:54 GMT",
+   "sample_date": "Tue, 29 Sep 2026 10:56:43 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:30:15+00:00"
+   "checked_at": "2026-09-29T11:00:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 25,
-   "items": 25,
+   "fetched": 26,
+   "items": 26,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:30:15+00:00"
+   "checked_at": "2026-09-29T11:00:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 10:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-29T10:30:15+00:00"
+   "checked_at": "2026-09-29T11:00:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "812a46363bf8af61",
+   "title": "Best AI Tools for Automated Bid Management",
+   "link": "https://startuptalky.com/best-ai-tools-for-automated-bid-management/",
+   "summary": "Discover the best AI tools for automated bid management. Compare their features, pricing, pros, and cons to find tools that can automate bidding, optimize budgets, and improve advertising performance.",
+   "published": "2026-09-29T10:56:43+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Vivek Dev Jacob",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Best-AI-Tools-Automated-Bid-Management-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T11:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b41703ee58b004f7",
+   "title": "Demystifying Gold Loan Interest Rates with Bajaj Finance",
+   "link": "https://startuptalky.com/demystifying-gold-loan-interest-rates-with-bajaj-finance/",
+   "summary": "Understanding how gold loan interest rates and processing fees work can help borrowers assess the overall cost of borrowing against their gold.",
+   "published": "2026-09-29T10:26:12+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Goad-loan.png",
+   "topics": [],
+   "first_seen": "2026-09-29T11:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cea9674aa5e52797",
    "title": "Adani Family Office backs Nudge as startup pivots to rewards-led commerce",
@@ -192,6 +228,24 @@
    "valuation_signals": [
     "M&A"
    ]
+  },
+  {
+   "id": "589983bc7be12ed3",
+   "title": "EverBrands",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53Z2NnbF9qSVMtRnlTNHhnajctamNsYXJQVkxJVkE1elhZMWh2WmZnUG0xRWIta0xrQWhJNXhENmhxTzNFZ0VHZURCcHE?oc=5",
+   "summary": "",
+   "published": "2026-09-29T08:38:29+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T11:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "9eecc58517ef8622",
