@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T15:30:11+00:00",
+ "generated_at": "2026-09-29T16:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 7,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 20:23:40 +0530",
+   "sample_date": "Tue, 29 Sep 2026 21:15:10 +0530",
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 20:50:05 +0530",
+   "sample_date": "Tue, 29 Sep 2026 21:25:54 +0530",
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 20:46:56 +0530",
+   "sample_date": "Tue, 29 Sep 2026 21:11:02 +0530",
    "error": null,
-   "checked_at": "2026-09-29T15:30:11+00:00"
+   "checked_at": "2026-09-29T16:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,90 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "4b04a3fd54e02545",
+   "title": "Vaishali Parekh's top 3 stocks to buy: Vedanta Power, Kotak Mahindra Bank, Infosys | Target, stop-loss, market outlook",
+   "link": "https://www.livemint.com/market/stock-market-news/vaishali-parekhs-top-3-stocks-to-buy-vedanta-power-kotak-mahindra-bank-infosys-target-stop-loss-market-outlook-11790694178662.html",
+   "summary": "Nifty 50 outlook: Vaishali Parekh believes, to improve the bias from current rate, the index would need a decisive breach above the 23100 zone to establish conviction and clarity",
+   "published": "2026-09-29T15:55:54+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Vaishali_Parekh_stock_recommendations_for_today_1790695849230_WyWW_1790695849506_l7el_d51f4a54-e822-4195-a64c-87c96a356565_Kq1x.png",
+   "topics": [],
+   "first_seen": "2026-09-29T16:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c72a4a86cd6b0294",
+   "title": "Sun Pharma plans ₹10,000 crore bond sale to refinance Organon acquisition loan: Report",
+   "link": "https://www.livemint.com/companies/news/sun-pharma-plans-rs-10-000-crore-bond-sale-to-refinance-organon-acquisition-loan-report-11790695336859.html",
+   "summary": "The country's largest drugmaker by market capitalisation closed a syndication of a near-$12 billion, 18-month bridge loan earlier this year for Organon's acquisition. The syndication also included State Bank of India, the country's largest lender by assets.",
+   "published": "2026-09-29T15:45:10+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Sun_1790696616957_IPZl_1790696624341_XpeD_e4b4790b-b59e-4e38-b1e3-0e494464d80f_jTDT.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T16:00:12+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "M&A",
+    "Valuation"
+   ]
+  },
+  {
+   "id": "2e7cf5eafb3f8ecc",
+   "title": "Moving back to India with a foreign job: will your salary be taxed here?",
+   "link": "https://www.livemint.com/money/personal-finance/moving-back-to-india-with-a-foreign-job-will-your-salary-be-taxed-here-11790571085786.html",
+   "summary": "An NRI returning to India may become taxable on salary for services rendered from India, even if the employer is Canadian and the salary continues to be credited to a Canadian bank account.",
+   "published": "2026-09-29T15:41:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/FOREX-POLL-CANADA-0_1790585629872_eBhE_1790585637738_Qeo7_42fabd6e-946a-49b9-8754-5f7ca468ff2f_KZA1.JPG",
+   "topics": [],
+   "first_seen": "2026-09-29T16:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7046690eb7afaac8",
+   "title": "KKR buys majority stake in Cisternina Logistics",
+   "link": "https://www.livemint.com/companies/news/kkr-buys-majority-stake-in-cisternina-logistics-11790694076134.html",
+   "summary": "The KKR investment will support Cisternina’s proposed acquisition of Ganesh Benzoplast Ltd’s liquid storage terminal and rail business, as well as its expansion through further inorganic plans and the development of new storage infrastructure across India.",
+   "published": "2026-09-29T15:39:36+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/2-0-107491724-OIL-4C--0_1681452551222_1790696130714_b9SW_4e7b5e73-30b0-4590-a1f8-b48228568822_0vPf.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T16:00:12+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "M&A",
+    "PE / VC"
+   ]
+  },
   {
    "id": "05f5b486b77bec5d",
    "title": "Nifty 50 falls 6.3% in September, worst monthly series in 25 years; what triggered the sell-off?",
@@ -11408,89 +11490,6 @@
    "first_seen": "2026-09-23T15:00:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "70e6d87e710162fb",
-   "title": "Madhya Pradesh workers get healthcare boost: How a new ESIC move benefits thousands in 24 districts from October 1",
-   "link": "https://www.livemint.com/money/personal-finance/madhya-pradesh-workers-get-healthcare-boost-how-a-new-esic-move-benefits-thousands-in-24-districts-from-october-1-11790169503065.html",
-   "summary": "The government has notified October 1 as the date from which contributions under the Employees’ State Insurance Act, 1948, will become payable in the areas covered by the order in Madhya Pradesh.",
-   "published": "2026-09-23T14:33:39+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/8812aaa2-2fea-11ed-b999-718f354f2123_1662783365300_1704449729689_1790171633160_UqkX_f9c9caeb-b010-4bb3-824f-4ec3b7852b77_HASH.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T15:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "42c33b5de61d6021",
-   "title": "Wall Street slips as oil and bond yields rise, Trump-Xi meet in focus",
-   "link": "https://www.livemint.com/market/stock-market-news/wall-street-slips-as-oil-and-bond-yields-rise-trump-xi-meet-in-focus-11790171977214.html",
-   "summary": "In early trading, the S&amp;P 500 declined 0.1%, while the Dow Jones Industrial Average slipped 0.2%. The Nasdaq Composite fell 0.3%",
-   "published": "2026-09-23T14:27:46+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/wallstreet4_1790172281748_WQx5_1790172308819_Ozl8_2300d075-eb29-405e-a87f-20cc2c69ef66_C0gc.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T15:00:10+00:00",
-   "valuation_score": 2,
-   "valuation_signals": [
-    "Rates & macro"
-   ]
-  },
-  {
-   "id": "4188de8c9a9e4069",
-   "title": "Shapoorji Pallonji seeks additional funding amid Tata Sons IPO uncertainty: Report",
-   "link": "https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-seeks-additional-funding-amid-tata-sons-ipo-uncertainty-report-11790171339046.html",
-   "summary": "Shapoorji Pallonji Group seeks 35 billion rupees to meet debt obligations while exploring options to monetize its stake in Tata Sons. In talks with lenders, the group requests extensions on existing loans amid ongoing negotiations about Tata Group's potential IPO.",
-   "published": "2026-09-23T14:14:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Tata_Sons_1790174360944_7b3w_1790174375778_uYil_f5cc2e50-37a8-43c4-a85f-062c91cbc6b1_1BzR.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-23T14:30:14+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Funding",
-    "IPO"
-   ]
-  },
-  {
-   "id": "385f0c21460240f2",
-   "title": "Sebi weighs margin changes for longer-dated derivatives",
-   "link": "https://www.livemint.com/market/stock-market-news/sebi-stock-futures-options-derivatives-index-options-11790168119720.html",
-   "summary": "Sebi may look&nbsp; to review margin requirements for longer-dated derivatives as it seeks to broaden India’s equity derivatives market beyond the dominance of short-term index options.",
-   "published": "2026-09-23T14:03:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/INDIA-REGULATION-KORE-DIGITAL-0_1790171845161_Khy6_1790171860691_Ywtl_a875225c-50fe-4cdc-8a09-964081a5cd7a_IXQP.JPG",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-23T14:30:14+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Rules"
-   ]
   }
  ]
 }
