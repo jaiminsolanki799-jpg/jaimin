@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T04:00:11+00:00",
+ "generated_at": "2026-09-29T04:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 8,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 09:25:44 +0530",
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 09:22:43 +0530",
+   "sample_date": "Tue, 29 Sep 2026 09:50:00 +0530",
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 09:28:24 +0530",
+   "sample_date": "Tue, 29 Sep 2026 09:56:04 +0530",
    "error": null,
-   "checked_at": "2026-09-29T04:00:11+00:00"
+   "checked_at": "2026-09-29T04:30:13+00:00"
   }
  ],
  "topics": [
@@ -192,14 +192,52 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "c0c4d3fb0e6c3282",
+   "title": "Forgot to file ITR but employer had deducted TDS: When can income-tax penalty still apply? ITAT explains",
+   "link": "https://www.livemint.com/money/personal-finance/forgot-to-file-itr-but-employer-had-deducted-tds-when-can-income-tax-penalty-still-apply-itat-explains-11790655649328.html",
+   "summary": "The Mumbai ITAT deleted a ₹3.95 lakh penalty imposed on a ship captain who had failed to file his ITR on time. The taxpayer later filed his return in response to a reassessment notice, but the income declared was accepted without any addition.",
+   "published": "2026-09-29T04:26:04+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Generated_Iage_fd79jjfd79jjfd79_179065584_1790655852349_r4eq_1790655852465_LPVb_65df5bc8-406b-412f-aa40-b56f69061e52_SY07.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-29T04:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b0e4ea72a2df87d2",
+   "title": "Nifty 50 monthly expiry prediction today: Check support and resistance levels - What should traders do?",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-monthly-expiry-prediction-today-check-support-and-resistance-levels-what-should-traders-do-11790654348571.html",
+   "summary": "The Nifty remains under pressure after falling below 23,000, with analysts predicting ongoing weakness unless key resistance is reclaimed. Rising crude prices further strain India's fiscal position, potentially hindering GDP growth and corporate earnings in FY27, amid bearish technical indicators.",
+   "published": "2026-09-29T04:20:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/nifty_exp_1790655544554_klTZ_1790655549945_AEic_a48e17c1-3f42-4a8d-8653-2e38e4190097_tOPp.png",
+   "topics": [],
+   "first_seen": "2026-09-29T04:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c42210875ff95b78",
    "title": "Gold and silver price today, Sept 29: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
    "link": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-sept-29-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790650580591.html",
    "summary": "Gold and silver prices in India witnessed a sharp drop during early trading hours on Tuesday. Check retail rates of the precious metals in top metro cities of the country.",
-   "published": "2026-09-29T03:58:24+00:00",
+   "published": "2026-09-29T03:58:23+00:00",
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
@@ -270,9 +308,9 @@
   },
   {
    "id": "0764c4384eb01657",
-   "title": "Top stocks to buy for short term: M&M, Engineers India and 1 other by Master Capital Services - Target price, stop loss",
+   "title": "Top stocks to buy for short term: M&M, Engineers India and 4 others by experts with target price, stop loss",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-m-m-engineers-india-dr-reddys-labs-check-target-price-for-up-to-11-upside-in-11790573842765.html",
-   "summary": "Top stocks to buy for short term: An expert from Master Capital Services suggests a stock-specific approach for short-term investments. M&amp;M, Engineers India, and Dr Reddy's Laboratories show strong potential for recovery.&nbsp;",
+   "summary": "Top stocks to buy for short term: Experts suggest a stock-specific approach for short-term investments. M&amp;M, Engineers India, Dr Reddy's Laboratories and three other stocks show strong potential for recovery.&nbsp;",
    "published": "2026-09-29T03:35:02+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -11418,42 +11456,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/hot_girl_pickle_1790134704364_PYZG_1790134715386_SRND_939258bb-82a5-4751-bbbe-9fe07dd56a4b_atrK.png",
-   "topics": [],
-   "first_seen": "2026-09-23T04:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cf9dab3825c8cc01",
-   "title": "Inside Oracle's job cuts: Employees over 40, middle managers take biggest hit in latest layoff round",
-   "link": "https://www.livemint.com/companies/news/inside-oracles-job-cuts-over-40s-middle-managers-take-biggest-hit-in-latest-round-of-layoffs-11790134724210.html",
-   "summary": "Oracle began a new round of layoffs last week amid a massive, debt-funded expansion into AI infrastructure.",
-   "published": "2026-09-23T04:20:57+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/ORACLE-RESULTS--0_1776319033146_1776319049273_1790136911101_Od5t_980f696f-0444-4c16-9f4e-433c3a45ced7_Y5vE.JPG",
-   "topics": [],
-   "first_seen": "2026-09-23T04:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7c58958af484d443",
-   "title": "Arvind SmartSpaces share price jumps 12% today as ₹500 crore bookings in 30 days spark investors' interest - Details",
-   "link": "https://www.livemint.com/market/stock-market-news/arvind-smartspaces-share-price-jumps-12-today-as-rs-500-crore-bookings-in-30-days-spark-investors-interest-details-11790135195447.html",
-   "summary": "Arvind SmartSpaces shares rose 12% after the successful bookings of ₹500 crore for its Bengaluru residential project, Arvind Sylva, within 30 days of launch. The project, covering 4.7 acres, features premium residences and significant greenery, highlighting investor confidence in the company.",
-   "published": "2026-09-23T04:09:47+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/arvind_smart_1790136478769_Xy5M_1790136484978_GnKD_8580bcc1-b021-4bdb-a5a4-8a5daf36bc4e_vkxp.png",
    "topics": [],
    "first_seen": "2026-09-23T04:30:10+00:00",
    "valuation_score": 0,
