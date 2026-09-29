@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T10:00:12+00:00",
+ "generated_at": "2026-09-29T10:30:15+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:00:12+00:00"
+   "checked_at": "2026-09-29T10:30:15+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 09:48:12 GMT",
+   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:00:12+00:00"
+   "checked_at": "2026-09-29T10:30:15+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 29 Sep 2026 08:55:41 GMT",
+   "sample_date": "Tue, 29 Sep 2026 10:06:54 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:00:12+00:00"
+   "checked_at": "2026-09-29T10:30:15+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 25,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T10:00:12+00:00"
+   "checked_at": "2026-09-29T10:30:15+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 10:00:00 +0000",
    "error": null,
-   "checked_at": "2026-09-29T10:00:12+00:00"
+   "checked_at": "2026-09-29T10:30:15+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,50 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "cea9674aa5e52797",
+   "title": "Adani Family Office backs Nudge as startup pivots to rewards-led commerce",
+   "link": "https://yourstory.com/2026/09/adani-family-office-backs-nudge-as-startup-pivots-to-rewards-led-commerce",
+   "summary": "Nudge, operated by iSocial Sports, is shifting from its earlier sports-led model towards receipt-based rewards, commerce and purchase intelligence for brands.",
+   "published": "2026-09-29T10:18:56+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T10:30:15+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "5ceb5bc2daebf84f",
+   "title": "HCLSoftware Expands AI Capabilities with €9 Million Robotiq.ai Acquisition",
+   "link": "https://startuptalky.com/news/hcltech-arm-expands-ai-capabilities/",
+   "summary": "HCLSoftware, the software arm of HCLTech, has inked an agreement to acquire Robotiq.ai, an enterprise automation business based in Croatia, in a €9 million cash transaction. The acquisition will be made through HCL Technologies Austria GmbH and is expected to close by November 2026.",
+   "published": "2026-09-29T10:06:54+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/hcltech-arm-expands-ai-capabilities-Startuptalky.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T10:30:15+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
   {
    "id": "875e29a81c0fba12",
    "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
@@ -180,7 +222,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "Valuation / M&A"
@@ -222,7 +264,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T08:30:08+00:00",
@@ -240,7 +282,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T08:00:12+00:00",
@@ -298,7 +340,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T07:00:11+00:00",
@@ -316,7 +358,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T06:30:11+00:00",
@@ -390,7 +432,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T06:00:10+00:00",
@@ -486,7 +528,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T05:30:09+00:00",
@@ -819,6 +861,24 @@
    "valuation_signals": []
   },
   {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-28T19:27:04+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "82272e48cc17e1a1",
    "title": "The AI boom took over Climate Week and not everyone is happy about it",
    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
@@ -991,7 +1051,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T21:30:08+00:00",
@@ -1009,7 +1069,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T16:30:10+00:00",
@@ -1029,7 +1089,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T16:00:16+00:00",
@@ -1468,7 +1528,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "SEBI / markets regulation"
@@ -1490,7 +1550,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T12:30:13+00:00",
@@ -1602,7 +1662,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [
     "RBI / banking"
@@ -1678,7 +1738,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T21:30:08+00:00",
@@ -1732,7 +1792,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T12:30:13+00:00",
@@ -1750,7 +1810,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T12:00:14+00:00",
@@ -1786,7 +1846,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T07:30:12+00:00",
@@ -1878,7 +1938,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:30:10+00:00",
@@ -1937,7 +1997,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:30:10+00:00",
@@ -1975,7 +2035,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:00:10+00:00",
@@ -2031,7 +2091,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "entrackr.com",
+   "publisher": "Entrackr",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T05:30:10+00:00",
@@ -2349,24 +2409,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T21:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-26T20:37:29+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
