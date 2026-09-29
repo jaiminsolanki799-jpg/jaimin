@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T00:30:09+00:00",
+ "generated_at": "2026-09-29T01:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
-   "items": 5,
+   "fetched": 7,
+   "items": 4,
    "sample_date": "Sat, 26 Sep 2026 11:54:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 05:30:35 +0530",
+   "sample_date": "Tue, 29 Sep 2026 06:00:35 +0530",
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 02:55:50 +0530",
+   "sample_date": "Tue, 29 Sep 2026 06:00:55 +0530",
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 00:15:27 +0530",
    "error": null,
-   "checked_at": "2026-09-29T00:30:09+00:00"
+   "checked_at": "2026-09-29T01:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "2595f3aab067da3b",
+   "title": "Four blue-chip stocks in India with expanding margins",
+   "link": "https://www.livemint.com/market/stock-market-news/four-blue-chip-stocks-in-india-with-expanding-margins-11790595838412.html",
+   "summary": "Explore four blue-chip stocks in India that have reported improving operating and net profit margins",
+   "published": "2026-09-29T00:30:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/IMG-20260216-WA0022_1771389490700_1771389500741_1790599730160_qTQ6_52775dd8-eb28-4627-90ff-20b7a556d9b4_8Rt4.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T01:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "56d90638f94e9aef",
+   "title": "Talent crunch may hamper Sebi’s PMS revamp",
+   "link": "https://www.livemint.com/market/talent-crunch-may-hamper-sebi-s-pms-revamp-11790578490810.html",
+   "summary": "Demand for diversification beyond Indian markets is rising, but building teams with the expertise to invest across geographies, currencies and regulatory regimes will take time, as few Indian funds currently invest overseas.",
+   "published": "2026-09-29T00:30:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/INDIA-SEBI-TECHNICAL-GLITCHES-0_1768821552544_1768821564089_1790593769682_PJwj_a955a177-1025-44e0-bacb-f04c51a0fab2_jUQ1.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-29T01:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
+  {
+   "id": "ffa838af6128060f",
+   "title": "Indian family offices, MFOs ramp up CXO hiring to build institutional capabilities",
+   "link": "https://www.livemint.com/companies/news/indian-family-offices-mfos-cxo-hiring-institutional-capabilities-11790563405712.html",
+   "summary": "Executives are taking on roles that go beyond portfolio management for family offices to build capabilities across governance, technology, risk, people and operations.",
+   "published": "2026-09-29T00:30:35+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/g2816fbf9d7ecca205bfef51961a04bdba534c75c6a9a43cbd_1790608507412_1FZq_1790608507522_zlzy_82faf3ec-afab-44a4-9f48-f6de787998ff_ASNC.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T01:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "915e31d485829ba7",
    "title": "Table Space IPO faces Sebi challenge over promoter classification",
@@ -11400,62 +11458,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/prediction_1790125966047_QX8D_1790125966175_aGs3_a1af47d0-738b-4c2a-9d7a-0596ae119b19_zgyA.png",
    "topics": [],
    "first_seen": "2026-09-23T01:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "83c6d9361b606f46",
-   "title": "Snapdeal banks on Gen Z to leave its old image behind",
-   "link": "https://www.livemint.com/companies/snapdeal-banks-on-gen-z-to-leave-its-old-image-behind-11790076291203.html",
-   "summary": "Eyeing a ₹1,741-crore valuation, AceVector is taking Snapdeal public with a narrower value-fashion strategy, betting on younger shoppers and underserved markets to drive its next phase of growth.",
-   "published": "2026-09-23T00:30:52+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/2-0-793798359-Snapdeal-06-0_1680438492996_1790083569098_51ba_6d53b566-a520-4cbf-85da-e21a0794b01e_sM0j.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-23T01:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8a5f758a7aebb5d2",
-   "title": "Stock recommendations for 23 September from MarketSmith India",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-23-september-from-marketsmith-india-11790078815895.html",
-   "summary": "MarketSmith India reveals its top stock recommendations for today, 23 September. Get expert insights into the best-performing stocks to guide your investment decisions.",
-   "published": "2026-09-23T00:30:32+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/MS_1755693310577_1755693317448_1756904694597_1772627086309.png",
-   "topics": [],
-   "first_seen": "2026-09-23T01:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "57d4c88d94447220",
-   "title": "Raja Venkatraman recommends three stocks for 23 September",
-   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-23-september-11790090181176.html",
-   "summary": "Market expert Raja Venkatraman shares his top stock picks for 23 September. Here’s his technical outlook and trade strategy.",
-   "published": "2026-09-23T00:30:32+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/RAJA_IMG1_1733139557630_1773677587730_177845889149_1790091081945_vCuF_1790091082085_IWY2_4d8b61e9-8b1a-4019-a390-c3ff77bdae48_yGoj.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T01:00:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
