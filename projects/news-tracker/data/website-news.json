@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T04:30:13+00:00",
+ "generated_at": "2026-09-29T05:00:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 12,
-   "items": 12,
+   "fetched": 13,
+   "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-29T04:30:13+00:00"
+   "checked_at": "2026-09-29T05:00:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 03:30:00 GMT",
+   "sample_date": "Mon, 28 Sep 2026 10:54:58 GMT",
    "error": null,
-   "checked_at": "2026-09-29T04:30:13+00:00"
+   "checked_at": "2026-09-29T05:00:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 28 Sep 2026 22:43:45 GMT",
+   "sample_date": "Tue, 29 Sep 2026 04:43:32 GMT",
    "error": null,
-   "checked_at": "2026-09-29T04:30:13+00:00"
+   "checked_at": "2026-09-29T05:00:08+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 18,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T04:30:13+00:00"
+   "checked_at": "2026-09-29T05:00:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 00:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-29T04:30:13+00:00"
+   "checked_at": "2026-09-29T05:00:08+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "421344c96dfcd3d1",
+   "title": "WEH Ventures Announces First Close of ₹250 Cr Fund III",
+   "link": "https://startuptalky.com/news/weh-ventures-announces-first-close-of-250-cr-fund-iii/",
+   "summary": "WEH Ventures has announced the first close of Fund III, targeting ₹250 crore for 20 to 25 seed-stage Indian startups. The fund is 12.5 times the size of the 2017 debut fund that one smallcase exit returned on its own.",
+   "published": "2026-09-29T04:43:32+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/image-1790656697114.webp",
+   "topics": [],
+   "first_seen": "2026-09-29T05:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b70fc5003baa6e44",
+   "title": "Mobile Measurement Partners for Startups: How to Protect Burn Rate and Maximize ROI",
+   "link": "https://startuptalky.com/mobile-measurement-partners-for-startups-how-to-protect-burn-rate-and-maximize-roi/",
+   "summary": "Every dollar counts for early-stage mobile startups. Here's how the right Mobile Measurement Partner protects burn rate, fights install fraud, and unifies growth data.",
+   "published": "2026-09-29T04:33:25+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Mobile-Measurement-Partners-for-Startups-How-to-Protect-Burn-Rate-and-Maximize-ROI-1.png",
+   "topics": [],
+   "first_seen": "2026-09-29T05:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ab53bd064070bbd0",
+   "title": "If AI is writing your resume, then what?",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEQl9NZ0xwT2RLOUFrM2V4aG02ZHJNT1cxNzRmYm84bnlsWVM2WnlVRWl1eUVrOWVQekI1WVVKb0RrUWVSOWZMVUdab1NOZ0lfUUtxUTZnOEJiVFVXTmU5dzFnZjk5dE5xWG1xU1FGNXNUd1BuWUE0dg?oc=5",
+   "summary": "",
+   "published": "2026-09-29T04:32:42+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T05:00:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1efb61af3ee96821",
    "title": "GCCs in India are moving from service delivery to product building; developers need to follow",
