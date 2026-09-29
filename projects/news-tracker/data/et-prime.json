@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T16:00:12+00:00",
+ "generated_at": "2026-09-29T16:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
+   "fetched": 8,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 21:15:10 +0530",
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 21:25:54 +0530",
+   "sample_date": "Tue, 29 Sep 2026 21:52:08 +0530",
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 21:11:02 +0530",
+   "sample_date": "Tue, 29 Sep 2026 21:51:50 +0530",
    "error": null,
-   "checked_at": "2026-09-29T16:00:12+00:00"
+   "checked_at": "2026-09-29T16:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "0916102cec875b9c",
+   "title": "Maruti Suzuki vs TVS Motor vs Mahindra: Which auto stock to buy ahead of festive season? Check target price",
+   "link": "https://www.livemint.com/market/stock-market-news/maruti-suzuki-vs-tvs-motor-vs-mahindra-which-auto-stock-to-buy-ahead-of-festive-season-check-target-price-11790698377129.html",
+   "summary": "Motilal Oswal remains bullish on OEM auto stocks like Maruti Suzuki, TVS, and M&amp;M due to increased vehicle sales ahead of the festive season. Car volumes saw a 20.4% rise in August 2026, with Maruti and Honda as key outperformers.",
+   "published": "2026-09-29T16:22:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/asasfasfavg_1790698608520_T9s6_1790698619160_CUwj_05d5da93-aacd-4bab-8f7f-3aa06d924039_y8wc.png",
+   "topics": [],
+   "first_seen": "2026-09-29T16:30:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "2a4facdcfa6bb0bb",
+   "title": "Does 35% gold, silver and InvIT allocation flexibility make equity mutual funds a better buy? Experts explain",
+   "link": "https://www.livemint.com/money/personal-finance/does-35-gold-silver-and-invit-allocation-flexibility-make-equity-mutual-funds-a-better-buy-experts-explain-11790695496450.html",
+   "summary": "Under the revised SEBI framework, eligible equity mutual funds can allocate their residual portfolio to assets such as gold ETFs, silver ETFs, and Infrastructure Investment Trusts.",
+   "published": "2026-09-29T16:21:50+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/With-mutual-funds--investors-are-only-taxed-when-t_1689526490313_1790696146478_QImg_b9e2d1ea-16fd-495e-a768-46e8f437115b_wMJM.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-29T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "47bf1a4e6ac04656",
+   "title": "Top stocks in focus tomorrow: Investors must watch Tata Steel, KSB, Power Mech, TCI shares on Wed, 30 Sept | Triggers",
+   "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-tata-steel-ksb-power-mech-tci-shares-on-wed-30-sept-triggers-11790695244837.html",
+   "summary": "Investors in the Indian stock market are set to focus on companies like KSB and Punjab &amp; Sind Bank on September 30 due to significant financing activities and project developments. Highlights include Tata Steel's $2 billion infusion and Capital India Finance's ₹100 crore fundraising.",
+   "published": "2026-09-29T15:59:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/SWE_dupl_1790697060766_JYVy_1790697065193_RSoD_c75c84ea-b3c6-4e69-a57d-bedbc6d7278e_UIAv.png",
+   "topics": [],
+   "first_seen": "2026-09-29T16:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4b04a3fd54e02545",
    "title": "Vaishali Parekh's top 3 stocks to buy: Vedanta Power, Kotak Mahindra Bank, Infosys | Target, stop-loss, market outlook",
@@ -11432,62 +11490,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Block_deal_1790176510603_YFEz_1790176521703_6c2P_3b6258f6-93b6-4896-bb4f-e8436392bf3f_oJA2.png",
    "topics": [],
    "first_seen": "2026-09-23T15:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cac1a99c7b0de1a8",
-   "title": "SBI Card launches FD-backed credit cards on YONO: Who is eligible? What does it offer? Check variants & other details",
-   "link": "https://www.livemint.com/money/personal-finance/sbi-card-launches-fd-backed-credit-cards-on-yono-who-is-eligibility-what-does-it-offer-check-variants-key-detai-11790171194481.html",
-   "summary": "SBI Card has launched a new secured credit card linked to a fixed deposit, available for online applications via the SBI YONO platform in just 10 minutes, aiming to assist customers in building or enhancing their credit history.",
-   "published": "2026-09-23T15:13:28+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Untitled_design_1790175761456_zcNv_1790175766112_4kHJ_bbb1087e-db1e-4d1f-a4a8-9ff4f724587c_423I.png",
-   "topics": [],
-   "first_seen": "2026-09-23T15:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0baa552c881eec3f",
-   "title": "Visiting PVR INOX to watch a movie? Carrying hard cash and no soft cash in your account? Be aware of the rules first",
-   "link": "https://www.livemint.com/money/visiting-pvr-inox-to-watch-a-movie-carrying-hard-cash-and-no-soft-cash-in-your-account-be-aware-of-the-rules-first-11790021509213.html",
-   "summary": "Recently, an advocate from Ahmedabad sent a legal notice to PVR INOX over its cashless policy. According to experts, private businesses can skip cash and insist on digital payments. Here's what the company's policy says.",
-   "published": "2026-09-23T15:00:14+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/21558_1790024478847_3yS6_1790024490514_KisF_010ecb4f-9765-4590-8d1e-57dda46d9c57_EzZY.jpg",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-23T15:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7d83a113ca07fac0",
-   "title": "Nidhi Aapke Nikat 2.0: EPFO to begin awareness campaign next week — Check here for date, full list of cities",
-   "link": "https://www.livemint.com/money/personal-finance/epfo-begins-nidhi-aapke-nikat-2-awareness-campaign-28-september-date-full-list-city-district-monthly-outreach-programme-11790170720739.html",
-   "summary": "Nidhi Aapke Nikat is the provident and pension fund body's last mile monthly outreach programme for members, under which it organises camps across India on a district level.",
-   "published": "2026-09-23T14:54:19+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/epfo_2_1758891297097_1758891301704_1790175061383_h206_09fcf24e-db89-4e1f-b856-1d386189610f_nv4n.png",
-   "topics": [],
-   "first_seen": "2026-09-23T15:00:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
