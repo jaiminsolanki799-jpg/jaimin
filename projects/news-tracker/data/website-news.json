@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T18:30:11+00:00",
+ "generated_at": "2026-09-29T19:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-29T18:30:11+00:00"
+   "ok": true,
+   "fetched": 11,
+   "items": 11,
+   "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
+   "error": null,
+   "checked_at": "2026-09-29T19:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 03:00:00 GMT",
+   "sample_date": "Tue, 29 Sep 2026 11:21:50 GMT",
    "error": null,
-   "checked_at": "2026-09-29T18:30:11+00:00"
+   "checked_at": "2026-09-29T19:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 29 Sep 2026 14:59:38 GMT",
    "error": null,
-   "checked_at": "2026-09-29T18:30:11+00:00"
+   "checked_at": "2026-09-29T19:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-09-29T18:30:11+00:00"
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
+   "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
+   "error": null,
+   "checked_at": "2026-09-29T19:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 17:45:51 +0000",
+   "sample_date": "Tue, 29 Sep 2026 18:48:03 +0000",
    "error": null,
-   "checked_at": "2026-09-29T18:30:11+00:00"
+   "checked_at": "2026-09-29T19:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "0bcc431eb8e7e1b1",
+   "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+   "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+   "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
+   "published": "2026-09-29T18:48:03+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jean Bradley, TechCrunch Events",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "66cf3fca4ff1585e",
+   "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+   "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+   "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+   "published": "2026-09-29T18:45:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "447bf1aab0079f2b",
+   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+   "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+   "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+   "published": "2026-09-29T18:35:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b6f078daefc5deb8",
    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
