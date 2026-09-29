@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T06:30:11+00:00",
+ "generated_at": "2026-09-29T07:00:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
-   "items": 5,
+   "fetched": 11,
+   "items": 6,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 10:51:58 +0530",
+   "sample_date": "Tue, 29 Sep 2026 12:07:45 +0530",
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 11:56:57 +0530",
+   "sample_date": "Tue, 29 Sep 2026 11:59:51 +0530",
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 11:57:56 +0530",
+   "sample_date": "Tue, 29 Sep 2026 11:59:34 +0530",
    "error": null,
-   "checked_at": "2026-09-29T06:30:11+00:00"
+   "checked_at": "2026-09-29T07:00:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,87 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "ad383f9c3ea10877",
+   "title": "Red Bull vs FSSAI: Why India’s ‘energy drink’ label fight is now an investment story",
+   "link": "https://www.livemint.com/companies/news/red-bull-vs-fssai-why-india-s-energy-drink-label-fight-is-now-an-investment-story-11790663196639.html",
+   "summary": "Red Bull has challenged FSSAI’s prohibition on the ‘energy drink’ descriptor in the Delhi High Court, arguing that the move creates regulatory uncertainty and affects its existing and planned investments in India.&nbsp;",
+   "published": "2026-09-29T06:37:45+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/INDIA-FOOD-RED-BULL-0_1790663219803_E6ZU_1790663241102_p1Hc_cc27efaf-af6e-41f8-8549-a9dc8919ba07_MRvu.JPG",
+   "topics": [],
+   "first_seen": "2026-09-29T07:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "73e271afe4c9b164",
+   "title": "Permira, TPG pick up Cloudnine stakes in $450 million deal at $1.3 billion valuation",
+   "link": "https://www.livemint.com/companies/cloudnine-hospitals-permira-tpg-capital-450-million-deal-11790657292836.html",
+   "summary": "Permira and TPG Capital have acquired stakes in Cloudnine Hospitals from True North and TPG NewQuest in a $450 million secondary deal, valuing the maternity and childcare chain at about $1.3 billion.",
+   "published": "2026-09-29T06:31:56+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/2-0-1475975919-iStock-986746224-0_1679855040571_1790663475219_RdiL_af88fd4d-6fa6-4a25-8dcd-51cd55056b67_fVmC.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T07:00:11+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "M&A"
+   ]
+  },
+  {
+   "id": "414dc34843105dc0",
+   "title": "Nifty monthly expiry meets CAS today: Why the last 30 minutes of the Tuesday trading session could be most important",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-monthly-expiry-meets-cas-today-why-the-last-30-minutes-of-the-tuesday-trading-session-could-be-most-important-11790660642153.html",
+   "summary": "As Nifty is set for both weekly and monthly options expiry, heightened volatility is expected in today's trading session. The introduction of the Closing Auction Session (CAS) is intensifying price swings, prompting a closer look at how these elements influence index behaviour and market strategies.",
+   "published": "2026-09-29T06:29:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Nifty_monthly_expiry_meets_CAS_today_1790661168888_317N_1790661173617_Qiow_f2f91c6b-5a71-4dfb-b622-bc2a363667c1_IwhA.png",
+   "topics": [],
+   "first_seen": "2026-09-29T07:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5418c617f8eb6dd6",
+   "title": "Inflation-linked health cover: what you need to know",
+   "link": "https://www.livemint.com/money/personal-finance/health-insurance-inflation-shield-rider-benefits-cost-11790656219614.html",
+   "summary": "Health insurance covers may seem sufficient now, but inflation can raise surgery costs. Inflation-protection features adjust the sum insured at renewal, but often rely on CPI instead of actual medical inflation, which can be higher.&nbsp;",
+   "published": "2026-09-29T06:29:34+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/2-0-875484822-659333804-0_1679648220980_1790663052849_eFtO_177f4c32-e3d5-4158-87fe-f70fb86faced_85S8.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T07:00:11+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "36855ee482dfe47f",
    "title": "8th Pay Commission: Postal employees seek 2025-26 bonus before Durga Puja; what they want changed",
@@ -217,7 +296,7 @@
    "title": "26% dip in YTD! Jio Financial Services shares hit 52-week low — will trend reverse? Target price, support, resistance",
    "link": "https://www.livemint.com/market/stock-market-news/26-dip-in-ytd-jio-financial-services-shares-hit-52-week-low-will-trend-reverse-target-price-support-resistance-11790658322060.html",
    "summary": "Jio Financial Services shares fell over 2% on 29 September, reaching a 52-week low as overall market conditions worsened. Year-to-date, the stock has dropped over 25%, raising concerns over further declines amid technical signals indicating potential support and resistance levels.",
-   "published": "2026-09-29T06:26:57+00:00",
+   "published": "2026-09-29T06:26:55+00:00",
    "source": "Mint Markets",
    "group": "Mint",
    "category": "Markets",
@@ -11379,82 +11458,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "IPO"
-   ]
-  },
-  {
-   "id": "b0321deb55b1ce0b",
-   "title": "Vedanta Power to join Nifty 500 index: What it means for investors? Check outlook",
-   "link": "https://www.livemint.com/market/stock-market-news/vedanta-power-to-join-nifty-500-index-what-it-means-for-investors-check-outlook-11790146080492.html",
-   "summary": "Vedanta Power shares rose nearly 5% ahead of inclusion in Nifty 500 and Nifty Smallcap 250. Despite a 25.9% decline since demerger, experts believe increased visibility may attract institutional investors, although long-term stock performance hinges on earnings and operational improvements.",
-   "published": "2026-09-23T06:54:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/vedanta_power_final_1790146257423_cyhb_1790146287997_AhHF_ed2738c8-c6c3-4e3e-aa24-ffcc2ee8782f_xYik.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "521939fbe5658830",
-   "title": "8th Pay Commission: Why pensioners want 15-year commutation period cut to 11 years",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-why-pensioners-want-15-year-commutation-period-cut-to-11-years-11790142777627.html",
-   "summary": "8th Pay Commission: Bharat Pensioners' Samaj demands that the pension commutation restoration period be reduced from 15 to 11 years, citing an outdated 2006 actuarial table, following a Himachal Pradesh HC ruling calling for a fresh review of rates and life expectancy data.",
-   "published": "2026-09-23T06:52:36+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/12345_1790143620083_BIqt_1790143631609_hWbr_46a53f79-2575-434d-800a-f1964d9d3fb3_4Sjb.png",
-   "topics": [],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7bc73725078bd9d1",
-   "title": "BlueStone Jewellery share price falls 9% today | What's behind the plunge?",
-   "link": "https://www.livemint.com/market/stock-market-news/bluestone-jewellery-share-price-falls-52-week-low-today-whats-behind-the-plunge-11790143391033.html",
-   "summary": "BlueStone Jewellery share price opened at ₹941.65 apiece today, as compared to previous close of ₹930.40 on Tuesday.",
-   "published": "2026-09-23T06:49:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Bluestone_1790156679003_WI9k_1790156679295_qMWo_f115c177-810e-4a1c-8629-fc82ef9545a9_5SZj.png",
-   "topics": [],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4c1cc6f06ada4f5a",
-   "title": "LG Electronics India share price target: BOB Capital sees 20% upside | What’s driving the call?",
-   "link": "https://www.livemint.com/market/stock-market-news/lg-electronics-india-share-price-target-bob-capital-sees-20-upside-what-s-driving-the-call-11790145087964.html",
-   "summary": "BOB Capital Markets has rated LG Electronics India as a ‘Buy’ with a target price of ₹1,980 per share, indicating a 20% upside. Strong brand recognition, product diversification, and increased local manufacturing are expected to drive growth over three years.",
-   "published": "2026-09-23T06:49:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/LG_Electronics_India_1790145928247_l4Vd_1790145932143_5YT5_991ced47-f689-45fc-81d2-e0cef734560f_opBV.png",
-   "topics": [],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
    ]
   }
  ]
