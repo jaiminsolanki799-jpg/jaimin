@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T01:30:13+00:00",
+ "generated_at": "2026-09-29T02:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-29T01:30:13+00:00"
+   "checked_at": "2026-09-29T02:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
+   "sample_date": "Mon, 28 Sep 2026 07:00:57 GMT",
    "error": null,
-   "checked_at": "2026-09-29T01:30:13+00:00"
+   "checked_at": "2026-09-29T02:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 28 Sep 2026 22:43:45 GMT",
    "error": null,
-   "checked_at": "2026-09-29T01:30:13+00:00"
+   "checked_at": "2026-09-29T02:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 16,
-   "items": 16,
+   "fetched": 18,
+   "items": 18,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T01:30:13+00:00"
+   "checked_at": "2026-09-29T02:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 00:30:00 +0000",
    "error": null,
-   "checked_at": "2026-09-29T01:30:13+00:00"
+   "checked_at": "2026-09-29T02:00:09+00:00"
   }
  ],
  "topics": [
@@ -108,24 +108,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T00:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-28T23:08:33+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -242,6 +224,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T19:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-28T19:27:04+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1468,6 +1468,24 @@
    ]
   },
   {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-28T04:38:07+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "70addb5019474741",
    "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
    "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
@@ -1776,24 +1794,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T21:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-26T20:37:29+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -8542,26 +8542,6 @@
    "publisher": null,
    "image": null,
    "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0dcba127d4e2cf87",
-   "title": "Who will build India’s next 100 chip companies? Giving robots a sense of direction",
-   "link": "https://yourstory.com/2026/09/who-will-build-indias-next-100-chip-companies",
-   "summary": "At Semicon India 2026 in New Delhi, MeitY Secretary S. Krishnan highlighted the rapid momentum of the India Semiconductor Mission (ISM), which has successfully transitioned from a policy framework to operational semiconductor factories within four years.",
-   "published": "2026-09-19T02:00:00+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Budget / policy"
-   ],
    "first_seen": "2026-09-21T05:21:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
