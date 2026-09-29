@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T15:00:11+00:00",
+ "generated_at": "2026-09-29T15:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 20:23:40 +0530",
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 18:36:00 +0530",
+   "sample_date": "Tue, 29 Sep 2026 20:50:05 +0530",
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 20:20:24 +0530",
+   "sample_date": "Tue, 29 Sep 2026 20:46:56 +0530",
    "error": null,
-   "checked_at": "2026-09-29T15:00:11+00:00"
+   "checked_at": "2026-09-29T15:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,106 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "05f5b486b77bec5d",
+   "title": "Nifty 50 falls 6.3% in September, worst monthly series in 25 years; what triggered the sell-off?",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-falls-6-3-in-september-worst-monthly-series-in-25-years-what-triggered-the-selloff-11790689288980.html",
+   "summary": "September was challenging for Nifty, marking a 6.3% decline, the worst since 2001. The index's seven-week losing streak reflects weak market sentiment, driven by high crude oil prices, elevated bond yields, and uncertainties regarding financial sector regulations amid tightening monetary policies.",
+   "published": "2026-09-29T15:20:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Dalal_S_1790691331453_9coh_1790691340630_wmy5_ff128efa-5f5f-4bf0-b0c3-b029920fe1b6_ski7.png",
+   "topics": [],
+   "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "99acee8497599547",
+   "title": "EPFO: What is minimum balance? Check rules for early withdrawal, full list of reasons for partial withdrawal here",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-minimum-balance-75-pc-rule-early-withdraw-12-months-member-full-list-reasons-partial-funds-marriage-education-house-11790689936911.html",
+   "summary": "EPFO members can withdraw funds for medical, educational, or housing needs. Here's a look at the EPFO's rules for partial and early withdrawal by subscribers and the full list of reasons you can use to access your provident fund corpus.",
+   "published": "2026-09-29T15:16:56+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Generated_Image_yojdv8yojdv8yojd_1784438189_1790694716444_luYt_1790694716580_CS3Y_646e201a-3ad6-48ed-a57c-cf038356a85e_2oaD.png",
+   "topics": [],
+   "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "764783a859bf195a",
+   "title": "Transport Corporation buyback approved: From price per share to record date - what investors need to know",
+   "link": "https://www.livemint.com/market/stock-market-news/transport-corporation-buyback-approved-from-price-per-share-to-record-date-what-investors-need-to-know-11790694100269.html",
+   "summary": "Transport Corporation of India announced its first-ever equity share buyback of up to 15.62 lakh shares at ₹960 each, totaling ₹150 crore. The buyback represents 2.03% of total equity shares. Additionally, the company plans to establish a wholly owned subsidiary in China to enhance logistics.",
+   "published": "2026-09-29T15:13:39+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Buyback_2_1790694654586_g2Ms_1790694662383_tv8b_bedecdbb-ae53-4c39-889e-1e7c482d0e45_fJN6.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "6d488e21f498b987",
+   "title": "Debt mutual funds: Axis MF suggests where to invest as RBI may raise rates by 50-75 bps over next 6 months",
+   "link": "https://www.livemint.com/money/personal-finance/debt-mutual-funds-axis-mf-suggests-where-to-invest-as-rbi-may-raise-rates-by-50-75-bps-over-the-next-6-months-11790687379154.html",
+   "summary": "Interest rates may stay higher for longer as the Fed resumes hikes. Axis MF expects the RBI to tighten rates and favours 1-3 year corporate bonds, while remaining cautious on long SDLs. Here’s what debt mutual fund investors should know as bond yields rise.",
+   "published": "2026-09-29T15:00:08+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/rate_1790691841964_ZY1R_1790691846797_inC9_43f40318-680b-42ae-9520-180650fe9a32_MdJ5.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c1bacc08ee19db30",
+   "title": "Top 5 Sumeet Bagadia's breakout stocks: Gland Pharma, Astra Micro, Meesho, Westlife, Ujjivan | Target price, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/top-5-sumeet-bagadias-breakout-stocks-gland-pharma-astra-micro-meesho-westlife-ujjivan-target-price-stoploss-11790688431501.html",
+   "summary": "Sumeet Bagadia believes buying in in Adani Enterprises, Adani Ports, Kotak Bank, Dr. Reddy's, Sun Pharma and Infosys turned the fall into a recovery",
+   "published": "2026-09-29T14:58:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Sumeet_Bagadia_breakout_stocks_today_picks_1790689412348_oKom_1790689412466_dzso_2568eaa6-25b9-4753-8fc2-1be011b9e0dc_OB9l.png",
+   "topics": [],
+   "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "5020a45d51b87e99",
    "title": "Lloyds Enterprises settles Sebi case over ₹144.82 crore advances",
@@ -11393,101 +11491,6 @@
    "valuation_signals": [
     "Rules"
    ]
-  },
-  {
-   "id": "deabc958065e1b90",
-   "title": "Byju’s parent Think & Learn, Aakash settle rights issue before NCLT Bengaluru",
-   "link": "https://www.livemint.com/companies/news/byjus-parent-think-learn-aakash-reach-settlement-over-rights-issue-before-nclt-after-legal-battle-what-led-to-d-11790167107059.html",
-   "summary": "The Bengaluru bench of the NCLT was informed that Think &amp; Learn Private Limited and Aakash Educational Services Limited have settled their dispute over Aakash’s rights issue. This was communicated by Senior Advocates representing both parties during a tribunal hearing.",
-   "published": "2026-09-23T13:45:22+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Untitled_design_1790170751180_HXgU_1790170755502_5rwa_aa59ce76-09ea-41a2-b0ae-427c8583efb1_XUWn.png",
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-23T14:00:14+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Buyback & payout",
-    "Distress"
-   ]
-  },
-  {
-   "id": "ce1033bbbad6b90a",
-   "title": "Duty-free shops can’t claim blanket exemption from Indian laws: Bombay HC",
-   "link": "https://www.livemint.com/companies/news/bombay-hc-ruling-duty-free-shops-adani-subject-to-india-regulatory-laws-customs-barrier-11790168199016.html",
-   "summary": "Adani Group-backed Mumbai Travel Retail and Flemingo Dutyfree Shop argued that Indian drug authorities could not take action against them because the shops are located in the international departure area.",
-   "published": "2026-09-23T13:39:36+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/The-Bombay-High-Court_1790170406872_QWoy_1790170407038_ZFEt_6e80d61f-7061-4c5d-a70b-14bbd3ef552f_d0ZR.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T14:00:14+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f5afa481863c6139",
-   "title": "M3M Hurun India Rich List 2026: From Landmark’s Renuka Jagtiani to Sacramento Kings’ Vivek Ranadive — Check new entrants",
-   "link": "https://www.livemint.com/money/personal-finance/m3m-hurun-india-rich-list-2026-landmark-renuka-jagtiani-parle-ai-sacramento-kings-vivek-ranadive-check-new-entrant-names-11790164937122.html",
-   "summary": "The biggest wealth strides in the M3M Hurun India Rich List 2026's top 100 were made by individuals from industrial and diversified businesses. And the biggest new entrant on the 2026 list is Renuka Jagtiani of Landmark Group, with wealth of ₹70,500 crore.&nbsp;",
-   "published": "2026-09-23T13:36:11+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/startups_India_unicorn_Hurun_2025_list_news_busine_1790170246568_2R5a_1790170246812_P3oT_67d6d399-5e77-4412-9810-a7671a98d062_HORG.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T14:00:14+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0cabb479c795448c",
-   "title": "Multibagger Cupid shares gain 6% after company raises FY27 revenue, profit guidance. Could this trigger a further rally?",
-   "link": "https://www.livemint.com/market/stock-market-news/multibagger-cupid-shares-gain-6-after-company-raises-fy27-revenue-profit-guidance-could-this-trigger-a-further-rally-11790167073845.html",
-   "summary": "Cupid Ltd. shares rose 6% to ₹273.85 after the company upgraded its FY27 profit and revenue outlook, citing strong growth in global healthcare and Bharat business.",
-   "published": "2026-09-23T13:35:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Multibagger_1790170455023_YGsp_1790170464770_0WUa_e4922e4b-726a-4d47-9689-5de5f30a85f1_qo4Y.png",
-   "topics": [],
-   "first_seen": "2026-09-23T14:00:14+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b35d9c593c525c2e",
-   "title": "Railways notifies UPS rules for employees covered by NPS: ₹10,000 minimum pension, 25-year full pension",
-   "link": "https://www.livemint.com/money/personal-finance/railways-notifies-ups-rules-for-employees-covered-by-nps-10-000-minimum-pension-25-year-full-pension-11790163249783.html",
-   "summary": "The rules spell out eligibility requirements, employee and government contributions, pension calculation, lump-sum benefits, minimum and maximum pension provisions, VRS rules and the process for switching from UPS to NPS.",
-   "published": "2026-09-23T13:28:21+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/PTI02-01-2026-000470A-0_1771056492997_1771056516059_1790165239215_NReG_f7b36867-49ca-4589-9352-adc42432e1eb_GkP9.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T13:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
