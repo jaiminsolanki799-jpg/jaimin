@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T12:30:12+00:00",
+ "generated_at": "2026-09-29T13:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-29T12:30:12+00:00"
+   "checked_at": "2026-09-29T13:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 03:00:00 GMT",
+   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
    "error": null,
-   "checked_at": "2026-09-29T12:30:12+00:00"
+   "checked_at": "2026-09-29T13:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 29 Sep 2026 12:14:20 GMT",
    "error": null,
-   "checked_at": "2026-09-29T12:30:12+00:00"
+   "checked_at": "2026-09-29T13:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T12:30:12+00:00"
+   "checked_at": "2026-09-29T13:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 10:00:00 +0000",
+   "sample_date": "Tue, 29 Sep 2026 12:45:05 +0000",
    "error": null,
-   "checked_at": "2026-09-29T12:30:12+00:00"
+   "checked_at": "2026-09-29T13:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "511f31918f6d3568",
+   "title": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups",
+   "link": "https://yourstory.com/2026/09/iim-kozhikode-partners-walmart-global-tech-indian-deeptech-startups",
+   "summary": "IIM Kozhikode’s business incubator, IIMK LIVE, has tied up with Walmart Global Tech to launch DEEP LEAP, a Rs 2.89 Cr initiative supporting 50 high-potential early-stage tech ventures.",
+   "published": "2026-09-29T12:49:34+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "617867c64b2ecae6",
+   "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+   "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+   "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+   "published": "2026-09-29T12:45:05+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kate Park",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T13:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7c2570d9f8b66579",
+   "title": "Reco raises $55M as AI agent security startups crowd the market",
+   "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+   "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+   "published": "2026-09-29T12:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ram Iyer",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T13:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "c5fbcec2c3b99a9b",
    "title": "Jedlik Motors founder Raguram SK on building electric pod for urban commuters",
@@ -9235,24 +9291,6 @@
    "date_known": true,
    "author": null,
    "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "17c3769d360897b4",
-   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-   "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-   "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-   "published": "2026-09-19T13:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Lucas Ropek",
-   "publisher": null,
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T05:21:11+00:00",
