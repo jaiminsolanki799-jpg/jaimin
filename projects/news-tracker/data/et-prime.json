@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T02:30:09+00:00",
+ "generated_at": "2026-09-29T03:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
-   "items": 6,
+   "fetched": 8,
+   "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 06:00:35 +0530",
+   "sample_date": "Tue, 29 Sep 2026 08:22:45 +0530",
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 07:29:40 +0530",
+   "sample_date": "Tue, 29 Sep 2026 08:10:51 +0530",
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 07:13:01 +0530",
    "error": null,
-   "checked_at": "2026-09-29T02:30:09+00:00"
+   "checked_at": "2026-09-29T03:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,68 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "320b7ae4d04a77db",
+   "title": "Tata Sons merger: What TCE and TESS bring to the table in Tata Trusts’ new plan",
+   "link": "https://www.livemint.com/companies/news/tata-sons-merger-what-tce-and-tess-bring-to-the-table-in-tata-trusts-new-plan-11790647082581.html",
+   "summary": "The proposed amalgamation dilutes the holding company's financial income with substantial operating revenue, thereby removing it from the stringent NBFC and Core Investment Company (CIC) classifications.",
+   "published": "2026-09-29T02:52:45+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Tata_Sons_1790609313229_sxol_1790609318095_Y8Rd_24_1790649988863_UNeb_1790649988974_2qUT_d7cdb62f-fbd4-416f-9793-d493dc3f2fb8_4J2K.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T03:00:09+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "fb518ba94ed58730",
+   "title": "Why is Essar investing $18 billion in a US steel plant? Trump tariffs hold the answer",
+   "link": "https://www.livemint.com/companies/news/why-is-essar-investing-18-billion-in-a-us-steel-plant-trump-tariffs-hold-the-answer-11790649263613.html",
+   "summary": "India's Essar Group, through US subsidiary Mesabi Metallics, plans to invest $18 billion in an integrated US steel operation spanning an iron-ore mine in Minnesota and a steel plant in Iowa. President Donald Trump has credited his 50% steel tariffs for the investment.",
+   "published": "2026-09-29T02:43:30+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Trump-49_1790649299964_pFzB_1790649322024_1ZVH_4000bb2b-fdba-4b91-992f-be315bee8d67_fGE8.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "72e37330f72fc873",
+   "title": "56% returns in six months! Ola Electric Mobility to raise ₹1,000 crore via rights issue | What we know so far?",
+   "link": "https://www.livemint.com/market/stock-market-news/56-returns-in-six-months-ola-electric-mobility-to-raise-1-000-crore-via-rights-issue-what-we-know-so-far-11790647289047.html",
+   "summary": "Ola rights issue: The company board will meet on Monday, 5 October to consider, discuss and decide various matters in connection with the Rights Issue.",
+   "published": "2026-09-29T02:40:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/ola__1790649599402_dhsb_1790649599609_ku9c_7a9cd8d2-f737-4e01-9d47-ac7f482f7c6f_XaUH.png",
+   "topics": [],
+   "first_seen": "2026-09-29T03:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "6005ad0452ed7d36",
    "title": "Top stocks to watch today: Why IRFC, Ola, NCC, Tata stocks must be on radar? Full list for Tuesday, 29 September",
@@ -259,7 +319,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T01:30:13+00:00",
@@ -747,7 +807,7 @@
   },
   {
    "id": "e494a765580aed9a",
-   "title": "₹1,000 monthly SIP became ₹4.67 lakh in 10 years: Which diversified equity mutual fund delivered the highest returns?",
+   "title": "₹1,000 monthly SIP became ₹4.67 lakh in 10 years: Which diversified equity mutual fund delivered highest returns?",
    "link": "https://www.livemint.com/money/personal-finance/1000-monthly-sip-became-4-67-lakh-in-10-years-which-diversified-equity-mutual-fund-delivered-the-highest-returns-11790619741046.html",
    "summary": "A ₹1,000 monthly SIP can grow substantially over a decade as returns compound. We look at diversified equity mutual funds that delivered the highest 10-year SIP returns, with Quant Small Cap Fund leading the list. Here’s how the funds compare.",
    "published": "2026-09-28T18:45:27+00:00",
@@ -2916,7 +2976,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T08:00:10+00:00",
@@ -4237,7 +4297,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
@@ -11400,64 +11460,6 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-09-23T03:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "205b40bc0959cece",
-   "title": "How Future Consumer insolvency professional selection slipped from SBI’s control",
-   "link": "https://economictimes.indiatimes.com/prime/corporate-governance/how-future-consumer-insolvency-professional-selection-slipped-from-sbis-control/primearticleshow/133007093.cms",
-   "summary": "",
-   "published": "2026-09-23T03:00:09+00:00",
-   "source": "ET Prime: Corporate governance",
-   "group": "ET Prime",
-   "category": "Corporate governance",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-09-23T03:00:09+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Distress"
-   ]
-  },
-  {
-   "id": "aa2caf8c6ce0e222",
-   "title": "Gold vs Silver: Which metal to invest in for maximum profit amid ongoing US-Iran war and oil on the boil?",
-   "link": "https://www.livemint.com/market/commodities/gold-vs-silver-which-metal-to-invest-in-for-maximum-profit-amid-ongoing-us-iran-war-and-oil-on-the-boil-11790129018853.html",
-   "summary": "Amid the ongoing US-Iran conflict, investors may be weighing which metal could offer a better investment opportunity, particularly as crude oil prices have started to ease after witnessing a sharp rally since the war began.",
-   "published": "2026-09-23T02:43:59+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/gold_vs_silver_1790131408520_Kd9o_1790131408668_pa8o_c7d02978-2003-4f89-9820-710f2ffbb97f_GbKe.png",
-   "topics": [],
-   "first_seen": "2026-09-23T03:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b49a5dcb12734a8b",
-   "title": "Goldman Sees China Oil Imports Staying Subdued in Fourth Quarter",
-   "link": "https://www.livemint.com/market/goldman-sees-china-oil-imports-staying-subdued-in-fourth-quarter-11790131198162.html",
-   "summary": "China’s oil imports are likely to remain subdued in the coming months if crude prices stay elevated, according to Goldman Sachs Group Inc., which could keep a lid on further gains.",
-   "published": "2026-09-23T02:39:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-   "topics": [],
-   "first_seen": "2026-09-23T03:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
