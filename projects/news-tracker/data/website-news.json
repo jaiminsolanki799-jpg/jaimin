@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T08:00:12+00:00",
+ "generated_at": "2026-09-29T08:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-29T08:00:12+00:00"
+   "checked_at": "2026-09-29T08:30:08+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 06:02:33 GMT",
+   "sample_date": "Tue, 29 Sep 2026 03:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T08:00:12+00:00"
+   "checked_at": "2026-09-29T08:30:08+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 29 Sep 2026 07:43:29 GMT",
    "error": null,
-   "checked_at": "2026-09-29T08:00:12+00:00"
+   "checked_at": "2026-09-29T08:30:08+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 23,
-   "items": 23,
+   "fetched": 25,
+   "items": 25,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T08:00:12+00:00"
+   "checked_at": "2026-09-29T08:30:08+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 05:13:43 +0000",
    "error": null,
-   "checked_at": "2026-09-29T08:00:12+00:00"
+   "checked_at": "2026-09-29T08:30:08+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,66 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "03a646a4a02f8e68",
+   "title": "ITC completes 100% acquisition of Yoga Bar parent Sproutlife",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFRtMVB4VGN5dkZEWEtJSVpaOGJFNWxmZFluX3FDeWRjTkFEUXJqc2JsRGtOYkhyV1phTzlWZDhlQWxDR3JnejJBcXd6Z0plM2hNTXVNYkcwd04zZlNtRmdxOG5JelZBcjB1UExXdmdqM2ptWjM5V1FFUjM3UlBrek1QUGtOQnFraUtSLXN4QVJ1RXM2NVFOdThB0gGaAUFVX3lxTFBsVG0xUHhUY3l2RkRYS0lJWlo4YkU1bGZkWW5fcUN5ZGNOQURRcmpzYmxEa05iSHJXWmFPOVZkOGVBbENHcmd6MkFxd3pnSmUzaE1NdU1iRzB3TjNmU21GZ3E4bkl6VkFyMHVQTFd2Z2ozam1aMzlXUUVSMzdSUGt6TVBQa05CcWtpS1Itc3hBUnVFczY1UU51OEE?oc=5",
+   "summary": "",
+   "published": "2026-09-29T08:21:45+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "entrackr.com",
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-29T08:30:08+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "0826b5e7904efc12",
+   "title": "Peak XV selects 18 startups for 12th Surge cohort, doubles down on AI and deep tech",
+   "link": "https://yourstory.com/2026/09/peak-xv-selects-18-startups-12th-surge-cohort-doubles-down-ai-deep-tech",
+   "summary": "The cohort spans artificial intelligence (AI), robotics, space technology, consumer internet, healthcare, financial services and music.",
+   "published": "2026-09-29T08:17:49+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T08:30:08+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "c5eb5a43067690a0",
+   "title": "WEH Ventures announces first close of Fund III, targets Rs 250 Cr corpus",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWJTNWJaYnRjUGh3ZF9maWp3aFBuMDF2R1RSVTdaMk94T1NsSlVDYkVuWExfODN3a3pBNWZuY2wtSEdlZEZqWWlEV3ZFRm9lM0pqckZyOG9jb1Y1RWMtb1FtTFVFX0RTdHdocnlkQWc3b2tSNlhua3JwRkJ5UnYtUjNwWnhpTDN4T0EwdV93Vk1CQ2pxWFFuRmVFQ2ttNjRCTTE2TERMVXkwTXhVRXhj0gGvAUFVX3lxTE5FYlM1YlpidGNQaHdkX2ZpandoUG4wMXZHVFJVN1oyT3hPU2xKVUNiRW5YTF84M3drekE1Zm5jbC1IR2VkRmpZaURXdkVGb2UzSmpyRnI4b2NvVjVFYy1vUW1MVUVfRFN0d2hyeWRBZzdva1I2WG5rcnBGQnlSdi1SM3BaeGlMM3hPQTB1X3dWTUJDanFYUW5GZUVDa202NEJNMTZMRExVeTBNeFVFeGM?oc=5",
+   "summary": "",
+   "published": "2026-09-29T08:00:48+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "entrackr.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T08:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7340e3f6ddad9887",
    "title": "Bewakoof’s revenue jumps 40% to Rs 243 Cr in FY26, losses rise 19%",
@@ -525,24 +585,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T00:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-28T23:08:33+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1901,6 +1943,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-28T04:38:07+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "70addb5019474741",
