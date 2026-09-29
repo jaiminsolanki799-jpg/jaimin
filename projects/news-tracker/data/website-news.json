@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T18:00:13+00:00",
+ "generated_at": "2026-09-29T18:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 11,
-   "items": 11,
-   "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 11:21:50 GMT",
+   "sample_date": "Tue, 29 Sep 2026 03:00:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 29 Sep 2026 14:59:38 GMT",
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
-   "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 17:45:51 +0000",
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 0,
  "items": [
   {
    "id": "b6f078daefc5deb8",

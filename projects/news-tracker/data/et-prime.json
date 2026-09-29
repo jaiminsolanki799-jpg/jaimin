@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T18:00:13+00:00",
+ "generated_at": "2026-09-29T18:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,73 +13,73 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
    "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 8,
-   "items": 5,
-   "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
-   "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 23:14:16 +0530",
+   "sample_date": "Tue, 29 Sep 2026 23:36:17 +0530",
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 23:02:36 +0530",
+   "sample_date": "Tue, 29 Sep 2026 23:53:45 +0530",
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 23:24:21 +0530",
+   "sample_date": "Tue, 29 Sep 2026 23:56:06 +0530",
    "error": null,
-   "checked_at": "2026-09-29T18:00:13+00:00"
+   "checked_at": "2026-09-29T18:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,14 +192,89 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 4,
  "items": [
   {
+   "id": "bf22d47ee09b7ad7",
+   "title": "Top 5 hybrid mutual funds: Quant Multi Asset tops the 10-year return chart at 18%; check which schemes lagged",
+   "link": "https://www.livemint.com/money/personal-finance/top-5-hybrid-mutual-funds-quant-multi-asset-tops-the-10-year-return-chart-at-18-check-which-schemes-lagged-11790704196630.html",
+   "summary": "Hybrid mutual funds span categories with different equity, debt and asset-allocation strategies. Over 10 years, returns have varied sharply across these categories. Here’s a look at the funds that delivered the highest returns and those that were at the lower end of the list.",
+   "published": "2026-09-29T18:26:06+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/unr_1790705996465_nK9B_1790706000745_tC9m_dec24f4c-7e73-481e-8a1d-44f1c08a6801_Cz3m.png",
+   "topics": [],
+   "first_seen": "2026-09-29T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "69906d8166de2808",
+   "title": "Nifty 50 prediction: Hammer formation hints short term trend reversal | Support, resistance for Sept 30",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-hammer-formation-hints-short-term-trend-reversal-support-resistance-for-sept-30-11790705638152.html",
+   "summary": "The Nifty 50 fell sharply by 1,618 points in September, reopening at a low of 22,569.65 but recovered slightly to close at 22,716.20. Market breadth remained negative, but the hammer candlestick pattern suggests a potential short-term reversal with key support at 22,569.",
+   "published": "2026-09-29T18:23:45+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Nifty_Technical_1790706127627_WJX9_1790706141017_UVEJ_683df0f4-e740-4e67-9298-87b0aed9ca2b_5xIb.png",
+   "topics": [],
+   "first_seen": "2026-09-29T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d7f82721cca8180e",
+   "title": "Do homebuyers lose claim to interest on delayed flat once you accept possession? Here's what Allahabad HC ruling states…",
+   "link": "https://www.livemint.com/money/homebuyers-continue-interest-claim-delayed-flat-after-accept-possession-allahabad-hc-rules-dont-lose-right-no-rera-limit-11790702301893.html",
+   "summary": "Accepting possession of a delayed flat does not bar a homebuyer from claiming interest, according to the Allahabad High Court, which added that RERA rules do not specify a limit period on such payment.&nbsp;",
+   "published": "2026-09-29T18:20:15+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/homeloan-kZbD--621x414LiveMint_1790705216554_2apy_1790705216763_MTgx_64ae2e27-9923-4f19-8651-e47a9e1402c5_2Hnp.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8ac8ae62c8a66db9",
+   "title": "Hope RBI engages with us to find a solution to avoid Tata Sons listing: Noel Tata",
+   "link": "https://www.livemint.com/companies/news/hope-rbi-engages-with-us-to-find-a-solution-to-avoid-tata-sons-listing-noel-tata-11790703512196.html",
+   "summary": "Tata Trusts Chairman Noel Tata said the proposed reorganisation of Tata Sons complies with RBI guidelines and could help avoid a stock market listing. He urged the RBI to engage with Tata Trusts and find a solution to the listing requirement.",
+   "published": "2026-09-29T18:06:17+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Noel_Tata_1790704790113_kKT0_1790704795276_RW1b_70399599-8991-4648-b531-04f49f634efd_k0Hg.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-29T18:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "17143db6da017577",
-   "title": "Want SIFs in your portfolio? Should you invest directly or choose the new mutual fund-PRIM route — experts explain",
+   "title": "Want SIFs in your portfolio? Should you invest directly or choose the new mutual fund PRIM route — experts explain",
    "link": "https://www.livemint.com/money/personal-finance/want-sifs-in-your-portfolio-should-you-invest-directly-or-choose-the-new-mutual-fund-prim-route-experts-explain-11790700966615.html",
    "summary": "SIFs offer investors access to specialised strategies with a ₹10 lakh minimum investment, while the new PRIM route allows professionally managed portfolios with a ₹25 lakh minimum. Here’s how direct SIF investing differs from PRIM and what investors should consider.",
-   "published": "2026-09-29T17:54:21+00:00",
+   "published": "2026-09-29T17:54:19+00:00",
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
@@ -224,7 +299,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/socialalpha_1790701745013_47Ex_1790701785076_OQlH_4d8cedbe-c01e-496f-a3bf-a4125b9cdac0_ii5t.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/social_alpha_1790705321410_HjSx_1790705343868_ihx7_c8280398-2fae-4cf8-996e-c9e70b17ac36_qWOc.png",
    "topics": [],
    "first_seen": "2026-09-29T18:00:13+00:00",
    "valuation_score": 0,
@@ -2626,7 +2701,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-irdais-big-reset-can-change-insurance-landscape-customer-choice/primearticleshow/134544907.cms",
    "summary": "",
    "published": "2026-09-28T23:00:08+00:00",
-   "source": "ET Prime: Fintech & BFSI",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11409,81 +11484,6 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
    "topics": [],
    "first_seen": "2026-09-23T19:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c86b29f603076504",
-   "title": "Microsoft President Backs Deployment of AI Safety Evaluators",
-   "link": "https://www.livemint.com/companies/microsoft-president-backs-deployment-of-ai-safety-evaluators-11790190599798.html",
-   "summary": "Microsoft Corp. President Brad Smith said the company backs the use of independent evaluators for artificial intelligence.",
-   "published": "2026-09-23T19:09:59+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-   "topics": [],
-   "first_seen": "2026-09-23T19:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8cdfc706fe66a2f8",
-   "title": "Top 3 IPOs Performance Report Card: Ahead of NSE, know how Hyundai, LIC, Paytm fared on exchange debut day; data details",
-   "link": "https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html",
-   "summary": "The National Stock Exchange's debut on September 24 has investors eager to compare it with previous major IPOs. Hyundai, LIC, and Paytm faced weak openings but saw varied recoveries, highlighting market volatility and valuation concerns impacting stock performance post-listing.",
-   "published": "2026-09-23T18:42:48+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/maxresdefault_1790227267263_qQfF_1790227272361_i7ga_fdffc23c-34a3-4eca-b0db-24b91b0b097d_rPbU.jpg",
-   "topics": [
-    "SEBI / markets regulation",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-23T19:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f6e975a4a26f684d",
-   "title": "Wall Street falls as oil prices, Treasury yields rise",
-   "link": "https://www.livemint.com/market/wall-street-falls-as-oil-prices-treasury-yields-rise-11790188753276.html",
-   "summary": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall Street falls as oil prices, Treasury yields rise",
-   "published": "2026-09-23T18:39:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T19:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1d47e17fc2467f13",
-   "title": "UP RERA approves 12 realty projects involving ₹1,663.85 crore investment across 6 districts — Here's all we know",
-   "link": "https://www.livemint.com/money/up-rera-approves-12-realty-projects-worth-investment-1664-crore-six-districts-lucknow-ghaziabad-ayodhya-kanpur-prayagraj-11790184547968.html",
-   "summary": "The Uttar Pradesh RERA has approved 12 new real estate projects, worth an investment of ₹1,663.85 crore, across six districts in the state. The plan will comprise 3,090 residential and commercial units. Here's all we know.",
-   "published": "2026-09-23T18:20:47+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/UP_RERA_1790187024401_P7rA_1790187045583_rgQK_cdec8e9b-c41d-4268-9182-5c62865aae43_gzcY.png",
-   "topics": [],
-   "first_seen": "2026-09-23T18:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
