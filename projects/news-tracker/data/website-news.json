@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T07:30:11+00:00",
+ "generated_at": "2026-09-29T08:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-29T07:30:11+00:00"
+   "checked_at": "2026-09-29T08:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 03:30:00 GMT",
+   "sample_date": "Tue, 29 Sep 2026 06:02:33 GMT",
    "error": null,
-   "checked_at": "2026-09-29T07:30:11+00:00"
+   "checked_at": "2026-09-29T08:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 29 Sep 2026 06:15:13 GMT",
+   "sample_date": "Tue, 29 Sep 2026 07:43:29 GMT",
    "error": null,
-   "checked_at": "2026-09-29T07:30:11+00:00"
+   "checked_at": "2026-09-29T08:00:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 22,
-   "items": 22,
+   "fetched": 23,
+   "items": 23,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T07:30:11+00:00"
+   "checked_at": "2026-09-29T08:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 05:13:43 +0000",
    "error": null,
-   "checked_at": "2026-09-29T07:30:11+00:00"
+   "checked_at": "2026-09-29T08:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "7340e3f6ddad9887",
+   "title": "Bewakoof’s revenue jumps 40% to Rs 243 Cr in FY26, losses rise 19%",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3Q3ZDd0MDlJM2hhRTVtNVRmakJyZy11ejJKX3I4NzQ5V0dxOHI4a2FBcEw3c0o1TFVWUEdEbzZIb05LemQ5WjlRTHJhZXFiQ3JfRjZFUG9laDVPaEVZbTRhZTNLWnlNbkdrNERTSEl2aVFzaktVOW92bVp6cmNWSXVVMHoxcE1OeHhBZmRDVzlMUnRyM29oWkxobnVDTTl3cU0wUtIBpAFBVV95cUxOd3Q3ZDd0MDlJM2hhRTVtNVRmakJyZy11ejJKX3I4NzQ5V0dxOHI4a2FBcEw3c0o1TFVWUEdEbzZIb05LemQ5WjlRTHJhZXFiQ3JfRjZFUG9laDVPaEVZbTRhZTNLWnlNbkdrNERTSEl2aVFzaktVOW92bVp6cmNWSXVVMHoxcE1OeHhBZmRDVzlMUnRyM29oWkxobnVDTTl3cU0wUg?oc=5",
+   "summary": "",
+   "published": "2026-09-29T07:46:08+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "entrackr.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T08:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b6aabfaf992186b1",
+   "title": "Supreme Court Refuses Interim Stay on UPI Charges Above INR 2,000",
+   "link": "https://startuptalky.com/news/supreme-court-refuses-interim-stay-on-upi-charges/",
+   "summary": "The Supreme Court has declined to issue an interim stay on the proposed 0.4% Merchant Discount Rate (MDR) for some UPI merchant transactions exceeding INR 2,000. While reviewing the legal ramifications of the judgement, a three-judge bench requested comments from the Center, RBI and NPCI.",
+   "published": "2026-09-29T07:43:29+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/supreme-court-refuses-interim-stay-on-upi-charges-Startuptalky.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-29T08:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "21ff6345c4be1128",
+   "title": "Anthropic Confidential Filing Reveals Customer Concentration Risks",
+   "link": "https://startuptalky.com/news/anthropic-confidential-filing/",
+   "summary": "Anthropic’s private IPO filing underscores a high degree of client concentration and large infrastructure commitments that are anticipated in the future, the report said. The AI startup has noted significant revenue growth in tandem with heavy investment on compute and cloud/infrastructure.",
+   "published": "2026-09-29T07:11:46+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/anthropic-confidential-filing-Startuptalky.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-29T08:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "895cf94d12d585ae",
    "title": "Aman Gupta invests in former boAt executive’s startup FIG Living",
@@ -601,6 +659,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T19:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-28T19:27:04+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2135,24 +2211,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T21:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-26T20:37:29+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -8834,24 +8892,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "7733a8d56c2b0f2a",
-   "title": "The Women Powering India’s Semiconductor Revolution",
-   "link": "https://yourstory.com/2026/09/women-leaders-semiconductor-industry-semicon-india-2026",
-   "summary": "Five senior women executives from Teradyne, Micron, Applied Materials, Renesas, and Tata Electronics shared candid career lessons at a SEMICON India 2026 panel moderated by Shradha Sharma.",
-   "published": "2026-09-19T07:36:26+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
