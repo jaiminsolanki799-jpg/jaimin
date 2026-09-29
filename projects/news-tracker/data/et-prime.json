@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T06:00:10+00:00",
+ "generated_at": "2026-09-29T06:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 10:51:58 +0530",
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 11:15:09 +0530",
+   "sample_date": "Tue, 29 Sep 2026 11:56:57 +0530",
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sept 2026 10:40:36 +0530",
+   "sample_date": "Tue, 29 Sep 2026 11:57:56 +0530",
    "error": null,
-   "checked_at": "2026-09-29T06:00:10+00:00"
+   "checked_at": "2026-09-29T06:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,139 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "36855ee482dfe47f",
+   "title": "8th Pay Commission: Postal employees seek 2025-26 bonus before Durga Puja; what they want changed",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-postal-employees-seek-2025-26-bonus-before-durga-puja-what-they-want-changed-11790662952532.html",
+   "summary": "Postal employees have sought payment of the 2025-26 Productivity Linked Bonus before Durga Puja, while employee unions want the 8th Pay Commission to review the ₹7,000 bonus calculation ceiling.",
+   "published": "2026-09-29T06:27:56+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Generatd_Image_966bqy966bqy966b_17906631_1790663200952_1sHt_1790663201130_QRhF_8aefc0af-400d-46aa-822c-a769dd43feaa_m4j0.png",
+   "topics": [],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "07036bac297cd93c",
+   "title": "26% dip in YTD! Jio Financial Services shares hit 52-week low — will trend reverse? Target price, support, resistance",
+   "link": "https://www.livemint.com/market/stock-market-news/26-dip-in-ytd-jio-financial-services-shares-hit-52-week-low-will-trend-reverse-target-price-support-resistance-11790658322060.html",
+   "summary": "Jio Financial Services shares fell over 2% on 29 September, reaching a 52-week low as overall market conditions worsened. Year-to-date, the stock has dropped over 25%, raising concerns over further declines amid technical signals indicating potential support and resistance levels.",
+   "published": "2026-09-29T06:26:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Jio_Financial_Plunge_1790663128360_CCjo_1790663133776_8aU3_81277245-c780-43da-9036-ae7ffb047e2c_nTMf.png",
+   "topics": [],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "2ccbb54232fa77f8",
+   "title": "Jeevan Pramaan 2026: What pensioners aged 80+ need to know about the October 1 Life Certificate window",
+   "link": "https://www.livemint.com/money/personal-finance/jeevan-pramaan-2026-what-pensioners-aged-80-need-to-know-about-the-october-1-life-certificate-window-11790657261299.html",
+   "summary": "The Department of Pension &amp; Pensioners’ Welfare has not yet announced the 2026 dates for submitting Digital Life Certificates. Here’s what pensioners, especially those aged 80 years and above, need to know about the October 1 provision, Jeevan Pramaan and the annual Life Certificate requirement.",
+   "published": "2026-09-29T06:17:59+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Generate_Image_u0cohwu0cohwu0co_179066250_1790662514638_ONXj_1790662514879_2qdp_60e24fa6-5e67-4d65-a7a5-78c7d9964f24_uWLJ.png",
+   "topics": [],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4ed8194eb58618af",
+   "title": "97% rally in two years! Azad Engineering share price jumps 5% today - Check target, stop loss, performance",
+   "link": "https://www.livemint.com/market/stock-market-news/97-rally-in-two-years-azad-engineering-share-price-jumps-5-today-check-target-stop-loss-performance-11790659047890.html",
+   "summary": "Azad Engineering share price has gained 6.31% in the past week and 3.49% over the last one month, indicating continued positive momentum in the near term.",
+   "published": "2026-09-29T06:16:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/azad_1790662527443_dA9w_1790662527538_8xgY_73406d14-f601-407b-bd1d-f93283e3ffa9_05M4.png",
+   "topics": [],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9bb53780370d38dc",
+   "title": "Sensex, Nifty rebound from near six-month lows amid crude shock",
+   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-stock-market-today-crude-oil-price-11790661886513.html",
+   "summary": "The NSE Nifty 50 traded 0.29% lower while the BSE Sensex shed 0.35% to 72,522.09 by mid-morning trade. Earlier in the session, both indices tumbled as much as 0.9%.",
+   "published": "2026-09-29T06:14:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/NSE_1790662354054_Ipyv_1790662354211_p44m_314582cf-1076-4fd6-9d73-baecc628287c_bVx8.JPG",
+   "topics": [],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "582107877207e613",
+   "title": "Buying property abroad for your NRI child? Know how much parents can transfer and what tax rules apply",
+   "link": "https://www.livemint.com/money/personal-finance/buying-property-abroad-for-your-nri-child-know-how-much-parents-can-transfer-and-what-tax-rules-apply-11790656555960.html",
+   "summary": "Indian resident parents can use the RBI's Liberalised Remittance Scheme (LRS) to fund the purchase of overseas property by an NRI or OCI child, subject to FEMA rules. Here's what to know about the $2,50,000 annual limit, gifts, loans, TCS and documentation.",
+   "published": "2026-09-29T06:05:25+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/pexels-photo-7578882_1790656880952_bAHy_1790656889058_4sE4_5987b1b7-a7aa-496f-bf5a-79838097cea6_5cgi.jpeg",
+   "topics": [
+    "Income tax",
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "54231dbc1ff1b456",
+   "title": "DA hike for central govt employees: Will 3% increase be announced this week?",
+   "link": "https://www.livemint.com/money/da-hike-for-central-govt-employees-will-3-increase-be-announced-this-week-11790655887579.html",
+   "summary": "Central government employees await the next DA hike, with inflation data indicating a possible 3% increase to 63%. Employee unions expect an announcement in early October, ahead of Dussehra. Here's how the revised DA is calculated and when the Centre may announce it.",
+   "published": "2026-09-29T06:01:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/8th_PC_1788372731129_22b29c7f-1e80-495a-8d3a-3e68d_1790659825717_b99f_1790659825840_Fqio_f9dfae1f-75ef-4fca-85aa-67bdeaceea72_Hzlj.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "21bef956410838e3",
    "title": "Block deal alert: Honasa Consumer shares tumble 5% after equity worth ₹643 crore changes hands - Should investors buy?",
@@ -242,7 +373,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/Stock_market_crash_today_Nifty_50_Sensex_today_1790658287117_xFQw_1790658287270_ApjL_0f44747f-2007-4b23-bf84-84e6fef54316_0axS.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Stock_market_crash_today_Nifty_50_Sensex_today_1790658287117_xFQw_1790658287270_ApjL_0f44747f-2007-4b23-bf84-84e6fef54316_0axS.jpg",
    "topics": [],
    "first_seen": "2026-09-29T05:30:09+00:00",
    "valuation_score": 0,
@@ -314,7 +445,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/2-0-1475975919-iStock-986746224-0_1679855040571_1790658354015_P3oQ_9b72ed0d-bb11-4748-a05b-499e58e246de_dObq.jpg",
@@ -470,7 +601,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Generated_Iage_fd79jjfd79jjfd79_179065584_1790655852349_r4eq_1790655852465_LPVb_65df5bc8-406b-412f-aa40-b56f69061e52_SY07.png",
@@ -508,7 +639,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/gold_1790653699755_gdpt_1790653699866_8goa_093c65af-9e65-4a60-9503-ee48621615b8_HzU0.png",
@@ -602,7 +733,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Geerated_Image_towv5jtowv5jtowv_1790652216_1790652225549_Qiqb_1790652225676_1SCp_bb6bbbd0-d123-455d-a762-f965ddf34006_ET4k.png",
@@ -620,7 +751,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Banks_Strike_deferred__1790649651960_vcwn_1790649653503_pF19_dbc231ae-71f9-4971-a492-9c5f858ba12d_E7Qx.jpg",
@@ -716,7 +847,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/GeminiGenerated_Image_r7zkcor7zkcor7zk_17906461_1790646122017_PgEY_1790646122436_V6o9_577d67e9-90c3-4f74-ae80-9324a738c69c_YUD1.png",
@@ -1249,7 +1380,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/fund_re_1790620604831_Juye_1790620609338_WcuQ_56b0004b-bf99-4c0b-9694-d6e4f298fd14_vKhB.png",
@@ -1267,7 +1398,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/8th_pay_commission_news_1788401458454_ea405b11-bfb_1790619148486_VijS_1790619148600_knbL_204d60ac-b84b-4d31-9d65-7639f4c202bc_wjJs.jpg",
@@ -1303,7 +1434,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/sect_1790619317941_uU50_1790619321727_NEcV_20733d4f-67cc-4d2f-bb31-d2180d8f5808_fkWB.png",
@@ -1339,7 +1470,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Oct_Banking_1790618380366_dFkb_1790618392507_sFPT_f8844eac-f2fb-483e-b523-4bd500d77755_H5Ih.jpg",
@@ -1379,7 +1510,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/b40f3a8d-c1e2-4b33-a81a-2b5d8876c86b_1790387412263_1790617968165_RrMT_1790617968288_ooGL_1332251b-d9fb-4fed-9b34-0a36f2a42967_0Em1.png",
@@ -1433,7 +1564,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/eqyt_1790615816245_YbDr_1790615820132_Yw4h_6268bc83-44be-411c-8d1b-53747cbb9762_gvvl.png",
@@ -1489,7 +1620,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Credit_Card_debt_1790611791130_KlTe_1790611799446_eSbH_1f14ed9a-3f07-4e2a-9752-f404df9f8393_7FaC.jpg",
@@ -1507,7 +1638,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/formm_1790610861927_BjPY_1790610865624_pmPH_2c8ae992-07d1-4e21-b655-cb2b0d5470e0_WCNw.png",
@@ -1590,7 +1721,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/home_1790607432714_LOte_1790607436208_yT1y_658533c9-5653-4083-9dac-107f8313f70a_1dKq.png",
@@ -1704,7 +1835,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/forein_d_1790602456535_jPCN_1790602461844_d806_ea58f541-4863-4bc6-b004-7a6c8e89af24_ce2y.png",
@@ -1765,7 +1896,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/itr_dd_1790595295448_c5O1_1790595300537_Weh5_83a8ac1c-9d86-4177-9e45-ed7f1dc12b94_SMbF.png",
@@ -1824,7 +1955,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/DA_hikes_states_2026_1790597000001_ende_1790597010206_JjV8_3b40f7bd-9cb4-4e8c-baa3-3e5ac1a249dc_9H1F.png",
@@ -1896,7 +2027,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/IT-R_1790605028809_9gj1_1790605033554_6jNr_db6aeeaf-3020-434f-9161-29b3b71455eb_cCEm.jpg",
@@ -1977,7 +2108,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/investor_1684403954684_1790591830828_q08h_10e3296a-52fe-483c-8932-2e6cc2cb055d_8D6R.jpg",
@@ -2072,7 +2203,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/NPS2_1790588470972_XO3N_1790588479920_VxPN_b6081115-e48a-4909-82ab-8c9fa9177c09_xjxJ.jpg",
@@ -2164,7 +2295,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Gemini_Generatd_Image_jcbzrujcbzrujcbz_179058717_1790587181816_3j0O_1790587182012_MSBt_859bc944-1a7e-4142-8d61-a1dfb43468a8_ELAx.png",
@@ -2316,7 +2447,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Gemii_Generated_Image_cf47i5cf47i5cf47_179058517_1790585186740_7KxJ_1790585186913_4eJq_2d2ae284-37d0-4bae-ab40-55b22e0e1e6c_bbkT.png",
@@ -2334,7 +2465,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/g4e9ab23712b6d1ebb383717ad0b648c796afedbf292e2814e_1790526016405_dlpX_1790526016767_0bcY_30ebe2be-7dfc-4394-879b-0294d5d8fbc6_vMaF.png",
@@ -2352,7 +2483,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/mohamed_hassan-to-do-g9c73aa176_1280_1790579283934_Cc3P_1790579291186_xbLb_9e9c6b14-c97d-4482-9206-903a84e2c216_Qls6.jpg",
@@ -2388,7 +2519,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/sc_mdr_1790583685996_zfcC_1790583690214_EmEy_6435ebdb-85a4-4ec7-864b-2d8ec742f9de_gpZY.png",
@@ -2408,7 +2539,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/2-0-245681708-Sabeer-Bhatia-2-0_1681109778811_1790581531871_ABpk_e2a1ecc9-bce3-430d-a63d-661cf64f74fc_HUWH.jpg",
@@ -2518,7 +2649,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Gemini_Gnerated_Image_9aj1wy9aj1wy9aj1_17905769_1790576930371_B3YY_1790576930682_teJO_767ea2f7-5366-4eba-8817-e86101575c84_43pY.png",
@@ -2630,7 +2761,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/maxresdefault_1790600110902_DXSH_1790600115424_2Z1a_b8f1d714-9c8a-418b-a03a-cec18d156475_Gqns.jpg",
@@ -2763,7 +2894,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Gemini_Gnerated_Image_vu0rnevu0rnevu0r_179057227_1790572279842_QpVu_1790572280026_5I6a_3286cb3f-77de-4025-9ed9-629cfea405e1_nVZE.png",
@@ -3003,7 +3134,7 @@
    "source": "Mint Money",
    "group": "Mint",
    "category": "Money",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/c016497b-2f73-4c4c-a0e1-gold_1790566115006_uxiZ_1790566115142_RNzB_e777b88d-ae32-4d73-96e7-e3e80990bc45_8lpL.png",
@@ -11325,139 +11456,6 @@
    "valuation_signals": [
     "Valuation"
    ]
-  },
-  {
-   "id": "5c485caf71803c54",
-   "title": "IDFC First Bank gets Buy from Motilal Oswal, upgrades the stock as it sees 23% upside - Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/idfc-first-bank-gets-buy-from-motilal-oswal-upgrades-the-stock-as-it-sees-23-upside-check-target-price-11790143770090.html",
-   "summary": "IDFC First Bank is upgraded to BUY by MOFSL, citing strong loan growth and improved asset quality. The target price is set at INR105, with the stock already rising 54% from its low. Positive NII and efficient deposits are key highlights.",
-   "published": "2026-09-23T06:40:11+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/idfc_first_1790145427718_6kGv_1790145444900_XvCo_17e65b09-2515-457d-8ddc-8ff3e5b8778a_RvH6.png",
-   "topics": [],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "Valuation",
-    "Ratings"
-   ]
-  },
-  {
-   "id": "22dfb1c3c9df7e18",
-   "title": "Biogas found its ethanol moment this month. Can it now find scale?",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOdXZxYzJFTmx5ZDhLdW0wUWYwOEl5c1hrTUNpNXBYV3psTmpFN0ttTjhJRFozNTF3bVR6LUNBclZtMjZMcGU4RjRlWVJub1A0THpoSk1iQmp0cGMtdmdScHlScmxNUnB6WFg0S2pGSHR4YXhqUkMzLUgyXzdHanphWlhpal9LdWNKcVlKQ3VyZ2hTbTJ5X1BUaG4xaE13R0ZHWm5KUUNUWUJmbTRxTEpWR2FzYWtyVDlYVTlLcFdhVC1JbHRJekllekNOM29Fdl9zeEJVQWRUZHI1WjUzOEJMejdQTTZMMTYzdWQxZWIzbmxXbDRYTnlzVDBwSnFnOTlTS2NSbWpJam1qLU9qQXJKbWtSYVFhSE1hY3NMUXhhQUlvRkZQcjczWkJvRHdZdFlrbVNQQtIBzgFBVV95cUxPUWstdXZ6ZmtfeW43OG5lUHh2c3V4QjhLLVdQY3RXMUdWbkt1NEUzY0w0M2lGQXZYZUhLcWVVcnpyZHp0TDY5a2dJOHAzd1Jnb21zV05IVUhrWElQT3g0c2FkcmRPU3NXU0R5em00X0Ywcl9DOV83ekFhRnVjOS1fWmdqUkFZVGFvVDBZNXQ0RWNrS2U1N0VzbTRXVkF2bUVnQTNheHcweVE3dGFIOVFKYksyYS04bElaUjRGbXpOZXBxX1YteGZ1VjRTMEc1dw?oc=5",
-   "summary": "",
-   "published": "2026-09-23T06:33:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2064fd1784e96f81",
-   "title": "Biogas found its ethanol moment this month. Can it now find scale?",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVNSNWNrZWl3eC1Ubi1pRVlubTZBWmxwV2wtYk5EalJTRDJYVnk3LVpDMWp6UEhsOFpNaVhtU0d1eDFxTWYyY21FY0ROUkU4ZW1YQ0RJaGhmR3otMzY1TE5FbGVmMHZneTh4aGkxX196cTRjcThXLXc2ZzVJdVBhR3ZKeEdfODAtSk9icFdydmxYU2NZRjUzTHpvbnoxTWluX2dVQTJkcTZpSXBNYjZXdGcxQV9yZjk5d3UzQTlvYTlCUHVWZ3owaWhwYm9xMHBMYjdOMw?oc=5",
-   "summary": "",
-   "published": "2026-09-23T06:33:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "economictimes.indiatimes.com",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T11:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "59c79b895be364da",
-   "title": "Ultraviolette Automotive raises $85 million led by Yali Capital, TDK Ventures",
-   "link": "https://www.livemint.com/companies/start-ups/ultraviolette-automotive-raises-85-million-funding-yali-capital-tdk-ventures-11790129549151.html",
-   "summary": "Ultraviolette Automotive will use the fresh capital to scale production, develop new electric vehicle platforms and expand across Europe, Japan and the US.",
-   "published": "2026-09-23T06:30:37+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Ultraviolette_Automotive_1741351821334_1790134971034_LFI5_23d4aca1-5a8b-4fbb-bf38-40ffeea1950c_F4rm.jpg",
-   "topics": [],
-   "first_seen": "2026-09-23T07:00:08+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
-  },
-  {
-   "id": "a282cef6f5016e92",
-   "title": "Montessori, Waldorf, or Reggio Emilia? Why specialized preschools cost up to ₹4 lakh a year",
-   "link": "https://www.livemint.com/money/personal-finance/premium-preschools-india-montessori-waldorf-reggio-emilia-fees-11790084490146.html",
-   "summary": "India’s premium preschools are selling specialized learning methods at a steep markup. What are parents actually paying for—and can the spending be sustained through a child’s education?",
-   "published": "2026-09-23T06:10:38+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/preschool_1790143404667_LOFS_1790143413802_Q3ZI_5f3c42d0-71c3-4a0e-94c9-b5c48951d779_N4bj.png",
-   "topics": [],
-   "first_seen": "2026-09-23T06:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ba775fc503963aaf",
-   "title": "Silver Price Outlook: Future is bright with ₹3.25 lk/kg target in sight? Expert explains what could trigger next spark",
-   "link": "https://www.livemint.com/market/commodities/silver-price-outlook-future-is-bright-with-rs-3-25-lk-kg-target-in-sight-expert-explains-what-could-trigger-next-spark-11790141170060.html",
-   "summary": "With silver currently trading around the mid-$60s per ounce ( ₹2.40 lakh/kg), the key question for investors is what could push the precious metal towards the higher end of its expected range.",
-   "published": "2026-09-23T06:01:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/silver_1790143226001_WcPP_1790143232187_fcWN_ee53fc7d-0cbf-497a-b0fd-f18edc7a36ec_reBW.png",
-   "topics": [],
-   "first_seen": "2026-09-23T06:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4f44edf07f9aa860",
-   "title": "Hero Motors share price hits 20% upper circuit after tepid listing | What investors should watch",
-   "link": "https://www.livemint.com/market/stock-market-news/hero-motors-share-price-hits-20-upper-circuit-after-tepid-listing-what-investors-should-watch-11790142486424.html",
-   "summary": "Hero Motors share price surged 20% after a lackluster debut, trading at ₹98.40 on the NSE. Despite initial declines, analysts suggest a neutral outlook due to high valuations and risks but acknowledge strong growth potential in powertrain solutions and electric vehicles.",
-   "published": "2026-09-23T05:58:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Hero_Motors_listing_1790143010314_7V9B_1790143015164_q3Ui_58c3f547-b6e2-4887-a557-4cf5863b4543_LUmG.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-23T06:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
