@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-29T03:00:09+00:00",
+ "generated_at": "2026-09-29T03:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 10,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 08:22:45 +0530",
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 29 Sep 2026 08:10:51 +0530",
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 29 Sep 2026 07:13:01 +0530",
+   "sample_date": "Tue, 29 Sep 2026 08:54:49 +0530",
    "error": null,
-   "checked_at": "2026-09-29T03:00:09+00:00"
+   "checked_at": "2026-09-29T03:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "bc32b011130a64a4",
+   "title": "₹1.25 crore received under power of attorney: When can taxman treat property money in your account as taxable income?",
+   "link": "https://www.livemint.com/money/personal-finance/125-crore-received-under-power-of-attorney-when-can-taxman-treat-property-money-in-your-account-as-taxable-income-11790651892083.html",
+   "summary": "A recent ITAT ruling has clarified that money received by a taxpayer while acting as a power-of-attorney holder does not automatically become his taxable income. The tribunal deleted a ₹1.25 crore addition after finding that the taxpayer had received the amount on behalf of three property owners.",
+   "published": "2026-09-29T03:24:49+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Gemini_Geerated_Image_towv5jtowv5jtowv_1790652216_1790652225549_Qiqb_1790652225676_1SCp_bb6bbbd0-d123-455d-a762-f965ddf34006_ET4k.png",
+   "topics": [],
+   "first_seen": "2026-09-29T03:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4df35ccbd09f281d",
+   "title": "Are banks open today, 29 September? Here's all you need to know after 3-day nationwide strike deferred",
+   "link": "https://www.livemint.com/money/personal-finance/are-banks-open-today-29-september-heres-all-you-need-to-know-after-3-day-nationwide-strike-deferred-11790649370052.html",
+   "summary": "The proposed three-day nationwide bank strike from 28 to 30 September was deferred after talks between the IBA and UFBU. Check if banks are open in your city today, 29 September.",
+   "published": "2026-09-29T02:58:36+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Banks_Strike_deferred__1790649651960_vcwn_1790649653503_pF19_dbc231ae-71f9-4971-a492-9c5f858ba12d_E7Qx.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T03:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "320b7ae4d04a77db",
    "title": "Tata Sons merger: What TCE and TESS bring to the table in Tata Trusts’ new plan",
@@ -11418,48 +11454,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Gemini_Genrated_Image_93ic2d93ic2d93ic_179013433_1790134347665_07Vu_1790134347805_39sk_1c494463-7246-4b7c-a6af-6371cf91749b_QuHc.png",
    "topics": [],
    "first_seen": "2026-09-23T04:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f4f069e3af49cc56",
-   "title": "NSE IPO listing: Share price prediction - Gains or discounted debut at BSE? What GMP signals",
-   "link": "https://www.livemint.com/market/ipo/nse-ipo-listing-share-price-prediction-gains-or-discounted-debut-at-bse-what-gmp-signals-11790131930523.html",
-   "summary": "NSE IPO listing: According to the current trends in the grey market, NSE IPO is likely to witness a muted listing on Thursday.",
-   "published": "2026-09-23T03:27:58+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/NSE_IPO_listing_1790134056338_9JkY_1790134056600_KfKj_58ee3319-408f-428a-895a-fae092fc677c_3kOT.jfif",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-23T03:30:09+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
-  },
-  {
-   "id": "5ae097528a9ddd8b",
-   "title": "8th Pay Commission: 25 FAQs on latest updates, salary, pension, fitment factor and key dates",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-25-faqs-on-latest-updates-salary-pension-fitment-factor-and-key-dates-11790130573924.html",
-   "summary": "The 8th Pay Commission is reviewing salaries, pensions and allowances for central government employees and pensioners. Here are key FAQs on fitment factor, minimum basic pay, pension revision, DA merger, implementation date and upcoming consultation meetings.",
-   "published": "2026-09-23T03:20:22+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/e14c330e-d580-4370-96a6-bae827d6f129_1790131033891_vJNg_1790131049485_tQ0k_dcb051bf-567f-4733-bc88-7d7db94953be_p7gF.png",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-23T03:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
