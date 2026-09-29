@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T05:00:08+00:00",
+ "generated_at": "2026-09-29T05:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 22 Sep 2026 13:24:02 GMT",
    "error": null,
-   "checked_at": "2026-09-29T05:00:08+00:00"
+   "checked_at": "2026-09-29T05:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 28 Sep 2026 10:54:58 GMT",
+   "sample_date": "Mon, 28 Sep 2026 12:46:34 GMT",
    "error": null,
-   "checked_at": "2026-09-29T05:00:08+00:00"
+   "checked_at": "2026-09-29T05:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 29 Sep 2026 04:43:32 GMT",
+   "sample_date": "Tue, 29 Sep 2026 05:12:00 GMT",
    "error": null,
-   "checked_at": "2026-09-29T05:00:08+00:00"
+   "checked_at": "2026-09-29T05:30:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 18,
-   "items": 18,
+   "fetched": 17,
+   "items": 17,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T05:00:08+00:00"
+   "checked_at": "2026-09-29T05:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 00:30:00 +0000",
+   "sample_date": "Tue, 29 Sep 2026 05:13:43 +0000",
    "error": null,
-   "checked_at": "2026-09-29T05:00:08+00:00"
+   "checked_at": "2026-09-29T05:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "a54b0644eac77f89",
+   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+   "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+   "published": "2026-09-29T05:13:43+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T05:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a0c40b26f4614b6d",
+   "title": "Best AI Tools for Automated Media Buying: 10 Tools to Know in 2026",
+   "link": "https://startuptalky.com/best-ai-tools-for-automated-media-buying/",
+   "summary": "Explore the best AI tools for automated media buying that help businesses automate ad campaigns, optimize budgets, target audiences, and improve advertising performance.",
+   "published": "2026-09-29T05:12:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Vivek Dev Jacob",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/09/Best-AI-Tools-Automated-Media-Buying-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-09-29T05:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9027615b81333890",
+   "title": "Ola Electric plans Rs 1,000 Cr rights issue, appoints new compliance officer",
+   "link": "https://yourstory.com/2026/09/ola-electric-1000-crore-rights-issue-deepa-bansal-compliance-chief",
+   "summary": "Ola Electric Mobility’s board has approved raising up to Rs 1,000 crore via a rights issue of partly paid-up shares to bolster its capital structure.",
+   "published": "2026-09-29T04:57:45+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T05:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "e9119585e6d46517",
+   "title": "Subway India operator EverBrands files DRHP to raise Rs 600 Cr via fresh issue",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHdMTjRIXy05UTJFMzNNT09neFljbUlIM0VEbDdoaVM0V3ljeXhEOVFfUnBrNzVBQ3h0ZkJRalA3Nm4wU1JtOEVSc2ptbV8yZTJhZVhKYWVJQW1ZNHJoQ3hGMVRwNFNqMW90a2hVYktGNEhfZ2hfVmZmeWtqeXFBYkllVEVNN3JzTktFYlBFQmNQbEE5Z01tTXZ5NDY1b1ZwVWtZcXB5N2hpekpqZ2l6MHRQb9IBswFBVV95cUxObHdMTjRIXy05UTJFMzNNT09neFljbUlIM0VEbDdoaVM0V3ljeXhEOVFfUnBrNzVBQ3h0ZkJRalA3Nm4wU1JtOEVSc2ptbV8yZTJhZVhKYWVJQW1ZNHJoQ3hGMVRwNFNqMW90a2hVYktGNEhfZ2hfVmZmeWtqeXFBYkllVEVNN3JzTktFYlBFQmNQbEE5Z01tTXZ5NDY1b1ZwVWtZcXB5N2hpekpqZ2l6MHRQbw?oc=5",
+   "summary": "",
+   "published": "2026-09-29T04:57:27+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-29T05:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "421344c96dfcd3d1",
    "title": "WEH Ventures Announces First Close of ₹250 Cr Fund III",
@@ -1601,24 +1677,6 @@
    ]
   },
   {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-28T04:38:07+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "70addb5019474741",
    "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
    "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
@@ -1945,6 +2003,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T20:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-26T19:44:16+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -8651,24 +8727,6 @@
    "link": "https://yourstory.com/2026/09/semicon-india-ism-ceo-pitches-mega-gathering",
    "summary": "The proposal is to bring the events together in the same city and around the same location, while allowing each to retain its own identity.",
    "published": "2026-09-19T05:45:39+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "aa10fa3f50800976",
-   "title": "5 Self-growth books for people who feel stuck despite trying",
-   "link": "https://yourstory.com/2026/09/self-growth-books-stuck",
-   "summary": "Feeling stuck despite your efforts? These 5 self-growth books offer fresh perspectives, practical insights, and motivation to move forward.",
-   "published": "2026-09-19T05:30:00+00:00",
    "source": "YourStory",
    "group": "YourStory",
    "category": "Startups",
