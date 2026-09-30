@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T20:00:10+00:00",
+ "generated_at": "2026-09-30T20:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 6,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 01:05:08 +0530",
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 00:51:55 +0530",
+   "sample_date": "Thu, 01 Oct 2026 01:41:00 +0530",
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 23:58:20 +0530",
    "error": null,
-   "checked_at": "2026-09-30T20:00:10+00:00"
+   "checked_at": "2026-09-30T20:30:10+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,26 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "fb2d354ad7ff4654",
+   "title": "US dollar flat against peers after softer-than-expected inflation data",
+   "link": "https://www.livemint.com/market/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-11790799061345.html",
+   "summary": "GLOBAL-FOREX/ (UPDATE 1):FOREX-US dollar flat against peers after softer-than-expected inflation data",
+   "published": "2026-09-30T20:11:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T20:30:10+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "508e4d52277ffdc1",
    "title": "Bankrupt Fund Founder Weiss Agrees to Auction Art at Sotheby’s",
@@ -5434,7 +5454,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T01:30:13+00:00",
@@ -8091,7 +8111,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T08:00:10+00:00",
@@ -9412,7 +9432,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "The Economic Times",
+   "publisher": "economictimes.indiatimes.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
@@ -11490,24 +11510,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/2-0-291220118-000-Par8154041-0_1680518918992_1790316693184_AeTT_3e9e9114-f2dd-4985-8e66-75031a7335b0_ALtk.jpg",
-   "topics": [],
-   "first_seen": "2026-09-25T06:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dab4c7f3608482c3",
-   "title": "Whirlpool of India share price zooms 33% in 3 days, up 12% today; what's driving this stock? Will the bull run continue?",
-   "link": "https://www.livemint.com/market/stock-market-news/whirlpool-of-india-share-price-zooms-33-in-3-days-up-12-today-whats-driving-this-stock-will-the-bull-run-continue-11790314326762.html",
-   "summary": "Whirlpool of India is not involved in its promoter's plans to sell shares. The company stated that Whirlpool Mauritius is considering multiple buyers for its remaining stake. Following the announcement, Whirlpool of India shares rose over 12%.",
-   "published": "2026-09-25T06:09:17+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/whirlpool_1790316445462_xMg3_1790316452311_nY7D_d3e8fbf2-f390-44c6-bb42-8bdaa61fc7fd_M7B6.png",
    "topics": [],
    "first_seen": "2026-09-25T06:30:08+00:00",
    "valuation_score": 0,
