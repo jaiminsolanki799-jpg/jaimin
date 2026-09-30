@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T21:00:10+00:00",
+ "generated_at": "2026-09-30T21:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T21:00:10+00:00"
+   "checked_at": "2026-09-30T21:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 02:15:00 GMT",
+   "sample_date": "Wed, 30 Sep 2026 12:33:22 GMT",
    "error": null,
-   "checked_at": "2026-09-30T21:00:10+00:00"
+   "checked_at": "2026-09-30T21:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 30 Sep 2026 15:05:06 GMT",
    "error": null,
-   "checked_at": "2026-09-30T21:00:10+00:00"
+   "checked_at": "2026-09-30T21:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Tue, 29 Sep 2026 06:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-30T21:00:10+00:00"
+   "checked_at": "2026-09-30T21:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 20:39:09 +0000",
+   "sample_date": "Wed, 30 Sep 2026 21:07:40 +0000",
    "error": null,
-   "checked_at": "2026-09-30T21:00:10+00:00"
+   "checked_at": "2026-09-30T21:30:11+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,29 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "f9953f3a0f91b814",
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+   "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+   "published": "2026-09-30T21:07:40+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-30T21:30:11+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "PE / VC"
+   ]
+  },
   {
    "id": "d76d029e92f179f8",
    "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
@@ -853,24 +876,6 @@
    ]
   },
   {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-30T11:22:37+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "2705ec98b7195f03",
    "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSW1yVUtuR0tZOUo3RktuMXhDMHFzRkk4Y29GVk9vNTdROElWaW1nWDgtWVp3Y21KSVUzMFc2LUF5QXcxbDluYld4bFFhMTZYWGxXcFpzVDZOWi02WUdkcUoxUkQtQS1CMzJPNm84aExQTnNqd1hvWmwwUE9iWklpeWo5N2ZQMnJWaU03cVUwNXRCV2tpdDVRWm02V01NRlRxUWNka3M0R1dUVWdNMURxZlYwb3JOTWZJdV83cE5ZUWhLLWNRNHFIM2dHTnVzQmfSAc8BQVVfeXFMTUltclVLbkdLWTlKN0ZLbjF4QzBxc0ZJOGNvRlZPbzU3UThJVmltZ1g4LVlad2NtSklVMzBXNi1BeUF3MWw5bmJXeGxRYTE2WFhsV3Bac1Q2TlotNllHZHFKMVJELUEtQjMyTzZvOGhMUE5zandYb1psMFBPYlpJaXlqOTdmUDJyVmlNN3FVMDV0QldraXQ1UVptNldNTUZUcVFjZGtzNEdXVFVnTTFEcWZWMG9yTk1mSXVfN3BOWVFoSy1jUTRxSDNnR051c0Jn?oc=5",
@@ -965,6 +970,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-30T08:32:52+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "the-captable.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1228,7 +1251,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T14:00:13+00:00",
@@ -1246,7 +1269,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
@@ -1300,7 +1323,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
@@ -1336,7 +1359,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -1383,7 +1406,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
+   "title": "- the-captable.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-30T02:52:29+00:00",
@@ -1803,7 +1826,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -2035,6 +2058,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T13:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-29T13:20:21+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "the-captable.com",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2717,7 +2758,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -2887,7 +2928,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T05:00:08+00:00",
@@ -3142,24 +3183,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T19:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-28T19:27:04+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -4284,7 +4307,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:00:10+00:00",
@@ -5904,7 +5927,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T03:00:09+00:00",
