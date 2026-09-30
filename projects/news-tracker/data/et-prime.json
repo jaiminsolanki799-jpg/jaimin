@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T07:00:12+00:00",
+ "generated_at": "2026-09-30T07:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,18 +112,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 11,
-   "items": 6,
+   "fetched": 12,
+   "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 12:25:27 +0530",
+   "sample_date": "Wed, 30 Sep 2026 12:48:07 +0530",
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 12:23:26 +0530",
+   "sample_date": "Wed, 30 Sep 2026 12:52:07 +0530",
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 12:25:09 +0530",
    "error": null,
-   "checked_at": "2026-09-30T07:00:12+00:00"
+   "checked_at": "2026-09-30T07:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,146 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "83d903447832824a",
+   "title": "Building recycling plants is fine. Will they get enough scrap?",
+   "link": "https://economictimes.indiatimes.com/prime/building-recycling-plants-is-fine-will-they-get-enough-scrap/primearticleshow/134456105.cms",
+   "summary": "",
+   "published": "2026-09-30T07:30:08+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "17961de19c41adbb",
+   "title": "H1 digest: India’s IPO market bucks weak equities as domestic capital steps up",
+   "link": "https://www.livemint.com/market/stock-market-news/h1-digest-india-ipo-market-h1-fy27-mainboard-sme-ipos-11790745031564.html",
+   "summary": "As many as 78 companies listed on the mainboard in the first half of FY27 (April-September), up from 65 in the year-ago period. The average issue size rose 12% year-on-year to more than ₹1,200 crore.",
+   "published": "2026-09-30T07:22:07+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/AdobeStock_1205122139_1759118299308_1759118308920_1790752512240_Excw_7c1e7a8f-3e05-4a9e-8662-e7790d0c9b01_MO7u.jpeg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "db3733e19ebb0cec",
+   "title": "Tata Sons merger proposal faces questions from Tata Trusts trustees: Report",
+   "link": "https://www.livemint.com/companies/news/tata-sons-merger-proposal-faces-questions-from-tata-trusts-trustees-report-11790752220173.html",
+   "summary": "Trustees of Tata Trusts are questioning a proposed merger involving Tata Sons that could prevent a public listing. They claim no board resolution has approved the merger, and the Sir Ratan Tata Trust is barred from meetings by the Charity Commissioner amid regulatory concerns.",
+   "published": "2026-09-30T07:18:07+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/Tata_Sons_1790752493669_yyKY_1790752493807_IZNq_c8518fd2-32fb-457c-bb9d-2549bc8f6b02_QTBA.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "1ee2054ab02e5a7e",
+   "title": "Infosys' nearly 1 lakh employees to move into specialist roles as AI reshapes tech industry",
+   "link": "https://www.livemint.com/companies/news/infosys-nearly-1-lakh-employees-to-move-into-specialist-roles-as-ai-reshapes-tech-industry-11790751738455.html",
+   "summary": "Infosys plans to move up to one-third of its workforce into specialised roles and build a 6,000-member team of frontier engineers as AI reshapes the IT industry. The move comes as Indian IT firms face pressure on hiring, headcount-based pricing and traditional business models.",
+   "published": "2026-09-30T07:13:10+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Infosys_Artificial_Intelligence_1790752212479_M9GL_1790752212657_3iDE_8765282b-c8d9-4f4f-a976-b452b9096058_KgSk.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5b0bc5c36cfdcb98",
+   "title": "Price hikes test consumer durables makers’ ability to protect festive demand",
+   "link": "https://www.livemint.com/companies/news/consumer-durable-makers-price-hikes-festive-season-emi-offers-11790738978756.html",
+   "summary": "No-cost EMIs, cashback offers, exchange schemes, bundled accessories and extended warranties are helping cushion consumers from the impact of higher prices. Financing allows manufacturers and retailers to make a higher-priced product affordable without permanently resetting the list price.",
+   "published": "2026-09-30T07:11:00+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/2-0-801833073-showroom-0_1680436928531_1790751863925_aDT6_8645a5e3-c997-476b-b21d-3ee6dab3205e_tPwC.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e32afe25bea740a8",
+   "title": "Upper circuit bonanza! STL Networks, Sterlite Tech rally 5% - What's fuelling surge and what lies ahead for investors",
+   "link": "https://www.livemint.com/market/stock-market-news/upper-circuit-bonanza-stl-networks-sterlite-tech-rally-5-whats-fuelling-surge-and-what-lies-ahead-for-investors-11790749302533.html",
+   "summary": "STL Networks and Sterlite Technologies shares rose nearly 5% on September 30, driven by optimism surrounding new contracts, including a major order from Railtel Corporation worth Rs. 249 crore",
+   "published": "2026-09-30T07:09:04+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/sdsfs_1790751783842_NgTy_1790751798154_XCSv_ea83fa74-a6aa-4455-b1ce-4c6ba581f8fe_h8KX.png",
+   "topics": [],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9dafd59e3b5f35c2",
+   "title": "Up 50% in 1 year, Vedanta raises ₹2,000 crore via NCDs: Check full details - what it means for shareholders, company",
+   "link": "https://www.livemint.com/market/stock-market-news/up-50-in-1-year-vedanta-raises-rs-2-000-crore-via-ncds-check-full-details-what-it-means-for-shareholders-company-11790748528736.html",
+   "summary": "Vedanta Ltd has raised ₹2,000 crore via private placement of 2 lakh non-convertible debentures, each valued at ₹1 lakh. This move is part of its debt capital-raising efforts, following a September 18 announcement to raise up to ₹3,500 crore through NCDs.",
+   "published": "2026-09-30T07:05:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/vedanta_1790751814973_1uox_1790751821647_uPtz_592f1feb-5fbb-4047-8a6f-8e0015e51a98_sd6N.png",
+   "topics": [],
+   "first_seen": "2026-09-30T07:30:08+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "Valuation"
+   ]
+  },
   {
    "id": "4937f17debb833b9",
    "title": "As brands demand more ads, Omnicom turns India into a ‘content factory’",
@@ -11361,138 +11499,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/crash_1790242764458_SW5d_1790242773797_XzTA_2d1e006d-c9d1-4567-af2f-85fc52b20742_6nmW.png",
    "topics": [],
    "first_seen": "2026-09-24T10:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "aaab26a9a6c2b30d",
-   "title": "PB Fintech in deep red, crashes 34% after IRDAI new insurance norms proposal",
-   "link": "https://www.livemint.com/market/stock-market-news/pb-fintech-in-deep-red-crashes-34-after-irdai-new-insurance-norms-proposal-11790241329240.html",
-   "summary": "PB Fintech shares dropped 32% following IRDAI's proposed changes to insurance distribution rules, including a ban on misleading practices. The reforms aim to lower costs and improve transparency, potentially altering commission structures and impacting revenue for distributors and platforms.",
-   "published": "2026-09-24T09:35:36+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/PB_Fintech_Crashes_1790242363471_eAXz_1790242368751_owLa_d22d4958-c2d7-4f2c-acd6-4be5c42bef3c_MZNY.png",
-   "topics": [],
-   "first_seen": "2026-09-24T10:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "70876586609dc391",
-   "title": "Buy Suzlon, Saatvik Green; Sell Premier Energies, Emmvee Photovoltaic Power: Ambit Insights | Target price, upside",
-   "link": "https://www.livemint.com/market/stock-market-news/buy-suzlon-saatvik-green-sell-premier-energies-emmvee-photovoltaic-power-ambit-insights-target-price-upside-11790241660510.html",
-   "summary": "Ambit Insights reduced Emmvee Photovoltaic's rating to ‘Sell’ predicting significant challenges ahead. They are optimistic about Saatvik Green and maintain a 'Buy' on Suzlon Energy.",
-   "published": "2026-09-24T09:34:45+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/renewable_energy_stocks_1790242377521_lbYF_1790242383565_CyFi_bafb8933-6a40-49b7-9e34-ad9c0a1036b7_yNsK.png",
-   "topics": [],
-   "first_seen": "2026-09-24T10:00:11+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
-  },
-  {
-   "id": "c72ad3ad7dfaa91f",
-   "title": "Planning a joint home loan with your spouse? Know how it affects eligibility, tax benefits, EMI and repayment",
-   "link": "https://www.livemint.com/money/personal-finance/planning-a-joint-home-loan-with-your-spouse-know-how-it-affects-eligibility-tax-benefits-emi-and-repayment-11790241303902.html",
-   "summary": "A joint home loan can help spouses increase their borrowing eligibility by combining their incomes, while also allowing them to share EMI payments. But higher eligibility does not mean couples should borrow the maximum, as both borrowers share the repayment responsibility.",
-   "published": "2026-09-24T09:22:24+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_Generated_Image_n5vg5lnvg5ln5vg_17902415_1790241562093_QlHQ_1790241562323_ShML_8b92d570-0e4d-4a37-bb17-35a1347616ca_01fL.png",
-   "topics": [],
-   "first_seen": "2026-09-24T09:30:45+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d37c7f1c97860fd0",
-   "title": "Goldman Sachs buys stake in small-cap stock that has surged 50% in less than two months",
-   "link": "https://www.livemint.com/market/stock-market-news/goldman-sachs-buys-stake-in-small-cap-stock-that-has-surged-50-in-less-than-two-months-11790237709933.html",
-   "summary": "Goldman Sachs Investments Mauritius I Limited acquired 51 lakh shares of Lord’s Mark Industries for ₹42.84 crore. Separately, promoters sold 1.03 crore shares, generating ₹87.39 crore in proceeds, with the proceeds intended for reinvestment in the company's medical device unit.",
-   "published": "2026-09-24T09:13:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Goldman_Sachs_1790240458902_YX8W_1790240462983_XmfH_684db5b9-6900-4db9-a7eb-dfb958d91783_PrxY.png",
-   "topics": [],
-   "first_seen": "2026-09-24T09:30:45+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
-   ]
-  },
-  {
-   "id": "e479d8b489e3133e",
-   "title": "Adani Group to invest over ₹1 lakh crore in West Bengal by 2035 for ports, logistics, power, data centres and more",
-   "link": "https://www.livemint.com/companies/news/adani-group-to-invest-over-rs-1-lakh-crore-in-west-bengal-by-2035-for-ports-logistics-power-data-centres-and-more-11790239940310.html",
-   "summary": "Adani Group plans to invest over ₹1 lakh crore in West Bengal by 2035, enhancing sectors like healthcare, logistics, and power. The investment aims to transform infrastructure and create job opportunities, with a commitment to building a 2,000-bed medical institution in New Town.",
-   "published": "2026-09-24T09:10:32+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/adani_1790240930050_oZf5_1790240943519_HGf3_2695e728-adc4-44a4-8140-c39191e593fc_gAxI.jpg",
-   "topics": [],
-   "first_seen": "2026-09-24T09:30:45+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "65e1505588052629",
-   "title": "IRDAI shocker! From ICICI Bank to PB Fintech - A look at most and least impacted bank, NBFC and insurance stocks",
-   "link": "https://www.livemint.com/market/stock-market-news/irdai-shocker-from-icici-bank-to-pb-fintech-a-look-at-most-and-least-impacted-bank-nbfc-and-insurance-stocks-11790239361588.html",
-   "summary": "IRDAI's consultation suggests potential earnings pressure for banks and NBFCs reliant on insurance income. Analysts highlight SBI, ICICI Bank, and Kotak as being comparatively insulated. Investors should keep an eye on the final commission structure and its impact on financial stocks.",
-   "published": "2026-09-24T09:05:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/stocks_to_buy_1790240545390_RPlG_1790240551612_l38I_38969f9c-aee5-487c-8646-3ca9da424240_bTNP.png",
-   "topics": [],
-   "first_seen": "2026-09-24T09:30:45+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2128c2727b8ae0b2",
-   "title": "NSE vs BSE: Which stock to buy after world's biggest derivative exchange's shares' debut on Dalal Street?",
-   "link": "https://www.livemint.com/market/stock-market-news/nse-vs-bse-which-stock-to-buy-after-worlds-biggest-derivative-exchanges-shares-debut-on-dalal-street-11790236474795.html",
-   "summary": "NSE share price was listed at 0.80% premium on the BSE over the IPO issue price of ₹1,785 per share. The stock opened at ₹1,800 apiece.",
-   "published": "2026-09-24T09:02:44+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/NSE_vs_BSE_1790240508827_tsJR_1790240509036_SIMn_983df435-d730-46c3-b6bc-6dc3f6a9161f_XF7D.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-24T09:30:45+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
