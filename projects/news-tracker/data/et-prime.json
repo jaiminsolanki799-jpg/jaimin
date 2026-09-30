@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T01:30:11+00:00",
+ "generated_at": "2026-09-30T02:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 06:00:55 +0530",
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 06:52:41 +0530",
+   "sample_date": "Wed, 30 Sep 2026 07:11:56 +0530",
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 01:41:47 +0530",
    "error": null,
-   "checked_at": "2026-09-30T01:30:11+00:00"
+   "checked_at": "2026-09-30T02:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,88 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "864c26592f7424c5",
+   "title": "Korean Stocks Face Early End to $40 Billion Buyback Support",
+   "link": "https://www.livemint.com/market/korean-stocks-face-early-end-to-40-billion-buyback-support-11790732516694.html",
+   "summary": "South Korean stocks are about to lose a key source of support earlier than expected, just as the market struggles to push decisively higher.",
+   "published": "2026-09-30T01:41:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-30T02:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "b653c586741b31d3",
+   "title": "Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says",
+   "link": "https://www.livemint.com/market/mideast-crude-oil-flows-hit-98-of-pre-war-level-jpmorgan-says-11790732517376.html",
+   "summary": "Crude oil flows from the Middle East are almost back to pre-war levels despite continued risks to shipping, according to JPMorgan Chase & Co.",
+   "published": "2026-09-30T01:41:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T02:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b354487e4f577db9",
+   "title": "Raja Venkatraman recommends two stocks for 30 September",
+   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-30-september-11790730993565.html",
+   "summary": "Market expert Raja Venkatraman shares his top stock picks for 30 September. Here’s his technical outlook and trade strategy.",
+   "published": "2026-09-30T01:30:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/maxresdefault_1790731058261_jhmW_1790731065255_Xxkm_ad419ca9-ef77-4d19-956e-253daf4f7886_vii0.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T02:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cbd9a9ccf5f98cf7",
+   "title": "Lesson from 2026 IPOs: earnings execution beats listing gains",
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-ipos-ipo-2026-ipo-performance-11790684369173.html",
+   "summary": "Investors who sold on debut locked in losses on two of 2026's top three performers, showing why fundamental execution and consistent growth matter far more than first-day market noise.",
+   "published": "2026-09-30T01:30:16+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Multibagger_stock_Small_cap_stocks_Defence_stocks__1790684719384_UpUB_1790684719596_VnRB_12b8dfd7-5900-473a-aae8-d9e52fe4bac6_FPVn.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-30T02:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "242d257dc927325b",
    "title": "Jefferies's top stock recommendation: Buy rating with 27% upside | Indian share up 57% against IPO price in one month",
@@ -11419,80 +11499,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/2-0-506572837-gold-jeweller--621x414-0_1681039244056_1790221372110_IdqG_1d36b981-cbab-4b60-9512-d751c3bfce00_crMC.jpg",
    "topics": [],
    "first_seen": "2026-09-24T04:00:46+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9683fa66609bd9a5",
-   "title": "Dividend, stock split record date alert: Last chance to buy today - Noble Polymers, Naturite Agro, Midwest Energy, more",
-   "link": "https://www.livemint.com/market/stock-market-news/dividend-stock-split-alert-last-chance-to-buy-today-ads-diagnostics-naturite-agro-to-midwest-energy-ahead-of-record-11790219097236.html",
-   "summary": "Shares of Noble Polymers, Naturite Polymers, Midwest Energy, and others will be in focus as five companies set Friday as the record date for shareholder payouts. Midwest Energy announced a 10:1 stock split, while the Indian market is expected to continue its recent gains.",
-   "published": "2026-09-24T03:36:36+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/dividend_record_dateasas_1790220714894_fDMv_1790220731229_idud_78a1fb5b-9f53-498f-8004-710a766d01eb_axSA.png",
-   "topics": [],
-   "first_seen": "2026-09-24T04:00:46+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "381846165cd7f844",
-   "title": "Cryptocurrency future: Bitcoin prices trading above $80k - What's behind the rally? What lies ahead?",
-   "link": "https://www.livemint.com/market/cryptocurrency/cryptocurrency-future-bitcoin-prices-trading-above-80k-whats-behind-the-rally-what-lies-ahead-11790218140136.html",
-   "summary": "Cryptocurrency future: Bitcoin has surged approximately 10% to 14% in the last seven days, breaking above the $85,000–$87,000 range.",
-   "published": "2026-09-24T03:35:07+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/crypto_1790220818872_W5lq_1790220819020_1Poc_5cfce9d8-e969-4df0-8780-e733e847da0b_7i4Z.jfif",
-   "topics": [],
-   "first_seen": "2026-09-24T04:00:46+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4e2475498e777e62",
-   "title": "Three Indian stocks to watch as Saudi Arabia rebuilds its oil & gas infra",
-   "link": "https://www.livemint.com/market/stock-market-news/stocks-with-presence-in-saudi-arabia-indian-companies-operating-in-saudi-arabia-11790163119485.html",
-   "summary": "Saudi Arabia is taking measures to rebuild its oil and gas infrastructure after recent damage. Here are the Indian stocks to watch.",
-   "published": "2026-09-24T03:30:14+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/im-98867202_1784534079331_1790164264861_LO4l_2ae91c91-aed4-494d-9ca4-e5ddd2c28ccc_RGcn.jpg",
-   "topics": [],
-   "first_seen": "2026-09-24T04:00:46+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "03a65301a41d8fe2",
-   "title": "IRDAI proposes new motor insurance rules: What could change for new car buyers",
-   "link": "https://www.livemint.com/money/personal-finance/irdai-proposes-new-motor-insurance-rules-what-could-change-for-new-car-buyers-11790218819778.html",
-   "summary": "IRDAI has proposed changes to motor insurance distribution that could alter how new-vehicle buyers purchase insurance. It proposes digital purchase options through platforms such as Bima Sugam, tighter rules for motor dealers and lower commissions on mandatory third-party motor insurance.",
-   "published": "2026-09-24T03:15:15+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Gemini_Generate_Image_htl9h2htl9h2htl9_179021930_1790219311758_gRxE_1790219312040_Sv3o_4fe14094-2efa-44ed-8b5c-9cd1e8831d1f_9Xfq.png",
-   "topics": [],
-   "first_seen": "2026-09-24T03:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
