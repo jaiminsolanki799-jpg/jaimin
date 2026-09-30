@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T15:30:10+00:00",
+ "generated_at": "2026-09-30T16:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 12,
+   "fetched": 11,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 20:15:15 +0530",
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 20:53:24 +0530",
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 19:43:09 +0530",
+   "sample_date": "Wed, 30 Sep 2026 21:24:38 +0530",
    "error": null,
-   "checked_at": "2026-09-30T15:30:10+00:00"
+   "checked_at": "2026-09-30T16:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "5d0ba2ca228fab23",
+   "title": "Lived in mother's house, paid for construction: Why Delhi High Court rejected son's plea for ownership rights",
+   "link": "https://www.livemint.com/money/personal-finance/lived-in-mothers-house-paid-for-construction-why-delhi-high-court-rejected-sons-plea-for-ownership-rights-11790777333973.html",
+   "summary": "The Delhi HC ruling is relevant to families where parents own a house but allow their children or other relatives to live there. It distinguishes between the right to reside in a family property and a legally established ownership interest.",
+   "published": "2026-09-30T15:54:38+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/property_1790780976353_oXJn_1790781059920_Fkod_575c8325-0e70-42d3-a2c9-2fcfc5826453_hHOt.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T16:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "01c72a26e99fc651",
    "title": "Six months after oil spiked, why are markets reacting so sharply now?",
@@ -11498,24 +11516,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/INDIA-BUDGET-ECONOMY-23_1772700758933_1772700822513_1790271780750_8BsD_7d02979d-cb95-4efa-9f22-ef8cf1191939_QjgX.JPG",
    "topics": [],
    "first_seen": "2026-09-25T03:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e570f8f314782c17",
-   "title": "Can an NRI sell inherited agricultural land to another NRI? Know the rules",
-   "link": "https://www.livemint.com/money/can-you-inherit-ancestral-family-property-in-india-after-becoming-an-nri-know-the-rules-11790300120014.html",
-   "summary": "Moving abroad does not revoke an NRI's right to inherit property in India. NRIs can inherit various properties but face restrictions on selling agricultural land. Know the rules.",
-   "published": "2026-09-25T02:15:49+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/inheritance_1790302469280_LQrC_1790302469562_V9yz_eba01636-268a-46c0-b8ea-9c5ae8332845_fcEN.png",
-   "topics": [],
-   "first_seen": "2026-09-25T02:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
