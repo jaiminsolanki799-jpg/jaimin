@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T17:30:12+00:00",
+ "generated_at": "2026-09-30T18:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 11,
+   "fetched": 10,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 22:21:36 +0530",
+   "sample_date": "Wed, 30 Sep 2026 23:17:17 +0530",
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 22:25:51 +0530",
+   "sample_date": "Wed, 30 Sep 2026 23:09:49 +0530",
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 22:05:23 +0530",
+   "sample_date": "Wed, 30 Sep 2026 23:22:31 +0530",
    "error": null,
-   "checked_at": "2026-09-30T17:30:12+00:00"
+   "checked_at": "2026-09-30T18:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,104 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "499cc1b1c430f069",
+   "title": "NPS Swasthya: ₹1 lakh to ₹30 lakh — Check health insurance cover, deductibles the scheme likely provides",
+   "link": "https://www.livemint.com/money/personal-finance/nps-swasthya-rs-1-lakh-to-rs-30-lakh-check-healthcare-insurance-cover-deductible-policy-likely-provides-medical-expenses-11790785737036.html",
+   "summary": "PFRDA plans to introduce the NPS Swasthya health-focused pension product after successful testing. Here's a look at what we can expect, the deductibles and likely healthcare insurance cover the product may provide…&nbsp;",
+   "published": "2026-09-30T17:52:31+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/nps_swa_1790340631170_JGRn_1790340637035_BGNQ_de09_1790790395526_MuBk_1790790395629_omzj_cac652e8-f479-426e-a49d-520f56af7f0c_bS8y.png",
+   "topics": [],
+   "first_seen": "2026-09-30T18:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7b4a6eb9692d5972",
+   "title": "From ₹10 crore seed funding to 17x sales growth: How a 16-year-old founder sold 1 unit every 2 minutes | Startup story",
+   "link": "https://www.livemint.com/companies/start-ups/from-10-crore-seed-funding-to-17x-sales-growth-how-16-year-old-founder-sold-1-unit-every-2-minutes-startup-story-11790786080726.html",
+   "summary": "SAMMMM is a growing self-care brand, targeting Gen Z and Gen Alpha consumers. Launched in 2005, it was co-founded by a father-daughter duo.&nbsp;",
+   "published": "2026-09-30T17:47:17+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/21586_1790788933206_jjyw_1790788937558_ubcE_a5e17a0f-e95b-4297-ba93-86a7daa0b42d_ZGya.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T18:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "5ba3e28ffdb34d68",
+   "title": "Scotch whisky gets cheaper? Johnnie Walker, J&B prices fall 10-15% after India-UK trade agreement, says report",
+   "link": "https://www.livemint.com/companies/news/scotch-whisky-gets-cheaper-johnnie-walker-j-b-prices-fall-10-15-after-india-uk-trade-agreement-says-report-11790787929321.html",
+   "summary": "Scotch whisky prices in India have reportedly fallen 10-15% after the India-UK trade deal cut tariffs on British whisky. Johnnie Walker Black Label and J&amp;B are among brands seeing price cuts in key states, as per the report.",
+   "published": "2026-09-30T17:46:18+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Untitled_design_1790788271638_Jwvz_1790788275032_nxaV_fbcea491-a2f4-4d48-91e2-7d891308f80e_jN3J.png",
+   "topics": [],
+   "first_seen": "2026-09-30T18:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "34bd75b4f0bc65bf",
+   "title": "10 Nifty 50 stocks, including Infosys and TCS, posted double-digit losses in September as market sell-off deepens",
+   "link": "https://www.livemint.com/market/stock-market-news/10-nifty-50-stocks-including-infosys-and-tcs-posted-double-digit-losses-in-september-as-market-sell-off-deepens-11790786786742.html",
+   "summary": "Bajaj Finserv, Infosys, and TCS were among 10 Nifty 50 stocks that reported significant losses in September due to high crude prices, overseas selling, and rising bond yields, contributing to the Nifty's 6% decline and 13.5% year-to-date drop.",
+   "published": "2026-09-30T17:39:49+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Nifty_2020_1790789332987_NEa4_1790789337973_jH5W_f3bcde30-0ebe-4eb8-82d3-d4f1c1ce8bad_rpVr.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-09-30T18:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c68be60e38c32f14",
+   "title": "RBI’s new bulk FD rules from October 1: What changes for investors? Experts explain",
+   "link": "https://www.livemint.com/money/personal-finance/rbis-new-bulk-fd-rules-from-october-1-what-changes-for-investors-experts-explain-11790781320502.html",
+   "summary": "The revised RBI framework is aimed at making bulk-FD pricing more transparent and giving large depositors clearer information about the interest rate applicable to their deposits.",
+   "published": "2026-09-30T17:31:18+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/rbifd_1790788319467_mNjj_1790788348254_CqdD_cadc0872-71a8-4fb1-827f-22f3c58722dc_eNRF.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-09-30T18:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "34607ac7fbc1a747",
    "title": "Top 5 breakout stocks to buy: PVRINOX, JK Tyre, ICICIGI, Texmaco Rail, Mishra Dhatu by Sumeet Bagadia | Target, stoploss",
@@ -11423,99 +11519,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/pexels-photo-5466789_1790310056786_ftHb_1790310231346_oiNi_a4f73346-4bb0-4651-b15f-dee361475d51_qWPI.jpeg",
    "topics": [],
    "first_seen": "2026-09-25T05:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "69d180901d5fca2b",
-   "title": "Stock market holidays: Taiwan to Shanghai Stock Exchange — These Asian markets to remain closed today",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-taiwan-to-shanghai-stock-exchange-these-asian-markets-to-remain-closed-today-11790310012890.html",
-   "summary": "Markets in China, Taiwan, and South Korea are closed for holidays on Friday, September 25. China observes the Mid-Autumn Festival, while Taiwan and South Korea celebrate their respective festivals, with all markets set to reopen next week.",
-   "published": "2026-09-25T04:30:29+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/stock_market_holiday_1790310322987_AdXb_1790310337891_gtnu_2b0857dc-1cbd-4ff3-882c-1e6adb9762a8_OHXP.png",
-   "topics": [],
-   "first_seen": "2026-09-25T05:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "96925fa1c10040bc",
-   "title": "Hero Motors shares up 20% — what's driving the stock? Explained with target, stop-loss",
-   "link": "https://www.livemint.com/market/stock-market-news/hero-motors-shares-up-17-whats-driving-the-stock-explained-with-target-stoploss-11790309428957.html",
-   "summary": "Hero Motors shares surged 20% on September 25, recovering from a weak debut. The stock climbed from an IPO price of ₹84 to ₹141.85, marking a total gain of nearly 69%. Analysts suggest investors wait for stabilization due to premium valuation concerns.",
-   "published": "2026-09-25T04:27:09+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/heromo_1790310378862_J6Y2_1790310392320_9QA4_0c5d6044-83a9-4c0e-b432-8102986a0267_tgnx.png",
-   "topics": [
-    "SEBI / markets regulation",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-25T04:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "08375f10ab76b782",
-   "title": "PB Fintech shares slump 40% in two sessions| What Jefferies, Morgan Stanley, BofA say on the stock",
-   "link": "https://www.livemint.com/market/stock-market-news/pb-fintech-shares-slump-40-in-two-sessions-what-jefferies-morgan-stanley-bofa-say-on-the-stock-11790308344209.html",
-   "summary": "PB Fintech shares rose nearly 4% after a 36% plunge, yet fell over 6% today, losing about 40% in two sessions due to proposed regulatory changes. Analysts are cautious, advising against immediate investments amid weakening technical indicators and revised price targets from global brokerages.",
-   "published": "2026-09-25T04:19:32+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/PB_Fintech_stock_1790309844535_JBEv_1790309851251_AzE7_7fe8e03e-c14c-4bf6-af3d-a1cab658a8a0_bsis.png",
-   "topics": [],
-   "first_seen": "2026-09-25T04:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "48d7ed84eac17971",
-   "title": "Gold, silver prices today, 25 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-september-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11789009039125.html",
-   "summary": "Gold and silver prices today, 25 September: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-   "published": "2026-09-25T04:03:49+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1790307554811_GlaJ_1790307559065_pr8z_c5e79f39-7647-4fee-bfb0-1f5cbbbacdb4_rayL.png",
-   "topics": [],
-   "first_seen": "2026-09-25T04:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "206bffebd3184031",
-   "title": "Welspun Corp share price hits 52-week high after subsidiary wins its largest-ever order | All details here",
-   "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-rises-4-after-subsidiary-wins-its-largest-ever-order-all-details-here-11790308262281.html",
-   "summary": "Welspun Corp share price climbed over 5% in early deals on the BSE on Friday, 25 September, to hit its 52-week high of ₹2,837.50, boosted by the company's announcement about its subsidiary winning its largest-ever order in the US.",
-   "published": "2026-09-25T03:58:38+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Welspun_Corp_share_price_1790308682569_gddT_1790308687455_CppF_c8e4b407-fbbc-4bcf-8324-49e6798db959_ky0R.png",
-   "topics": [],
-   "first_seen": "2026-09-25T04:00:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
