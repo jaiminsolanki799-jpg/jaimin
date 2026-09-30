@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T18:30:10+00:00",
+ "generated_at": "2026-09-30T19:00:26+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
-   "items": 7,
+   "fetched": 9,
+   "items": 6,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 23:39:43 +0530",
+   "sample_date": "Thu, 01 Oct 2026 00:14:04 +0530",
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 23:32:50 +0530",
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 23:22:31 +0530",
+   "sample_date": "Wed, 30 Sep 2026 23:58:20 +0530",
    "error": null,
-   "checked_at": "2026-09-30T18:30:10+00:00"
+   "checked_at": "2026-09-30T19:00:26+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "3d9ec373a4fed454",
+   "title": "Indian entrepreneurs increasingly eye global residencies, ramp up AI investments: HSBC report",
+   "link": "https://www.livemint.com/companies/news/indian-entrepreneurs-increasingly-eye-global-residencies-ramp-up-ai-investments-hsbc-report-11790788444354.html",
+   "summary": "Singapore was the preferred destination among Indian respondents, with 14% naming the city-state as their choice",
+   "published": "2026-09-30T18:44:04+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/singapore_1790790533619_3gy7_1790790572490_Ezr7_4a1e9df4-e958-4f6a-8350-75d2454b3b23_yxR4.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T19:00:26+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fbc51d2643b39b8e",
+   "title": "Kisan Vikas Patra: Want to transfer, pledge or prematurely close your account? Here's what the rules say…",
+   "link": "https://www.livemint.com/money/personal-finance/kisan-vikas-patra-how-transfer-pledge-premature-close-your-account-kvp-double-money-9-year-post-office-investment-scheme-11790790996117.html",
+   "summary": "The Kisan Vikas Patra (KVP) is a 115-month investment scheme designed for Indian citizens aged 10 and over, allowing deposits starting from ₹1,000. Here's a look at the rules to transfer, pledge or prematurely close your account…&nbsp;",
+   "published": "2026-09-30T18:28:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/KVP_1701242462769_1790792599192_4KUs_99d74caa-5336-4a97-958d-a78532bb92f1_iN2G.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T19:00:26+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "04ca95c7d087d1c0",
    "title": "Apple to sell 6 million iPhone Duo units this year as IDC predicts 13% growth in foldable phone sales",
@@ -572,7 +608,7 @@
   },
   {
    "id": "f13c9878c8e21f2a",
-   "title": "Top stocks in focus tomorrow: Investors must watch Jio Financial, Infosys, NCC shares on Thu, 1 Oct | Triggers",
+   "title": "Top stocks in focus today: Investors must watch Jio Financial, Infosys, NCC shares on Thu, 1 Oct | Triggers",
    "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-jio-financial-infosys-ncc-shares-on-thu-1-oct-triggers-11790774828518.html",
    "summary": "Indian investors will monitor companies like Jio Financial Services, NCC, and Highway Infrastructure on October 1, focusing on key business developments and announcements. Jio acquired shares in Jio Allianz, NCC secured orders, and Highway Infrastructure entered a toll plaza contract.",
    "published": "2026-09-30T14:19:14+00:00",
@@ -1063,7 +1099,7 @@
   },
   {
    "id": "a5384fcf759445c0",
-   "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026",
+   "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026",
    "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-thursday-kospi-taiwan-cues-to-watch-1-oct-2026-11790763209208.html",
    "summary": "The Indian stock market ended September with losses, as profit booking and rising crude oil prices weighed on investor sentiment. The Nifty 50 fell 0.42% and the Sensex 0.07%, marking a tough month for equities amid ongoing geopolitical tensions.",
    "published": "2026-09-30T11:00:58+00:00",
@@ -11483,42 +11519,6 @@
     "IPO",
     "Results"
    ]
-  },
-  {
-   "id": "ffe42cfef88f7e4b",
-   "title": "240% rally in six months! Defence stock Raymond hits 52-week high; exit or hold? Explained with target, stop-loss, ratio",
-   "link": "https://www.livemint.com/market/stock-market-news/240-rally-in-six-months-defence-stock-raymond-hits-52-week-high-exit-or-hold-explained-with-target-stop-loss-ratio-11790310543429.html",
-   "summary": "Raymond share price peaked at ₹1,222.15, a 52-week high, before declining. The company announced a contract for larger aircraft structures, reflecting its strategic expansion in aerospace. Despite gains, analysts warn of potential profit-booking due to overextended prices.",
-   "published": "2026-09-25T05:12:44+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Raymond_Defence_Stock_1790312896017_5AXp_1790312904475_0qRw_d2a6c277-bc37-4a61-a421-e14d46479b8d_cIHY.png",
-   "topics": [],
-   "first_seen": "2026-09-25T05:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "283dfa8f316300db",
-   "title": "UPI payments above ₹2,000: Who will pay the 0.4% MDR? FM Sitharaman clarifies",
-   "link": "https://www.livemint.com/money/personal-finance/upi-payments-above-2-000-who-will-pay-the-0-4-mdr-fm-sitharaman-clarifies-11790310005890.html",
-   "summary": "Finance Minister Nirmala Sitharaman has clarified that the new 0.4% MDR on specified UPI merchant payments above ₹2,000 will be charged to merchants, not customers, from 15 October 2026.",
-   "published": "2026-09-25T05:00:27+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/nirmala_1790310300270_5GJp_1790310300442_W3oV_361010aa-7fe1-4973-9484-32c0e15d14d2_pNJn.jpg",
-   "topics": [],
-   "first_seen": "2026-09-25T05:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
