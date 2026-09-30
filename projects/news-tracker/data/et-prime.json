@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T00:00:12+00:00",
+ "generated_at": "2026-09-30T00:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sept 2026 00:08:26 +0530",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 02:31:04 +0530",
+   "sample_date": "Wed, 30 Sep 2026 05:30:15 +0530",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sept 2026 01:41:47 +0530",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "216336b403d786b4",
+   "title": "Legacy AMCs show resilience as market volatility tests funds",
+   "link": "https://www.livemint.com/market/old-vs-new-mutual-funds-in-india-11790660275511.html",
+   "summary": "A Mint analysis of six mutual fund categories shows that legacy fund houses outperformed newer asset management companies in four of the six categories",
+   "published": "2026-09-30T00:00:15+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/With-mutual-funds--investors-are-only-taxed-when-t_1689526490313_1790685941382_DUTp_451898b2-19bf-42d1-973c-7ace19b6f7b2_ODvb.jpg",
+   "topics": [],
+   "first_seen": "2026-09-30T00:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3e0c0d7a8fe3e1a1",
    "title": "Gold paradox: Why India, a refining giant, is not a big bullion exporter",
@@ -2735,7 +2753,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T01:30:13+00:00",
@@ -5392,7 +5410,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T08:00:10+00:00",
@@ -6713,7 +6731,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
@@ -11464,24 +11482,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/2-0-123782642-TATA-MOTOR-4C--0_1681794270204_1790170890604_WeAJ_b427ec53-eabf-4ccf-93a7-e93f6a36b76d_Mrvn.jpg",
-   "topics": [],
-   "first_seen": "2026-09-24T01:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9902bf1d18bdd656",
-   "title": "Tata Technologies’ China unit steps up work for Agratas",
-   "link": "https://www.livemint.com/companies/news/tata-technologies-china-agratas-lithium-ion-battery-production-11790157502423.html",
-   "summary": "Tata Technologies’ China unit provided services worth ₹7.34 crore to Agratas in FY26",
-   "published": "2026-09-24T00:30:31+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/agratas_1782037681166_1782037687453_44189423-7d41-40d9-ac04-b831352522b2_1790166222829_MHDm_2a7af8fb-207c-40d9-99ad-202540ee3510_4vgN.jpg",
    "topics": [],
    "first_seen": "2026-09-24T01:00:09+00:00",
    "valuation_score": 0,

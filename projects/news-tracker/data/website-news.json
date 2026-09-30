@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T00:00:12+00:00",
+ "generated_at": "2026-09-30T00:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 13:22:53 GMT",
+   "sample_date": "Tue, 29 Sep 2026 06:02:33 GMT",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 29 Sep 2026 14:59:38 GMT",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 34,
    "items": 34,
-   "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
+   "sample_date": "Tue, 29 Sep 2026 08:21:45 GMT",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 29 Sep 2026 23:30:55 +0000",
    "error": null,
-   "checked_at": "2026-09-30T00:00:12+00:00"
+   "checked_at": "2026-09-30T00:30:11+00:00"
   }
  ],
  "topics": [
@@ -203,6 +203,28 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-09-29T20:00:11+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "4a7426e1fdc4d2d4",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+   "published": "2026-09-29T19:52:37+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-30T00:30:11+00:00",
    "valuation_score": 4,
    "valuation_signals": [
     "Valuation"
