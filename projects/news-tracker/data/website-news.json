@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T14:30:13+00:00",
+ "generated_at": "2026-09-30T15:01:19+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T14:30:13+00:00"
+   "checked_at": "2026-09-30T15:01:19+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 02:15:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T14:30:13+00:00"
+   "checked_at": "2026-09-30T15:01:19+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 30 Sep 2026 12:43:46 GMT",
    "error": null,
-   "checked_at": "2026-09-30T14:30:13+00:00"
+   "checked_at": "2026-09-30T15:01:19+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 29 Sep 2026 06:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-30T14:30:13+00:00"
+   "checked_at": "2026-09-30T15:01:19+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 14:30:00 +0000",
+   "sample_date": "Wed, 30 Sep 2026 14:50:55 +0000",
    "error": null,
-   "checked_at": "2026-09-30T14:30:13+00:00"
+   "checked_at": "2026-09-30T15:01:19+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,78 @@
  ],
  "new_since_last_run": 12,
  "items": [
+  {
+   "id": "b7baf4dcd41622e3",
+   "title": "7 Books that help you make smarter decisions in life",
+   "link": "https://yourstory.com/2026/09/books-smarter-decisions",
+   "summary": "Discover seven insightful books that can help you make smarter decisions, and navigate life's challenges with greater confidence.",
+   "published": "2026-09-30T14:58:52+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T15:01:19+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6dd749e81ba385ec",
+   "title": "5 Lessons from The Psychology of Money about wealth",
+   "link": "https://yourstory.com/2026/09/lesson-morganhousel-wealth",
+   "summary": "Discover five powerful lessons from The Psychology of Money by Morgan Housel about building wealth, making smarter decisions, and thinking long term.",
+   "published": "2026-09-30T14:55:52+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T15:01:19+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c40803f1cbdc1035",
+   "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+   "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+   "summary": "Pledge signed by President Trump and top AI leaders misspells the United States.",
+   "published": "2026-09-30T14:50:55+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T15:01:19+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d743aafca6d2cbd3",
+   "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+   "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+   "summary": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
+   "published": "2026-09-30T14:32:03+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T15:01:19+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1a316ead928d77d6",
    "title": "Instagram rolls out an AI video editor for creators",
@@ -214,6 +286,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T14:00:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "abaa81227ce8a6be",
+   "title": "Vytalyou",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xcjZqWXI2WWhYVkdObXh6ZTFhUVU0anBiZ2dUUmJFeHVULWJzakRPSFdMNnJJLUliU2cwaExKRlpxUGlnbDU2OUh3?oc=5",
+   "summary": "",
+   "published": "2026-09-30T13:33:37+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T15:01:19+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -10529,24 +10619,6 @@
    "category": "Tech",
    "date_known": true,
    "author": "Kirsten Korosec",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2cd6175ff9fe5ddd",
-   "title": "A small but growing number of founders are betting on bringing people together offline",
-   "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-   "summary": "On the surface, a game console and a leathercraft school don't appear to have much in common. But both founders think there's money in fostering the kind of connection that technology has eroded over the last couple of decades.",
-   "published": "2026-09-20T15:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Connie Loizos",
    "publisher": null,
    "image": null,
    "topics": [],
