@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T19:30:10+00:00",
+ "generated_at": "2026-09-30T20:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 11,
-   "items": 7,
+   "fetched": 10,
+   "items": 6,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 00:14:04 +0530",
+   "sample_date": "Thu, 01 Oct 2026 01:05:08 +0530",
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 00:51:55 +0530",
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 23:58:20 +0530",
    "error": null,
-   "checked_at": "2026-09-30T19:30:10+00:00"
+   "checked_at": "2026-09-30T20:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "508e4d52277ffdc1",
+   "title": "Bankrupt Fund Founder Weiss Agrees to Auction Art at Sotheby’s",
+   "link": "https://www.livemint.com/companies/bankrupt-fund-founder-weiss-agrees-to-auction-art-at-sothebys-11790796908490.html",
+   "summary": "Bankrupt hedge fund founder and prodigious art collector George Weiss has struck a deal with Sotheby’s Inc. to auction more than a dozen pieces in his collection later this year in order to repay a Bank of America Corp. loan.",
+   "published": "2026-09-30T19:35:08+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+   "topics": [],
+   "first_seen": "2026-09-30T20:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
+  },
   {
    "id": "4dce9c62f71038cd",
    "title": "US yields rise slightly, rate hike bets ease after inflation data",
@@ -11490,24 +11510,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/whirlpool_1790316445462_xMg3_1790316452311_nY7D_d3e8fbf2-f390-44c6-bb42-8bdaa61fc7fd_M7B6.png",
    "topics": [],
    "first_seen": "2026-09-25T06:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2a7cb3c4533a2fb5",
-   "title": "Decoded: Sensex lost nearly 3300 points, Nifty dip 1000 since announcement of blockbuster GDP of India | Top 3 reasons",
-   "link": "https://www.livemint.com/market/stock-market-news/decoded-sensex-lost-nearly-3300-points-nifty-dip-1000-since-announcement-of-blockbuster-gdp-of-india-top-3-reasons-11790303163599.html",
-   "summary": "The Ministry of Statistics and Programme Implementation (MoSPI) released the GDP data for India's Q1 FY2026-27 on 31 August 2026",
-   "published": "2026-09-25T05:52:23+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Nifty_50_Sensex_today_Stock_Market_News_Today_1790304735668_XSsI_1790304735858_rurZ_7a37d796-eecc-4e6a-91b6-a3f39edb1072_3XSR.png",
-   "topics": [],
-   "first_seen": "2026-09-25T06:00:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
