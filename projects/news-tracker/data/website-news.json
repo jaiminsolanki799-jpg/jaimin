@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T18:00:09+00:00",
+ "generated_at": "2026-09-30T18:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T18:00:09+00:00"
+   "checked_at": "2026-09-30T18:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 16:23:20 GMT",
+   "sample_date": "Wed, 30 Sep 2026 12:33:22 GMT",
    "error": null,
-   "checked_at": "2026-09-30T18:00:09+00:00"
+   "checked_at": "2026-09-30T18:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 30 Sep 2026 15:05:06 GMT",
    "error": null,
-   "checked_at": "2026-09-30T18:00:09+00:00"
+   "checked_at": "2026-09-30T18:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Tue, 29 Sep 2026 06:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-30T18:00:09+00:00"
+   "checked_at": "2026-09-30T18:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 17:45:00 +0000",
+   "sample_date": "Wed, 30 Sep 2026 18:23:57 +0000",
    "error": null,
-   "checked_at": "2026-09-30T18:00:09+00:00"
+   "checked_at": "2026-09-30T18:30:10+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,28 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "6e1523d27751ae55",
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+   "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+   "published": "2026-09-30T18:23:57+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-30T18:30:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "8b112c5c21900141",
    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
@@ -95,7 +117,7 @@
    "id": "04acd56abe8020c9",
    "title": "The ugly economics of consumer AI",
    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-   "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+   "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
    "published": "2026-09-30T17:24:45+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
