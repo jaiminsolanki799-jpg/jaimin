@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-29T23:30:09+00:00",
+ "generated_at": "2026-09-30T00:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 11,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-29T23:30:09+00:00"
+   "checked_at": "2026-09-30T00:00:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 11:21:50 GMT",
+   "sample_date": "Tue, 29 Sep 2026 13:22:53 GMT",
    "error": null,
-   "checked_at": "2026-09-29T23:30:09+00:00"
+   "checked_at": "2026-09-30T00:00:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 29 Sep 2026 14:59:38 GMT",
    "error": null,
-   "checked_at": "2026-09-29T23:30:09+00:00"
+   "checked_at": "2026-09-30T00:00:12+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 34,
    "sample_date": "Mon, 28 Sep 2026 06:20:16 GMT",
    "error": null,
-   "checked_at": "2026-09-29T23:30:09+00:00"
+   "checked_at": "2026-09-30T00:00:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 22:20:59 +0000",
+   "sample_date": "Tue, 29 Sep 2026 23:30:55 +0000",
    "error": null,
-   "checked_at": "2026-09-29T23:30:09+00:00"
+   "checked_at": "2026-09-30T00:00:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "309d870a65d838d8",
+   "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+   "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+   "published": "2026-09-29T23:30:55+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T00:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1b1d0d455584ee23",
    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
@@ -284,7 +302,7 @@
    "id": "7880523c2dd78f58",
    "title": "AI-powered app maker Wabi pivots to a messaging experience",
    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-   "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+   "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
    "published": "2026-09-29T17:20:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -1321,6 +1339,24 @@
    "valuation_signals": []
   },
   {
+   "id": "a807742326bf3985",
+   "title": "Org Chart - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
+   "summary": "",
+   "published": "2026-09-29T05:58:40+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T08:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "7e7c7cfb5d2f2666",
    "title": "Bharat Housing Network raises $5 Mn from Symbiotics",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1rc3d0VVdEUDBqQURqMzN3dGVWd05LNzNYdVR6SV95eWVhcGhqdmxSMHN4ZlBKdGE1enlkWGtYNEwxREhneXFNLXhpOTRjQWp3VmdLdHZNRkVTQmVYWkNBdnRMWUdQLUVYOFAzUlZhNXpZem1UcFhqeDNtVUhmR0RubVlLYU1md0NhTElsRDBVWjDSAZMBQVVfeXFMTWIta3N3dFVXRFAwakFEajMzd3RlVndOSzczWHVUeklfeXllYXBoanZsUjBzeGZQSnRhNXp5ZFhrWDRMMURIZ3lxTS14aTk0Y0Fqd1ZnS3R2TUZFU0JlWFpDQXZ0TFlHUC1FWDhQM1JWYTV6WXptVHBYangzbVVIZkdEbm1ZS2FNZndDYUxJbEQwVVow?oc=5",
@@ -1846,24 +1882,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T17:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a807742326bf3985",
-   "title": "Org Chart - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdjJzTjZXOXhqbktRcms2eDUzTVBLWDBJc0lVa3dCeTNsZ3I4U1k4a2Z0TUYxNndoNUF0RG43OUJac1RrV2pVQXhJbDB6eU4yQXRDNl90Um5Gejg?oc=5",
-   "summary": "",
-   "published": "2026-09-28T17:27:54+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T08:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
