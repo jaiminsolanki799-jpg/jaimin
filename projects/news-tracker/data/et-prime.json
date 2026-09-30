@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-09-30T02:30:08+00:00",
+ "generated_at": "2026-09-30T03:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "items": 5,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 07:37:25 +0530",
+   "sample_date": "Wed, 30 Sep 2026 08:05:04 +0530",
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 07:39:37 +0530",
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 07:52:25 +0530",
+   "sample_date": "Wed, 30 Sep 2026 08:11:52 +0530",
    "error": null,
-   "checked_at": "2026-09-30T02:30:08+00:00"
+   "checked_at": "2026-09-30T03:00:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "39ea47da262c02ea",
+   "title": "How much term insurance do you need? Experts explain the right way to calculate your cover",
+   "link": "https://www.livemint.com/money/personal-finance/how-much-term-insurance-do-you-need-experts-explain-the-right-way-to-calculate-your-cover-11790735625461.html",
+   "summary": "A 10–15 times income rule is only a starting point for term insurance. Experts explain how loans, children’s education, dependants, inflation, future goals and existing assets can change the cover you need.",
+   "published": "2026-09-30T02:41:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Gemini_Generated_Image_nlvlwnnlvlnnlvl_179073597_1790735985263_oi4W_1790735985432_rw8J_c76af285-0e7d-4819-8bf8-8f628a6b999a_JkSi.png",
+   "topics": [],
+   "first_seen": "2026-09-30T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c7df5cdfe3fa9657",
+   "title": "Paramount’s $30 billion bond sale draws $109 billion demand for Warner Bros deal",
+   "link": "https://www.livemint.com/companies/news/paramounts-30-billion-bond-sale-draws-109-billion-demand-for-warner-bros-deal-11790735235267.html",
+   "summary": "Paramount is seeking to raise $32 billion from a financing package that includes $12.4 billion in junk bonds and $7.5 billion in loans. The offering has attracted demand exceeding expectations, with investors placing orders over $109 bn as the company increases its debt for the Warner acquisition.",
+   "published": "2026-09-30T02:35:04+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Paramount_1790735355159_EtlJ_1790735355268_rvpq_667b1be7-819d-4a90-9aa6-96ceb8281544_3qE3.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-09-30T03:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b51f34bd881786f3",
    "title": "8th Pay Commission: OROP demand for central government civilian pensioners explained",
@@ -673,9 +711,9 @@
   },
   {
    "id": "bf22d47ee09b7ad7",
-   "title": "Top 5 hybrid mutual funds: Quant Multi Asset tops the 10-year return chart at 18%; check which schemes lagged",
+   "title": "Top 5 hybrid mutual funds: Quant Multi Asset tops 10-year returns at 18%; check which schemes lagged",
    "link": "https://www.livemint.com/money/personal-finance/top-5-hybrid-mutual-funds-quant-multi-asset-tops-the-10-year-return-chart-at-18-check-which-schemes-lagged-11790704196630.html",
-   "summary": "Hybrid mutual funds span categories with different equity, debt and asset-allocation strategies. Over 10 years, returns have varied sharply across these categories. Here’s a look at the funds that delivered the highest returns and those that were at the lower end of the list.",
+   "summary": "Hybrid mutual funds span categories with different equity, debt and asset allocation strategies. Over 10 years, returns have varied sharply across these categories. Here’s a look at the funds that delivered the highest returns and those that were at the lower end of the list.",
    "published": "2026-09-29T18:26:06+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -11465,42 +11503,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "4499b5e63dfcd48a",
-   "title": "Bank, financial stocks tumble as IRDAI flags high insurance payouts; Axis Bank, IDFC First Bank, Bajaj Finance tank",
-   "link": "https://www.livemint.com/market/stock-market-news/bank-financial-stocks-tumble-as-irdai-flags-high-insurance-payouts-axis-bank-idfc-first-bank-bajaj-finance-tank-11790223420011.html",
-   "summary": "Bank stocks fell on 24 September due to regulatory scrutiny of bank-led insurance distribution. The IRDAI questioned the remuneration structures and their alignment with the work involved, pushing for a shift towards customer value and long-term outcomes.&nbsp;",
-   "published": "2026-09-24T04:29:34+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/bank_stocks_1790224108626_efRW_1790224113072_0gKG_90e5d447-798b-45e7-beeb-eba4880deb4a_kX28.png",
-   "topics": [],
-   "first_seen": "2026-09-24T05:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "21e8e7dbb87dd8f6",
-   "title": "HDFC Bank share price down 25% in 2026 - Opportunity for bottom fishing ahead of new CEO appointment? Experts decode",
-   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-down-25-in-2026-opportunity-for-bottom-fishing-ahead-of-new-ceo-appointment-experts-decode-11790221093029.html",
-   "summary": "HDFC Bank share price have crashed over 25% year-to-date (YTD) and are down nearly 33% from its 52-week high of ₹1,020.",
-   "published": "2026-09-24T04:20:38+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/HDFC_1790223594498_yu24_1790223594707_5nk4_5472314e-74f5-429f-a6c7-d4eb349b1a61_69Hn.jfif",
-   "topics": [],
-   "first_seen": "2026-09-24T04:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
