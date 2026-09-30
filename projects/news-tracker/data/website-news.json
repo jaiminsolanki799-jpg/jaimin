@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T06:00:10+00:00",
+ "generated_at": "2026-09-30T06:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T06:00:10+00:00"
+   "checked_at": "2026-09-30T06:30:11+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 29 Sep 2026 06:02:33 GMT",
+   "sample_date": "Wed, 30 Sep 2026 02:15:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T06:00:10+00:00"
+   "checked_at": "2026-09-30T06:30:11+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 30 Sep 2026 05:41:13 GMT",
    "error": null,
-   "checked_at": "2026-09-30T06:00:10+00:00"
+   "checked_at": "2026-09-30T06:30:11+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 36,
-   "items": 36,
+   "fetched": 35,
+   "items": 35,
    "sample_date": "Tue, 29 Sep 2026 06:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-30T06:00:10+00:00"
+   "checked_at": "2026-09-30T06:30:11+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 04:08:00 +0000",
    "error": null,
-   "checked_at": "2026-09-30T06:00:10+00:00"
+   "checked_at": "2026-09-30T06:30:11+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 11,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "d5a7efd94a0738c4",
+   "title": "TDB backs 22 projects under Rs 1 lakh Cr RDI Fund, says industrialist Sudhir Mehta",
+   "link": "https://yourstory.com/2026/09/tdb-22-projects-rs-1-lakh-cr-rdi-fund-industrialist-sudhir-mehta",
+   "summary": "The first cohort comprises 22 projects involving Rs 4,744 crore in R&D and Rs 2,192 crore in funding from the RDI Fund.",
+   "published": "2026-09-30T06:03:03+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T06:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8ec206cc0d5f8259",
    "title": "Exclusive: Blitz kicks off pre-Series B round at 2.5X valuation premium",
@@ -111,6 +129,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T06:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "251a23931ba8c309",
+   "title": "Apple Pay launches in India with Axis Bank cards; Razorpay, Cashfree and others enable merchant support",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1lDOUhDaktlcnZnVXBDTkxxejhIaVpNSkZ5cVluT3c2Mkpod0xaRHEyQm1HVTlldFoxT0VBQXgyRXRMMDJnUGFHMmk3Rm05UE1YUkU4MzdUa0szSTk3TGxjcXBodVNRZjVMUWdrRm94SUpvY2Z3R1IxYzQxcThPdEhHSDRjd2hyTTlDRnhRc1p2b25TQ2UtbUpBRDUtQXdwb0E3ZGZoR0V2MVNPVEw3TzM5NnV4OXU4VEJFNNIBvAFBVV95cUxOa1lDOUhDaktlcnZnVXBDTkxxejhIaVpNSkZ5cVluT3c2Mkpod0xaRHEyQm1HVTlldFoxT0VBQXgyRXRMMDJnUGFHMmk3Rm05UE1YUkU4MzdUa0szSTk3TGxjcXBodVNRZjVMUWdrRm94SUpvY2Z3R1IxYzQxcThPdEhHSDRjd2hyTTlDRnhRc1p2b25TQ2UtbUpBRDUtQXdwb0E3ZGZoR0V2MVNPVEw3TzM5NnV4OXU4VEJFNA?oc=5",
+   "summary": "",
+   "published": "2026-09-30T05:43:35+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T06:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -9992,42 +10028,6 @@
    "link": "https://yourstory.com/2026/09/vaishnaw-cautions-industry-cyberattacks-targetting-indias-growing-chip-might",
    "summary": "The minister for electronics and IT said he has cautioned the industry to keep a constant vigil as India is now emerging as a country that has the capability to design and manufacture chips.",
    "published": "2026-09-20T11:20:57+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6faf2e04e71f6b35",
-   "title": "SEMICON India 2026 concludes with 15 announcements, headlined by Indian startups and student teams",
-   "link": "https://yourstory.com/2026/09/semicon-india-2026-concludes-headlined-by-startups-student-teams",
-   "summary": "The final day put the spotlight on Indian startups and student teams building on homegrown chip platforms, alongside a new industry report projecting sharp growth for the country's semiconductor market.",
-   "published": "2026-09-20T06:26:23+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "559fe6196574dff6",
-   "title": "Connections and conversations: How effective curation creates impact for art exhibitions",
-   "link": "https://yourstory.com/2026/09/connections-conversations-curation-art-exhibitions-photography",
-   "summary": "In this photo essay, we showcase artistic highlights from the ‘One | Many’ exhibition at the India Habitat Centre.",
-   "published": "2026-09-20T06:18:53+00:00",
    "source": "YourStory",
    "group": "YourStory",
    "category": "Startups",
