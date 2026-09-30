@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T10:00:12+00:00",
+ "generated_at": "2026-09-30T10:30:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 13,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T10:00:12+00:00"
+   "checked_at": "2026-09-30T10:30:14+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 09:54:38 GMT",
+   "sample_date": "Wed, 30 Sep 2026 07:44:34 GMT",
    "error": null,
-   "checked_at": "2026-09-30T10:00:12+00:00"
+   "checked_at": "2026-09-30T10:30:14+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 30 Sep 2026 07:12:47 GMT",
    "error": null,
-   "checked_at": "2026-09-30T10:00:12+00:00"
+   "checked_at": "2026-09-30T10:30:14+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 29 Sep 2026 06:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-30T10:00:12+00:00"
+   "checked_at": "2026-09-30T10:30:14+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 04:08:00 +0000",
    "error": null,
-   "checked_at": "2026-09-30T10:00:12+00:00"
+   "checked_at": "2026-09-30T10:30:14+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,88 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "2705ec98b7195f03",
+   "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSW1yVUtuR0tZOUo3RktuMXhDMHFzRkk4Y29GVk9vNTdROElWaW1nWDgtWVp3Y21KSVUzMFc2LUF5QXcxbDluYld4bFFhMTZYWGxXcFpzVDZOWi02WUdkcUoxUkQtQS1CMzJPNm84aExQTnNqd1hvWmwwUE9iWklpeWo5N2ZQMnJWaU03cVUwNXRCV2tpdDVRWm02V01NRlRxUWNka3M0R1dUVWdNMURxZlYwb3JOTWZJdV83cE5ZUWhLLWNRNHFIM2dHTnVzQmfSAc8BQVVfeXFMTUltclVLbkdLWTlKN0ZLbjF4QzBxc0ZJOGNvRlZPbzU3UThJVmltZ1g4LVlad2NtSklVMzBXNi1BeUF3MWw5bmJXeGxRYTE2WFhsV3Bac1Q2TlotNllHZHFKMVJELUEtQjMyTzZvOGhMUE5zandYb1psMFBPYlpJaXlqOTdmUDJyVmlNN3FVMDV0QldraXQ1UVptNldNTUZUcVFjZGtzNEdXVFVnTTFEcWZWMG9yTk1mSXVfN3BOWVFoSy1jUTRxSDNnR051c0Jn?oc=5",
+   "summary": "",
+   "published": "2026-09-30T10:25:44+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T10:30:14+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "9cdfb709a68d992a",
+   "title": "Inox Clean Energy files papers for Rs 10,000-cr IPO",
+   "link": "https://yourstory.com/2026/09/inox-clean-energy-files-papers-for-rs-10000-cr-ipo",
+   "summary": "This offering would mark the largest private-sector renewable energy public issue in India to date.",
+   "published": "2026-09-30T10:22:04+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-09-30T10:30:14+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "5a9f43d35f08b4ed",
+   "title": "Netmeds posts flat revenue at Rs 45 Cr in FY26; remains profitable",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUR1YkdyQUxuOUUwUWp0RFVXOUJOcUQtTXZkYXlIMjB4Z25XbUMyV2hpQ1BHMGpOclJOSk5FMF9rMzdRWmJ3U054U3NVaktCcmJvT2t5YTVZeXdvamFGakdZSjd0NzFWTlFMSTQxcDZieExxWE10el90SzFHemg4cW9qWDhwVDRFLV8xeURZb2trQXNFVE9rSGdXY0pvbnhKaTlWQTVMM0PSAagBQVVfeXFMTzlEdWJHckFMbjlFMFFqdERVVzlCTnFELU12ZGF5SDIweGduV21DMldoaUNQRzBqTnJSTkpORTBfazM3UVpid1NOeFNzVWpLQnJib09reWE1WXl3b2phRmpHWUo3dDcxVk5RTEk0MXA2YnhMcVhNdHpfdEsxR3poOHFvalg4cFQ0RS1fMXlEWW9ra0FzRVRPa0hnV2NKb254Smk5VkE1TDND?oc=5",
+   "summary": "",
+   "published": "2026-09-30T10:07:02+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T10:30:14+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "44dba17dd1d4f24b",
+   "title": "Longevity startup Vytalyou raises Rs 9 Cr in pre-Series A round",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS25Fd2JlQWJ3TnFXMFlJLTB4WHNHaVVZNUhESmY0QnFfUFVsNkloaHRRSmdpbURacmxaaWYtUXkxNXNMcUNSLUs2MFFiZmw4dm5sWWt6MUY0a0xIX0I2RUtDSGRfSUZSc29vNlc4eWZNZDhBVVZ4d3pnU291VWVldFN2SVZJcGxjNFRTejgzQU1UNEk0ZVpMZzRCZWVTdU1rTXQ5M9IBpAFBVV95cUxOS25Fd2JlQWJ3TnFXMFlJLTB4WHNHaVVZNUhESmY0QnFfUFVsNkloaHRRSmdpbURacmxaaWYtUXkxNXNMcUNSLUs2MFFiZmw4dm5sWWt6MUY0a0xIX0I2RUtDSGRfSUZSc29vNlc4eWZNZDhBVVZ4d3pnU291VWVldFN2SVZJcGxjNFRTejgzQU1UNEk0ZVpMZzRCZWVTdU1rTXQ5Mw?oc=5",
+   "summary": "",
+   "published": "2026-09-30T10:04:36+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-30T10:30:14+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "20572a5800f0938c",
    "title": "DoorDash opens first India office in Hyderabad, plans to scale tech, support team to 3,000",
@@ -409,6 +489,24 @@
    "image": "https://static.startuptalky.com/2026/09/Best-AI-Tools-Customer-Profiling-StartupTalky.jpg",
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "81d619960f63f5ed",
+   "title": "Listed Companies - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
+   "summary": "",
+   "published": "2026-09-30T04:08:31+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T08:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -840,6 +938,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-29T15:06:18+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1604,24 +1720,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T08:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "81d619960f63f5ed",
-   "title": "Listed Companies - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
-   "summary": "",
-   "published": "2026-09-29T07:53:29+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T08:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -3303,24 +3401,6 @@
     "Funding",
     "PE / VC"
    ]
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-28T06:21:08+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   },
   {
    "id": "179b20f1270cff99",
