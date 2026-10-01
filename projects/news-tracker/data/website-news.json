@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T05:30:09+00:00",
+ "generated_at": "2026-10-01T06:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:30:09+00:00"
+   "checked_at": "2026-10-01T06:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 16:23:20 GMT",
+   "sample_date": "Wed, 30 Sep 2026 12:33:22 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:30:09+00:00"
+   "checked_at": "2026-10-01T06:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 01 Oct 2026 05:08:13 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:30:09+00:00"
+   "checked_at": "2026-10-01T06:00:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 34,
+   "items": 34,
    "sample_date": "Tue, 29 Sep 2026 08:21:45 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:30:09+00:00"
+   "checked_at": "2026-10-01T06:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 23:43:07 +0000",
    "error": null,
-   "checked_at": "2026-10-01T05:30:09+00:00"
+   "checked_at": "2026-10-01T06:00:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,67 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 11,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "7370c24eb4c70ad6",
+   "title": "Unveilr AI raises Rs 16.7 Cr pre-seed round from AJVC",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdTNSaTF1QUFab1Z6X3pOSERVRS1oZTg1YXE2dUFtZU5jNUJXZ3dTVlBacUQ0QS11bE9zNkNTTDI0c0pQU3dob3B5ODJKX0JZakNSbERSckJ1V0h2X3p3WlVoenpMbng4eXVzMGlaQXM5bUM4S3RvZVdkYjRIeTMxN056WFI3YUZhRGNJV0JCV2VvZU1IbEHSAZYBQVVfeXFMT3UzUmkxdUFBWm9Wel96TkhEVUUtaGU4NWFxNnVBbWVOYzVCV2d3U1ZQWnFENEEtdWxPczZDU0wyNHNKUFN3aG9weTgySl9CWWpDUmxEUnJCdVdIdl96d1pVaHp6TG54OHl1czBpWkFzOW1DOEt0b2VXZGI0SHkzMTdOelhSN2FGYURjSVdCQldlb2VNSGxB?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:55:25+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T06:00:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "c6a9f8716ae2e282",
+   "title": "Former Elevation Capital investor Mayank Khanduja joins Bessemer Venture Partners as Partner",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSE1wTFJxdXBXWXp4dHR1VExBZFFJU0JSY1R5VXlmZnh5Vl9fQTBha1FjZE9QbEpReXVXTm5SSTR1NWdZV1FBcTZrMFBsS0MzWFFiSm9ObWRUVjhCYlNMamJYaTlHbV8xMHl1Sk5YOXN6VHNzU2E3RjBWZFIwMG1uT1ptQ2RyVWVmOWFteWl4dnp2TVVnT0tfZWdLeVpFT0UxYUtmemlUcm03MzdBOU5sTjl2QTNoVW1EZ0xXOVJOZWtUY1R6alpLMVVxc9IBywFBVV95cUxOSE1wTFJxdXBXWXp4dHR1VExBZFFJU0JSY1R5VXlmZnh5Vl9fQTBha1FjZE9QbEpReXVXTm5SSTR1NWdZV1FBcTZrMFBsS0MzWFFiSm9ObWRUVjhCYlNMamJYaTlHbV8xMHl1Sk5YOXN6VHNzU2E3RjBWZFIwMG1uT1ptQ2RyVWVmOWFteWl4dnp2TVVnT0tfZWdLeVpFT0UxYUtmemlUcm03MzdBOU5sTjl2QTNoVW1EZ0xXOVJOZWtUY1R6alpLMVVxcw?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:44:04+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T06:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c015a7a603052dfb",
+   "title": "Bangalore Watch Company raises $1.4 Mn in seed round from customers, family office, HNIs",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVNjYkt4ZVh1c0hqNGhWTC1Sa2J2NG91dzFBc3RJVkhNclJwX2I0S1NRRERUQ19IRVNNa3lIQTNDVXhnSGhDMmhzUEhFbXBqZmZWakM3SV9rWmREbmoyYjM0cWZGSV9TYnJZb3VJUnZKX2ZIZG5IelFwWjNXenl0c1RRV216YlcxRjJYS2lwTkJHUWRzU0ViUW5tRkgzRGE4T0lDV1JMMlRBbklKUmlFdUxkUUJ3QW8xNy1UNTlfcGbSAcABQVVfeXFMTmFTY2JLeGVYdXNIajRoVkwtUmtidjRvdXcxQXN0SVZITXJScF9iNEtTUUREVENfSEVTTWt5SEEzQ1V4Z0hoQzJoc1BIRW1wamZmVmpDN0lfa1pkRG5qMmIzNHFmRklfU2JyWW91SVJ2Sl9mSGRuSHpRcFozV3p5dHNUUVdtemJXMUYyWEtpcE5CR1Fkc1NFYlFubUZIM0RhOE9JQ1dSTDJUQW5JSlJpRXVMZFFCd0FvMTctVDU5X3Bm?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:32:41+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T06:00:09+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
+  },
   {
    "id": "6674a478dfacc522",
    "title": "SBI Mutual Fund raises Swiggy stake above 5% after Rs 300 Cr share purchase",
