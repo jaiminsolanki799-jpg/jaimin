@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T11:00:12+00:00",
+ "generated_at": "2026-10-01T11:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 01 Oct 2026 10:50:48 GMT",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 01 Oct 2026 09:10:28 GMT",
+   "sample_date": "Thu, 01 Oct 2026 11:21:39 GMT",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 37,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 23:43:07 +0000",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,32 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "5e70b6581277637c",
+   "title": "Flipkart ESOP Cash-Out Plan Under Consideration as Staff Concerns Rise",
+   "link": "https://startuptalky.com/news/flipkart-esop-cash-out-plan/",
+   "summary": "Employees are concerned about the IPO timeline and liquidity, and Flipkart is mulling a new ESOP cash-out option that might let eligible staff sell 20-25% of their vested shares in early 2027. Existing investors may fund the proposed initiative.",
+   "published": "2026-10-01T11:21:39+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/flipkart-esop-cash-out-plan-Startuptalky.jpg",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-10-01T11:30:10+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Rules",
+    "IPO"
+   ]
+  },
   {
    "id": "fcaf4e3cb8d8a6ed",
    "title": "Practical tips every Indian household should know How to choose the right family health insurance plan",
@@ -774,7 +798,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1072,6 +1096,24 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-30T15:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-30T15:08:31+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1669,7 +1711,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1741,7 +1783,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -1954,7 +1996,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T14:00:13+00:00",
@@ -1972,7 +2014,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
@@ -2026,7 +2068,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
@@ -2062,7 +2104,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -2109,7 +2151,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- the-captable.com",
+   "title": "- The CapTable",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-30T02:52:29+00:00",
@@ -2515,24 +2557,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-29T15:06:18+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "the-captable.com",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -3595,7 +3619,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T05:00:08+00:00",
@@ -4974,7 +4998,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:00:10+00:00",
@@ -6594,7 +6618,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "the-captable.com",
+   "publisher": "The CapTable",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T03:00:09+00:00",
@@ -11101,46 +11125,6 @@
    "first_seen": "2026-09-21T12:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "1261840420a66c01",
-   "title": "Govt asks Microsoft to set up data centres closer to power generation sites",
-   "link": "https://yourstory.com/2026/09/govt-asks-microsoft-set-up-data-centres-closer-to-power-generation-sites",
-   "summary": "Microsoft on Monday formally launched its fourth India cloud region, in Hyderabad, as part of its $20.5 billion investment commitment to the country's digital and AI infrastructure.",
-   "published": "2026-09-21T11:29:29+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T12:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "386be83e040b0b65",
-   "title": "NSE IPO receives nearly four times subscription so far on final day",
-   "link": "https://yourstory.com/2026/09/nse-ipo-receives-nearly-4-times-subscription-so-far-on-final-day",
-   "summary": "The offering is India's second-largest public issue after Hyundai Motor India's Rs 27,870-crore IPO in 2024. The IPO surpassed LIC's Rs 21,000 crore offering in 2022 but remains below Hyundai Motor India's record public offer.",
-   "published": "2026-09-21T11:15:55+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-21T11:30:10+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }

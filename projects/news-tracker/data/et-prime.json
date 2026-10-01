@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T11:00:12+00:00",
+ "generated_at": "2026-10-01T11:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 15:05:51 +0530",
+   "sample_date": "Thu, 01 Oct 2026 16:48:13 +0530",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 16:16:30 +0530",
+   "sample_date": "Thu, 01 Oct 2026 16:50:03 +0530",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 15:46:18 +0530",
    "error": null,
-   "checked_at": "2026-10-01T11:00:12+00:00"
+   "checked_at": "2026-10-01T11:30:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,65 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "4184f735245aa51e",
+   "title": "BSE-Wipro index rejig case decoded: What happens after stocks enter or exit after reshuffle? Explained",
+   "link": "https://www.livemint.com/market/stock-market-news/bsewipro-index-rejig-case-decoded-what-happens-after-stocks-enter-or-exit-after-reshuffle-explained-11790851872164.html",
+   "summary": "The BSE-Wipro reshuffle in the Nifty 50 illustrates index rebalancing, a process driven by changes in market capitalisation and liquidity. Such adjustments can trigger significant trading activity, affecting stock prices as passive funds align portfolios with the newly structured index.",
+   "published": "2026-10-01T11:20:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/BSE_Wipro_index_rejig_case_decoded_1790853525805_cTYP_1790853530232_AMgl_af2fe016-a291-4574-befc-0cfb8ae22b40_QrYM.png",
+   "topics": [],
+   "first_seen": "2026-10-01T11:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ecb404572bea0d03",
+   "title": "Noel Tata faces fresh challenge as two Tata Trusts vice-chairmen question restructuring plan, governance process",
+   "link": "https://www.livemint.com/companies/people/noel-tata-faces-fresh-challenge-as-two-tata-trusts-vice-chairmen-question-restructuring-plan-governance-process-11790851039601.html",
+   "summary": "Noel Tata faces fresh challenges in the Tata Sons boardroom battle as SDTT vice-chairmen Srinivasan and Singh allege he advanced a restructuring plan without trustee consultation. Srinivasan has also challenged Noel’s trustee status, 2024 reappointment and Tata Trusts’ influence over Tata Sons.",
+   "published": "2026-10-01T11:18:13+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/noel_1790853218138_vtBV_1790853218346_Tn1g_9e5bf375-d21d-4531-9ecc-6e6de9e9f223_AGdM.png",
+   "topics": [],
+   "first_seen": "2026-10-01T11:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fc451c727b94dec9",
+   "title": "Small-cap dividend gems: 9 stocks with up to 16% yield - Premco, PTC India, Honda Power to Majestic Auto | Check returns",
+   "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-gems-9-stocks-with-up-to-16-yield-premco-ptc-india-honda-power-to-majestic-auto-check-return-11790840592427.html",
+   "summary": "Majestic Auto shares rose 1.37% to ₹370 with a market cap of ₹384.71 crore. A dividend of ₹60 per share for FY 2025-26 was announced, yielding 16.8%. Indo Borax shares fell 3.23% with ₹40 per share dividend yielding 7.9%.",
+   "published": "2026-10-01T11:08:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/small_cap_stock_with_high_yield_1790852850605_lUr2_1790852866216_SFhs_f09dd001-631f-4001-b76e-72900d6c7e82_C51E.png",
+   "topics": [],
+   "first_seen": "2026-10-01T11:30:10+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Buyback & payout",
+    "Valuation"
+   ]
+  },
   {
    "id": "203ba4a80dee7f15",
    "title": "Bank of Baroda stock: Down 15% in 3 months, can bulls return? Check target, stop loss - technical outlook by experts",
@@ -860,7 +917,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/ICICI-LOMBARD--RESULTS-1_1695556893365_1790833717866_2f5n_9df3fb26-5d3e-4fd1-b6ad-12ee79ae6cb6_qZM8.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/scott-graham-5fNmWej4tAA-unsplash_1706692449446_1790852260900_hEYl_4b51808f-6081-4698-a411-5b3c3053a9b2_0MsJ.jpg",
    "topics": [],
    "first_seen": "2026-10-01T06:30:10+00:00",
    "valuation_score": 0,
@@ -11469,60 +11526,6 @@
     "Income tax"
    ],
    "first_seen": "2026-09-26T07:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fb6bea06dc93f09e",
-   "title": "Stocks to buy for long term: Vedanta Iron and Steel, Vedanta Oil and Gas or Vedanta Power: Which is better? Target, SL",
-   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-vedanta-iron-and-steel-vedanta-oil-and-gas-or-vedanta-power-which-is-better-target-sl-11790398619797.html",
-   "summary": "Stocks to buy for long term: Experts believe all these three Vedanta Group stocks are better suited to your portfolio from the fundamental perspective, as they are portfolio stocks",
-   "published": "2026-09-26T06:38:00+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Vedanta_Iron_and_Steel_share_price_target_1790399566558_1srL_1790399566759_sn7Y_e59a9a07-590f-42bd-9098-6d8b60f8d426_6mWV.png",
-   "topics": [],
-   "first_seen": "2026-09-26T07:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5124df597b660ca2",
-   "title": "Greed and Fear index: BEL, Adani Energy to Eternal | Chris Wood's Jefferies India portfolio has 22 stocks for long term",
-   "link": "https://www.livemint.com/market/stock-market-news/greed-and-fear-index-bel-adani-energy-to-eternal-chris-woods-jefferies-india-portfolio-has-22-stocks-for-long-term-11790402739237.html",
-   "summary": "Jefferies' Christopher Wood emphasizes India's structural growth, focusing on rising private investment, particularly in energy and manufacturing. The recent portfolio update reflects this shift, adding Hitachi Energy India while noting potential in sectors like solar and electrification.",
-   "published": "2026-09-26T06:33:26+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/chris_wood_1790404291411_3Dwg_1790404297491_BfpA_aba3f4a6-22b9-4b80-ac0e-e4b4e4009928_pGqy.png",
-   "topics": [],
-   "first_seen": "2026-09-26T07:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0c0469c8a89fab0b",
-   "title": "No ATM charges, banks to operate on Sunday: What initiatives did Centre take to minimise disruptions during 3-day strike",
-   "link": "https://www.livemint.com/money/no-atm-charges-banks-to-operate-on-sunday-what-initiatives-did-centre-take-to-minimise-disruptions-during-3-day-strike-11790399179866.html",
-   "summary": "From September 28 to 30, 2026, a proposed nationwide bank strike may disrupt in-branch services in India. Here are the steps taken by the government to minimise nationwide disruptions.&nbsp;",
-   "published": "2026-09-26T05:58:22+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2026-0_1790356621968_FtFf_1790402099948_KVLd_1790402100249_Bxqo_59ecd9c7-36e3-495f-9724-eb6c91de32f2_nc7K.JPG",
-   "topics": [],
-   "first_seen": "2026-09-26T06:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
