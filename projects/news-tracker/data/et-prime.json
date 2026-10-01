@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T10:30:10+00:00",
+ "generated_at": "2026-10-01T11:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 15:05:51 +0530",
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 15:47:53 +0530",
+   "sample_date": "Thu, 01 Oct 2026 16:16:30 +0530",
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 15:46:18 +0530",
    "error": null,
-   "checked_at": "2026-10-01T10:30:10+00:00"
+   "checked_at": "2026-10-01T11:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "203ba4a80dee7f15",
+   "title": "Bank of Baroda stock: Down 15% in 3 months, can bulls return? Check target, stop loss - technical outlook by experts",
+   "link": "https://www.livemint.com/market/stock-market-news/bank-of-baroda-stock-down-15-in-3-months-can-bulls-return-check-target-stop-loss-technical-outlook-by-experts-11790844615588.html",
+   "summary": "Bank of Baroda shares recently declined, hitting important support levels near ₹230- ₹235. Analysts suggest monitoring these zones for potential recovery, while a sustained breach could indicate further negative momentum in the stock.",
+   "published": "2026-10-01T10:46:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Bank_of_Baroda_Stock_Target_and_Stop-Loss_17908514_1790851411442_f0RL_1790851411594_C8wD_9ea0a2e1-be0f-4bec-8fdf-1796881f4b2a_dGDv.png",
+   "topics": [],
+   "first_seen": "2026-10-01T11:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dad295b1226a56ae",
    "title": "Nifty FMCG falls 6% in six months. Can festive demand trigger a recovery? | Marico, HUL, Tata Consumer among top picks",
@@ -11505,24 +11523,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2026-0_1790356621968_FtFf_1790402099948_KVLd_1790402100249_Bxqo_59ecd9c7-36e3-495f-9724-eb6c91de32f2_nc7K.JPG",
    "topics": [],
    "first_seen": "2026-09-26T06:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3c73d38f7bb69d01",
-   "title": "Stock market holidays next week: India, China, Taiwan to Hong Kong — these global indices to remain closed on these days",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-next-week-india-china-taiwan-to-hong-kong-these-global-indices-to-remain-closed-on-these-days-11790396894180.html",
-   "summary": "Asian markets will have a holiday-shortened trading week from September 28 to October 2, with major exchanges closing on different days. This could lead to thinner trading activity, particularly affecting Indian investors who should monitor global cues during these holidays.",
-   "published": "2026-09-26T05:20:34+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/smh_1790399753997_Wrhp_1790399764992_aKZj_17cf375a-9b47-4149-9eaf-fe6d602dc185_7cf5.png",
-   "topics": [],
-   "first_seen": "2026-09-26T05:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
