@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T19:00:12+00:00",
+ "generated_at": "2026-10-01T19:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 8,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 02 Oct 2026 00:20:02 +0530",
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 02 Oct 2026 00:20:03 +0530",
+   "sample_date": "Fri, 02 Oct 2026 00:48:35 +0530",
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 02 Oct 2026 00:07:03 +0530",
    "error": null,
-   "checked_at": "2026-10-01T19:00:12+00:00"
+   "checked_at": "2026-10-01T19:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 11,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "41adee55d848dc94",
+   "title": "Treasuries Surge as France’s Fiscal Woes Boost Haven Demand",
+   "link": "https://www.livemint.com/market/treasuries-surge-as-france-s-fiscal-woes-boost-haven-demand-11790882315885.html",
+   "summary": "US Treasuries rebounded from a bruising global bond selloff as pressure in European markets fueled demand for haven assets, pulling 10-year yields down from a 24-year high.",
+   "published": "2026-10-01T19:18:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-10-01T19:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f36dcdf14a1b4c28",
    "title": "Equities turn higher as Treasury yields drop from highs",
@@ -11511,24 +11529,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Mistry_1790483299050_WcKV_1790483305189_kqze_e9ba2f59-46dc-4786-b5d0-10717680119e_4p4c.jpg",
    "topics": [],
    "first_seen": "2026-09-27T05:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e7710ea5821618d2",
-   "title": "Health insurance wellness rewards: Should you share your fitness tracker data with your insurer? Know the privacy risks",
-   "link": "https://www.livemint.com/money/personal-finance/health-insurance-wellness-rewards-should-you-share-your-fitness-tracker-data-with-your-insurer-know-the-privacy-risks-11790482360821.html",
-   "summary": "Health insurers are using wellness programmes to reward activities such as exercise and healthy habits, but some programmes require policyholders to share data from wearables and health apps. Experts explain what data may be collected, how it can be used and what consumers should check.",
-   "published": "2026-09-27T04:25:42+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Generated_Image_zocopizocopizoc_17904827_1790482714010_6BEb_1790482714178_DmrG_cc021f5f-c93f-4131-9410-0f780b20e13a_ZCwj.png",
-   "topics": [],
-   "first_seen": "2026-09-27T04:30:13+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
