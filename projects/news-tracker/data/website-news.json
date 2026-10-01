@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T17:30:14+00:00",
+ "generated_at": "2026-10-01T18:00:31+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T17:30:14+00:00"
+   "checked_at": "2026-10-01T18:00:31+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 12:33:22 GMT",
    "error": null,
-   "checked_at": "2026-10-01T17:30:14+00:00"
+   "checked_at": "2026-10-01T18:00:31+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 01 Oct 2026 16:23:03 GMT",
    "error": null,
-   "checked_at": "2026-10-01T17:30:14+00:00"
+   "checked_at": "2026-10-01T18:00:31+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 36,
-   "items": 36,
+   "fetched": 37,
+   "items": 37,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T17:30:14+00:00"
+   "checked_at": "2026-10-01T18:00:31+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 17:09:00 +0000",
+   "sample_date": "Thu, 01 Oct 2026 17:50:19 +0000",
    "error": null,
-   "checked_at": "2026-10-01T17:30:14+00:00"
+   "checked_at": "2026-10-01T18:00:31+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "1b019ab53f254357",
+   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+   "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+   "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+   "published": "2026-10-01T17:50:19+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Russell Brandom",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T18:00:31+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6c720c6c3a3092f8",
    "title": "This startup wants to turn idle user car inventory into rental revenue",
@@ -234,6 +252,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "abf269c8b96f8569",
+   "title": "Kuku",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBuc3R2X0ZvYTRncnQweTRjUnlDOWxhM0xxS0w5T0I4SVNMTUdJVllfVXYxQ09RN01YanVnNldsWnd2WW9W?oc=5",
+   "summary": "",
+   "published": "2026-10-01T14:58:15+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T18:00:31+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1175,24 +1211,6 @@
    ]
   },
   {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-30T20:43:08+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "d76d029e92f179f8",
    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
@@ -2011,6 +2029,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-30T11:22:37+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "2705ec98b7195f03",
@@ -11217,42 +11253,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T18:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c476924b2eb2bb2a",
-   "title": "Meta’s AI agent has been blocked from using Amazon.com",
-   "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-   "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-   "published": "2026-09-21T17:55:18+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Russell Brandom",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T18:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "06bf01cb12cdce43",
-   "title": "X will now tell users when governments have forced it to limit their posts",
-   "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-   "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-   "published": "2026-09-21T17:45:35+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sarah Perez",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T18:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
