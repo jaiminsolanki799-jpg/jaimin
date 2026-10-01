@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T00:00:09+00:00",
+ "generated_at": "2026-10-01T00:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 9,
    "items": 6,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 03:27:40 +0530",
+   "sample_date": "Thu, 01 Oct 2026 05:45:36 +0530",
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 04:07:16 +0530",
+   "sample_date": "Thu, 01 Oct 2026 05:55:48 +0530",
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 23:58:20 +0530",
    "error": null,
-   "checked_at": "2026-10-01T00:00:09+00:00"
+   "checked_at": "2026-10-01T00:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,68 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "883dfe62540e987d",
+   "title": "El Niño to Compound Drag on Southeast Asian Debt, Analysts Say",
+   "link": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+   "summary": "A resurgent El Niño pattern risks deepening a selloff in Southeast Asian bonds, strategists say, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
+   "published": "2026-10-01T00:25:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-10-01T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4de4191593b26cbb",
+   "title": "Flipkart weighs ESOP cash-out amid staff unease, senior departures",
+   "link": "https://www.livemint.com/companies/news/flipkart-esop-buyback-amid-ipo-delay-walmart-11790751077575.html",
+   "summary": "Flipkart is considering another Esop programme that may allow eligible employees to cash out a larger share of their vested holdings, as uncertainty over its IPO and future liquidity events causes unease among employees",
+   "published": "2026-10-01T00:15:36+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/2-0-730476617-flipkart1-0_1680326420950_1790775878003_bu37_5a39389e-8cbe-4d91-9acf-4a5d16ea8751_uaWw.JPG",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-10-01T00:30:09+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Rules",
+    "IPO"
+   ]
+  },
+  {
+   "id": "de615f60db3d09c2",
+   "title": "Mexican Peso Becomes World’s Worst as Carry Traders Flee",
+   "link": "https://www.livemint.com/market/mexican-peso-becomes-world-s-worst-as-carry-traders-flee-11790812705494.html",
+   "summary": "Analysts are rushing to cut their year-end forecasts for the Mexican peso after it underperformed every other major currency over the past month.",
+   "published": "2026-09-30T23:58:25+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T00:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b1eea10051d9aaa1",
    "title": "Oil, money, and the shifting global order",
@@ -11453,62 +11513,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/online_services_1790320874464_Tt20_1790320887992_oJFE_b7dfe067-86f5-4918-9eb1-1c1ecf7dee8f_I7Lw.png",
    "topics": [],
    "first_seen": "2026-09-25T07:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "88d0ef4e24aaf997",
-   "title": "Yen Heads for Best Day in Two Weeks After Katayama Jawboning",
-   "link": "https://www.livemint.com/market/yen-heads-for-best-day-in-two-weeks-after-katayama-jawboning-11790320267267.html",
-   "summary": "The yen headed for its biggest daily gain in more than two weeks after Finance Minister Satsuki Katayama’s latest comments on the currency kept traders on alert for the risk of intervention.",
-   "published": "2026-09-25T07:11:06+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-   "topics": [],
-   "first_seen": "2026-09-25T07:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b0cff8ddfcbfc6a9",
-   "title": "Indegene share price jumps 5% to hit a 52-week high after Axis initiates coverage with a buy - Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/indegene-share-price-jumps-5-to-hit-a-52-week-high-after-axis-initiates-coverage-with-a-buy-check-target-price-11790318397837.html",
-   "summary": "Indegene's share price soared after Axis Direct initiated coverage with a 'buy' recommendation, suggesting an 18% upside. The company's blend of biopharma expertise and AI solutions positions it well for future growth, as per the brokerage firm.&nbsp;",
-   "published": "2026-09-25T07:05:51+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Indegene_share_price_1790318814787_aVVl_1790318821560_Fc3m_5f2c0634-89c1-4247-a5c7-faaa241fb85a_YwsQ.png",
-   "topics": [],
-   "first_seen": "2026-09-25T07:30:09+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
-  },
-  {
-   "id": "621253cafcb4e90b",
-   "title": "Ola Electric shares fall 9% | What’s behind today’s sudden sell-off?",
-   "link": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-fall-9-what-s-behind-today-s-sudden-selloff-11790317564326.html",
-   "summary": "Ola Electric Mobility share price fell 9% on 25 September, ending a four-day gain. This drop followed news of an upcoming board meeting to consider raising funds through a rights issue, pending regulatory approvals.",
-   "published": "2026-09-25T06:49:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Ola_Electric_Stock_Plunge_1790318789567_HuEY_1790318795069_ofWy_142c75d1-2cd9-45b5-a1cc-65dd4b93781f_UFs8.png",
-   "topics": [],
-   "first_seen": "2026-09-25T07:00:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
