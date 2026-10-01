@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T14:30:13+00:00",
+ "generated_at": "2026-10-01T15:00:14+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:30:13+00:00"
+   "checked_at": "2026-10-01T15:00:14+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 14:58:52 GMT",
+   "sample_date": "Thu, 01 Oct 2026 13:28:31 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:30:13+00:00"
+   "checked_at": "2026-10-01T15:00:14+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 01 Oct 2026 12:17:05 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:30:13+00:00"
+   "checked_at": "2026-10-01T15:00:14+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:30:13+00:00"
+   "checked_at": "2026-10-01T15:00:14+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 01 Oct 2026 14:00:00 +0000",
    "error": null,
-   "checked_at": "2026-10-01T14:30:13+00:00"
+   "checked_at": "2026-10-01T15:00:14+00:00"
   }
  ],
  "topics": [
@@ -71,11 +71,11 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 8,
  "items": [
   {
    "id": "2be59ecee0ce4c21",
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
    "published": "2026-10-01T14:00:00+00:00",
@@ -152,7 +152,7 @@
   },
   {
    "id": "c5ee5c81864866e7",
-   "title": "The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader",
+   "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
    "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
    "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
    "published": "2026-10-01T13:00:00+00:00",
@@ -1283,24 +1283,6 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-30T15:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-30T15:08:31+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2744,6 +2726,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-29T15:06:18+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11106,42 +11106,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T17:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "623ca8b417a92181",
-   "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-   "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-   "published": "2026-09-21T15:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "TechCrunch Events",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T15:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "26792917d6d70d37",
-   "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-   "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-   "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-   "published": "2026-09-21T14:39:22+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sarah Perez",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T15:00:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
