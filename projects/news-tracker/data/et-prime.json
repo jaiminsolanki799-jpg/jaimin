@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T11:30:10+00:00",
+ "generated_at": "2026-10-01T12:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 16:48:13 +0530",
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 16:50:03 +0530",
+   "sample_date": "Thu, 01 Oct 2026 17:22:57 +0530",
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 15:46:18 +0530",
+   "sample_date": "Thu, 01 Oct 2026 17:25:12 +0530",
    "error": null,
-   "checked_at": "2026-10-01T11:30:10+00:00"
+   "checked_at": "2026-10-01T12:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,11 +192,87 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
   {
+   "id": "cc23aadef9679da1",
+   "title": "UPI hits 24 billion transactions in September; NPCI data shows 1.8% monthly dip amid MDR concerns",
+   "link": "https://www.livemint.com/money/upi-hits-24-billion-transactions-in-september-npci-data-shows-1-8-monthly-dip-amid-mdr-concerns-11790847660336.html",
+   "summary": "UPI transactions in September reached 24.07 billion, a 1.8% decline from August, but marked a 23% year-on-year growth. The total value was ₹29.37 lakh crore, with an 18% annual increase, while daily averages stood at 802 million transactions valued at ₹97,913 crore.",
+   "published": "2026-10-01T11:55:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/images_1790852936770_lUsS_1790852943069_Q1jw_8c2c7fa1-1ce6-4843-bd76-9ac1aae35b4c_9UGl.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T12:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5efcd4ac2756e06d",
+   "title": "₹1 lakh to ₹40 lakh in 5 yrs! Small cap multibagger declares 2:1 bonus - Do you own? Record date, stock performance",
+   "link": "https://www.livemint.com/market/stock-market-news/rs-1-lakh-to-rs-40-lakh-in-5-yrs-small-cap-multibagger-declares-2-1-bonus-do-you-own-record-date-stock-performance-11790854289091.html",
+   "summary": "GTV Engineering Limited's shares dropped 1% on October 1, yet recorded solid weekly gains. A 2:1 bonus share issue has been approved, with the record date set for October 7, making October 6 the last purchase day for eligibility.",
+   "published": "2026-10-01T11:52:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/bonus_shjar_image_1790855465498_1UQM_1790855493830_wnwF_33e57618-b27a-46d1-b991-7be90a7e1569_8Qh5.png",
+   "topics": [],
+   "first_seen": "2026-10-01T12:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "833ae8d51ecc0520",
+   "title": "Tech wealth and Bengaluru property: is the playbook changing?",
+   "link": "https://www.livemint.com/money/personal-finance/tech-wealth-and-bengaluru-property-is-the-playbook-changing-11790773853853.html",
+   "summary": "A surge in startup exits and stock gains fuelled Bengaluru's premium housing boom from 2021 to 2024. Now, slowing price growth and tech sector headwinds are prompting buyers to rethink the equity-to-property playbook.",
+   "published": "2026-10-01T11:48:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/2-0-356001306-31E08KP002-0_1680503108412_1790854955582_FXgP_e4408f8b-c3ad-4887-8c02-09432916c744_8SpC.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T12:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "831187ecd7cca5cc",
+   "title": "PB Fintech shares crash 48% in 6 sessions; stock back to IPO price - Should investors change strategy?",
+   "link": "https://www.livemint.com/market/stock-market-news/pb-fintech-shares-crash-48-in-6-sessions-stock-back-to-ipo-price-should-investors-change-strategy-11790851358407.html",
+   "summary": "PB Fintech shares dropped 8% to ₹980 amid concerns over proposed insurance commission rule changes, resulting in a 48% decline over seven sessions. This major sell-off affected mutual funds, with significant losses reported as the stock neared its IPO price.",
+   "published": "2026-10-01T11:32:39+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/PB_1790854564635_F5qq_1790854578438_FP0S_4dc6c3c3-1b91-4694-a0f6-7a46bd4dded1_wOJY.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-10-01T12:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
    "id": "4184f735245aa51e",
-   "title": "BSE-Wipro index rejig case decoded: What happens after stocks enter or exit after reshuffle? Explained",
+   "title": "BSE-Wipro index rejig case decoded: What happens after stocks enter or exit post reshuffle? Explained",
    "link": "https://www.livemint.com/market/stock-market-news/bsewipro-index-rejig-case-decoded-what-happens-after-stocks-enter-or-exit-after-reshuffle-explained-11790851872164.html",
    "summary": "The BSE-Wipro reshuffle in the Nifty 50 illustrates index rebalancing, a process driven by changes in market capitalisation and liquidity. Such adjustments can trigger significant trading activity, affecting stock prices as passive funds align portfolios with the newly structured index.",
    "published": "2026-10-01T11:20:03+00:00",
@@ -11450,82 +11526,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Hitesh_Tailor_1790411202737_sQxh_1790411211488_4ByO_203a3fb3-f212-4837-b63f-f89f62063819_dtg2.png",
    "topics": [],
    "first_seen": "2026-09-26T09:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "61e23ac32ffa51a1",
-   "title": "Central government DA, DR update: Employee body urges early decision on the July 2026 revision",
-   "link": "https://www.livemint.com/money/personal-finance/central-government-da-dr-update-employee-body-urges-early-decision-on-the-july-2026-revision-11790405533710.html",
-   "summary": "Central government employees have sought an early announcement of July 2026 DA and DR. The revised rate is effective from 1 July, while the widely discussed 64% figure remains an estimate until the government formally approves it.",
-   "published": "2026-09-26T08:24:39+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/54fb922f-70e3-4450-863b-54ad763a8b45_1790406030525_tSB0_1790406035514_VJrz_332317b9-dcc9-4583-8ad7-853856681c19_ipIb.jpg",
-   "topics": [],
-   "first_seen": "2026-09-26T08:30:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "16e15d1b47d993e8",
-   "title": "Adroit Industries, ArMee Infotech, Swastika Infra, Elevate Campuses: Check GMP, full subscription ahead of allotment",
-   "link": "https://www.livemint.com/market/ipo/adroit-industries-armee-infotech-swastika-infra-elevate-campuses-check-ipo-gmp-full-subscription-ahead-of-allotment-11790406651184.html",
-   "summary": "Four IPOs, including Adroit Industries and ArMee Infotech, have concluded their subscription period and are moving to allotment. The allotment status will be finalized on September 28, with shares expected in demat accounts by September 29, ahead of listings on September 30, 2026.",
-   "published": "2026-09-26T07:50:24+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ipos_1790408971354_xUEH_1790408977639_u8v5_2f63fbe9-62de-4b50-a6df-a9efe40ce48a_6fqV.png",
-   "topics": [],
-   "first_seen": "2026-09-26T08:00:09+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
-  },
-  {
-   "id": "b6b2d85e5e91b1f2",
-   "title": "NTPC, EDF Power form joint venture to develop low-carbon energy projects | Details here",
-   "link": "https://www.livemint.com/companies/news/ntpc-edf-power-form-joint-venture-to-develop-low-carbon-energy-projects-details-here-11790407305935.html",
-   "summary": "According to a release, the agreement focuses on the development, ownership, and operation of pumped storage assets, hydroelectric installations, other renewable energy facilities, and electricity distribution operations.",
-   "published": "2026-09-26T07:40:05+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/NTPC_1790407803950_ijpO_1790407804139_ZtOS_b439928e-f0bf-4eba-b374-5b742b7de4a9_6IHq.png",
-   "topics": [],
-   "first_seen": "2026-09-26T08:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2d98fe07b4441d32",
-   "title": "Senior citizen wrongly paid tax on tax-free bonds: What the ₹9.91 lakh ITAT case means",
-   "link": "https://www.livemint.com/money/personal-finance/senior-citizen-wrongly-paid-tax-on-tax-free-bonds-what-the-9-91-lakh-itat-case-means-11790399591003.html",
-   "summary": "A senior citizen who mistakenly paid ₹9.91 lakh tax on interest from tax-free bonds has received relief from the ITAT. The case highlights Section 10(15), tax return errors, Section 154 rectification and important lessons for taxpayers.",
-   "published": "2026-09-26T07:26:35+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/relief_1790400296650_FKYP_1790400301000_3Ahq_6b6f26e2-cc3f-4db1-a70f-c63993d919f8_f2Qb.jpg",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-26T07:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
