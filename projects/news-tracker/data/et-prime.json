@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T16:00:17+00:00",
+ "generated_at": "2026-10-01T16:30:11+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 21:00:59 +0530",
+   "sample_date": "Thu, 01 Oct 2026 21:52:44 +0530",
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 21:16:11 +0530",
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 20:52:30 +0530",
+   "sample_date": "Thu, 01 Oct 2026 21:51:06 +0530",
    "error": null,
-   "checked_at": "2026-10-01T16:00:17+00:00"
+   "checked_at": "2026-10-01T16:30:11+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,68 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "b78a19ebbb79100c",
+   "title": "HDFC Bank CEO salary per month: Check renumeration of FY 2026",
+   "link": "https://www.livemint.com/companies/news/hdfc-bank-ceo-salary-per-month-check-renumeration-of-fy-2026-11790869651281.html",
+   "summary": "HDFC Bank's CEO earned ₹15.13 crore for FY26, with a 35% performance bonus. He will leave his position on October 26 and will be succeeded by Anup Bagchi, approved by RBI as the new CEO and MD.",
+   "published": "2026-10-01T16:22:44+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/hdfc_1790871175676_zrgy_1790871597348_dsNN_57b45a65-17ef-4850-9f91-fdf5891dd154_IGf2.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-10-01T16:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "46741acc773e3ff8",
+   "title": "Protect policyholders' life savings: BJP MP writes to PM Modi, moots backup plan for insurer bankruptcy",
+   "link": "https://www.livemint.com/money/personal-finance/protect-policyholders-life-savings-bjp-mp-writes-to-pm-modi-moots-backup-plan-for-insurer-bankruptcy-11790864745800.html",
+   "summary": "Gopchade proposed establishing a dedicated policyholders’ protection framework, with separate arrangements for life and long-term insurance, as well as general insurance.",
+   "published": "2026-10-01T16:21:06+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/8812aaa2-2fea-11ed-b999-718f354f2123_1662783365300_1704449729689_1790867395615_XUdL_f865e8b6-9e16-44cf-9bb7-53de2d40e2da_iHnP.jpg",
+   "topics": [
+    "Insolvency / IBC"
+   ],
+   "first_seen": "2026-10-01T16:30:11+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
+  },
+  {
+   "id": "49e89c1b1f72e4a6",
+   "title": "Accenture expects higher AI spending by clients as token costs fall",
+   "link": "https://www.livemint.com/companies/accenture-expects-higher-ai-spending-by-clients-as-token-costs-fall-tcs-infosys-hcl-wipro-11790863191226.html",
+   "summary": "Accenture's earnings cheered investors, with the company’s shares rising 22% on the New York Stock Exchange. Shares of Infosys and Wipro followed as well, gaining 9% and 8%.",
+   "published": "2026-10-01T16:03:05+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Accenture_50000_promotions_salary_hikes_employees_1747896978527_1790868531127_MmxD_25ec2bfa-48d9-4e1e-88b8-a46eba9c831a_okvr.JPG",
+   "topics": [],
+   "first_seen": "2026-10-01T16:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d5e1b0f87be14e5e",
    "title": "Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling?",
@@ -11473,60 +11533,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/DTC_drivers_strike_1790082828045_SRL0_179008284250_1790439209475_pKg5_1790439209892_kGRZ_01277055-d13a-4c56-b1d0-86c7bf79e6e6_YPdi.png",
    "topics": [],
    "first_seen": "2026-09-26T17:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bc9cf9860a9f455b",
-   "title": "Maharashtra announces relief measures in drought—Restructures crop loans, concessions in pump electric bills; check list",
-   "link": "https://www.livemint.com/money/maharashtra-relief-measures-restructures-crop-loans-agriculture-pump-electricity-bills-concessions-land-revenue-drought-11790432082028.html",
-   "summary": "Maharashtra has activated ‘Trigger-1’ under its Drought Management Code 2016 to initiate relief measures in drought-affected areas. We take a look at the financial relief measures announced by the state government.&nbsp;",
-   "published": "2026-09-26T15:44:44+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Maharashtra_relief_1790437384660_zmT4_1790437402908_umRd_7d73fc3f-6abc-45d3-90eb-d930d89b544c_zuGC.png",
-   "topics": [],
-   "first_seen": "2026-09-26T16:00:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "75eb9895fc608c6e",
-   "title": "Cash deposits from farm sales: ITAT rules in favour of Karnataka farmer despite missing expense records",
-   "link": "https://www.livemint.com/money/personal-finance/cash-deposits-from-farm-sales-itat-rules-in-favour-of-karnataka-farmer-despite-missing-expense-records-11790423826613.html",
-   "summary": "Documentary evidence trumps procedural lapses as tribunal validates cash sales at APMC yard",
-   "published": "2026-09-26T14:55:25+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/farming_1790447861553_9TTh_1790447921440_x4Fn_c40fb72d-b219-4716-8e04-095c40de0ce3_rt6a.png",
-   "topics": [],
-   "first_seen": "2026-09-26T15:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "577ae23c4ad9943b",
-   "title": "‘Seems to be an issue between the broker and client; no govt talks on new UPI MDR’: NSE CEO Ashish Chauhan",
-   "link": "https://www.livemint.com/money/personal-finance/seems-to-be-an-issue-between-the-broker-and-client-no-govt-talks-on-new-upi-mdr-nse-ceo-ashish-chauhan-11790433535759.html",
-   "summary": "NSE CEO Ashish Chauhan stated there have been no talks with the government regarding the new Merchant Discount Rate for UPI payments, which he claims is a matter for brokers and clients to resolve. The new MDR framework takes effect on October 15, impacting capital-market transactions.",
-   "published": "2026-09-26T14:43:34+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/mdr_1790445928889_xbHJ_1790445948705_HRTt_169fc7ad-2a57-4b69-bacc-64bf05bb5fe0_x9RA.png",
-   "topics": [],
-   "first_seen": "2026-09-26T15:00:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
