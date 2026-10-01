@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T15:00:14+00:00",
+ "generated_at": "2026-10-01T15:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 13:28:31 GMT",
+   "sample_date": "Thu, 01 Oct 2026 10:50:48 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 01 Oct 2026 12:17:05 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 35,
-   "items": 35,
+   "fetched": 36,
+   "items": 36,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 14:00:00 +0000",
+   "sample_date": "Thu, 01 Oct 2026 15:12:00 +0000",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "fdadf99fae2beb47",
+   "title": "Brian Chesky interview: AI agents need their own operating system",
+   "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+   "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+   "published": "2026-10-01T15:12:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f77f2f20ce19eef8",
+   "title": "5 Must-read books to add to your October reading list",
+   "link": "https://yourstory.com/2026/09/october-books-reading",
+   "summary": "Looking for your next great read? Add these five thought-provoking books to your October reading list, from literary fiction to insightful nonfiction.",
+   "published": "2026-10-01T14:54:40+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2be59ecee0ce4c21",
    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
@@ -1283,6 +1319,47 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-30T15:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "31912ee4d090596a",
+   "title": "NKN Media raises $4.08 Mn at $81.69 Mn valuation",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzlxeklHc3N5UGxIbThVR1Bac1c1TGVxSnFoRGp3MS02MVdLN0txaTVMVldtQ0k1cTNKaW54bmRwVlg2aTRsM3B1WmJXbUZMVVVnZGoyclI1anpadEJDbEFFLXBSdTVXMVlJaHNRdjBsQTU5cWQzRDllY0ZZU3NVNmhTS3ZxUGZNZnNJ0gGLAUFVX3lxTFBDOXF6SUdzc3lQbEhtOFVHUFpzVzVMZXFKcWhEancxLTYxV0s3S3FpNUxWV21DSTVxM0ppbnhuZHBWWDZpNGwzcHVaYldtRkxVVWdkajJyUjVqelp0QkNsQUUtcFJ1NVcxWUloc1F2MGxBNTlxZDNEOWVjRllTc1U2aFNLdnFQZk1mc0k?oc=5",
+   "summary": "",
+   "published": "2026-09-30T15:11:10+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-30T15:08:31+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2726,24 +2803,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-29T15:06:18+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },

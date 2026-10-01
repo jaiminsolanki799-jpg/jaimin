@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T15:00:14+00:00",
+ "generated_at": "2026-10-01T15:30:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 19:00:25 +0530",
+   "sample_date": "Thu, 01 Oct 2026 20:34:44 +0530",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 20:04:11 +0530",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 20:06:01 +0530",
+   "sample_date": "Thu, 01 Oct 2026 20:52:30 +0530",
    "error": null,
-   "checked_at": "2026-10-01T15:00:14+00:00"
+   "checked_at": "2026-10-01T15:30:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,136 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "21017900ba6fbd45",
+   "title": "Can going slow on IPOs revive India’s stock market fortunes?",
+   "link": "https://economictimes.indiatimes.com/prime/money-and-markets/can-going-slow-on-ipos-revive-indias-stock-market-fortunes/primearticleshow/133841363.cms",
+   "summary": "",
+   "published": "2026-10-01T15:30:12+00:00",
+   "source": "ET Prime: Money & markets",
+   "group": "ET Prime",
+   "category": "Money & markets",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e0e8f1151fe2f897",
+   "title": "Q1 investment numbers look stellar, but are we celebrating too early?",
+   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/q1-investment-numbers-look-stellar-but-are-we-celebrating-too-early/primearticleshow/133713540.cms",
+   "summary": "",
+   "published": "2026-10-01T15:30:12+00:00",
+   "source": "ET Prime: Economy & policy",
+   "group": "ET Prime",
+   "category": "Economy & policy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dac8eb2d5f8f666b",
+   "title": "New aircraft order opens door for ATR assembly line in India",
+   "link": "https://economictimes.indiatimes.com/prime/transportation/new-aircraft-order-opens-door-for-atr-assembly-line-in-india-ceo/primearticleshow/133878728.cms",
+   "summary": "",
+   "published": "2026-10-01T15:30:12+00:00",
+   "source": "ET Prime: Transportation",
+   "group": "ET Prime",
+   "category": "Transportation",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d77b54e5dc0d9af6",
+   "title": "Mutual fund portfolio: How conservative, moderate and aggressive investors can allocate in current scenario",
+   "link": "https://www.livemint.com/money/personal-finance/mutual-fund-portfolio-how-conservative-moderate-and-aggressive-investors-can-allocate-in-current-scenario-11790861478242.html",
+   "summary": "Large- and small-cap mutual funds are seeing different investor interest, raising questions about how you should allocate across equity and other asset classes. A September report outlines how conservative, moderate, and aggressive investors could structure their portfolios.",
+   "published": "2026-10-01T15:22:30+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/fundd_1790864064008_cPwA_1790864075531_givj_2e1b8d81-a4e8-40c1-bb8d-c2fa3c7d5cb6_whzW.png",
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4f220a8bae938213",
+   "title": "Pensions via UPI: PFRDA chief S Ramann bets on NPS Tatkal, targets 3 crore new subscribers",
+   "link": "https://www.livemint.com/money/personal-finance/pensions-via-upi-pfrda-chief-s-ramann-bets-on-nps-tatkal-targets-3-crore-new-subscribers-11790862852350.html",
+   "summary": "The regulator is looking to expand pension coverage by making it easier for people to open NPS accounts and contribute digitally, particularly through the newly introduced NPS Tatkal facility.",
+   "published": "2026-10-01T15:12:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/nps_1790864030140_P6sw_1790864057642_xmNH_ded8c3fa-fc05-4e42-b0d4-1e2c2cf70e19_vtQh.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dbc3bc61d8cfdd87",
+   "title": "Anup Bagchi takes charge as HDFC Bank MD and CEO: Tracing the banking veteran’s career and achievements at ICICI",
+   "link": "https://www.livemint.com/companies/people/anup-bagchi-takes-charge-as-hdfc-bank-md-and-ceo-tracing-the-banking-veteran-s-career-and-achievements-at-icici-11790865098320.html",
+   "summary": "Anup Bagchi has been appointed as HDFC Bank's MD and CEO after RBI approval. He faces challenges in increasing core income and reducing product mis-selling. Previously, he was CEO of ICICI Prudential Life Insurance and has extensive experience with the ICICI Group since 1992.",
+   "published": "2026-10-01T15:04:44+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/icici_1790866937528_DOCV_1790866941509_HBv4_3d59de07-fc08-47cd-8fdf-00267d910f90_zi9D.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e8f958ad9cb6313d",
+   "title": "Gandhi Jayanti 2026: Are banks open or closed on October 2? Here's what to know about UPI, net banking, ATM services",
+   "link": "https://www.livemint.com/money/gandhi-jayanti-2026-are-banks-open-or-closed-on-october-2-heres-what-to-know-about-upi-net-banking-atm-services-11790859698388.html",
+   "summary": "This year, October 2 or Gandhi Jayanti, will fall on a Friday, marking the first weekday bank holiday of this month. Check how bank services, UPI, Net banking, ATM services will be impacted.",
+   "published": "2026-10-01T15:00:36+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/21591_1790861650847_VZ0G_1790861656262_WNdD_746ef9d8-8318-4968-8fce-b9ebf94148f8_koLq.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T15:30:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "77f69a5971a8cb54",
    "title": "Need a personal loan? Report shows digital lenders are outpacing legacy banks; younger borrowers prefer fintech apps",
@@ -224,7 +352,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/HDFC_1790780366679_GtRW_1790780376470_4x5V_92a3d4a_1790864887974_y5fd_1790864888235_n3m9_7653e421-6c2b-48ad-9938-a9dc3656c124_L1xZ.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/HDFC_1790780366679_GtRW_1790780376470_4x5V_92a3d4a_1790864887974_y5fd_1790864888235_n3m9_7653e421-6c2b-48ad-9938-a9dc3656c124_L1xZ.png",
    "topics": [
     "RBI / banking"
    ],
@@ -2335,7 +2463,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Duo_1790791572693_UmWU_1790791586880_IGqJ_eb0d113b-7644-48bd-8b7d-c2ba5cc2515e_ffPi.jpg",
@@ -2353,7 +2481,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/hotel_1790791745817_7B9l_1790791750561_Ozqp_593101fa-ba0d-4cfa-93be-cb43e11ad134_axaL.png",
@@ -2407,7 +2535,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/21586_1790788933206_jjyw_1790788937558_ubcE_a5e17a0f-e95b-4297-ba93-86a7daa0b42d_ZGya.jpg",
@@ -2427,7 +2555,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Untitled_design_1790788271638_Jwvz_1790788275032_nxaV_fbcea491-a2f4-4d48-91e2-7d891308f80e_jN3J.png",
@@ -2503,7 +2631,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/maxresdefault_1790787068729_f403_1790787082333_41oO_f6201f80-a7f4-44bf-89ca-7aadc1aad405_Egx7.jpg",
@@ -2521,7 +2649,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/maxresdefault_1790786584474_smFm_1790786595151_NNo4_c4db303a-2d28-48ee-8a9c-8c2154e0f3be_FXjK.jpg",
@@ -2581,7 +2709,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/BMW_1790785730482_7cGx_1790785735684_zd2W_f0be7aec-1589-4e9b-9c46-9e140c3c6568_h97U.png",
@@ -2675,7 +2803,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/INDIGO-RESULTS--0_1787140157860_1787140182150_614fba1b-f43f-4633-bfe1-6ca0ce70e5d5_1790778977871_bCU5_84862b1a-4a16-469a-8a4d-2348c76ff868_XLHT.JPG",
@@ -2693,7 +2821,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/im-95926240_1775005016227_1775005045710_1790777630285_H9VY_67ccb5a8-4c0c-4894-9d9d-81b6d271f8ac_mqfv.jpg",
@@ -2821,7 +2949,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/market_1733939870783_1790775733457_HdMU_0eb218a5-27e3-440a-9b4e-dec5390dbf4a_8qWl.jpg",
@@ -2839,7 +2967,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Untitled_design_1790771801445_5BS6_1790771805911_ScwN_d472af18-a79c-4a15-a401-458c40f509e8_mTug.png",
@@ -2883,7 +3011,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Chandra-Venu-Copy_1790775006234_DNhC_1790775006469_C7Co_06a7e862-780e-4df3-b661-7aef65f1f158_LKbs.jpeg",
@@ -3047,7 +3175,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Julie-Sweet_1790769396040_rcFW_1790769396269_VThQ_ea26bd43-76a2-4089-bc8e-2b6d46ed2b26_JWlo.jpg",
@@ -3128,7 +3256,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Untitled_design_1790765004981_bGCQ_1790765012849_BGbH_0eb53e87-38f4-4678-9770-83be5bb94961_TM4a.png",
@@ -3220,7 +3348,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/IMG_0671_1790766171459_tREG_1790766175444_me6g_87ab7471-7c1f-44e4-b590-70052498b949_DoJ5.jpg",
@@ -3258,7 +3386,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/AKSHAY_1790765387883_0MKu_1790765392019_Dr7c_4cd7532f-7435-4280-b068-1c32aa6386fe_TBlJ.jpg",
@@ -11397,140 +11525,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Passive_Investing_1790428744410_wOLh_1790428750094_DhcX_993f69cd-3b4e-490e-822d-7ce405985373_Ud7N.jpg",
    "topics": [],
    "first_seen": "2026-09-26T13:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d5e1b0f87be14e5e",
-   "title": "Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling?",
-   "link": "https://economictimes.indiatimes.com/prime/smugglonomics-geckos-dry-dates-human-hair-what-makes-something-worth-smuggling/primearticleshow/134503749.cms",
-   "summary": "",
-   "published": "2026-09-26T12:30:10+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-26T12:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "069539511e9764d9",
-   "title": "‘India’s drone leader’: Buy Ideaforge stock for 27% upside, says Ashika Securities - check share price target",
-   "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-gets-buy-rating-ashika-sees-27-upside-check-target-price-11790422161462.html",
-   "summary": "Ideaforge is set to capitalize on India's ₹200 billion drone procurement pipeline, with Ashika estimating substantial revenue growth and improved EBITDA margins. They have set target price of ₹942, highlighting strong potential in the defence market amid rising demand for domestic manufacturers.",
-   "published": "2026-09-26T12:27:36+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ideaforge_1790423676563_8ImJ_1790423690805_ZtfU_e88b0384-c9bd-4b79-b9e6-9184ec1e2555_CImh.png",
-   "topics": [],
-   "first_seen": "2026-09-26T12:30:10+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Valuation",
-    "Results"
-   ]
-  },
-  {
-   "id": "d9c7ab97db01586c",
-   "title": "8th pay commission: Here's how to apply for official state visits in Mumbai and Bengaluru",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-apply-official-state-visits-mumbai-railways-and-meeting-bengaluru-employees-pensioners-da-salary-11790421566945.html",
-   "summary": "The 8th central pay commission (CPC) has announced official meetings and state visits as part of its consultation stage. Since March, the commission has conducted multiple state visits to meet employee representative groups, unions and stakeholders.",
-   "published": "2026-09-26T12:17:11+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/8th_CPC_Mumbai_meet_1790086995574_LZCN_17900870065_1790424053047_k3Ea_1790424053180_fULR_ccb16e46-80bb-48db-976e-31d51621611f_tveo.png",
-   "topics": [],
-   "first_seen": "2026-09-26T12:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bb811de0475c5adf",
-   "title": "DA hike July 2026: Will DA rise to 64% from 60%? ₹18,000, to ₹56,100 basic salary | Calculate your likely increase",
-   "link": "https://www.livemint.com/money/personal-finance/da-hike-july-2026-will-da-rise-to-64-from-60-rs-18-000-to-rs-56-100-basic-salary-calculate-your-likely-increase-11790421273135.html",
-   "summary": "The organisation clarified it seeks no advance payments but wants the pending process completed to settle arrears and revised salary payments. It urged expediting the July 2026 Dearness Allowance (DA) declaration, with estimates indicating a rate increasefrom 60% to 64% based on CPI data.",
-   "published": "2026-09-26T11:55:23+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/DA_1790423890288_Pu6v_1790423890553_2KwD_553d1098-7724-440a-b1ec-89b28b13543a_esUW.png",
-   "topics": [],
-   "first_seen": "2026-09-26T12:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6820891bbfb8c665",
-   "title": "Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling?",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOYkdhYzdRZktCcnpaQTFPU09mRWJBRzZsNHJEYVN1ZW9RTXJGbkZLc3ZmV2xnWUpSX29EX0dJZmdIUTAzS056VF84MWRpa3ZJd0RhQXdtYi0zQVZ6Sl9lRFo0bUY4OV9JS3JpOWJleVdLMllOYlFnWG1OMWJ0YVdFZWtGUF9OVlFfcHhtR1pPdmFlWEZOYVJ2dW9qZ01VZ1ZoQW9DVHpNVXItNjhOVjlGXy1Wc0RIWVBydHltSkpaQ1hsZk5hdGNOTTJDaXhwdkVaTnlqRjNRd2lKck8xZ1JJdFdZSTgzNmVLMXVKM1FsVE9fSDc4Um1fQVJWWFBrZHBnV1lrRW1sUE1TSW11SmhYX1BEaXRqY0k0VjJ3YzhZOUNlclo3bDRuWExKWUVSeG1XWEVmYXhxUlFzV3p3ZjBqeFphQ2lyS1XSAeABQVVfeXFMTU5DNFhqVGZoZ0RxTHlTUXZfOWtqOFRqS04zUHNKdzBrSkpUb2Fja3hTWUhfOE1TNmEzdy04RUJEdkJRN2dkUW9INVpqVjYwY1FuMS1KMzl4TnB2RTVtS2RlbmJOajJWeWRwZEgxaFVIV25WQmdKWFM0ZjQyVG5PUzJBSmFlSTljODRLZU1JOXpFRExGRTJFYnhmUGI5b01SQ3NoU1ZURnhlbThPTTBYT1FtcVZTd1JPbzdTb0tSMkxJTUhHQ0ZxX2w4eWFocENEQ1lOTzViRjFLdi02T1ZzMDc?oc=5",
-   "summary": "",
-   "published": "2026-09-26T11:54:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-26T13:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "efa88cc96b78ddaa",
-   "title": "After NSE IPO exchange debut, Macquarie calls stock ‘The Dominator’ - here’s why | Check share price target",
-   "link": "https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html",
-   "summary": "Macquarie projects 12% revenue CAGR for NSE from FY26 to FY30, supported by high margins and strong cash generation. The brokerage anticipates significant growth in non-transaction revenues, driven by data and analytics, while expecting a robust return on equity of around 35%.",
-   "published": "2026-09-26T11:27:03+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/nse_target_1790421911294_87zY_1790421918733_IriP_fbe338fc-a2ef-40c2-9d6c-f5c84cd7e95f_pMXQ.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-26T11:30:10+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "Valuation",
-    "IPO"
-   ]
-  },
-  {
-   "id": "2861dcb5c8e544a8",
-   "title": "DA news: Punjab govt notifies 8% dearness allowance hike for state employees and pensioners — Latest updates",
-   "link": "https://www.livemint.com/money/personal-finance/da-news-punjab-govt-notifies-8-pc-dearness-allowance-hike-state-employees-pensioners-demand-payment-arrears-top-updates-11790416608045.html",
-   "summary": "DA news update: Punjab government has notified an 8% dearness allowance hike for state government and pensioners, effective from 1 September, as per an official statement from the chief minister's office.&nbsp;",
-   "published": "2026-09-26T11:17:09+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Punjab_DA_1788261144748_1788261174498_c774c8e1-abd7-497a-b6fc-041a79c52523_1790421101299_8v9i_edd61796-ec92-4352-beb4-d97c0fbba8b8_liRq.png",
-   "topics": [],
-   "first_seen": "2026-09-26T11:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
