@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T05:00:10+00:00",
+ "generated_at": "2026-10-01T05:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:00:10+00:00"
+   "checked_at": "2026-10-01T05:30:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 02:57:57 GMT",
+   "sample_date": "Wed, 30 Sep 2026 16:23:20 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:00:10+00:00"
+   "checked_at": "2026-10-01T05:30:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 30 Sep 2026 15:05:06 GMT",
+   "sample_date": "Thu, 01 Oct 2026 05:08:13 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:00:10+00:00"
+   "checked_at": "2026-10-01T05:30:09+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 29 Sep 2026 08:21:45 GMT",
    "error": null,
-   "checked_at": "2026-10-01T05:00:10+00:00"
+   "checked_at": "2026-10-01T05:30:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 23:43:07 +0000",
    "error": null,
-   "checked_at": "2026-10-01T05:00:10+00:00"
+   "checked_at": "2026-10-01T05:30:09+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,86 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "6674a478dfacc522",
+   "title": "SBI Mutual Fund raises Swiggy stake above 5% after Rs 300 Cr share purchase",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHdMVmtzR2o3cW4xZzhsMW5EMURaT1d0aTJhSFFIcjhORGY2S2tyeGtGbHJmc0V0OTNSZ2Q1NlhRVmNqcTItak42YlRNWFh6OG5oOTNSUTVYaWNmNGRLM0dsWWpGUE5sR0xISDlJWEtmRUlnZkNrZkdkQVZ1STV4QTc5eWRNZVRpZ1JQd0Jna0NxTnl2ZjlyYXBfWm4wenlxdnc3OThyRU5icTJjYkHSAa4BQVVfeXFMTmR3TFZrc0dqN3FuMWc4bDFuRDFEWk9XdGkyYUhRSHI4TkRmNktrcnhrRmxyZnNFdDkzUmdkNTZYUVZjanEyLWpONmJUTVhYejhuaDkzUlE1WGljZjRkSzNHbFlqRlBObEdMSEg5SVhLZkVJZ2ZDa2ZHZEFWdUk1eEE3OXlkTWVUaWdSUHdCZ2tDcU55dmY5cmFwX1puMHp5cXZ3Nzk4ckVOYnEyY2JB?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:19:24+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T05:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6772cec0d464c0af",
+   "title": "Moneyview shares debut at 64% premium after 100X IPO subscription",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDJ1ZlFqYWt4bkFWaFBneGFFZVVJaVBRTlhLVmZQbXVyTnhwa1FFajd1ZWhpSFU0eGJNaVNkWGhmTjVMcWgyYU44THNzS0o1OVAxb0tmQ3ZpdkwxU3Fta3E5RXR5eUlCNml6VldCYl8tZHV2dUkyRDd3MXpJZWxsenBtTHJoaVVEUWF2ZnM1QWUzNmZrRGlZdEo2S2RSQkht0gGgAUFVX3lxTFA0MnVmUWpha3huQVZoUGd4YUVlVUlpUFFOWEtWZlBtdXJOeHBrUUVqN3VlaGlIVTR4Yk1pU2RYaGZONUxxaDJhTjhMc3NLSjU5UDFvS2ZDdml2TDFTcW1rcTlFdHl5SUI2aXpWV0JiXy1kdXZ1STJEN3cxekllbGx6cG1McmhpVURRYXZmczVBZTM2ZmtEaVl0SjZLZFJCSG0?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:17:16+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-10-01T05:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "8ffa6e1412d9d376",
+   "title": "UPI transaction volume stays above 24 Bn despite 1.8% M-o-M dip in September",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEpJTS1MdVZkMHJrRXpYWnRPYmlkbDRJR1g0LUFkcVAtb1djYjlfTVR6Q3F6V0FOczdiQW5URDJjMFVtSTI1UW5UbVh3eWxZeGlWSGR2S1MzbjdFZEVkSlZ2emdGaWpTNS1wZGFzUnpMcXNxNnAtUVpPMkNzWFRCUUlISjdMNFBXT2xndm15aC0wbzNWLXRsRHcwajluSFZhTnNNT3RHbnFtYURseWfSAa4BQVVfeXFMTVRKSU0tTHVWZDBya0V6WFp0T2JpZGw0SUdYNC1BZHFQLW9XY2I5X01UekNxeldBTnM3YkFuVEQyYzBVbUkyNVFuVG1Yd3lsWXhpVkhkdktTM243RWRFZEpWdnpnRmlqUzUtcGRhc1J6THFzcTZwLVFaTzJDc1hUQlFJSEo3TDRQV09sZ3ZteWgtMG8zVi10bER3MGo5bkhWYU5zTU90R25xbWFEbHln?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:13:22+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T05:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2a8bea45d73fef3f",
+   "title": "Best AI Tools for Automated Campaign Management",
+   "link": "https://startuptalky.com/best-ai-tools-for-automated-campaign-management/",
+   "summary": "AI tools can automate campaign creation, optimization, audience targeting, reporting, and budget management. Explore the best AI tools for automated campaign management and find the right platform for your marketing workflow.",
+   "published": "2026-10-01T05:08:13+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Vivek Dev Jacob",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/AI-Tools-For-Automated-Creative-Campaign-Mgmt--StartupTalky.jpg",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-10-01T05:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "af88f7e6e9133c8a",
    "title": "TVS retains EV two-wheeler lead in September as Bajaj, Hero see strong growth",
@@ -111,7 +189,7 @@
   },
   {
    "id": "3ecba04f492bd910",
-   "title": "Shreshth Mishra on Simple Energy’s Rs 1,750 Cr pivot to scale across India",
+   "title": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India",
    "link": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india",
    "summary": "Shreshth Mishra, Co-founder of Simple Energy, an electric two-wheeler maker, explains how the company’s recent Rs 1,750 crore Series C funding will help address past delivery delays and working capital bottlenecks.",
    "published": "2026-10-01T02:57:57+00:00",
@@ -124,8 +202,10 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-10-01T03:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
   },
   {
    "id": "1237634e7f12d4ed",
@@ -10753,62 +10833,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "IPO"
-   ]
-  },
-  {
-   "id": "33de9c13aec8b58c",
-   "title": "Quick commerce won’t kill the kirana. It may just change the game",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0SHVhX3FDbVI3V1hsRnBmY0JobUo5MUQtbk1VbTVDMHJpLV9TUEhwLW1XcmNpR0hTbnowZDN1SWM2LWtsZ0FxMDZUaVhpeHoxWFpJMzAtTDhPdEVIWG9PcGQ4TlAxdmFBU0h1NzFVUHVJRDMyZkRpUA?oc=5",
-   "summary": "",
-   "published": "2026-09-21T05:26:34+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-22T10:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a594a7561c0dbd6f",
-   "title": "His software is inside your router. Now he wants it inside much smaller things",
-   "link": "https://yourstory.com/2026/09/his-software-inside-your-router-he-wants-it-much-smaller-things",
-   "summary": "Rajesh Subramaniam grew up in Triplicane in Chennai, reached Silicon Valley in 1994, and has spent 22 years building embedUR into a company of nearly 500 people without taking a rupee from anybody.",
-   "published": "2026-09-21T05:11:20+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ab176e64acdc85c9",
-   "title": "Samara Capital acquires stakes in ARC and Calyx",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHhCZXBUakZDelZxeHQ3dXJwRXBUbnQ0VEdzZ1hXSFhiTF9ySWpUX2o1eUtVT2JJbGFTZHVIZEZXaFdxanhLb29LT1hmN1pHR2Z5ZWNXTmVINVJ1TnJKT09OTndvbTZzdUl5THdBLXROMUNrOFl5bmtJSXVndllQOXBoWDdfazdabjFrSndlWdIBjwFBVV95cUxPRHhCZXBUakZDelZxeHQ3dXJwRXBUbnQ0VEdzZ1hXSFhiTF9ySWpUX2o1eUtVT2JJbGFTZHVIZEZXaFdxanhLb29LT1hmN1pHR2Z5ZWNXTmVINVJ1TnJKT09OTndvbTZzdUl5THdBLXROMUNrOFl5bmtJSXVndllQOXBoWDdfazdabjFrSndlWQ?oc=5",
-   "summary": "",
-   "published": "2026-09-21T05:01:57+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T05:21:11+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
    ]
   }
  ]
