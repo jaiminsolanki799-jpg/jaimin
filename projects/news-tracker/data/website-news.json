@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T06:00:09+00:00",
+ "generated_at": "2026-10-01T06:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T06:00:09+00:00"
+   "checked_at": "2026-10-01T06:30:10+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 12:33:22 GMT",
+   "sample_date": "Thu, 01 Oct 2026 02:57:57 GMT",
    "error": null,
-   "checked_at": "2026-10-01T06:00:09+00:00"
+   "checked_at": "2026-10-01T06:30:10+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 01 Oct 2026 05:08:13 GMT",
    "error": null,
-   "checked_at": "2026-10-01T06:00:09+00:00"
+   "checked_at": "2026-10-01T06:30:10+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 34,
-   "items": 34,
+   "fetched": 35,
+   "items": 35,
    "sample_date": "Tue, 29 Sep 2026 08:21:45 GMT",
    "error": null,
-   "checked_at": "2026-10-01T06:00:09+00:00"
+   "checked_at": "2026-10-01T06:30:10+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 30 Sep 2026 23:43:07 +0000",
    "error": null,
-   "checked_at": "2026-10-01T06:00:09+00:00"
+   "checked_at": "2026-10-01T06:30:10+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "14e527ac84ca2046",
+   "title": "Seeds Fincap raises Rs 100 Cr in Series B led by Michael & Susan Dell Foundation",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2xPRDEyZGgwTU02X3MtWVNxaDB2UkgtMXlmcVNRRVUydXNTV3ViS2dKM013eEpmVk5aNXpLblkxeXg1em9FRjRMc1JIcnRDWFNKSC02djRKcnFrak9aNzFIbGJVNUxXS2RoQV9zMVpwQUk2cVR4U1R5UVRLLURSdThIcjRGYXdxaTJxTUN0cTN1eEhMUnhraDBPZXFmRDBZWG5lVlFncEdPSE5fcktoXzZ3VdIBswFBVV95cUxPR2xPRDEyZGgwTU02X3MtWVNxaDB2UkgtMXlmcVNRRVUydXNTV3ViS2dKM013eEpmVk5aNXpLblkxeXg1em9FRjRMc1JIcnRDWFNKSC02djRKcnFrak9aNzFIbGJVNUxXS2RoQV9zMVpwQUk2cVR4U1R5UVRLLURSdThIcjRGYXdxaTJxTUN0cTN1eEhMUnhraDBPZXFmRDBZWG5lVlFncEdPSE5fcktoXzZ3VQ?oc=5",
+   "summary": "",
+   "published": "2026-10-01T06:16:27+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T06:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "feaab01b719b9b0d",
+   "title": "Antler, Nikhil Kamath back healthtech startup Aignosis with Rs 4 Cr seed round",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkljUjVnbHo0QW1oYUZXTFhVVFpBTlJmdzA3clhaeVpzZEpzSFVGOTBrdEp2YV9TWEg4QmNzamRSdEZlckZYS2JUX2dvN2l6WmQyVGdNaWRvNFJLRzRZc1pubHRkZnAwWlRFYUUyUDJhcXgxa2RUbFFQeF9nTFNfSHd1U2R0dWE4SWY2OG5KN2NyTktvWFNRb0xVZHlzRWZOZE00SlVxbmZiOTNzZFBnZ2cxbHl2QlXSAbcBQVVfeXFMT0ZJY1I1Z2x6NEFtaGFGV0xYVVRaQU5SZncwN3JYWnlac2RKc0hVRjkwa3RKdmFfU1hIOEJjc2pkUnRGZXJGWEtiVF9nbzdpelpkMlRnTWlkbzRSS0c0WXNabmx0ZGZwMFpURWFFMlAyYXF4MWtkVGxRUHhfZ0xTX0h3dVNkdHVhOElmNjhuSjdjck5Lb1hTUW9MVWR5c0VmTmRNNEpVcW5mYjkzc2RQZ2dnMWx5dkJV?oc=5",
+   "summary": "",
+   "published": "2026-10-01T05:58:10+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T06:30:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "7370c24eb4c70ad6",
    "title": "Unveilr AI raises Rs 16.7 Cr pre-seed round from AJVC",
@@ -336,7 +376,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1231,7 +1271,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -1303,7 +1343,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:00:11+00:00",
@@ -1516,7 +1556,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T14:00:13+00:00",
@@ -1534,7 +1574,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
@@ -1588,7 +1628,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
@@ -1624,7 +1664,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-23T08:30:10+00:00",
@@ -1671,7 +1711,7 @@
   },
   {
    "id": "dc81b1eefa7b3b07",
-   "title": "- The CapTable",
+   "title": "- the-captable.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtazJQVVFwTTR4SjlGcHFHMjNiVUhlZWV3UWdrZnJPbFFJYUJtQXYza056UFFrajdxOHN4UEJHRUJfVVMwdW5HcTM4LXhTZEJlc3lISGhPUTY1ZkpjbTFyWS1WZw?oc=5",
    "summary": "",
    "published": "2026-09-30T02:52:29+00:00",
@@ -2091,7 +2131,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-07T10:10:50+00:00",
@@ -3157,7 +3197,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T05:00:08+00:00",
@@ -4536,7 +4576,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T06:00:10+00:00",
@@ -6156,7 +6196,7 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": "The CapTable",
+   "publisher": "the-captable.com",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T03:00:09+00:00",
