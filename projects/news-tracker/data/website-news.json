@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T12:00:12+00:00",
+ "generated_at": "2026-10-01T12:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 01 Oct 2026 09:16:30 GMT",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 01 Oct 2026 11:21:39 GMT",
+   "sample_date": "Thu, 01 Oct 2026 12:17:05 GMT",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 36,
-   "items": 36,
+   "fetched": 35,
+   "items": 35,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 01 Oct 2026 12:00:00 +0000",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "01d7218a2c790d8e",
+   "title": "DoorDash Expands India Operations with Hyderabad GCC, Plans 3,000 Jobs",
+   "link": "https://startuptalky.com/news/doordash-expands-india-operations/",
+   "summary": "DoorDash launches new global competence center in Hyderabad, Telangana, expects to create 3,000 jobs in India over next two years The centre’s initial focus will be on customer service, business operations and administration with 500 people planned in the first phase.",
+   "published": "2026-10-01T12:17:05+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/doordash-expands-india-operations-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "de11222dc23d9742",
    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -1134,6 +1152,24 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-30T15:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-30T15:08:31+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -2577,24 +2613,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T15:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-29T15:06:18+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11143,24 +11161,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T13:00:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b3c4b029bf491c19",
-   "title": "Starbucks to set up first India GCC in Chennai, plans to hire 800",
-   "link": "https://yourstory.com/2026/09/starbucks-set-up-first-india-gcc-in-chennai-plans-to-hire-800",
-   "summary": "Starbucks has also signed a Memorandum of Understanding (MoU) with the Tamil Nadu government to establish the centre.",
-   "published": "2026-09-21T12:12:07+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T12:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

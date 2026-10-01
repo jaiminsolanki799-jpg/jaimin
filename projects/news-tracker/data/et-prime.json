@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T12:00:12+00:00",
+ "generated_at": "2026-10-01T12:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
+   "fetched": 10,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 16:48:13 +0530",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 17:22:57 +0530",
+   "sample_date": "Thu, 01 Oct 2026 17:44:36 +0530",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 01 Oct 2026 17:25:12 +0530",
    "error": null,
-   "checked_at": "2026-10-01T12:00:12+00:00"
+   "checked_at": "2026-10-01T12:30:13+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "d4650296e4cf3910",
+   "title": "Nifty IT crashes 11% in September: TCS, Infosys, Wipro among top losers — Can Q2 earnings spark a rebound?",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-it-crashes-11-in-september-tcs-infosys-wipro-among-top-losers-can-q2-earnings-spark-a-rebound-11790851695743.html",
+   "summary": "The IT sector has been hit hard in September, with the Nifty IT index down 11%. High interest rates, global growth fears, and generative AI pressures have impacted technology spending. Investors are looking to upcoming Q2 earnings for insights into demand and AI-led transformations.",
+   "published": "2026-10-01T12:14:36+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Nifty_IT_Sinks__October_Rebound__1790856150927_oFQM_1790856156492_7Psu_dd4236ff-272d-426a-a505-44503c4bf6d7_QcoQ.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-10-01T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f7f433e5414bd98a",
+   "title": "Accenture shares jump 20% in pre-market as Q4 earnings, 2027 outlook beat estimates",
+   "link": "https://www.livemint.com/market/stock-market-news/accenture-shares-jump-20-in-pre-market-as-q4-earnings-2027-outlook-beat-estimates-11790855697898.html",
+   "summary": "Accenture shares surged 20% to $220 amid strong Q4 results, reporting $3.29 EPS and $18.7 billion revenue, exceeding forecasts. The company anticipates 3-6% revenue growth in 2027 and plans to invest $1 billion in AI safety testing with Anthropic.",
+   "published": "2026-10-01T12:13:29+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Accenture_50000_promotions_salary_hikes_employees_1747896978527_1790855753010_as4e_f237dc04-a491-491d-891e-eb3a533b15f4_yU2q.JPG",
+   "topics": [],
+   "first_seen": "2026-10-01T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2480c4b2b17c1bab",
+   "title": "Ace investor Shankar Sharma decodes market performance, highlights where money-making opportunities lie",
+   "link": "https://www.livemint.com/market/stock-market-news/ace-investor-shankar-sharma-decodes-market-performance-highlights-where-money-making-opportunities-lie-11790853717563.html",
+   "summary": "Ace investor Shankar Sharma unpacks the Indian stock market's recent struggles, attributing its decline to a cycle of 'negligible returns' following strong performance. He urges investors to explore alternatives like fixed income, highlighting key shifts in market dynamics.",
+   "published": "2026-10-01T12:07:43+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Shankar_Sharma_1779878757189_1779878775784_4f49b289-e7d2-4f63-aed0-c9c88d1f0ec1_1790854411539_91O1_8f40e499-0d1c-4ba5-9733-777ec19e4be0_fTQX.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T12:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cc23aadef9679da1",
    "title": "UPI hits 24 billion transactions in September; NPCI data shows 1.8% monthly dip amid MDR concerns",
@@ -11468,62 +11524,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/121f3a35-dba6-4d5b-9680-856168fbe4a9_1790089717493_am5Z_1790089740399_ACqe_d4efdff5-8007-4d58-84c0-5d337cd43e57_YCe3.png",
-   "topics": [],
-   "first_seen": "2026-09-26T09:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "235a3428adc49902",
-   "title": "Oracle layoffs offer a warning: 5 money moves to make before the pink slip arrives",
-   "link": "https://www.livemint.com/money/oracle-layoffs-offer-a-warning-5-money-moves-to-make-before-the-pink-slip-arrives-11790327317667.html",
-   "summary": "Oracle has laid off several employees in its cloud infrastructure division recently, reflecting its ongoing restructuring amid increased focus on AI. Here's how to secure your finances if something unfortunate like this happens.",
-   "published": "2026-09-26T08:39:00+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/05/07/1600x900/logo/3333_1715080623582_1715080625995.png",
-   "topics": [],
-   "first_seen": "2026-09-26T09:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a200425195f01f84",
-   "title": "Rupee gains from FCNR (B) boost reverse in September amid higher crude oil prices: RBI bulletin",
-   "link": "https://www.livemint.com/money/rupee-gains-from-fcnr-b-boost-reverse-in-september-amid-higher-crude-oil-prices-rbi-bulletin-11790407432045.html",
-   "summary": "The Indian rupee, previously buoyed by FCNR(B) deposits, depreciated as crude oil prices rose. Will the pressure on INR ease in the near future? Here's what RBI DG said in an article published in the central bank's bulletin.",
-   "published": "2026-09-26T08:27:52+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2-0-1422536355-iStock-503052802-0_1679748824621_1790411114886_TgnB_fb85353c-a05a-4506-9376-c95a50006c55_DIUk.jpg",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-09-26T09:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1744d05c67bbdab3",
-   "title": "Expert View: 'Stock selection crucial', says Hitesh Tailor of Choice Broking; reveals 3 sectors with strong technicals",
-   "link": "https://www.livemint.com/market/stock-market-news/expert-view-stock-selection-crucial-says-hitesh-tailor-of-choice-broking-reveals-3-sectors-with-strong-technicals-11790409800130.html",
-   "summary": "Market uncertainty could trigger a rotation towards gold and silver, especially with current challenges in equities. Key opportunities in the Indian market lie in Pharma, Metals, and Consumer Durables, which are exhibiting stable technical patterns amidst broader volatility.",
-   "published": "2026-09-26T08:27:50+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/Hitesh_Tailor_1790411202737_sQxh_1790411211488_4ByO_203a3fb3-f212-4837-b63f-f89f62063819_dtg2.png",
    "topics": [],
    "first_seen": "2026-09-26T09:00:09+00:00",
    "valuation_score": 0,
