@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-09-30T23:30:10+00:00",
+ "generated_at": "2026-10-01T00:00:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-09-30T23:30:10+00:00"
+   "checked_at": "2026-10-01T00:00:09+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 16:23:20 GMT",
+   "sample_date": "Wed, 30 Sep 2026 02:15:00 GMT",
    "error": null,
-   "checked_at": "2026-09-30T23:30:10+00:00"
+   "checked_at": "2026-10-01T00:00:09+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 30 Sep 2026 15:05:06 GMT",
    "error": null,
-   "checked_at": "2026-09-30T23:30:10+00:00"
+   "checked_at": "2026-10-01T00:00:09+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Tue, 29 Sep 2026 06:49:51 GMT",
    "error": null,
-   "checked_at": "2026-09-30T23:30:10+00:00"
+   "checked_at": "2026-10-01T00:00:09+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 30 Sep 2026 23:08:00 +0000",
+   "sample_date": "Wed, 30 Sep 2026 23:43:07 +0000",
    "error": null,
-   "checked_at": "2026-09-30T23:30:10+00:00"
+   "checked_at": "2026-10-01T00:00:09+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "1237634e7f12d4ed",
+   "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+   "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+   "published": "2026-09-30T23:43:07+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T00:00:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cfa609f87603d332",
    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
@@ -405,24 +423,6 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-30T15:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "40ad5b1c9658db4e",
-   "title": "Personal Finance - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
-   "summary": "",
-   "published": "2026-09-30T15:08:31+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1006,6 +1006,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-30T10:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "37c15033ce7f0d8a",
+   "title": "Ride-hailing - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
+   "summary": "",
+   "published": "2026-09-30T08:32:52+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -1848,6 +1866,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-29T15:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ad5b1c9658db4e",
+   "title": "Personal Finance - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UTFkZDhqdnpxU0ZWLW5CeE8xbUVaOHR4MUh4LThEOHcwOTRKZXhYUWpZQ2tkRElZX1UxTThVWEkxc1ZOYU5xYlBZMm9kZl9FTVllenV1VmNaZjhXUmZpWm5qN2s?oc=5",
+   "summary": "",
+   "published": "2026-09-29T15:06:18+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -3183,24 +3219,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T19:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-09-28T19:27:04+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
