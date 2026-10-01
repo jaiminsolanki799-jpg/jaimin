@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T02:00:10+00:00",
+ "generated_at": "2026-10-01T02:30:09+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 06:52:18 +0530",
+   "sample_date": "Thu, 01 Oct 2026 07:49:23 +0530",
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 06:50:10 +0530",
+   "sample_date": "Thu, 01 Oct 2026 07:49:30 +0530",
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 30 Sep 2026 23:58:20 +0530",
+   "sample_date": "Thu, 01 Oct 2026 07:45:58 +0530",
    "error": null,
-   "checked_at": "2026-10-01T02:00:10+00:00"
+   "checked_at": "2026-10-01T02:30:09+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,104 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "f0742e79d0c04185",
+   "title": "IPO Valuations Dip in India as Local Funds Flex Pricing Muscle",
+   "link": "https://www.livemint.com/market/ipo/ipo-valuations-dip-in-india-as-local-funds-flex-pricing-muscle-11790821171391.html",
+   "summary": "India’s domestic funds are driving a harder bargain on IPO pricing, using their growing clout to rein in valuations even for the biggest deals as the broader stock market struggles.",
+   "published": "2026-10-01T02:19:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-10-01T02:30:09+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "8ac391deb5091a49",
+   "title": "Adani back at No. 1 with $112.7 billion; Ambani slips to second: What changed at India’s billionaire club",
+   "link": "https://www.livemint.com/companies/people/adani-back-at-no-1-with-112-7-billion-ambani-slips-to-second-what-changed-at-india-s-billionaire-club-11790818304572.html",
+   "summary": "Gautam Adani has regained the title of India's richest, with a net worth of $112.7 billion, while Mukesh Ambani fell to second at $86.3 billion. Adani's wealth surged by $20.7 billion despite a tough market year for India, largely due to his infrastructure ventures.",
+   "published": "2026-10-01T02:19:23+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Adani_Ambani_1790820500144_plW3_1790820500374_ihJZ_4f5b6f8e-b05f-46b1-87cc-23e5127b8c55_MLTf.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T02:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b152c94e6ded2382",
+   "title": "From UPI MDR to tax audit deadline: 5 key money changes from October that you should know about",
+   "link": "https://www.livemint.com/money/from-upi-mdr-to-tax-audit-deadline-5-key-money-changes-from-october-that-you-should-know-about-11790817371401.html",
+   "summary": "October will see extended deadlines for tax audits, new merchant discount rates on UPI transactions, and changes to bulk deposit interest disclosures, among other changes. Check list here.",
+   "published": "2026-10-01T02:15:58+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/money_changes_1790820919099_aNAj_1790820927098_KxGs_57cee53a-05da-46ae-a813-dc049121b5b6_Md6m.png",
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-10-01T02:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d0708b500d34ef3f",
+   "title": "Top stocks to watch today: Infosys, IRFC, Muthoot Finance among shares in focus on Thursday, 1 Oct | Full list",
+   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-and-why-infosys-irfc-muthoot-finance-among-shares-in-focus-on-thursday-1-oct-full-list-11790817912219.html",
+   "summary": "Top stocks to watch on Thursday, 1 October: Infosys, HDFC Bank, Acme Solar, Muthoot Finance, Jio Financial Services, IRFC among shares that will remain in focus on Thursday.",
+   "published": "2026-10-01T02:05:02+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/STW_1790820243689_knXj_1790820243827_EkBJ_ec27cbda-b051-47a0-8fe1-2fef352e9f21_uhok.png",
+   "topics": [],
+   "first_seen": "2026-10-01T02:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b01cd116d670a965",
+   "title": "NPS Diwas 2026: Start at 25 or 40? Expert explains how your age can change your retirement savings strategy",
+   "link": "https://www.livemint.com/money/personal-finance/nps-diwas-2026-start-at-25-or-40-expert-explains-how-your-age-can-change-your-retirement-savings-strategy-11790819569276.html",
+   "summary": "Starting early, increasing contributions with income and knowing the retirement corpus you need can make NPS more effective as part of a long-term retirement plan, experts say.",
+   "published": "2026-10-01T02:01:07+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Gemini_Generatd_Image_4dwdeh4dwdeh4dwd_17908198_1790819830714_Op12_1790819830847_2851_3f5c9540-ff8a-4cbe-bbfd-1d1a7b00169d_J6XH.png",
+   "topics": [],
+   "first_seen": "2026-10-01T02:30:09+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "88b47e11fd1e8eea",
    "title": "OpenAI sued after 700-agent AI swarm hacked Hugging Face: What lawsuit says",
@@ -11413,100 +11509,6 @@
    "valuation_signals": [
     "Rules"
    ]
-  },
-  {
-   "id": "23dcc9c707e8db50",
-   "title": "IPO GMPs: Orient Cables IPO to German Green Steel IPO | What grey market hints on Day 1?",
-   "link": "https://www.livemint.com/market/ipo/ipo-gmps-orient-cables-ipo-to-german-green-steel-ipo-what-grey-market-hints-on-day-1-11790329123256.html",
-   "summary": "Four IPOs are set to open for public subscription on 25 September, seeking to raise ₹1,776 crore. The IPOs span real estate, steel, networking, and digital commerce, closing on 29 September. Subscriptions on Day 1 show varied interest across sectors.",
-   "published": "2026-09-25T10:19:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/IPO_GMP_1790331259764_ZEei_1790331264455_K4Xh_a573be8a-3995-4b3f-88a8-2d573b441ea9_g2jc.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-25T10:30:12+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
-  },
-  {
-   "id": "0f80c0ad1303354c",
-   "title": "Bank strike from Sept 28-30: SBI waives ATM charges for 3 days, UPI, NEFT, RTGS to work | What customers need to know",
-   "link": "https://www.livemint.com/money/personal-finance/sbi-atm-charges-waived-during-bank-strike-upi-cash-neft-rtgs-what-will-work-11790329196951.html",
-   "summary": "State Bank of India will waive ATM transaction charges from September 28 to 30 during a proposed nationwide bank strike, allowing customers to access cash without fees at any ATM. Digital banking services will remain available, encouraging customers to complete branch transactions on September 27.",
-   "published": "2026-09-25T10:12:41+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/bank_strike_1790331080210_oZOb_1790331080545_byDU_4eac70f9-acd3-42fa-abe7-d14df4b86686_El0q.png",
-   "topics": [],
-   "first_seen": "2026-09-25T10:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a319075e55960597",
-   "title": "Delhi HC issues notice to Riju Ravindran on Byju’s Alpha plea to enforce ₹8 crore DIFC court order",
-   "link": "https://www.livemint.com/companies/news/delhi-hc-issues-notice-to-riju-ravindran-on-byju-s-alpha-plea-to-enforce-8-crore-difc-court-order-11790325765370.html",
-   "summary": "Byju’s Alpha is seeking to recover $840,000 in legal costs from Ravindran in India, stemming from his challenge to enforcement of a $540.647 million US judgment.",
-   "published": "2026-09-25T10:06:27+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/pexels-photo-6077326_1777459553679_1777459572396_1790330573359_xxlz_1d83e870-4bb1-46fc-bbc4-4465f9895ac5_ZLeZ.jpeg",
-   "topics": [],
-   "first_seen": "2026-09-25T10:30:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b896867ce45a2f94",
-   "title": "Top 5 FD rates: Suryoday, Jana, Ujjivan, Equitas and AU SFB compared for key tenures",
-   "link": "https://www.livemint.com/money/personal-finance/top-5-fd-rates-suryoday-jana-ujjivan-equitas-and-au-sfb-compared-for-key-tenures-11790325386744.html",
-   "summary": "Fixed deposit rates vary across banks and tenures. Compare the latest 1-, 2-, 3-, 5-, and 10-year FD interest rates from five small finance banks, along with key checks on taxes, premature withdrawal, and deposit insurance.",
-   "published": "2026-09-25T09:52:19+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/4cc124d8-6297-4f26-bc62-bc5bfa6d6674_1790327006489_8xHU_1790327012011_9om3_dfde4c9f-d065-4ed3-a0e7-93c506bc4661_KWUK.jpg",
-   "topics": [],
-   "first_seen": "2026-09-25T10:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7e44c7b06acb1cfa",
-   "title": "JPMorgan CEO Jamie Dimon warns Trump against punishing India; gives this advice on Russian oil imports",
-   "link": "https://www.livemint.com/market/stock-market-news/jpmorgan-ceo-jamie-dimon-warns-trump-against-punishing-india-gives-this-advice-on-russian-oil-imports-11790326652038.html",
-   "summary": "JPMorgan CEO Jamie Dimon emphasized the bank's commitment to India, citing economic growth and strong ties with US. He advocated for dialogue over potential tariffs on Indian oil purchases amidst geopolitical tensions, highlighting the importance of the India-US relationship.",
-   "published": "2026-09-25T09:21:48+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/jamie_dimon_1790327808962_o0ze_1790327820678_qFro_96b010fc-87e9-4717-b2b8-698a67340789_29MT.png",
-   "topics": [],
-   "first_seen": "2026-09-25T09:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
