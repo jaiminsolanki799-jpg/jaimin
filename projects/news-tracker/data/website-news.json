@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T14:00:10+00:00",
+ "generated_at": "2026-10-01T14:30:13+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:00:10+00:00"
+   "checked_at": "2026-10-01T14:30:13+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 10:50:48 GMT",
+   "sample_date": "Wed, 30 Sep 2026 14:58:52 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:00:10+00:00"
+   "checked_at": "2026-10-01T14:30:13+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 01 Oct 2026 12:17:05 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:00:10+00:00"
+   "checked_at": "2026-10-01T14:30:13+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T14:00:10+00:00"
+   "checked_at": "2026-10-01T14:30:13+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 13:00:00 +0000",
+   "sample_date": "Thu, 01 Oct 2026 14:00:00 +0000",
    "error": null,
-   "checked_at": "2026-10-01T14:00:10+00:00"
+   "checked_at": "2026-10-01T14:30:13+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 9,
  "items": [
+  {
+   "id": "2be59ecee0ce4c21",
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "published": "2026-10-01T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T14:30:13+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "20667780551122b7",
    "title": "Jio IPO nears launch: DRHP filed, SEBI clears path",
@@ -934,24 +952,6 @@
    "valuation_signals": []
   },
   {
-   "id": "81d619960f63f5ed",
-   "title": "Listed Companies - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
-   "summary": "",
-   "published": "2026-09-30T21:51:40+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-23T08:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "f9953f3a0f91b814",
    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -973,6 +973,24 @@
     "Valuation",
     "PE / VC"
    ]
+  },
+  {
+   "id": "14ec49f09e7621ab",
+   "title": "Free Reads - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
+   "summary": "",
+   "published": "2026-09-30T20:43:08+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-07T10:10:50+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "d76d029e92f179f8",
@@ -1772,24 +1790,6 @@
    ]
   },
   {
-   "id": "14ec49f09e7621ab",
-   "title": "Free Reads - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRmxDUTNGLWZ0LWI4MjlxVnQ0Z1lHSHlNX3RuRWdXX1R3eXk0MVgyeE13UlFsR3BJWEs0RERQakdaSE43SlRoREdqNUlXMzk2a1hXdw?oc=5",
-   "summary": "",
-   "published": "2026-09-30T11:22:37+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
    "id": "2705ec98b7195f03",
    "title": "Former Livspace executives’ startup Gravity raises $15 Mn led by Info Edge Ventures and 3one4 Capital",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSW1yVUtuR0tZOUo3RktuMXhDMHFzRkk4Y29GVk9vNTdROElWaW1nWDgtWVp3Y21KSVUzMFc2LUF5QXcxbDluYld4bFFhMTZYWGxXcFpzVDZOWi02WUdkcUoxUkQtQS1CMzJPNm84aExQTnNqd1hvWmwwUE9iWklpeWo5N2ZQMnJWaU03cVUwNXRCV2tpdDVRWm02V01NRlRxUWNka3M0R1dUVWdNMURxZlYwb3JOTWZJdV83cE5ZUWhLLWNRNHFIM2dHTnVzQmfSAc8BQVVfeXFMTUltclVLbkdLWTlKN0ZLbjF4QzBxc0ZJOGNvRlZPbzU3UThJVmltZ1g4LVlad2NtSklVMzBXNi1BeUF3MWw5bmJXeGxRYTE2WFhsV3Bac1Q2TlotNllHZHFKMVJELUEtQjMyTzZvOGhMUE5zandYb1psMFBPYlpJaXlqOTdmUDJyVmlNN3FVMDV0QldraXQ1UVptNldNTUZUcVFjZGtzNEdXVFVnTTFEcWZWMG9yTk1mSXVfN3BOWVFoSy1jUTRxSDNnR051c0Jn?oc=5",
@@ -2277,6 +2277,24 @@
    "image": "https://static.startuptalky.com/2026/09/Best-AI-Tools-Customer-Profiling-StartupTalky.jpg",
    "topics": [],
    "first_seen": "2026-09-30T05:00:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "81d619960f63f5ed",
+   "title": "Listed Companies - The CapTable",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTlNSnNfNGFTbnZyZXotTGU1QnpiUUlIOWlKcU5tX0N6b2w2SmFBQndsN2JLNHgwTlBhV08zNi1mMi1nNVdmMkk2R2tqV1Zta09UU25WX1BwRXFib0ltM0ZkREc?oc=5",
+   "summary": "",
+   "published": "2026-09-30T04:08:31+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-09-23T08:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11124,80 +11142,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-09-21T15:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e9d235c4c7d84802",
-   "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-   "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-   "published": "2026-09-21T14:30:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "TechCrunch Events",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T14:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "babf60e08c55d5d5",
-   "title": "Soach Global to partially exit NSE after decade-long investment",
-   "link": "https://yourstory.com/2026/09/soach-global-to-partially-exit-nse-after-decade-long-investment",
-   "summary": "Soach Global will sell 16.5 lakh NSE shares through the IPO for about Rs 280-295 crore, while retaining 66 lakh shares as a long-term investment.",
-   "published": "2026-09-21T14:15:39+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-21T14:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "536630a0b33ca1d5",
-   "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-   "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-   "published": "2026-09-21T14:15:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "TechCrunch Events",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T14:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b4ebb57c17f1a87d",
-   "title": "9 Must-read lessons about friendship from classic books",
-   "link": "https://yourstory.com/2026/09/friendship-classic-books",
-   "summary": "Discover 9 powerful friendship lessons from classic books that teach loyalty, trust, forgiveness, courage, and the value of true companionship.",
-   "published": "2026-09-21T14:08:55+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-21T14:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
