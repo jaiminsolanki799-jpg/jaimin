@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T19:30:09+00:00",
+ "generated_at": "2026-10-01T20:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
-   "items": 8,
+   "fetched": 9,
+   "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 02 Oct 2026 00:20:02 +0530",
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 02 Oct 2026 00:48:35 +0530",
+   "sample_date": "Fri, 02 Oct 2026 01:05:22 +0530",
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 02 Oct 2026 00:07:03 +0530",
+   "sample_date": "Fri, 02 Oct 2026 01:08:45 +0530",
    "error": null,
-   "checked_at": "2026-10-01T19:30:09+00:00"
+   "checked_at": "2026-10-01T20:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "84e413e11b2f0d78",
+   "title": "Gold vs silver ETFs: All mutual fund schemes in red in September 2026 after a strong run in August — what to know",
+   "link": "https://www.livemint.com/money/personal-finance/gold-vs-silver-etfs-all-mutual-fund-schemes-in-red-in-september-2026-after-a-strong-run-in-august-what-to-know-11790879926403.html",
+   "summary": "Gold and silver ETFs reversed their strong August performance in September 2026 as domestic prices declined. How did the two commodity ETFs fare during the month, and which schemes saw relatively smaller declines? Here’s what the data shows.",
+   "published": "2026-10-01T19:38:45+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/golddd_1790882602026_KiJ5_1790882606027_PhWV_744c097f-3190-429c-a59a-e38cf12f84eb_MAIp.png",
+   "topics": [],
+   "first_seen": "2026-10-01T20:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "422ae77ddd77d301",
+   "title": "Soybeans fall on harvest pressure, fund liquidation, demand questions",
+   "link": "https://www.livemint.com/market/soybeans-fall-on-harvest-pressure-fund-liquidation-demand-questions-11790883323383.html",
+   "summary": "GLOBAL-GRAINS/ (UPDATE 3):GRAINS-Soybeans fall on harvest pressure, fund liquidation, demand questions",
+   "published": "2026-10-01T19:35:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [
+    "Insolvency / IBC"
+   ],
+   "first_seen": "2026-10-01T20:00:10+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Distress"
+   ]
+  },
   {
    "id": "41adee55d848dc94",
    "title": "Treasuries Surge as France’s Fiscal Woes Boost Haven Demand",
@@ -11493,42 +11533,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Stocks_to_buy_Under_Rs_100_Sumeet_Bagadia_share_1790487303284_kQq1_1790487303409_4eq7_c465dc4c-c06f-4748-969e-9d4eb204b926_fbbR.png",
    "topics": [],
    "first_seen": "2026-09-27T06:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "85b8f2c1551aca3e",
-   "title": "Rare Sunday for government banks: Check if your bank is open or closed today",
-   "link": "https://www.livemint.com/money/rare-sunday-for-public-and-rural-sector-banks-check-if-your-bank-is-open-or-closed-today-11790482706270.html",
-   "summary": "Public-sector and regional rural banks across the country will open on Sunday, September 27, ahead of a three-day nationwide strike by bank unions. Details here.&nbsp;",
-   "published": "2026-09-27T05:11:43+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/protest_1790485724035_XHfI_1790485724270_TyRl_030923bd-43ea-4816-8a1d-2229474eac76_b7UM.JPG",
-   "topics": [],
-   "first_seen": "2026-09-27T05:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "22638f2995c2a5f1",
-   "title": "Mehli Mistry steps down as Tata Medical Centre Trust trustee in sixth such exit: Who are the remaining trustees?",
-   "link": "https://www.livemint.com/companies/people/mehli-mistry-steps-down-as-tata-medical-centre-trust-trustee-in-sixth-such-exit-who-are-remaining-trustees-11790482615827.html",
-   "summary": "Mehli K Mistry decided not to seek re-election when his current term ends on September 30. This will make it his sixth exit from an institution linked to the late industrialist since his death in Oct 2024.",
-   "published": "2026-09-27T04:58:03+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Mistry_1790483299050_WcKV_1790483305189_kqze_e9ba2f59-46dc-4786-b5d0-10717680119e_4p4c.jpg",
-   "topics": [],
-   "first_seen": "2026-09-27T05:30:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
