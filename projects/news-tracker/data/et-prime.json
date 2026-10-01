@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T18:30:08+00:00",
+ "generated_at": "2026-10-01T19:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
-   "items": 7,
+   "fetched": 10,
+   "items": 8,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 22:22:33 +0530",
+   "sample_date": "Fri, 02 Oct 2026 00:20:02 +0530",
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 23:47:41 +0530",
+   "sample_date": "Fri, 02 Oct 2026 00:20:03 +0530",
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 23:27:32 +0530",
+   "sample_date": "Fri, 02 Oct 2026 00:07:03 +0530",
    "error": null,
-   "checked_at": "2026-10-01T18:30:08+00:00"
+   "checked_at": "2026-10-01T19:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,136 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "f36dcdf14a1b4c28",
+   "title": "Equities turn higher as Treasury yields drop from highs",
+   "link": "https://www.livemint.com/market/equities-turn-higher-as-treasury-yields-drop-from-highs-11790880604226.html",
+   "summary": "USA-STOCKS/ (UPDATE 5, GRAPHICS):US STOCKS-Equities turn higher as Treasury yields drop from highs",
+   "published": "2026-10-01T18:50:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "463faf3d2cfd9036",
+   "title": "Disney’s Walden Says She Would Be Interested in Buying ‘Bluey’",
+   "link": "https://www.livemint.com/companies/disneys-walden-says-she-would-be-interested-in-buying-bluey-11790880603411.html",
+   "summary": "Dana Walden, the president and chief creative officer of Walt Disney Co., said she “would offer a lot of money,” to Joe Brumm, the creator of the company’s popular Bluey TV series, if the opportunity ever arose to buy the intellectual property.",
+   "published": "2026-10-01T18:50:02+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "308eb5448edc9a15",
+   "title": "One day, two Anups; one Saha, one Bagchi at helm of two big banks | Meet ex-ICICI and IIT, IIM alumni banks banked upon",
+   "link": "https://www.livemint.com/companies/one-day-two-anups-one-saha-one-bagchi-at-helm-of-two-big-banks-meet-ex-icici-and-iit-iim-alumni-banks-banked-upon-11790878388600.html",
+   "summary": "Both Anup Kumar Saha and Anup Bagchi have served ICICI in the past, and are graduates of IIT and IIM.",
+   "published": "2026-10-01T18:43:21+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/name_1790879436921_SJwI_1790879465080_kTWV_f2a37169-edc2-4b8f-9e05-d2ae1b10db14_EC8B.png",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bc360b29ceb295dd",
+   "title": "Hong Kong Investors Buying US Treasuries Is a No-Brainer",
+   "link": "https://www.livemint.com/market/hong-kong-investors-buying-us-treasuries-is-anobrainer-11790879988010.html",
+   "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
+   "published": "2026-10-01T18:39:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "017a89d8db429ba7",
+   "title": "Passenger denied boarding over name mismatch; travel firm, airline told to pay ₹78,920",
+   "link": "https://www.livemint.com/money/personal-finance/passenger-denied-boarding-over-name-mismatch-travel-firm-airline-told-to-pay-78920-11790878276236.html",
+   "summary": "The consumer commission observed that the failure of the opposite parties to provide the promised refund amounted to deficiency in service and an unfair trade practice",
+   "published": "2026-10-01T18:37:03+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/plane_1790879366343_Gbrl_1790879395944_vE1t_3cff3765-3b1d-4b10-8e57-a9ad98b36ba5_lCja.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ec4bf2e3d1738c04",
+   "title": "Have 5 mutual funds in your portfolio? Should you invest ₹10,000 bonus in one scheme or split it — what experts suggest",
+   "link": "https://www.livemint.com/money/personal-finance/have-5-mutual-funds-in-your-portfolio-should-you-invest-10-000-bonus-in-one-scheme-or-split-it-what-experts-suggest-11790877503385.html",
+   "summary": "Got a ₹10,000 bonus and already have 5 mutual funds in your portfolio? Should you spread it across your existing funds or put it in one scheme? Here’s what investors should consider.&nbsp;",
+   "published": "2026-10-01T18:35:13+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/sip_funddd_1790878851670_Oey0_1790878855814_a5sN_969fb4ff-cf62-4b34-996f-3ec227f84ad7_GWY2.png",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0e58ca1dd2f09142",
+   "title": "Temasek comfortable with current AI spending levels, executive says",
+   "link": "https://www.livemint.com/companies/temasek-comfortable-with-current-ai-spending-levels-executive-says-11790879677606.html",
+   "summary": "REUTERS-NEXT-NEWSMAKER-TEMASEK:Temasek comfortable with current AI spending levels, executive says",
+   "published": "2026-10-01T18:34:37+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-10-01T19:00:12+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
   {
    "id": "626b2ee1790abc67",
    "title": "50% of Nifty stocks slip into bear territory, down up to 40% - What should investors do now? Experts view",
@@ -224,7 +352,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/investor_1790875308817_hkI3_1790875360882_3Hdw_940daa72-1184-4d1d-a257-89c0c5247d0d_qIGL.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/investor_1790875308817_hkI3_1790875360882_3Hdw_940daa72-1184-4d1d-a257-89c0c5247d0d_qIGL.jpg",
    "topics": [],
    "first_seen": "2026-10-01T18:30:08+00:00",
    "valuation_score": 0,
@@ -11401,136 +11529,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Gemini_Generated_Image_zocopizocopizoc_17904827_1790482714010_6BEb_1790482714178_DmrG_cc021f5f-c93f-4131-9410-0f780b20e13a_ZCwj.png",
    "topics": [],
    "first_seen": "2026-09-27T04:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0fdd1aecc2623894",
-   "title": "Stock market prediction for today: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-monday-28-sept-triggers-gift-nifty-nikkei-taiwan-kospi-cues-11790480062165.html",
-   "summary": "Stock market prediction for 28 September, 2026: On Friday, Benchmark indices Sensex and Nifty recovered, supported by value buying in blue-chip stocks across the banking, oil and gas, and automobile sectors after the recent sharp sell-off.",
-   "published": "2026-09-27T04:22:56+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/prediction_1790501275583_7UEv_1790501275775_cgKq_9d28f200-2b44-490d-a2ff-65c87460d083_0WiB.png",
-   "topics": [],
-   "first_seen": "2026-09-27T04:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7fca17d216a43652",
-   "title": "Stock averaging explained: How does it work and what are the risks investors should keep in mind?",
-   "link": "https://www.livemint.com/money/personal-finance/stock-averaging-explained-how-does-it-work-and-what-are-the-risks-investors-should-keep-in-mind-11790476425943.html",
-   "summary": "Investors facing falling stock prices can consider averaging down to reduce costs or averaging up to increase exposure. While such strategies can enhance returns during recoveries, they carry significant risks too. Details here.",
-   "published": "2026-09-27T04:12:27+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/bull_1790481827645_diMd_1790481827912_wYIP_d8a977bf-7ab7-4979-8df5-9a3775ad0f0a_QXWK.png",
-   "topics": [],
-   "first_seen": "2026-09-27T04:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "10a569b0ce0e8857",
-   "title": "8th Pay Commission: As meetings gather pace, check NC-JCM and BPMS demands on salary, fitment and pension",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-as-meetings-gather-pace-check-nc-jcm-and-bpms-demands-on-salary-fitment-and-pension-11790478214976.html",
-   "summary": "The 8th Pay Commission is consulting employee organisations and other stakeholders currently, as the consultative phase continues. NC-JCM has sought a minimum pay of ₹69,000 and a 3.833 fitment factor, while BPMS wants ₹72,000 and a 4.0 fitment factor.&nbsp;",
-   "published": "2026-09-27T04:04:26+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/4b9d074f-ba91-4c74-91dc-33a9bcd95917_1790479988348_0oWr_1790479994736_MfZH_e5068220-4ad4-47f0-81b1-a5470b22f3a9_HEgv.jpg",
-   "topics": [],
-   "first_seen": "2026-09-27T04:30:13+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3464166d9d758e31",
-   "title": "Apple asked to pay $5.7 bn to Taction for alleged infringement of its technology; tech giant to challenge ruling",
-   "link": "https://www.livemint.com/companies/news/apple-asked-to-pay-5-7-bn-to-taction-for-alleged-infringement-of-its-technology-tech-giant-to-challenge-ruling-11790480427118.html",
-   "summary": "A US federal jury has ordered Apple to pay over $5.7 billion to Taction Technology for infringing two patents related to haptic technology used in iPhones and Apple Watches. Apple denied the claims and said it would appeal the verdict.",
-   "published": "2026-09-27T03:49:04+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Apple-taction_lawsuit_1790480664010_GeF6_1790480664187_GkIw_767396dc-d468-47b3-a964-ef292d790e66_1H4D.jpg",
-   "topics": [],
-   "first_seen": "2026-09-27T04:00:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a791d93f1e13538e",
-   "title": "FD rules change from 1 October: What depositors should know about bulk deposit rates",
-   "link": "https://www.livemint.com/money/personal-finance/fd-rules-change-from-1-october-what-depositors-should-know-about-bulk-deposit-rates-11790469926484.html",
-   "summary": "RBI’s new bulk deposit rules take effect from 1 October 2026, changing how banks disclose and apply interest rates. Large depositors should know the daily rate disclosure requirement, branch-level rate consistency and exceptions linked to liquidity regulations before booking a bulk FD.",
-   "published": "2026-09-27T03:09:31+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/e6ba0a49-c1c1-4969-9aa2-4343f1eb9832_1790470153669_oiH8_1790470164352_bRyP_d3356869-e754-43b7-99e5-5571cf3a15d0_vk0Y.png",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-09-27T03:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8075c671bb57059e",
-   "title": "Buying property from an NRI gets easier from October 1: Check key rule changes for residents and HUFs",
-   "link": "https://www.livemint.com/money/personal-finance/buying-property-from-an-nri-gets-easier-from-october-1-check-key-rule-changes-for-residents-and-hufs-11790473095505.html",
-   "summary": "Starting October 1, resident individuals and HUFs purchasing properties from non-resident sellers can simplify TDS compliance by using their existing PAN instead of a TAN. Details here.",
-   "published": "2026-09-27T02:32:21+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Home-home_1790475735672_jylE_1790475735880_jdEW_0638bb64-3a7f-4eb9-98e8-5f95d2d5f4d5_dpH3.jpg",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-09-27T03:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c7596ec14f2b21d8",
-   "title": "Could Boeing 737 MAX software glitch disrupt navigation feature? Here's what company says on automated flight guidance",
-   "link": "https://www.livemint.com/companies/news/could-boeing-737-max-software-glitch-disrupt-navigation-feature-heres-what-company-says-on-automated-flight-guidance-11790475449584.html",
-   "summary": "Boeing flagged a 737 MAX software glitch that could cause an automated navigation feature to fail during landing, the Wall Street Journal reported on Saturday.",
-   "published": "2026-09-27T02:26:16+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/737_MAX_1790475773943_p1dJ_1790475780932_eedG_8ccb98ce-40b1-4417-9a00-38332c935f8f_r4cc.jpg",
-   "topics": [],
-   "first_seen": "2026-09-27T02:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
