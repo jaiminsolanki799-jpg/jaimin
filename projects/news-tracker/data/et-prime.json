@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T07:00:11+00:00",
+ "generated_at": "2026-10-01T07:30:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
-   "items": 7,
+   "fetched": 10,
+   "items": 8,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 11:51:59 +0530",
+   "sample_date": "Thu, 01 Oct 2026 12:29:04 +0530",
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 12:23:00 +0530",
+   "sample_date": "Thu, 01 Oct 2026 12:53:38 +0530",
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 12:25:02 +0530",
+   "sample_date": "Thu, 01 Oct 2026 12:54:20 +0530",
    "error": null,
-   "checked_at": "2026-10-01T07:00:11+00:00"
+   "checked_at": "2026-10-01T07:30:10+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,80 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "9c604f86321af261",
+   "title": "Higher pension planning: Why your salary and PF records need to be in order",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-higher-pension-salary-records-pf-contributions-11790755805956.html",
+   "summary": "The quality of payroll systems and record-keeping practices implemented today will directly impact pension entitlements that employees claim 20 or 30 years from now.",
+   "published": "2026-10-01T07:24:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/gff268d431be724e4fc4efcc737ab8f05e74e9e65691f3684d_1790839033682_nUwB_1790839034039_e9SA_cbb4ed99-cdc3-42ab-8f6d-f795257bc15f_9PFV.png",
+   "topics": [],
+   "first_seen": "2026-10-01T07:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "087419c997cea65c",
+   "title": "Galaxy Surfactants shares rise 6% | What’s boosting the outlook? Nuvama raises target price, retains ‘Buy’",
+   "link": "https://www.livemint.com/market/stock-market-news/galaxy-surfactants-shares-rise-6-what-s-boosting-the-outlook-nuvama-raises-target-price-retains-buy-11790837263522.html",
+   "summary": "Galaxy Surfactants share price rose over 6% following Nuvama's optimistic report, which raised its target price to ₹3,265. The brokerage anticipates improved profitability, a shift towards oleochemical surfactants, and recovery in AMET volumes, underpinning its 'Buy' rating.",
+   "published": "2026-10-01T07:23:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Galaxy_Surfactants_1790839330625_8IaM_1790839360916_oR7C_71c06e6c-d996-4e05-86d5-7c3a0630b71f_sTOt.png",
+   "topics": [],
+   "first_seen": "2026-10-01T07:30:10+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "8aa2b431e160c0b3",
+   "title": "Bajaj Auto shares crash 8% on weak sales data, down 18% in 1 month: Will Dussehra-Diwali drive rebound? Expert decodes",
+   "link": "https://www.livemint.com/market/stock-market-news/bajaj-auto-share-price-crashes-8-post-weak-auto-sales-data-stock-down-18-in-1-month-can-diwali-dussehra-sales-fix-th-11790838777134.html",
+   "summary": "Bajaj Auto shares fell nearly 8% following weak September sales data, revealing a 9% annual decline in domestic sales. Despite a slight recovery, concerns remain over market share loss to competitors like Honda and Hero ahead of the festive season.",
+   "published": "2026-10-01T07:18:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/bajaj_auto_1790839036267_qsX3_1790839036385_wUOL_d230da1b-513b-4fdd-b78a-c79a8178e871_pg8p.png",
+   "topics": [],
+   "first_seen": "2026-10-01T07:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4d4d0607e737ddfb",
+   "title": "Flydubai: 5 key facts about the UAE-based airline after Indian pilot Smit Machchhar foils alleged mid-air hijack attempt",
+   "link": "https://www.livemint.com/companies/news/flydubai-5-key-facts-about-the-uae-based-airline-after-indian-pilot-smit-machchhar-foils-alleged-mid-air-hijack-attempt-11790835171699.html",
+   "summary": "Flydubai's Dubai-Tel Aviv flight faced a mid-air incident when Indian Captain Smit Machchhar was stabbed by the co-pilot. The flight descended rapidly to land safely in Tabuk.&nbsp;",
+   "published": "2026-10-01T06:59:04+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/maxresdefault_1790838605339_fpBi_1790838609675_8Unl_61ff616d-3133-481c-801f-1c72e747e94a_mz37.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T07:30:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c24f676dfc6406b9",
    "title": "PPF, SCSS, SSY interest rates kept unchanged for Dec quarter: How are small savings rates set, why are they frozen?",
@@ -405,7 +479,7 @@
   },
   {
    "id": "3c82972fa3fe61e8",
-   "title": "Hedge funds are piling into the $30 trillion US Treasury market | What happens if they sell?",
+   "title": "Hedge funds are piling into the $30 trillion US Treasury market | What happens if they sell? – Experts explain",
    "link": "https://www.livemint.com/market/bonds/hedge-funds-are-piling-into-the-30-trillion-us-treasury-market-what-happens-if-they-sell-11790829736175.html",
    "summary": "Hedge funds are increasingly influential in the $30 trillion US Treasury market, holding $2 trillion in cash Treasurys by 2025.&nbsp;",
    "published": "2026-10-01T05:51:57+00:00",
@@ -5648,6 +5722,24 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-09-29T07:30:11+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "87ed1d1bef06237f",
+   "title": "Prime Focus Ltd.",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGZFVVE0ZDBRV05vYy1XbGpBcnFtd0JQUm9INGl4UFd6aFBZZXlsSnBLTlh3TElENVA0TFhWMzBHYjJPSXJZZjdtWFJTdVRJYXNJREdMcWNBNmEtOVpRaFF1WnAxU1Z6YTc2RG9CVTRpYkg4T0RXaEd6cWs5Vk1HNk1pQk12WWM4Ml8tQllB?oc=5",
+   "summary": "",
+   "published": "2026-09-29T07:10:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T07:30:10+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11408,107 +11500,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/pfff_1790356453406_CjN5_1790356456766_tab4_5c04dddb-2548-4aa6-9b56-ba4cfed9b18a_DEzs.png",
    "topics": [],
    "first_seen": "2026-09-25T18:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d166af8cf6baba36",
-   "title": "Fortis loses Supreme Court challenge against forensic audit in Daiichi-Singh brothers case",
-   "link": "https://www.livemint.com/companies/news/fortis-loses-supreme-court-challenge-against-forensic-audit-in-3-500-crore-daiichi-case-11790353428336.html",
-   "summary": "The case is linked to a ₹3,500 crore arbitral award passed in favour of Daiichi Sankyo in 2016. The dispute goes back to the sale of Ranbaxy Laboratories by the Singh brothers to Daiichi Sankyo in 2008.",
-   "published": "2026-09-25T16:39:49+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Fortis_1681979186778_1790354628072_w5Wi_e92ba149-62f2-4592-b034-d5c495baaa9d_zLjK.JPG",
-   "topics": [
-    "Audit / accounting"
-   ],
-   "first_seen": "2026-09-25T17:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "694679f7e1a69f84",
-   "title": "Listing of NSE on own platform feasible, says chair Injeti",
-   "link": "https://www.livemint.com/companies/news/listing-of-nse-own-platform-chairperson-exchange-bse-11790335593267.html",
-   "summary": "Discussions with regulator due to happen on such a listing, currently barred, under the permitted to trade category even as BSE remains the primary listing venue.",
-   "published": "2026-09-25T16:27:18+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/INDIA-NSE-DEBUT-29_1790343487334_i44z_1790343492055_5tZ0_2d4dfd3d-d2cb-4774-850e-2a0c4e90033d_1l7U.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-25T16:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dea3c3407fe41741",
-   "title": "Upcoming IPO: Kian-M Export files DRHP with SEBI to raise funds via IPO; key things to know",
-   "link": "https://www.livemint.com/market/ipo/upcoming-ipo-kian-m-export-files-drhp-with-sebi-to-raise-funds-via-ipo-key-things-to-know-11790350482552.html",
-   "summary": "Kian-M Export Ltd has filed a Draft Red Herring Prospectus with SEBI to raise funds via an IPO. The IPO includes a fresh issue up to ₹500 crore and an Offer for Sale of shares to fund working capital and acquisitions.",
-   "published": "2026-09-25T16:24:29+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Upcoming_IPO_1790350547894_0Nfy_1790350566916_ZF32_6692ea95-a10c-4030-854b-0c0db72472ab_nJGr.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-25T16:30:11+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "IPO",
-    "Rules"
-   ]
-  },
-  {
-   "id": "e15d27dbd05d2518",
-   "title": "PRIM vs mutual funds vs PMS: Experts explain how they differ on portfolio structure, costs, taxation and suitability",
-   "link": "https://www.livemint.com/money/personal-finance/prim-vs-mutual-funds-vs-pms-experts-explain-how-they-differ-on-portfolio-structure-costs-taxation-and-suitability-11790345467767.html",
-   "summary": "SEBI’s new PMS framework introduces PRIM, allowing investors to access professionally managed portfolios of mutual funds, ETFs and SIFs. Here's how PRIM compares with conventional PMS and mutual funds on investment, management, taxation and flexibility.&nbsp;",
-   "published": "2026-09-25T16:16:41+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/prim_fun_1790350782584_3IKT_1790350790802_mGlq_553be823-d04e-4e2f-98dc-bc749251c157_MRyO.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-09-25T16:30:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c57087d0f4aaf9c2",
-   "title": "Tata Steel, Dutch government extend green steel project deadline by 5 months",
-   "link": "https://www.livemint.com/companies/news/tata-steel-dutch-government-extend-green-steel-project-deadline-by-5-months-11790350475018.html",
-   "summary": "The extension comes as Tata Steel and the Dutch government seek clarity on several issues that could influence the project’s long-term financial viability, operational feasibility and investment timeline.",
-   "published": "2026-09-25T16:06:03+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/TATA-STEEL-RESULTS--0_1765786614129_1765786711607_1790352086801_jQkW_f8a45403-4c16-44bf-a3d1-e71dc23d2dd5_lBRl.JPG",
-   "topics": [],
-   "first_seen": "2026-09-25T16:30:11+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
