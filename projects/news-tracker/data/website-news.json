@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-01T15:30:12+00:00",
+ "generated_at": "2026-10-01T16:00:17+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 12,
    "sample_date": "Tue, 29 Sep 2026 04:32:42 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:30:12+00:00"
+   "checked_at": "2026-10-01T16:00:17+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 01 Oct 2026 10:50:48 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:30:12+00:00"
+   "checked_at": "2026-10-01T16:00:17+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 01 Oct 2026 12:17:05 GMT",
+   "sample_date": "Thu, 01 Oct 2026 15:47:37 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:30:12+00:00"
+   "checked_at": "2026-10-01T16:00:17+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 36,
    "sample_date": "Wed, 30 Sep 2026 05:43:35 GMT",
    "error": null,
-   "checked_at": "2026-10-01T15:30:12+00:00"
+   "checked_at": "2026-10-01T16:00:17+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 01 Oct 2026 15:12:00 +0000",
+   "sample_date": "Thu, 01 Oct 2026 15:50:10 +0000",
    "error": null,
-   "checked_at": "2026-10-01T15:30:12+00:00"
+   "checked_at": "2026-10-01T16:00:17+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,62 @@
  ],
  "new_since_last_run": 11,
  "items": [
+  {
+   "id": "5f29821637a51cdd",
+   "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+   "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+   "summary": "The CEO promised to get more specific about his vision. But the details are still absent.",
+   "published": "2026-10-01T15:50:10+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sean O'Kane",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T16:00:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3c255019d6ac0c05",
+   "title": "Daily Indian Funding Roundup & Key News - 1 October 2026: Seeds Fincap Raises ₹100 Crore, Moneyview Lists at 61.8% Premium",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-1-october-2026/",
+   "summary": "Seeds Fincap raised INR 100 crore in a Series B round and five more startups closed rounds, as Moneyview made a strong market debut and traders called off their 'No UPI Day' protest.",
+   "published": "2026-10-01T15:47:37+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/daily-indian-funding-roundup-key-news-1-october-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T16:00:17+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "a5af4fb14e1274be",
+   "title": "Gold and Silver Prices in India Today, 1 October 2026: Gold at ₹150,350, Silver at ₹225,940 as Both Rise",
+   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-1-october-2026/",
+   "summary": "Gold and silver rates today in India, 1 October 2026. 24K gold is at ₹150,350 per 10g and silver at ₹225,940 per kg, both up on the day but still lower than a week ago. Check city-wise rates and MCX data below.",
+   "published": "2026-10-01T15:45:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/gold-silver-prices-india-today-1-october-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-10-01T16:00:17+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fdadf99fae2beb47",
    "title": "Brian Chesky interview: AI agents need their own operating system",
