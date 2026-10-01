@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T01:00:10+00:00",
+ "generated_at": "2026-10-01T01:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 06:00:57 +0530",
+   "sample_date": "Thu, 01 Oct 2026 06:52:18 +0530",
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 01 Oct 2026 06:00:57 +0530",
+   "sample_date": "Thu, 01 Oct 2026 06:50:10 +0530",
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 30 Sep 2026 23:58:20 +0530",
    "error": null,
-   "checked_at": "2026-10-01T01:00:10+00:00"
+   "checked_at": "2026-10-01T01:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "88b47e11fd1e8eea",
+   "title": "OpenAI sued after 700-agent AI swarm hacked Hugging Face: What the lawsuit says",
+   "link": "https://www.livemint.com/companies/news/openai-sued-after-700-agent-ai-swarm-hacked-hugging-face-what-the-lawsuit-says-11790816097759.html",
+   "summary": "OpenAI faces a lawsuit from the nonprofit LASST after its AI agents gained unauthorised access to Hugging Face's systems during a test.&nbsp;",
+   "published": "2026-10-01T01:22:18+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/AI_breach_1790817624200_aKSE_1790817624328_dSYR_5b15bd41-fd60-451f-96ce-348daeeaccce_b3gg.png",
+   "topics": [],
+   "first_seen": "2026-10-01T01:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f830c8f80ffc34e4",
+   "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-30-sept-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11790815237050.html",
+   "summary": "Stock market prediction for Thursday, 1 October, 2026: Gift Nifty was trading around the 22,629 level, down nearly 30 points from the Nifty futures’ previous close, indicating a muted start for the Indian stock market indices.",
+   "published": "2026-10-01T01:20:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/prediction_1790817249420_9seU_1790817249540_roaj_7606a02a-875d-4c24-87e7-ec7cfb429224_klhK.png",
+   "topics": [],
+   "first_seen": "2026-10-01T01:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a1ec328cf5abe35d",
    "title": "Big Four alumni build boutique consulting rivals, targeting startups, PE and VC firms",
@@ -395,6 +431,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-10-01T01:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ad5b15dea84aa741",
+   "title": "Oil, money, and the shifting global order",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcEtacUZTSmtscHN1cUQtUlZBMmREMUNrdTZUTDhnSEtEdnJiRnJXdW04Z1pOMnF0eDZiRERGYXlUTGpsbzkyLUdvNzRtV3hUaDlkS09BTjhKM2pFNDNrUURRQ1llM0dkWUJKOGFMTDExc1NOaVRraDRuTjIyWHg1S29paVE4QVR0Y0pOWkgyR1BHeGNvVnBHZDgzcnBwci1IT3FpWHFJcnZDRU9mQzhTd2Z6WUxadThCdjBQYkFFLXJVa1JHOEZ2bzd5OGzSAcYBQVVfeXFMTUU3WURjZm1oN1N6WU9PWVVLWnVmRFg5N3NrN3NlUFoxNTczRGUwUjR5OVNHcVhUTUdjcllIdFNrYW02Yl9kWndlenFzMjk4ZVRjV09MSTFDT0owYmo3RE9kUUZhQkZCdHFWQk5UQVJhR0gxTklKazJfd1B0QmhzVTdYM1FHOVhBbHZ5N09lcE5nemRCdms0MlBIcmtlUEpOclNIem85UjJ2SW9pUUppVEVSQ1lXLVJXNFMwSTgxN19JY3ItMnlR?oc=5",
+   "summary": "",
+   "published": "2026-09-30T22:30:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-01T01:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11449,66 +11503,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/jamie_dimon_1790327808962_o0ze_1790327820678_qFro_96b010fc-87e9-4717-b2b8-698a67340789_29MT.png",
-   "topics": [],
-   "first_seen": "2026-09-25T09:30:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bfca2cd1a30ec97f",
-   "title": "Adani Power share price jumps after receipt of NCLT nod for merger of 10 wholly owned subsidiaries",
-   "link": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-jumps-after-receipt-of-nclt-nod-for-merger-of-10-wholly-owned-subsidiaries-11790327103674.html",
-   "summary": "Adani Power share price increased following the NCLT's approval of its plan to merge 10 subsidiaries. The Mumbai Bench sanctioned the merger of Vidarbha Industries Power Ltd. on 24 September, completing the merger process initiated by an earlier approval from the Ahmedabad Bench on 4 August.",
-   "published": "2026-09-25T09:11:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Adani_Power_Stock_Surge_at_NCLT_1790327397367_umIi_1790327402160_jFew_6e25899e-4381-4903-b459-50ab01fe2f63_D90J.png",
-   "topics": [
-    "Insolvency / IBC",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-25T09:30:09+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "M&A",
-    "Distress"
-   ]
-  },
-  {
-   "id": "263e5bf81f96a188",
-   "title": "UPI is accepted in 11 countries: Will MDR charges apply globally? What we know so far",
-   "link": "https://www.livemint.com/money/personal-finance/upi-is-accepted-in-11-countries-will-mdr-charges-apply-globally-what-we-know-so-far-11790323100919.html",
-   "summary": "The government has announced that new MDR fees on UPI transactions will apply in some cases. Will the charge apply in every country where UPI is functional? Here's what we know so far.",
-   "published": "2026-09-25T08:59:50+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/MDR_cgarges_1790326694791_rTzs_1790326698591_txyq_e58848f8-d62b-4996-88b9-df822bbbb624_aZiu.png",
-   "topics": [],
-   "first_seen": "2026-09-25T09:00:09+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9c62b2510a250627",
-   "title": "Hyundai Motor India shares rebound after 4-day slide: What’s driving the stock price rise? Buy or book profits?",
-   "link": "https://www.livemint.com/market/stock-market-news/hyundai-motor-india-shares-rebound-after-4-day-slide-what-s-driving-the-stock-price-rise-buy-or-book-profits-11790322771831.html",
-   "summary": "After a four-day slump, Hyundai Motor India shares surged, opening at ₹2,030 and ending at ₹2,105. Experts emphasise value buying ahead of upcoming launches. Is now the right time for investors to capitalise or book profits?",
-   "published": "2026-09-25T08:58:52+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Hyundai_Motor_India_shares_1790323369967_5suR_1790323380267_O3SY_6a8d8179-b019-40fb-a053-1e22ffcfbc4e_vrCz.png",
    "topics": [],
    "first_seen": "2026-09-25T09:30:09+00:00",
    "valuation_score": 0,
