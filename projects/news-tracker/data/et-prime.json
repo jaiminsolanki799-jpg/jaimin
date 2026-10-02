@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-02T00:30:44+00:00",
+ "generated_at": "2026-10-02T01:00:12+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 10,
-   "items": 8,
+   "fetched": 9,
+   "items": 7,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 02 Oct 2026 02:04:32 +0530",
+   "sample_date": "Fri, 02 Oct 2026 06:21:01 +0530",
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 02 Oct 2026 05:03:00 +0530",
+   "sample_date": "Fri, 02 Oct 2026 06:00:42 +0530",
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 02 Oct 2026 01:08:45 +0530",
    "error": null,
-   "checked_at": "2026-10-02T00:30:44+00:00"
+   "checked_at": "2026-10-02T01:00:12+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,104 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "b21d88ba43837a20",
+   "title": "Anthropic IPO may come in November | Why its $2 trillion valuation is raising eyebrows",
+   "link": "https://www.livemint.com/companies/news/anthropic-ipo-may-come-in-november-why-its-2-trillion-valuation-is-raising-eyebrows-11790902031997.html",
+   "summary": "Anthropic PBC, the AI company behind Claude, may start marketing its IPO the week of 9 November, aiming for a public debut by year-end. Investors estimate its valuation could reach between $1.8 trillion and $2 trillion, despite the company being unprofitable.",
+   "published": "2026-10-02T00:51:01+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/Anthropic_1790902152348_80kg_1790902152558_nzr3_c6f279a1-a91c-4999-a7d8-68f39857bfa5_eqtU.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-10-02T01:00:12+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "IPO"
+   ]
+  },
+  {
+   "id": "59895e2e4dad3eb4",
+   "title": "JSW beats Tata, Ashok Leyland to corner over 1k electric bus mega govt order",
+   "link": "https://www.livemint.com/companies/news/jsw-motor-electric-bus-tender-pm-e-bus-sewa-11790857845133.html",
+   "summary": "The order gives JSW a sizeable foothold in a market dominated by established bus makers and newer players such as Eka Mobility and PMI Electro Mobility.",
+   "published": "2026-10-02T00:31:02+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/2-0-1261810491-jsw-steel1-0_1679610781489_1790871859970_vXuk_9db020e9-7f2b-433e-b9f0-8a5dc1106032_taeI.jpg",
+   "topics": [],
+   "first_seen": "2026-10-02T01:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "986435de4a37c9ec",
+   "title": "H1 digest: New capex proposals rise, but momentum plunges in September quarter",
+   "link": "https://www.livemint.com/market/h1-digest-new-proposals-rise-in-the-first-half-but-momentum-plunges-in-the-september-quarter-11790847170840.html",
+   "summary": "Headline project announcements jumped 33% in the first half of fiscal year 2027 but a sharp decline during the September quarter exposes an uneven recovery.",
+   "published": "2026-10-02T00:30:42+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/market_1733939870783_1790853348114_2fJO_398cfb4c-f6bf-4d40-b222-4a0dc4893e3d_9Dyg.jpg",
+   "topics": [],
+   "first_seen": "2026-10-02T01:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "65e6b30b8a1982d4",
+   "title": "Brokerages weigh new charges, mandates as UPI MDR set to take effect",
+   "link": "https://www.livemint.com/market/brokerages-weigh-new-charges-mandates-as-upi-mdr-set-to-take-effect-11790841248280.html",
+   "summary": "While the National Payments Corporation of India (NPCI) has said UPI charges should not be passed on to consumers, the framework has left brokerages looking for ways to protect their margins regardless.",
+   "published": "2026-10-02T00:30:42+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/digital_payment_1744967393921_1790859004190_Z3as_eb5497bd-b0ed-4d5b-829a-19b740f42e53_sxyX.jpg",
+   "topics": [],
+   "first_seen": "2026-10-02T01:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ea97e2d8764f5dfd",
+   "title": "Where could PB Fintech share price be in the next five years?",
+   "link": "https://www.livemint.com/market/stock-market-news/where-could-pb-fintech-share-price-be-in-the-next-five-years-11790853370279.html",
+   "summary": "In the last few days, the stock of PB Fintech has crashed after Irdai released a consultation paper proposing changes to insurance distribution economics. Here, we examine the implications and where the stock could be in five years.",
+   "published": "2026-10-02T00:30:42+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/g5c726494707760802f2af17f61ebfba054abd5fd8db031b80_1730867505541_1790854579985_wwG3_3d589f27-77e6-41e9-827b-8042934e1c2a_tjW8.jpg",
+   "topics": [],
+   "first_seen": "2026-10-02T01:00:12+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "43f7f1a931343759",
    "title": "Oil Extends Gains as US Weighs Sending Carrier to Middle East",
@@ -11439,98 +11535,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/Ganesh_Dongre_stock_recommendations_today_1790494226585_aafu_1790494226713_YceF_14ea6ede-c23d-4606-854c-f7417d21ee79_UzYA.png",
    "topics": [],
    "first_seen": "2026-09-27T08:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "af9c702a295edef9",
-   "title": "Gas PSU stock to buy: After 26% returns in 6 months, Emkay Global sees further 16% upside | Target, stop-loss, rationale",
-   "link": "https://www.livemint.com/market/stock-market-news/gas-psu-stock-to-buy-emkay-global-sees-further-16-upside-in-gail-india-share-price-target-stop-loss-rationale-11790492517022.html",
-   "summary": "Gas PSU stock's medium-term outlook is stable, as gas transmission volumes will continue growing structurally, with increasing share of volumes in higher-tariff bid pipelines, the firm said.",
-   "published": "2026-09-27T07:41:42+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/gail_1790494474552_Qtbp_1790494474694_nAlM_e7c13cd5-36c1-4ee9-a0e4-2fe6f2113593_QdNj.png",
-   "topics": [],
-   "first_seen": "2026-09-27T08:00:11+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7120c2e3c22da70a",
-   "title": "Everyone asks who will fund AI. Few ask who pays if it burns",
-   "link": "https://economictimes.indiatimes.com/prime/everyone-asks-who-will-fund-ai-few-ask-who-pays-if-it-burns/primearticleshow/134516282.cms",
-   "summary": "",
-   "published": "2026-09-27T07:30:10+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-27T07:30:10+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1c2b4df37834f0a4",
-   "title": "26% returns in 6 months, SAIL stock final dividend 2026 record date next week; check amount per share, payment date",
-   "link": "https://www.livemint.com/market/stock-market-news/26-returns-in-6-months-sail-stock-final-dividend-2026-record-date-next-week-check-amount-per-share-payment-date-11790488784084.html",
-   "summary": "SAIL is set to mark the sixth consecutive year of dividend payouts to its shareholders.",
-   "published": "2026-09-27T06:49:43+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/sail_1790491435790_U1IU_1790491435939_LXJm_ff737a91-f1fd-4238-b21c-62a1b807cb66_CYjW.png",
-   "topics": [],
-   "first_seen": "2026-09-27T07:00:12+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "518ef2a432429a6b",
-   "title": "EPF withdrawal rules: What happens if you withdraw full amount due to unemployment and later get a new job",
-   "link": "https://www.livemint.com/money/epf-withdrawal-rules-what-happens-if-you-withdraw-full-amount-due-to-unemployment-and-later-get-a-new-job-11790488594580.html",
-   "summary": "Extended unemployment can pressure savings, prompting some to withdraw from their EPF. Members can only withdraw the full corpus after 12 months of unemployment. Here's what happens if you take out the entire amount but later get a new job.",
-   "published": "2026-09-27T06:42:32+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/EPFO_KYC_178887_1790491174987_Z7ec_1790491175252_1x2s_eba34a52-2ad2-4f38-a3a6-e26afc10612f_EGtY.png",
-   "topics": [],
-   "first_seen": "2026-09-27T07:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e784976607d25f61",
-   "title": "Will your insurance premium get cheaper? Here’s what IRDAI’s proposed reforms could change",
-   "link": "https://www.livemint.com/money/personal-finance/will-your-insurance-premium-get-cheaper-here-s-what-irdai-s-proposed-reforms-could-change-11790490478720.html",
-   "summary": "IRDAI’s proposed distribution reforms could reduce insurers’ operating and distribution costs, potentially putting downward pressure on premiums, but they do not guarantee cheaper insurance.&nbsp;",
-   "published": "2026-09-27T06:34:33+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/GeminiGenerated_Image_t2tpuzt2tpuzt2tp_17904907_1790490768492_cLv8_1790490768646_0Swq_b9d57624-fcec-4f6e-bdc7-bfbee341c835_rkFq.png",
-   "topics": [],
-   "first_seen": "2026-09-27T07:00:12+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
