@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-10-01T23:30:10+00:00",
+ "generated_at": "2026-10-02T00:00:10+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 8,
    "sample_date": "Sun, 27 Sep 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 02 Oct 2026 02:04:32 +0530",
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 02 Oct 2026 03:00:42 +0530",
+   "sample_date": "Fri, 02 Oct 2026 05:03:00 +0530",
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 02 Oct 2026 01:08:45 +0530",
    "error": null,
-   "checked_at": "2026-10-01T23:30:10+00:00"
+   "checked_at": "2026-10-02T00:00:10+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "43f7f1a931343759",
+   "title": "Oil Extends Gains as US Weighs Sending Carrier to Middle East",
+   "link": "https://www.livemint.com/market/oil-extends-gains-as-us-weighs-sending-carrier-to-middle-east-11790897581331.html",
+   "summary": "Oil climbed for a third day as the US mulled sending another aircraft carrier group to the Middle East, potentially escalating the war with Iran and threatening to hamper a recovery in energy flows from the region.",
+   "published": "2026-10-01T23:33:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-10-02T00:00:10+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a8c0dda573e21cc1",
    "title": "Swelling Bets Against Treasuries Are Fueling Repo Borrowing Cost",
@@ -2727,7 +2745,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-10-01T01:30:08+00:00",
@@ -7271,7 +7289,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-10-01T07:30:10+00:00",
@@ -8104,7 +8122,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-10-01T14:00:10+00:00",
@@ -10761,7 +10779,7 @@
    "category": "ET Prime",
    "date_known": true,
    "author": null,
-   "publisher": "economictimes.indiatimes.com",
+   "publisher": "The Economic Times",
    "image": null,
    "topics": [],
    "first_seen": "2026-09-28T08:00:10+00:00",
@@ -11513,26 +11531,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/GeminiGenerated_Image_t2tpuzt2tpuzt2tp_17904907_1790490768492_cLv8_1790490768646_0Swq_b9d57624-fcec-4f6e-bdc7-bfbee341c835_rkFq.png",
    "topics": [],
    "first_seen": "2026-09-27T07:00:12+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8febf586efb678ff",
-   "title": "World Tourism Day 2026 Special: How much should you budget for your next international holiday?",
-   "link": "https://www.livemint.com/money/personal-finance/world-tourism-day-2026-how-much-should-you-budget-for-your-next-international-holiday-11790488680352.html",
-   "summary": "Planning an international holiday? A ₹3 lakh budget can cover flights, accommodation, food, visas, insurance, local transport and emergencies for a one-week trip, depending on the destination. Here is how travellers can divide costs and calculate monthly savings.",
-   "published": "2026-09-27T06:20:03+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/27/1600x900/logo/9933275a-246f-4142-bc10-b230dfdb1d8f_1790488901808_dX0V_1790488913577_f3mA_42cf2b08-6c61-4ff1-a210-13b62a500683_N0CY.png",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-09-27T06:30:08+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
