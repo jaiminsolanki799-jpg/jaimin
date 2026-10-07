@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-10-07T11:34:10+00:00",
+ "generated_at": "2026-10-07T12:02:42+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 10,
    "sample_date": "Tue, 06 Oct 2026 04:38:27 GMT",
    "error": null,
-   "checked_at": "2026-10-07T11:34:10+00:00"
+   "checked_at": "2026-10-07T12:02:42+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 07 Oct 2026 10:18:29 GMT",
+   "sample_date": "Wed, 07 Oct 2026 08:15:12 GMT",
    "error": null,
-   "checked_at": "2026-10-07T11:34:10+00:00"
+   "checked_at": "2026-10-07T12:02:42+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 07 Oct 2026 11:11:36 GMT",
    "error": null,
-   "checked_at": "2026-10-07T11:34:10+00:00"
+   "checked_at": "2026-10-07T12:02:42+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 29,
-   "items": 29,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Wed, 07 Oct 2026 04:49:42 GMT",
    "error": null,
-   "checked_at": "2026-10-07T11:34:10+00:00"
+   "checked_at": "2026-10-07T12:02:42+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 07 Oct 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-10-07T11:34:10+00:00"
+   "checked_at": "2026-10-07T12:02:42+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 88,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "1a647bf158bf52ef",
+   "title": "Pizza brand The Dough Therapy raises Rs 5.25 Cr in seed round",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUo2WTA1NUxWQ2JZemh2SHpkNkxBem9SSGE1dGxkRlNIbmNrU3I0czJoaW1YSE9vNG0zZW1QdUlYMF9vNk5zelVrd1NidE5KTFZOb3A0d1pqU1F1TEpBX2IzYkxiZnQ1dmdaZnJyckp2Qjc0TjVER3hpNGdNbDV4eExGTjFhUWV3bEw4akNzVHppZUx4OC1fNHE1TVNXSzB20gGgAUFVX3lxTE9lSjZZMDU1TFZDYll6aHZIemQ2TEF6b1JIYTV0bGRGU0huY2tTcjRzMmhpbVhIT280bTNlbVB1SVgwX282TnN6VWt3U2J0TkpMVk5vcDR3WmpTUXVMSkFfYjNiTGJmdDV2Z1pmcnJySnZCNzRONURHeGk0Z01sNXh4TEZOMWFRZXdsTDhqQ3NUemllTHg4LV80cTVNU1dLMHY?oc=5",
+   "summary": "",
+   "published": "2026-10-07T11:48:41+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-10-07T12:02:42+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "f3b4b8e0f198c6f5",
    "title": "L&T Gets Green Light for Key Part of 1,600 MW Jharkhand Thermal Plant",
@@ -7381,48 +7401,6 @@
    "first_seen": "2026-09-27T13:00:09+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "fa41442042a7946a",
-   "title": "Mobile phone retailers to protest against UPI MDR charges on Oct 2",
-   "link": "https://yourstory.com/2026/09/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-oct-2",
-   "summary": "The mobile retailers' body estimates that 0.4% MDR will impose an unsustainable burden of approximately Rs 40 crore per month and nearly Rs 500 crore per annum on small mobile retailers across India.",
-   "published": "2026-09-27T11:40:44+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-27T12:00:08+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3b1b060fa511a492",
-   "title": "Cars24 expects to be eligible to file DRHP by Apr: CFO",
-   "link": "https://yourstory.com/2026/09/cars24-expects-to-be-eligible-to-file-drhp-by-apr-cfo",
-   "summary": "Cars24's last funding round was in 2022 at a $3.3 billion post-money valuation. CFO said the company has not raised fresh capital since then as it has not required additional funding.",
-   "published": "2026-09-27T11:39:52+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-09-27T12:00:08+00:00",
-   "valuation_score": 8,
-   "valuation_signals": [
-    "IPO",
-    "Valuation",
-    "Funding"
-   ]
   }
  ]
 }
