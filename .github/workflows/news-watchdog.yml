@@ -1,0 +1,50 @@
+name: News tracker watchdog
+
+# Restarts the 30-minute refresh chain (news-tracker.yml) if it has died:
+# a run that never got a runner, a GitHub outage, or an expired token can
+# all end the chain, because each run is started by the previous one.
+#
+# Two ways in:
+#  - schedule: GitHub's cron, in case it works for this repository
+#  - push to the "refresh-trigger" branch: anything that can push to the
+#    repository can nudge the chain (no API token needed)
+# Either way the job only acts when no refresh run is queued or running.
+
+on:
+  schedule:
+    - cron: "12 * * * *"
+  push:
+    branches: [refresh-trigger]
+  workflow_dispatch:
+
+permissions:
+  actions: read
+
+jobs:
+  nudge:
+    name: Restart the refresh chain if it stopped
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check for an active refresh run and start one if there is none
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        run: |
+          if [ -z "${REFRESH_TOKEN}" ]; then
+            echo "::warning::REFRESH_TOKEN secret is not set; cannot start a run."
+            exit 0
+          fi
+          active=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/runs?per_page=20" \
+            --jq '[.workflow_runs[] | select(.status == "queued" or .status == "in_progress" or .status == "waiting")] | length')
+          if [ "${active:-0}" != "0" ]; then
+            echo "Refresh chain is alive ($active active run); nothing to do."
+            exit 0
+          fi
+          echo "No active refresh run; starting the chain."
+          curl -sS -f -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${REFRESH_TOKEN}" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/news-tracker.yml/dispatches" \
+            -d '{"ref":"main"}'
+          echo "Started."
