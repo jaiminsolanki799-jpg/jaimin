@@ -11,6 +11,7 @@ run instructions.
 | [python-playground](projects/python-playground) | Python practice code with a tested calculator module | Python 3.9+ |
 | [web-starter](projects/web-starter) | Static single-page site scaffold | HTML / CSS / JS |
 | [notes](projects/notes) | Reference notes and cheatsheets | Markdown |
+| [chess-openings](projects/chess-openings) | Opening trainer and progress dashboard with move explanations | HTML / CSS / JS (no install) |
 
 ## Work folders
 
@@ -37,6 +38,7 @@ suite via GitHub Actions — see [.github/workflows/ci.yml](.github/workflows/ci
 └── projects/
     ├── python-playground/
     ├── web-starter/
+    ├── chess-openings/
     └── notes/
 ```
 

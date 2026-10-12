@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chess Openings Trainer</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Chess Openings Trainer</h1>
+    <nav>
+      <button id="nav-dashboard" class="nav-btn" type="button">Dashboard</button>
+      <button id="nav-free" class="nav-btn" type="button">Free board</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Dashboard: progress, openings and the piece guide -->
+    <section id="dashboard" class="view">
+      <div id="stats" class="stats"></div>
+
+      <h2>Openings</h2>
+      <p class="muted">Learn shows each book move with its reason. Practice makes you play the book yourself.</p>
+      <div id="cards" class="cards"></div>
+
+      <h2>How each piece moves, and why</h2>
+      <div id="piece-guide" class="cards"></div>
+
+      <h2>Opening principles</h2>
+      <ol id="principles" class="principles"></ol>
+    </section>
+
+    <!-- Study board: used for openings and for free play -->
+    <section id="study" class="view hidden">
+      <button id="back" class="link" type="button">&larr; Back to dashboard</button>
+
+      <div class="study-grid">
+        <div class="board-col">
+          <div id="material" class="material"></div>
+          <div id="board" class="board" role="grid" aria-label="Chess board"></div>
+          <div class="controls">
+            <label>
+              Mode
+              <select id="mode"></select>
+            </label>
+            <button id="next" type="button">Next book move</button>
+            <button id="undo" type="button">Undo</button>
+            <button id="restart" type="button">Restart</button>
+          </div>
+          <p class="hint">Click a piece, then click where it should go. Promotion always chooses a queen.</p>
+        </div>
+
+        <aside class="panel">
+          <h2 id="study-title"></h2>
+          <p id="study-summary" class="muted"></p>
+          <div id="status" class="status" aria-live="polite"></div>
+
+          <h3>What this move does</h3>
+          <div id="explain" class="explain"></div>
+
+          <h3>Moves so far</h3>
+          <ul id="moves" class="moves"></ul>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/chess.js"></script>
+  <script src="js/openings.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
