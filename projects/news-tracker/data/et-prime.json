@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T07:03:36+00:00",
+ "generated_at": "2026-11-06T07:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 5,
+   "fetched": 8,
+   "items": 6,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 12:05:41 +0530",
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 12:15:32 +0530",
+   "sample_date": "Fri, 06 Nov 2026 12:45:56 +0530",
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 11:24:55 +0530",
+   "sample_date": "Fri, 06 Nov 2026 12:34:59 +0530",
    "error": null,
-   "checked_at": "2026-11-06T07:03:36+00:00"
+   "checked_at": "2026-11-06T07:30:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "39f29aa68d697a94",
+   "title": "How US Midterm Election Results, AI sell-off impacted US stock market, Nikkei 225, Kospi, Taiwan and China; data details",
+   "link": "https://www.livemint.com/market/stock-market-news/how-us-midterm-election-results-ai-sell-off-impacted-us-stock-market-nikkei-225-kospi-taiwan-and-china-data-details-11793943446082.html",
+   "summary": "US Midterm Election Results: The sweeping victory of Democratic Party triggered massive sell-off in the AI and Semiconductor stocks in the global markets",
+   "published": "2026-11-06T07:15:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/US_Midterm_Election_Results_US_stock_market_Kospi_1793943851339_NIbB_1793943851484_DpnM_0b7d7abc-161c-4445-947e-e3b5b60d632f_soKh.png",
+   "topics": [],
+   "first_seen": "2026-11-06T07:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dc0524bed03bdb43",
+   "title": "CM Yogi Diwali gift for UP govt employees: 30-day bonus approved; check ₹6908 payout, GPF rules, eligibility criteria",
+   "link": "https://www.livemint.com/money/personal-finance/cm-yogi-diwali-gift-for-up-govt-employees-30-day-bonus-approved-check-6-908-payout-gpf-rules-eligibility-criteria-11793946793190.html",
+   "summary": "Uttar Pradesh has approved a 30-day ad hoc bonus for eligible state government employees for 2025-26. The maximum bonus is ₹6,908, of which 75% will go into GPF or other specified savings accounts, and 25% will be paid in cash.",
+   "published": "2026-11-06T07:04:59+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/iutara_1793948013765_OYGX_1793948025179_SHnu_add61198-1dbd-4148-9ef6-9826c59887bf_Zyjf.png",
+   "topics": [],
+   "first_seen": "2026-11-06T07:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3e0c0d7a8fe3e1a1",
    "title": "Gold paradox: Why India, a refining giant, is not a big bullion exporter",
