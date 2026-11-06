@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-06T09:00:02+00:00",
+ "generated_at": "2026-11-06T09:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 10,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-06T09:00:02+00:00"
+   "checked_at": "2026-11-06T09:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 02:30:00 GMT",
+   "sample_date": "Fri, 06 Nov 2026 02:20:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T09:00:02+00:00"
+   "checked_at": "2026-11-06T09:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 08:54:34 GMT",
    "error": null,
-   "checked_at": "2026-11-06T09:00:02+00:00"
+   "checked_at": "2026-11-06T09:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 28,
    "sample_date": "Thu, 05 Nov 2026 09:44:37 GMT",
    "error": null,
-   "checked_at": "2026-11-06T09:00:02+00:00"
+   "checked_at": "2026-11-06T09:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 06 Nov 2026 07:18:44 +0000",
    "error": null,
-   "checked_at": "2026-11-06T09:00:02+00:00"
+   "checked_at": "2026-11-06T09:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 5,
  "items": [
   {
    "id": "33a0497bb9d507fa",
@@ -144,6 +144,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3a676b862bcd21b2",
+   "title": "Mamaearth parent Honasa profit jumps 87% to Rs 73 Cr in Q2 FY27, revenue grows 36%",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVJmcm5FTUNtZzdJcl9DQ3NQcnJFc2Q4aHkyeUNhRHdmak9wTjlXWmZsY1lfNEI0Q1gxRTEtMnVISXBXRkViWnBfNFFWTjJZT2p2andMRTlNcnJOTkx5ODZOZ2RZUGZtX3RDemVvMkVraWJPYTQ4T1JhclloNTJzMU00bWVJOGV3RzFZR084VTdGcGhrZzZORldGQWlaMGRpcm1hdXRMM0o2RTBwVU5wMWRucWlPSUF5Ukdj0gG7AUFVX3lxTFBZUmZybkVNQ21nN0lyX0NDc1ByckVzZDhoeTJ5Q2FEd2ZqT3BOOVdaZmxjWV80QjRDWDFFMS0ydUhJcFdGRWJacF80UVZOMllPanZqd0xFOU1yck5OTHk4Nk5nZFlQZm1fdEN6ZW8yRWtpYk9hNDhPUmFyWWg1MnMxTTRtZUk4ZXdHMVlHTzhVN0ZwaGtnNk5GV0ZBaVowZGlybWF1dEwzSjZFMHBVTnAxZG5xaU9JQXlSR2M?oc=5",
+   "summary": "",
+   "published": "2026-11-06T08:03:25+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T09:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
