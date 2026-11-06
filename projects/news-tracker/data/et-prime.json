@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T12:00:01+00:00",
+ "generated_at": "2026-11-06T12:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 5,
+   "fetched": 6,
+   "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 16:15:00 +0530",
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 17:05:47 +0530",
+   "sample_date": "Fri, 06 Nov 2026 17:48:46 +0530",
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 17:21:31 +0530",
+   "sample_date": "Fri, 06 Nov 2026 17:40:05 +0530",
    "error": null,
-   "checked_at": "2026-11-06T12:00:01+00:00"
+   "checked_at": "2026-11-06T12:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "eb7bfac850885567",
+   "title": "Muhurat Trading 2026 on Diwali: Trading with Zerodha app, website? Check brokerage waiver, SIP and payout rules",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-on-diwali-trading-with-zerodha-app-website-check-brokerage-waiver-sip-and-payout-rules-11793964964951.html",
+   "summary": "Zerodha will reverse brokerage charges for trades made during the November 8, 2026, Muhurat trading session, covering intraday, F&amp;O, commodity and MTF transactions.&nbsp;",
+   "published": "2026-11-06T12:18:46+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Muhurat_picks_1760533229377_1760533236121_1793966548074_flcC_fa128943-d077-4bf4-af17-63dbb5a4bba0_OLtD.png",
+   "topics": [],
+   "first_seen": "2026-11-06T12:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0a9c96069bb7bee0",
+   "title": "Silver price in Chennai today, Nov 6, 2026: Up or down on Dhanteras? Check latest rate in ‘Gateway to South India'",
+   "link": "https://www.livemint.com/money/silver-price-in-chennai-today-nov-6-2026-up-or-down-on-dhanteras-check-latest-rate-in-gateway-to-south-india-11793963705701.html",
+   "summary": "Silver prices reversed their recent upward trend on Dhanteras. Check how much silver costs in Chennai today.",
+   "published": "2026-11-06T12:10:05+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/pexels-photo-36355530_17936_1793966883955_pHQ3_1793966884338_jSrn_7088ab5e-270d-498a-9339-ce43679241fa_tf7e.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-06T12:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8b2085200ccf92d2",
    "title": "Kia Carnival not delivered to company: Dealer told to refund ₹1.08 lakh, pay ₹1.25 lakh more; what consumer panel said",
