@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-06T15:30:01+00:00",
+ "generated_at": "2026-11-06T16:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 10,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-06T15:30:01+00:00"
+   "checked_at": "2026-11-06T16:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 05 Nov 2026 15:06:44 GMT",
+   "sample_date": "Fri, 06 Nov 2026 02:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T15:30:01+00:00"
+   "checked_at": "2026-11-06T16:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 08:54:34 GMT",
    "error": null,
-   "checked_at": "2026-11-06T15:30:01+00:00"
+   "checked_at": "2026-11-06T16:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Fri, 06 Nov 2026 09:48:12 GMT",
    "error": null,
-   "checked_at": "2026-11-06T15:30:01+00:00"
+   "checked_at": "2026-11-06T16:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 14:10:00 +0000",
+   "sample_date": "Fri, 06 Nov 2026 15:54:47 +0000",
    "error": null,
-   "checked_at": "2026-11-06T15:30:01+00:00"
+   "checked_at": "2026-11-06T16:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "d275be2a1267c8e7",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+   "published": "2026-11-06T15:54:47+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-06T16:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "32ca3ef73210204e",
    "title": "Delhi HC upholds interim protection for BharatPe’s shareholder rights, dismisses Unity Bank’s appeal",
