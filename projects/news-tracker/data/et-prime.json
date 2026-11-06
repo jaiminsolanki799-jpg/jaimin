@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T09:30:02+00:00",
+ "generated_at": "2026-11-06T10:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 14:26:39 +0530",
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 14:53:10 +0530",
+   "sample_date": "Fri, 06 Nov 2026 15:25:18 +0530",
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 14:41:09 +0530",
    "error": null,
-   "checked_at": "2026-11-06T09:30:02+00:00"
+   "checked_at": "2026-11-06T10:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "15115195a3105ce9",
+   "title": "13% single-day gain! This Tata Group stock skyrockets on Dhanteras - Do you own? Check annual return, technical targets",
+   "link": "https://www.livemint.com/market/stock-market-news/13-single-day-gain-this-tata-group-stock-skyrockets-on-dhanteras-do-you-own-check-annual-return-technical-targets-11793958763606.html",
+   "summary": "Tata Teleservices (Maharashtra) shares rose nearly 13% on Friday amid positive market sentiment and trading volumes more than 2.79 times higher. The stock traded at ₹39.89, while analysts identified ₹40–42 as a key resistance zone.",
+   "published": "2026-11-06T09:55:18+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/tatagta_1793958891150_mNtp_1793958891259_VCJv_8ed17b99-2707-4d11-8d0e-643c8a9438cc_oJO3.png",
+   "topics": [],
+   "first_seen": "2026-11-06T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d32cf2222687e87e",
    "title": "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund — 60% returns within 3 years of launch! Should you buy?",
@@ -288,7 +306,7 @@
    "id": "0753fc8eb0b49f5c",
    "title": "US-Iran war: HPCL struggles to secure tankers to transport oil from the Strait of Hormuz | Here's what the chairman said",
    "link": "https://www.livemint.com/companies/news/usiran-war-hpcl-struggles-to-secure-tankers-to-transport-oil-from-the-strait-of-hormuz-heres-what-the-chairman-said-11793954343094.html",
-   "summary": "Hindustan Petroleum Corp. is facing difficulties securing tankers to transport crude oil. Limited vessel availability and last-minute cancellations continue to disrupt shipping arrangements amid rising oil flows from the region.",
+   "summary": "Hindustan Petroleum Corp is facing difficulties securing tankers to transport crude oil. Limited vessel availability and last-minute cancellations continue to disrupt shipping arrangements amid rising oil flows from the region.",
    "published": "2026-11-06T08:56:39+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -296,7 +314,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793956889050_Yupg_1793956896273_6BUy_6630fd35-1f8d-42a1-bb5e-79b7cb5149d5_r9SC.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/HPCL_Iran_War-AI_image_1793955197182_pELX_1793955197292_FAr7_fd925a80-0f9f-4dc4-814c-dc62c28904b4_Ib5b.jpg",
    "topics": [],
    "first_seen": "2026-11-06T09:00:02+00:00",
    "valuation_score": 0,
