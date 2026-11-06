@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T06:53:26+00:00",
+ "generated_at": "2026-11-06T07:03:36+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "items": 5,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 12:05:41 +0530",
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 12:15:32 +0530",
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 11:24:55 +0530",
    "error": null,
-   "checked_at": "2026-11-06T06:53:26+00:00"
+   "checked_at": "2026-11-06T07:03:36+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,138 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 123,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "3e0c0d7a8fe3e1a1",
+   "title": "Gold paradox: Why India, a refining giant, is not a big bullion exporter",
+   "link": "https://economictimes.indiatimes.com/prime/money-and-markets/gold-paradox-why-india-a-refining-giant-is-not-a-big-bullion-exporter/primearticleshow/134572759.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Money & markets",
+   "group": "ET Prime",
+   "category": "Money & markets",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "df324f77d5217584",
+   "title": "Gold rush on Dalal St as regional jewellers bid to be the next Tanishq",
+   "link": "https://economictimes.indiatimes.com/prime/money-and-markets/gold-rush-on-dalal-st-as-regional-jewellers-bid-to-be-the-next-tanishq/primearticleshow/134212884.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Money & markets",
+   "group": "ET Prime",
+   "category": "Money & markets",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5b847997c9248fbc",
+   "title": "How Sebi busted Growpital’s ‘assured’ returns, LLPs and money trail",
+   "link": "https://economictimes.indiatimes.com/prime/corporate-governance/how-sebi-busted-growpitals-assured-returns-llps-and-money-trail/primearticleshow/134676943.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Corporate governance",
+   "group": "ET Prime",
+   "category": "Corporate governance",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
+  {
+   "id": "b1eea10051d9aaa1",
+   "title": "Oil, money, and the shifting global order",
+   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/oil-money-and-the-shifting-global-order/primearticleshow/134596844.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Economy & policy",
+   "group": "ET Prime",
+   "category": "Economy & policy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "056ce3884f3ec284",
+   "title": "Britannia’s next big bet for young India lies beyond biscuits",
+   "link": "https://economictimes.indiatimes.com/prime/consumer/britannias-next-big-bet-for-young-india-lies-beyond-biscuits/primearticleshow/134742938.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Consumer",
+   "group": "ET Prime",
+   "category": "Consumer",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f6e193410a5148fa",
+   "title": "How Irdai’s big reset can change insurance landscape, customer choice",
+   "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-irdais-big-reset-can-change-insurance-landscape-customer-choice/primearticleshow/134544907.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Fintech & BFSI",
+   "group": "ET Prime",
+   "category": "Fintech & BFSI",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ae4fe56752a7096a",
+   "title": "Can Fly91’s flightpath for India’s smallest airline defy the doomy past?",
+   "link": "https://economictimes.indiatimes.com/prime/transportation/can-fly91s-flightpath-for-indias-smallest-airline-defy-the-doomy-past/primearticleshow/134516115.cms",
+   "summary": "",
+   "published": "2026-11-06T07:03:36+00:00",
+   "source": "ET Prime: Transportation",
+   "group": "ET Prime",
+   "category": "Transportation",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T07:03:36+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4c18ef7811ab310b",
    "title": "Junk bonds are cracking at the bottom. Will the noise get loud enough to make ‘junk bond’ a household term again?",
