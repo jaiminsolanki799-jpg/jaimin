@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T15:00:02+00:00",
+ "generated_at": "2026-11-06T15:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
-   "items": 4,
+   "fetched": 4,
+   "items": 3,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 20:04:26 +0530",
+   "sample_date": "Fri, 06 Nov 2026 20:28:22 +0530",
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 19:43:35 +0530",
+   "sample_date": "Fri, 06 Nov 2026 20:36:31 +0530",
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 19:23:05 +0530",
    "error": null,
-   "checked_at": "2026-11-06T15:00:02+00:00"
+   "checked_at": "2026-11-06T15:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "f6e6120ec323eceb",
+   "title": "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&M, ESFB Voltas; upside seen up to 54%",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
+   "summary": "Equirus Prive has unveiled Diwali Picks 2026, a portfolio of 16 stocks across financial services, automobiles, manufacturing, infrastructure, energy and consumption.&nbsp;",
+   "published": "2026-11-06T15:06:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Samvat_1793975275397_GFkB_1793975283250_107o_14ee566e-e1b6-4b39-9805-e442a253c452_46l1.png",
+   "topics": [],
+   "first_seen": "2026-11-06T15:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "437f2f4606e2747c",
+   "title": "IDBI Bank stake sale: ‘Very, very remote’ chance of finding another buyer at ₹52,000 crore, says DIPAM Secretary Chawla",
+   "link": "https://www.livemint.com/companies/news/idbi-bank-stake-sale-very-very-remote-chance-of-finding-another-buyer-at-52-000-crore-says-dipam-secretary-chawla-11793971089575.html",
+   "summary": "After weighing cancellation, accepting the existing offer and seeking revised bids, the Core Group of Secretaries on Disinvestment chose to invite improved offers for IDBI Bank to maximise the transaction value, DIPAM Secretary Arunish Chawla said.",
+   "published": "2026-11-06T14:58:22+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Untitled_Design_1793974042031_C1Qh_1793974045755_iyNg_ed44554c-89b1-4489-817c-e1a3c3fc9a4e_LEFb.png",
+   "topics": [],
+   "first_seen": "2026-11-06T15:30:01+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
   {
    "id": "020c86b36635124c",
    "title": "Honasa Consumer eyes hair colour entry as Q2 net profit jumps 87% to ₹73 crore",
