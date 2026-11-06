@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T16:30:01+00:00",
+ "generated_at": "2026-11-06T17:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
-   "items": 3,
+   "fetched": 5,
+   "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 21:25:36 +0530",
+   "sample_date": "Fri, 06 Nov 2026 22:24:04 +0530",
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 21:37:30 +0530",
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 21:32:40 +0530",
    "error": null,
-   "checked_at": "2026-11-06T16:30:01+00:00"
+   "checked_at": "2026-11-06T17:00:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "5fba1f600bae3e45",
+   "title": "Tata Power commissions 300 MW solar project in Karnataka, to cut 1 lakh tonnes of carbon emissions yearly",
+   "link": "https://www.livemint.com/companies/news/tata-power-commissions-300-mw-solar-project-in-karnataka-to-cut-1-lakh-tonnes-of-carbon-emissions-yearly-11793982901002.html",
+   "summary": "Once operational, the solar project is expected to produce 810 million units (MUs) of renewable electricity annually. It is also estimated to prevent around 103,820 tonnes of carbon emissions every year.",
+   "published": "2026-11-06T16:54:04+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Enel_1734436766858_1793983784819_DYgT_bd32aa73-8cb8-44fb-bfbd-b2356d0fad50_lx6W.jpg",
+   "topics": [],
+   "first_seen": "2026-11-06T17:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4ea3f70e5a2714d3",
    "title": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
