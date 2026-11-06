@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T16:00:01+00:00",
+ "generated_at": "2026-11-06T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
-   "items": 4,
+   "fetched": 4,
+   "items": 3,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 21:25:36 +0530",
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 21:19:53 +0530",
+   "sample_date": "Fri, 06 Nov 2026 21:37:30 +0530",
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 19:23:05 +0530",
+   "sample_date": "Fri, 06 Nov 2026 21:32:40 +0530",
    "error": null,
-   "checked_at": "2026-11-06T16:00:01+00:00"
+   "checked_at": "2026-11-06T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "4ea3f70e5a2714d3",
+   "title": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
+   "link": "https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-7-after-biggest-single-day-crash-in-nearly-2-years-what-led-to-the-sentiment-reversal-11793980720704.html",
+   "summary": "Nvidia shares rebounded 7.3% Friday after plunging 9.3% in the previous session, as investors weighed political risks to data centre expansion. The stock remains 25% below its peak amid concerns about AI investment costs, regulation and whether massive spending will generate sufficient returns.",
+   "published": "2026-11-06T16:07:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/META-NVIDIA-MUSE-0_1793436890569_nbo0_179343691443_1793980802487_od0W_1793980802677_Z6BH_2ceba3ce-18be-4767-8296-d4d136b75f2d_c0Ey.JPG",
+   "topics": [],
+   "first_seen": "2026-11-06T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2c9b964efbcd3a38",
+   "title": "GPF disbursal rules: Who gets a deceased govt employee’s money if there is no nominee? Which family members are excluded",
+   "link": "https://www.livemint.com/money/gpf-disbursal-rules-who-gets-a-deceased-govt-employee-s-money-if-there-is-no-nominee-which-family-members-are-excluded-11793975851846.html",
+   "summary": "Central government employees’ GPF savings are distributed under rules governing nominations and eligible family members. Here's who can claim the funds if no nominee exists.",
+   "published": "2026-11-06T16:02:40+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/513a22ab-9270-4fef-a4ae-9e769a2d0227_1793980910789_xDI7_1793980915759_ngV5_818a7647-7ff6-45f6-8775-520a57d619d1_FxMZ.png",
+   "topics": [],
+   "first_seen": "2026-11-06T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a553aaab7c9e2d39",
    "title": "China blocks SoftBank’s $5.4 billion ABB robotics deal: How Beijing is tightening its grip on strategic technologies",
@@ -1555,7 +1591,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/gold_byigg_1793943857249_cZCh_1793943863914_GKAD_c9cc5788-897d-4a71-8e3d-6b96019597c6_1DJt.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793981182837_KzB4_1793981187497_qOs2_6d1b9662-16a4-4969-8ec8-52a1edb2b5c3_gJx2.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
@@ -1627,7 +1663,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/jewellery_stocks__1793941498784_0J5c_1793941498955_tdU5_ceee583e-55ed-43aa-8d82-64e39f67ebdb_zkgS.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793981188383_imE6_1793981193391_CCiw_f426b300-c8bf-4942-b017-0ce2b7f9f46a_ie0P.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
@@ -1717,7 +1753,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Dhanteras_1793940991059_ZJIh_1793941001560_GZDp_d683635d-dd0b-4e65-b506-0678019bc204_SrLS.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793981194214_gMYT_1793981199167_beRM_d8e8c30f-dbbc-40a4-80c5-45856aba90ae_oand.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
@@ -1735,7 +1771,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/PTI11-05-2026-000365A-0_1793940725131_791m_1793940749674_v4tc_d5ae1349-9fc7-433f-aa72-98743dfc71d1_WkqI.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793981202257_sqzK_1793981206926_LlPp_3eeceb4f-b515-4d9c-b881-cf1a3c8a2046_cbIj.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
