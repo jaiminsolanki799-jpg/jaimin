@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T12:30:01+00:00",
+ "generated_at": "2026-11-06T13:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
-   "items": 4,
+   "fetched": 7,
+   "items": 5,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 16:15:00 +0530",
+   "sample_date": "Fri, 06 Nov 2026 18:13:42 +0530",
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 17:48:46 +0530",
+   "sample_date": "Fri, 06 Nov 2026 18:18:53 +0530",
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 17:40:05 +0530",
+   "sample_date": "Fri, 06 Nov 2026 18:08:03 +0530",
    "error": null,
-   "checked_at": "2026-11-06T12:30:01+00:00"
+   "checked_at": "2026-11-06T13:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "fcd396bede78c054",
+   "title": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day - Muhurat trading date, time | Samvat 2083",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-stock-market-holiday-nse-bse-open-on-sunday-but-closed-this-day-muhurat-trading-date-time-samvat-2083-11793967554645.html",
+   "summary": "NSE and BSE will hold a special Muhurat trading session on Sunday, November 8, 2026, from 2:20 pm to 3:30 pm, with a pre-open session at 2:05 pm. Markets will be closed on November 10 for Diwali-Balipratipada.",
+   "published": "2026-11-06T12:48:53+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Diwali_2026_Stock_Market_Holiday_1793967559649_U1Hc_1793967587794_xytj_d8546ef4-2d4b-438f-ba11-80bfcb724dad_iP31.png",
+   "topics": [],
+   "first_seen": "2026-11-06T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0b88dc4080c13c1d",
+   "title": "Hindalco beats Q2 estimates as strong metal prices offset rising input costs",
+   "link": "https://www.livemint.com/companies/company-results/hindalco-beats-q2-estimates-as-strong-metal-prices-offset-rising-input-costs-11793962947194.html",
+   "summary": "The company reported an almost 59% jump in consolidated net profit to ₹7,532 crore in Q2, but a 39% rise in input costs during the quarter threatens to squeeze near-term margins.",
+   "published": "2026-11-06T12:43:42+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/2-0-446661406-DK658-143314-pih-0_1680852045136_1793968671420_aTEW_0d827778-fc50-429b-81f2-e548c057f4ef_zEvX.jpg",
+   "topics": [],
+   "first_seen": "2026-11-06T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "509e45d98ac0432b",
+   "title": "Bengaluru tenant wins consumer court battle over ₹80,000 security deposit; landlord ordered to pay 9% interest",
+   "link": "https://www.livemint.com/money/personal-finance/bengaluru-tenant-wins-consumer-court-battle-over-80-000-security-deposit-landlord-ordered-to-pay-9-interest-11793965432887.html",
+   "summary": "The consumer court ruled that the landlord could not withhold the security deposit without producing evidence of damage to the property or establishing any outstanding rent, utility bills or other dues",
+   "published": "2026-11-06T12:38:03+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/home2_1793966816763_TJjV_1793966837157_IugG_4696b943-3929-4bc9-8550-b6b946cbd21a_rSIr.jpg",
+   "topics": [],
+   "first_seen": "2026-11-06T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "951ee01d1254ceb3",
+   "title": "Delhi HC issues notice to Red Bull on food regulator's review plea",
+   "link": "https://www.livemint.com/companies/news/delhi-hc-issues-notice-to-red-bull-on-food-regulators-review-plea-11793962608767.html",
+   "summary": "Red Bull's matter has been listed for a hearing in January, along with petitions filed by other beverage companies, including PepsiCo India, Reliance Consumer, and Monster Energy India, challenging FSSAI’s action against the use of energy drink description.",
+   "published": "2026-11-06T12:28:33+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/ANI-20250912068-0_1764667122328_1764667145899_1793967598377_5t7J_e4546c42-93e6-4bb6-9f5f-549b3f01d61f_wr3O.jpg",
+   "topics": [],
+   "first_seen": "2026-11-06T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eb7bfac850885567",
    "title": "Muhurat Trading 2026 on Diwali: Trading with Zerodha app, website? Check brokerage waiver, SIP and payout rules",
