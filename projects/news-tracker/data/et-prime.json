@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T13:00:02+00:00",
+ "generated_at": "2026-11-06T13:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 5,
+   "fetched": 6,
+   "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 18:13:42 +0530",
+   "sample_date": "Fri, 06 Nov 2026 18:51:31 +0530",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 18:18:53 +0530",
+   "sample_date": "Fri, 06 Nov 2026 18:56:06 +0530",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 18:08:03 +0530",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,69 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "4c26f03c216005f6",
+   "title": "Multibagger stock to buy: Motilal Oswal sees 37% upside in Himadri Speciality Chemical; key triggers, target price",
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-to-buy-motilal-oswal-sees-37-upside-in-himadri-speciality-chemical-key-triggers-target-price-11793971080471.html",
+   "summary": "Motilal Oswal maintained its Buy rating on Himadri Speciality Chemical, with a target price of ₹780, implying about 37% upside from Friday’s close. The brokerage cited growth potential in battery materials, specialty carbon products and tyre manufacturing.",
+   "published": "2026-11-06T13:26:06+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Multibagger_Stock_Growth__Time_to_Buy__17939711911_1793971207319_1yxn_1793971207441_GMET_581e7aa7-9411-46f0-967d-6f0786fea9ce_eKL2.png",
+   "topics": [],
+   "first_seen": "2026-11-06T13:30:02+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "d717372ce1e1ab83",
+   "title": "GIC Re’s NSE windfall masks weaker Q2 as flood claims, health push weigh",
+   "link": "https://www.livemint.com/companies/company-results/gic-re-s-nse-windfall-masks-weaker-q2-as-flood-claims-health-push-weigh-11793963292081.html",
+   "summary": "The gain from the offer-for-sale in NSE’s IPO helped lift GIC Re’s investment income by11.8% to ₹4,238.26 crore",
+   "published": "2026-11-06T13:21:31+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/hitesh-josh-new_1793970900076_bOIq_1793970904395_SoiI_0385f128-0b64-4ed6-bfcb-0cd9bc5f14e4_oiTD.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-06T13:30:02+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "PE / VC",
+    "IPO"
+   ]
+  },
+  {
+   "id": "001630b55c33e24e",
+   "title": "Airtel brings back ₹299 plan on churn concerns",
+   "link": "https://www.livemint.com/companies/news/bharti-airtel-299-prepaid-mobile-plan-subscribers-arpu-11793965930251.html",
+   "summary": "The move comes after the telecom operator saw a sharp slowdown in subscriber additions and a higher customer churn in the September quarter, underscoring the challenge of raising tariffs in India's price-sensitive mobile market when rivals stay put.",
+   "published": "2026-11-06T13:03:19+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/airtel_1691067433173_1793969573966_dfbG_ef811dc5-6992-4c43-8356-f01eef8054f5_OKda.JPG",
+   "topics": [],
+   "first_seen": "2026-11-06T13:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fcd396bede78c054",
    "title": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day - Muhurat trading date, time | Samvat 2083",
@@ -206,7 +267,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Diwali_2026_Stock_Market_Holiday_1793967559649_U1Hc_1793967587794_xytj_d8546ef4-2d4b-438f-ba11-80bfcb724dad_iP31.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793971303759_fAb8_1793971308853_sSae_c16c9e69-4e59-4b7f-bfef-d8d9b220a58a_5MSj.jpg",
    "topics": [],
    "first_seen": "2026-11-06T13:00:02+00:00",
    "valuation_score": 0,
@@ -278,7 +339,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Muhurat_picks_1760533229377_1760533236121_1793966548074_flcC_fa128943-d077-4bf4-af17-63dbb5a4bba0_OLtD.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793971318079_8Avh_1793971323538_KI5X_07dd7be2-1b58-4981-a3b5-17a9f91f521e_GhVS.jpg",
    "topics": [],
    "first_seen": "2026-11-06T12:30:01+00:00",
    "valuation_score": 0,
@@ -558,7 +619,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Muhurat_Trading_guide_1793956053252_GtPz_1793956065113_Z3YV_9ef444b4-31ac-4090-b218-a7fc2e8111cc_Jsns.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793971290426_4b5K_1793971295483_eflP_1d0e3f1e-0845-4b7e-8956-ac493cd976cf_LMt6.jpg",
    "topics": [],
    "first_seen": "2026-11-06T09:30:02+00:00",
    "valuation_score": 0,
@@ -740,7 +801,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Diwali_Muhurat_Trading__Full_Schedule_179395025302_1793950265161_q0Re_1793950265271_fUB6_e83f456e-1458-48cc-8d4d-656451438690_FUhp.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793971279641_7hcy_1793971284162_oSLn_a680edac-bf83-4c6c-9050-8bcc8c4e1722_ITyl.jpg",
    "topics": [],
    "first_seen": "2026-11-06T08:00:02+00:00",
    "valuation_score": 0,
@@ -1720,7 +1781,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/2b9125f5-c816-4b96-8c92-83196a9833a2_1793930436727_lipt_1793930445212_yq9T_17d2b68f-37ae-47b6-adff-6aeb5d163ea0_M1zZ.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793971284997_T954_1793971289564_VM5x_8023abeb-c28c-4736-a3e3-4eb8d432f4a6_LF65.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,

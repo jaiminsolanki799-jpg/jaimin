@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-06T13:00:02+00:00",
+ "generated_at": "2026-11-06T13:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 10,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 06:30:00 GMT",
+   "sample_date": "Fri, 06 Nov 2026 02:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 08:54:34 GMT",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 05 Nov 2026 09:44:37 GMT",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 11:50:10 +0000",
+   "sample_date": "Fri, 06 Nov 2026 13:02:16 +0000",
    "error": null,
-   "checked_at": "2026-11-06T13:00:02+00:00"
+   "checked_at": "2026-11-06T13:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "fbf575ba8ccde9fe",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+   "published": "2026-11-06T13:02:16+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T13:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "32e542f7deaa155d",
+   "title": "Mamaearth parent Honasa's Q2 net profit rises 87%",
+   "link": "https://yourstory.com/2026/11/mamaearth-parent-honasa-q2-net-profit-rises-87-pc",
+   "summary": "The company reported a net profit of Rs 73.24 crore in Q2FY27. Revenue rose 36% YoY to Rs 731.18 crore.",
+   "published": "2026-11-06T13:00:12+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T13:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "f3bfec28682f8e7d",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "published": "2026-11-06T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-06T13:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "8a4d90c4aa8b2d5c",
    "title": "Tesla will stop making the Cybertruck in 2027",
