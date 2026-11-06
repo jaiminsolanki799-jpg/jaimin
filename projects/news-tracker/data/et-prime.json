@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T18:30:02+00:00",
+ "generated_at": "2026-11-06T19:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,18 +46,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 23:42:26 +0530",
+   "sample_date": "Sat, 07 Nov 2026 00:16:48 +0530",
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 22:55:16 +0530",
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 23:20:03 +0530",
+   "sample_date": "Sat, 07 Nov 2026 00:03:12 +0530",
    "error": null,
-   "checked_at": "2026-11-06T18:30:02+00:00"
+   "checked_at": "2026-11-06T19:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "41812d7b3c69014a",
+   "title": "Walleye to Return $2 Billion to Clients in Stocks Trading Reset",
+   "link": "https://www.livemint.com/companies/walleye-to-return-2-billion-to-clients-in-stocks-trading-reset-11793990809278.html",
+   "summary": "Walleye Capital plans to return about $2 billion to clients following its decision to cut back on equities trading.",
+   "published": "2026-11-06T18:46:48+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "topics": [],
+   "first_seen": "2026-11-06T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1c734b9d645f9c0e",
+   "title": "Angan Guha returns to Wipro as President and CEO for US units: Who is he? Why he re-joined the company?",
+   "link": "https://www.livemint.com/companies/people/angan-guha-returns-to-wipro-as-president-and-ceo-for-us-units-who-is-he-why-he-re-joined-the-company-11793988793419.html",
+   "summary": "Angan Guha is the former Birlasoft CEO. In Wipro, Guha will report to Srini Pallia, Chief Executive Officer and Managing Director.",
+   "published": "2026-11-06T18:37:33+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/217050_1793990199664_p5mM_1793990208899_i3zZ_967c823f-bc67-4f83-a84c-65940fb40a76_s2j0.jpg",
+   "topics": [],
+   "first_seen": "2026-11-06T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "937047fb77bb823a",
+   "title": "Investors lose ₹100 cr in Stockal Securities scam; how to file a complain and can you recover the money?",
+   "link": "https://www.livemint.com/money/investors-lose-100-cr-in-stockal-securities-scam-how-to-file-a-complain-and-can-you-recover-the-money-11793988016170.html",
+   "summary": "Nearly 30 Indian investors reportedly lost more than ₹100 crore after their Stockal Securities accounts were allegedly accessed without authorization. How to file a complain.&nbsp;",
+   "published": "2026-11-06T18:33:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/mohamed_hassan-fraud_1793989764202_tRVq_1793989764579_UcKm_1267eeb4-e9d6-4f77-a25f-a1b1090c129d_TuJV.jpg",
+   "topics": [],
+   "first_seen": "2026-11-06T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f23e09d418273830",
+   "title": "Deepinder Goyal's Temple gets thumbs-up from Unacademy co-founder Gaurav Munjal: ‘True potential’",
+   "link": "https://www.livemint.com/companies/news/deepinder-goyals-temple-gets-thumbs-up-from-unacademy-co-founder-gaurav-munjal-true-potential-11793987454722.html",
+   "summary": "Unacademy co-founder Gaurav Munjal praised Temple, Deepinder Goyal’s wearable, for its lightweight design, sleep tracking and food monitoring, saying it could become a global product made in India. He said its app’s user experience needed improvement.&nbsp;",
+   "published": "2026-11-06T18:30:30+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Untitled_Design_1793988126574_o7Z7_1793988130123_9Up7_a953d568-9d42-430d-ac9f-157f6b94c224_x94s.png",
+   "topics": [],
+   "first_seen": "2026-11-06T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "35e232b11f5cdfec",
    "title": "Amid Ramayana release, PVR INOX launches Sattvik menu: No onion, no garlic kuttu tacos, khichdi and more",
