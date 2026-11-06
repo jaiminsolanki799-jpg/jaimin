@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T08:00:02+00:00",
+ "generated_at": "2026-11-06T08:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
-   "items": 6,
+   "fetched": 7,
+   "items": 5,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 13:13:48 +0530",
+   "sample_date": "Fri, 06 Nov 2026 13:50:06 +0530",
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 13:23:47 +0530",
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 13:05:17 +0530",
+   "sample_date": "Fri, 06 Nov 2026 13:33:44 +0530",
    "error": null,
-   "checked_at": "2026-11-06T08:00:02+00:00"
+   "checked_at": "2026-11-06T08:30:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "db407c29cad9653a",
+   "title": "Nvidia CEO Jensen Huang loses $15 billion as AI-linked stock sell-off knocks him down to 13th on billionaire list",
+   "link": "https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-loses-15-billion-as-ai-linked-stock-sell-off-knocks-him-down-to-13th-on-billionaire-list-11793952730913.html",
+   "summary": "Nvidia CEO Jensen Huang lost $15.1 billion as AI-linked stocks tumbled after Democrats’ midterm victories. The sell-off dragged down major technology shares, wiping out $2.5 trillion from the US stock market on Thursday.",
+   "published": "2026-11-06T08:20:06+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Huang_Nvidia_1793953147771_AwmT_1793953152683_gBfD_4a616b4c-6a25-4776-8148-bd733dfe8804_Lpzw.png",
+   "topics": [],
+   "first_seen": "2026-11-06T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a25e88b69b13cb5a",
+   "title": "Dhanteras, Diwali 2026 shopping tips: Buying gold and silver jewellery? 3 hallmark checks and how to use BIS Care app",
+   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-tips-buying-gold-and-silver-jewellery-3-hallmark-checks-and-how-to-use-bis-care-app-11793948934186.html",
+   "summary": "Sitting in a jewellery store today to buy gold or silver on Dhanteras? Don't make the purchase without checking these three important hallmark signs. Know how to verify the HUID number, check the jewellery's purity, and use the BIS Care app to authenticate hallmarked articles before paying.",
+   "published": "2026-11-06T08:03:44+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/hallmabi_1793951351897_ZCGx_1793951362095_86mk_54bdbdc0-02fd-47ca-b3a6-f618dad3a6f9_0O5W.png",
+   "topics": [],
+   "first_seen": "2026-11-06T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "554375c6e497e313",
    "title": "Titan shines 3% on Dhanteras 2026 after 2x profit; Noel Tata's exit news from board adds to spotlight - Outlook, target",
