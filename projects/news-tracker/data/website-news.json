@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-06T22:30:02+00:00",
+ "generated_at": "2026-11-06T23:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 10,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-06T22:30:02+00:00"
+   "checked_at": "2026-11-06T23:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
+   "sample_date": "Fri, 06 Nov 2026 02:20:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T22:30:02+00:00"
+   "checked_at": "2026-11-06T23:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 12:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T22:30:02+00:00"
+   "checked_at": "2026-11-06T23:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 05 Nov 2026 06:15:23 GMT",
    "error": null,
-   "checked_at": "2026-11-06T22:30:02+00:00"
+   "checked_at": "2026-11-06T23:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 21:38:05 +0000",
+   "sample_date": "Fri, 06 Nov 2026 22:53:46 +0000",
    "error": null,
-   "checked_at": "2026-11-06T22:30:02+00:00"
+   "checked_at": "2026-11-06T23:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "314bd089789a0995",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "published": "2026-11-06T22:53:46+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-06T23:00:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
   {
    "id": "0a6b13bcccd8e660",
    "title": "The Duo apps are coming, says Apple",
