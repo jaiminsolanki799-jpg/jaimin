@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-06T11:00:01+00:00",
+ "generated_at": "2026-11-06T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 5,
+   "fetched": 6,
+   "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 16:15:00 +0530",
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 06 Nov 2026 16:04:44 +0530",
+   "sample_date": "Fri, 06 Nov 2026 16:51:54 +0530",
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 06 Nov 2026 16:23:06 +0530",
    "error": null,
-   "checked_at": "2026-11-06T11:00:01+00:00"
+   "checked_at": "2026-11-06T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "2d2b65d0705ce24c",
+   "title": "Silver ETF Dhanteras 2026: Nippon India Silver ETF SILVERBEES — 145% returns in 3 years! Should you buy? Experts' views",
+   "link": "https://www.livemint.com/market/stock-market-news/silver-etf-dhanteras-2026-nippon-india-silver-etf-silverbees-145-returns-in-3-years-should-you-buy-experts-views-11793960706827.html",
+   "summary": "Nippon India Silver ETF SILVERBEES' returns in the last three years has remained at par with the category returns",
+   "published": "2026-11-06T11:21:54+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Nippon_India_Silver_ETF_Surge_Dhanteras_2026_1793961542671_oYsP_1793961542828_JrxK_19715d63-5437-40ac-a73e-79ce8e880f04_0Aye.png",
+   "topics": [],
+   "first_seen": "2026-11-06T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2d0002aecb4fe605",
+   "title": "Lighting up your Diwali! Cupid, HFCL, Sterlite Tech, MTAR: 10 multibagger stocks that soared over 150% in Samvat 2082",
+   "link": "https://www.livemint.com/market/stock-market-news/lighting-up-your-diwali-cupid-hfcl-sterlite-tech-mtar-10-multibagger-stocks-that-soared-over-150-in-samvat-2082-11793956981821.html",
+   "summary": "Indian equities fell during Samvat 2082 amid foreign outflows, geopolitical tensions and higher crude prices, but 16 Nifty 500 stocks gained more than 100%. Cupid and Sterlite Technologies led with returns of 570% and 556%.&nbsp;",
+   "published": "2026-11-06T11:09:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Samvat_2082__10_Multibagger_Stocks_1793961826243_Gni8_1793961833860_VJ2v_bd20cc79-8884-40c4-aa36-9754e5f1df85_RCCM.png",
+   "topics": [],
+   "first_seen": "2026-11-06T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2fdf45e75923edb9",
    "title": "I-T dept flags gaps in foreign investors' tax identification numbers, seeks changes in account-opening rules",
@@ -1422,7 +1458,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Anthropic_1793932039302_6k0a_1793932039462_EEN4_a133f4e4-55d1-48e0-bb99-ed547b58cd40_GacX.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793963183307_YUmL_1793963203740_ohkU_48737b95-cc35-427f-a92e-571bdd89f625_6GIF.jpg",
    "topics": [
     "SEBI / markets regulation",
     "Valuation / M&A"
@@ -1956,7 +1992,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793963204618_xJKM_1793963211558_oAPq_67227cff-6d5c-4a8f-a5d9-1b158604b313_wpH3.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
