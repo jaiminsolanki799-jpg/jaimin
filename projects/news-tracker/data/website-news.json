@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T09:30:01+00:00",
+ "generated_at": "2026-11-07T10:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 9,
+   "items": 9,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:30:01+00:00"
+   "checked_at": "2026-11-07T10:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 02:20:00 GMT",
+   "sample_date": "Thu, 05 Nov 2026 15:06:44 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:30:01+00:00"
+   "checked_at": "2026-11-07T10:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Sat, 07 Nov 2026 09:19:32 GMT",
+   "sample_date": "Sat, 07 Nov 2026 09:23:17 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:30:01+00:00"
+   "checked_at": "2026-11-07T10:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 17,
-   "items": 17,
+   "fetched": 14,
+   "items": 14,
    "sample_date": "Fri, 06 Nov 2026 05:17:17 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:30:01+00:00"
+   "checked_at": "2026-11-07T10:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sat, 07 Nov 2026 05:01:54 +0000",
    "error": null,
-   "checked_at": "2026-11-07T09:30:01+00:00"
+   "checked_at": "2026-11-07T10:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "f99ff45035cc53d6",
+   "title": "Nalwa Aero Wins ‘best Research Paper’ Award, 2026 At National Aerospace Engineering Convention For Its Groundbreaking Box-wing Aircraft Research",
+   "link": "https://startuptalky.com/news/nalwa-aero-wins-best-research-paper-award-2026/",
+   "summary": "Punjab-based aerospace startup receives recognition from the century-old Institution of Engineers (India), strengthening its mission to develop indigenous next-generation electric aircraft for civil and defence applications.",
+   "published": "2026-11-07T09:23:17+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/nalwa-aero-best-paper-award-2026.webp",
+   "topics": [],
+   "first_seen": "2026-11-07T10:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f097aac8842d4206",
    "title": "“Every Key Is a Thank You”: Jodhpur-Based Mediagarh Gifts Four Cars for Diwali",
