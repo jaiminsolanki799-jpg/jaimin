@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T05:30:01+00:00",
+ "generated_at": "2026-11-07T06:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
-   "items": 3,
+   "fetched": 5,
+   "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 10:27:58 +0530",
+   "sample_date": "Sat, 07 Nov 2026 11:27:38 +0530",
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 10:57:35 +0530",
+   "sample_date": "Sat, 07 Nov 2026 11:14:22 +0530",
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 10:49:38 +0530",
    "error": null,
-   "checked_at": "2026-11-07T05:30:01+00:00"
+   "checked_at": "2026-11-07T06:00:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,62 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "ef6e766fa5d06e69",
+   "title": "Voltas gets a new Chairman: Who is Sunil D'Souza, his career and education, and why is Noel Tata stepping down?",
+   "link": "https://www.livemint.com/companies/people/voltas-gets-a-new-chairman-who-is-sunil-dsouza-his-career-and-education-and-why-is-noel-tata-stepping-down-11794030619663.html",
+   "summary": "Voltas has appointed Tata Consumer Products CEO Sunil D'Souza as Chairman from November 12, replacing Noel Tata, who retires at 70 under Tata Group governance guidelines. D'Souza brings over 30 years of experience across HUL, PepsiCo and Whirlpool.",
+   "published": "2026-11-07T05:57:38+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Noel_Sunil_1794030907122_L8dp_1794030913169_mlAO_f5c7cf65-ed03-4265-bcc8-3532d1985ad6_hCPy.png",
+   "topics": [],
+   "first_seen": "2026-11-07T06:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fabd20df72eb93ac",
+   "title": "Kirloskar-backed NBFC Arka gets ₹525 cr initial commitment from TPG’s Rise Funds",
+   "link": "https://www.livemint.com/companies/news/nbfc-india-arka-fincap-tpg-rise-funds-kirloskar-11794028463025.html",
+   "summary": "The investment could increase by another ₹275 crore, subject to Arka meeting specified business milestones and obtaining regulatory approvals.",
+   "published": "2026-11-07T05:54:31+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/pexels-photo-33813215_1794030497875_i5Be_1794030508937_94Xz_d974f201-cc45-4fb4-90a2-75f512b889b0_gFZc.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-07T06:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "62b844d5599316c3",
+   "title": "Hindalco shares jump 22% in a year: Should you buy or sell after Q2 results 2026? What brokerages say, price targets",
+   "link": "https://www.livemint.com/market/stock-market-news/hindalco-shares-jump-22-in-a-year-should-you-buy-or-sell-after-q2-results-2026-what-brokerages-say-price-targets-11794025738874.html",
+   "summary": "Hindalco reported a 58.8% year-on-year rise in Sept-quarter FY27 net profit to ₹7,533 cr, while EBITDA climbed 42% to ₹13,757 crore. Shares closed 1.88% higher. The company expects coal-related cost pressures to ease in Q4, and said non-LME-linked businesses contributed nearly half of earnings.",
+   "published": "2026-11-07T05:44:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Hindalco_Shares_Surge_22_1794029297473_MlLj_1794029306447_tQGd_5bc8ff61-905a-4bad-a1d2-24ba3863c39b_ErvR.png",
+   "topics": [],
+   "first_seen": "2026-11-07T06:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
   {
    "id": "ce04f8a207ffeb7a",
    "title": "Muhurat Trading Strategy Diwali Day 2026: What to do, what to buy, what to avoid? Trading guide for Nov 8 - Key levels",
