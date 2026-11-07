@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T03:00:01+00:00",
+ "generated_at": "2026-11-07T03:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 07:39:53 +0530",
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 07:01:05 +0530",
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 07:59:02 +0530",
+   "sample_date": "Sat, 07 Nov 2026 08:54:31 +0530",
    "error": null,
-   "checked_at": "2026-11-07T03:00:01+00:00"
+   "checked_at": "2026-11-07T03:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "7d7463d706cd45d4",
+   "title": "DA hike: Karnataka increases dearness allowance by 2.5%, and Arunachal Pradesh by 3% ahead of Diwali — Check details",
+   "link": "https://www.livemint.com/money/da-hike-state-govt-karnataka-increases-dearness-allowance-by-2-5-pc-arunachal-pradesh-3-pc-ahead-diwali-punjab-full-list-11794015856147.html",
+   "summary": "DA hike news: The Karnataka govt raised dearness allowance and dearness relief for state employees and pensioners by 2.5% to 18%, effective July 1, 2026. Arunachal Pradesh also approved a 3% increase, to 63%.",
+   "published": "2026-11-07T03:24:31+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794021439844_qKxp_1794021439964_pMSF_e67a18ea-3d64-481d-93d0-9723ede0699b_nUwI.png",
+   "topics": [],
+   "first_seen": "2026-11-07T03:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1bdb8e01f521517f",
+   "title": "Not all fund managers follow the crowd: Here's a list of stocks that are present in only one mutual fund scheme",
+   "link": "https://www.livemint.com/money/personal-finance/not-all-fund-managers-follow-the-crowd-heres-a-list-of-stocks-that-are-present-in-only-one-mutual-fund-scheme-11794016988754.html",
+   "summary": "While popular stocks feature across hundreds of mutual fund schemes, some stocks find a place in just one scheme's portfolio. Here is the list of 13 such uncommon picks, the schemes holding them, and what these fund managers' distinct stock-selection approaches mean for investors.",
+   "published": "2026-11-07T03:17:41+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/stocjs_rare_1794020668358_hXev_1794020689120_Prdq_6a010927-ef25-4436-9c06-d400d64c70ca_NDno.png",
+   "topics": [],
+   "first_seen": "2026-11-07T03:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7bd595b34b5614a7",
    "title": "8th Pay Commission: Railway employees seek higher salaries, better promotions and 4 other key benefits",
