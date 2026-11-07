@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T09:00:01+00:00",
+ "generated_at": "2026-11-07T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:00:01+00:00"
+   "checked_at": "2026-11-07T09:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 05 Nov 2026 15:06:44 GMT",
+   "sample_date": "Fri, 06 Nov 2026 02:20:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:00:01+00:00"
+   "checked_at": "2026-11-07T09:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 06 Nov 2026 12:30:00 GMT",
+   "sample_date": "Sat, 07 Nov 2026 09:19:32 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:00:01+00:00"
+   "checked_at": "2026-11-07T09:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 17,
    "items": 17,
-   "sample_date": "Fri, 06 Nov 2026 07:54:39 GMT",
+   "sample_date": "Fri, 06 Nov 2026 05:17:17 GMT",
    "error": null,
-   "checked_at": "2026-11-07T09:00:01+00:00"
+   "checked_at": "2026-11-07T09:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sat, 07 Nov 2026 05:01:54 +0000",
    "error": null,
-   "checked_at": "2026-11-07T09:00:01+00:00"
+   "checked_at": "2026-11-07T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "f097aac8842d4206",
+   "title": "“Every Key Is a Thank You”: Jodhpur-Based Mediagarh Gifts Four Cars for Diwali",
+   "link": "https://startuptalky.com/news/every-key-is-a-thank-you-jodhpur-based-mediagarh-gifts-four-cars-for-diwali/",
+   "summary": "“Sneh Milan is our way of saying thank you to the people behind Mediagarh,” said Pankaj Budhwani, Founder of the Jodhpur-based education marketing agency, as four employees received the keys to new cars at the company’s annual Diwali celebration on Dhanteras. Sneh Milan 3.",
+   "published": "2026-11-07T09:19:32+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/---Every-Key-Is-a-Thank-You---_-Jodhpur-Based-Mediagarh-Gifts-Four-Cars-for-Diwali.jpg",
+   "topics": [],
+   "first_seen": "2026-11-07T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "230373b372df6dca",
    "title": "Funding and acquisitions in Indian startups this week [Nov 02- Nov 07]",
