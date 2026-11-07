@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T17:00:01+00:00",
+ "generated_at": "2026-11-07T17:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "ok": true,
+   "fetched": 2,
+   "items": 2,
+   "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 21:27:46 +0530",
+   "sample_date": "Sat, 07 Nov 2026 22:45:13 +0530",
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 20:23:10 +0530",
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 22:01:26 +0530",
+   "sample_date": "Sat, 07 Nov 2026 22:46:10 +0530",
    "error": null,
-   "checked_at": "2026-11-07T17:00:01+00:00"
+   "checked_at": "2026-11-07T17:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,70 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "7ae8e9c4b4f1a0d6",
+   "title": "Sold property but received money in instalments? ITAT explains when you must pay income tax on capital gains",
+   "link": "https://www.livemint.com/money/personal-finance/sold-property-but-received-money-in-instalments-itat-explains-when-you-must-pay-income-tax-on-capital-gains-11794065759266.html",
+   "summary": "ITAT Surat deleted a ₹2.45 crore capital gains addition after a landowner showed that he received only ₹25 lakh in the relevant year, despite ₹2.86 crore appearing in Form 26AS. The tribunal considered subsequent tax returns and co-owners' cases.",
+   "published": "2026-11-07T17:16:10+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Gemini_Generted_Image_yjkc9vyjkc9vyjkc_179406587_1794065886566_psGH_1794065886768_Q8vC_856b55a4-f87b-4005-a1b8-3e95e9b04f21_Gb7b.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-07T17:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e37d09e16fa8e618",
+   "title": "Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions",
+   "link": "https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html",
+   "summary": "The acquisition was expected to strengthen SoftBank’s revenue and profitability as the Japanese investment firm continues to expand its AI portfolio and awaits a potential financial boost from OpenAI’s anticipated public listing",
+   "published": "2026-11-07T17:15:13+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/abb1_1794062157182_LVgx_1794062198266_qedJ_10474dc4-0893-495b-9efc-15cdfb6dcecc_3gt8.jpg",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-07T17:30:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "M&A",
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "8604fd8576ad381e",
+   "title": "Reliance’s Independence Power Up biscuits get a motorsport makeover with Ajith Kumar Racing",
+   "link": "https://www.livemint.com/companies/reliances-independence-power-up-biscuits-get-a-motorsport-makeover-with-ajith-kumar-racing-11794069428432.html",
+   "summary": "Reliance Consumer Products Ltd (RCPL) to roll out an expanded range of Independence biscuit which will be availble in nine variants. Trial packs will be rolled out across Tamil Nadu at ₹5.",
+   "published": "2026-11-07T17:13:57+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/217055_1794071574659_mHkj_1794071578408_bvEb_cdb347d2-5a8c-4bb3-acc6-1ce60aff81ad_rlts.jpg",
+   "topics": [],
+   "first_seen": "2026-11-07T17:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2e8c3869214e0dd2",
    "title": "Exchanging old gold for new jewellery this Diwali? 6 things to check before accepting your jeweller’s valuation | Guide",
