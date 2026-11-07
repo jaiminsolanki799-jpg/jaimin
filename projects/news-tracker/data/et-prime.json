@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T03:30:02+00:00",
+ "generated_at": "2026-11-07T04:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 07:39:53 +0530",
+   "sample_date": "Sat, 07 Nov 2026 09:11:28 +0530",
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 07:01:05 +0530",
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 08:54:31 +0530",
+   "sample_date": "Sat, 07 Nov 2026 09:13:58 +0530",
    "error": null,
-   "checked_at": "2026-11-07T03:30:02+00:00"
+   "checked_at": "2026-11-07T04:00:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,47 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "008f89227c0b1b5d",
+   "title": "CR7: 7 personal finance lessons from Portugal’s iconic No. 7 as Cristiano Ronaldo retires from international football",
+   "link": "https://www.livemint.com/money/personal-finance/cr7-7-personal-finance-lessons-from-portugal-s-iconic-no-7-as-cristiano-ronaldo-retires-from-international-football-11793989746855.html",
+   "summary": "Cristiano Ronaldo has retired from international football after a record-breaking 23-year career. Discover seven personal finance lessons from CR7 on SIPs, budgeting, diversification, financial discipline, wealth creation and long-term investing.",
+   "published": "2026-11-07T03:43:58+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/ronaldo_1793990113949_A1Rf_1793990114101_Tg3z_2d1d2a6e-6f79-4e4a-896c-ac307962e11e_loVl.jpg",
+   "topics": [],
+   "first_seen": "2026-11-07T04:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "65052f42906c7e3e",
+   "title": "OpenAI raises $11 billion at $1.25 trillion valuation amid concerns over AI spending and regulation",
+   "link": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html",
+   "summary": "OpenAI has secured $11 billion in the first tranche of a funding round valuing it at $1.25 trillion, with the total potentially reaching $20 billion. The fundraising comes amid a tech sell-off and growing investor concerns over AI spending and regulation.",
+   "published": "2026-11-07T03:41:28+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Open_AI_1794022853313_buva_1794022859055_5Sud_a948f0c4-dc53-4f12-bdcb-31eb1b138a93_1kjU.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-07T04:00:01+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
   {
    "id": "7d7463d706cd45d4",
    "title": "DA hike: Karnataka increases dearness allowance by 2.5%, and Arunachal Pradesh by 3% ahead of Diwali — Check details",
