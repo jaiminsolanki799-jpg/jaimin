@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T02:30:01+00:00",
+ "generated_at": "2026-11-07T03:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
-   "items": 3,
+   "fetched": 5,
+   "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 07:39:53 +0530",
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 07:01:05 +0530",
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 07:22:18 +0530",
+   "sample_date": "Sat, 07 Nov 2026 07:59:02 +0530",
    "error": null,
-   "checked_at": "2026-11-07T02:30:01+00:00"
+   "checked_at": "2026-11-07T03:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "7bd595b34b5614a7",
+   "title": "8th Pay Commission: Railway employees seek higher salaries, better promotions and 4 other key benefits",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-railway-employees-seek-higher-salaries-better-promotions-and-4-other-key-benefits-11794017186038.html",
+   "summary": "AIRF has submitted six key demands to the 8th Pay Commission, seeking higher railway employee salaries, better promotions, risk allowances, track maintainer parity and improved service benefits. Here's what railway staff want from the new pay panel.",
+   "published": "2026-11-07T02:29:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/8th_pay_1794017661569_WA9F_1794017661668_n2pb_7941dc95-9bb7-429c-b37e-e50093cba19b_s0uh.png",
+   "topics": [],
+   "first_seen": "2026-11-07T03:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4edf0d46f188b4ef",
    "title": "From 250,000-unit ambitions to a production wind-down: What went wrong with Elon Musk's Cybertruck?",
