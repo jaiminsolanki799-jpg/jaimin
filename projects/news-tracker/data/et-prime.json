@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T11:00:02+00:00",
+ "generated_at": "2026-11-07T11:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
-   "items": 3,
+   "fetched": 2,
+   "items": 2,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 16:19:38 +0530",
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 16:05:22 +0530",
+   "sample_date": "Sat, 07 Nov 2026 16:48:52 +0530",
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 16:12:13 +0530",
+   "sample_date": "Sat, 07 Nov 2026 16:38:00 +0530",
    "error": null,
-   "checked_at": "2026-11-07T11:00:02+00:00"
+   "checked_at": "2026-11-07T11:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "03484b0caa68eeb2",
+   "title": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?",
+   "link": "https://www.livemint.com/market/stock-market-news/from-diwali-2025-to-diwali-2026-how-sensex-nifty-50-rupee-crude-oil-changed-in-samvat-2082-what-lies-ahead-11794043761591.html",
+   "summary": "After a sharp seven-session rally, technical analysts said Indian equities have a bullish near-term outlook, with key resistance and support levels guiding the next move. They cautioned that elevated momentum and recent gains could prompt profit-taking.",
+   "published": "2026-11-07T11:18:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_Markets_Samvat_2082_Outlook_1794050057726_fAJ0_1794050060833_vEQ9_3e69b76b-976d-4e6a-9372-cbc4efd75048_kMQa.png",
+   "topics": [],
+   "first_seen": "2026-11-07T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b4ce8b67b2a66a80",
+   "title": "ITAT Surat ruling: Retired employee wins leave encashment tax dispute over ₹8.02 lakh exemption claim",
+   "link": "https://www.livemint.com/money/personal-finance/itat-surat-ruling-retired-employee-wins-leave-encashment-tax-dispute-over-rs-8-02-lakh-exemption-claim-11794046534072.html",
+   "summary": "The ruling highlights the importance of following due process before the tax authorities modify an already processed income tax return",
+   "published": "2026-11-07T11:08:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/pexels-photo-6289059_1780992571628_1780992582324_d6bc9f68-fc4d-4fb1-9dfe-a76319ac88bf_1794047837788_bxLg_4469ac30-6cf1-4caf-abd7-6087b7b54c74_F4kA.jpeg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-07T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a1fe0f1209915e13",
    "title": "Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside",
