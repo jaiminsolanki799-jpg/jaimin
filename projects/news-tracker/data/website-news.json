@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T19:00:01+00:00",
+ "generated_at": "2026-11-07T19:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 9,
+   "items": 9,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T19:00:01+00:00"
+   "checked_at": "2026-11-07T19:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 07:41:01 GMT",
+   "sample_date": "Fri, 06 Nov 2026 06:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T19:00:01+00:00"
+   "checked_at": "2026-11-07T19:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 07 Nov 2026 09:23:17 GMT",
    "error": null,
-   "checked_at": "2026-11-07T19:00:01+00:00"
+   "checked_at": "2026-11-07T19:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 10,
    "sample_date": "Fri, 06 Nov 2026 08:03:25 GMT",
    "error": null,
-   "checked_at": "2026-11-07T19:00:01+00:00"
+   "checked_at": "2026-11-07T19:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 07 Nov 2026 17:24:07 +0000",
+   "sample_date": "Sat, 07 Nov 2026 19:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-07T19:00:01+00:00"
+   "checked_at": "2026-11-07T19:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "6653c5fed6fb0bfb",
+   "title": "Parents want safer phones for kids. These companies are answering the call.",
+   "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+   "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+   "published": "2026-11-07T19:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lauren Forristal",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-07T19:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "805dafe9e9847598",
    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
