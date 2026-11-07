@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T01:00:02+00:00",
+ "generated_at": "2026-11-07T01:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 9,
+   "items": 9,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T01:00:02+00:00"
+   "checked_at": "2026-11-07T01:30:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 07:41:01 GMT",
+   "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
    "error": null,
-   "checked_at": "2026-11-07T01:00:02+00:00"
+   "checked_at": "2026-11-07T01:30:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 12:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T01:00:02+00:00"
+   "checked_at": "2026-11-07T01:30:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 05 Nov 2026 06:15:23 GMT",
    "error": null,
-   "checked_at": "2026-11-07T01:00:02+00:00"
+   "checked_at": "2026-11-07T01:30:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 06 Nov 2026 22:53:46 +0000",
    "error": null,
-   "checked_at": "2026-11-07T01:00:02+00:00"
+   "checked_at": "2026-11-07T01:30:03+00:00"
   }
  ],
  "topics": [
