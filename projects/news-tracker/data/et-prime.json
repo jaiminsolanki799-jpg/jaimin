@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T10:30:01+00:00",
+ "generated_at": "2026-11-07T11:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 2,
-   "items": 2,
+   "fetched": 3,
+   "items": 3,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 14:43:38 +0530",
+   "sample_date": "Sat, 07 Nov 2026 16:19:38 +0530",
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 15:49:45 +0530",
+   "sample_date": "Sat, 07 Nov 2026 16:05:22 +0530",
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 15:10:19 +0530",
+   "sample_date": "Sat, 07 Nov 2026 16:12:13 +0530",
    "error": null,
-   "checked_at": "2026-11-07T10:30:01+00:00"
+   "checked_at": "2026-11-07T11:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "a1fe0f1209915e13",
+   "title": "Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside",
+   "link": "https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html",
+   "summary": "More than 100 activists occupied Microsoft AI data centre construction site in Amsterdam on Nov 6 as part of a two-day campaign spanning 16 countries. Protesters have raised concerns over electricity and water consumption.",
+   "published": "2026-11-07T10:49:38+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/AI-EUROPE-DATACENTERS-NETHERLANDS-5_1794048504416_uNG7_1794048517294_qg70_2e8cd616-a155-494b-9cbd-f35727c35d04_CLmM.JPG",
+   "topics": [],
+   "first_seen": "2026-11-07T11:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1419442ed5185eb3",
+   "title": "SEBI settlement rules from November 7: Who can apply online, how much to pay and the 90-day deadline explained",
+   "link": "https://www.livemint.com/money/personal-finance/sebi-settlement-rules-from-november-7-who-can-apply-online-how-much-to-pay-and-the-90-day-deadline-explained-11794046408426.html",
+   "summary": "SEBI's new settlement rules came into effect on November 7, 2026. The revised framework changes application fees, minimum settlement amounts and filing deadlines, while introducing fast-track options for eligible cases. Here's what applicants need to know.",
+   "published": "2026-11-07T10:42:13+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Gemini_Generated_Iage_2t73ok2t73ok2t73_179404681_1794046820970_OtDD_1794046821116_vpim_44c3dfe7-8b5b-4574-a839-053cda416339_e3It.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-07T11:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
+  {
+   "id": "f5f9228323faf421",
+   "title": "Got Diwali bonus from your employer? Clear credit card dues or start mutual fund SIP: Which money move is right for you?",
+   "link": "https://www.livemint.com/money/personal-finance/got-diwali-bonus-from-your-employer-clear-credit-card-dues-or-start-mutual-fund-sip-which-money-move-is-right-for-you-11794044653200.html",
+   "summary": "Got a Diwali bonus of ₹10,000? Should you clear credit card dues or start a mutual fund SIP? Compare the interest savings from repaying high-cost debt with the potential returns from investing to understand which money move makes more financial sense.",
+   "published": "2026-11-07T10:40:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/criedd_1794047324619_2Fnh_1794047342611_74SQ_4c2f5fb0-74e4-4040-842c-974a1f581705_rRmj.png",
+   "topics": [],
+   "first_seen": "2026-11-07T11:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2416dca42beafcbb",
+   "title": "NSE overhauls key trading rules: CAS, F&O expiry trading hours revised - What changes from December 7?",
+   "link": "https://www.livemint.com/market/stock-market-news/nse-overhauls-key-trading-rules-closing-auction-session-f-o-expiry-trading-hours-revised-what-changes-from-dec-7-11794047384672.html",
+   "summary": "The NSE will overhaul the Closing Auction Session from December 7, shortening it to 10 minutes and revising closing-price discovery.&nbsp;",
+   "published": "2026-11-07T10:35:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/NSE_Overhauls_Key_Trading_Rules_1794047635027_6EL1_1794047644097_Tuk8_38fe6575-8cf5-4aaa-a55c-0ecc3c617a81_2h8u.png",
+   "topics": [],
+   "first_seen": "2026-11-07T11:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0121a0f0f51d36e2",
    "title": "Muhurat trading 2026 guide: Gold ETF vs Silver ETF on Diwali day — what to buy for higher returns in Samvat 2083?",
