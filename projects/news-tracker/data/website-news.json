@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T05:00:01+00:00",
+ "generated_at": "2026-11-07T05:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T05:00:01+00:00"
+   "checked_at": "2026-11-07T05:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 02:20:00 GMT",
+   "sample_date": "Thu, 05 Nov 2026 15:06:44 GMT",
    "error": null,
-   "checked_at": "2026-11-07T05:00:01+00:00"
+   "checked_at": "2026-11-07T05:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 12:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T05:00:01+00:00"
+   "checked_at": "2026-11-07T05:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 22,
-   "items": 22,
+   "fetched": 23,
+   "items": 23,
    "sample_date": "Thu, 05 Nov 2026 06:15:23 GMT",
    "error": null,
-   "checked_at": "2026-11-07T05:00:01+00:00"
+   "checked_at": "2026-11-07T05:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 07 Nov 2026 04:16:43 +0000",
+   "sample_date": "Sat, 07 Nov 2026 05:01:54 +0000",
    "error": null,
-   "checked_at": "2026-11-07T05:00:01+00:00"
+   "checked_at": "2026-11-07T05:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "91c3b498a39e4a1c",
+   "title": "Sugar Cosmetics cuts losses by 41% in FY26, revenue dips 11%",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1VpaGNMN2llTTdZNTZ2bi04dW0zN0tCb3owVldyb3JyaUt2Wm4yam1XNUxsel9mYTZ2OVdNSnNXQS1PWWFyQ1VoWWpIS280UVFlbXlsSUpMeVFVVDdWYXdMZzNaWEl3V3JfVTUwYTJMYVJhbUVyZnpGYkV0bFVHenRyQlJqcERHcFBnbVFhYWw5RWxubFN3Skh4ampJZ9IBngFBVV95cUxNa1VpaGNMN2llTTdZNTZ2bi04dW0zN0tCb3owVldyb3JyaUt2Wm4yam1XNUxsel9mYTZ2OVdNSnNXQS1PWWFyQ1VoWWpIS280UVFlbXlsSUpMeVFVVDdWYXdMZzNaWEl3V3JfVTUwYTJMYVJhbUVyZnpGYkV0bFVHenRyQlJqcERHcFBnbVFhYWw5RWxubFN3Skh4ampJZw?oc=5",
+   "summary": "",
+   "published": "2026-11-07T05:20:55+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-07T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7edf697e53cbbcd2",
+   "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
+   "link": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders",
+   "summary": "From healthcare and education to housing, travel, and developer tools, YourStory's inaugural VibeCode30 spotlights 30 live products showing how AI is making software development accessible to a new generation of builders.",
+   "published": "2026-11-07T05:03:20+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-07T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "48ae0d68c3dee931",
+   "title": "Sequoia shutting down its Scouts program marks the end of an era",
+   "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+   "published": "2026-11-07T05:01:54+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anna Heim",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-07T05:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
   {
    "id": "a556ec6077950a4f",
    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
