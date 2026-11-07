@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T14:00:01+00:00",
+ "generated_at": "2026-11-07T14:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 17:02:04 +0530",
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 19:16:43 +0530",
+   "sample_date": "Sat, 07 Nov 2026 19:52:01 +0530",
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 19:27:56 +0530",
    "error": null,
-   "checked_at": "2026-11-07T14:00:01+00:00"
+   "checked_at": "2026-11-07T14:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "5dad91f1c91eba49",
+   "title": "Q2 results race: Samvardhana Motherson vs Uno Minda - Which auto ancillary stock scores better? Revenue, profit, target",
+   "link": "https://www.livemint.com/market/stock-market-news/q2-results-race-samvardhana-motherson-vs-uno-minda-which-auto-ancillary-stock-scores-better-revenue-profit-target-11794054095084.html",
+   "summary": "Samvardhana Motherson’s Q2 FY27 profit rose 42% to ₹1,175.32 crore, while Uno Minda’s increased 36.6% to ₹440.81 crore. Revenue grew 26.9% and 38.2%, respectively.",
+   "published": "2026-11-07T14:22:01+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/ggggh_1794061214239_fj43_1794061228079_qGJ6_2d403707-101b-4f14-9bf2-1dee489b6e4d_3ZQH.png",
+   "topics": [],
+   "first_seen": "2026-11-07T14:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
   {
    "id": "b17657e6f93f5d85",
    "title": "Diwali shopping: Should you pay upfront or choose no-cost EMI for expensive purchases? Here’s what buyers must know",
