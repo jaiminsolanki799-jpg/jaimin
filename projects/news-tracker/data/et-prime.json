@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T10:00:02+00:00",
+ "generated_at": "2026-11-07T10:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
-   "items": 3,
+   "fetched": 2,
+   "items": 2,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 14:43:38 +0530",
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 15:10:15 +0530",
+   "sample_date": "Sat, 07 Nov 2026 15:49:45 +0530",
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 15:10:19 +0530",
    "error": null,
-   "checked_at": "2026-11-07T10:00:02+00:00"
+   "checked_at": "2026-11-07T10:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0121a0f0f51d36e2",
+   "title": "Muhurat trading 2026 guide: Gold ETF vs Silver ETF on Diwali day — what to buy for higher returns in Samvat 2083?",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-guide-gold-etf-vs-silver-etf-on-diwali-day-what-to-buy-for-higher-returns-in-samvat-2083-11794042037235.html",
+   "summary": "Muhurat trading 2026 guide: Gold ETF vs Silver ETF on Diwali day — experts believe gold has investment value whereas silver has both investment value and industrial value",
+   "published": "2026-11-07T10:19:45+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_2026_Gold_vs_Silver_ETF_Silver_Gold_Rate_1794043567476_hhcG_1794043567644_T310_6b499671-d1d5-48e1-bd99-f6deddbc6161_QTzx.png",
+   "topics": [],
+   "first_seen": "2026-11-07T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c02d62336eae8715",
    "title": "Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs",
