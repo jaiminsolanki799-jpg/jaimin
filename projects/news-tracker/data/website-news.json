@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T21:00:02+00:00",
+ "generated_at": "2026-11-07T21:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 9,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T21:00:02+00:00"
+   "checked_at": "2026-11-07T21:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Fri, 06 Nov 2026 02:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T21:00:02+00:00"
+   "checked_at": "2026-11-07T21:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 07 Nov 2026 09:23:17 GMT",
    "error": null,
-   "checked_at": "2026-11-07T21:00:02+00:00"
+   "checked_at": "2026-11-07T21:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 10,
    "sample_date": "Fri, 06 Nov 2026 08:03:25 GMT",
    "error": null,
-   "checked_at": "2026-11-07T21:00:02+00:00"
+   "checked_at": "2026-11-07T21:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 07 Nov 2026 19:00:00 +0000",
+   "sample_date": "Sat, 07 Nov 2026 21:17:08 +0000",
    "error": null,
-   "checked_at": "2026-11-07T21:00:02+00:00"
+   "checked_at": "2026-11-07T21:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "69c75581d56ff5e1",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "published": "2026-11-07T21:17:08+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-07T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6653c5fed6fb0bfb",
    "title": "Parents want safer phones for kids. These companies are answering the call.",
