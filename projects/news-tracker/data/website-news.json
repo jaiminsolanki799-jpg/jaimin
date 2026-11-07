@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-07T04:00:01+00:00",
+ "generated_at": "2026-11-07T04:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 8,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 02:20:00 GMT",
+   "sample_date": "Fri, 06 Nov 2026 06:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 06 Nov 2026 12:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 05 Nov 2026 06:15:23 GMT",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 07 Nov 2026 01:40:28 +0000",
+   "sample_date": "Sat, 07 Nov 2026 04:16:43 +0000",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "a556ec6077950a4f",
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+   "published": "2026-11-07T04:16:43+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-07T04:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "db9b7d2685e94a96",
    "title": "Mamaearth parent’s profit surges 87%; Goyal defends Temple amid backlash",

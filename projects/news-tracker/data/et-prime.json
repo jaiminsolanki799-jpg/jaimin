@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T04:00:01+00:00",
+ "generated_at": "2026-11-07T04:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
+   "fetched": 5,
    "items": 4,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 09:11:28 +0530",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 07:01:05 +0530",
+   "sample_date": "Sat, 07 Nov 2026 09:47:33 +0530",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 09:13:58 +0530",
    "error": null,
-   "checked_at": "2026-11-07T04:00:01+00:00"
+   "checked_at": "2026-11-07T04:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "fe103886da865298",
+   "title": "Muhurat Trading 2026 Stocks to buy on Diwali Day Nov 8: From Eternal to MCX - Chandan Taparia of MOFSL shares 4 picks",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-stocks-to-buy-on-diwali-day-nov-8-from-eternal-to-mcx-chandan-taparia-of-mofsl-shares-4-picks-11794023535359.html",
+   "summary": "The Sensex and Nifty hit session highs as domestic optimism outweighed global losses, aided by foreign fund inflows, lower oil prices, corporate earnings and rupee strength. Technical analysis points to further potential gains in analyst picks Meesho, Eternal, MCX and Adani Ports.",
+   "published": "2026-11-07T04:17:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_Muhurat_Trading_Stock_Picks_chandan_1794024_1794024617425_IWQS_1794024617709_LPL9_d87e087a-a734-4733-88cf-1f8cb2710c16_O4Rs.png",
+   "topics": [],
+   "first_seen": "2026-11-07T04:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "008f89227c0b1b5d",
    "title": "CR7: 7 personal finance lessons from Portugal’s iconic No. 7 as Cristiano Ronaldo retires from international football",
