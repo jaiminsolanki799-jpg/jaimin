@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-07T18:00:02+00:00",
+ "generated_at": "2026-11-07T18:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 22:45:13 +0530",
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 07 Nov 2026 20:23:10 +0530",
+   "sample_date": "Sat, 07 Nov 2026 23:41:52 +0530",
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 07 Nov 2026 22:46:10 +0530",
    "error": null,
-   "checked_at": "2026-11-07T18:00:02+00:00"
+   "checked_at": "2026-11-07T18:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "9356487b3fd525d4",
+   "title": "Upcoming IPO: Coca-Cola India bottler HCCH files DRHP for public issue, majority shareholder to sell up to 15% stake",
+   "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coca-cola-india-bottler-hcch-files-drhp-for-public-issue-majority-shareholder-to-sell-up-to-15-stake-11794070690577.html",
+   "summary": "The proposed IPO&nbsp;will be entirely an offer for sale, meaning the company will not receive any fresh capital from the issue",
+   "published": "2026-11-07T18:11:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/cocacola_1794071860855_logm_1794071885524_ITbn_723421fa-db11-4a4b-8679-b847258def5f_vG6j.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-07T18:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "7ae8e9c4b4f1a0d6",
    "title": "Sold property but received money in instalments? ITAT explains when you must pay income tax on capital gains",
