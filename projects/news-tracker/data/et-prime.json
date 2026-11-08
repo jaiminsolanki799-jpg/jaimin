@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T02:30:01+00:00",
+ "generated_at": "2026-11-08T03:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 05 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 07:49:25 +0530",
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 07:04:37 +0530",
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 07:46:00 +0530",
+   "sample_date": "Sun, 08 Nov 2026 08:21:34 +0530",
    "error": null,
-   "checked_at": "2026-11-08T02:30:01+00:00"
+   "checked_at": "2026-11-08T03:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "bacd3b86496aba8b",
+   "title": "Diwali 2026: Buying gold and silver coins online? Top 5 things to know before making purchase via e-commerce platforms",
+   "link": "https://www.livemint.com/money/personal-finance/diwali-2026-buying-gold-and-silver-coins-online-top-5-things-to-know-before-making-purchase-via-e-commerce-platforms-11794104616313.html",
+   "summary": "Buying gold and silver coins online this Diwali 2026? Check five important factors, including purity, weight, certification, seller credentials, festive discounts, pricing and return policies before ordering gold and silver coins through e-commerce and quick-commerce platforms.",
+   "published": "2026-11-08T02:51:34+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/gold_coin_1794104987101_wYC2_1794104987227_7i25_16cab8b7-7fee-4803-a909-9f447b7a64a1_3YBl.png",
+   "topics": [],
+   "first_seen": "2026-11-08T03:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7001462131dbe46b",
    "title": "Costa Rica shell entity and unauthorised foreign transactions - what ED raids at CoinDCX and Delta Exchange found",
