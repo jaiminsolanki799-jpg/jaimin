@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T05:00:03+00:00",
+ "generated_at": "2026-11-08T05:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 05 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 10:00:16 +0530",
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 10:12:47 +0530",
+   "sample_date": "Sun, 08 Nov 2026 10:57:29 +0530",
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 09:52:31 +0530",
+   "sample_date": "Sun, 08 Nov 2026 10:47:52 +0530",
    "error": null,
-   "checked_at": "2026-11-08T05:00:03+00:00"
+   "checked_at": "2026-11-08T05:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "ef7b80d40734f62e",
+   "title": "Muhurat Trading 2026 time today session wise: Block Deal, Pre-Open, Normal Market, Closing, Post-Closing; significance",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-time-today-session-wise-block-deal-pre-open-normal-market-closing-post-closing-significance-11794115364250.html",
+   "summary": "The Diwali Muhurat trading session on NSE and BSE features a block deal session from 1:50 pm, followed by pre-open activity and the main trading session from 2:20 pm to 3:15 pm",
+   "published": "2026-11-08T05:27:29+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_trading_session_1794115512752_w3WA_1794115523896_7Tjt_e7f6aa3e-6bef-4f82-a18c-eff8c79997a2_ttJY.png",
+   "topics": [],
+   "first_seen": "2026-11-08T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ca2d72c71700c9d4",
+   "title": "Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore",
+   "link": "https://www.livemint.com/money/gold-24k-22k-18k-rate-999-silver-price-today-8-november-retail-diwali-delhi-mumbai-chennai-bangalore-kolkata-coimbatore-11794112139097.html",
+   "summary": "Gold, silver prices today, 8 November: Check retail price of 18K, 22K and 24K gold and 999 Fine silver on Diwali 2026 in your cities — Ahmedabad, Bengaluru, Chennai, Coimbatore, Delhi, Hyderabad, Kolkata, and Mumbai.&nbsp;",
+   "published": "2026-11-08T05:17:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gold_and_Silver_Market_Drop_1793985509601_YJwL_179_1794114188688_bWnq_1794114189065_XgDU_02ae0e21-6b28-4732-8e69-62a08a89e27e_oRwT.png",
+   "topics": [],
+   "first_seen": "2026-11-08T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "93e7d41772b3b500",
+   "title": "Farmer wins ₹18.24 lakh land valuation tax dispute: How ITAT Surat relied on DVO report to grant relief",
+   "link": "https://www.livemint.com/money/personal-finance/farmer-wins-18-24-lakh-land-valuation-tax-dispute-how-itat-surat-relied-on-dvo-report-to-grant-relief-11794113499079.html",
+   "summary": "A farmer secured relief in a ₹18.24 lakh land valuation tax dispute after the ITAT Surat directed the tax officer to examine the Departmental Valuation Officer's (DVO) report. Here's how the ruling could help land buyers challenge excessive stamp duty valuations.",
+   "published": "2026-11-08T05:16:09+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/itat_case_1794113934675_Uqg2_1794113934845_tgh3_383356ac-b890-49f0-bbbe-c3ca558962af_ZH3C.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-08T05:30:01+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "1a7478d74b15620b",
+   "title": "Muhurat trading last 10 years data: Nifty 50, Bank Nifty, Sensex; what history tells amid Special Diwali session today",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-last-10-years-data-nifty-50-bank-nifty-sensex-what-history-tells-amid-special-diwali-session-today-11794111665133.html",
+   "summary": "India’s Muhurat trading session, a Diwali tradition dating back to 1957, welcomes Samvat 2083 on November 8 from 2:20 pm to 3:30 pm. Over the past decade, the Nifty 50, Sensex and Nifty Bank each posted gains in eight sessions, though returns were generally modest.",
+   "published": "2026-11-08T05:07:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading__1794113441472_eNsq_1794113462214_FF4p_507c43dd-a277-40e7-9867-8e2e54362430_04pW.png",
+   "topics": [],
+   "first_seen": "2026-11-08T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "33ee7b26a8119b94",
    "title": "Nifty, Sensex log worst Samvat returns in 15 years. What lies ahead in 2083?",
