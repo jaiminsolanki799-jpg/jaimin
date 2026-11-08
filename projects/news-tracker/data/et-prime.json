@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T09:00:01+00:00",
+ "generated_at": "2026-11-08T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 14:03:20 +0530",
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 14:09:49 +0530",
+   "sample_date": "Sun, 08 Nov 2026 14:54:44 +0530",
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 14:19:28 +0530",
+   "sample_date": "Sun, 08 Nov 2026 14:46:12 +0530",
    "error": null,
-   "checked_at": "2026-11-08T09:00:01+00:00"
+   "checked_at": "2026-11-08T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,100 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "ec29236210302efa",
+   "title": "Why Safe Enterprises shares bleeding on Diwali Muhurat trading 2026 session despite Nifty, Sensex in green? Key reasons",
+   "link": "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html",
+   "summary": "Safe Enterprises Retail Fixtures shares fell nearly 9% during Diwali Muhurat trading after the company reported a 34.57% year-on-year decline in Q2 FY27 net profit to ₹21.75 crore. Revenue also dropped to ₹77.87 crore from ₹112.37 crore a year earlier.",
+   "published": "2026-11-08T09:24:44+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/afatgg_1794129804024_ZEjl_1794129812825_TPdJ_a996b76f-328d-4fb6-8639-739a687c5562_O26c.png",
+   "topics": [],
+   "first_seen": "2026-11-08T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "08197e658eab27c0",
+   "title": "Finolex Cables shares jump 14% in Muhurat Trading 2026 Diwali session day - here's why | Stock up 59% YTD | Key levels",
+   "link": "https://www.livemint.com/market/stock-market-news/finolex-cables-shares-jump-14-in-muhurat-trading-2026-diwali-session-day-heres-why-stock-up-59-ytd-key-levels-11794128644480.html",
+   "summary": "Finolex Cables shares rose 14% during Muhurat Trading after Q2 FY27 net profit climbed 67.5% to ₹273 crore, revenue increased 65% to ₹2,269 crore, and EBITDA more than doubled. Growth was driven by higher cable volumes and improved communication-segment realisations.",
+   "published": "2026-11-08T09:22:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Finolex_Shares_Surge_in_Diwali_Trading_17941295805_1794129590663_BCLp_1794129590783_HrQB_eb5bf55d-7954-402f-9562-eab33e8f7257_0dUO.png",
+   "topics": [],
+   "first_seen": "2026-11-08T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b92c457b61a13f2c",
+   "title": "Muhurat Trading 2026: Tata Steel, Sun Pharma, BSE among top gainers as Nifty 50, Sensex swing between gains and losses",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-tata-steel-sun-pharma-bse-among-top-gainers-as-nifty-50-sensex-swing-between-gains-and-losses-11794128799050.html",
+   "summary": "Tata Steel led gains during Muhurat Trading, rising 2.5% after reporting a 16% year-on-year increase in Q2 net profit. Sun Pharma gained 1.5% for a fourth straight session, while Tata Motors Passenger Vehicles climbed 1.2%.",
+   "published": "2026-11-08T09:20:02+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading_2026_Sensex_Nifty_50_today__1794129440550_cqBH_1794129440699_PcVr_0996e1b3-e83b-4886-9181-62582fefbd44_ATgi.png",
+   "topics": [],
+   "first_seen": "2026-11-08T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "641c468cda1551cb",
+   "title": "Received a large sum from parents this Diwali? Check the tax rules and why you should document the money transfer",
+   "link": "https://www.livemint.com/money/personal-finance/received-a-large-sum-from-parents-this-diwali-check-the-tax-rules-and-why-you-should-document-the-money-transfer-11794126668427.html",
+   "summary": "Gifts from specified relatives, including parents, are tax-free, while gifts from non-relatives are generally taxable if their total exceeds the prescribed threshold. Here's why you should still document the money transfer and declare it in ITR.",
+   "published": "2026-11-08T09:16:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/27637f34-e236-4ee4-b236-c1cd2f8f6601_1794129200525_QmqN_1794129208220_Qb8I_7eebd2ff-56e6-445d-9e67-530c159c2e0f_cl8N.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-08T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "07d8b107f6394e6c",
+   "title": "Muhurat Trading 2026 Diwali Session Opening Bell: How Sensex, Nifty is performing on special day; check gainers, losers",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-session-opening-bell-how-sensex-nifty-is-performing-on-special-day-check-gainers-losers-11794128484708.html",
+   "summary": "Indian markets rose during the Diwali Muhurat trading session marking Samvat 2083. The Sensex gained over 400 points and the Nifty 50 climbed above 25,100, while smallcaps outperformed. Tata Steel and Sun Pharma led gainers; M&amp;M and Infosys were among the laggards.",
+   "published": "2026-11-08T09:07:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/Festive_Muhurat_Trading_Banner_1794128795400_5gaq_1794128800059_DUSa_2c0ee6ac-150b-4c61-b755-05768485e312_qUop.png",
+   "topics": [],
+   "first_seen": "2026-11-08T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "49829fa391a3acd8",
    "title": "Diwali car shopping? 5 extra costs beyond EMI that could burn a hole in your pocket",
@@ -714,9 +806,9 @@
   },
   {
    "id": "cda64fb299e50c39",
-   "title": "LIVE: Muhurat Trading 2026 fireworks shortly; check top stock picks for special Diwali session ahead of Samvat 2083",
+   "title": "LIVE: Squid games! On Muhurat Trading 2026 Diwali session, Sensex, Nifty playing red light green light — Data details",
    "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html",
-   "summary": "Diwali Muhurat Trading 2026 LIVE: Since 2006, Sensex has ended lower on only four occasions, whereas the Nifty 50 index has ended lower on just five ceremonial special Diwali sessions",
+   "summary": "Diwali Muhurat Trading 2026 LIVE: As expected, both the Sensex and Nifty 50 indices have opened up and are trading green during the ceremonial special session",
    "published": "2026-11-08T04:29:13+00:00",
    "source": "Mint Markets",
    "group": "Mint",
