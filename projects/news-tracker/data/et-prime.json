@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T10:00:02+00:00",
+ "generated_at": "2026-11-08T10:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 14:03:20 +0530",
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 15:25:07 +0530",
+   "sample_date": "Sun, 08 Nov 2026 15:53:22 +0530",
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 15:14:11 +0530",
    "error": null,
-   "checked_at": "2026-11-08T10:00:02+00:00"
+   "checked_at": "2026-11-08T10:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "de7853aafa5ddb9f",
+   "title": "KYC and KYB: Inside Pidilite, the company that turned Fevicol into a word for a strong bond – Part 1 of 3",
+   "link": "https://economictimes.indiatimes.com/prime/kyc-and-kyb-inside-pidilite-the-company-that-turned-fevicol-into-a-word-for-a-strong-bond-part-1-of-3/primearticleshow/135656250.cms",
+   "summary": "",
+   "published": "2026-11-08T10:30:01+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-08T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "615e2356a5d158a6",
+   "title": "Muhurat Trading 2026: Samvat 2082 ends, Samvat 2083 begins - Sensex, Nifty end in red first time after 2017 | Reasons",
+   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-samvat-2082-ends-samvat-2083-begins-sensex-nifty-end-in-red-first-time-after-2017-reasons-11794130754040.html",
+   "summary": "Indian markets opened lower in Samvat 2083, with the Sensex and Nifty posting their first negative Muhurat Trading close since 2017. Rising oil prices, Middle East tensions, foreign investor outflows, a weaker rupee and higher US bond yields weighed on equities.&nbsp;",
+   "published": "2026-11-08T10:23:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Sensex_and_Nifty_End_Red_After_Diwali_Gains_179413_1794133308312_08Vt_1794133308474_zJgX_9fce3556-e3e8-4f22-8939-ab3c815e506e_SgR2.png",
+   "topics": [],
+   "first_seen": "2026-11-08T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f119ccc4f2b326a4",
+   "title": "Diwali Muhurat trading 2026: Why HDFC Bank shares a talking point today amid Samvat 2083 despite 13% monthly rally",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-why-hdfc-bank-shares-a-talking-point-today-amid-samvat-2083-despite-13-monthly-rally-11794130829551.html",
+   "summary": "HDFC Bank shares fell 0.32% to ₹784.50 during Diwali Muhurat trading on November 8, reversing an early gain as the Nifty Bank index slipped 0.27%. The stock had risen 13.32% in the past week but remained down 20.82% in 2026.",
+   "published": "2026-11-08T10:02:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/hagagsg_1794132112723_XRfS_1794132119606_ghpA_67965ac6-0e79-465a-a406-d06147c62f4f_wUB2.png",
+   "topics": [],
+   "first_seen": "2026-11-08T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d766dd8cbec4b7a5",
    "title": "Tata Teleservices shares jump 6% in Muhurat Trading, extend 4-day rally to 23% | What's driving the surge?",
@@ -882,9 +938,9 @@
   },
   {
    "id": "cda64fb299e50c39",
-   "title": "LIVE: Muhurat Trading 2026 Diwali session to end in next few minutes | Check big outperformers here",
+   "title": "LIVE: Muhurat Trading 2026 Diwali session ends; Sensex, Nifty snap 8-year winning streak with 80% decadal strike rate",
    "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html",
-   "summary": "Diwali Muhurat Trading 2026 LIVE: As expected, both the Sensex and Nifty 50 indices have opened up and are trading green during the ceremonial special session",
+   "summary": "Diwali Muhurat Trading 2026 LIVE: Samvat 2083 begins with lots of hopes, but the special session ended in red",
    "published": "2026-11-08T04:29:13+00:00",
    "source": "Mint Markets",
    "group": "Mint",
