@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T03:30:01+00:00",
+ "generated_at": "2026-11-08T04:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 05 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 07:49:25 +0530",
+   "sample_date": "Sun, 08 Nov 2026 09:01:13 +0530",
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 08:44:01 +0530",
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 08:49:12 +0530",
    "error": null,
-   "checked_at": "2026-11-08T03:30:01+00:00"
+   "checked_at": "2026-11-08T04:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "0ca4d829c89b7e47",
+   "title": "NMC Healthcare founder BR Shetty held liable for $5.4 billion fraud in Abu Dhabi - All you need to know about the case",
+   "link": "https://www.livemint.com/companies/news/nmc-healthcare-founder-br-shetty-held-liable-for-5-4-billion-fraud-in-abu-dhabi-all-you-need-to-know-about-the-case-11794107578149.html",
+   "summary": "A UAE court held NMC Health co-founder BR Shetty and former CEO Prasanth Manghat liable for knowingly participating in fraudulent trading, including concealing billions in borrowings. The court set $5.397 billion as starting point for assessing their contributions to NMC’s assets.",
+   "published": "2026-11-08T03:31:13+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/nmc_1794107823979_DcNu_1794107838782_j8JG_f248eafc-bff5-458d-842b-b27e0a185bb4_mhY5.jpg",
+   "topics": [],
+   "first_seen": "2026-11-08T04:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4f13d8817c8a6c0d",
+   "title": "How SBI is steadily catching up with HDFC Bank in the margin race",
+   "link": "https://www.livemint.com/companies/news/how-sbi-is-steadily-catching-up-with-hdfc-bank-in-the-margin-race-11793966592420.html",
+   "summary": "The difference between the net interest margins (NIMs) of India’s largest lender and its largest private lender has shrunk consistently over the years, data analysed by Mint showed.",
+   "published": "2026-11-08T03:30:34+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/INDIA-ECONOMY-0_1793986050824_CkxL_1793986076592_SxDa_a6f6ad9b-ccfe-4611-b22e-c05a25666b80_UFAk.jpg",
+   "topics": [],
+   "first_seen": "2026-11-08T04:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "933ca7a16a4dea0a",
    "title": "DA hike: Uttarakhand increases dearness allowance by 3% to 63% for state employees, pensioners — All we know",
