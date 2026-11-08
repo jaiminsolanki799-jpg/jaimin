@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T17:30:01+00:00",
+ "generated_at": "2026-11-08T18:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 17:00:09 +0530",
+   "sample_date": "Sun, 08 Nov 2026 23:20:12 +0530",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 22:00:50 +0530",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 22:20:51 +0530",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "09c8f58a642341eb",
+   "title": "Canva’s layoff package wins praise on LinkedIn: 6 months’ salary, 12 months’ healthcare, free MacBook and career support",
+   "link": "https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html",
+   "summary": "The Australian design platform's restructuring will affect 1,271 employees, or 22% of its total workforce.",
+   "published": "2026-11-08T17:50:12+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/canva_1794146306697_l6Bp_1794146316031_4i2D_df27b1d9-0659-4739-820d-9e7136f4eec5_HCJ2.png",
+   "topics": [],
+   "first_seen": "2026-11-08T18:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2440cf96a0e99ea3",
    "title": "No credit history at 30: How first-time borrowers can build a healthy credit profile and improve future loan eligibility",

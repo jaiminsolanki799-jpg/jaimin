@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-08T17:30:01+00:00",
+ "generated_at": "2026-11-08T18:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
+   "sample_date": "Fri, 06 Nov 2026 02:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 07 Nov 2026 09:23:17 GMT",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 4,
    "sample_date": "Sat, 07 Nov 2026 06:22:32 GMT",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 08 Nov 2026 17:02:00 +0000",
+   "sample_date": "Sun, 08 Nov 2026 17:30:00 +0000",
    "error": null,
-   "checked_at": "2026-11-08T17:30:01+00:00"
+   "checked_at": "2026-11-08T18:00:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "f53bfea6329add26",
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+   "published": "2026-11-08T17:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-08T18:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "13bb0b89cfa9ef17",
    "title": "TechCrunch Mobility: The Cybertruck experiment is over",
