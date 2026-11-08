@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T06:00:01+00:00",
+ "generated_at": "2026-11-08T06:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,18 +46,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "error": null,
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 05 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 10:00:16 +0530",
+   "sample_date": "Sun, 08 Nov 2026 11:55:12 +0530",
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 11:12:56 +0530",
+   "sample_date": "Sun, 08 Nov 2026 11:31:33 +0530",
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 10:47:52 +0530",
    "error": null,
-   "checked_at": "2026-11-08T06:00:01+00:00"
+   "checked_at": "2026-11-08T06:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "5b91e658d3509b4f",
+   "title": "Adani Energy Solutions Step-Eleven says parent has funds to support power licence for proposed Noida data centre project",
+   "link": "https://www.livemint.com/companies/news/adani-energy-solutions-step-eleven-parent-has-funds-support-power-licence-proposed-noida-data-centre-project-investment-11794112060477.html",
+   "summary": "Adani Energy Solutions has reportedly responded to the Uttar Pradesh Electricity Regulatory Commission (UPERC) queries saying that its parent has ₹15,155.80 crore in adjusted net worth to support a proposed ₹211 crore Noida data centre power project.&nbsp;",
+   "published": "2026-11-08T06:25:12+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/FITCH-ADANI--0_1732893367416_1794118848167_ovAf_48195dff-d52d-4518-bbc8-eab256b9b575_dNdh.JPG",
+   "topics": [],
+   "first_seen": "2026-11-08T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bf93961615b70cc7",
+   "title": "From campus to culinary success: How a 21-year-old Gurugram college student's cafe made ₹15 lakh in 50 days",
+   "link": "https://www.livemint.com/companies/people/from-campus-to-culinary-success-how-a-21-year-old-gurugram-college-students-cafe-made-rs-15-lakh-in-50-days-11794117605607.html",
+   "summary": "At 21, Ananya Agarwal is balancing her final year of college with running Lume &amp; Lime, a European-style vegetarian bistro in Gurugram. The cafe serves Italian, Mexican, and Mediterranean dishes prepared authentically and reportedly earned over ₹15 lakh in its first 50 days.",
+   "published": "2026-11-08T06:07:47+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/ipiccy_image_1794117942821_jXzT_1794117956541_9B7R_0eaeb138-bdb4-41b0-9300-82a672033390_Ot3A.jpg",
+   "topics": [],
+   "first_seen": "2026-11-08T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fc3ed48fad0d1a2a",
+   "title": "Diwali Muhurat Trading Stock Picks 2026 under ₹200: Start Samvat 2083 with Ashok Leyland, Swiggy, PNB | By Anand Rathi",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-under-rs-200-start-samvat-2083-with-ashok-leyland-swiggy-pnb-by-anand-rathi-11794114454674.html",
+   "summary": "Diwali Muhurat trading 2026: Ganesh Dongre of Anand Rathi believes the key benchmark indices Sensex and Nifty may end higher for the ninth straight ceremonial session",
+   "published": "2026-11-08T06:01:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading_Stock_Picks_under_Rs_200_1794117520779_OJxC_1794117520903_hEHY_0134c6c2-4bdc-491d-9e75-17178b412949_eim7.png",
+   "topics": [],
+   "first_seen": "2026-11-08T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "53414eca3e7e5259",
    "title": "MCX Diwali Muhurat Trading schedule 2026, session wise time today: Special, Main, Client Code Modification Window timing",
@@ -330,7 +384,7 @@
   },
   {
    "id": "cda64fb299e50c39",
-   "title": "Diwali Muhurat Trading 2026 LIVE: Check stock picks and time for special session today - Pre-open, normal market, rules",
+   "title": "Diwali Muhurat Trading 2026 LIVE: Check top stocks picks; know what to buy as fireworks ready for special session today",
    "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html",
    "summary": "Diwali Muhurat Trading 2026 LIVE: Since 2006, Sensex has ended lower on only four occasions, whereas the Nifty 50 index has ended lower on just five ceremonial special Diwali sessions",
    "published": "2026-11-08T04:29:13+00:00",
