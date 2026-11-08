@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T07:00:01+00:00",
+ "generated_at": "2026-11-08T07:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 05 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 12:16:21 +0530",
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 12:23:30 +0530",
+   "sample_date": "Sun, 08 Nov 2026 12:54:17 +0530",
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 12:21:42 +0530",
    "error": null,
-   "checked_at": "2026-11-08T07:00:01+00:00"
+   "checked_at": "2026-11-08T07:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "2f727c61d03e75d6",
+   "title": "Diwali Muhurat Trading stock picks 2026: ICICI Bank, PVR Inox, Eternal among Geojit's 10 shares | Samvat 2083",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-icici-bank-pvr-inox-eternal-among-geojits-10-shares-samvat-2083-11794118050114.html",
+   "summary": "Geojit has selected 10 stocks for Samvat 2083, spanning banking, infrastructure, technology, autos, hospitality, healthcare and entertainment. The brokerage cites growth prospects, earnings visibility and valuations, while warning that global headwinds may keep markets volatile.",
+   "published": "2026-11-08T07:24:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading_Stock_Picks_final_final_179_1794122290674_0Du2_1794122290868_WwlT_a7e9c9a3-033c-451a-9ae6-f02358876e27_ScWC.png",
+   "topics": [],
+   "first_seen": "2026-11-08T07:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4345150546c03fc2",
+   "title": "Top 12 Diwali Muhurat Trading stock picks 2026: Up to 41% gain! Buy Jio Platforms, Adani Ports, 10 more by KC Securities",
+   "link": "https://www.livemint.com/market/stock-market-news/top-12-diwali-muhurat-trading-stock-picks-2026-up-to-41-gain-buy-jio-platforms-adani-ports-10-more-by-kc-securities-11794119726963.html",
+   "summary": "Diwali Muhurat trading 2026: Mahesh M Ojha of KC Securities believes the key benchmark indices Sensex and Nifty may end higher for the ninth straight ceremonial session",
+   "published": "2026-11-08T07:15:06+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_2026_Muhurat_Trading_2026_Samvat_2083_stock_1794120256521_0gqF_1794120256659_fSuj_10a78582-5229-4ef9-9e85-dd9810f09b33_SuwE.png",
+   "topics": [],
+   "first_seen": "2026-11-08T07:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "51c12035280f02d0",
+   "title": "Wheat Hits Lowest Since June Ahead of Black Sea Peace Talks",
+   "link": "https://www.livemint.com/market/wheat-hits-lowest-since-june-ahead-of-black-sea-peace-talks-11794122080754.html",
+   "summary": "Wheat futures touched the lowest since the end of June as traders anticipate next week’s planned US-led talks with delegations from Ukraine and Russia.",
+   "published": "2026-11-08T07:14:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-08T07:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "45d976b7adb5aa2d",
    "title": "Muhurat Trading Stock Picks 2026 for Diwali Special Session: HDFC AMC, SBI, TechM, 3 others | Upside seen up to 35%",
