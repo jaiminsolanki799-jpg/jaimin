@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T22:00:02+00:00",
+ "generated_at": "2026-11-08T22:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,18 +90,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 01:52:54 +0530",
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 22:00:50 +0530",
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 22:20:51 +0530",
    "error": null,
-   "checked_at": "2026-11-08T22:00:02+00:00"
+   "checked_at": "2026-11-08T22:30:01+00:00"
   }
  ],
  "topics": [
@@ -4706,7 +4706,7 @@
    "link": "https://economictimes.indiatimes.com/prime/energy/png-connections-rise-half-a-million-but-how-many-use-piped-gas-for-cooking/primearticleshow/135573642.cms",
    "summary": "",
    "published": "2026-11-06T06:53:26+00:00",
-   "source": "ET Prime: Energy",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Energy",
    "date_known": false,
