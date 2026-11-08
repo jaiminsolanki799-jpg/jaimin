@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T14:00:01+00:00",
+ "generated_at": "2026-11-08T14:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 17:00:09 +0530",
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 19:00:25 +0530",
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 19:20:45 +0530",
+   "sample_date": "Sun, 08 Nov 2026 19:41:46 +0530",
    "error": null,
-   "checked_at": "2026-11-08T14:00:01+00:00"
+   "checked_at": "2026-11-08T14:30:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0cb51cc25303a229",
+   "title": "Received a Diwali bonus or voucher from your employer? Know the tax exemption limit and rules for salaried employees",
+   "link": "https://www.livemint.com/money/personal-finance/received-a-diwali-bonus-or-voucher-from-your-employer-know-the-tax-exemption-limit-and-rules-for-salaried-employees-11794142194814.html",
+   "summary": "Diwali gifts from employers worth less than ₹15,000 in aggregate can be tax-free, but cash bonuses are taxable as salary. Here's how festive payouts affect your income tax, rebate eligibility and take-home pay under the new tax rules.",
+   "published": "2026-11-08T14:11:46+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Generated_Image_hs1on6hs1on6hs1o_17941423_1794142347633_4K1b_1794142347765_5QVA_663f42fc-20ce-44f3-b08b-a6c7e17334aa_SlQ7.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-08T14:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a5ace20ff15d0139",
    "title": "5 key lessons from Your Money or Your Life by Vicki Robin: How to achieve financial freedom while maximising your income",
