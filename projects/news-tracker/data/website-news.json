@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-08T13:00:03+00:00",
+ "generated_at": "2026-11-08T13:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-08T13:00:03+00:00"
+   "checked_at": "2026-11-08T13:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 06:30:00 GMT",
+   "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
    "error": null,
-   "checked_at": "2026-11-08T13:00:03+00:00"
+   "checked_at": "2026-11-08T13:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 07 Nov 2026 09:23:17 GMT",
    "error": null,
-   "checked_at": "2026-11-08T13:00:03+00:00"
+   "checked_at": "2026-11-08T13:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 4,
    "sample_date": "Sat, 07 Nov 2026 06:22:32 GMT",
    "error": null,
-   "checked_at": "2026-11-08T13:00:03+00:00"
+   "checked_at": "2026-11-08T13:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sat, 07 Nov 2026 22:07:22 +0000",
    "error": null,
-   "checked_at": "2026-11-08T13:00:03+00:00"
+   "checked_at": "2026-11-08T13:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "ad82138df50df7e5",
+   "title": "Angel One becomes India's second-largest broker by active clients",
+   "link": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients",
+   "summary": "The active client base of Angel One for October was 69.98 lakh which was an addition of 2.43 lakh for the month. Zerodha now is in the third spot.",
+   "published": "2026-11-08T13:06:32+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-08T13:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bb2b94d807a6d9ed",
    "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
