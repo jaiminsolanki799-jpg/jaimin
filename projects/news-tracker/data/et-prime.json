@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T07:30:01+00:00",
+ "generated_at": "2026-11-09T08:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 2,
+   "fetched": 1,
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 12:45:53 +0530",
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 12:40:10 +0530",
+   "sample_date": "Mon, 09 Nov 2026 13:10:58 +0530",
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 12:46:56 +0530",
+   "sample_date": "Mon, 09 Nov 2026 13:11:35 +0530",
    "error": null,
-   "checked_at": "2026-11-09T07:30:01+00:00"
+   "checked_at": "2026-11-09T08:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "84ee0f919deb54b3",
+   "title": "UCO Bank paid widow’s pending pension arrears, but why did court still impose a ₹15,000 fine?",
+   "link": "https://www.livemint.com/money/uco-bank-paid-widow-s-pending-pension-arrears-but-why-did-court-still-impose-a-rs-15-000-fine-11794208209637.html",
+   "summary": "The complainant alleged that despite multiple official communications from the pension-sanctioning authorities, repeated visits to the branch, and formal representations, the bank failed to release the correctly revised family pension.",
+   "published": "2026-11-09T07:41:35+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Pension_1794208386873_bwDV_1794208391618_yaov_6bc00e25-ab2f-4270-a4c6-116b666739c2_VcDN.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ed1f01c20da91d20",
+   "title": "Why Sun Pharma Advanced Research shares surge 11% despite weak sentiments on D-Street; what's boosting medical stock?",
+   "link": "https://www.livemint.com/market/stock-market-news/why-sun-pharma-advanced-research-shares-surge-11-despite-weak-sentiments-on-d-street-whats-boosting-medical-stock-11794207169769.html",
+   "summary": "The pharma stock opened in green at ₹198.50 apiece on the NSE today, as compared to the previous close of ₹197.03 on Sunday's Muhurat Trading and touched an intraday high of ₹219.49 on 9 November.",
+   "published": "2026-11-09T07:40:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/sun_pharma_1794210015434_Cw1Z_1794210015533_YKmn_a8c1ddeb-07d3-4eab-9d5b-29c04ce9c892_0avn.png",
+   "topics": [],
+   "first_seen": "2026-11-09T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b23add8631802717",
    "title": "8th Pay Commission: Expert explains report deadline, when revised salaries and pensions may take effect",
