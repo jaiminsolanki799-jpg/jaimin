@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T17:00:05+00:00",
+ "generated_at": "2026-11-09T17:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 21:40:33 +0530",
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 22:24:24 +0530",
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 22:07:40 +0530",
+   "sample_date": "Mon, 09 Nov 2026 22:53:51 +0530",
    "error": null,
-   "checked_at": "2026-11-09T17:00:05+00:00"
+   "checked_at": "2026-11-09T17:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "075c83aa9eba6058",
+   "title": "Received cash from customers and deposited it in your bank account? When can income tax authorities tax it",
+   "link": "https://www.livemint.com/money/personal-finance/received-cash-from-customers-and-deposited-it-in-your-bank-account-when-can-income-tax-authorities-tax-it-11794244686185.html",
+   "summary": "An insurance agent's ₹35.09 lakh cash deposits during demonetisation were treated as unexplained income. ITAT Jaipur deleted the addition after accepting records showing the money came from policyholder premiums.",
+   "published": "2026-11-09T17:23:51+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generted_Image_xcnwdtxcnwdtxcnw_179424482_1794244835792_vqHs_1794244835896_751M_54d11d0d-645c-4060-9a39-8f98e66eff47_JrUe.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-09T17:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "55b66861aad22364",
    "title": "AMD stock rallies 12% as Google Cloud taps its EPYC processors for next-generation AI infrastructure",
