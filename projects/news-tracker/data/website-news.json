@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-09T18:00:01+00:00",
+ "generated_at": "2026-11-09T18:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Tue, 03 Nov 2026 06:41:01 GMT",
    "error": null,
-   "checked_at": "2026-11-09T18:00:01+00:00"
+   "checked_at": "2026-11-09T18:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 09 Nov 2026 11:07:44 GMT",
+   "sample_date": "Sun, 08 Nov 2026 02:10:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T18:00:01+00:00"
+   "checked_at": "2026-11-09T18:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 09 Nov 2026 12:32:20 GMT",
    "error": null,
-   "checked_at": "2026-11-09T18:00:01+00:00"
+   "checked_at": "2026-11-09T18:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 5,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-09T18:00:01+00:00"
+   "checked_at": "2026-11-09T18:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 09 Nov 2026 17:00:00 +0000",
+   "sample_date": "Mon, 09 Nov 2026 18:09:52 +0000",
    "error": null,
-   "checked_at": "2026-11-09T18:00:01+00:00"
+   "checked_at": "2026-11-09T18:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "20ff528b54959b19",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+   "published": "2026-11-09T18:09:52+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fe9001b06ea620d4",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "published": "2026-11-09T18:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Russell Brandom",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8814f9d2297c7d77",
    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
