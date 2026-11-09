@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T16:00:01+00:00",
+ "generated_at": "2026-11-09T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 21:22:08 +0530",
+   "sample_date": "Mon, 09 Nov 2026 21:40:33 +0530",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 21:19:00 +0530",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 20:43:21 +0530",
+   "sample_date": "Mon, 09 Nov 2026 21:47:00 +0530",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,42 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "a039074074fe97c5",
+   "title": "Planning a big wedding? One unexpected event could derail it; can insurance save the day? All you need to know",
+   "link": "https://www.livemint.com/money/personal-finance/planning-a-big-wedding-one-unexpected-event-could-derail-it-can-insurance-save-the-day-all-you-need-to-know-11794237363923.html",
+   "summary": "Wedding insurance can help Indian families recover costs if unforeseen events such as fire, theft, severe illness or extreme weather disrupt celebrations. Here's how it works.",
+   "published": "2026-11-09T16:17:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/2-0-875484822-659333804-0_1679648220980_1794240936862_YbGf_9f1fea58-1329-4511-97a8-e57485761f2a_dLEa.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c3674a9fe0e9ad2a",
+   "title": "Nvidia’s Jensen Huang faces board scrutiny: Can the chipmaker remove its CEO? Here’s what the board can and cannot do",
+   "link": "https://www.livemint.com/companies/news/nvidias-jensen-huang-faces-board-scrutiny-can-the-chipmaker-remove-its-ceo-here-s-what-the-board-can-and-cannot-do-11794239847524.html",
+   "summary": "Nvidia's board has launched an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence effort. Here's what the company's bylaws say about removing him as CEO and director.",
+   "published": "2026-11-09T16:10:33+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/NVIDIA-PROBE-CEO-6_1794239958676_WCjC_1794239965777_CQ2U_f68bf3ec-fb36-4a76-90f3-5147da14c7d8_DR6r.JPG",
+   "topics": [],
+   "first_seen": "2026-11-09T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ffe3929df3941752",
    "title": "Nvidia chips, Alibaba ties and Jensen Huang scandal: Inside Alice Huang's $100 million-plus pitch",

@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-09T16:00:01+00:00",
+ "generated_at": "2026-11-09T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 09:50:26 GMT",
+   "sample_date": "Fri, 06 Nov 2026 11:30:58 GMT",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 09 Nov 2026 12:32:20 GMT",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 5,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 09 Nov 2026 15:32:27 +0000",
+   "sample_date": "Mon, 09 Nov 2026 16:12:28 +0000",
    "error": null,
-   "checked_at": "2026-11-09T16:00:01+00:00"
+   "checked_at": "2026-11-09T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "ad058ec7fa053fd0",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+   "published": "2026-11-09T16:12:28+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "071f696706a49202",
    "title": "Meta expands Instagram’s AI age-guessing tech globally",
