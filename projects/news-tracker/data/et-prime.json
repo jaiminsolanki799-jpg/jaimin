@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T03:30:01+00:00",
+ "generated_at": "2026-11-09T04:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 07:40:50 +0530",
+   "sample_date": "Mon, 09 Nov 2026 09:09:50 +0530",
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 08:47:02 +0530",
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 08:57:35 +0530",
    "error": null,
-   "checked_at": "2026-11-09T03:30:01+00:00"
+   "checked_at": "2026-11-09T04:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "4a5a6ce48f4a769e",
+   "title": "Maharaja Club members can now earn Air India flight upgrades through premium lifestyle e-commerce purchases — Here’s how",
+   "link": "https://www.livemint.com/companies/news/maharaja-club-members-can-now-earn-air-india-flight-upgrades-through-premium-lifestyle-e-commerce-purchases-here-s-how-11794191299327.html",
+   "summary": "Available retail categories at The Maharaja Shop include electronics, luggage, travel accessories, home essentials, wellness products, watches, and jewellery",
+   "published": "2026-11-09T03:39:50+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Maharaja-Shop_1794195422284_8xoe_1794195434663_ic1F_a420e50e-b42e-49df-a1a0-2c66b4b440b2_WAax.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T04:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Ratings"
+   ]
+  },
   {
    "id": "1329853b0fac464e",
    "title": "DA hike news: Uttar Pradesh govt increases dearness allowance by 3% for employees — Check who is eligible",
@@ -983,7 +1003,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/pexels-photo-5470449_1794133139020_Bt9Y_1794133189012_vN6M_8834b3ca-9b06-4983-9806-9c4bc89b877e_ppDd.jpeg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/IMG_4839_1794195279432_ZAip_1794195283955_CAn0_fed6da36-72f9-4b9d-8454-b1b065e45aa1_C3HM.jpeg",
    "topics": [],
    "first_seen": "2026-11-08T11:00:01+00:00",
    "valuation_score": 0,
