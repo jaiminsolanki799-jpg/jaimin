@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T04:30:01+00:00",
+ "generated_at": "2026-11-09T05:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 09:09:50 +0530",
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 08:47:02 +0530",
+   "sample_date": "Mon, 09 Nov 2026 10:19:54 +0530",
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 09:47:29 +0530",
    "error": null,
-   "checked_at": "2026-11-09T04:30:01+00:00"
+   "checked_at": "2026-11-09T05:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "836576d936723f2d",
+   "title": "Gland Pharma shares hit 52-week high; jump 7% despite market sell-off | Will rally continue after 93% YTD rise?",
+   "link": "https://www.livemint.com/market/stock-market-news/gland-pharma-shares-hit-52-week-high-jump-7-despite-market-sell-off-will-rally-continue-after-93-ytd-rise-11794197845748.html",
+   "summary": "The pharma stock opened in green at ₹3,147 apiece on NSE today, as compared to previous close of ₹3,132.80 on Sunday and touched an intraday high of ₹3,352 on 9 November.",
+   "published": "2026-11-09T04:49:54+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/Gland_1794199746468_gJ4B_1794199746665_3RZr_23c5176d-13af-4ad0-939a-de1710c5c29a_qYbx.png",
+   "topics": [],
+   "first_seen": "2026-11-09T05:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8d967f8069692c03",
+   "title": "Divi's Laboratories shares hit record high rising 84% YTD; buy, sell or hold after Q2 results 2026? Brokerages report",
+   "link": "https://www.livemint.com/market/stock-market-news/divis-laboratories-shares-hit-record-high-rising-84-ytd-buy-sell-or-hold-after-q2-results-2026-brokerages-report-11794197764919.html",
+   "summary": "Divi’s Laboratories shares surged to a fresh 52-week high after strong Q2 FY27 results and positive broker commentary. Net profit rose 64% year-on-year to ₹1,127 crore, while revenue grew 35% to ₹3,676 crore. Brokerages highlighted growth potential in custom synthesis and peptides.",
+   "published": "2026-11-09T04:48:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Divi_Laboratories_Shares_Hit_Record_High_179419949_1794199501127_ZZff_1794199501350_46JU_bdb7a3ab-4fec-4508-b8d2-a5516cbbf918_JaTR.png",
+   "topics": [],
+   "first_seen": "2026-11-09T05:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "dafcdbcb94c793c7",
+   "title": "Pearl Global shares hit 52-week high ahead of dividend record date; will the rally continue? Experts' views, target",
+   "link": "https://www.livemint.com/market/stock-market-news/why-is-pearl-global-share-price-rising-today-apparel-stock-hits-52-week-high-post-q2-results-dividend-record-date-ahea-11794197456663.html",
+   "summary": "Pearl Global Industries shares rose nearly 6% to a 52-week high after the apparel maker reported higher quarterly profit and announced a ₹5 interim dividend.",
+   "published": "2026-11-09T04:41:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Pearl_Global_Share_Price_Rising_1794199216779_vi9v_1794199226936_oVAn_4ec8ebd5-452e-4ebd-9464-e3d7df7af9ac_VbfL.png",
+   "topics": [],
+   "first_seen": "2026-11-09T05:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "6a18a8d9542d3d95",
    "title": "Gold, silver prices today, 9 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
