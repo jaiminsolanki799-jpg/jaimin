@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-08T23:30:01+00:00",
+ "generated_at": "2026-11-09T00:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 01:52:54 +0530",
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 08 Nov 2026 22:00:50 +0530",
+   "sample_date": "Mon, 09 Nov 2026 05:16:36 +0530",
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 08 Nov 2026 22:20:51 +0530",
    "error": null,
-   "checked_at": "2026-11-08T23:30:01+00:00"
+   "checked_at": "2026-11-09T00:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "73b8a480b8471cfc",
+   "title": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+   "link": "https://www.livemint.com/market/australia-regulator-halts-private-credit-fund-on-bathla-risks-11794181597166.html",
+   "summary": "Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately highlight potential risks.",
+   "published": "2026-11-08T23:46:36+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T00:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8d02b882b0598054",
    "title": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
