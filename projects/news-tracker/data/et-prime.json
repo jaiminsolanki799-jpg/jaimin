@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T12:00:02+00:00",
+ "generated_at": "2026-11-09T12:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 16:27:52 +0530",
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 17:10:40 +0530",
+   "sample_date": "Mon, 09 Nov 2026 17:52:10 +0530",
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 17:08:09 +0530",
    "error": null,
-   "checked_at": "2026-11-09T12:00:02+00:00"
+   "checked_at": "2026-11-09T12:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "2e6affcf83d62453",
+   "title": "Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price",
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-this-week-union-bank-ather-energy-laurus-labs-by-market-expert-check-stop-loss-target-price-11794224157187.html",
+   "summary": "Indian benchmarks rose to their highest levels in over eight months, with the Nifty gaining 0.23% and Sensex 0.13%, as crude prices eased. Markets close Tuesday for Diwali. Analyst Chandan Taparia recommended Union Bank of India, Ather Energy and Laurus Labs, citing bullish technical signals.",
+   "published": "2026-11-09T12:22:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Chandan_Taparia_1788834234050_af1895d2-d413-4eaa-9_1794226812128_xhR4_1794226812355_DWei_844a979c-60e0-4857-b7da-0920281ecf71_OBtw.png",
+   "topics": [],
+   "first_seen": "2026-11-09T12:30:02+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "168f766a5608747e",
+   "title": "700% return in 5 years: KP Energy share price rallies 20% to hit upper circuit ahead of Q2 results 2026- Check details",
+   "link": "https://www.livemint.com/market/stock-market-news/700-return-in-5-years-kp-energy-share-price-rallies-20-to-hit-upper-circuit-ahead-of-q2-results-2026-check-key-detai-11794223729241.html",
+   "summary": "KP Energy shares surged 19.99% to ₹204.95 on Monday, hitting the upper circuit as trading volume rose more than tenfold ahead of the company’s Q2 FY27 results. Its board is scheduled to review the results on November 13.",
+   "published": "2026-11-09T12:18:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/KP_Energy_Upper_Circuit_Surge_1794226645644_MOfm_1794226652717_xOYt_bbe32603-c64c-41cd-8d72-d1c9c4bd491c_rEUZ.png",
+   "topics": [],
+   "first_seen": "2026-11-09T12:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
   {
    "id": "764c2dc93dc80a68",
    "title": "Nvidia shares drop nearly 6% in pre-market as alleged China spy links put Jensen Huang under board scrutiny",
@@ -206,7 +246,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Nvidia_Espionage_Scrutiny_1794220274647_j2Qp_17942_1794223700633_gEAv_1794223700900_4oyN_3765cba0-1eb8-4142-a658-41b77c5b70c5_Ja89.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794226881459_ZZ10_1794226887252_TmmX_de8211a5-2070-42d2-aa3d-b55a5a6432b9_xuh6.jpg",
    "topics": [],
    "first_seen": "2026-11-09T12:00:02+00:00",
    "valuation_score": 0,
@@ -306,7 +346,7 @@
    "id": "af1c03eba5986771",
    "title": "₹670-cr investment fraud: How a former mason allegedly lured 7,400 investors with 4% monthly returns",
    "link": "https://www.livemint.com/money/670cr-investment-fraud-how-a-former-mason-allegedly-lured-7-400-investors-with-4-monthly-returns-11794218973740.html",
-   "summary": "Hyderabad businessman Nanavath Bhupal Naik is accused of running a ₹670-crore investment fraud that affected about 7,400 people. Here's how he pulled out the massive fraud.&nbsp;",
+   "summary": "Hyderabad businessman Nanavath Bhupal Naik is accused of running a ₹670-crore investment fraud that affected about 7,400 people. Here's how he pulled off the massive fraud.&nbsp;",
    "published": "2026-11-09T10:56:23+00:00",
    "source": "Mint Money",
    "group": "Mint",
