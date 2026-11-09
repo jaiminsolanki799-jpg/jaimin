@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-09T10:00:01+00:00",
+ "generated_at": "2026-11-09T10:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Tue, 03 Nov 2026 06:41:01 GMT",
    "error": null,
-   "checked_at": "2026-11-09T10:00:01+00:00"
+   "checked_at": "2026-11-09T10:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 07:41:01 GMT",
+   "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
    "error": null,
-   "checked_at": "2026-11-09T10:00:01+00:00"
+   "checked_at": "2026-11-09T10:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 09 Nov 2026 09:50:54 GMT",
    "error": null,
-   "checked_at": "2026-11-09T10:00:01+00:00"
+   "checked_at": "2026-11-09T10:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 4,
-   "items": 4,
-   "sample_date": "Fri, 24 Apr 2020 02:21:50 GMT",
+   "fetched": 5,
+   "items": 5,
+   "sample_date": "Mon, 09 Nov 2026 06:14:44 GMT",
    "error": null,
-   "checked_at": "2026-11-09T10:00:01+00:00"
+   "checked_at": "2026-11-09T10:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 09 Nov 2026 05:26:29 +0000",
    "error": null,
-   "checked_at": "2026-11-09T10:00:01+00:00"
+   "checked_at": "2026-11-09T10:30:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "c0dcc8bdadff04fa",
+   "title": "PhysicsWallah cites AI efficiencies for job cuts; offline biz faces profit pressure, earmarks $20 Mn for M&A",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzNFdVJTYVhfc1Nqd2dVNUpXSmF4QkhxQ2p4U0xFUWVOQzZIYWNwdFg2ZE5LWW1JZ0xLc0t2VFIwSGlZSjF0MGJXOHFSejlGYUdaLWRVN1cyQmdoZVdKcnlidU04Q0lXVE80UG9mSjhSMGVwMHl0N1FfQzBoQ0tKTXh2b0lqZDdjM0xUSWdVamxWY1FlQjZ5U29DdWVjbmE4amIzbXQwZzQ3eDVYMTNjY0lWTzFwLS1rSHZ5M2Rac0RSWHZmT1dKVUYzUnlobGhnejN2eHVR0gHWAUFVX3lxTFBvM0V1UlNhWF9zU2p3Z1U1SldKYXhCSHFDanhTTEVRZU5DNkhhY3B0WDZkTktZbUlnTEtzS3ZUUjBIaVlKMXQwYlc4cVJ6OUZhR1otZFU3VzJCZ2hlV0pyeWJ1TThDSVdUTzRQb2ZKOFIwZXAweXQ3UV9DMGhDS0pNeHZvSWpkN2MzTFRJZ1VqbFZjUWVCNnlTb0N1ZWNuYThqYjNtdDBnNDd4NVgxM2NjSVZPMXAtLWtIdnkzZFpzRFJYdmZPV0pVRjNSeWhsaGd6M3Z4dVE?oc=5",
+   "summary": "",
+   "published": "2026-11-09T10:02:20+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b8187cba4e57ad69",
    "title": "Gold and Silver Prices in India Today, 9 November 2026: Gold at ₹142,316, Silver at ₹187,510 as Both Edge Higher",
