@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T04:00:02+00:00",
+ "generated_at": "2026-11-09T04:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 09:09:50 +0530",
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 08:47:02 +0530",
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 08:57:35 +0530",
+   "sample_date": "Mon, 09 Nov 2026 09:47:29 +0530",
    "error": null,
-   "checked_at": "2026-11-09T04:00:02+00:00"
+   "checked_at": "2026-11-09T04:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "6a18a8d9542d3d95",
+   "title": "Gold, silver prices today, 9 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-9-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794188827441.html",
+   "summary": "Gold and silver prices today, 9 November: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+   "published": "2026-11-09T04:17:29+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1794189165929_S0qu_1794189170189_4EbI_c13d1d4a-af25-40da-90fa-4e62c790397d_3VIt.png",
+   "topics": [],
+   "first_seen": "2026-11-09T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "06f2389712b6a736",
+   "title": "Post Office MIS: Can you invest ₹15 lakh? 5 rules and ₹9,250 monthly income",
+   "link": "https://www.livemint.com/money/personal-finance/post-office-mis-can-you-invest-15-lakh-5-rules-and-9-250-monthly-income-11794194361956.html",
+   "summary": "Post Office MIS: ₹15 lakh in a joint account at 7.4% pays ₹9,250 a month. Know the limits, withdrawal penalties and tax rules before you invest.",
+   "published": "2026-11-09T04:03:57+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/91fc9e2b-15bc-4ffe-bdef-a3c3fdfb9508_1794194933892_t6Sh_1794194941097_t4M6_6a5e6524-d34a-4ee0-a747-adef62b2107c_LnQR.png",
+   "topics": [],
+   "first_seen": "2026-11-09T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4a5a6ce48f4a769e",
    "title": "Maharaja Club members can now earn Air India flight upgrades through premium lifestyle e-commerce purchases — Here’s how",
