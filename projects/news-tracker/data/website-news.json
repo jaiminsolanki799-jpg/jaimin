@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-09T05:00:01+00:00",
+ "generated_at": "2026-11-09T05:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Tue, 03 Nov 2026 06:41:01 GMT",
    "error": null,
-   "checked_at": "2026-11-09T05:00:01+00:00"
+   "checked_at": "2026-11-09T05:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
+   "sample_date": "Fri, 06 Nov 2026 07:41:01 GMT",
    "error": null,
-   "checked_at": "2026-11-09T05:00:01+00:00"
+   "checked_at": "2026-11-09T05:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 07 Nov 2026 09:23:17 GMT",
    "error": null,
-   "checked_at": "2026-11-09T05:00:01+00:00"
+   "checked_at": "2026-11-09T05:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 4,
-   "items": 4,
+   "fetched": 3,
+   "items": 3,
    "sample_date": "Sat, 07 Nov 2026 06:22:32 GMT",
    "error": null,
-   "checked_at": "2026-11-09T05:00:01+00:00"
+   "checked_at": "2026-11-09T05:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 08 Nov 2026 22:00:00 +0000",
+   "sample_date": "Mon, 09 Nov 2026 05:26:29 +0000",
    "error": null,
-   "checked_at": "2026-11-09T05:00:01+00:00"
+   "checked_at": "2026-11-09T05:30:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "fdfdfd60876dfdbc",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+   "published": "2026-11-09T05:26:29+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T05:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "497053bf21bb897a",
    "title": "Nvidia CEO Jensen Huang admits affair amid Chinese spying allegations; board launches probe",
