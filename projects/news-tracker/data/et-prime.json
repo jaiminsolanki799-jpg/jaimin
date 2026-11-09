@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T15:00:01+00:00",
+ "generated_at": "2026-11-09T15:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 20:22:37 +0530",
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 20:17:23 +0530",
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 19:50:35 +0530",
+   "sample_date": "Mon, 09 Nov 2026 20:43:21 +0530",
    "error": null,
-   "checked_at": "2026-11-09T15:00:01+00:00"
+   "checked_at": "2026-11-09T15:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "37f1fa988e664744",
+   "title": "NPS returns: Choosing a pension fund for retirement? Why subscribers should look beyond one-year performance",
+   "link": "https://www.livemint.com/money/personal-finance/nps-returns-choosing-a-pension-fund-for-retirement-why-subscribers-should-look-beyond-one-year-performance-11794235842342.html",
+   "summary": "Choosing an NPS pension fund based on one-year returns can be misleading. Investors should assess rolling returns, upside and downside performance, and volatility to understand how consistently a scheme has beaten its benchmark across different market cycles.",
+   "published": "2026-11-09T15:13:21+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generated_Image_18hc218hwc218hw_1794236170_1794236188077_oVoM_1794236188198_7xhQ_0cdc46f2-1106-4c9e-8872-388b073f39a5_Cy3E.png",
+   "topics": [],
+   "first_seen": "2026-11-09T15:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9e980c6cfe933992",
    "title": "What is WuXi AppTec? Why Chinese biotech giant was removed from Pentagon's military list",
@@ -260,7 +278,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/SINGAPORE-OCEAN-FINANCEIAL-CENTRE-6_1794231308526_imGZ_1794231396479_1KQX_37d635d6-fdbe-498e-80a5-d87eba3cc16e_gWWG.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/nvidia_1794237146996_7ee4_1794237147123_YYFh_69b3ffba-5361-42ed-a257-2e21b1993891_lSNF.jpg",
    "topics": [],
    "first_seen": "2026-11-09T14:30:01+00:00",
    "valuation_score": 0,
@@ -426,7 +444,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Alice_Huang_1794207972508_1794227553079_TOMw_1794227553198_koms_cb93d93c-279d-483a-b27a-0d14f40bc610_IF1L.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794236783142_g51k_1794236788862_6Ssu_1cb3446b-de60-4ad6-b08e-70db29a75167_BDw5.jpg",
    "topics": [],
    "first_seen": "2026-11-09T13:00:04+00:00",
    "valuation_score": 0,
