@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T20:30:02+00:00",
+ "generated_at": "2026-11-09T21:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,18 +112,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 01:18:19 +0530",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 01:33:43 +0530",
+   "sample_date": "Tue, 10 Nov 2026 02:03:48 +0530",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 23:44:17 +0530",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "480ac9a02e2f98c5",
+   "title": "Viking Loses 1.2% in October After Eschewing Many Big AI Bets",
+   "link": "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
+   "summary": "Viking Global Investors’ flagship hedge fund dropped 1.2% last month, faring better than many of its rivals after largely avoiding high-flying artificial-intelligence stocks.",
+   "published": "2026-11-09T20:33:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-09T21:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4d99c009ee02d048",
    "title": "Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran",

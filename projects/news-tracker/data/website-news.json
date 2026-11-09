@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-09T20:30:02+00:00",
+ "generated_at": "2026-11-09T21:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Tue, 03 Nov 2026 06:41:01 GMT",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 06 Nov 2026 14:18:16 GMT",
+   "sample_date": "Sun, 08 Nov 2026 13:06:32 GMT",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 09 Nov 2026 12:32:20 GMT",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 5,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 09 Nov 2026 20:09:06 +0000",
+   "sample_date": "Mon, 09 Nov 2026 20:55:34 +0000",
    "error": null,
-   "checked_at": "2026-11-09T20:30:02+00:00"
+   "checked_at": "2026-11-09T21:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "4f9c8174d84b7a75",
+   "title": "Fervo now has $12B in orders for its geothermal power tech",
+   "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+   "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+   "published": "2026-11-09T20:55:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T21:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "39befa3379491d53",
    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
@@ -826,7 +844,7 @@
    "id": "bb2b94d807a6d9ed",
    "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
    "link": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education",
-   "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 256th quiz. Ready?",
+   "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 257th quiz. Ready?",
    "published": "2026-11-08T02:15:00+00:00",
    "source": "YourStory",
    "group": "YourStory",
