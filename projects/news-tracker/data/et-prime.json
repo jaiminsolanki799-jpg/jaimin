@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T19:30:02+00:00",
+ "generated_at": "2026-11-09T20:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 1,
-   "items": 1,
-   "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
+   "fetched": 2,
+   "items": 2,
+   "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 00:33:32 +0530",
+   "sample_date": "Tue, 10 Nov 2026 01:18:19 +0530",
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 00:00:48 +0530",
+   "sample_date": "Tue, 10 Nov 2026 01:03:00 +0530",
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 23:44:17 +0530",
    "error": null,
-   "checked_at": "2026-11-09T19:30:02+00:00"
+   "checked_at": "2026-11-09T20:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "c8a03e8a618ecd85",
+   "title": "Brazils Braskem creditors, shareholders target Wednesday deadline for debt deal, sources say",
+   "link": "https://www.livemint.com/companies/brazils-braskem-creditors-shareholders-target-wednesday-deadline-for-debt-deal-sources-say-11794253700070.html",
+   "summary": "BRASKEM-BRAZIL/ (PI",
+   "published": "2026-11-09T19:48:19+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+   "topics": [],
+   "first_seen": "2026-11-09T20:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bb2b7ad322cc8a73",
+   "title": "Canadian dollar underperforms most G10 currencies as oil falls",
+   "link": "https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html",
+   "summary": "CANADA-FOREX/:CANADA FX DEBT-Canadian dollar underperforms most G10 currencies as oil falls",
+   "published": "2026-11-09T19:33:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T20:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b957bbf5f61ee410",
    "title": "Nvidias investigation into CEO Huangs affair puts a spotlight on chip billionaires personal life",
@@ -245,6 +281,24 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
    "topics": [],
    "first_seen": "2026-11-09T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "620d321a8e751b89",
+   "title": "Business of Odd Things: The farm that needs no land, freshwater, or fertiliser",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVi1NLWdmU3dab0VnX2t3NDhtTGtnQmRXMUczT0JMbnJRNklMWlNYbERJcjE1NU5vZFBXTUNybFVYVmkzV1kzRUhya1UtU3l0NE5GZXRqWGdqcElDdk4yQzNkaktlMEpBYWZXeHliZTVYMTJOM2JOc1BtTFl6WnZhZEgwbnNtdFRFSWNqZ19GQTE2LWRQNjR3WG1VZXJhV1FWeWxLY3ZlMWgxMGpoU3hSdlRaVTZhNGhEWmVWOTg3anBmYXBRaU13Yjl3dXotbEptYmduZjNHOVhzZXFNZ1ZSNnhxUdIB3AFBVV95cUxPNXJMRmQ4RnlKZXFkUm1lVDNCejRwaHFPWjZvSEltYklYX0VaMDJWUnk2S1RBX2dWUDRqVDFqa0F2R05QeGZSaGFBSXlscjIxVkFIbGpnOXR5LTRaYU5WWkVRMm5tVzR3WUJ1WUkyQkZVanlXZlYyTXpTdERrclFUajlTdjBSQjFUNjhNSlhtbTdxbEJfcVZBNzRneHpjMHhkQ0F6ODJrZ0pvMnlNc3FDNUR4VGJHYkJmbEZIUUVVWFNSRTdsYTZNZjMyeWd0X1BzY0FPalpMRDZMYWxs?oc=5",
+   "summary": "",
+   "published": "2026-11-09T18:37:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T20:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
