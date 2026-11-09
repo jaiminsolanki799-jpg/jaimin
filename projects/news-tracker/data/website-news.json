@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-09T11:30:02+00:00",
+ "generated_at": "2026-11-09T12:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Tue, 03 Nov 2026 06:41:01 GMT",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Fri, 06 Nov 2026 08:22:11 GMT",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 09 Nov 2026 09:50:54 GMT",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 5,
    "sample_date": "Mon, 09 Nov 2026 06:14:44 GMT",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 09 Nov 2026 05:26:29 +0000",
+   "sample_date": "Mon, 09 Nov 2026 11:30:24 +0000",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "5fb3e99b55398ee3",
+   "title": "Tesla expands robotaxi service to San Antonio",
+   "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+   "summary": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+   "published": "2026-11-09T11:30:24+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-09T12:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f6e2533dd3b1560f",
    "title": "Sarvam names Google Cloud India head Sashikumar Sreedharan as president & chief business officer",
@@ -263,6 +281,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T05:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c8764da4466e0e89",
+   "title": "Best AI Excel Formula Generators",
+   "link": "https://startuptalky.com/best-ai-excel-formula-generators/",
+   "summary": "Discover the best AI-powered Excel formula generators that simplify complex calculations, automate tasks, and enhance spreadsheet efficiency.",
+   "published": "2026-11-09T02:30:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Vivek Dev Jacob",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/02/best-ai-excel-formula-generators-startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T12:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },

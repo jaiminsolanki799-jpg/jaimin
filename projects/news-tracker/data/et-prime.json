@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-09T11:30:02+00:00",
+ "generated_at": "2026-11-09T12:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 1,
    "sample_date": "Thu, 05 Nov 2026 17:14:00 GMT",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 16:27:52 +0530",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 16:50:38 +0530",
+   "sample_date": "Mon, 09 Nov 2026 17:10:40 +0530",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 09 Nov 2026 16:39:50 +0530",
+   "sample_date": "Mon, 09 Nov 2026 17:08:09 +0530",
    "error": null,
-   "checked_at": "2026-11-09T11:30:02+00:00"
+   "checked_at": "2026-11-09T12:00:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,60 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "764c2dc93dc80a68",
+   "title": "Nvidia shares drop nearly 6% in pre-market as alleged China spy links put Jensen Huang under board scrutiny",
+   "link": "https://www.livemint.com/market/stock-market-news/nvidia-shares-drop-nearly-6-in-pre-market-as-alleged-china-spy-links-put-jensen-huang-under-board-scrutiny-11794222872171.html",
+   "summary": "Nvidia shares fell 6% in pre-market trading after the company’s board launched an investigation into CEO Jensen Huang following reports of an affair with a woman suspected by US authorities of spying for China.&nbsp;",
+   "published": "2026-11-09T11:40:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Nvidia_Espionage_Scrutiny_1794220274647_j2Qp_17942_1794223700633_gEAv_1794223700900_4oyN_3765cba0-1eb8-4142-a658-41b77c5b70c5_Ja89.png",
+   "topics": [],
+   "first_seen": "2026-11-09T12:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5f07145deb5347a7",
+   "title": "Sold your house and accepted ₹11 lakh in cash? ITAT deletes penalty, citing seller's lack of awareness of tax rules",
+   "link": "https://www.livemint.com/money/personal-finance/sold-your-house-and-accepted-11-lakh-in-cash-itat-deletes-penalty-citing-sellers-lack-of-awareness-of-tax-rules-11794216038696.html",
+   "summary": "ITAT Jaipur deleted an ₹11 lakh penalty on a farmer who accepted cash while selling his house for ₹22.5 lakh. The tribunal cited his lack of awareness of tax rules and held that reasonable cause justified relief under Section 273B.",
+   "published": "2026-11-09T11:38:09+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generated_Image_3ik3qw3ik3qw3ik3_17942162_1794216217323_eG80_1794216217468_TTDz_131d481c-2c09-405d-a4d7-519e8099b110_ZZuD.png",
+   "topics": [],
+   "first_seen": "2026-11-09T12:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1ad30c6117ebf25e",
+   "title": "Alphabet eyes $3 billion bond sale in Hong Kong, Singapore: How Google parent is leveraging Asian markets amid AI fears",
+   "link": "https://www.livemint.com/market/stock-market-news/alphabet-eyes-3-billion-bond-sale-in-hong-kong-singapore-how-google-parent-is-leveraging-asian-markets-amid-ai-fears-11794219861137.html",
+   "summary": "Google parent company considers raising funds in Asian currencies as investors reassess technology firms' AI spending and borrowing costs rise",
+   "published": "2026-11-09T11:29:32+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/alphabet_1794221902303_lm0d_1794221923909_AmN9_d5175b7f-1460-415e-8baa-b62158027d97_SZSa.jpg",
+   "topics": [],
+   "first_seen": "2026-11-09T12:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d784e673a5a94db8",
    "title": "Best power stock to buy: Samvat 2083 picks | Adani Power, Tata Power, Vedanta Power to NTPC — What market experts say",
