@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T06:00:01+00:00",
+ "generated_at": "2026-11-10T06:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 10:50:36 +0530",
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 10:45:52 +0530",
+   "sample_date": "Tue, 10 Nov 2026 11:54:37 +0530",
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 11:17:41 +0530",
    "error": null,
-   "checked_at": "2026-11-10T06:00:01+00:00"
+   "checked_at": "2026-11-10T06:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "3f6ccb6d438e5936",
+   "title": "TCPL Packaging shares : InCred Equities recommends this high-conviction stock with 18% upside | Check target, returns",
+   "link": "https://www.livemint.com/market/stock-market-news/tcpl-packaging-shares-incred-equities-recommends-this-high-conviction-stock-with-18-upside-check-target-returns-11794287696958.html",
+   "summary": "TCPL Packaging reported a strong performance for the September quarter of FY27, with consolidated sales growing 21.8% year-on-year and 13.8% sequentially to ₹560 crore.",
+   "published": "2026-11-10T06:24:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/TCPL_1794291592022_eMpD_1794291592188_94MW_da37c483-f748-4c98-8c93-d328f20f3ace_F3DC.png",
+   "topics": [],
+   "first_seen": "2026-11-10T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8b198e3f2eb756e7",
+   "title": "IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus",
+   "link": "https://www.livemint.com/market/ipo-lock-in-expiry-35-billion-in-shares-set-to-unlock-across-116-companies-jio-nse-zetwerk-in-focus-11794289275423.html",
+   "summary": "Upcoming IPO lock-in expiries could bring shares worth an estimated $35 billion onto investors’ radar, including holdings in Jio Platforms, Shiprocket and SBI Funds Management. The actual market impact will depend on which shareholders choose to sell and prevailing conditions.",
+   "published": "2026-11-10T06:17:34+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/IPO_Lock_In_Expiry_1794291153784_TeWE_1794291156969_7wAP_142e1450-787b-43a1-b8a1-62479de7a009_uHEG.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-10T06:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "b174c071e11b7d24",
+   "title": "Zerodha CEO Nithin Kamath on cryptocurrency, prediction markets boom: ‘Nothing expands the markets like greed, FOMO'",
+   "link": "https://www.livemint.com/market/stock-market-news/zerodha-ceo-nithin-kamath-on-cryptocurrency-prediction-markets-boom-nothing-expands-the-markets-like-greed-fomo-11794289135575.html",
+   "summary": "Nithin Kamath says the US market has changed sharply since COVID, as crypto derivatives, ETFs and prediction markets attract mainstream participation. He sees speculative assets as a potential gateway to investing, while warning that their risks and volatility can harm individuals and society.",
+   "published": "2026-11-10T06:02:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Nithin_Kamath__Crypto_Market_Boom_1794290500064_rCPM_1794290506886_P3gq_04b30bae-cc95-4fef-aa0d-95fdf7419012_yyjF.png",
+   "topics": [],
+   "first_seen": "2026-11-10T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d4dfb7d99b9b1810",
    "title": "Amex credit card points clawback: Why customers are losing Membership Rewards points and what they should do next",
