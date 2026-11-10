@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T18:30:01+00:00",
+ "generated_at": "2026-11-10T19:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T18:30:01+00:00"
+   "checked_at": "2026-11-10T19:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T18:30:01+00:00"
+   "checked_at": "2026-11-10T19:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T18:30:01+00:00"
+   "checked_at": "2026-11-10T19:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 12,
    "items": 12,
-   "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
+   "sample_date": "Tue, 10 Nov 2026 04:34:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T18:30:01+00:00"
+   "checked_at": "2026-11-10T19:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 17:30:00 +0000",
+   "sample_date": "Tue, 10 Nov 2026 18:49:52 +0000",
    "error": null,
-   "checked_at": "2026-11-10T18:30:01+00:00"
+   "checked_at": "2026-11-10T19:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "ccdccf818b30a0e0",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "published": "2026-11-10T18:49:52+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8237f511443bcf97",
+   "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+   "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+   "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+   "published": "2026-11-10T18:49:19+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fd8e1c638d2dc1c1",
    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -111,7 +147,7 @@
   },
   {
    "id": "9e3a285c4c5f85cb",
-   "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+   "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
    "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
    "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
    "published": "2026-11-10T16:50:38+00:00",
