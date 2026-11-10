@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T13:00:02+00:00",
+ "generated_at": "2026-11-10T13:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 6,
-   "items": 6,
+   "fetched": 5,
+   "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:00:02+00:00"
+   "checked_at": "2026-11-10T13:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:11:09 GMT",
+   "sample_date": "Tue, 10 Nov 2026 06:42:44 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:00:02+00:00"
+   "checked_at": "2026-11-10T13:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 10 Nov 2026 11:31:55 GMT",
+   "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:00:02+00:00"
+   "checked_at": "2026-11-10T13:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 11,
    "sample_date": "Tue, 10 Nov 2026 04:34:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:00:02+00:00"
+   "checked_at": "2026-11-10T13:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 07:00:00 +0000",
+   "sample_date": "Tue, 10 Nov 2026 13:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T13:00:02+00:00"
+   "checked_at": "2026-11-10T13:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "a311fcc03dae1eaa",
+   "title": "5 lessons from Hospitality with a Heart by Amrita Tripathi",
+   "link": "https://yourstory.com/2026/11/lesson-hospitality-book",
+   "summary": "Discover five powerful lessons from Hospitality with a Heart by Amrita Tripathi, a book exploring identity, acceptance, empathy and workplace inclusion.",
+   "published": "2026-11-10T13:19:33+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T13:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5696e2bfcb98e372",
+   "title": "Temple Device Controversy Triggers Calls for Government Probe as Deepinder Goyal Breaks Silence",
+   "link": "https://startuptalky.com/news/temple-device-controversy-triggers-calls/",
+   "summary": "Temple, the INR 85,000 wearable device by eternal entrepreneur Deepinder Goyal, is facing backlash after clinical specialists raised questions about its scientific claims and demanded a government probe. Researchers said there was not enough evidence to support certain advertized metrics.",
+   "published": "2026-11-10T13:13:11+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/temple-device-controversy-triggers-calls-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T13:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1c52468d7a994ee2",
+   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+   "published": "2026-11-10T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T13:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "25c5e20baf986fe6",
    "title": "National Startup Awards 6.0 opens applications; winners to receive Rs 25 lakh prize in 20 categories",
