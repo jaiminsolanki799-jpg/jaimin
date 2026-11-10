@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T11:00:01+00:00",
+ "generated_at": "2026-11-10T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 6,
-   "items": 6,
+   "fetched": 5,
+   "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T11:00:01+00:00"
+   "checked_at": "2026-11-10T11:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:11:09 GMT",
+   "sample_date": "Tue, 10 Nov 2026 10:02:16 GMT",
    "error": null,
-   "checked_at": "2026-11-10T11:00:01+00:00"
+   "checked_at": "2026-11-10T11:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 10 Nov 2026 10:19:52 GMT",
+   "sample_date": "Tue, 10 Nov 2026 11:01:37 GMT",
    "error": null,
-   "checked_at": "2026-11-10T11:00:01+00:00"
+   "checked_at": "2026-11-10T11:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 10,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-10T11:00:01+00:00"
+   "checked_at": "2026-11-10T11:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 10 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T11:00:01+00:00"
+   "checked_at": "2026-11-10T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "ca7a43415740a080",
+   "title": "OpenAI unveils a 'Control Room' safety feature that shuts down AI agents from going rogue in 35 seconds",
+   "link": "https://yourstory.com/2026/11/openai-unveils-control-room-feature-stops-ai-safety-security-concerns-35-seconds",
+   "summary": "OpenAI said Control Room will connect every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. It will work together with its misalignment monitoring systems.",
+   "published": "2026-11-10T11:10:42+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fa5496c7f5585659",
+   "title": "From Screen Recording to Product Demo: A SaaS Video Workflow with Filmora 16",
+   "link": "https://startuptalky.com/saas-product-demo-workflow-filmora-16/",
+   "summary": "Transforming a single SaaS screen recording into a focused demo and shareable social video.",
+   "published": "2026-11-10T11:01:37+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/saas-product-demo-filmora-16-featured.webp",
+   "topics": [],
+   "first_seen": "2026-11-10T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bd162172a4202f9c",
    "title": "Qantas Airways Plans 850 Layoffs in Australia, Shifts Some Operations to India",
