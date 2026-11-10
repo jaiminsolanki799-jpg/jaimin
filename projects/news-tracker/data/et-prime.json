@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T16:00:02+00:00",
+ "generated_at": "2026-11-10T16:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 20:55:35 +0530",
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 21:16:36 +0530",
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 20:52:47 +0530",
+   "sample_date": "Tue, 10 Nov 2026 21:45:47 +0530",
    "error": null,
-   "checked_at": "2026-11-10T16:00:02+00:00"
+   "checked_at": "2026-11-10T16:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "fd2be8c0a43ef485",
+   "title": "7th Pay Commission: Level 5 salary rises to ₹62,224 with 63% DA—here’s why your place of posting alters final figure",
+   "link": "https://www.livemint.com/money/personal-finance/7th-pay-commission-level-5-salary-rises-to-rs-62-224-with-63-da-here-s-why-your-place-of-posting-alters-final-figure-11794322914582.html",
+   "summary": "Basic pay of ₹29,200, Dearness Allowance, HRA and Transport Allowance determine monthly gross salary; annual earnings reach approximately ₹7.47 lakh in X-class cities.",
+   "published": "2026-11-10T16:15:47+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/pay_1794323754141_XeBF_1794323770151_z5gr_57b95677-1bb3-4caf-b4db-efae12ad9c20_trHn.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T16:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "59a8ddd7151c1c56",
+   "title": "EPS-95 higher pension: NCPA asks EPFO to withdraw January 2025 circular and stop rejecting retirees' claims",
+   "link": "https://www.livemint.com/money/personal-finance/eps95-higher-pension-ncpa-asks-epfo-to-withdraw-january-2025-circular-and-stop-rejecting-retirees-claims-11794323967411.html",
+   "summary": "The NCPA has urged EPFO to stop rejecting EPS-95 higher pension claims, withdraw its January 2025 circular and withdraw pending court appeals, alleging that retirees are being denied benefits through technicalities despite the Supreme Court's 2022 judgment.",
+   "published": "2026-11-10T16:14:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Gemini_Generated_Image_knpyfkvnpyfkvnp_179432715_1794327167202_likr_1794327167305_eS6H_b7b75e80-e210-4fe8-b5f9-b19217325ebe_zoh8.png",
+   "topics": [],
+   "first_seen": "2026-11-10T16:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7837c943ab6514d7",
+   "title": "Bihar DA hike ahead of Chhath Puja: State govt employees' allowance rises from 60% to 63% — check details",
+   "link": "https://www.livemint.com/money/bihar-da-hike-ahead-of-chhath-puja-state-govt-employees-allowance-rises-from-60-to-63-check-details-11794326405032.html",
+   "summary": "The Bihar Cabinet has approved a three-percentage-point increase in dearness allowance for state employees and dearness relief for pensioners, effective July 1, 2026.&nbsp;",
+   "published": "2026-11-10T16:06:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/pexels-photo-5849581_1781835515103_1781835539954_f831799b-f060-4c47-87ad-2f2c27a1432e_1794326798288_Sadd_23863360-8b66-4707-8f4c-281bbd0ed82f_OfQ4.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-10T16:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "05468d6d31c42ee5",
    "title": "Nifty PSU Bank Index Performance: Bank of India, UCO Bank among 7 stocks rebound 15–56% from 1-yr lows - here’s why",
@@ -477,7 +531,7 @@
   },
   {
    "id": "14a18ab88667f293",
-   "title": "Mukul Agrawal buys office space in Lodha's Worli project for ₹163 crore",
+   "title": "Mukul Agrawal buys office space in Lodha’s Worli project for ₹163 crore",
    "link": "https://www.livemint.com/companies/news/mukul-agrawal-buys-office-space-in-lodhas-worli-project-for-163-crore-11794298508734.html",
    "summary": "Param Capital founder and ace investor Mukul Agrawal has bought 20,000 sq. ft across the entire 46th floor of Lodha Promina, as the Mumbai developer expands its commercial office portfolio.",
    "published": "2026-11-10T12:28:30+00:00",
