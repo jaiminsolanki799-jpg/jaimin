@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T13:30:01+00:00",
+ "generated_at": "2026-11-10T14:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:30:01+00:00"
+   "checked_at": "2026-11-10T14:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 06:42:44 GMT",
+   "sample_date": "Tue, 10 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:30:01+00:00"
+   "checked_at": "2026-11-10T14:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:30:01+00:00"
+   "checked_at": "2026-11-10T14:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 11,
    "sample_date": "Tue, 10 Nov 2026 04:34:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T13:30:01+00:00"
+   "checked_at": "2026-11-10T14:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 13:00:00 +0000",
+   "sample_date": "Tue, 10 Nov 2026 13:30:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T13:30:01+00:00"
+   "checked_at": "2026-11-10T14:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "12a5dbf5df50952b",
+   "title": "With Jensen Huang under fire, Nvidia looks at sucession plans",
+   "link": "https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight",
+   "summary": "The controversy over Nvidia CEO Jensen Huang’s improper relationship with a Chinese citizen has raised national security concerns for the US.",
+   "published": "2026-11-10T13:45:28+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T14:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c5e9e08f64384a91",
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "published": "2026-11-10T13:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T14:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7b3e831cece18d95",
+   "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
+   "link": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
+   "summary": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
+   "published": "2026-11-10T13:29:42+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T14:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "4ac5c506ceb360f7",
+   "title": "3 Books to read instead of doomscrolling every day",
+   "link": "https://yourstory.com/2026/11/books-instead-droomscrolling",
+   "summary": "Replace endless scrolling with meaningful reading. Discover three books that can help you reclaim your attention & build healthier digital habits.",
+   "published": "2026-11-10T13:24:51+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T14:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a311fcc03dae1eaa",
    "title": "5 lessons from Hospitality with a Heart by Amrita Tripathi",
