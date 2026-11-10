@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T09:30:02+00:00",
+ "generated_at": "2026-11-10T10:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:30:02+00:00"
+   "checked_at": "2026-11-10T10:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:30:02+00:00"
+   "checked_at": "2026-11-10T10:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 08:51:25 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:30:02+00:00"
+   "checked_at": "2026-11-10T10:00:03+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 9,
-   "items": 9,
+   "fetched": 10,
+   "items": 10,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:30:02+00:00"
+   "checked_at": "2026-11-10T10:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 10 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T09:30:02+00:00"
+   "checked_at": "2026-11-10T10:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "f04279d69adc4f1e",
+   "title": "Blue Tokai crosses Rs 500 Cr revenue in FY26; losses up 54%",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWVJDQ0cybEcxYXNxUUpxd19tVWgxbHFXNEJRdjMxVjF2OEVjY2trazFnb3hLeG1BcE9uVWhJWlpGNmdnTXFaVDJ0bndJMTFLYUdoeWJCSzBrYmNDUkRWWVZQamhKdFlrVXhSYXJzZ1BTQjkxb3htVHFrRG9uUGptWm5sb1dWOFd4V3RkUlRPNHIxSzE4RWlCOGpWbzhqUdIBngFBVV95cUxNWVJDQ0cybEcxYXNxUUpxd19tVWgxbHFXNEJRdjMxVjF2OEVjY2trazFnb3hLeG1BcE9uVWhJWlpGNmdnTXFaVDJ0bndJMTFLYUdoeWJCSzBrYmNDUkRWWVZQamhKdFlrVXhSYXJzZ1BTQjkxb3htVHFrRG9uUGptWm5sb1dWOFd4V3RkUlRPNHIxSzE4RWlCOGpWbzhqUQ?oc=5",
+   "summary": "",
+   "published": "2026-11-10T09:47:29+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T10:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cf81ab0a7a0f0215",
+   "title": "From conversations to action: How Cogover is addressing commitment leakage in Indian enterprises",
+   "link": "https://yourstory.com/2026/11/cogover-commitment-leakage-indian-enterprises",
+   "summary": "Selected for NetApp Excellerator, Cogover is connecting customer conversations, business workflows, and AI agents to help enterprises turn commitments into accountable action.",
+   "published": "2026-11-10T09:47:17+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T10:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "81b9d4a267b740f0",
    "title": "Beyond the cloud: Why businesses are turning to on-device AI",
