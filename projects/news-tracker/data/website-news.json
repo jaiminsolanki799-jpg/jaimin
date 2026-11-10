@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T07:00:02+00:00",
+ "generated_at": "2026-11-10T07:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T07:00:02+00:00"
+   "checked_at": "2026-11-10T07:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 10 Nov 2026 06:42:44 GMT",
    "error": null,
-   "checked_at": "2026-11-10T07:00:02+00:00"
+   "checked_at": "2026-11-10T07:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 10 Nov 2026 06:24:52 GMT",
+   "sample_date": "Tue, 10 Nov 2026 07:08:58 GMT",
    "error": null,
-   "checked_at": "2026-11-10T07:00:02+00:00"
+   "checked_at": "2026-11-10T07:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 7,
-   "items": 7,
+   "fetched": 8,
+   "items": 8,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-10T07:00:02+00:00"
+   "checked_at": "2026-11-10T07:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 05:18:43 +0000",
+   "sample_date": "Tue, 10 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T07:00:02+00:00"
+   "checked_at": "2026-11-10T07:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "b777d71491088fb4",
+   "title": "Iran Accused of Hacking French Supermarket Refrigeration Systems in Cyberattack",
+   "link": "https://startuptalky.com/news/iran-accused-of-hacking-french-supermarket/",
+   "summary": "France has charged the Islamic Revolutionary Guard Corps of Iran with planning a large-scale hack on supermarket refrigeration systems on October 12, which affected roughly 700 outlets across the country. On Nov 9, Paris summoned the Iranian ambassador.",
+   "published": "2026-11-10T07:08:58+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/iran-accused-of-hacking-french-supermarket-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1b18832a8d2c83f7",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "published": "2026-11-10T07:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lauren Forristal",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b6fabcb7fe719029",
    "title": "Neha Nagar wants to help people take control of their financial future through her debut book",
