@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T09:00:02+00:00",
+ "generated_at": "2026-11-10T09:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 6,
-   "items": 6,
+   "fetched": 5,
+   "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:00:02+00:00"
+   "checked_at": "2026-11-10T09:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 06:42:44 GMT",
+   "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:00:02+00:00"
+   "checked_at": "2026-11-10T09:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 08:51:25 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:00:02+00:00"
+   "checked_at": "2026-11-10T09:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
+   "fetched": 9,
+   "items": 9,
    "sample_date": "Mon, 09 Nov 2026 06:26:22 GMT",
    "error": null,
-   "checked_at": "2026-11-10T09:00:02+00:00"
+   "checked_at": "2026-11-10T09:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 10 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T09:00:02+00:00"
+   "checked_at": "2026-11-10T09:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "81b9d4a267b740f0",
+   "title": "Beyond the cloud: Why businesses are turning to on-device AI",
+   "link": "https://yourstory.com/2026/11/beyond-the-cloud-why-businesses-are-turning-to-on-device-ai",
+   "summary": "At TechSparks 2026, Brilyant CEO Akash Saxenaa explained how running AI models locally can help businesses control costs, protect sensitive data, and reduce their dependence on the cloud. AI tools have made it easier for businesses to analyze documents, generate content, and automate tasks. But",
+   "published": "2026-11-10T09:16:11+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "36cc64b283c362c2",
+   "title": "Sarvam appoints former Google Cloud India MD Sashikumar Sreedharan as President and CBO",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVR2RjV2QmplYl9kZlpzZWRhRG91U3N2STI0Mjc0Z3BWcndENVE1ZE91SFczSWJoY1oycFFaU3RpUzVXMzJGMFhVQ1UtLVdtdVBwVHFVOGdacnFlOHEya1Bqb0psekV5MjdsUS1NVVhiOFpyN2hWVEZEOEVYQkgxcWRweFFXOHUxSFZWY1YwUjRlLS16NE5sQlpHRWlORmhZd1NmQ1h6cGxJYTFoTTFHU21qQlpUZWpLRV9jWS1NNjBFUjZF0gHEAUFVX3lxTE8tVHZGNXZCamViX2RmWnNlZGFEb3VTc3ZJMjQyNzRncFZyd0Q1UTVkT3VIVzNJYmhjWjJwUVpTdGlTNVczMkYwWFVDVS0tV211UHBUcVU4Z1pycWU4cTJrUGpvSmx6RXkyN2xRLU1VWGI4WnI3aFZURkQ4RVhCSDFxZHB4UVc4dTFIVlZjVjBSNGUtLXo0TmxCWkdFaU5GaFl3U2ZDWHpwbElhMWhNMUdTbWpCWlRlaktFX2NZLU02MEVSNkU?oc=5",
+   "summary": "",
+   "published": "2026-11-10T09:14:01+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "44ea42a6f60a9a54",
+   "title": "How Bout India built a travel company without selling packages",
+   "link": "https://yourstory.com/2026/11/how-bout-india-built-a-travel-company-without-selling-packages",
+   "summary": "By refusing the cookie‑cutter tour, Himanshu Maru and his co‑founders turned personalization into a moat, earning 970+ glowing reviews and a loyal global clientele. Himanshu Maru started Bout India in 2013 with a simple bet: that international travellers to India wanted something built around t",
+   "published": "2026-11-10T09:11:09+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "99e178a4a6c0d661",
+   "title": "Why storytelling can be a startup's strongest competitive moat",
+   "link": "https://yourstory.com/2026/11/techsparks-2026-masterclass-storytelling-strongest-competitive-moat-startups",
+   "summary": "At TechSparks 2026, Shweta Rajpal Kohli, President and CEO of Startup Policy Forum, explained why founders need to tell authentic, distinctive stories and how storytelling can help build trust and differentiate a business.",
+   "published": "2026-11-10T09:04:09+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-10T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ecd6bd26f310566e",
    "title": "Nvidia’s Board Investigation into Huang’s Alleged Affair Faces Potential Conflict of Interest",
