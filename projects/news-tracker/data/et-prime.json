@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T12:00:01+00:00",
+ "generated_at": "2026-11-10T12:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,18 +101,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,18 +123,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 17:18:03 +0530",
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 17:16:44 +0530",
+   "sample_date": "Tue, 10 Nov 2026 17:49:59 +0530",
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 17:26:05 +0530",
+   "sample_date": "Tue, 10 Nov 2026 17:31:17 +0530",
    "error": null,
-   "checked_at": "2026-11-10T12:00:01+00:00"
+   "checked_at": "2026-11-10T12:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "3b3405d786c81058",
+   "title": "Nvidia in Crisis! China Spy Allegations, FBI Probe, shares crash, more: Key things investors should know - Still a buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/nvidia-in-crisis-china-spy-allegations-fbi-probe-shares-crash-more-key-things-investors-should-know-still-a-buy-11794309541206.html",
+   "summary": "Nvidia CEO Jensen Huang faces an FBI investigation, congressional scrutiny, an independent board inquiry and a shareholder lawsuit after reports linked him to Alice Huang, a Chinese businesswoman suspected by US intelligence of espionage.&nbsp;",
+   "published": "2026-11-10T12:19:59+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/NVIDIA_Crisis__Spy_Allegations_and_Stock_Slide_179_1794311499671_sixl_1794311499816_T9xg_628d343e-f531-4e36-8d8d-29831803930b_m5rG.png",
+   "topics": [],
+   "first_seen": "2026-11-10T12:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a43ee87bea0ce2b1",
+   "title": "Banks open or closed tomorrow, 11 Nov 2026? Check closures in Kanpur, Lucknow, Shimla, Kolkata, Gangtok and Imphal",
+   "link": "https://www.livemint.com/money/banks-open-or-closed-tomorrow-11-nov-2026-wednesday-closed-in-kanpur-lucknow-shimla-kolkata-gangtok-imphal-11794308341699.html",
+   "summary": "Banks will be closed in Gangtok, Imphal, Kanpur, Kolkata, Lucknow and Shimla on Wednesday, November 11, for regional festivals. Details here.",
+   "published": "2026-11-10T12:01:17+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Banks_1792545481464_UO_1794311997243_Id4E_1794311997366_sLbs_a05db004-4508-4cd4-93f6-398b5bfd5453_1FFI.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T12:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1e169d20318ed2c9",
    "title": "Delayed PF deposits? EPFO offers lower penalties under VISHWAS 2026 scheme, but employers must apply by 28 December",
@@ -259,9 +295,9 @@
   },
   {
    "id": "47e62158dde34902",
-   "title": "Huang’s affair: Nvidia shares rebound in premarket trade after sharp sell-off, $1.57 trillion in market value wiped out",
+   "title": "Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out",
    "link": "https://www.livemint.com/market/stock-market-news/huangs-affair-nvidia-shares-rebound-in-premarket-trade-after-sharp-sell-off-1-57-trillion-in-market-value-wiped-out-11794304912609.html",
-   "summary": "Nvidia stock rises 1.8% after falling more than 4% on Monday amid controversy surrounding CEO Jensen Huang’s affair; FBI reportedly investigating allegations involving suspected Chinese intelligence operative",
+   "summary": "Nvidia stock rises 1.8% after falling more than 4% on Monday amid controversy surrounding CEO Jensen Huang’s affair; The FBI reportedly is investigating allegations involving a suspected Chinese intelligence operative.",
    "published": "2026-11-10T11:41:20+00:00",
    "source": "Mint Markets",
    "group": "Mint",
