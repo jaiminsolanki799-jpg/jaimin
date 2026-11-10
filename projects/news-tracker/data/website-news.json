@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T15:30:04+00:00",
+ "generated_at": "2026-11-10T16:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T15:30:04+00:00"
+   "checked_at": "2026-11-10T16:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
+   "sample_date": "Tue, 10 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-10T15:30:04+00:00"
+   "checked_at": "2026-11-10T16:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T15:30:04+00:00"
+   "checked_at": "2026-11-10T16:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 12,
    "sample_date": "Tue, 10 Nov 2026 04:34:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T15:30:04+00:00"
+   "checked_at": "2026-11-10T16:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 15:29:30 +0000",
+   "sample_date": "Tue, 10 Nov 2026 15:54:08 +0000",
    "error": null,
-   "checked_at": "2026-11-10T15:30:04+00:00"
+   "checked_at": "2026-11-10T16:00:02+00:00"
   }
  ],
  "topics": [
@@ -74,6 +74,42 @@
  "new_since_last_run": 8,
  "items": [
   {
+   "id": "5ef445c1e85d847f",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "published": "2026-11-10T15:54:08+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ram Iyer",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T16:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0252cb994fa27b9a",
+   "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+   "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+   "summary": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+   "published": "2026-11-10T15:45:27+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T16:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "622d661f2e476167",
    "title": "Meta’s AI agent Muse lands on Apple Watch",
    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch/",
@@ -88,6 +124,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-10T15:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "05045298619b51c5",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "published": "2026-11-10T15:29:30+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T16:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
