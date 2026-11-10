@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T05:30:02+00:00",
+ "generated_at": "2026-11-10T06:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 10:50:36 +0530",
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 10:45:52 +0530",
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 09:25:18 +0530",
+   "sample_date": "Tue, 10 Nov 2026 11:17:41 +0530",
    "error": null,
-   "checked_at": "2026-11-10T05:30:02+00:00"
+   "checked_at": "2026-11-10T06:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "d4dfb7d99b9b1810",
+   "title": "Amex credit card points clawback: Why customers are losing Membership Rewards points and what they should do next",
+   "link": "https://www.livemint.com/money/personal-finance/amex-credit-card-points-clawback-why-customers-are-losing-membership-rewards-points-and-what-they-should-do-next-11794285406196.html",
+   "summary": "American Express India has deducted Membership Rewards points linked to cancelled cards, leaving some customers with negative balances. The move has raised concerns about pooled reward points, the 30-day forfeiture rule, and how affected cardholders can challenge the deductions.",
+   "published": "2026-11-10T05:47:41+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/ameriucan_1794289593511_7qh7_1794289598982_396M_340927bf-50c8-4287-97c4-aa75dc504a8d_SYhD.png",
+   "topics": [],
+   "first_seen": "2026-11-10T06:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e7feb7134ec75d12",
+   "title": "Penny stocks look cheap, but the risks can be expensive",
+   "link": "https://www.livemint.com/money/personal-finance/penny-stocks-look-cheap-but-the-risks-can-be-expensive-investors-funds-liquidity-11794282365228.html",
+   "summary": "Low prices can disguise weak businesses, poor liquidity and manipulation risks. Sebi’s proposed clean-up is a reminder that penny stocks can be costly bets.",
+   "published": "2026-11-10T05:43:36+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/hoerwin56-poker-g49a8e86f5_1280_1794284633742_ZzUV_1794284639572_Onp2_0e26b230-3496-4c67-b075-b3677fed1597_TurO.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-10T06:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9cb7e7051774a2f0",
    "title": "Three workers die at Tata iPhone factory in Tamil Nadu's Hosur",
@@ -501,7 +539,7 @@
    "id": "0931c95feb924734",
    "title": "Boeing layoffs: Company to cut 5% of commercial airplane workforce as production delays threaten recovery plans",
    "link": "https://www.livemint.com/companies/news/boeing-layoffs-company-to-cut-5-of-commercial-airplane-workforce-as-production-delays-threaten-recovery-plans-11794274201520.html",
-   "summary": "Boeing plans to cut around 5% of its Commercial Airplanes workforce through attrition and layoffs as it struggles to ramp up jetliner production, delays its 737 output targets and pushes back its $10 billion free cash flow goal to 2029.",
+   "summary": "Boeing plans to cut around 5% of its commercial airplanes workforce through attrition and layoffs as it struggles to ramp up jetliner production, delays its 737 output targets and pushes back its $10 billion free cash flow goal to 2029.",
    "published": "2026-11-10T01:55:22+00:00",
    "source": "Mint Companies",
    "group": "Mint",
