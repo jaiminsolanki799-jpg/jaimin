@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T18:00:02+00:00",
+ "generated_at": "2026-11-10T18:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 20:55:35 +0530",
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 22:33:20 +0530",
+   "sample_date": "Tue, 10 Nov 2026 23:42:01 +0530",
    "error": null,
-   "checked_at": "2026-11-10T18:00:02+00:00"
+   "checked_at": "2026-11-10T18:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "2cbb915b543afd69",
+   "title": "NSE EGRs: Want to invest in gold without buying jewellery or coins? Check how to buy electronic gold receipts online",
+   "link": "https://www.livemint.com/money/personal-finance/nse-egrs-want-to-invest-in-gold-without-buying-jewellery-or-coins-check-how-to-buy-electronic-gold-receipts-online-11794329652320.html",
+   "summary": "Electronic gold receipts let Indian investors own gold digitally while it is stored in Sebi-approved vaults. Here's how it works and how to purchase units online.",
+   "published": "2026-11-10T18:12:01+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/2-0-880247223-jewellery-gold-22-20151109-PG-0_1679_1699524277413_1794334133679_Csev_55d91c79-24c9-48c9-b489-2f435999f3c7_DU8z.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-10T18:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ef46dcdbcf45a7a1",
+   "title": "Bhai Dooj 2026: Transferring ₹5 lakh to your sister? Know when a sibling’s cash gift is tax-free and when it is taxable",
+   "link": "https://www.livemint.com/money/personal-finance/bhai-dooj-2026-transferring-5-lakh-to-your-sister-know-when-a-sibling-s-cash-gift-is-tax-free-and-when-it-is-taxable-11794331704742.html",
+   "summary": "A ₹5 lakh gift from a brother to his sister is tax-free under the Income-tax Act, 2025. However, siblings must follow cash transaction rules. Know when gifts are exempt, when they become taxable and how to transfer money legally.",
+   "published": "2026-11-10T17:59:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Geini_Generated_Image_6a5fax6a5fax6a5f_179433181_1794331824566_d9Si_1794331824673_hshf_c0d658eb-f568-4173-83fa-49b5851381ce_DCeF.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-10T18:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8dbb3f82e151c893",
    "title": "Nvidia sell-off deepens, fall 6.3%; wipes $10 billion off Jensen Huang's wealth, slips to 12th on Forbes rich list",
