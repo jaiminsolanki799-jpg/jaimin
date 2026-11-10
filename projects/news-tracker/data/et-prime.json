@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T00:00:03+00:00",
+ "generated_at": "2026-11-10T00:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 01:18:19 +0530",
+   "sample_date": "Tue, 10 Nov 2026 05:50:30 +0530",
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 03:43:25 +0530",
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 09 Nov 2026 23:44:17 +0530",
    "error": null,
-   "checked_at": "2026-11-10T00:00:03+00:00"
+   "checked_at": "2026-11-10T00:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "36445f5106eca294",
+   "title": "Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR",
+   "link": "https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html",
+   "summary": "Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data in its dispute with Kleros Capital. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest, and an order to seize shares in two Tata Power arms.",
+   "published": "2026-11-10T00:20:30+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794233272914_WxeH_921f5643-3aa6-4c90-9f46-4137e009b091_3iv9.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T00:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "92ecdbe1a1b25cd5",
    "title": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
