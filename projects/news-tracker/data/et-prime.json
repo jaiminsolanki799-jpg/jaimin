@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T01:30:01+00:00",
+ "generated_at": "2026-11-10T02:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 06:00:54 +0530",
+   "sample_date": "Tue, 10 Nov 2026 07:25:22 +0530",
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 06:00:57 +0530",
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 06:47:29 +0530",
    "error": null,
-   "checked_at": "2026-11-10T01:30:01+00:00"
+   "checked_at": "2026-11-10T02:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,11 +192,47 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
   {
+   "id": "0931c95feb924734",
+   "title": "Boeing layoffs: Company to cut 5% of commercial airplane workforce as production delays threaten recovery plans",
+   "link": "https://www.livemint.com/companies/news/boeing-layoffs-company-to-cut-5-of-commercial-airplane-workforce-as-production-delays-threaten-recovery-plans-11794274201520.html",
+   "summary": "Boeing plans to cut around 5% of its Commercial Airplanes workforce through attrition and layoffs as it struggles to ramp up jetliner production, delays its 737 output targets and pushes back its $10 billion free cash flow goal to 2029.",
+   "published": "2026-11-10T01:55:22+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Boeing_1794275640065_wGi3_1794275645451_arCl_7dba594c-1ecc-4d6b-8f8d-099ef4b30d47_wmjh.png",
+   "topics": [],
+   "first_seen": "2026-11-10T02:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6d9abd2df8ba2aaa",
+   "title": "Donald Trump says FBI is investigating Jensen Huang’s affair with alleged Chinese spy as trouble mounts for Nvidia CEO",
+   "link": "https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html",
+   "summary": "US President Donald Trump says the FBI is looking into allegations involving Nvidia CEO Jensen Huang and a Singapore-based businesswoman suspected of links to Chinese intelligence. Nvidia’s board has launched an inquiry into whether Huang was a target of foreign intelligence.",
+   "published": "2026-11-10T01:32:42+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274592476_cBgJ_1794274597977_pnmj_13074dd3-63de-4c69-9e52-79948649e175_lGUJ.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T02:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "e28e1be7f9052367",
-   "title": "Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 3 other cities; here's why",
+   "title": "Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities; here's why",
    "link": "https://www.livemint.com/money/personal-finance/bank-holiday-today-10-nov-tuesday-bank-branches-closed-in-ahmedabad-bengaluru-mumbai-and-3-other-cities-heres-why-11794270057057.html",
    "summary": "Bank branches in several cities across India will remain closed on Tuesday, 10 November due to a regional bank holiday. Check the complete list of affected cities, whether online banking services will continue and what customers should know before planning branch visits.",
    "published": "2026-11-10T01:17:29+00:00",
@@ -440,7 +476,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274584851_kk3H_1794274591201_Thyc_fdaa8078-51c3-4735-b898-453ee6c8d8d0_f3w0.jpg",
    "topics": [],
    "first_seen": "2026-11-09T19:30:02+00:00",
    "valuation_score": 0,
@@ -681,7 +717,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/NVIDIA-PROBE-CEO-6_1794239958676_WCjC_1794239965777_CQ2U_f68bf3ec-fb36-4a76-90f3-5147da14c7d8_DR6r.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274605184_LM6w_1794274610342_uj7B_225225fd-5b62-491b-9896-c7920be9ac30_Jw1I.jpg",
    "topics": [],
    "first_seen": "2026-11-09T16:30:01+00:00",
    "valuation_score": 0,
@@ -699,7 +735,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Alice_Huang_1794237696290_f3Oe_1794237696411_KQzK_73814f5a-104f-4198-b2a3-547e51d819ca_nm4Y.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274598797_JWm3_1794274604417_QGmC_e433ff58-76fd-4215-8649-1bace46aa531_MvAf.jpg",
    "topics": [],
    "first_seen": "2026-11-09T16:00:01+00:00",
    "valuation_score": 0,
