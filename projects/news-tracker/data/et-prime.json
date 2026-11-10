@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T10:00:03+00:00",
+ "generated_at": "2026-11-10T10:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 14:34:42 +0530",
+   "sample_date": "Tue, 10 Nov 2026 15:56:35 +0530",
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 15:04:32 +0530",
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 15:23:40 +0530",
    "error": null,
-   "checked_at": "2026-11-10T10:00:03+00:00"
+   "checked_at": "2026-11-10T10:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "7b455fe78f47bd96",
+   "title": "Jensen Huang said Nvidia could 'be of great service' to China before spy allegations surfaced",
+   "link": "https://www.livemint.com/companies/news/jensen-huang-said-nvidia-could-be-of-great-service-to-china-before-spy-allegations-surfaced-11794305918288.html",
+   "summary": "Before allegations involving a woman US officials reportedly believe was a Chinese intelligence asset surfaced, Nvidia CEO Jensen Huang told Fortune that China represented a ‘large and growing’ opportunity for the chipmaker.&nbsp;",
+   "published": "2026-11-10T10:26:35+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/NVIDIA-PROBE-CEO-16_1794306003369_Rt5M_1794306010912_goZC_588546ef-3edd-42c3-9dac-340828508a13_ReSO.JPG",
+   "topics": [],
+   "first_seen": "2026-11-10T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f8432bd540b81741",
+   "title": "Qantas to bring 850 jobs to India via outsourcing deal with Accenture; Aussie unions raise concerns: Report",
+   "link": "https://www.livemint.com/companies/news/qantas-to-bring-850-jobs-to-india-via-outsourcing-deal-with-accenture-aussie-unions-raise-concerns-report-11794304046434.html",
+   "summary": "Qantas plans to outsource 850 head-office jobs to Accenture under a multiyear agreement, with most work expected to be handled in India. The changes aim to modernise technology and prepare for AI, while the airline says it will explore redeployment and retraining.",
+   "published": "2026-11-10T10:14:43+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/qantas_1794305533993_FGv7_1794305534105_VZDD_3fec76b3-1f0f-4e18-9008-e58580308126_sB4g.png",
+   "topics": [],
+   "first_seen": "2026-11-10T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "493d73c3307fdba5",
+   "title": "De Beers’ Forevermark targets 100 stores, ₹1,000 crore India business",
+   "link": "https://www.livemint.com/companies/news/de-beers-forevermark-100-stores-1-000-crore-india-business-diamonds-jewellery-11794244027611.html",
+   "summary": "The natural diamond jewellery brand is moving from supplying diamonds through partners to building its own retail network, with company-owned and franchise stores.",
+   "published": "2026-11-10T10:00:07+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/forevermark_1794244459382_igDs_1794244467113_YZlX_02096915-037b-4bfd-b364-2f1f03f46a71_BPJ3.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-10T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "df25a9c2ccae7430",
    "title": "EPS pension hike: EPFO shifts venue of November 19 CBT meeting to Delhi; will government approve ₹3,000 minimum pension?",
