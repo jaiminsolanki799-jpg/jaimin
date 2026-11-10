@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T17:00:03+00:00",
+ "generated_at": "2026-11-10T17:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 20:55:35 +0530",
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 21:16:36 +0530",
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 10 Nov 2026 21:45:47 +0530",
+   "sample_date": "Tue, 10 Nov 2026 22:33:20 +0530",
    "error": null,
-   "checked_at": "2026-11-10T17:00:03+00:00"
+   "checked_at": "2026-11-10T17:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "ea316420be412ca2",
+   "title": "20 years of service recognised: Retired woman IAF officer wins 15-year legal battle for pension as AFT alters ruling",
+   "link": "https://www.livemint.com/money/personal-finance/20-years-of-service-recognised-retired-woman-iaf-officer-wins-15-year-legal-battle-for-pension-as-aft-alters-ruling-11794325229711.html",
+   "summary": "AFT's Chandigarh Bench rules that Wing Commander Chandi is entitled to pension and other retirement benefits after modification of its 2015 judgment.",
+   "published": "2026-11-10T17:03:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/pension3_1794327763171_bsuA_1794327789989_IA0A_797cc512-9814-4307-a5c2-a57f9f07ed9e_xpV6.jpg",
+   "topics": [],
+   "first_seen": "2026-11-10T17:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9de228a237217736",
+   "title": "SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better",
+   "link": "https://www.livemint.com/money/personal-finance/sip-vs-lump-sum-which-strategy-delivers-higher-mutual-fund-returns-global-30-yr-data-reveals-what-worked-better-11794329719716.html",
+   "summary": "SIP investments outperformed lump-sum investing in six of 10 major global equity markets over 30 years, according to DSP Mutual Fund. Japan recorded the biggest SIP advantage, while Brazil delivered higher returns through lump-sum investments.",
+   "published": "2026-11-10T17:01:22+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Gemin_Generated_Image_iwvosoiwvosoiwvo_179432995_1794329966657_YrQq_1794329966780_NGT5_af14413d-41d7-49d2-a0b4-2f8a60252459_SFQI.png",
+   "topics": [],
+   "first_seen": "2026-11-10T17:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fd2be8c0a43ef485",
    "title": "7th Pay Commission: Level 5 salary rises to ₹62,224 with 63% DA—here’s why your place of posting alters final figure",
