@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T17:30:02+00:00",
+ "generated_at": "2026-11-10T18:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T17:30:02+00:00"
+   "checked_at": "2026-11-10T18:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 06:42:44 GMT",
+   "sample_date": "Tue, 10 Nov 2026 09:04:09 GMT",
    "error": null,
-   "checked_at": "2026-11-10T17:30:02+00:00"
+   "checked_at": "2026-11-10T18:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T17:30:02+00:00"
+   "checked_at": "2026-11-10T18:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 12,
    "sample_date": "Tue, 10 Nov 2026 04:34:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T17:30:02+00:00"
+   "checked_at": "2026-11-10T18:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 17:04:19 +0000",
+   "sample_date": "Tue, 10 Nov 2026 17:30:00 +0000",
    "error": null,
-   "checked_at": "2026-11-10T17:30:02+00:00"
+   "checked_at": "2026-11-10T18:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "fd8e1c638d2dc1c1",
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "published": "2026-11-10T17:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T18:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "940b8a321b942013",
    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
@@ -467,9 +485,9 @@
   },
   {
    "id": "1c52468d7a994ee2",
-   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
    "published": "2026-11-10T13:00:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
