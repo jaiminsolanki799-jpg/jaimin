@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-10T19:00:02+00:00",
+ "generated_at": "2026-11-10T19:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T19:00:02+00:00"
+   "checked_at": "2026-11-10T19:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
+   "sample_date": "Tue, 10 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-10T19:00:02+00:00"
+   "checked_at": "2026-11-10T19:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
    "error": null,
-   "checked_at": "2026-11-10T19:00:02+00:00"
+   "checked_at": "2026-11-10T19:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 12,
    "sample_date": "Tue, 10 Nov 2026 04:34:43 GMT",
    "error": null,
-   "checked_at": "2026-11-10T19:00:02+00:00"
+   "checked_at": "2026-11-10T19:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 18:49:52 +0000",
+   "sample_date": "Tue, 10 Nov 2026 19:23:34 +0000",
    "error": null,
-   "checked_at": "2026-11-10T19:00:02+00:00"
+   "checked_at": "2026-11-10T19:30:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,47 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "fe6d70a1808af088",
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "published": "2026-11-10T19:23:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-10T19:30:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "M&A",
+    "IPO"
+   ]
+  },
+  {
+   "id": "2800935556d85c08",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "published": "2026-11-10T19:03:52+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-10T19:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ccdccf818b30a0e0",
    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
