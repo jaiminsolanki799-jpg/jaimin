@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-10T20:30:01+00:00",
+ "generated_at": "2026-11-10T21:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 00:14:36 +0530",
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 01:40:23 +0530",
+   "sample_date": "Wed, 11 Nov 2026 02:21:09 +0530",
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 10 Nov 2026 23:42:01 +0530",
    "error": null,
-   "checked_at": "2026-11-10T20:30:01+00:00"
+   "checked_at": "2026-11-10T21:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "f2b73c95b8942765",
+   "title": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny",
+   "link": "https://www.livemint.com/market/defaults-rattle-brazil-s-shadow-banks-spark-regulatory-scrutiny-11794343869632.html",
+   "summary": "Investors keep pouring money into Brazil’s so-called shadow-banking market even as defaults continue to climb.",
+   "published": "2026-11-10T20:51:09+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-10T21:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3818dfe687e4d5bd",
+   "title": "Chile Pension Funds’ Swap Losses Narrow as Treasuries Rally",
+   "link": "https://www.livemint.com/market/chile-pension-funds-swap-losses-narrow-as-treasuries-rally-11794343809144.html",
+   "summary": "Chilean pension funds narrowed their market-value losses on foreign interest-rate swaps in October as a rally in US Treasuries provided some relief to a system under heavy pressure from politicians to reduce risks and boost payments.",
+   "published": "2026-11-10T20:50:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-10T21:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ec0cdffab3b894fb",
+   "title": "Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out",
+   "link": "https://www.livemint.com/market/feds-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out-11794343808997.html",
+   "summary": "Federal Reserve Governor Michelle Bowman said she sees a number of risks to economic activity from financial markets, including a sharp downturn in stock prices if returns on investments in artificial intelligence fall short of expectations.",
+   "published": "2026-11-10T20:50:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-10T21:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ec06d5ba2d2717b8",
    "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
