@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T11:30:01+00:00",
+ "generated_at": "2026-11-11T12:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 16:50:59 +0530",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 16:50:51 +0530",
+   "sample_date": "Wed, 11 Nov 2026 17:23:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 16:22:22 +0530",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "1573f4cdcc1bc3ef",
+   "title": "Top 2 stocks to buy for short-term: Canara Bank, Pine Labs by Nagaraj Shetti - Check stop loss, targets",
+   "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-canara-bank-pine-labs-by-nagaraj-shetti-check-stop-loss-targets-11794397280619.html",
+   "summary": "Indian benchmark indices rose on Wednesday, with the Nifty 50 up 0.84% and Sensex up 0.95%, supported by lower crude prices and expectations of foreign inflows. Analysts see resistance near 25,400–25,500 and support around 24,700–24,800.",
+   "published": "2026-11-11T11:53:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Nagaraj_Shetti_1789610157457_vdtE_1789610166505_Aq_1794397839018_CUeh_1794397839183_xfm2_0c717a4a-9a70-43b9-be81-195f08aee16f_wYa5.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-11T12:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8a44936cb7677b7e",
+   "title": "PC Jeweller vs Kalyan Jewellers shares: Both delivered strong Q2 results but what to buy for better returns? Key levels",
+   "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-vs-kalyan-jewellers-shares-both-delivered-strong-q2-results-but-what-to-buy-for-better-returns-key-levels-11794394181636.html",
+   "summary": "PC Jeweller and Kalyan Jewellers posted strong Q2 FY27 results, with profits rising 58% and 64%, respectively. Kalyan’s shares show stronger near-term momentum, with analysts identifying ₹750–790 as a potential target zone.&nbsp;",
+   "published": "2026-11-11T11:42:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/PC_Jeweller_vs_Kalyan_Jewellers_1794397190255_o2EN_1794397198255_jQV9_3e3978df-82be-49a5-8bdc-623f3c54d6b2_vA4u.png",
+   "topics": [],
+   "first_seen": "2026-11-11T12:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "f98c84f196c9b13e",
+   "title": "This EPC stock under ₹15 hits 20% upper circuit after ₹510 crore bank guarantee release boosts order execution",
+   "link": "https://www.livemint.com/market/stock-market-news/this-epc-stock-under-rs-15-hits-20-upper-circuit-after-rs-510-crore-bank-guarantee-release-boosts-order-execution-11794395143697.html",
+   "summary": "Jyoti Structures shares surged 20% to ₹13 after lenders began releasing ₹510.59 crore in bank guarantees and letters of credit under its NCLT-approved resolution plan.&nbsp;",
+   "published": "2026-11-11T11:32:28+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Gainers_1794395353911_VcCr_1794395363362_TefX_c4dc9cb9-1cfc-483f-92d4-887abcc72281_DiJO.png",
+   "topics": [
+    "Insolvency / IBC"
+   ],
+   "first_seen": "2026-11-11T12:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "13cc2ebee6c67c75",
    "title": "Shriram General bets on agents, vehicle makers despite proposed Irdai commission curbs",
@@ -234,7 +292,7 @@
    "id": "c3703d01c868fe40",
    "title": "Tata AIG denied ₹30 lakh death claim over alcohol consumption by insured; why the pensioner’s family won the case",
    "link": "https://www.livemint.com/money/tata-aig-denied-rs-30-lakh-death-claim-over-alcohol-consumption-by-insured-why-the-pensioner-s-family-won-the-case-11794392096768.html",
-   "summary": "In Govindasamy's case, the Commission found that Tata AIG had failed to produce sufficiently reliable evidence to establish this alcohol consumption condition.",
+   "summary": "In Govindasamy's case, the Commission found that Tata AIG had failed to produce sufficiently reliable evidence to establish the alcohol-consumption condition.",
    "published": "2026-11-11T10:52:22+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -11297,64 +11355,6 @@
    "valuation_signals": [
     "Valuation"
    ]
-  },
-  {
-   "id": "e722d02b9b331b61",
-   "title": "Dividend stocks: Coal India, TCS, HUDCO, HCL Tech, GAIL among top 10 dividend paying stocks - Check yield, annual return",
-   "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-coal-india-tcs-hudco-hcl-tech-gail-among-top-10-dividend-paying-stocks-check-yield-annual-return-11793892901046.html",
-   "summary": "Coal India, ONGC, REC, PFC, TCS, HCL Technologies, HUDCO, Petronet LNG, GAIL India and Gujarat Pipavav Port are highlighted for dividend income.&nbsp;",
-   "published": "2026-11-05T16:45:23+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/afaf_1793897081460_lsCS_1793897082979_Y0qy_fe7e16cf-554a-488b-8551-8c48ca1f55dc_4Wwo.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "4263eaaecf636bc8",
-   "title": "Titan misses Q2 revenue estimates but beats profit view as jewellery demand holds up",
-   "link": "https://www.livemint.com/companies/company-results/titan-misses-revenue-estimates-but-beats-profit-view-as-jewellery-demand-holds-up-11793890877911.html",
-   "summary": "Demand for gold coins and investment products remains subdued, even as Titan sees stronger traction in lower-caratage jewellery and 24% growth in its jewellery portfolio.",
-   "published": "2026-11-05T16:20:02+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/2-0-900893145-Titan-Watches-showroom-05-20161221-R_1793895434134_uiwv_1793895434327_2j2r_414d8002-ad8f-478c-baa8-dea4ed42c0a1_rNhJ.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "882038efef1a571b",
-   "title": "Pension deduction from re-employment salary doesn't violate equal pay for equal work; why SC ruled so",
-   "link": "https://www.livemint.com/money/pension-deduction-from-re-employment-salary-doesnt-violate-equal-pay-for-equal-work-why-sc-ruled-so-11793891666317.html",
-   "summary": "The Supreme Court upheld rules allowing deduction of pension earned from previous government service when calculating salaries for certain re-employed officials. Details here.",
-   "published": "2026-11-05T16:19:09+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/2-0-1475975919-iStock-986746224-0_1679855040571_1793895216157_iOg8_00ab773d-3875-4326-87a8-6b112a2ee6cb_gxc5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }

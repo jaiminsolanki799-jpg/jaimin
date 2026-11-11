@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T11:30:01+00:00",
+ "generated_at": "2026-11-11T12:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 06:29:50 GMT",
+   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 11 Nov 2026 09:13:49 GMT",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 11 Nov 2026 07:30:51 +0000",
    "error": null,
-   "checked_at": "2026-11-11T11:30:01+00:00"
+   "checked_at": "2026-11-11T12:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "f0e7e306d4f7c44e",
+   "title": "Beyond code generation: Five lessons on AI, reliability, and recovery",
+   "link": "https://yourstory.com/2026/11/code-generation-ai-reliability-recovery",
+   "summary": "At a TechSparks 2026 roundtable hosted by OPPEX, technology leaders discussed the challenges of maintaining AI-generated code, managing risk, and responding when production systems fail.",
+   "published": "2026-11-11T11:30:16+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T12:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "626a4c9030105671",
    "title": "5 lessons from the book Manifest: Dive Deeper, Roxie Nafousi",
