@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T21:00:02+00:00",
+ "generated_at": "2026-11-11T21:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 00:40:38 +0530",
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 01:39:56 +0530",
+   "sample_date": "Thu, 12 Nov 2026 02:40:10 +0530",
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 23:40:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T21:00:02+00:00"
+   "checked_at": "2026-11-11T21:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "7c7178dee788f859",
+   "title": "Dollar climbs as traders raise December Fed hike bets",
+   "link": "https://www.livemint.com/market/dollar-climbs-as-traders-raise-december-fed-hike-bets-11794431410639.html",
+   "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar climbs as traders raise December Fed hike bets",
+   "published": "2026-11-11T21:10:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f76b333947940f2e",
+   "title": "CME cattle futures end mixed after two-day rebound from multi-month lows",
+   "link": "https://www.livemint.com/market/cme-cattle-futures-end-mixed-after-two-day-rebound-from-multi-month-lows-11794431219386.html",
+   "summary": "USA-LIVESTOCK/:LIVESTOCK-CME cattle futures end mixed after two-day rebound from multi-month lows",
+   "published": "2026-11-11T21:06:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-11T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d4eed596d142042a",
+   "title": "Canada Pension Aims to Double Hedge Fund Bets to $160 Billion",
+   "link": "https://www.livemint.com/market/canada-pension-aims-to-double-hedge-fund-bets-to-160-billion-11794431032375.html",
+   "summary": "Canada’s largest pension is planning to roughly double the money it invests in hedge funds over the next five to seven years, a bullish signal from one of the industry’s most important backers.",
+   "published": "2026-11-11T21:03:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "841121f53ba25946",
    "title": "Oil up 1% as Iran official says country will keep enriched nuclear material",
@@ -11294,60 +11348,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Festive_Dhanteras_Gold_Shopping_Collage_1793928774_1793928787482_GQRS_1793928787599_G7Xe_f2c952dc-0730-427f-8977-e975f923aa0e_fJG5.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b62adc2542f7b8ac",
-   "title": "Top stocks to watch today: Hindalco, Bharti Airtel, LIC, ONGC shares in focus on Friday, 6 Nov | Full list",
-   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-hindalco-bharti-airtel-lic-ongc-shares-in-focus-on-friday-6-nov-full-list-11793928004864.html",
-   "summary": "Top stocks to watch today: Bharti Airtel, LIC, Hindalco, Titan, Glenmark Pharma, Vedant Fashions are among shares in focus on Friday.",
-   "published": "2026-11-06T01:55:51+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/stw_fru_1793930091654_HVFL_1793930091821_FlgL_2310bbae-f20e-4507-b799-0c769f4ede89_Jd84.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "431350b685d742cb",
-   "title": "AI bubble fears trigger $2.3 trillion Wall Street selloff as Nasdaq 100 plunges 6%: 'flashbacks to 2008 or 2001'",
-   "link": "https://www.livemint.com/market/stock-market-news/ai-bubble-fears-trigger-2-3-trillion-wall-street-selloff-as-nasdaq-100-plunges-6-nvidia-falls-9-11793928748972.html",
-   "summary": "Wall Street tumbled as AI bubble fears rattled investors after the US midterm elections. The Nasdaq 100 fell over 6%, Nvidia sank 9% and $2.3 trillion in market value was wiped out amid concerns over AI valuations and data-centre spending.",
-   "published": "2026-11-06T01:40:01+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793946093906_rdc2_1793946099645_pnjO_672c79c0-69df-4eb5-a4c3-bdd0d27dc896_UYYK.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f0be44933455ddbb",
-   "title": "Dhanteras 2026: Auspicious time to buy gold today, November 6; check muhurat and shopping tips",
-   "link": "https://www.livemint.com/money/dhanteras-2026-auspicious-time-to-buy-gold-today-november-6-check-muhurat-and-shopping-tips-11793928276851.html",
-   "summary": "Dhanteras 2026 falls on November 6, with gold and silver purchases considered auspicious. Check the gold-buying muhurat for New Delhi, important festival timings and four things to verify before purchasing jewellery, coins or other precious metals.",
-   "published": "2026-11-06T01:30:44+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/gold_prices_1793928522247_Z4oc_1793928527471_7dDl_9ee707d8-4caa-4f1a-a144-d832fa839719_3drw.png",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
