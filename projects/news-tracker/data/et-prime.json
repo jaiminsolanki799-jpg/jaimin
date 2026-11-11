@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T09:00:01+00:00",
+ "generated_at": "2026-11-11T09:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 12:27:44 +0530",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 14:06:15 +0530",
+   "sample_date": "Wed, 11 Nov 2026 14:53:00 +0530",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 14:19:30 +0530",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,29 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "d27850182fc16194",
+   "title": "Up 70% in 6 months, Kissht parent OnEMI raises ₹832 cr from preferential issue; check who invested, price, performance",
+   "link": "https://www.livemint.com/market/stock-market-news/up-70-in-6-months-kissht-parent-onemi-raises-rs-832-cr-from-preferential-issue-check-who-invested-price-performance-11794386331109.html",
+   "summary": "OnEMI Technology Solutions raised ₹832.20 crore through a preferential share issue, allotting shares to 34 investors, including Axis Mutual Fund schemes, Citigroup and MIT.&nbsp;",
+   "published": "2026-11-11T09:23:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/OnEMI_Raises_Rs_832_Crore_1794388929124_6tLI_1794388938631_4gSa_72a515e3-27a5-4e9a-a839-6d65bb5941ea_CesM.png",
+   "topics": [],
+   "first_seen": "2026-11-11T09:30:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Buyback & payout",
+    "Funding"
+   ]
+  },
   {
    "id": "ded02c95f14cc6ab",
    "title": "500 gm gold limit for married women: Supreme Court says they must still explain its source - here's why | What to do now",
@@ -1254,7 +1275,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/anthropic2_1794334540481_zRw2_1794334559392_eVvj_0ac4e362-fed4-4bc1-932b-4f8e06dac199_BXH5.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/maxresdefault_1794388543468_HgHi_1794388550276_3VRk_e9f47e15-1fb5-4d91-9313-b98962d36c20_K8LW.jpg",
    "topics": [
     "SEBI / markets regulation"
    ],
@@ -1777,7 +1798,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/ANTHROPIC-CALIFORNIA--0_1793531849200_TEbT_179353_1794311192391_f76m_1794311192773_zb9y_4fcb55bc-7016-4dfc-a1e8-303f8c82b756_aLae.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/maxresdefault_1794388558280_3Yah_1794388564311_yly2_45149eab-ceb4-48b5-b9f2-bad1eebf0147_VDBQ.jpg",
    "topics": [
     "SEBI / markets regulation",
     "Valuation / M&A"
@@ -11346,24 +11367,6 @@
     "IPO",
     "M&A"
    ]
-  },
-  {
-   "id": "b7a9b221203fc606",
-   "title": "Airline says passenger was late, but can’t prove it: Consumer court awards Delhi flyer ₹71,587, details inside",
-   "link": "https://www.livemint.com/money/personal-finance/airline-says-passenger-was-late-but-can-t-prove-it-consumer-court-awards-delhi-flyer-71-587-details-inside-11793889134661.html",
-   "summary": "A Delhi passenger who missed his Bengaluru-bound flight after alleging delays by airline staff has been awarded ₹71,587 by a consumer commission. The airline claimed he had arrived late for check-in but failed to produce CCTV footage or other evidence to support its position.",
-   "published": "2026-11-05T14:51:29+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Flight-Cancelled-1_1772418159336_1772418170015_1793889370156_BPC9_819d996f-9459-4e2e-a184-da8e8a4d2581_G8U5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }

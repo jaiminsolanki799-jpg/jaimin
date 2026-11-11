@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T09:00:01+00:00",
+ "generated_at": "2026-11-11T09:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 06:29:50 GMT",
+   "sample_date": "Tue, 10 Nov 2026 09:11:09 GMT",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 11 Nov 2026 07:39:34 GMT",
+   "sample_date": "Wed, 11 Nov 2026 09:13:49 GMT",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 12,
-   "items": 12,
+   "fetched": 13,
+   "items": 13,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 11 Nov 2026 07:30:51 +0000",
    "error": null,
-   "checked_at": "2026-11-11T09:00:01+00:00"
+   "checked_at": "2026-11-11T09:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "c039d7049370aa61",
+   "title": "RentoMojo reports first quarterly results post listing, Q2 FY27 revenue grows 53%",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkNmME9UZGFOR2w1YlZ1VXhpRzFYaXZwa0FJVVpLYTBUa1VLMDBhaDRxU3RkbkNhSnBEVVRFQzl5ZGNGUFdhRE1hbDh2WTVha0ZsVVRuMVVUbDdfOWowYmI5MG1xTmlOSXlCODNncWhTTzhiLTlNRThfVUdEa3pvNHMxV205dktoUktZRzZ0eDA3ZjhXd1hxTUtXXzl2dTNIVGpzNkFvN0VETWl0X0NRNEl0ZXk1NHM4aVJB0gG7AUFVX3lxTE1WQ2YwT1RkYU5HbDViVnVVeGlHMVhpdnBrQUlVWkthMFRrVUswMGFoNHFTdGRuQ2FKcERVVEVDOXlkY0ZQV2FETWFsOHZZNWFrRmxVVG4xVVRsN185ajBiYjkwbXFOaU5JeUI4M2dxaFNPOGItOU1FOF9VR0Rrem80czFXbTl2S2hSS1lHNnR4MDdmOFd3WHFNS1dfOXZ1M0hUanM2QW83RURNaXRfQ1E0SXRleTU0czhpUkE?oc=5",
+   "summary": "",
+   "published": "2026-11-11T09:14:54+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-11T09:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "e102d60370fb5353",
+   "title": "Kunal Shah Highlights Three Growth Priorities for WhatsApp: AI, Finance and Connectivity",
+   "link": "https://startuptalky.com/news/kunal-shah-highlights-three-growth-priorities-for-whatsapp/",
+   "summary": "WhatsApp CEO Kunal Shah has highlighted three major development targets for the messaging company, including artificial intelligence (AI), financial services and better connectivity. The Meta-owned app wants to go beyond communications by streamlining bill payments, financial activities and more.",
+   "published": "2026-11-11T09:13:49+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/kunal-shah-highlights-three-growth-priorities-for-whatsapp-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e9ada70633c4a020",
    "title": "Startup news and updates: daily roundup (November 11, 2026)",
