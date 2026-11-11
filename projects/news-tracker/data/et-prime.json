@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T12:00:01+00:00",
+ "generated_at": "2026-11-11T12:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 16:50:59 +0530",
+   "sample_date": "Wed, 11 Nov 2026 17:46:21 +0530",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 17:23:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 16:22:22 +0530",
+   "sample_date": "Wed, 11 Nov 2026 17:48:29 +0530",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,60 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "9f8b3962764ef1ef",
+   "title": "HDFC Bank raises MCLR by 5-15 bps across all tenures: Check new lending rates and what they mean for your loan EMIs",
+   "link": "https://www.livemint.com/money/personal-finance/hdfc-bank-raises-mclr-by-5-15-bps-across-all-tenures-check-new-lending-rates-and-what-they-mean-for-your-loan-emis-11794396761391.html",
+   "summary": "HDFC Bank has raised its MCLR by 5–15 basis points across all seven tenures, effective November 7. Check new rates here.",
+   "published": "2026-11-11T12:18:29+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1794399441157_Jdgb_36811f66-6b76-4a83-8be9-6dc2a9f6d58c_mily.JPG",
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "77d8c44fadfe1ca4",
+   "title": "Who is Shuchi Suri? Mahindra & Mahindra appoints Executive VP as Chief Sales and Marketing officer - Automotive",
+   "link": "https://www.livemint.com/companies/people/who-is-shuchi-suri-mahindra-mahindra-appoints-executive-vp-as-chief-sales-and-marketing-officer-automotive-11794395531417.html",
+   "summary": "Mahindra &amp; Mahindra has appointed Shuchi Suri as Chief Sales and Marketing Officer for its automotive business, effective April 1, 2027. Suri, currently Executive Vice-President of Mahindra Experiences, brings more than 22 years of Unilever experience across sales, marketing and global leadership.",
+   "published": "2026-11-11T12:16:21+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Untitled_Design_1794398824057_yENS_1794398827524_JSAN_7591b133-b044-422d-be89-afe3144d6cd8_Ek2E.png",
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e0ef6fe03a954f47",
+   "title": "Singapore Airlines' $2 billion cabin upgrade: From double beds to sliding doors, and bigger screens — here's what's new",
+   "link": "https://www.livemint.com/companies/news/singapore-airlines-2-billion-cabin-upgrade-from-double-beds-to-sliding-doors-and-bigger-screens-heres-whats-new-11794396781343.html",
+   "summary": "The airline is investing more than S$2 billion in the cabin makeover, with upgrades focused on passenger comfort, privacy, entertainment and personalisation.",
+   "published": "2026-11-11T12:02:44+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/SINGAPORE-AIR-CABIN--27_1794398282155_N1E6_1794398297386_fCiQ_3a08d784-6002-4773-8f1b-c15772d1d952_3L2I.JPG",
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1573f4cdcc1bc3ef",
    "title": "Top 2 stocks to buy for short-term: Canara Bank, Pine Labs by Nagaraj Shetti - Check stop loss, targets",
@@ -11297,64 +11351,6 @@
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "196560be5a03c2cf",
-   "title": "Junk bonds are cracking at the bottom. Will the noise get loud enough to make ‘junk bond’ a household term",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNUTMxbjJvWWlMVHd1bUFJNE1SRTdSQUhjdUJfWGhEalNrMDVhSlg1Z2xINmotT2FZenlRVHZNSjU0X0U0NEN3RElRSlZ0TURpU0Fsb285R1FmQmlENi1YVWFDZkRFVF9OT3A4Y1hqQldhYVhMV3lHeFZnSlFUMEU4OFFUa3FYdEh5M0w3WXFENjMxSDE2clYwSVEyaXlqYmJoVmNtTDR4ak5UQUE5RHgxVUlKMjFnYVJJUUxGXzExYnlYRjU3ZTc2U1NKY2hrbUd2ejg1ck1rSDltcnN6UUdnRWVKUTI3WEYyeVp1c0gxbndxbkdRZkE3aXV1LWx6UlJjRHllVFVQYS1ZNktqSmNqbDU0ODNvTWJwUmpOVEMwVjNsWmpocVNXVlJ4WWJ3d3k5SGlPVjlON0Mxd2YwNmFTQnN3VFd4MjZSSVZCMXIySzYxb2Jnd1ZaSTA2cEhBWUZaNmhuY2ZobnpzZFBzMk1WYtIBigJBVV95cUxPVVA2ZW9XR20xV1BiSWxLWFBjRjBMbFZIeDJxVGhOQndYbmFIdDdacHdvTWppN3ppY2thX3dKMDE0QU45UUdxcGRGMVctWDhYTHplSEZ1a3hXellOQjQyOFF4RWFxN1QzQkstb3BUTEpLX0RWNU1WZ2dnZlBlc0E1Z19rMGdydU8wWHZBQjJNa1hSVzhsZjY0QVE2QnN3NUw2TW9EazhySGxfUXh3OW90ZEtTQlJkaHdUeHZkVDZXaEFxdEFRWDFlR19DVkdLc3YyRVA5TEF2c1BuYU1RQUNvNUtZX0JXXzJQWXJ5WTQ1T2g4MFB4ajNNZjlYNHA1T1dRNjFERWZZa2sxUQ?oc=5",
-   "summary": "",
-   "published": "2026-11-05T17:14:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "951536dfaf3a3acd",
-   "title": "Junk bonds are cracking at the bottom. Will the noise get loud enough to make ‘junk bond’ a household term",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWEdONU9RN21UXzFyN1A0V0R5eG9ibFJBUldZUVg1WjBaUHQySk84UEdISHRNWjgzVDZlbUJsNG0xcWhQLW5wVWFncWRHOENzQXozOTkwZERqUllRRjJvdUxwcmxvdldNN1FDdnNFNUJwa21yLTFpV05vWnRZRjZWNFNWN3lSelZOUGNYdkZqMUJsRWhjNWI3T3lTT0dDOFlDTmVWQnRpS2swTUZ3UTJJQnJUQ3BQcEpVN1E0NUQwcVpZeVk4bTJxUGYySlFOVlR1cm4tMWdkMGpDejkyRUFTTTJyeXRHa2hHX2xXSlExVnRmTWdOblhSLVRhcmJfUjFjS01GT3VwUWw5c1N6clNoedIBigJBVV95cUxPVVA2ZW9XR20xV1BiSWxLWFBjRjBMbFZIeDJxVGhOQndYbmFIdDdacHdvTWppN3ppY2thX3dKMDE0QU45UUdxcGRGMVctWDhYTHplSEZ1a3hXellOQjQyOFF4RWFxN1QzQkstb3BUTEpLX0RWNU1WZ2dnZlBlc0E1Z19rMGdydU8wWHZBQjJNa1hSVzhsZjY0QVE2QnN3NUw2TW9EazhySGxfUXh3OW90ZEtTQlJkaHdUeHZkVDZXaEFxdEFRWDFlR19DVkdLc3YyRVA5TEF2c1BuYU1RQUNvNUtZX0JXXzJQWXJ5WTQ1T2g4MFB4ajNNZjlYNHA1T1dRNjFERWZZa2sxUQ?oc=5",
-   "summary": "",
-   "published": "2026-11-05T17:14:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T02:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "04cd80e57f8d0e8f",
-   "title": "Revolut confirms $115 billion valuation after latest share sale, up from $75 billion in less than a year",
-   "link": "https://www.livemint.com/companies/news/revolut-confirms-115-billion-valuation-after-latest-share-sale-up-from-75-billion-in-less-than-a-year-11793896537484.html",
-   "summary": "The secondary share sale, which began in July, allowed existing investors, including employees, to sell their holdings to other investors. The transaction did not involve the issuance of new shares by Revolut.",
-   "published": "2026-11-05T16:50:52+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/revolut_1793897303224_8un8_1793897310620_gt1V_18419572-5b43-4f0b-a52a-a84717747c81_BUz9.png",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
   }
  ]
 }

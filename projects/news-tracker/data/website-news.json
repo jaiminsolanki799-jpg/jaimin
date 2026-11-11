@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T12:00:01+00:00",
+ "generated_at": "2026-11-11T12:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
+   "sample_date": "Wed, 11 Nov 2026 06:29:50 GMT",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 11 Nov 2026 09:13:49 GMT",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 11 Nov 2026 07:30:51 +0000",
    "error": null,
-   "checked_at": "2026-11-11T12:00:01+00:00"
+   "checked_at": "2026-11-11T12:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,100 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "b14a27a92a853fa3",
+   "title": "FinMin asks ministries to make EVs the default and preferred choice for staff car purchases",
+   "link": "https://yourstory.com/2026/11/finmin-asks-ministries-to-make-evs-default-and-preferred-choice-for-staff-car-purchases",
+   "summary": "To promote electric mobility, reduce dependence on fossil fuels, and account for prevailing market prices and vehicle lifecycle costs, the Finance Ministry is revising the net dealer price ceiling for procuring EVs and internal combustion engine vehicles.",
+   "published": "2026-11-11T12:20:30+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c62b02358c8d0f89",
+   "title": "Meet 8 Tamil Nadu startups that showcased their innovations to PM Modi",
+   "link": "https://yourstory.com/2026/11/meet-8-tamil-nadu-startups-that-showcased-their-innovations-to-pm-modi",
+   "summary": "From spacetech to aviation and healthcare, meet eight Tamil Nadu startups taking homegrown innovation to new heights and catching the Prime Minister’s attention.",
+   "published": "2026-11-11T12:11:57+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "06d9fb5e7a8345d8",
+   "title": "AirEarth Pitch Event 2026: Clean Air and Climate Innovators to Face Investors",
+   "link": "https://yourstory.com/2026/11/airearth-pitch-partnership-event-2026-clean-air-climate-innovators",
+   "summary": "AirEarth’s online pitch event on Nov 12 sees clean air and climate innovators in six categories pitch to investors and experts.",
+   "published": "2026-11-11T12:02:32+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c35572bc400da9fa",
+   "title": "5 lessons from the book Educated by Tara Westover that you read",
+   "link": "https://yourstory.com/2026/11/5-lessons-educated",
+   "summary": "Discover five powerful life lessons from Educated by Tara Westover on self-discovery, independence, education, courage, and personal growth.",
+   "published": "2026-11-11T12:00:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "493c34e8830f9e4d",
+   "title": "Govt invites fresh applications under PLI scheme for medical devices; extends tenure till 2035-36",
+   "link": "https://yourstory.com/2026/11/govt-invites-fresh-applications-under-pli-scheme-for-medical-devices-extends-tenure-till-2035-36",
+   "summary": "Under the revised guidelines, the government has eliminated the minimum sales threshold for claiming financial incentives while scaling down the baseline capital expenditure required from manufacturers, the Department of Pharmaceuticals, under the Ministry of Chemicals and Fertilizers.",
+   "published": "2026-11-11T11:54:17+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f0e7e306d4f7c44e",
    "title": "Beyond code generation: Five lessons on AI, reliability, and recovery",
