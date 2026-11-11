@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T17:30:01+00:00",
+ "generated_at": "2026-11-11T18:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 2,
-   "items": 2,
-   "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 21:22:11 +0530",
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 21:51:54 +0530",
+   "sample_date": "Wed, 11 Nov 2026 23:12:09 +0530",
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 22:21:35 +0530",
    "error": null,
-   "checked_at": "2026-11-11T17:30:01+00:00"
+   "checked_at": "2026-11-11T18:00:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "61a82eb7ae5c6c18",
+   "title": "Bought Indo Thai Securities shares in 2026? Stock crashes 90% after two years of multibagger gains; what went wrong?",
+   "link": "https://www.livemint.com/market/stock-market-news/bought-indo-thai-securities-shares-in-2026-stock-crashes-90-after-two-years-of-multibagger-gains-what-went-wrong-11794418354632.html",
+   "summary": "Indo Thai Securities shares have plunged nearly 90% in 2026 to a more-than-two-year low of ₹31.70, erasing much of their previous gains. The sell-off followed sharply weaker results: the company reported a Q2 FY27 net loss of ₹35.58 crore as revenue fell 68.1% year on year.",
+   "published": "2026-11-11T17:42:09+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Nifty_new_1794418655760_shpQ_1794418662001_ZCly_eadf27f3-bea8-4d43-80c4-72f37bf11271_aSd9.png",
+   "topics": [],
+   "first_seen": "2026-11-11T18:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dffbf7985214de2d",
    "title": "FD auto-renewal: Your fixed deposit auto-renewed at a lower interest rate? Can you reverse it? Know here",
@@ -11332,24 +11350,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/MS_1755693310577_1755693317448_1756904694597_1772627086309.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a0c7f6edd77f827d",
-   "title": "Samvat 2083: How much gold and silver should your portfolio hold?",
-   "link": "https://www.livemint.com/market/commodities/samvat-2083-gold-silver-price-portfolio-11793806249883.html",
-   "summary": "With gold and silver cooling off from record highs, should investors take cover or prepare to buy the dip? Analysts weigh in on the best playbook for Samvat 2083.",
-   "published": "2026-11-06T00:30:39+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/c016497b-2f73-4c4c-a0e1-5ab04fbf7605_1791257562959_1793881426919_6hDQ_1793881427022_mPEg_552efaab-7b5c-4a64-a176-38cd21e986a9_vMhv.png",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
