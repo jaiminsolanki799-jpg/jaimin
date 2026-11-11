@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T19:00:01+00:00",
+ "generated_at": "2026-11-11T19:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 00:06:51 +0530",
+   "sample_date": "Thu, 12 Nov 2026 00:40:38 +0530",
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 00:16:15 +0530",
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 23:40:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T19:00:01+00:00"
+   "checked_at": "2026-11-11T19:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "df7e0c4a1c24ada5",
+   "title": "Poundland owner Gordon Brothers urged to back extension of creditor protection",
+   "link": "https://www.livemint.com/companies/poundland-owner-gordon-brothers-urged-to-back-extension-of-creditor-protection-11794424239150.html",
+   "summary": "POUNDLAND-OUTLOOK/ (PIX):Poundland owner Gordon Brothers urged to back extension of creditor protection",
+   "published": "2026-11-11T19:10:38+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "topics": [],
+   "first_seen": "2026-11-11T19:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "aaf42cc463af0ad3",
    "title": "London Aluminum Market Faces Biggest Supply Squeeze in Decades",
@@ -11333,24 +11351,6 @@
    "topics": [
     "RBI / banking"
    ],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "320db6c1854e0f69",
-   "title": "Canada’s Sovereign Wealth Fund to Start Its Retail Offering in 2027",
-   "link": "https://www.livemint.com/market/canadas-sovereign-wealth-fund-to-start-its-retail-offering-in-2027-11793928314167.html",
-   "summary": "Canada’s government plans to launch new, guaranteed securities for investors early next year to seed a sovereign wealth fund, which will be able to use the money to buy equity stakes in companies including technology firms.",
-   "published": "2026-11-06T01:25:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-   "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
