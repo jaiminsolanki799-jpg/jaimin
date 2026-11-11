@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T10:00:03+00:00",
+ "generated_at": "2026-11-11T10:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T10:00:03+00:00"
+   "checked_at": "2026-11-11T10:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:11:09 GMT",
+   "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
    "error": null,
-   "checked_at": "2026-11-11T10:00:03+00:00"
+   "checked_at": "2026-11-11T10:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 11 Nov 2026 09:13:49 GMT",
    "error": null,
-   "checked_at": "2026-11-11T10:00:03+00:00"
+   "checked_at": "2026-11-11T10:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 13,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T10:00:03+00:00"
+   "checked_at": "2026-11-11T10:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 11 Nov 2026 07:30:51 +0000",
    "error": null,
-   "checked_at": "2026-11-11T10:00:03+00:00"
+   "checked_at": "2026-11-11T10:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "471729b5f9a179d9",
+   "title": "Beyond the model: Why context, not intelligence, is the moat for durable AI",
+   "link": "https://yourstory.com/2026/11/beyond-model-why-context-not-intelligence-moat-for-durable-ai",
+   "summary": "At TechSparks 2026, leaders from MongoDB, Pine Labs, and Spinny discussed why data, memory, workflows, and trust matter more than model access.",
+   "published": "2026-11-11T10:19:49+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b42aeca2ae7ff571",
+   "title": "Kunal Shah sets three priorities for WhatsApp, but spam and payments remain key challenges",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHJ4VHAwRUpNajRMQXNHTENyVmxPanZhZmlwN3hSYXdETGRRcTBuenhpMkVXMTc3NlFqTzhtMWdWc09Sc0hpN2cxRUVZTnRnTFFoQnlMaTlRX3IxYUtrRjVIMnRoNlpVM09qcnN1aG4tYmRBY2hyejJqSFJLZkZRVmtERmhEUS1lZXVQUXppbkhaOFdBTnVfNWJaLWxGMERRbnBfRjhsRm00QWZWWi0wSF9VVXVVR3M3N3EyZWZrTWJHZ9IBwgFBVV95cUxNTHJ4VHAwRUpNajRMQXNHTENyVmxPanZhZmlwN3hSYXdETGRRcTBuenhpMkVXMTc3NlFqTzhtMWdWc09Sc0hpN2cxRUVZTnRnTFFoQnlMaTlRX3IxYUtrRjVIMnRoNlpVM09qcnN1aG4tYmRBY2hyejJqSFJLZkZRVmtERmhEUS1lZXVQUXppbkhaOFdBTnVfNWJaLWxGMERRbnBfRjhsRm00QWZWWi0wSF9VVXVVR3M3N3EyZWZrTWJHZw?oc=5",
+   "summary": "",
+   "published": "2026-11-11T10:00:05+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b2ee2a5cbed9bfe4",
+   "title": "CERT-In flags critical security flaws, urges Chrome users in India to update browsers",
+   "link": "https://yourstory.com/2026/11/cert-in-flags-security-flaws-urges-chrome-users-in-india-to-update-browsers",
+   "summary": "One of the reported vulnerabilities is already being actively exploited in real attacks, the cyber security agency has warned.",
+   "published": "2026-11-11T09:55:33+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c602d0f1c1a1da95",
    "title": "Beyond backups: Six lessons on cloud resilience, recovery, and rising AI costs",
