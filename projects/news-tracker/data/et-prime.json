@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T20:00:01+00:00",
+ "generated_at": "2026-11-11T20:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 00:40:38 +0530",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 00:16:15 +0530",
+   "sample_date": "Thu, 12 Nov 2026 01:39:56 +0530",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 23:40:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "841121f53ba25946",
+   "title": "Oil up 1% as Iran official says country will keep enriched nuclear material",
+   "link": "https://www.livemint.com/market/oil-up-1-as-iran-official-says-country-will-keep-enriched-nuclear-material-11794427796838.html",
+   "summary": "GLOBAL-OIL:Oil up 1% as Iran official says country will keep enriched nuclear material",
+   "published": "2026-11-11T20:09:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-11T20:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "df7e0c4a1c24ada5",
    "title": "Poundland owner Gordon Brothers urged to back extension of creditor protection",
@@ -11331,26 +11349,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/gold_prices_1793928522247_Z4oc_1793928527471_7dDl_9ee707d8-4caa-4f1a-a144-d832fa839719_3drw.png",
    "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "eca2a08219e3cabe",
-   "title": "Are banks open or closed on Dhanteras 2026? Check if SBI and HDFC Bank are operational on 6 November: RBI holiday list",
-   "link": "https://www.livemint.com/money/personal-finance/are-banks-open-or-closed-on-dhanteras-2026-check-if-sbi-and-hdfc-bank-are-operational-on-6-november-rbi-holiday-list-11793927605272.html",
-   "summary": "Banks open or closed today, 6 November: With Dhanteras celebrations underway, customers may be wondering whether bank branches will operate as usual. Here's what the RBI's holiday calendar says about banking services, branch timings and upcoming holidays in November.",
-   "published": "2026-11-06T01:28:58+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Bank-holiday-dhanteras-ai-generated-image_1793928472460_2xbk_1793928472603_qpqX_0bf4284a-6af4-4729-8349-3ce2f159cf0b_7JA0.jpg",
-   "topics": [
-    "RBI / banking"
-   ],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []

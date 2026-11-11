@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T20:00:01+00:00",
+ "generated_at": "2026-11-11T20:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 06:29:50 GMT",
+   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 11 Nov 2026 13:02:54 GMT",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 16,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 19:54:00 +0000",
+   "sample_date": "Wed, 11 Nov 2026 20:15:15 +0000",
    "error": null,
-   "checked_at": "2026-11-11T20:00:01+00:00"
+   "checked_at": "2026-11-11T20:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "0d92f57c72e3e3cf",
+   "title": "Why the data center you dread might never even be built",
+   "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With…",
+   "published": "2026-11-11T20:15:15+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T20:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6bc57b8d8016fc8d",
+   "title": "Meta is losing its longtime head of infrastructure",
+   "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+   "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+   "published": "2026-11-11T20:12:01+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T20:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dcea4cb67e338c39",
+   "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+   "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+   "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+   "published": "2026-11-11T20:04:28+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T20:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c063829a6185b4d7",
    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
