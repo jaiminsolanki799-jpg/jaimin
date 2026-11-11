@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T07:30:01+00:00",
+ "generated_at": "2026-11-11T08:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T07:30:01+00:00"
+   "checked_at": "2026-11-11T08:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
+   "sample_date": "Tue, 10 Nov 2026 09:11:09 GMT",
    "error": null,
-   "checked_at": "2026-11-11T07:30:01+00:00"
+   "checked_at": "2026-11-11T08:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 11 Nov 2026 07:01:17 GMT",
+   "sample_date": "Wed, 11 Nov 2026 07:39:34 GMT",
    "error": null,
-   "checked_at": "2026-11-11T07:30:01+00:00"
+   "checked_at": "2026-11-11T08:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 12,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T07:30:01+00:00"
+   "checked_at": "2026-11-11T08:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 01:02:13 +0000",
+   "sample_date": "Wed, 11 Nov 2026 07:30:51 +0000",
    "error": null,
-   "checked_at": "2026-11-11T07:30:01+00:00"
+   "checked_at": "2026-11-11T08:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "5a4b3ee75c8b7da0",
+   "title": "IBM Restricts H-1B Visa and Green Card Sponsorship Across Consulting Workforce",
+   "link": "https://startuptalky.com/news/ibm-restricts-h-1b-visa-and-green-card-sponsorship/",
+   "summary": "IBM has chosen to stop sponsoring H-1B visas and Green Cards for most jobs in its Consulting arm, impacting a workforce of over 150,000. The action comes amid heightened scrutiny of U.S. immigration and employment visa programs by the Trump administration.",
+   "published": "2026-11-11T07:39:34+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/ibm-restricts-h-1b-visa-and-green-card-sponsorship-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a390f90d4604de89",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "published": "2026-11-11T07:30:51+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dd5cf8a82e832ec5",
    "title": "Qualcomm Initiates Workforce Reduction in India Amid Business Restructuring",
