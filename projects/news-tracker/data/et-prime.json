@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T18:00:01+00:00",
+ "generated_at": "2026-11-11T18:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "ok": true,
+   "fetched": 2,
+   "items": 2,
+   "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 21:22:11 +0530",
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 23:12:09 +0530",
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 22:21:35 +0530",
+   "sample_date": "Wed, 11 Nov 2026 23:40:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T18:00:01+00:00"
+   "checked_at": "2026-11-11T18:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "b8ce4d3af088b41b",
+   "title": "Post office time deposit scheme: How much interest can you earn on a ₹1L investment across 1, 2, 3 and 5-year tenures?",
+   "link": "https://www.livemint.com/money/personal-finance/post-office-time-deposit-scheme-how-much-interest-can-you-earn-on-a-1l-investment-across-1-2-3-and-5-year-tenures-11794418578977.html",
+   "summary": "The Post office time deposit offers assured returns, with different interest rates across tenures. Check how much you can earn on a one-time investment of ₹1 lakh.",
+   "published": "2026-11-11T18:10:08+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/post_office_story_17883964175_1794420158875_25c2_1794420159056_eVAN_75ac5990-3fb3-4973-8886-80fc84439950_TKEj.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "61a82eb7ae5c6c18",
    "title": "Bought Indo Thai Securities shares in 2026? Stock crashes 90% after two years of multibagger gains; what went wrong?",
@@ -11332,24 +11350,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/RAJA_IMG1_1733139557630_1773677587730_177845889149_1793839490621_u652_1793839490758_tBjV_61cc2775-1b9e-4a80-8986-81bd98bf5df9_HUL5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "639e5de55f45941e",
-   "title": "Stock recommendations for 6 November from MarketSmith India",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-6-november-from-marketsmith-india-11793899757710.html",
-   "summary": "MarketSmith India reveals its top stock recommendations for today, 6 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
-   "published": "2026-11-06T00:30:43+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/MS_1755693310577_1755693317448_1756904694597_1772627086309.png",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
