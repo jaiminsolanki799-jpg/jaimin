@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T06:30:02+00:00",
+ "generated_at": "2026-11-11T07:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T06:30:02+00:00"
+   "checked_at": "2026-11-11T07:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 10 Nov 2026 09:16:11 GMT",
+   "sample_date": "Wed, 11 Nov 2026 06:29:50 GMT",
    "error": null,
-   "checked_at": "2026-11-11T06:30:02+00:00"
+   "checked_at": "2026-11-11T07:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 10 Nov 2026 13:13:11 GMT",
+   "sample_date": "Wed, 11 Nov 2026 06:27:20 GMT",
    "error": null,
-   "checked_at": "2026-11-11T06:30:02+00:00"
+   "checked_at": "2026-11-11T07:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 12,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T06:30:02+00:00"
+   "checked_at": "2026-11-11T07:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 11 Nov 2026 01:02:13 +0000",
    "error": null,
-   "checked_at": "2026-11-11T06:30:02+00:00"
+   "checked_at": "2026-11-11T07:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "337c6b69abbad99f",
+   "title": "Seed funding’s new reality check in the age of AI",
+   "link": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
+   "summary": "At TechSparks 2026, investors from Snowflake for Startups, 247VC, and Endiya discussed how AI is changing seed-stage investing and why founders need to demonstrate more than a working product to secure funding.",
+   "published": "2026-11-11T06:29:50+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T07:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "7071a8ca18ed18f4",
+   "title": "Cognizant Deploys 25,000 Professionals for Claude Frontier AI Initiative",
+   "link": "https://startuptalky.com/news/cognizant-deploys-25-000-professionals-for-claude-frontier/",
+   "summary": "Cognizant has created a Claude Frontier Capability Group of more than 25,000 professionals to accelerate enterprise AI adoption and apply Anthropic’s Claude throughout business operations. The effort, announced Nov. 10, offers managed services, specialised AI engineers and more.",
+   "published": "2026-11-11T06:27:20+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/cognizant-deploys-25-000-professionals-for-claude-frontier-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4a40e83ea55f3e29",
    "title": "Kissht parent OnEMI completes Rs 832 Cr preferential issue",
