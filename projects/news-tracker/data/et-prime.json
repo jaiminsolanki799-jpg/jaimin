@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T12:30:02+00:00",
+ "generated_at": "2026-11-11T13:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 17:46:21 +0530",
+   "sample_date": "Wed, 11 Nov 2026 18:26:54 +0530",
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 17:23:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 17:48:29 +0530",
    "error": null,
-   "checked_at": "2026-11-11T12:30:02+00:00"
+   "checked_at": "2026-11-11T13:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "ac4beef77aab218a",
+   "title": "Who is Nadeen Ayman? Dubai World Trade Centre appoints her Associate Director of Marketing; here's her career journey",
+   "link": "https://www.livemint.com/companies/news/who-is-nadeen-ayman-dubai-world-trade-centre-appoints-her-associate-director-of-marketing-heres-her-career-journey-11794398613618.html",
+   "summary": "Her appointment marks the latest step in a career spanning marketing, digital engagement and event-related initiatives across some of the UAE's prominent organisations.",
+   "published": "2026-11-11T12:56:54+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/ayman_1794401590803_luhd_1794401596208_88tk_89cefc69-0a2d-460b-afb6-75a453bd4164_uTuc.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T13:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9f8b3962764ef1ef",
    "title": "HDFC Bank raises MCLR by 5-15 bps across all tenures: Check new lending rates and what they mean for your loan EMIs",
@@ -216,7 +234,7 @@
    "id": "77d8c44fadfe1ca4",
    "title": "Who is Shuchi Suri? Mahindra & Mahindra appoints Executive VP as Chief Sales and Marketing officer - Automotive",
    "link": "https://www.livemint.com/companies/people/who-is-shuchi-suri-mahindra-mahindra-appoints-executive-vp-as-chief-sales-and-marketing-officer-automotive-11794395531417.html",
-   "summary": "Mahindra &amp; Mahindra has appointed Shuchi Suri as Chief Sales and Marketing Officer for its automotive business, effective April 1, 2027. Suri, currently Executive Vice-President of Mahindra Experiences, brings more than 22 years of Unilever experience across sales, marketing and global leadership.",
+   "summary": "Mahindra &amp; Mahindra appointed Shuchi Suri as Chief Sales and Marketing Officer for its automotive business, effective April 1, 2027. Suri, currently Executive Vice-President of Mahindra Experiences, brings more than 22 years of experience at Unilever across sales, marketing, and global leadership.",
    "published": "2026-11-11T12:16:21+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -11329,24 +11347,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Untitled_Design_1793898964444_MKDW_1793898968653_A9j9_8d5a565b-761b-40e8-b0dc-3a740111e108_lAFi.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "74222e625890e389",
-   "title": "Jio launches voice-only plans from ₹147: How do prices compare with Airtel and Vi?",
-   "link": "https://www.livemint.com/companies/news/jio-launches-voice-only-plans-from-147-how-do-prices-compare-with-airtel-and-vi-11793897722541.html",
-   "summary": "Jio's voice-only prepaid offerings start at ₹147, which comes with a validity of 22 days. At the higher end, the company offers a ₹1,748 plan with a validity of 336 days.",
-   "published": "2026-11-05T17:32:20+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Untitled_design_-_2026-11-05T224912.775_1793899162499_SA0Q_1793899169778_HjXe_a7bc641e-e71a-4907-9214-3804aceab62d_TtNd.png",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
