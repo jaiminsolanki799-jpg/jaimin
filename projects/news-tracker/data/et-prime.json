@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T06:00:03+00:00",
+ "generated_at": "2026-11-11T06:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 11:17:43 +0530",
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 10:58:29 +0530",
+   "sample_date": "Wed, 11 Nov 2026 11:43:40 +0530",
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 10:04:20 +0530",
    "error": null,
-   "checked_at": "2026-11-11T06:00:03+00:00"
+   "checked_at": "2026-11-11T06:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "1b09458fef48b2af",
+   "title": "Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next?",
+   "link": "https://www.livemint.com/market/stock-market-news/india-ai-stocks-selloff-us-tech-stocks-ai-sell-off-11794370178196.html",
+   "summary": "A US tech sell-off is putting Indian AI-linked stocks under pressure. From data centre plays to IT services, how exposed are Indian companies to a global AI bust?",
+   "published": "2026-11-11T06:13:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/ad_1794377343689_4BwR_1794377344353_lbvz_32a8132d-2a8f-4ed6-b497-b883aeb152a1_Ej40.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3e3285b1a6cf5747",
+   "title": "Why KPI Green Energy, Waaree Energies shares are rising today; over 5% jump amid post Diwali Sensex, Nifty fireworks",
+   "link": "https://www.livemint.com/market/stock-market-news/why-kpi-green-energy-waaree-energies-shares-are-rising-today-over-5-jump-amid-post-diwali-sensex-nifty-fireworks-11794375321435.html",
+   "summary": "Waaree Energies shares rallied 4.91% to hit an intraday high of ₹2,613.30 apiece on Wednesday. Meanwhile, KPI Green shares advanced nearly 2% to ₹347.75 per share during the trading session on November 11.",
+   "published": "2026-11-11T06:11:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/energy_1794377258298_jp3f_1794377258519_vEmQ_17a790d5-88b6-49c3-a724-d267c2003bf8_lUKc.png",
+   "topics": [],
+   "first_seen": "2026-11-11T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e2fdd83b701c3598",
+   "title": "AI stock Nvidia crashed but Netweb Technologies shares jumped 8% today after falling 13% in 1 month? Reasons; target",
+   "link": "https://www.livemint.com/market/stock-market-news/ai-stock-nvidia-crashed-but-netweb-technologies-shares-jumped-8-today-after-falling-13-in-1-month-reasons-target-11794375606908.html",
+   "summary": "Netweb Technologies shares rose as much as 7.8% on Wednesday, supported by a broader IT-sector rebound and record Q2 FY27 revenue and profit. The company reported strong sequential growth and a ₹2,629 crore order book.&nbsp;",
+   "published": "2026-11-11T06:00:32+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Nvidia_Crash_Netweb_Technologies_Surge_17943765113_1794376526991_DvPO_1794376527153_eZfe_8c13fb94-ddd5-45b0-8e27-714c65c78f7c_PfVc.png",
+   "topics": [],
+   "first_seen": "2026-11-11T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3c523d12f6f22962",
    "title": "Ultra-luxury Jacob & Co. Bugatti Tourbillon Sapphire Crystal timepiece: 6 key features explained in photos, videos",
@@ -11308,62 +11362,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/pexels-photo-7054801_1763881933577_1763881944618_1793859726532_vqTD_3f9547bb-42d4-407f-b944-d7c31890509a_8dke.jpeg",
    "topics": [
     "Income tax"
-   ],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cc00728290bc3d24",
-   "title": "NSC vs SCSS for senior citizens: Which small savings scheme offers better returns, safety and tax benefits in 2026?",
-   "link": "https://www.livemint.com/money/personal-finance/nsc-vs-scss-for-senior-citizens-which-small-savings-scheme-offers-better-returns-safety-and-tax-benefits-in-2026-11793869680482.html",
-   "summary": "NSC vs SCSS in 2026: Compare interest rates, five-year returns, investment limits, safety and tax benefits of these government-backed savings schemes. Find out which option offers better maturity proceeds and which provides senior citizens with regular retirement income.",
-   "published": "2026-11-05T09:55:08+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/ea547382-684e-42af-ae42-989d982b2167_1793869979119_H958_1793869990449_0lBR_20c93b81-bc31-4c90-a753-9ed19a56d3ad_SaLS.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "08e7816b0f61f1a6",
-   "title": "Uttarakhand DA hike: state government employees to get 3% more allowance; check details",
-   "link": "https://www.livemint.com/money/uttarakhand-raises-da-by-3-to-63-for-state-government-employees-details-here-11793871507211.html",
-   "summary": "Uttarakhand Chief Minister Pushkar Singh Dhami approved a 3-percentage-point dearness allowance increase for state employees, from 60% to 63% of basic pay, effective July 1, 2026.&nbsp;",
-   "published": "2026-11-05T09:43:46+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/pexels-photo-5849581_1781835515103_1781835539954_f831799b-f060-4c47-87ad-2f2c27a1432e_1793871809105_00UF_86858f6a-6284-4e35-b150-fece9dee2bea_W6IG.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "aac345778cac9e45",
-   "title": "Dhanteras, Diwali 2026 shopping guide: How do the costs of investing in gold ETFs differ from buying gold jewellery?",
-   "link": "https://www.livemint.com/money/personal-finance/dhanteras-diwali-2026-shopping-guide-how-do-the-costs-of-investing-in-gold-etfs-differ-from-buying-gold-jewellery-11793868557274.html",
-   "summary": "Gold ETFs and physical jewellery offer different ways to buy gold this Dhanteras. But which is more cost-effective? Compare brokerage, expense ratio, making charges, GST and other costs to understand how much you pay upfront and over time.",
-   "published": "2026-11-05T09:27:10+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/goldds_1793869971790_ijhl_1793869975343_wPzp_202a7305-c05d-4851-b011-439d60a4ddd1_4n7Y.png",
-   "topics": [
-    "GST"
    ],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
