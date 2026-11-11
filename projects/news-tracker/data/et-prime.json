@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T14:30:02+00:00",
+ "generated_at": "2026-11-11T15:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 19:56:02 +0530",
+   "sample_date": "Wed, 11 Nov 2026 20:14:08 +0530",
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 19:45:59 +0530",
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 19:47:38 +0530",
    "error": null,
-   "checked_at": "2026-11-11T14:30:02+00:00"
+   "checked_at": "2026-11-11T15:00:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "82944a4da8943088",
+   "title": "Tata Power approves ₹11,871 crore pumped storage project in Maharashtra",
+   "link": "https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html",
+   "summary": "The 1.8 GW project at Shirwata is expected to be completed in 51 months, as the company steps up investments in power generation, renewable energy and manufacturing.",
+   "published": "2026-11-11T14:44:08+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794407962638_DZZE_278eede3-8ffa-4766-9f36-35331be84ab8_K9jC.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T15:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bcfd1c624186d71f",
+   "title": "Who is Akhilendra Kumar? Meet new CEO of Unacademy as Gaurav Munjal to become Executive Chairman - Profile of leaders",
+   "link": "https://www.livemint.com/companies/people/who-is-akhilendra-kumar-meet-new-ceo-of-unacademy-as-gaurav-munjal-to-become-executive-chairman-profile-of-leaders-11794405044620.html",
+   "summary": "Praising his successor, Munjal described Kumar as “one of the sharpest operators” he knew and said he was proud to have him lead the company into its next chapter.",
+   "published": "2026-11-11T14:39:08+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/akhileendra_kumar_and_gaurav_munjal_1794407867677_EYga_1794407876278_lNTo_1e3f49c3-8ba8-4e36-abe1-1d87c2f3952c_zXi6.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T15:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fe538a07c4f572fc",
    "title": "Singapore Airlines backs Air India despite billion-dollar losses",
@@ -11312,42 +11348,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/maxresdefault_1793946123596_MXH5_1793946130561_9k4Q_0f448963-7357-4d35-bd22-97fb4abad3fc_5Wgi.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b5e9c4f905769d35",
-   "title": "Wife's LinkedIn isn't proof of income, rules Bengaluru court; can financially independent woman be denied maintenance?",
-   "link": "https://www.livemint.com/money/wifes-linkedin-isnt-proof-of-income-rules-bengaluru-court-can-financially-independent-woman-be-denied-maintenance-11793900948279.html",
-   "summary": "A Bengaluru court ruled that a wife’s qualifications, social media profiles or potential employability do not prove financial independence or automatically disqualify her from maintenance.&nbsp;",
-   "published": "2026-11-05T18:31:27+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/82a07e02-76df-42d3-89f3-0fef6aa0a020_1793903375762_Frb9_1793903382514_j4W1_7ea56801-3d4a-4076-aead-3ec439131489_rBhu.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "af6e739f53fd765e",
-   "title": "KFC launches themed menu and more as it teams up with Marvel's Doctor Doom for Avengers Doomsday campaign worldwide",
-   "link": "https://www.livemint.com/companies/kfc-launches-themed-menu-and-more-as-it-teams-up-with-marvels-doctor-doom-for-avengers-doomsday-campaign-worldwide-11793902124607.html",
-   "summary": "KFC to team up with Marvel in its most expansive collaboration to date. Check when and where it will be available.",
-   "published": "2026-11-05T18:29:22+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/217045_1793903311347_Dc1f_1793903315127_k2Jk_a611243e-c6f1-4f9f-b314-0b2947067a97_BoeM.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
