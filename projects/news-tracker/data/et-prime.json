@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T05:00:01+00:00",
+ "generated_at": "2026-11-11T05:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 10:22:20 +0530",
+   "sample_date": "Wed, 11 Nov 2026 10:52:42 +0530",
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 10:08:24 +0530",
+   "sample_date": "Wed, 11 Nov 2026 10:43:46 +0530",
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 10:04:20 +0530",
    "error": null,
-   "checked_at": "2026-11-11T05:00:01+00:00"
+   "checked_at": "2026-11-11T05:30:01+00:00"
   }
  ],
  "topics": [
@@ -195,10 +195,66 @@
  "new_since_last_run": 3,
  "items": [
   {
+   "id": "b5f17aabb0c7963f",
+   "title": "Lifestyle brand Nicobar eyes ₹1,000 crore revenue in 5-6 years",
+   "link": "https://www.livemint.com/companies/news/nicobar-targets-rs-1000-crore-revenue-expansion-store-growth-11794329907305.html",
+   "summary": "Nicobar is targeting 25-30% revenue growth this year and plans to add seven to ten stores annually, expanding retail and corporate gifting while funding growth through internal cash flows.",
+   "published": "2026-11-11T05:22:42+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Raul_Rai_Profile_1794332890771_2lfk_1794332915702_K4tM_eae8f297-e0b3-48a3-b805-7e4ed4ea6357_iOZh.jpg",
+   "topics": [],
+   "first_seen": "2026-11-11T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "87b6563ae54a5151",
+   "title": "Balmer Lawrie share price jumps 16% as stock rallies after strong Q2 results, gains 19% in two weeks | Check key levels",
+   "link": "https://www.livemint.com/market/stock-market-news/balmer-lawrie-share-price-jumps-16-as-stock-rallies-after-strong-q2-results-gains-19-in-two-weeks-check-key-levels-11794372566602.html",
+   "summary": "Balmer Lawrie shares surged over 16% on Wednesday after strong second-quarter results boosted investor interest. Standalone net profit rose 39.56% year on year to ₹67.66 crore, while total income increased 26.34% to ₹818.04 crore.",
+   "published": "2026-11-11T05:13:46+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Balmer_Lawrie_Shares_Surge_16_1794373909637_DLaR_1794373915133_BUk6_b6b2563d-3149-466c-ad0d-232572a5c9f6_gYVf.png",
+   "topics": [],
+   "first_seen": "2026-11-11T05:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "4d9f3699fe62a21c",
+   "title": "Ashoka Buildcon shares soar 14% after new NHAI order win, still down 43% in 1 year - check contract details, performance",
+   "link": "https://www.livemint.com/market/stock-market-news/ashoka-buildcon-shares-soar-14-after-new-nhai-order-win-still-down-43-in-1-year-check-contract-details-performance-11794372853320.html",
+   "summary": "Ashoka Buildcon shares rose as much as 14% after the company received an ₹865.90 crore NHAI contract to complete a 26.6-km expressway section in Gujarat. The award boosted sentiment despite Q2 FY27 revenue falling 18.72% year on year and the company reporting a net loss of ₹118.96 crore.",
+   "published": "2026-11-11T05:02:59+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Ashoka_Buildcon_Surges_on_NHAI_Win_1794373297311_voel_1794373306003_1oGE_4ab22888-989f-4acf-ab1d-6eff469c288a_U3cx.png",
+   "topics": [],
+   "first_seen": "2026-11-11T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "21ec010f95598a5b",
    "title": "Nagpur couple cultivates saffron in indoor facility; generates ₹40-50 lakh in annual revenue | Details",
    "link": "https://www.livemint.com/companies/news/nagpur-couple-cultivates-saffron-in-indoor-facility-generates-rs-40-50-lakh-in-annual-revenue-details-11794372109098.html",
-   "summary": "A Maharashtra couple, Akshay Holey and Divya Lohakare Holey, is growing saffron in Nagpur using aeroponics, a soil-free farming technique. Their venture reportedly earns ₹40-50 lakh annually, with the couple also sharing details of the investment and technology behind their business.",
+   "summary": "A couple from Maharashtra, Akshay Holey and Divya Lohakare Holey, is growing saffron in Nagpur using aeroponics, a soil-free farming technique. Their venture reportedly earns ₹40-50 lakh annually.&nbsp;",
    "published": "2026-11-11T04:52:20+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -11310,62 +11366,6 @@
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "17542a8a9328f983",
-   "title": "Jeevan Pramaan: EPFO reminds pensioners to submit Life Certificate; check documents needed and how to apply",
-   "link": "https://www.livemint.com/money/jeevan-pramaan-epfo-reminds-pensioners-to-submit-life-certificate-check-documents-needed-and-how-to-apply-11793867253548.html",
-   "summary": "EPFO has reminded pensioners to submit their Jeevan Pramaan, or Digital Life Certificate. Here's how to submit it through three methods, the documents required and how the Aadhaar-based service works.",
-   "published": "2026-11-05T08:38:48+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Jeevan_Pramaan_1793867873281_lCdA_1793867897350_L9NI_596c1ff2-b7a7-43fc-98cd-b5b7a2cb4517_l34z.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "16a74d4d447e2964",
-   "title": "Temple run: hotel chains chase footfalls over big profits in pilgrim centres",
-   "link": "https://www.livemint.com/companies/news/temple-town-hotels-india-hospitality-chains-pilgrimage-tourism-11793780461799.html",
-   "summary": "Radisson, Wyndham, Tamara and Alivaa are adding rooms in religious destinations, betting on domestic travel. But short stays and modest room rates can limit returns for mid-market hotels.",
-   "published": "2026-11-05T08:17:03+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/Rae_Image_2_1793780540245_3x9O_1793780545167_y14J_4f0d9103-4686-42be-8038-c06a4c234e36_e3i5.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "76ea8ae8ce1c27b8",
-   "title": "Axis Bank festive offers 2026: 100% car loan funding, 30-minute disbursal, EV discounts and other benefits",
-   "link": "https://www.livemint.com/money/personal-finance/axis-bank-festive-offers-2026-100-car-loan-funding-30-minute-disbursal-ev-discounts-and-other-benefits-11793859480354.html",
-   "summary": "Axis Bank has announced Diwali festive offers on car loans, two-wheeler loans, home loans and credit cards. Check out 100% car financing, 30-minute disbursal, EV discounts, reduced processing fees and other benefits.",
-   "published": "2026-11-05T08:11:00+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Axis_Bank_Festive_Vehicle_Offers_1793860028758_uyEF_1793860036141_b7il_20dcc7fe-3bf1-4e7c-b00b-e593089a56e8_6XDz.png",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
   }
  ]
 }
