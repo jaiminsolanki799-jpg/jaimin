@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-11T04:00:01+00:00",
+ "generated_at": "2026-11-11T04:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,18 +112,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 11 Nov 2026 08:42:51 +0530",
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 08:40:35 +0530",
+   "sample_date": "Wed, 11 Nov 2026 09:46:51 +0530",
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 11 Nov 2026 09:18:49 +0530",
+   "sample_date": "Wed, 11 Nov 2026 09:53:32 +0530",
    "error": null,
-   "checked_at": "2026-11-11T04:00:01+00:00"
+   "checked_at": "2026-11-11T04:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "b569a6a143888a8f",
+   "title": "Gold, silver prices today, 11 Nov Wednesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai, Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-11-nov-wednesday-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-kolkata-11794368530448.html",
+   "summary": "Gold, silver prices today: Gold and silver prices rose in international and domestic markets on 11 November. Check the latest retail rates of 24K and 22K gold and 999 silver in Delhi, Mumbai, Kolkata and other major cities, along with changes in global and MCX prices.",
+   "published": "2026-11-11T04:23:32+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/globa_1794370930987_BYyj_1794370936780_F6mM_b2ff39b1-7fe7-4cbf-832e-08ab7494df7d_zvel.png",
+   "topics": [],
+   "first_seen": "2026-11-11T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a9a45844bb25f14a",
+   "title": "Why Kalyan Jewellers shares surged 10%, hit 52-week high after Diwali, Dhanteras; up 26% in a week | Buy, sell or hold?",
+   "link": "https://www.livemint.com/market/stock-market-news/why-kalyan-jewellers-shares-surged-10-hit-52-week-high-after-diwali-dhanteras-up-26-in-a-week-buy-sell-or-hold-11794369395918.html",
+   "summary": "Kalyan Jewellers shares rose 10% to a 52-week high after the company reported Q2 FY27 net profit growth of 64% to ₹427 crore and revenue growth of 32% to ₹10,323 crore. Brokerages maintained Buy ratings, while the stock’s gains extended across multiple timeframes.",
+   "published": "2026-11-11T04:16:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Kalyan_Jewellers_Shares_Soar_10_1794370498087_u8oI_1794370501724_yGa2_3fcc2685-8af6-4363-a18f-e08703cfcded_o6wh.png",
+   "topics": [],
+   "first_seen": "2026-11-11T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1d89a0b3e086b44a",
+   "title": "TD Power shares up 350% up in 3 years, jumps 5% today as Sensex, Nifty jump massively | More upside? target, stop loss",
+   "link": "https://www.livemint.com/market/stock-market-news/td-power-shares-up-350-up-in-3-years-jumps-5-today-as-sensex-nifty-jump-massively-more-upside-target-stop-loss-11794369346196.html",
+   "summary": "TD Power share price opened at ₹580.35 per share on NSE today, as compared to previous close of ₹571.65 on Monday and touched an intraday high of ₹604 on November 11.",
+   "published": "2026-11-11T04:15:19+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/TD_1794370392109_OjQ1_1794370392327_3QGr_288d17bb-3faa-4076-9506-ddab1d0456d4_odmr.png",
+   "topics": [],
+   "first_seen": "2026-11-11T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a5f50bdfe7f03619",
+   "title": "Stock Market Today: Massive jump in Sensex, Nifty! ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-massive-jump-in-sensex-nifty-rs-4-5-lakh-cr-wealth-added-in-a-few-mins-reasons-for-bullish-party-11794369074218.html",
+   "summary": "The Sensex and Nifty climbed more than 1% in Wednesday trading, led by gains in major stocks including IndiGo, M&amp;M and HDFC Bank. Mid- and small-cap shares also advanced as easing oil prices and improved investor sentiment buoyed markets.",
+   "published": "2026-11-11T04:03:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Sensex_Nifty_Surge_1794369757375_julq_1794369762750_TQET_5e43a96d-f08c-44e7-bdd8-22728ec1ccce_SFNT.png",
+   "topics": [],
+   "first_seen": "2026-11-11T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eb906c1dbd91d881",
    "title": "Global gold price drop 2026: Yellow metal slips 6% in dollar terms, but top Indian gold ETFs still deliver 7.5% returns",
@@ -214,7 +286,7 @@
   },
   {
    "id": "d1a8ceb7cad94ec5",
-   "title": "Qualcomm begins layoffs in India: How many jobs at risk, what's the severance package, benefits offered to employees",
+   "title": "Qualcomm begins layoffs in India: How many jobs are at risk, what's the severance package, benefits offered to employees",
    "link": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html",
    "summary": "The reported layoffs in India follow job cuts in the US, with the exercise expected to be carried out in phases across its operations. This comes as the US-based chipmaker undertakes a global workforce restructuring.",
    "published": "2026-11-11T03:12:51+00:00",
@@ -232,9 +304,9 @@
   },
   {
    "id": "8598a66eafa71a6d",
-   "title": "Indian stocks poised for higher open on softer crude, robust foreign buying",
+   "title": "Sensex, Nifty 50 open higher on softer crude, robust foreign buying",
    "link": "https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
-   "summary": "The Nifty 50 and the BSE Sensex have gained nearly 9% so far this month as easing crude oil prices, strong domestic earnings and a selloff in global chipmakers brought foreign portfolio investors (FPIs) back to India.",
+   "summary": "The NSE Nifty 50 rose 1.17% to 25,337.8 points and the S&amp;P BSE Sensex gained 1.41% to 82,248.68 as of 9:15 a.m. IST, their highest levels since 27 February.",
    "published": "2026-11-11T03:10:35+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -316,7 +388,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Alice_Huang__1794364154505_NtQx_1794364169963_kdcR_b2c7ed9a-65e4-47ae-b8a9-66cb1aa4ec3b_lWqw.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/Alice_Huang__1794364154505_NtQx_1794364169963_kdcR_b2c7ed9a-65e4-47ae-b8a9-66cb1aa4ec3b_lWqw.jpg",
    "topics": [],
    "first_seen": "2026-11-11T03:00:02+00:00",
    "valuation_score": 0,
@@ -11287,82 +11359,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Karan_Bajwa_1793860715818_YZfk_1793860737059_uFxw_c3d9c929-ec2a-407b-a21a-cefb3999c60c_OfD2.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5df3b94c2f918164",
-   "title": "Crown new materials stock surge: How an ex-school teacher who left his job to make adhesive tapes became a billionaire",
-   "link": "https://www.livemint.com/companies/people/crown-new-materials-stock-surge-how-a-former-school-teacher-who-left-his-job-to-make-adhesive-tapes-became-a-billionair-11793859825930.html",
-   "summary": "Chinese materials maker Crown New Materials raised CNY 956 million in its debut, with shares surging as much as 787%. The listing lifted co-founders Mai Michael and Mai Huixia to billionaire status,. The company supplies adhesive materials and films to customers including BYD, Apple and Tesla.",
-   "published": "2026-11-05T06:38:51+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/crown_1793860386710_533E_1793860398806_KT7S_f94cbc90-bc94-4092-a542-d2bf15cbc274_DPYE.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cd5e34f9763846ad",
-   "title": "Google voluntary buyout: What do employees get in severance package? Which 7 countries are included? Explained",
-   "link": "https://www.livemint.com/companies/news/google-voluntary-buyout-what-do-employees-get-in-severance-package-which-7-countries-are-included-explained-11793855251347.html",
-   "summary": "Google is using selective voluntary buyouts to manage costs and redirect resources toward AI and cloud computing. The offers cover employees in five countries, but the company has not disclosed full terms or take-up numbers. The approach follows earlier, division-specific exit programs.",
-   "published": "2026-11-05T05:51:13+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/maxresdefault_1793889399122_jyIH_1793889404509_7BJx_ac117281-dc7d-44e9-91a9-c96034fc70af_1zqP.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
-   ]
-  },
-  {
-   "id": "bbcf271fed1ca3cc",
-   "title": "Richest man on earth Elon Musk spent $224 mn to influence Texas Senate race? What Democrat win means for Tesla, SpaceX",
-   "link": "https://www.livemint.com/companies/people/elon-musk-spent-224-million-to-influence-texas-senate-race-what-democrat-win-mean-for-tesla-spacex-and-data-centers-11793845394983.html",
-   "summary": "The 2026 midterms delivered a major Democratic victory, including historic wins in Texas. Musk’s support for Republican candidates failed to prevent Democratic victories in Senate and governor’s races. The results could affect his Texas-based businesses and plans to expand AI infrastructure there.",
-   "published": "2026-11-05T02:30:16+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/musk_1793845646198_Jpo6_1793845663334_EjKE_1caa58bd-cd23-41e4-9310-2c19f4c85900_89l9.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e29a595c035233f0",
-   "title": "Jungle Ventures targets two IPOs a year from its portfolio",
-   "link": "https://www.livemint.com/companies/news/jungle-ventures-targets-two-ipos-a-year-from-its-portfolio-11793791578211.html",
-   "summary": "The early-stage VC firm is preparing startups such as Moglix and Livspace for public markets while closing in on a fifth fund that will push its India bets past $1 billion.",
-   "published": "2026-11-05T00:31:02+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Amit_AnandVentures_1793926012626_wiOL_1793926027248_PzcW_dcfbfd70-3342-423f-94f6-427d56ff1d57_4Klf.JPG",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
