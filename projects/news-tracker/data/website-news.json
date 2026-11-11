@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-11T15:00:03+00:00",
+ "generated_at": "2026-11-11T15:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 7,
    "sample_date": "Wed, 04 Nov 2026 15:56:43 GMT",
    "error": null,
-   "checked_at": "2026-11-11T15:00:03+00:00"
+   "checked_at": "2026-11-11T15:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 11 Nov 2026 09:25:48 GMT",
    "error": null,
-   "checked_at": "2026-11-11T15:00:03+00:00"
+   "checked_at": "2026-11-11T15:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 11 Nov 2026 13:02:54 GMT",
    "error": null,
-   "checked_at": "2026-11-11T15:00:03+00:00"
+   "checked_at": "2026-11-11T15:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 16,
    "sample_date": "Tue, 10 Nov 2026 09:47:29 GMT",
    "error": null,
-   "checked_at": "2026-11-11T15:00:03+00:00"
+   "checked_at": "2026-11-11T15:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 14:00:00 +0000",
+   "sample_date": "Wed, 11 Nov 2026 15:02:47 +0000",
    "error": null,
-   "checked_at": "2026-11-11T15:00:03+00:00"
+   "checked_at": "2026-11-11T15:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "c62b02358c8d0f89",
+   "title": "Meet 8 Tamil Nadu startups that showcased their innovations to PM Modi",
+   "link": "https://yourstory.com/2026/11/meet-8-tamil-nadu-startups-that-showcased-their-innovations-to-pm-modi",
+   "summary": "From spacetech to aviation and healthcare, meet eight Tamil Nadu startups taking homegrown innovation to new heights and catching the Prime Minister’s attention.",
+   "published": "2026-11-11T15:16:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "118102f0f420dfc6",
+   "title": "Gaurav Munjal steps down as Unacademy CEO, Akhilendra Kumar to take charge",
+   "link": "https://yourstory.com/2026/11/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-to-take-charge",
+   "summary": "The leadership change comes two months after upGrad completed its acquisition of Unacademy. Munjal, however, will stay involved in the company's operations as executive chairman.",
+   "published": "2026-11-11T15:10:36+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-11T15:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0d3376249b4798ad",
+   "title": "Siri co-founder backs Helix for its voice ID tech",
+   "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+   "summary": "Helix said that its voice ID tech can run on an iPhone 13",
+   "published": "2026-11-11T15:02:47+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T15:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7d4c517a6890da29",
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "published": "2026-11-11T15:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-11T15:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3d12100bfeffeb7f",
    "title": "Unacademy’s Gaurav Munjal moves to Executive Chairman, CBO Akhilendra Kumar becomes CEO",
@@ -179,24 +253,6 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-11-11T12:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c62b02358c8d0f89",
-   "title": "Meet 8 Tamil Nadu startups that showcased their innovations to PM Modi",
-   "link": "https://yourstory.com/2026/11/meet-8-tamil-nadu-startups-that-showcased-their-innovations-to-pm-modi",
-   "summary": "From spacetech to aviation and healthcare, meet eight Tamil Nadu startups taking homegrown innovation to new heights and catching the Prime Minister’s attention.",
-   "published": "2026-11-11T12:11:57+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
    "first_seen": "2026-11-11T12:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
