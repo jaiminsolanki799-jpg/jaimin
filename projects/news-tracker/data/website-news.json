@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T05:30:01+00:00",
+ "generated_at": "2026-11-12T06:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T05:30:01+00:00"
+   "checked_at": "2026-11-12T06:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 06:29:50 GMT",
+   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
    "error": null,
-   "checked_at": "2026-11-12T05:30:01+00:00"
+   "checked_at": "2026-11-12T06:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 04:50:35 GMT",
    "error": null,
-   "checked_at": "2026-11-12T05:30:01+00:00"
+   "checked_at": "2026-11-12T06:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 14,
-   "items": 14,
-   "sample_date": "Wed, 11 Nov 2026 09:14:54 GMT",
+   "fetched": 15,
+   "items": 15,
+   "sample_date": "Wed, 11 Nov 2026 11:07:11 GMT",
    "error": null,
-   "checked_at": "2026-11-12T05:30:01+00:00"
+   "checked_at": "2026-11-12T06:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T05:30:01+00:00"
+   "checked_at": "2026-11-12T06:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "220d139c3849ccd5",
+   "title": "D2C menswear brand QB MEN raises pre seed funding led by BeyondSeed",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVlibmxnQUZSbk8xVEZZM2xiODhXS18xUlEtM1RFVHlTMVh3aHp1dEg3ZHJHTDVzaEhZZWpuZ0dRTEFGN1JIWVZ0djhPd0d4VXdacmY4UVZuMFJrbldDc01wakZRMzg2ajRYeFBEWWxPdlBiT25ZTXNOcGJpSEFuYkdmNDEyTUtrZGU2bzQ4aS1GRlVQSEFxZVotdFdZdmticFRVak5NS3Mzd9IBqgFBVV95cUxPOVlibmxnQUZSbk8xVEZZM2xiODhXS18xUlEtM1RFVHlTMVh3aHp1dEg3ZHJHTDVzaEhZZWpuZ0dRTEFGN1JIWVZ0djhPd0d4VXdacmY4UVZuMFJrbldDc01wakZRMzg2ajRYeFBEWWxPdlBiT25ZTXNOcGJpSEFuYkdmNDEyTUtrZGU2bzQ4aS1GRlVQSEFxZVotdFdZdmticFRVak5NS3Mzdw?oc=5",
+   "summary": "",
+   "published": "2026-11-12T05:27:56+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T06:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "c0cdfe3d4b518196",
    "title": "Exclusive: Rigi kicks off fresh investment from Google",
