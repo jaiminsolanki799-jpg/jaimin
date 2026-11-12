@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T10:30:02+00:00",
+ "generated_at": "2026-11-12T11:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:30:02+00:00"
+   "checked_at": "2026-11-12T11:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
+   "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:30:02+00:00"
+   "checked_at": "2026-11-12T11:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 09:29:25 GMT",
+   "sample_date": "Thu, 12 Nov 2026 10:02:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:30:02+00:00"
+   "checked_at": "2026-11-12T11:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 19,
-   "items": 19,
+   "fetched": 22,
+   "items": 22,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:30:02+00:00"
+   "checked_at": "2026-11-12T11:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T10:30:02+00:00"
+   "checked_at": "2026-11-12T11:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "e1553f33c142fbf0",
+   "title": "Ola Electric’s Q2 FY27 revenue dips 39% to Rs 421 Cr; cuts losses by 13%",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTE9iUG5Gdkx4RDJxNVl5NU9mUzluN2dLSTFIZmdlcDRtX2UtY0FGN3dzeHZNTDBwczluODRteEVwWkJnZlF3dHZPTFlUbWc0N09XN1lBd0thY1IyX01NVUFPMzRkRHpWOEU3WGljZTdSa2lqdi1hM25MUEFBcGlUZmxHdHVpNGt6NG56aFlNYjJPOGpGZEFva2FiSkJpVmVUV21aZDFqUG5EM29V0gGsAUFVX3lxTE5MT2JQbkZ2THhEMnE1WXk1T2ZTOW43Z0tJMUhmZ2VwNG1fZS1jQUY3d3N4dk1MMHBzOW44NG14RXBaQmdmUXd0dk9MWVRtZzQ3T1c3WUF3S2FjUjJfTU1VQU8zNGREelY4RTdYaWNlN1JraWp2LWEzbkxQQUFwaVRmbEd0dWk0a3o0bnpoWU1iMk84akZkQW9rYWJKQmlWZVRXbVpkMWpQbkQzb1U?oc=5",
+   "summary": "",
+   "published": "2026-11-12T10:53:50+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3a95bd63098dfbbb",
+   "title": "Norwest closes $4 Bn global fund, takes AUM to $18 Bn",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTQ3OExycDc4Yi1KeWw5XzBsU1BPVXp0aThnTlMtYktQdXhzam93RlpWVFJkdjNRZEUzd0VwZERzalVRTjlDMm1lMkMzQlJuVEt4OFFpaVpfZi1OajRmY29LRDcxektUQ0tQSzlCMDRibG42RHRrMTl3WC1yQ2p6cHk0d1pHcGl2MmFvVW9KczlzcG_SAZMBQVVfeXFMTTE0NzhMcnA3OGItSnlsOV8wbFNQT1V6dGk4Z05TLWJLUHV4c2pvd0ZaVlRSZHYzUWRFM3dFcGREc2pVUU45QzJtZTJDM0JSblRLeDhRaWlaX2YtTmo0ZmNvS0Q3MXpLVENLUEs5QjA0YmxuNkR0azE5d1gtckNqenB5NHdaR3BpdjJhb1VvSnM5c3Bv?oc=5",
+   "summary": "",
+   "published": "2026-11-12T10:46:48+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2a388f2ff93883f5",
+   "title": "Beyond the first transaction: Building inclusive digital payments for Bharat",
+   "link": "https://yourstory.com/2026/11/beyond-the-first-transaction-building-inclusive-digital-payments-for-bharat",
+   "summary": "At TechSparks 2026, Sagar Kumar of PayU discussed how payment systems can improve accessibility, build user trust, and bring more consumers and small businesses into the digital economy.",
+   "published": "2026-11-12T10:44:40+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "de6398744667db5f",
    "title": "From early traction to global scale: How AI is rewriting the cross-border playbook for Indian startups",
@@ -106,6 +160,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-12T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "137e08927965e93b",
+   "title": "How to Sell More Online Courses During Black Friday 2026: 5 Proven Strategies",
+   "link": "https://startuptalky.com/how-to-sell-out-online-courses-black-friday/",
+   "summary": "Learn how to increase online course sales during Black Friday 2026 with effective pricing, email marketing, course bundles, landing page optimization, and post-sale strategies.",
+   "published": "2026-11-12T10:02:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Sakshi Jadhav",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/11/how-to-sell-out-online-courses-black-friday-startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T11:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -216,6 +288,24 @@
    "image": "https://static.startuptalky.com/2026/11/spotify-expands-in-india-with-audiobook-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-11-12T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "592b8e52acd7fc87",
+   "title": "Hundo Pizza",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0weG51cXpDdDlUb3FIMktEMlZobTZLeVJpNGJ4OTJWa2xfS2lGMF9KSTA4QV9wSWEzZGFWLW43VS1USWd4OUl3MFJvUXhTdw?oc=5",
+   "summary": "",
+   "published": "2026-11-12T08:58:59+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
