@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T10:00:01+00:00",
+ "generated_at": "2026-11-12T10:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:00:01+00:00"
+   "checked_at": "2026-11-12T10:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 06:18:08 GMT",
+   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:00:01+00:00"
+   "checked_at": "2026-11-12T10:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 09:29:25 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:00:01+00:00"
+   "checked_at": "2026-11-12T10:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 19,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T10:00:01+00:00"
+   "checked_at": "2026-11-12T10:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T10:00:01+00:00"
+   "checked_at": "2026-11-12T10:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "de6398744667db5f",
+   "title": "From early traction to global scale: How AI is rewriting the cross-border playbook for Indian startups",
+   "link": "https://yourstory.com/2026/11/from-early-traction-to-global-scale-how-ai-is-rewriting-the-cross-border-playbook-for-indian-startups",
+   "summary": "At TechSparks 2026, Manish Maheshwari from Stripe India stated that AI, local payments, and smarter cost control are accelerating global expansion for Indian startups.",
+   "published": "2026-11-12T10:16:04+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "831f3b4e689246dc",
+   "title": "Global by default, local by design: What Indian founders learned about scaling across borders",
+   "link": "https://yourstory.com/2026/11/global-by-default-local-by-design-what-indian-founders-learned-about-scaling-across-borders",
+   "summary": "At a Stripe roundtable at TechSparks 2026, leaders from edtech, commerce, fintech, and consumer hardware shared how to pick markets, localize smartly, and build the payments and compliance spine that makes expansion repeatable",
+   "published": "2026-11-12T10:15:50+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4ff153934e63030c",
    "title": "Canonicus Capital raises Rs 192 Cr in first close of Rs 500 Cr special situations fund",
