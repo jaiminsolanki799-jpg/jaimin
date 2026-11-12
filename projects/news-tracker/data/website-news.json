@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T11:00:01+00:00",
+ "generated_at": "2026-11-12T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T11:00:01+00:00"
+   "checked_at": "2026-11-12T11:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T11:00:01+00:00"
+   "checked_at": "2026-11-12T11:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 10:02:00 GMT",
+   "sample_date": "Thu, 12 Nov 2026 11:00:49 GMT",
    "error": null,
-   "checked_at": "2026-11-12T11:00:01+00:00"
+   "checked_at": "2026-11-12T11:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 22,
-   "items": 22,
+   "fetched": 23,
+   "items": 23,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T11:00:01+00:00"
+   "checked_at": "2026-11-12T11:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T11:00:01+00:00"
+   "checked_at": "2026-11-12T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "49fc1abb6517f0af",
+   "title": "MGF-Kavachh leads Rs 18 Cr seed round in climate startup mistEO",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjZGbkJ2a0RFa1NjMlRIaTJyY3BLRXlUMXhFOVBlQUtiWExla3hJbmR1dkNmcGQ3WENYa2VIQTF5ZlVBdGUyRWg5Tkw0Q0s4T1h6Z0dyRmQzZ2EydDlRRDdQbWU0WWwyWTEzaUxlblB0cU9ZbXZGOE5CSGQ1SHdDa1pZS001cU85THoyRWNVOXpoV1EzRDltM3JaS3U3ekQtRDVTZtIBpAFBVV95cUxNRjZGbkJ2a0RFa1NjMlRIaTJyY3BLRXlUMXhFOVBlQUtiWExla3hJbmR1dkNmcGQ3WENYa2VIQTF5ZlVBdGUyRWg5Tkw0Q0s4T1h6Z0dyRmQzZ2EydDlRRDdQbWU0WWwyWTEzaUxlblB0cU9ZbXZGOE5CSGQ1SHdDa1pZS001cU85THoyRWNVOXpoV1EzRDltM3JaS3U3ekQtRDVTZg?oc=5",
+   "summary": "",
+   "published": "2026-11-12T11:21:06+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "a0ee63f286c65a89",
+   "title": "Karnataka open to subsidising GPU access for startups through AI hub",
+   "link": "https://yourstory.com/2026/11/karnataka-open-to-subsidising-gpu-access-for-startups-through-ai-hub",
+   "summary": "The state could offer support beyond the Centre’s IndiaAI Mission. It is also considering shared manufacturing space for small companies near Bengaluru.",
+   "published": "2026-11-12T11:07:06+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c91c527fe99f31eb",
+   "title": "CNH Breaks Ground on Uttar Pradesh Manufacturing Plant to Strengthen India Operation",
+   "link": "https://startuptalky.com/news/cnh-breaks-ground-on-uttar-pradesh-manufacturing-plant/",
+   "summary": "CNH Industrial has begun building of a 100-acre manufacturing facility at YEIDA in Uttar Pradesh to boost its India operations and ramp up tractor output. The plant will have an annual capacity of 100,000 tractors and the first phase is planned to go on stream by mid-2028.",
+   "published": "2026-11-12T11:00:49+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/cnh-breaks-ground-on-uttar-pradesh-manufacturing-plant-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e314c3e1eaeb96b5",
+   "title": "Kia India to invest $2B in second plant in Andhra Pradesh",
+   "link": "https://yourstory.com/2026/11/kia-india-to-invest-2b-in-second-plant-in-andhra-pradesh",
+   "summary": "Spread across a combined 465 acres for Kia and its suppliers, the new facility is expected to generate around 12,000 direct and indirect job opportunities.",
+   "published": "2026-11-12T10:58:41+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e1553f33c142fbf0",
    "title": "Ola Electric’s Q2 FY27 revenue dips 39% to Rs 421 Cr; cuts losses by 13%",
