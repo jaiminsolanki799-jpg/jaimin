@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T22:30:02+00:00",
+ "generated_at": "2026-11-12T23:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 00:07:00 +0530",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 03:42:21 +0530",
+   "sample_date": "Fri, 13 Nov 2026 04:16:40 +0530",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "965e3988aa4349b8",
+   "title": "How India’s INR22.5 lakh crore gold loan boom is hiding a big hole",
+   "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
+   "summary": "",
+   "published": "2026-11-12T23:00:02+00:00",
+   "source": "ET Prime: Fintech & BFSI",
+   "group": "ET Prime",
+   "category": "Fintech & BFSI",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T23:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9fee56005af9e1db",
+   "title": "GPU Financing Filters Further Into ABS With Planned Newton Deal",
+   "link": "https://www.livemint.com/market/gpu-financing-filters-further-into-abs-with-planned-newton-deal-11794523600580.html",
+   "summary": "Newton Commercial Finance, a joint venture between Apple Bank and Eagle Point Credit Management, is in early talks with investors about a potential $180 million bond offering partly backed by artificial intelligence chip loans.",
+   "published": "2026-11-12T22:46:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T23:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b9443f6a0f7a6ca4",
    "title": "Yen Falls to Cusp of 160 Level, Fanning Intervention Risk",
@@ -11331,42 +11367,6 @@
     "RBI / banking"
    ],
    "first_seen": "2026-11-07T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "eac1dbb79630965b",
-   "title": "Can defence employees claim pension for past service after voluntary resignation? What court order says",
-   "link": "https://www.livemint.com/money/can-defence-employees-claim-pension-for-past-service-after-voluntary-resignation-heres-what-meghalaya-hc-order-says-11794036637248.html",
-   "summary": "The Meghalaya High Court ruled that an Assam Rifles rifleman who voluntarily sought discharge after 13 years of service was not entitled to a pension. It however, directed authorities to release ₹5,656 to his IRLA account and ₹53,642 to his GPF account.",
-   "published": "2026-11-07T08:36:54+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/8th_pay_commission_news_1788401458454_ea405b11-bfb_1794040006903_zRAx_1794040007057_tMrF_a634b0d6-84e5-4890-90a8-f9ae92a414b8_xIyg.jpg",
-   "topics": [],
-   "first_seen": "2026-11-07T09:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5cb530a008a52af7",
-   "title": "Tata Power shares: Will it react on Mon 9 Nov post $650 mn legal battle blow with Kleros Capital in Singapore court?",
-   "link": "https://www.livemint.com/market/stock-market-news/tata-power-shares-will-it-react-on-mon-9-nov-post-650-mn-legal-battle-blow-with-kleros-capital-in-singapore-court-11794037830166.html",
-   "summary": "Tata Power shares: Experts believe the setback in the legal battle with Kleros Capital in the Singapore court would pare the entire year's net profit of the company",
-   "published": "2026-11-07T08:30:38+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Tata_Power_share_Kleros_Capital_legal_battle_1794038430074_QAue_1794038430184_3EYF_83eb6820-bfdb-4546-a070-6b641fff334f_GaCI.png",
-   "topics": [],
-   "first_seen": "2026-11-07T09:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

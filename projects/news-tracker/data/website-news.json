@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T22:30:02+00:00",
+ "generated_at": "2026-11-12T23:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 12:33:12 GMT",
+   "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 17:57:11 GMT",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 22:22:28 +0000",
+   "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-12T22:30:02+00:00"
+   "checked_at": "2026-11-12T23:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "55d7d41513d8574a",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "published": "2026-11-12T22:42:51+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T23:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1a628d755dc37d52",
    "title": "Muse can now place calls to U.S. businesses — if you pay",
