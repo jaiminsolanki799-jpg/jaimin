@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T18:30:02+00:00",
+ "generated_at": "2026-11-12T19:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 10:44:40 GMT",
+   "sample_date": "Thu, 12 Nov 2026 10:15:50 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 17:57:11 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 17:36:40 +0000",
+   "sample_date": "Thu, 12 Nov 2026 18:39:23 +0000",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,26 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "baccdaa9b5505527",
+   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+   "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+   "published": "2026-11-12T18:39:23+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6417366c4d900b9e",
    "title": "Hundo Pizza Raises ₹7.5 Cr, Led by Titan Capital",
@@ -115,9 +135,9 @@
   },
   {
    "id": "deea79b353aff377",
-   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+   "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
    "published": "2026-11-12T17:36:40+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",

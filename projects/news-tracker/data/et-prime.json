@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T18:30:02+00:00",
+ "generated_at": "2026-11-12T19:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,18 +68,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 23:32:25 +0530",
+   "sample_date": "Fri, 13 Nov 2026 00:07:00 +0530",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 22:55:49 +0530",
+   "sample_date": "Fri, 13 Nov 2026 00:13:08 +0530",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-12T18:30:02+00:00"
+   "checked_at": "2026-11-12T19:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,116 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "7a75143c8c8bb98b",
+   "title": "Rail Vikas Nigam in focus today after mixed Q2 performance; stock down 68% from record peak",
+   "link": "https://www.livemint.com/market/rail-vikas-nigam-in-focus-today-after-mixed-q2-performance-stock-down-68-from-record-peak-11794506076322.html",
+   "summary": "Rail Vikas Nigam reported Q2 FY27 net profit growth of 10% to ₹253.71 crore, despite an 8.24% revenue decline. Operating profit rose 19.51%. For H1, net profit increased 13.25% and operating profit surged 62.29%, while revenue was nearly flat.",
+   "published": "2026-11-12T18:43:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/2-0-1473714797-DSC-8963-0_1679918732945_1794507007491_rwn0_a3980e71-21b3-4c94-9eff-65b99810621a_hbOX.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0990cb3c635053a4",
+   "title": "Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
+   "link": "https://www.livemint.com/market/analysisfrom-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts-11794508676673.html",
+   "summary": "ANTHROPIC-STOCK-INDEX:Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
+   "published": "2026-11-12T18:37:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7a25602cb9be8904",
+   "title": "Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates",
+   "link": "https://www.livemint.com/companies/who-would-be-next-ceo-at-nvidia-top-engineer-and-cfo-favored-as-candidates-11794508621316.html",
+   "summary": "NVIDIA-CEO-REPLACEMENTS:Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates",
+   "published": "2026-11-12T18:37:00+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "topics": [],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14c8f020c42e9614",
+   "title": "Banco BPM to Review Credit Agricole Bid, Seeks ‘Adequate Value’",
+   "link": "https://www.livemint.com/companies/banco-bpm-to-review-credit-agricole-bid-seeks-adequate-value-11794508487552.html",
+   "summary": "Banco BPM SpA said it will review Credit Agricole SA’s proposal to combine their Italian banking operations, and said it will seek “adequate value” for shareholders.",
+   "published": "2026-11-12T18:34:47+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "34aaeba2e87a5bb5",
+   "title": "Nvidia options traders bank on longer-term stock recovery",
+   "link": "https://www.livemint.com/market/nvidia-options-traders-bank-on-longer-term-stock-recovery-11794508427878.html",
+   "summary": "NVIDIA-CEO/OPTIONS:Nvidia options traders bank on longer-term stock recovery",
+   "published": "2026-11-12T18:33:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "51b67fa434809d25",
+   "title": "IBM to end H-1B visa and green card sponsorship for most consulting roles amid Trump's immigration crackdown — Report",
+   "link": "https://www.livemint.com/companies/news/ibm-to-end-h-1b-visa-and-green-card-sponsorship-for-most-consulting-roles-amid-trumps-immigration-crackdown-report-11794505557647.html",
+   "summary": "The development comes amid increased scrutiny of employment-based immigration programmes under the Trump administration, particularly the H-1B visa programme, which allows US employers to hire skilled foreign professionals in specialised occupations.",
+   "published": "2026-11-12T18:25:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/ibm_1794508264543_b7v6_1794508268237_7H5P_94f774d0-7626-484a-8750-3d33ae4bd412_yTCa.png",
+   "topics": [],
+   "first_seen": "2026-11-12T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "947e5b77a79ffdb5",
    "title": "Alice Huang’s China links: Firms related to her promised Nvidia Blackwell chips to DeepSeek despite US ban, report says",
@@ -11255,116 +11363,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_1794036779120_DL7Z_1794036779253_lPmJ_f4f5b724-915c-47a2-9122-bd4e275d628e_C4FS.png",
    "topics": [],
    "first_seen": "2026-11-07T08:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4270dee55fb3ebd0",
-   "title": "Gold rate correction: 21% dn from record high: Is Samvat 2083 right time to buy?What investors should know before buying",
-   "link": "https://www.livemint.com/market/commodities/gold-rate-correction-21-dn-from-record-high-is-samvat-2083-right-time-to-buy-what-investors-should-know-before-buying-11794030800280.html",
-   "summary": "Gold has fallen about 21% from its domestic record high, prompting investors to weigh buying the dip against waiting for further declines. Analysts cite central bank purchases and potential easing in real yields as support, while inflation, Fed policy, and geopolitical risks may drive volatility.",
-   "published": "2026-11-07T07:32:46+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Gold_Rate_Correction_2_Down_1794036495312_ho1V_1794036503710_n1FC_247310cf-9fd4-4102-ba3b-47880042e5f5_ddl2.png",
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-11-07T08:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8ca96f0ed59f6e91",
-   "title": "Buyers allege NBCC ‘selectively cancelled’ bids for 49 flats in premium Sarojini Nagar project — Here's what we know",
-   "link": "https://www.livemint.com/money/buyers-allege-nbcc-selectively-cancel-bids-49-flats-premium-sarojini-nagar-project-avenue-towers-delhi-housing-auction-11794031542877.html",
-   "summary": "Buyers have reportedly approached the Delhi High Court over NBCC’s cancellation of bidding for 49 flats at its Avenue Towers project in Sarojini Nagar. They allege the cancellations were selective and question the auction’s transparency.&nbsp;",
-   "published": "2026-11-07T07:28:43+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Stressedpic-2_1721045312603_1794036309953_erYw_75010ae5-6de9-4b38-9e21-6c303a7e8144_nijz.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-07T08:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b67256d24686c11c",
-   "title": "Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm",
-   "link": "https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html",
-   "summary": "The latest enforcement order was issued after the SICC, on August 26, 2026, dismissed all of Tata Power's applications to set aside the arbitration awards issued in Kleros's favour.",
-   "published": "2026-11-07T07:23:46+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794036133856_m4rL_b60fa79a-0397-43af-8724-f31e3a803dd9_nEd5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-07T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c6063b24af5308c5",
-   "title": "Rates Blow-Up Triggers Rush for Cash at Austrian Property Funds",
-   "link": "https://www.livemint.com/market/rates-blow-up-triggers-rush-for-cash-at-austrian-property-funds-11794035553993.html",
-   "summary": "The surge in global interest rates may be a tipping point for a handful of Austrian open-ended real estate funds that for years have defied one of Europe’s most troubled property markets.",
-   "published": "2026-11-07T07:12:33+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "topics": [],
-   "first_seen": "2026-11-07T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c13eaa8880af880e",
-   "title": "Mukesh Ambani vs Gautam Adani: India's richest wealth race since Diwali 2025 - Who won, who lost? Wealth rise in $ bn",
-   "link": "https://www.livemint.com/companies/people/mukesh-ambani-vs-gautam-adani-indias-richest-wealth-race-since-diwali-2025-who-won-who-lost-wealth-rise-in-bn-11794034360761.html",
-   "summary": "Gautam Adani's wealth rose by $30.8 billion to $119 billion over the past year, while Mukesh Ambani lost $16.3 billion, taking his fortune to $88.3 billion. Here's how India's richest billionaires fared.",
-   "published": "2026-11-07T07:11:24+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Adani_Ambani_1794035238414_a1N1_1794035244749_fWBf_68fb8626-e304-4492-b53b-4ab6f60b49b1_a8FV.png",
-   "topics": [],
-   "first_seen": "2026-11-07T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "10d76e8b639bfbb0",
-   "title": "Why Deepinder Goyal's Temple is drawing social media scrutiny",
-   "link": "https://www.livemint.com/companies/why-deepinder-goyals-temple-is-drawing-social-media-scrutiny-11793967006723.html",
-   "summary": "Eternal founder Deepinder Goyal’s ₹85,000 Temple wearable has drawn scrutiny from doctors over claims about brain blood flow and its unvalidated Entropy metric. Goyal says it is a fitness and wellness product, not a medical device.&nbsp;",
-   "published": "2026-11-07T07:00:31+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/maxresdefault_1794141389388_rQaL_1794141398228_Zwd2_361212de-4c53-4056-8566-a393bf1154be_qmim.jpg",
-   "topics": [],
-   "first_seen": "2026-11-07T07:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
