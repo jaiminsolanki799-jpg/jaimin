@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T19:00:02+00:00",
+ "generated_at": "2026-11-12T19:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 00:07:00 +0530",
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 00:13:08 +0530",
+   "sample_date": "Fri, 13 Nov 2026 00:50:22 +0530",
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-12T19:00:02+00:00"
+   "checked_at": "2026-11-12T19:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0fd006016c514c56",
+   "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+   "link": "https://www.livemint.com/market/gold-drops-to-over-one-year-low-as-fading-middle-east-peace-hopes-fan-inflation-fears-11794511222562.html",
+   "summary": "GLOBAL-PRECIOUS/ (UPDATE 7, GRAPHIC):PRECIOUS-Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
+   "published": "2026-11-12T19:20:22+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-12T19:30:02+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
   {
    "id": "7a75143c8c8bb98b",
    "title": "Rail Vikas Nigam in focus today after mixed Q2 performance; stock down 68% from record peak",
@@ -11345,24 +11365,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/ramaya_1794037851578_EqY3_1794037868919_NLgA_b52af2f3-6284-458f-9129-cde68aa4868c_l6J0.png",
    "topics": [],
    "first_seen": "2026-11-07T08:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "98d988bc2a456835",
-   "title": "Stock market muhurat trading date and time 2026 on Diwali day 8 Nov: MCX, Sensex, Nifty - What investors should know",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-muhurat-trading-date-and-time-2026-on-diwali-day-8-nov-mcx-sensex-nifty-what-investors-should-know-11794036310637.html",
-   "summary": "NSE and BSE will hold a special Diwali Muhurat trading session on Sunday, November 8, 2026, despite the holiday. The live session is scheduled for 2:20 pm to 3:15 pm, while MCX trading will run from 2:20 pm to 3:30 pm.",
-   "published": "2026-11-07T07:34:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_1794036779120_DL7Z_1794036779253_lPmJ_f4f5b724-915c-47a2-9122-bd4e275d628e_C4FS.png",
-   "topics": [],
-   "first_seen": "2026-11-07T08:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
