@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T17:30:02+00:00",
+ "generated_at": "2026-11-12T18:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T17:30:02+00:00"
+   "checked_at": "2026-11-12T18:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T17:30:02+00:00"
+   "checked_at": "2026-11-12T18:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 13:21:35 GMT",
    "error": null,
-   "checked_at": "2026-11-12T17:30:02+00:00"
+   "checked_at": "2026-11-12T18:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 27,
-   "items": 27,
+   "fetched": 29,
+   "items": 29,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T17:30:02+00:00"
+   "checked_at": "2026-11-12T18:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 17:17:58 +0000",
+   "sample_date": "Thu, 12 Nov 2026 17:36:40 +0000",
    "error": null,
-   "checked_at": "2026-11-12T17:30:02+00:00"
+   "checked_at": "2026-11-12T18:00:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,46 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "73f798057ce622c4",
+   "title": "Bodhi Tree to acquire majority stake in restaurant chain A2B for $180 Mn",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1RhTTJrakdGb1owOUgtcWNkUERNQTFRSXM4RU50bGxtQjBoajBoSjROek8yOHYxS3dQNVRsQVNPM014RDBkMU5RU2pQWWQtejFYMjJwMGFfaTI0Rjd2QUlyaGR5NThTU0tPbUlFay0xMDRreHdlZHUySndjTWxjNVYxc1FlcFpyVndhek1IZkFZSlBYdUMxWjJaX3lRLXpGYXVxSHMxUjFUVFNRVGo40gGvAUFVX3lxTFBPVGFNMmtqR0ZvWjA5SC1xY2RQRE1BMVFJczhFTnRsbG1CMGhqMGhKNE56TzI4djFLd1A1VGxBU08zTXhEMGQxTlFTalBZZC16MVgyMnAwYV9pMjRGN3ZBSXJoZHk1OFNTS09tSUVrLTEwNGt4d2VkdTJKd2NNbGM1VjFzUWVwWnJWd2F6TUhmQVlKUFh1QzFaMlpfeVEtekZhdXFIczFSMVRUU1FUajg?oc=5",
+   "summary": "",
+   "published": "2026-11-12T17:52:31+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T18:00:01+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "deea79b353aff377",
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+   "published": "2026-11-12T17:36:40+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-12T18:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f5707a3468d9b42e",
    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
@@ -187,7 +227,7 @@
    "id": "44c5c5c963e85d21",
    "title": "Whoop just launched a social network",
    "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-   "summary": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+   "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
    "published": "2026-11-12T16:00:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -367,7 +407,7 @@
    "id": "7ed9c1c82c2d456e",
    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-   "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+   "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
    "published": "2026-11-12T13:26:25+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
