@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T13:00:02+00:00",
+ "generated_at": "2026-11-12T13:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 6,
    "items": 6,
-   "sample_date": "Tue, 10 Nov 2026 10:18:43 GMT",
+   "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T13:00:02+00:00"
+   "checked_at": "2026-11-12T13:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 12:54:20 GMT",
+   "sample_date": "Thu, 12 Nov 2026 10:44:40 GMT",
    "error": null,
-   "checked_at": "2026-11-12T13:00:02+00:00"
+   "checked_at": "2026-11-12T13:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 11:00:49 GMT",
+   "sample_date": "Thu, 12 Nov 2026 13:21:35 GMT",
    "error": null,
-   "checked_at": "2026-11-12T13:00:02+00:00"
+   "checked_at": "2026-11-12T13:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 25,
-   "items": 25,
+   "fetched": 24,
+   "items": 24,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T13:00:02+00:00"
+   "checked_at": "2026-11-12T13:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
+   "sample_date": "Thu, 12 Nov 2026 13:26:25 +0000",
    "error": null,
-   "checked_at": "2026-11-12T13:00:02+00:00"
+   "checked_at": "2026-11-12T13:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,87 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "7ed9c1c82c2d456e",
+   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+   "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+   "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+   "published": "2026-11-12T13:26:25+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kate Park",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T13:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6f932152211aff34",
+   "title": "Daily Indian Funding Roundup & Key News - 12 November 2026: mistEO Raises ₹18 Crore, Ola Electric's Q2 Revenue Falls 39%",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-12-november-2026/",
+   "summary": "Greenjoules, mistEO and Hundo Pizza led five funding deals, as Ola Electric's Q2 revenue fell 39%, CCPA fined Ola and Gaurav Munjal stepped down as Unacademy CEO.",
+   "published": "2026-11-12T13:21:35+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/daily-indian-funding-roundup-key-news-12-november-2026-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T13:30:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "Results"
+   ]
+  },
+  {
+   "id": "fcaa5a11eb2249d0",
+   "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
+   "link": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents",
+   "summary": "Founded by former HighRadius executives Kiran Rana and Payal Tripathy, Kutlerri.ai charges restaurants a percentage of the revenue its AI agents generate or the costs they save.",
+   "published": "2026-11-12T13:21:09+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T13:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "3d28ce3980e7b8e5",
+   "title": "Gold and Silver Prices in India Today, 12 November 2026: Gold at ₹137,696, Silver at ₹182,030 as Both Fall",
+   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-12-november-2026/",
+   "summary": "Gold and silver rates today in India, 12 November 2026. 24K gold is ₹137,696 per 10g before GST and silver ₹182,030 per kg, with national rates down 1.13% and 1.79% on the day. Check city-wise rates and MCX data below.",
+   "published": "2026-11-12T13:20:09+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/gold-silver-prices-india-today-12-november-2026-Startuptalky.jpg",
+   "topics": [
+    "GST"
+   ],
+   "first_seen": "2026-11-12T13:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e75df702b3eaf377",
    "title": "Norwest closes $4B fund to back AI, healthcare and financial infra",
