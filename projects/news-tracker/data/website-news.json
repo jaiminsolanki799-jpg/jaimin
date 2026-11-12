@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T14:30:01+00:00",
+ "generated_at": "2026-11-12T15:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T14:30:01+00:00"
+   "checked_at": "2026-11-12T15:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 05:01:32 GMT",
+   "sample_date": "Thu, 12 Nov 2026 06:18:08 GMT",
    "error": null,
-   "checked_at": "2026-11-12T14:30:01+00:00"
+   "checked_at": "2026-11-12T15:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 13:21:35 GMT",
    "error": null,
-   "checked_at": "2026-11-12T14:30:01+00:00"
+   "checked_at": "2026-11-12T15:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 26,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T14:30:01+00:00"
+   "checked_at": "2026-11-12T15:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 14:10:34 +0000",
+   "sample_date": "Thu, 12 Nov 2026 14:30:01 +0000",
    "error": null,
-   "checked_at": "2026-11-12T14:30:01+00:00"
+   "checked_at": "2026-11-12T15:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "a5ab0c26558856ef",
+   "title": "Jensen Huang resigns after 33 years at Nvidia",
+   "link": "https://yourstory.com/2026/11/jensen-huang-resigns-after-33-years-at-nvidia",
+   "summary": "Nvidia has appointed chief financial officer Colette Kress as interim chief executive officer. The board will consider internal and external candidates for a permanent successor.",
+   "published": "2026-11-12T14:38:57+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T15:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5e5f306d785f1157",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published": "2026-11-12T14:30:01+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T15:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "414fab315c2c67b8",
    "title": "Turtlemint posts Rs 342 Cr revenue in Q2 FY27, losses narrow 67%",
@@ -101,7 +137,7 @@
    "group": "TechCrunch",
    "category": "Tech",
    "date_known": true,
-   "author": "Ram Iyer",
+   "author": "Ram Iyer, Julie Bort",
    "publisher": null,
    "image": null,
    "topics": [],
