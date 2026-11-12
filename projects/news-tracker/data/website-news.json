@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T06:00:01+00:00",
+ "generated_at": "2026-11-12T06:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T06:00:01+00:00"
+   "checked_at": "2026-11-12T06:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
+   "sample_date": "Thu, 12 Nov 2026 06:18:08 GMT",
    "error": null,
-   "checked_at": "2026-11-12T06:00:01+00:00"
+   "checked_at": "2026-11-12T06:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 04:50:35 GMT",
+   "sample_date": "Thu, 12 Nov 2026 05:50:23 GMT",
    "error": null,
-   "checked_at": "2026-11-12T06:00:01+00:00"
+   "checked_at": "2026-11-12T06:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 15,
-   "items": 15,
-   "sample_date": "Wed, 11 Nov 2026 11:07:11 GMT",
+   "fetched": 16,
+   "items": 16,
+   "sample_date": "Wed, 11 Nov 2026 09:14:54 GMT",
    "error": null,
-   "checked_at": "2026-11-12T06:00:01+00:00"
+   "checked_at": "2026-11-12T06:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T06:00:01+00:00"
+   "checked_at": "2026-11-12T06:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "a0e2f968ffdec205",
+   "title": "Gemini in action: How voice, agents, and coding tools are changing the way businesses use AI",
+   "link": "https://yourstory.com/2026/11/gemini-in-action-how-voice-agents-and-coding-tools-are-changing-the-way-businesses-use-ai",
+   "summary": "At TechSparks 2026, Google Cloud’s Rajesh Shewani walked through how businesses are using Gemini for voice, agents, and coding, and why the systems built around a model now matter as much as the model itself.",
+   "published": "2026-11-12T06:18:08+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4cea3526001943ae",
+   "title": "HomeLane’s FY26 revenue stays flat at Rs 738 Cr; losses up 23%",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkdaQ2ZaN2VWWHpxSEJkZFFvQm1keHVvc2p6Nms1V09GelZIQ1Rzdl9LaHlTbkdNNFZsS2p1UXFjb0hzQVlqLUlDck93dHVfajBFYUZOYklsUElQNFhVMFNvcFVON1E5cnVweVZPeEh1bVcxbWtrNFpKY09wb0haM1Ezd2liR3l4cHJMSk4zRmtJdE5vcFJpbHA5Y3hxZkUz0gGgAUFVX3lxTE9WR1pDZlo3ZVZYenFIQmRkUW9CbWR4dW9zano2azVXT0Z6VkhDVHN2X0toeVNuR000VmxLanVRcWNvSHNBWWotSUNyT3d0dV9qMEVhRk5iSWxQSVA0WFUwU29wVU43UTlydXB5Vk94SHVtVzFta2s0WkpjT3BvSFozUTN3aWJHeXhwckxKTjNGa0l0Tm9wUmlscDljeHFmRTM?oc=5",
+   "summary": "",
+   "published": "2026-11-12T06:08:04+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e38f8250b89153ac",
+   "title": "CCPA Takes Action Against Ola Over Advance Tipping, Imposes INR 10 Lakh Penalty",
+   "link": "https://startuptalky.com/news/ccpa-takes-action-against-ola/",
+   "summary": "CCPA has issued a fine of INR 10 lakh on Ola operator ANI Technologies for its advance tipping feature, saying it amounted to misleading conduct and violated the Consumer Protection Act, 2019. Regulator told Ola to turn off the feature and pull back the prompts.",
+   "published": "2026-11-12T05:50:23+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/ccpa-takes-action-against-ola-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "220d139c3849ccd5",
    "title": "D2C menswear brand QB MEN raises pre seed funding led by BeyondSeed",
