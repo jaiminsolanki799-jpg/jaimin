@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T09:30:01+00:00",
+ "generated_at": "2026-11-12T10:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:30:01+00:00"
+   "checked_at": "2026-11-12T10:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
+   "sample_date": "Thu, 12 Nov 2026 06:18:08 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:30:01+00:00"
+   "checked_at": "2026-11-12T10:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 09:08:53 GMT",
+   "sample_date": "Thu, 12 Nov 2026 09:29:25 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:30:01+00:00"
+   "checked_at": "2026-11-12T10:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 18,
-   "items": 18,
+   "fetched": 19,
+   "items": 19,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:30:01+00:00"
+   "checked_at": "2026-11-12T10:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T09:30:01+00:00"
+   "checked_at": "2026-11-12T10:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "4ff153934e63030c",
+   "title": "Canonicus Capital raises Rs 192 Cr in first close of Rs 500 Cr special situations fund",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2c4MFI3YUJBZ2NWbEM4dXVTRE9XdEo3M2lXZy1fTG5GSFoyS3FnNDRWcHhPZFdDVDR1OE1TU3VNU0w3U0ZaRXFVWFZob3d1TDFyenhFWnBuM0R5dWRlUllxdVRlN1c1X29yT19FeDAySDlyTm1wQVZ2X3RyMjJncVpDdjhKTUgtbk9aWlpVaHlyVVhyNWI0YUxoRlFTYjZ2aTNNV0RtNm9oSGE5QW9lVWt3UTMzNjFSbUl5NHFpbm5qODDSAcMBQVVfeXFMT1dnODBSN2FCQWdjVmxDOHV1U0RPV3RKNzNpV2ctX0xuRkhaMktxZzQ0VnB4T2RXQ1Q0dThNU1N1TVNMN1NGWkVxVVhWaG93dUwxcnp4RVpwbjNEeXVkZVJZcXVUZTdXNV9vck9fRXgwMkg5ck5tcEFWdl90cjIyZ3FaQ3Y4Sk1ILW5PWlpaVWh5clVYcjViNGFMaEZRU2I2dmkzTVdEbTZvaEhhOUFvZVVrd1EzMzYxUm1JeTRxaW5uajgw?oc=5",
+   "summary": "",
+   "published": "2026-11-12T09:53:59+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T10:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "d3eed08b58fd28f7",
+   "title": "Startup news and updates: daily roundup (November 12, 2026)",
+   "link": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-12-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, November 12, 2026.",
+   "published": "2026-11-12T09:49:57+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1282d39e25d61841",
+   "title": "Neeman’s revenue jumps 73% to Rs 180 Cr in FY26, losses narrow 30%",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGZPUDFMNERxcjkzZ1M0S0lsdGwzaW5lcFhBbEh4WDhUODlQdXdzVEpGMDl0ZTVLVnJKNXVQWHdsRjNMLUloNEZZUGFYMXQ5b0NSTXppQzk0WXkyeERPN3Z0a240Mmo4OUtaMURleVZtRFltZE44X1h3UXkxQVEzbDdZdmNUWnI3anlkaUpZUV9vRFpBLWNOSUJDUVJzcXdGOGtic9IBpAFBVV95cUxNeGZPUDFMNERxcjkzZ1M0S0lsdGwzaW5lcFhBbEh4WDhUODlQdXdzVEpGMDl0ZTVLVnJKNXVQWHdsRjNMLUloNEZZUGFYMXQ5b0NSTXppQzk0WXkyeERPN3Z0a240Mmo4OUtaMURleVZtRFltZE44X1h3UXkxQVEzbDdZdmNUWnI3anlkaUpZUV9vRFpBLWNOSUJDUVJzcXdGOGticw?oc=5",
+   "summary": "",
+   "published": "2026-11-12T09:37:09+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "354b217752c21d4a",
+   "title": "Tata Projects Secures Dhaka Metro Contract to Develop 5.2-Km Underground Railway Line",
+   "link": "https://startuptalky.com/news/tata-projects-secures-dhaka-metro-contract/",
+   "summary": "Tata Projects has won a big contract for Dhaka Metro in a joint venture with Japan’s Nishimatsu Construction and Toda Corporation to construct 5.2-km underground train line in Bangladesh. The contract, backed by JICA, boosts Tata Projects’ worldwide metro infrastructure presence",
+   "published": "2026-11-12T09:29:25+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/tata-projects-secures-dhaka-metro-contract-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0129a8a1fa73a0c3",
    "title": "Sachin Tendulkar joins Recykal as strategic investor",
