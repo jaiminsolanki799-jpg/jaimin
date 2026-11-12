@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T18:00:01+00:00",
+ "generated_at": "2026-11-12T18:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:00:01+00:00"
+   "checked_at": "2026-11-12T18:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
+   "sample_date": "Thu, 12 Nov 2026 10:44:40 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:00:01+00:00"
+   "checked_at": "2026-11-12T18:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 13:21:35 GMT",
+   "sample_date": "Thu, 12 Nov 2026 17:57:11 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:00:01+00:00"
+   "checked_at": "2026-11-12T18:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T18:00:01+00:00"
+   "checked_at": "2026-11-12T18:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 17:36:40 +0000",
    "error": null,
-   "checked_at": "2026-11-12T18:00:01+00:00"
+   "checked_at": "2026-11-12T18:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "6417366c4d900b9e",
+   "title": "Hundo Pizza Raises ₹7.5 Cr, Led by Titan Capital",
+   "link": "https://startuptalky.com/news/hundo-pizza-raises-7-5-cr-titan-capital/",
+   "summary": "Mumbai delivery-first pizza brand Hundo Pizza has raised ₹7.5 crore in its first institutional round, led by Titan Capital. It reports a ₹35 crore run rate from seven outlets, on ₹18 crore of FY26 revenue.",
+   "published": "2026-11-12T17:57:11+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/hundo-pizza-raises-7-5-crore-titan-capital-founders.webp",
+   "topics": [],
+   "first_seen": "2026-11-12T18:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "73f798057ce622c4",
    "title": "Bodhi Tree to acquire majority stake in restaurant chain A2B for $180 Mn",
@@ -135,7 +155,7 @@
    "id": "ddf7a6c150d0e1d1",
    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+   "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
    "published": "2026-11-12T17:00:52+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
