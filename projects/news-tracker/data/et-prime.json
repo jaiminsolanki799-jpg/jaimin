@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T23:00:02+00:00",
+ "generated_at": "2026-11-12T23:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 2,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 00:07:00 +0530",
+   "sample_date": "Fri, 13 Nov 2026 04:52:38 +0530",
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 04:16:40 +0530",
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-12T23:00:02+00:00"
+   "checked_at": "2026-11-12T23:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "a74083ed0657301a",
+   "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south",
+   "link": "https://www.livemint.com/companies/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trump-s-trade-war-shifts-production-south-11794525758793.html",
+   "summary": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south",
+   "published": "2026-11-12T23:22:38+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+   "topics": [],
+   "first_seen": "2026-11-12T23:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "965e3988aa4349b8",
    "title": "How India’s INR22.5 lakh crore gold loan boom is hiding a big hole",
@@ -11349,26 +11367,6 @@
    "valuation_signals": [
     "Buyback & payout"
    ]
-  },
-  {
-   "id": "5d84b933817f42c9",
-   "title": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
-   "link": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
-   "summary": "The RBI has proposed tighter checks for banks classifying gold-backed agricultural loans as priority sector lending (PSL). It has also proposed changes to the treatment of bills discounted under letters of credit, which could increase banks' PSL requirements.",
-   "published": "2026-11-07T08:58:34+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/rbi_backed_1794041435184_yOwB_1794041442325_5Lj9_c8cde0dc-62e2-46ac-a2a9-ce0b8588ef6e_RXst.png",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-11-07T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
