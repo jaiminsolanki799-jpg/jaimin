@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T16:00:01+00:00",
+ "generated_at": "2026-11-12T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 21:28:40 +0530",
+   "sample_date": "Thu, 12 Nov 2026 21:46:30 +0530",
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 21:09:38 +0530",
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 19:21:30 +0530",
    "error": null,
-   "checked_at": "2026-11-12T16:00:01+00:00"
+   "checked_at": "2026-11-12T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "b6e9e3fe9b5c1495",
+   "title": "Jensen Huang resigns: From extramarital affairs to China links, how the Nvidia controversy unfolded | Timeline",
+   "link": "https://www.livemint.com/companies/news/jensen-huang-resigns-from-extramarital-affairs-to-china-links-how-the-nvidia-scandal-unfolded-timeline-11794499235145.html",
+   "summary": "The company's official statement doesn't mention the reason for Jensen's resignation. However, under Nvidia's bylaws, Huang can be removed 'with or without cause' by a majority vote of the directors, Reuters reported earlier.",
+   "published": "2026-11-12T16:16:30+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Jensen_Huang_1794499776378_XOLV_1794499782756_itPA_9f6f3cc7-c0c1-4f82-b69f-356cf2ee244e_Laua.png",
+   "topics": [],
+   "first_seen": "2026-11-12T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ee46406fe76a0302",
+   "title": "Kaju Katli, Diet Coke, Gold Coins: What India ordered during last minute Diwali 2026 preparation from Swiggy InstaMart",
+   "link": "https://www.livemint.com/companies/kaju-katli-diet-coke-gold-coins-what-india-ordered-during-last-minute-diwali-2026-preparation-from-swiggy-instamart-11794495049464.html",
+   "summary": "This Diwali, Indians turned to the quick commerce platform for last-minute festive preparations. Their purchases included gold, silver and sweets while also ordering party supplies and gifting items.",
+   "published": "2026-11-12T16:10:11+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/217069_1794499749363_p25g_1794499752810_nKyy_5e7d5ba8-d2c8-468b-9030-1756cc702c38_4Xnc.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f737b530bcfcbd88",
    "title": "Nvidia turns to CFO Colette Kress to steady ship after Jensen Huang exit",
@@ -206,7 +242,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Colette-Kress_1794499025906_Qc6d_1794499026022_qAv9_0bd81901-8c5c-4c24-a5b6-127a798c944f_1fw1.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Colette-Kress_1794499608418_kmDQ_1794499608552_4h8P_3aed2cd7-e6cd-4bd0-89f5-f9ffa25cce14_dBU3.jpg",
    "topics": [],
    "first_seen": "2026-11-12T16:00:01+00:00",
    "valuation_score": 0,
@@ -224,7 +260,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/USA-STOCKS--0_1794498907888_ARPy_1794498915974_JtUt_0b966b70-0070-4909-9b91-6b2c1d473b69_6BkK.JPG",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499252272_PsCN_1794499257559_uuDr_00b59dfd-1cb3-4a12-b844-b29a4e7ebdba_12ih.jpg",
    "topics": [],
    "first_seen": "2026-11-12T16:00:01+00:00",
    "valuation_score": 0,
@@ -301,7 +337,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/Nvidia_23_1794494174512_xis5_1794494178289_q7wV_613376e3-0e5b-48a2-aa29-f0594e31208d_rJIT.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499258520_UiQ0_1794499265116_3Qdb_8506340c-78d6-43fc-8cac-59c97995eb12_2sRO.jpg",
    "topics": [],
    "first_seen": "2026-11-12T15:00:02+00:00",
    "valuation_score": 4,
@@ -365,7 +401,7 @@
   },
   {
    "id": "b52832dc4eebd049",
-   "title": "Jensen Huang, face of the AI boom, ousted as Nvidia CEO after affairs",
+   "title": "Jensen Huang, face of the AI boom, ousted as Nvidia CEO after multiple affairs",
    "link": "https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-11794491910708.html",
    "summary": "Nvidia CFO Colette Kress will take over as interim CEO. Harvey Jones, who previously led Synopsys, has been named chairman.",
    "published": "2026-11-12T14:00:18+00:00",
@@ -393,7 +429,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/492dbe8a-42f8-481d-817c-ede5b4a1b1f2_1794491988753_6egu_1794491992475_E6Cw_be17fd2b-3773-40f0-b82e-5dc9d3338ef6_JqcE.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499273211_GY2t_1794499278234_AtTa_f1ad8aaa-df43-443f-8b85-f90d7f4f2bc3_qhK3.jpg",
    "topics": [],
    "first_seen": "2026-11-12T14:00:01+00:00",
    "valuation_score": 0,
@@ -11331,44 +11367,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/inr_1793718554508_TKig_1793718576089_bD2k_f71c42ea_1794028578923_ipdR_1794028579047_mgxf_0b3d9409-a505-4489-9ee2-0f6014a9fcc1_LlJt.jpg",
    "topics": [],
-   "first_seen": "2026-11-07T05:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8efdaeebe5e3fbfa",
-   "title": "Muhurat trading 2026: Top 3 Samvat 2083 stock picks by Sumeet Bagadia — Adani Ports, Sun Pharma, Kotak Bank; targets, SL",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-top-3-samvat-2083-stock-picks-by-sumeet-bagadia-adani-ports-sun-pharma-kotak-bank-targets-sl-11794025429338.html",
-   "summary": "Muhurat trading 2026: Sumeet Bagadia believes that the Nifty 50 regaining 25,000 signals a significant improvement in the short-term trend",
-   "published": "2026-11-07T05:06:34+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Muhurat_Trading_2026_Samvat_2083_Stock_Picks_1794025831319_mvlh_1794025831462_NicB_e914e877-8fc7-4623-b530-c0506829e7a2_Abso.png",
-   "topics": [],
-   "first_seen": "2026-11-07T05:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f27ffbc48257f782",
-   "title": "Grandmother's ₹24.06 lakh gift: How land records and affidavit helped taxpayer win ITAT income tax case ruling in Jaipur",
-   "link": "https://www.livemint.com/money/personal-finance/grandmothers-24-06-lakh-gift-how-land-records-and-affidavit-helped-taxpayer-win-itat-income-tax-case-ruling-in-jaipur-11794026008599.html",
-   "summary": "The Jaipur ITAT deleted a ₹24.06 lakh unexplained income addition after accepting a gift from the taxpayer's grandmother. Find out why land records, loan repayment evidence and an affidavit helped establish the source of funds.",
-   "published": "2026-11-07T04:58:50+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/itat_case_1794026779654_wQIA_1794026779862_NPPu_5a22c185-b1af-44b6-ae02-747eec76bc86_YA59.png",
-   "topics": [
-    "Income tax"
-   ],
    "first_seen": "2026-11-07T05:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
