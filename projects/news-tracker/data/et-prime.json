@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T08:30:02+00:00",
+ "generated_at": "2026-11-12T09:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,18 +46,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
    "url": "https://economictimes.indiatimes.com/prime/technology-and-startups",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 13:34:20 +0530",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 13:47:41 +0530",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 13:19:27 +0530",
+   "sample_date": "Thu, 12 Nov 2026 14:25:13 +0530",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "be9c83a9b9661dc1",
+   "title": "DA hike pending arrears payment process: How money will be paid after states increased dearness allowance on Diwali",
+   "link": "https://www.livemint.com/money/da-hike-pending-arrears-payment-process-how-money-will-be-paid-employees-after-states-increase-dearness-allowance-diwali-11794469953318.html",
+   "summary": "The Centre raised dearness allowance and relief by 3 percentage points, from 60% to 63%, effective July 1, benefiting over 1 crore employees and pensioners. Several states also announced increases and arrears, with payment arrangements varying by state.",
+   "published": "2026-11-12T08:55:13+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794473211853_qYSx_1794473211969_W9DW_181d5570-2348-4187-9353-c277471ea8fb_hN2B.png",
+   "topics": [],
+   "first_seen": "2026-11-12T09:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "41119ac51e5aa726",
+   "title": "Bihar first municipal bond available on NSE online: Now you can invest in Patna Municipal Corporation bonds — here's how",
+   "link": "https://www.livemint.com/money/personal-finance/bihar-first-municipal-bond-available-on-nse-online-now-you-can-invest-in-patna-municipal-corporation-bonds-heres-how-11794470352557.html",
+   "summary": "Bihar's first municipal bond, issued by Patna Municipal Corporation, is now listed on NSE and offers 9.20% annual interest, payable quarterly. Here's what investors should know about its returns, risks, maturity and how to buy these bonds.",
+   "published": "2026-11-12T08:39:25+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/panta_1794472493866_8e8J_1794472498703_8MjR_8b742013-5f79-415a-b14d-0c2ea0b5f1b8_CljZ.png",
+   "topics": [],
+   "first_seen": "2026-11-12T09:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e5453666f48be3f4",
    "title": "What's Gold price future in India? Will it touch ₹1.50 lakh per 10 grams again by December 2026? Experts' view",
@@ -250,7 +286,7 @@
   },
   {
    "id": "52777eacfea3c5f7",
-   "title": "How BEML plans to take edge over China in building India's tunnel-boring machines - decoded",
+   "title": "How BEML plans to gain an edge over China in building India's tunnel-boring machines | Decoded",
    "link": "https://www.livemint.com/companies/news/how-beml-plans-to-take-edge-over-china-in-building-indias-tunnel-boring-machines-decoded-11794470222414.html",
    "summary": "BEML plans to develop indigenous tunnel-boring machines, starting with smaller equipment for metro, hydropower and utility projects. The move aims to reduce India's dependence on foreign suppliers, including China, as infrastructure spending drives demand.",
    "published": "2026-11-12T08:04:20+00:00",
@@ -11325,49 +11361,6 @@
    "first_seen": "2026-11-06T14:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "4c26f03c216005f6",
-   "title": "Multibagger stock to buy: Motilal Oswal sees 37% upside in Himadri Speciality Chemical; key triggers, target price",
-   "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-to-buy-motilal-oswal-sees-37-upside-in-himadri-speciality-chemical-key-triggers-target-price-11793971080471.html",
-   "summary": "Motilal Oswal maintained its Buy rating on Himadri Speciality Chemical, with a target price of ₹780, implying about 37% upside from Friday’s close. The brokerage cited growth potential in battery materials, specialty carbon products and tyre manufacturing.",
-   "published": "2026-11-06T13:26:06+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/Multibagger_Stock_Growth__Time_to_Buy__17939711911_1793971207319_1yxn_1793971207441_GMET_581e7aa7-9411-46f0-967d-6f0786fea9ce_eKL2.png",
-   "topics": [],
-   "first_seen": "2026-11-06T13:30:02+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
-  },
-  {
-   "id": "d717372ce1e1ab83",
-   "title": "GIC Re’s NSE windfall masks weaker Q2 as flood claims, health push weigh",
-   "link": "https://www.livemint.com/companies/company-results/gic-re-s-nse-windfall-masks-weaker-q2-as-flood-claims-health-push-weigh-11793963292081.html",
-   "summary": "The gain from the offer-for-sale in NSE’s IPO helped lift GIC Re’s investment income by11.8% to ₹4,238.26 crore",
-   "published": "2026-11-06T13:21:31+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/hitesh-josh-new_1793970900076_bOIq_1793970904395_SoiI_0385f128-0b64-4ed6-bfcb-0cd9bc5f14e4_oiTD.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-06T13:30:02+00:00",
-   "valuation_score": 5,
-   "valuation_signals": [
-    "PE / VC",
-    "IPO"
-   ]
   }
  ]
 }

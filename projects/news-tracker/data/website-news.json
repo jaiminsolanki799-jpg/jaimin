@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T08:30:02+00:00",
+ "generated_at": "2026-11-12T09:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 09:25:48 GMT",
+   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 08:27:44 GMT",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 16,
-   "items": 16,
+   "fetched": 18,
+   "items": 18,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T08:30:02+00:00"
+   "checked_at": "2026-11-12T09:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "b434a8ddb9c405a6",
+   "title": "Exclusive: Dhruva Space to raise $15.5 Mn in pre-Series B; revenue surges 8X",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMzljaFVfT2ZCZTRDVzQxcXJFM1lZdzVUbWRPZ1JBeVFHNEVMOG92YmdRcThYc0hTZXdlNktMZTlCekVuWlNueFcxSVFOZk9SdmNhUFY3ZlJ1aGg1bEFNZmxONDRHRjZlR2h5Zk04QzlkRVlFZ3Vubl9QaUdsNVdJbXFIRGFWVDNvcllObzh3NUJ2WGFHU1Vrajd3YlJxT3hUX3YySEFzUXZxZm9vMHdzZHVB0gGyAUFVX3lxTE4zOWNoVV9PZkJlNENXNDFxckUzWVl3NVRtZE9nUkF5UUc0RUw4b3ZiZ1FxOFhzSFNld2U2S0xlOUJ6RW5aU254VzFJUU5mT1J2Y2FQVjdmUnVoaDVsQU1mbE40NEdGNmVHaHlmTThDOWRFWUVndW5uX1BpR2w1V0ltcUhEYVZUM29yWU5vOHc1QnZYYUdTVWtqN3diUnFPeFRfdjJIQXNRdnFmb28wd3NkdUE?oc=5",
+   "summary": "",
+   "published": "2026-11-12T08:53:45+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T09:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "13c0806f24b29d88",
+   "title": "Hundo Pizza raises maiden institutional round led by Titan Capital",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGw1NjNCWWlveVpmWWJ0bTFNZk1nVjFSNlo5MTl6RnRuUEItc1p5MHc4el9lWHc0TFNXWFJXM1JMeWczR3dzWHBCM3Z1TkhJckpNNjNaZUs3cVNxbFdWbEdFaEUxVVpSZVFvLVUzMGM1UVBteG1RM2RlMXFkSkJhTmtsSEF5Rm9LZ19PWTJZYjRGeUtidzBDdEJMVTE4VmFjTjFpS19hV2XSAagBQVVfeXFMTTBsNTYzQllpb3laZllidG0xTWZNZ1YxUjZaOTE5ekZ0blBCLXNaeTB3OHpfZVh3NExTV1hSVzNSTHlnM0d3c1hwQjN2dU5ISXJKTTYzWmVLN3FTcWxXVmxHRWhFMVVaUmVRby1VMzBjNVFQbXhtUTNkZTFxZEpCYU5rbEhBeUZvS2dfT1kyWWI0RnlLYncwQ3RCTFUxOFZhY04xaUtfYVdl?oc=5",
+   "summary": "",
+   "published": "2026-11-12T08:50:28+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T09:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "40ea709ea5eb9c6a",
+   "title": "From multi-lingual AI agents to the future of voice: Google Cloud’s Naren Kachroo at TechSparks 2026",
+   "link": "https://yourstory.com/2026/11/from-multi-lingual-ai-agents-to-the-future-of-voice-google-clouds-naren-kachroo-at-techsparks-2026",
+   "summary": "At TechSparks 2026, Google Cloud’s Head of Sales & GTM AI showcased Gemini 3.8 Live and Live Avatar, and showed an AI sales agent negotiating a helmet order in Hindi on a weak mobile hotspot.",
+   "published": "2026-11-12T08:48:57+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T09:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b4c6f8735740d558",
    "title": "HFCL Wins INR 834 Crore International Orders to Supply Optical Fibre Cables",
