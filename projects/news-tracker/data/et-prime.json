@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-12T14:00:01+00:00",
+ "generated_at": "2026-11-12T14:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Mon, 09 Nov 2026 18:37:00 GMT",
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 12 Nov 2026 19:25:53 +0530",
+   "sample_date": "Thu, 12 Nov 2026 19:51:26 +0530",
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 19:06:52 +0530",
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 19:21:30 +0530",
    "error": null,
-   "checked_at": "2026-11-12T14:00:01+00:00"
+   "checked_at": "2026-11-12T14:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "5cfa54313faa0f19",
+   "title": "Vodafone Idea’s Q2 performance misses expectations",
+   "link": "https://www.livemint.com/companies/company-results/vodafone-idea-s-q2-performance-misses-expectations-funding-telecom-operator-11794490596377.html",
+   "summary": "&nbsp;Vodafone Idea’s net loss widened to ₹5,975 crore in Q2 from ₹5,562 crore a year ago, missing Bloomberg's estimate of ₹5,263 crore, even as it arranged over ₹4,000 crore in incremental bank funding during the quarter.",
+   "published": "2026-11-12T14:21:26+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1794492968493_8tPv_ef18a04d-fd5a-4561-80d1-52e5aa4ea06c_3HoV.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T14:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "57c8e1113fa38cc4",
+   "title": "Who is Colette Kress? From Microsoft and Cisco to Nvidia's interim CEO after Huang's resignation — her career, education",
+   "link": "https://www.livemint.com/companies/people/who-is-colette-kress-from-microsoft-and-cisco-to-nvidias-interim-ceo-her-career-and-education-11794492511413.html",
+   "summary": "Kress will continue to serve as Nvidia's executive vice president and CFO alongside her interim CEO responsibilities until a permanent replacement is appointed.",
+   "published": "2026-11-12T14:17:27+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/ColetteKress_1794492911011_IZDD_1794492921505_OfTy_8de541fe-1783-4a8a-acde-3e9fbd6d2f17_NaLe.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T14:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b52832dc4eebd049",
+   "title": "Nvidia CEO Jensen Huang to step down in big blow to AI boom",
+   "link": "https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-11794491910708.html",
+   "summary": "Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor.",
+   "published": "2026-11-12T14:00:18+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Jensen-Huang_1794491993967_JatF_1794491994126_n9BV_9a010ae8-5b6a-47bf-a490-7dd7615da3ab_VaEn.JPG",
+   "topics": [],
+   "first_seen": "2026-11-12T14:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a8a797fcb317c942",
    "title": "Nvidia CEO Jensen Huang resigns, tech giant appoints Colette Kress as Interim CEO",
@@ -206,7 +260,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/company_2_1733465085102_1733465089141.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/492dbe8a-42f8-481d-817c-ede5b4a1b1f2_1794491988753_6egu_1794491992475_E6Cw_be17fd2b-3773-40f0-b82e-5dc9d3338ef6_JqcE.png",
    "topics": [],
    "first_seen": "2026-11-12T14:00:01+00:00",
    "valuation_score": 0,
@@ -281,7 +335,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/NVIDIA-CEO--27_1794491994926_j9kX_1794492007205_FeEe_c47dca3c-ebbd-42a5-b661-930bda0510da_jg0r.JPG",
    "topics": [],
    "first_seen": "2026-11-12T14:00:01+00:00",
    "valuation_score": 0,
@@ -812,7 +866,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Huang_1794476060497_TLUR_1794476069096_4dVN_bb27011c-94fc-4001-b25a-b4806eec5f87_pkcV.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794492046178_uEHB_1794492051503_CdCz_263b863d-99de-4c65-8805-e9ffcb28952f_vqys.jpg",
    "topics": [],
    "first_seen": "2026-11-12T10:00:01+00:00",
    "valuation_score": 0,
@@ -2105,7 +2159,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/alice_1794454724601_96oV_1794454740917_zOPb_328c1612-c620-4ca7-8534-4c0f7dde3317_cV1h.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794492052945_yvAY_1794492058366_xxEm_78e020de-9790-4c9a-9937-fa830d8ef9d4_p8d8.jpg",
    "topics": [],
    "first_seen": "2026-11-12T04:00:01+00:00",
    "valuation_score": 0,
@@ -11318,60 +11372,6 @@
     "Valuation",
     "Funding"
    ]
-  },
-  {
-   "id": "7d7463d706cd45d4",
-   "title": "DA hike: Karnataka increases dearness allowance by 2.5%, and Arunachal Pradesh by 3% ahead of Diwali — Check details",
-   "link": "https://www.livemint.com/money/da-hike-state-govt-karnataka-increases-dearness-allowance-by-2-5-pc-arunachal-pradesh-3-pc-ahead-diwali-punjab-full-list-11794015856147.html",
-   "summary": "DA hike news: The Karnataka govt raised dearness allowance and dearness relief for state employees and pensioners by 2.5% to 18%, effective July 1, 2026. Arunachal Pradesh also approved a 3% increase, to 63%.",
-   "published": "2026-11-07T03:24:31+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794021439844_qKxp_1794021439964_pMSF_e67a18ea-3d64-481d-93d0-9723ede0699b_nUwI.png",
-   "topics": [],
-   "first_seen": "2026-11-07T03:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1bdb8e01f521517f",
-   "title": "Not all fund managers follow the crowd: Here's a list of stocks that are present in only one mutual fund scheme",
-   "link": "https://www.livemint.com/money/personal-finance/not-all-fund-managers-follow-the-crowd-heres-a-list-of-stocks-that-are-present-in-only-one-mutual-fund-scheme-11794016988754.html",
-   "summary": "While popular stocks feature across hundreds of mutual fund schemes, some stocks find a place in just one scheme's portfolio. Here is the list of 13 such uncommon picks, the schemes holding them, and what these fund managers' distinct stock-selection approaches mean for investors.",
-   "published": "2026-11-07T03:17:41+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/stocjs_rare_1794020668358_hXev_1794020689120_Prdq_6a010927-ef25-4436-9c06-d400d64c70ca_NDno.png",
-   "topics": [],
-   "first_seen": "2026-11-07T03:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7bd595b34b5614a7",
-   "title": "8th Pay Commission: Railway employees seek higher salaries, better promotions and 4 other key benefits",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-railway-employees-seek-higher-salaries-better-promotions-and-4-other-key-benefits-11794017186038.html",
-   "summary": "AIRF has submitted six key demands to the 8th Pay Commission, seeking higher railway employee salaries, better promotions, risk allowances, track maintainer parity and improved service benefits. Here's what railway staff want from the new pay panel.",
-   "published": "2026-11-07T02:29:02+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/8th_pay_1794017661569_WA9F_1794017661668_n2pb_7941dc95-9bb7-429c-b37e-e50093cba19b_s0uh.png",
-   "topics": [],
-   "first_seen": "2026-11-07T03:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
