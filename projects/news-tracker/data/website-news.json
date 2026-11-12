@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T09:00:01+00:00",
+ "generated_at": "2026-11-12T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:00:01+00:00"
+   "checked_at": "2026-11-12T09:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 11 Nov 2026 11:30:16 GMT",
+   "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:00:01+00:00"
+   "checked_at": "2026-11-12T09:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 08:27:44 GMT",
+   "sample_date": "Thu, 12 Nov 2026 09:08:53 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:00:01+00:00"
+   "checked_at": "2026-11-12T09:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 18,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T09:00:01+00:00"
+   "checked_at": "2026-11-12T09:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 03:13:10 +0000",
    "error": null,
-   "checked_at": "2026-11-12T09:00:01+00:00"
+   "checked_at": "2026-11-12T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "0129a8a1fa73a0c3",
+   "title": "Sachin Tendulkar joins Recykal as strategic investor",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3RtRGV1VG4zY0k2WE1BRjhVRUFCTlhpbTVXcm92SEFaaFBmQmI3LXhRbmUwNi1sRHlzdmtXNnF6bmh2bXlRNHM4bVZkOW52XzR6aWMzTkI5ODR2UTFpMWZFQm9fcFA5TEo5czlyeDVobUxEVC1UT3pnQXhzVmhNRWJ3ekktRmU4SDZnTURCVDdqOGthY0HSAZYBQVVfeXFMUDd0bURldVRuM2NJNlhNQUY4VUVBQk5YaW01V3JvdkhBWmhQZkJiNy14UW5lMDYtbER5c3ZrVzZxem5odm15UTRzOG1WZDludl80emljM05COTg0dlExaTFmRUJvX3BQOUxKOXM5cng1aG1MRFQtVE96Z0F4c1ZoTUVid3pJLUZlOEg2Z01EQlQ3ajhrYWNB?oc=5",
+   "summary": "",
+   "published": "2026-11-12T09:18:45+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9d25802ec0355d01",
+   "title": "Spotify Expands in India with Audiobook Launch Featuring 3.5 Lakh Titles",
+   "link": "https://startuptalky.com/news/spotify-expands-in-india-with-audiobook/",
+   "summary": "Spotify has expanded its offerings beyond music and podcasts in India with launch of audiobooks with a catalog of over 3.5 lakh titles including 7,000 audiobooks in Indian languages. Its Audiobooks+ add-on costs INR 199 a month and offers you 15 hours of listening.",
+   "published": "2026-11-12T09:08:53+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/spotify-expands-in-india-with-audiobook-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-12T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b434a8ddb9c405a6",
    "title": "Exclusive: Dhruva Space to raise $15.5 Mn in pre-Series B; revenue surges 8X",
