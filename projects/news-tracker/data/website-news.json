@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-12T20:00:02+00:00",
+ "generated_at": "2026-11-12T20:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
    "error": null,
-   "checked_at": "2026-11-12T20:00:02+00:00"
+   "checked_at": "2026-11-12T20:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 08:48:57 GMT",
+   "sample_date": "Thu, 12 Nov 2026 05:01:32 GMT",
    "error": null,
-   "checked_at": "2026-11-12T20:00:02+00:00"
+   "checked_at": "2026-11-12T20:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 12 Nov 2026 17:57:11 GMT",
    "error": null,
-   "checked_at": "2026-11-12T20:00:02+00:00"
+   "checked_at": "2026-11-12T20:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 30,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-12T20:00:02+00:00"
+   "checked_at": "2026-11-12T20:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 12 Nov 2026 19:27:45 +0000",
+   "sample_date": "Thu, 12 Nov 2026 20:26:47 +0000",
    "error": null,
-   "checked_at": "2026-11-12T20:00:02+00:00"
+   "checked_at": "2026-11-12T20:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "e153c4dc0f7fcb29",
+   "title": "Jensen Huang was having a third affair, Reuters reports",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+   "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+   "published": "2026-11-12T20:26:47+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Russell Brandom",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-12T20:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ce9a468b53e9785d",
    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
