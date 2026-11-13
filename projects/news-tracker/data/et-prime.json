@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T07:30:03+00:00",
+ "generated_at": "2026-11-13T08:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 3,
+   "fetched": 4,
    "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 12:43:01 +0530",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 12:53:40 +0530",
+   "sample_date": "Fri, 13 Nov 2026 13:24:02 +0530",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 12:23:01 +0530",
+   "sample_date": "Fri, 13 Nov 2026 13:22:10 +0530",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,128 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "2a710d02981748f8",
+   "title": "Can Ola Electric’s pivot to dealership model hedge revenue decline?",
+   "link": "https://www.livemint.com/market/mark-to-market/ola-electric-pivot-dealership-model-revenue-decline-11794551578116.html",
+   "summary": "Ola's transition to a dealership-based model is yet to translate into better quarterly operating performances.",
+   "published": "2026-11-13T07:54:02+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/OLA_2_1793104195468_N7F7_1793104201138_CuMm_736bb4de-b8fd-430a-8722-ec18b42971d2_paPj_1794554739727_0ASP_816be71d-8e86-466c-846b-8214ba86d425_Fv0p.png",
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7e19b526b63af332",
+   "title": "Astro-tourism is on the rise in India: Travellers look beyond hills and beaches; how much does a ‘cosmic trip’ cost?",
+   "link": "https://www.livemint.com/money/astrotourism-is-on-the-rise-in-india-travellers-look-beyond-hills-and-beaches-how-much-does-a-cosmic-trip-cost-11794555785112.html",
+   "summary": "Astro-tourism is drawing travellers to India’s dark-sky destinations, from Hanle and Spiti to the Rann of Kutch and tiger reserves. Visitors can stargaze independently or join guided sessions.&nbsp;",
+   "published": "2026-11-13T07:52:10+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/astro_tourism_1794556110031_a7T0_1794556115870_DL27_749f26db-0776-4a3e-b441-766464dfde9d_YYgv.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4d843deff0e73028",
+   "title": "List: Which everyday expenses are hitting your pocket harder as CPI crosses 6%, food inflation nears 9% in Oct 2026?",
+   "link": "https://www.livemint.com/money/personal-finance/list-which-everyday-expenses-are-hitting-your-pocket-harder-as-cpi-crosses-6-food-inflation-nears-9-in-oct-2026-11794553476062.html",
+   "summary": "India’s retail inflation crossed the RBI’s 6% upper tolerance limit in October 2026, rising to 6.09%, while food inflation climbed to 8.51%. Onion, garlic and lemon recorded sharp price increases, adding to household budget pressures.",
+   "published": "2026-11-13T07:50:42+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Everyday_Costs_Rise_Amid_Inflation_1794555192482_3YpX_1794555205988_UeiJ_3c4da210-6fc9-44f9-8f4d-63ca6c419f48_LPbg.png",
+   "topics": [
+    "RBI / banking",
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
+  {
+   "id": "d7fa2533d75c4b94",
+   "title": "Mega AI Anthropic IPO details: Share price band, valuation, listing date - All you need to know about the upcoming issue",
+   "link": "https://www.livemint.com/market/stock-market-news/mega-ai-anthropic-ipo-details-share-price-band-valuation-listing-date-all-you-need-to-know-about-the-upcoming-issue-11794552663877.html",
+   "summary": "Anthropic IPO: The company behind the Claude AI chatbot has launched its IPO roadshow, targeting a fundraising of up to $64.4 billion through the sale of 825 million shares.",
+   "published": "2026-11-13T07:41:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Anthro_ipo_1794555433878_zSBZ_1794555434156_UOHI_ec05cfa1-2e43-46c1-97ac-2e202f0e5819_5bDD.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 9,
+   "valuation_signals": [
+    "Valuation",
+    "IPO",
+    "Funding"
+   ]
+  },
+  {
+   "id": "1906c5047682e35f",
+   "title": "EPFO alert: Employers must file October 2026 ECR and deposit EPF contributions by November 15",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-alert-employers-must-file-october-2026-ecr-and-deposit-epf-contributions-by-november-15-11794552497573.html",
+   "summary": "EPFO has asked employers to file the October 2026 ECR and deposit EPF contributions by November 15 to avoid interest and penalties. Here’s what to know.",
+   "published": "2026-11-13T07:41:15+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/The-age-groups-of-18-25-years-constitutes-55-64--o_1682479017095_1794552834112_nRQ1_3552f4e8-caf3-49e4-838c-a555db79b4e3_iS4J.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "da6c7fe9e5708906",
+   "title": "IRCTC, RVNL, IRFC, RailTel to IRCON: Railway stocks fall up to 3%; opportunity to buy on dip? Experts' views, target, SL",
+   "link": "https://www.livemint.com/market/stock-market-news/irctc-rvnl-irfc-railtel-to-ircon-railway-stocks-fall-up-to-3-opportunity-to-buy-on-dip-experts-views-target-sl-11794553579136.html",
+   "summary": "IRCTC, RVNL, IRFC, RailTel to IRCON, majoarity of the railway stoks are facing the margin pressure and broader market headwinds, believe experts",
+   "published": "2026-11-13T07:34:08+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/IRCTC_RVNL_IRCON_IRFC_share_price_target_1794553876662_XzpI_1794553876919_OQTm_085f8bf6-f39a-4e12-a3d0-cf7b089ad862_9rcA.png",
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c4665b2109643b58",
    "title": "Kwality Walls shares rally 8.5% today, up over 53% in 6 months - Should you still buy ice cream stock? Q2 highlights",
@@ -11260,114 +11380,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/loan_app_scam_1794109493702_wkD4_1794109493860_6C6q_ce8bc7c0-7b92-4021-b532-1af0f8a22cab_Dg1k.png",
    "topics": [],
    "first_seen": "2026-11-08T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "08b158c2fc59407a",
-   "title": "Diwali 2026 Muhurat Trading today: Stocks to buy from Centrum - BSE, L&T, TVS Motor and more; targets, stop-loss",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html",
-   "summary": "As Samvat 2083 begins after a volatile year, Centrum Finverse recommends five technical picks: BSE, Larsen &amp; Toubro, TVS Motor, Union Bank of India and Persistent Systems. Each comes with staggered entry levels, upside targets and a stop-loss; investors are advised to respect the stated risks.",
-   "published": "2026-11-08T03:59:17+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading__5_Stocks_to_Watch_17941034_1794103463558_Dwgn_1794103463671_zCcB_1ac7dcc0-a00f-4dea-9ba7-96a252f36cdf_02Qv.png",
-   "topics": [],
-   "first_seen": "2026-11-08T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0ca4d829c89b7e47",
-   "title": "NMC Healthcare founder BR Shetty held liable for $5.4 billion fraud in Abu Dhabi - All you need to know about the case",
-   "link": "https://www.livemint.com/companies/news/nmc-healthcare-founder-br-shetty-held-liable-for-5-4-billion-fraud-in-abu-dhabi-all-you-need-to-know-about-the-case-11794107578149.html",
-   "summary": "A UAE court held NMC Health co-founder BR Shetty and former CEO Prasanth Manghat liable for knowingly participating in fraudulent trading, including concealing billions in borrowings. The court set $5.397 billion as starting point for assessing their contributions to NMC’s assets.",
-   "published": "2026-11-08T03:31:13+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/nmc_1794107823979_DcNu_1794107838782_j8JG_f248eafc-bff5-458d-842b-b27e0a185bb4_mhY5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T04:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4f13d8817c8a6c0d",
-   "title": "How SBI is steadily catching up with HDFC Bank in the margin race",
-   "link": "https://www.livemint.com/companies/news/how-sbi-is-steadily-catching-up-with-hdfc-bank-in-the-margin-race-11793966592420.html",
-   "summary": "The difference between the net interest margins (NIMs) of India’s largest lender and its largest private lender has shrunk consistently over the years, data analysed by Mint showed.",
-   "published": "2026-11-08T03:30:34+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/INDIA-ECONOMY-0_1793986050824_CkxL_1793986076592_SxDa_a6f6ad9b-ccfe-4611-b22e-c05a25666b80_UFAk.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T04:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "933ca7a16a4dea0a",
-   "title": "DA hike: Uttarakhand increases dearness allowance by 3% to 63% for state employees, pensioners — All we know",
-   "link": "https://www.livemint.com/money/da-hike-uttarakhand-increase-dearness-allowance-3-pc-to-63-pc-state-employees-pensioners-effect-1-july-2026-arrears-pay-11794103712472.html",
-   "summary": "DA hike news: Uttarakhand government has approved a 3% increase in Dearness Allowance for state government employees, raising the component to 63% of basic pay, with effect from 1 July 2026. Here's all you need to know…&nbsp;",
-   "published": "2026-11-08T03:19:12+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794107843081_v9bb_1794107843279_zht3_06174c3e-b8b9-4f95-94f9-a580f9d90327_TAUt.png",
-   "topics": [],
-   "first_seen": "2026-11-08T03:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7cc29c6b8e480a3a",
-   "title": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-picks-hdfc-bank-bse-to-zen-tech-sahi-research-s-5-stocks-to-buy-on-diwali-2026-for-samvat-2083-11794106502695.html",
-   "summary": "Indian benchmark indices rose for a seventh straight session on Friday, with the Sensex gaining 2.17% and the Nifty 2.01%. For Samvat 2083, SAHI Research recommended five stocks—Zen Technologies, DLF, Adani Green Energy, BSE and HDFC Bank—for a one-to-six-month horizon.",
-   "published": "2026-11-08T03:14:01+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_2026_Muhurat_Trading_Picks_1794107534941_VBpG_1794107538482_dhcS_2c6408a1-14b7-48ae-8aea-f29495e057dc_iXqx.png",
-   "topics": [],
-   "first_seen": "2026-11-08T03:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "09977e306f95b290",
-   "title": "Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-time-2026-nse-bse-to-hold-special-diwali-trading-session-today-check-market-open-timings-11794105055102.html",
-   "summary": "Indian exchanges will hold Diwali Muhurat Trading sessions, with equities trading from 2:20 pm to 3:30 pm and MCX following the same window.&nbsp;",
-   "published": "2026-11-08T02:58:00+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading_2026_Sensex_Nifty_50_today__1794106508965_iRBB_1794106509166_XMT1_7e94ffd7-fe91-4efe-bbba-68c050b878a4_PIci.png",
-   "topics": [],
-   "first_seen": "2026-11-08T03:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

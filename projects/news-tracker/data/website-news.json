@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T07:30:03+00:00",
+ "generated_at": "2026-11-13T08:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 06:31:48 GMT",
+   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 13 Nov 2026 06:18:00 GMT",
+   "sample_date": "Fri, 13 Nov 2026 07:57:33 GMT",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-13T07:30:03+00:00"
+   "checked_at": "2026-11-13T08:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "f10e9e947176def7",
+   "title": "Ola Electric Battles Falling Revenue and Mounting Losses as Unit Economics Worsen",
+   "link": "https://startuptalky.com/ola-electric-battles-falling-revenue-and-mounting-losses/",
+   "summary": "Ola Electric is still struggling financially as its revenue fell 39% YoY to INR 421 cr in Q2 FY27, the ninth consecutive quarter of losing revenue. It narrowed losses to INR 362 cr, but its adjusted EBITDA margin declined.",
+   "published": "2026-11-13T07:57:33+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/ola-electric-battles-falling-revenue-and-mounting-losses-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d86a883d4c2a05eb",
+   "title": "Haber crosses Rs 200 Cr revenue threshold in FY26, narrows losses by 53%",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHRMV0JQR3BYYVdTREplVnNyb282YVlxUGktUXhKSml6SzhmOHFlVUtnTzBWVUZ4WTh1TlcxeFpRM1ZmZ0ZhV0xCQVg4TElEYklGeHluZ0Rjei1iNDdVcjJka1pwUFhtR0JVRkN4SDVvdEpFbGc4c2hfQXVxQ0tucEVpOEVZbmY3SWV6dVV1OC1ZWkRudDc4ZE81SlVab2ljTUw5cnF2d0ZZTjlJb3pB0gGvAUFVX3lxTFBUdExXQlBHcFhhV1NESmVWc3JvbzZhWXFQaS1ReEpKaXpLOGY4cWVVS2dPMFZVRnhZOHVOVzF4WlEzVmZnRmFXTEJBWDhMSURiSUZ4eW5nRGN6LWI0N1VyMmRrWnBQWG1HQlVGQ3hINW90SkVsZzhzaF9BdXFDS25wRWk4RVluZjdJZXp1VXU4LVlaRG50NzhkTzVKVVpvaWNNTDlycXZ3RllOOUlvekE?oc=5",
+   "summary": "",
+   "published": "2026-11-13T07:48:25+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5666eec55cce2210",
+   "title": "Kutlerri.ai raises $4 Mn from Narahari Investments to expand AI solutions for restaurants",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDZJVTh0RzZnMW5KTjdnVWxveVpPUk1wME1tMF9uUmRlQmQ3Z3FzUFBoV01uN3RKUWNNN1Q3d0NBTE1xSVhuNG9zLU5BSUhfcXByUnJsWkRtOTQxLUo0Tk1UWlJLUDBQYTZWVE9MNXJweFNQYnItZndpYmdjV2ZJUURta19IeE4tdmVWOUh0akV1TEFJUkdIQldPVXE3Zlo0MTdzNE04QTZPbTB0OGY1S0p6STFpU0FxcEE3MEY5SXRWT1Bh0gHEAUFVX3lxTE14NklVOHRHNmcxbkpON2dVbG95Wk9STXAwTW0wX25SZGVCZDdncXNQUGhXTW43dEpRY003VDd3Q0FMTXFJWG40b3MtTkFJSF9xcHJScmxaRG05NDEtSjROTVRaUktQMFBhNlZUT0w1cnB4U1Bici1md2liZ2NXZklRRG1rX0h4Ti12ZVY5SHRqRXVMQUlSR0hCV09VcTdmWjQxN3M0TThBNk9tMHQ4ZjVLSnpJMWlTQXFwQTcwRjlJdFZPUGE?oc=5",
+   "summary": "",
+   "published": "2026-11-13T07:40:46+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "166455d70ed2aed2",
+   "title": "MeitY examines data collection by home services platforms for physical AI training",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDN1dlBubGk0Y212OU91cVk5bUdfekNEQnpaX0ppLTgxNHo1TVNmSnUwUm9zY0Q4T2h6emlxM3RwS3Nwc01QSGc2YUhTdFRRVWFFUkZYYXdnQkhYOHJTVHFvTkU2QURCR0pJdVdpOXd2Q09xQ09TakxqdGloaTBFckhLd29TMGhrSU5pbm1Rd2w2R0JVMDFyZnJERThMb1JBbTlmcXlaLTlheHYwRkpNQ0xHbzNscXoy0gG4AUFVX3lxTE1IM3V2UG5saTRjbXY5T3VxWTltR196Q0RCelpfSmktODE0ejVNU2ZKdTBSb3NjRDhPaHp6aXEzdHBLc3BzTVBIZzZhSFN0VFFVYUVSRlhhd2dCSFg4clNUcW9ORTZBREJHSkl1V2k5d3ZDT3FDT1NqTGp0aWhpMEVySEt3b1MwaGtJTmlubVF3bDZHQlUwMXJmckRFOExvUkFtOWZxeVotOWF4djBGSk1DTEdvM2xxejI?oc=5",
+   "summary": "",
+   "published": "2026-11-13T07:34:11+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3b8e18a47cacfee0",
    "title": "Delhivery partners with Tata Motors, Euler Motors, Montra Electric to deploy up to 2,000 electric commercial vehicles",
@@ -312,6 +386,24 @@
    "valuation_signals": [
     "M&A"
    ]
+  },
+  {
+   "id": "26ac38fba5d22d6c",
+   "title": "15 Strategies to Create High-Converting Black Friday Landing Pages in 2026",
+   "link": "https://startuptalky.com/strategies-black-friday-landing-pages/",
+   "summary": "Learn 15 effective strategies to create high-converting Black Friday landing pages in 2026. Explore tips on design, CTAs, page speed, customer trust, and checkout optimization.",
+   "published": "2026-11-13T04:31:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Rishi Mundra",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2023/11/Black-Friday-Sale-Landing-Page-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "376d01b45580e9f4",
