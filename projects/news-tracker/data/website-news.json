@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T06:00:01+00:00",
+ "generated_at": "2026-11-13T06:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Wed, 11 Nov 2026 04:51:37 GMT",
    "error": null,
-   "checked_at": "2026-11-13T06:00:01+00:00"
+   "checked_at": "2026-11-13T06:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 10:44:40 GMT",
    "error": null,
-   "checked_at": "2026-11-13T06:00:01+00:00"
+   "checked_at": "2026-11-13T06:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 05:02:12 GMT",
    "error": null,
-   "checked_at": "2026-11-13T06:00:01+00:00"
+   "checked_at": "2026-11-13T06:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T06:00:01+00:00"
+   "checked_at": "2026-11-13T06:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-13T06:00:01+00:00"
+   "checked_at": "2026-11-13T06:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "08c7f991044ea74b",
+   "title": "Who will succeed Jensen Huang? The race to find Nvidia's next chief begins",
+   "link": "https://yourstory.com/2026/11/who-will-succeed-jensen-huang-race-to-find-permanent-chief-begins",
+   "summary": "Jensen Huang’s departure ends a 33-year leadership era at Nvidia, triggering a search for his successor. Names including Lisa Su, Rene Haas and Tim Cook have entered the conversation, with Trump’s endorsement of Cook adding an unexpected twist.",
+   "published": "2026-11-13T06:05:18+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cbf22493d8c74bd5",
+   "title": "AI could disrupt India's outsourcing model. It could also create millions of new exporters",
+   "link": "https://yourstory.com/2026/11/ai-could-disrupt-indias-outsourcing-model-could-also-create-millions-new-exporters",
+   "summary": "AI is letting small Indian teams win global work that once needed a big company. As AI separates capability from headcount, it could shape India’s next export story.",
+   "published": "2026-11-13T05:59:34+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8f261c1c748609a0",
    "title": "Best AI Video Generators in 2026: Adobe Creative Cloud vs Runway, Kling and Luma",
