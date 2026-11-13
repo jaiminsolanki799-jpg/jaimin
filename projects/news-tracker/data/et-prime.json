@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T17:00:02+00:00",
+ "generated_at": "2026-11-13T17:30:08+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
-   "items": 4,
+   "fetched": 7,
+   "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 22:21:31 +0530",
+   "sample_date": "Fri, 13 Nov 2026 22:37:56 +0530",
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 21:58:34 +0530",
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 21:39:13 +0530",
    "error": null,
-   "checked_at": "2026-11-13T17:00:02+00:00"
+   "checked_at": "2026-11-13T17:30:08+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "de7853aafa5ddb9f",
+   "title": "KYC and KYB: Inside Pidilite, the company that turned Fevicol into a word for a strong bond – Part 1 of 3",
+   "link": "https://economictimes.indiatimes.com/prime/kyc-and-kyb-inside-pidilite-the-company-that-turned-fevicol-into-a-word-for-a-strong-bond-part-1-of-3/primearticleshow/135656250.cms",
+   "summary": "",
+   "published": "2026-11-13T17:30:08+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-13T17:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6e4b7b37e4725f36",
+   "title": "BLACKPINK's Jisoo gets special mention from Dior CEO Delphine Arnault during South Korea's Ewha University event",
+   "link": "https://www.livemint.com/companies/blackpinks-jisoo-gets-special-mention-from-dior-ceo-delphine-arnault-during-south-koreas-ewha-university-event-11794586453344.html",
+   "summary": "The university said the recognition ‘recognizes Arnault’s management expertise and leadership in driving innovation in the global fashion and luxury industry, as well as her contributions to developing the next generation of talent.’",
+   "published": "2026-11-13T17:07:56+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Untitled_design_-_2026-11-13T221228.272_1794588181610_qPHG_1794588194177_dCnX_d43d7a9d-8cf7-48d3-97ed-653ca3fcd405_plGy.png",
+   "topics": [],
+   "first_seen": "2026-11-13T17:30:08+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "76a8e5b12d11c7e1",
    "title": "Not inherited, but earned: Srinivasan, Singh target Noel in rebuttal to Khambata",
@@ -11370,42 +11408,6 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
    "topics": [],
    "first_seen": "2026-11-08T12:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "38a876845f198e45",
-   "title": "Yogi govt weighs ₹50,000 aid for women ahead of UP assembly elections in 2027, says report | What we know so far",
-   "link": "https://www.livemint.com/money/yogi-govt-weighs-50-000-aid-for-women-ahead-of-up-assembly-elections-in-2027-says-report-what-we-know-so-far-11794130081945.html",
-   "summary": "Uttar Pradesh is considering financial assistance of ₹50,000 for eligible women ahead of the 2027 assembly election. Here's what we know so far about the scheme.",
-   "published": "2026-11-08T11:03:16+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/pexels-photo-6901511__1794135619372_Mb7s_1794135619540_Buza_e1fbf2de-de00-4d9e-a1b9-252885e66e03_CCBg.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-08T11:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "66225da5671361d2",
-   "title": "Why did RR Kabel share rally 8% during Muhurat Trading despite weak market sentiment — what triggered the surge?",
-   "link": "https://www.livemint.com/market/stock-market-news/why-did-rr-kabel-share-rally-8-during-muhurat-trading-despite-weak-market-sentiment-what-triggered-the-surge-11794133913486.html",
-   "summary": "RR Kabel shares rose 8% to ₹2,073 during Sunday’s Muhurat Trading session, helped by unusually high volumes despite broader market losses. The stock had recently weakened after subdued FY27 growth guidance, although September-quarter profit increased 55.7% and revenue rose 51.8% year on year.",
-   "published": "2026-11-08T10:49:39+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/RR_Kabel_Stock_1794134878617_d9E5_1794134940057_Cr2x_d8f65a89-c897-4bc5-b8cb-045c00948a51_VM4Z.png",
-   "topics": [],
-   "first_seen": "2026-11-08T11:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
