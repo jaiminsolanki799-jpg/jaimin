@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T11:00:01+00:00",
+ "generated_at": "2026-11-13T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 16:02:54 +0530",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 16:19:00 +0530",
+   "sample_date": "Fri, 13 Nov 2026 16:42:33 +0530",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 16:22:23 +0530",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "6c52895c6a2c93db",
+   "title": "Diwali gains often last. Will this year’s Sensex rally hold?",
+   "link": "https://www.livemint.com/market/stock-market-news/diwali-gains-this-year-sensex-rally-muhurat-11794459314013.html",
+   "summary": "The Sensex has risen in the week after Muhurat in almost two-thirds of the past 30 years. Earnings and foreign buying will determine whether this year’s rally has further to go",
+   "published": "2026-11-13T11:12:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/sensex_1794567866583_dOX6_1794567866813_zxmn_e9e1654f-731d-403d-837d-5986cc733a36_7vxU.JPG",
+   "topics": [],
+   "first_seen": "2026-11-13T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2b2dd9f1e550f33f",
    "title": "What does Nvidia CEO Jensen Huang spy affair teach investors about risks in global markets? 5 key factors to watch",
@@ -11364,26 +11382,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Samvat_1794116352163_R73O_1794116357099_9OQt_0a464_1794122619888_9OHA_1794122620114_qFzP_0ffdb2ae-40f1-40f5-becf-f77be7a39c2b_G8p8.png",
    "topics": [],
-   "first_seen": "2026-11-08T08:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f8efc04ccc0b3158",
-   "title": "PF contributions deposited late? Can the income tax department impose a penalty on your employer? ITAT clarifies",
-   "link": "https://www.livemint.com/money/personal-finance/pf-contributions-deposited-late-can-the-income-tax-department-impose-a-penalty-on-your-employer-itat-clarifies-11794122922693.html",
-   "summary": "ITAT Ahmedabad has deleted a ₹4.42 lakh penalty imposed on Nascent Info Technologies for misreporting income after disallowance of ₹7.16 lakh in delayed employees' PF and ESI contributions. The tribunal said disallowance alone does not establish misreporting.",
-   "published": "2026-11-08T07:34:15+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Geerated_Image_ika2u5ika2u5ika2_179412306_1794123075176_1alY_1794123075316_kkN0_fb18cc54-71ad-483b-985e-2b119a08805d_u0aF.png",
-   "topics": [
-    "Income tax"
-   ],
    "first_seen": "2026-11-08T08:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []

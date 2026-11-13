@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T11:00:01+00:00",
+ "generated_at": "2026-11-13T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 13 Nov 2026 10:29:03 GMT",
+   "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-13T11:00:01+00:00"
+   "checked_at": "2026-11-13T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "c8175d769d855436",
+   "title": "Delhivery Accelerates Green Logistics Push with Plans to Deploy 2,000 Electric Vehicles",
+   "link": "https://startuptalky.com/news/delhivery-accelerates-green-logistics-push/",
+   "summary": "Delhivery has inked MoUs with Tata Motors, Euler Motors and Montra Electric to deliver 1,500-2,000 electric commercial vehicles across its intra-city logistics network in the next 12-18 months. The initiative supports its goal of deploying 5,000 commercial EVs in three years.",
+   "published": "2026-11-13T11:06:01+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/delhivery-accelerates-green-logistics-push-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "92c026a41718cc7f",
    "title": "One outage, millions affected. What went wrong at Microsoft?",
