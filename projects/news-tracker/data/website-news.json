@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T19:30:01+00:00",
+ "generated_at": "2026-11-13T20:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 06:31:48 GMT",
+   "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 18:40:30 +0000",
+   "sample_date": "Fri, 13 Nov 2026 19:37:57 +0000",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "645e798427f902eb",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "published": "2026-11-13T19:37:57+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-13T20:00:03+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "3dc626ea28ff3a7d",
    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",

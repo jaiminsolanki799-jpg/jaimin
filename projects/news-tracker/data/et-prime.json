@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T19:30:01+00:00",
+ "generated_at": "2026-11-13T20:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
-   "items": 4,
+   "fetched": 7,
+   "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 00:05:14 +0530",
+   "sample_date": "Sat, 14 Nov 2026 01:00:50 +0530",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 00:11:23 +0530",
+   "sample_date": "Sat, 14 Nov 2026 01:04:56 +0530",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 23:43:02 +0530",
    "error": null,
-   "checked_at": "2026-11-13T19:30:01+00:00"
+   "checked_at": "2026-11-13T20:00:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "857d893f323c1dcd",
+   "title": "Rate-hike bets keep gold on track for worst week in four months",
+   "link": "https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html",
+   "summary": "GLOBAL-PRECIOUS/ (UPDATE 8):PRECIOUS-Rate-hike bets keep gold on track for worst week in four months",
+   "published": "2026-11-13T19:34:56+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-13T20:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5dc05fdf39c45568",
+   "title": "SpaceX aims for first double catch of Starship in its most ambitious test flight yet",
+   "link": "https://www.livemint.com/companies/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet-11794598250576.html",
+   "summary": "SpaceX aims for first double catch of Starship in its most ambitious test flight yet",
+   "published": "2026-11-13T19:30:50+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-11-13T20:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a6c1777fc14d5adc",
    "title": "Oil prices set for second straight weekly decline on growing signs of supply surplus",
@@ -1030,6 +1066,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d8a2db059bf0444e",
+   "title": "Is CoreWeave's movement signalling a return of the AI trade?",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcmlZY2ZrXzNwRzBaOXpTX09wT0htN2tnQ0w1am9aa0FoMmRiWWs2UE51X0FpdEVpWGZ1YWpTRW54Sy1wa083TW5NR0E4M1MtdjJsWDhZVGtia2g3Rjd0TWktdlBBSXdNUE1YbVZQc19aaDRkX3ZjbDNNZDVuWEROU0RkUUlURTZTYW5qaEwzWGVHeVU2Z2xra3llQkpwTkkwUTdPUC0wTXIzbXdMMXB4SU11ZHpjQmliU1hhZ1Bya2EwWHliX1FQTHY3QXJHWHpmWUstSDFQVkVVa3RuX0tOM3ljN201bFBiWGNUdG53dFJpTWdCNmhyNlJES1VUT3BGOUFGS1YxRGFjQ1BDUHE3YllxNEExODR5QkoyamQxY09KcEdaSmpta3NpbVDSAcYBQVVfeXFMUFVFRTRfRFItQUQ0aWQzdk04RElIZERhWWFIMnhpWDJmS0ZXRm51UHQ1RDFWdGxvT3pHZDV4Y25wSVkzaWVtX01VVVpBa3NoTEd1Wk9vdmM2ZUhXVnVNdWN6aTNTZlZQZ2taRU1sZUNFRWdzTXNyQ0RHeXJIMEU1T1Rnamo3Y1hJQ3dNQVgtYmx2OUNZV1ZQS0F6aDlvVjdUQjRvSVppckdTVkVGekM1OWlWN3hWYW1fY3h6UERKb242eVdFc2JR?oc=5",
+   "summary": "",
+   "published": "2026-11-13T09:36:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T20:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11348,64 +11402,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/PTI11-05-2026-000365A-0_179_1794144442396_9lae_1794144442564_X9WY_6ade0c9d-a6f6-4b54-bea3-48d97272fd93_IGSZ.jpg",
    "topics": [],
    "first_seen": "2026-11-08T15:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f050f5c4e0077cea",
-   "title": "Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to buy in Samvat 2083 | Full List",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-2026-tata-steel-bel-hdfc-bank-25-brokerages-reveal-187-shares-to-buy-in-samvat-2083-full-list-11794134434530.html",
-   "summary": "Twenty-five brokerages have named 187 distinct stocks to watch for Samvat 2083, including large-, mid-, and emerging companies across a range of sectors. The market outlook favors earnings growth over valuation expansion.",
-   "published": "2026-11-08T14:31:06+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_2026_Stock_Picks_1794135940902_6hVJ_1794135946068_ZiRJ_7923b888-42a3-4520-8fbd-4a219a47906c_Rsxp.png",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-08T15:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0cb51cc25303a229",
-   "title": "Received a Diwali bonus or voucher from your employer? Know the tax exemption limit and rules for salaried employees",
-   "link": "https://www.livemint.com/money/personal-finance/received-a-diwali-bonus-or-voucher-from-your-employer-know-the-tax-exemption-limit-and-rules-for-salaried-employees-11794142194814.html",
-   "summary": "Diwali gifts from employers worth less than ₹15,000 in aggregate can be tax-free, but cash bonuses are taxable as salary. Here's how festive payouts affect your income tax, rebate eligibility and take-home pay under the new tax rules.",
-   "published": "2026-11-08T14:11:46+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Generated_Image_hs1on6hs1on6hs1o_17941423_1794142347633_4K1b_1794142347765_5QVA_663f42fc-20ce-44f3-b08b-a6c7e17334aa_SlQ7.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-08T14:30:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a5ace20ff15d0139",
-   "title": "5 key lessons from Your Money or Your Life by Vicki Robin: How to achieve financial freedom while maximising your income",
-   "link": "https://www.livemint.com/money/5-key-lessons-from-your-money-or-your-life-by-vicki-robin-how-to-achieve-financial-freedom-while-maximising-your-income-11794122544084.html",
-   "summary": "Your Money or Your Life presents a path to financial independence built on tracking the life energy behind income and spending, defining how much is enough, earning intentionally, and investing.&nbsp;",
-   "published": "2026-11-08T13:50:45+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Your_Money_book_1794122934404_8HbW_1794122938616_Y1ME_034b1fc0-1d23-4d8e-9bb5-d9ee49930c07_q2xq.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T14:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
