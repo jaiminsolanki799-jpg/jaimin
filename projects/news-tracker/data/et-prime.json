@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T14:00:03+00:00",
+ "generated_at": "2026-11-13T14:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 18:55:28 +0530",
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 19:23:34 +0530",
+   "sample_date": "Fri, 13 Nov 2026 19:35:17 +0530",
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 19:23:11 +0530",
    "error": null,
-   "checked_at": "2026-11-13T14:00:03+00:00"
+   "checked_at": "2026-11-13T14:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "995ec9e8a5a20c8e",
+   "title": "Warships, aircraft or missiles? GRSE vs HAL vs BDL: Which defence PSU wins the post-Q2 results race? Technical outlook",
+   "link": "https://www.livemint.com/market/stock-market-news/warships-aircraft-or-missiles-grse-vs-hal-vs-bdl-which-defence-psu-wins-the-post-q2-results-race-technical-outlook-11794571751718.html",
+   "summary": "GRSE and HAL reported year-on-year second-quarter profit growth of 12% and 16%, respectively, while BDL’s profit fell 15%. Revenue rose at all three companies, but BDL’s EBITDA dropped sharply.",
+   "published": "2026-11-13T14:05:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/GRSE_vs_HAL_vs_BDL_1794578498583_tc5Y_1794578498716_KRPw_6ed1b48b-8186-4918-b4e7-369a8e1b332b_pgAR.png",
+   "topics": [],
+   "first_seen": "2026-11-13T14:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
   {
    "id": "a5cef8564763d0a9",
    "title": "Pulse of the Street: Dalal Street’s winning streak faces an inflation test",
@@ -11384,24 +11404,6 @@
    "valuation_signals": [
     "Buyback & payout"
    ]
-  },
-  {
-   "id": "ec29236210302efa",
-   "title": "Why Safe Enterprises shares bleeding on Diwali Muhurat trading 2026 session despite Nifty, Sensex in green? Key reasons",
-   "link": "https://www.livemint.com/market/stock-market-news/why-safe-enterprises-shares-bleeding-on-diwali-muhurat-trading-2026-session-despite-nifty-sensex-in-green-key-reasons-11794125786215.html",
-   "summary": "Safe Enterprises Retail Fixtures shares fell nearly 9% during Diwali Muhurat trading after the company reported a 34.57% year-on-year decline in H1 FY27 net profit to ₹21.75 crore. Revenue also dropped to ₹77.87 crore from ₹112.37 crore a year earlier.",
-   "published": "2026-11-08T09:24:44+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/afatgg_1794129804024_ZEjl_1794129812825_TPdJ_a996b76f-328d-4fb6-8639-739a687c5562_O26c.png",
-   "topics": [],
-   "first_seen": "2026-11-08T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
