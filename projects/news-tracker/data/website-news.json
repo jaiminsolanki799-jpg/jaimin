@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T05:30:02+00:00",
+ "generated_at": "2026-11-13T06:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Wed, 11 Nov 2026 04:51:37 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:30:02+00:00"
+   "checked_at": "2026-11-13T06:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 10:44:40 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:30:02+00:00"
+   "checked_at": "2026-11-13T06:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 05:02:12 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:30:02+00:00"
+   "checked_at": "2026-11-13T06:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:30:02+00:00"
+   "checked_at": "2026-11-13T06:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-13T05:30:02+00:00"
+   "checked_at": "2026-11-13T06:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 4,
  "items": [
   {
    "id": "8f261c1c748609a0",
@@ -130,6 +130,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "c5eec350f43caf3b",
+   "title": "10 AI Hacks to Shop Smarter and Find the Best Black Friday Deals in 2026",
+   "link": "https://startuptalky.com/top-black-friday-ai-hacks/",
+   "summary": "Learn how startups can get featured in Black Friday must-have product lists through media outreach, exclusive deals, customer reviews, and strong product positioning.",
+   "published": "2026-11-13T04:54:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Vivek Dev Jacob",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/10/top-black-friday-ai-hacks-startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T06:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "ae44097b7e451b69",
