@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T00:00:01+00:00",
+ "generated_at": "2026-11-13T00:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 2,
-   "items": 2,
+   "fetched": 3,
+   "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 04:52:38 +0530",
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 04:16:40 +0530",
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-13T00:00:01+00:00"
+   "checked_at": "2026-11-13T00:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,7 +192,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
   {
    "id": "a74083ed0657301a",
@@ -245,6 +245,24 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
    "topics": [],
    "first_seen": "2026-11-12T23:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ece3842040a85287",
+   "title": "How India’s INR22.5 lakh crore gold loan boom is hiding a big hole",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTEJCTWFiV1p3SWxPVmt5MzNha3Rva2RzZEEzeUNmNkFMb1BKZ2tqS2ljZ3RyUHRaSG5rYVlRNnJBMTV1UWZrNUhkSnR1bFBydHk1aFpoZzdsTkVaRUcwZjVPeVZQdVZ1LTdaN19zYk9uN3F2ZWxuMFBOdUV4WUV3NjFIa0FnanpXUTJmX1YxejI5VTVpZ2NqbnNpMko1aFh0OHF0QXAtM3BWSXM4Ynl3anE4SHRoLW5oUm1wYzFHOFFtaVB3RFVyUmt5VGw1SjZLXzhfNkFSWmRXeXNMLWwwZ3Vtbm9lS2huRGx3V0pTTFdRaXNwRHpYaWRtN3cwM1htTHpDdzJUMGVpUFZjNGtjZDZMald2VlVQWk1NRllxZDExM2psb3FRQTZIMEkzVWZua0JiVXU0V280Nm4tLU9PSlJ2ZmtiV2I0UWfSAeYBQVVfeXFMT1BlRHQtX3BkYWNNOGxOMUlrNGR2ekZEVENSekV4aUdRNjZid2xHZy1ia2h3eEJ4MGxZRU45RnFYMkNXWEFkNVRoOWNEUlZaYXJ4YlFQdTZLalEwdjdjam02WktJd0pab1lydWhNREZNc3RaUF9xUC1CT2FDQWJibVZaZjVjM2UyU1Y0ODlFcmhNM2ZzSlNjalBWN3FNVHUyMXM3eGw5eUx1T0VWTFY0ZWNsWDhsdWpIWnA3UVpLUUxlbHpvM0hpTUE2VVEwaU1Bc0owQ0ZacThQMzdZcWdrdDU5b0N6N2c?oc=5",
+   "summary": "",
+   "published": "2026-11-12T22:30:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T00:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11347,26 +11365,6 @@
    "first_seen": "2026-11-07T09:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "28a5d080866a35d6",
-   "title": "Diwali Muhurat trading stocks+ dividend: Expert picks 2 stocks for Samvat 2083 with record dates next week - Do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stocks-dividend-expert-picks-2-stocks-for-samvat-2083-with-record-dates-next-week-do-you-own-11794039951310.html",
-   "summary": "Ahead of Diwali 2026 Muhurat trading, analyst Ravi Singh identifies Aurobindo Pharma, Balkrishna Industries and Mahindra &amp; Mahindra as stocks to consider for Samvat 2083. These two firms have dividend record dates scheduled for next week",
-   "published": "2026-11-07T09:03:49+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_Stocks_and_Dividend_Dhamaka_1794042132403_v7CJ_1794042146102_39ue_4c1ed75b-b6d1-44d6-bbd9-1cff00d07a30_6Pfz.png",
-   "topics": [],
-   "first_seen": "2026-11-07T09:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
   }
  ]
 }
