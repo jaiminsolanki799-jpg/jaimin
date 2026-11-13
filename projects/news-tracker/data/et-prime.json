@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T03:00:01+00:00",
+ "generated_at": "2026-11-13T03:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 08:02:57 +0530",
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 07:51:10 +0530",
+   "sample_date": "Fri, 13 Nov 2026 08:45:24 +0530",
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 07:57:28 +0530",
    "error": null,
-   "checked_at": "2026-11-13T03:00:01+00:00"
+   "checked_at": "2026-11-13T03:30:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "a81963101bfe4f90",
+   "title": "Cochin Shipyard dividend 2026: Last day to buy today | Check record date, payout amount, history, yield",
+   "link": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-dividend-2026-last-day-to-buy-today-check-record-date-payout-amount-history-yield-11794537918251.html",
+   "summary": "Cochin Shipyard dividend 2026: The state-owned shipbuilding company announced an interim dividend of ₹3 per equity share, representing a 60% payout on its face value of ₹5 per share.",
+   "published": "2026-11-13T03:15:24+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Cochin_1794539556783_74N4_1794539557039_6ZW9_918a14a9-4999-4f08-a1ce-ffe6006d2a93_f1lW.png",
+   "topics": [],
+   "first_seen": "2026-11-13T03:30:04+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "f64caf62da87b01c",
+   "title": "51% rally in 2026 so far! ICICI Direct sees 28% upside potential in this defence stock - Do you own? Check target price",
+   "link": "https://www.livemint.com/market/stock-market-news/51-rally-in-2026-so-far-icici-direct-sees-28-upside-potential-in-this-defence-stock-do-you-own-check-target-price-11794507179450.html",
+   "summary": "Azad Engineering shares have risen about 51% in 2026, but ICICI Securities sees up to 28% further upside and retains a Buy rating, with a revised target of ₹3,100. Potential delivery of a second engine to DRDO and aerospace expansion could support growth.",
+   "published": "2026-11-13T03:00:32+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/GSHHjajj_1794507302029_iqAO_1794507314591_HO0f_05ca8a69-6896-4ddd-9d41-c5349f3d7137_X2LP.png",
+   "topics": [],
+   "first_seen": "2026-11-13T03:30:04+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "3879bf7843f0ab54",
    "title": "Elon Musk's SpaceX-Tesla mega merger could be announced in December: What could derail the deal?",
@@ -11333,44 +11373,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Gemini_Geneated_Image_6h7qst6h7qst6h7q_179405098_1794050995384_kwqg_1794050995535_19CK_ef616df0-c63d-4406-bf20-d7472270ca0d_JfNg.png",
    "topics": [],
    "first_seen": "2026-11-07T12:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "03484b0caa68eeb2",
-   "title": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead?",
-   "link": "https://www.livemint.com/market/stock-market-news/from-diwali-2025-to-diwali-2026-how-sensex-nifty-50-rupee-crude-oil-changed-in-samvat-2082-what-lies-ahead-11794043761591.html",
-   "summary": "After a sharp seven-session rally, technical analysts said Indian equities have a bullish near-term outlook, with key resistance and support levels guiding the next move. They cautioned that elevated momentum and recent gains could prompt profit-taking.",
-   "published": "2026-11-07T11:18:52+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_Markets_Samvat_2082_Outlook_1794050057726_fAJ0_1794050060833_vEQ9_3e69b76b-976d-4e6a-9372-cbc4efd75048_kMQa.png",
-   "topics": [],
-   "first_seen": "2026-11-07T11:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b4ce8b67b2a66a80",
-   "title": "ITAT Surat ruling: Retired employee wins leave encashment tax dispute over ₹8.02 lakh exemption claim",
-   "link": "https://www.livemint.com/money/personal-finance/itat-surat-ruling-retired-employee-wins-leave-encashment-tax-dispute-over-rs-8-02-lakh-exemption-claim-11794046534072.html",
-   "summary": "The ruling highlights the importance of following due process before the tax authorities modify an already processed income tax return",
-   "published": "2026-11-07T11:08:00+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/pexels-photo-6289059_1780992571628_1780992582324_d6bc9f68-fc4d-4fb1-9dfe-a76319ac88bf_1794047837788_bxLg_4469ac30-6cf1-4caf-abd7-6087b7b54c74_F4kA.jpeg",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-07T11:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
