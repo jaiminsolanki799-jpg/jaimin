@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T12:30:04+00:00",
+ "generated_at": "2026-11-13T13:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T12:30:04+00:00"
+   "checked_at": "2026-11-13T13:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
+   "sample_date": "Fri, 13 Nov 2026 06:31:48 GMT",
    "error": null,
-   "checked_at": "2026-11-13T12:30:04+00:00"
+   "checked_at": "2026-11-13T13:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T12:30:04+00:00"
+   "checked_at": "2026-11-13T13:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T12:30:04+00:00"
+   "checked_at": "2026-11-13T13:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 12:28:23 +0000",
+   "sample_date": "Fri, 13 Nov 2026 12:52:19 +0000",
    "error": null,
-   "checked_at": "2026-11-13T12:30:04+00:00"
+   "checked_at": "2026-11-13T13:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,49 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "f240bb31094b1ee3",
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "published": "2026-11-13T12:52:19+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anna Heim",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e6526c3d8e4e3423",
+   "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
+   "link": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
+   "summary": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO.",
+   "published": "2026-11-13T12:43:18+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-13T13:00:02+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Rules",
+    "IPO"
+   ]
+  },
   {
    "id": "025949940b1ff6f3",
    "title": "Jensen Huang didn’t show confidence in his successor, report says",
@@ -128,6 +169,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-13T12:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7aa2d7a90f35e191",
+   "title": "Kutlerri.ai",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rQk9mcHZCUHRXX2tsRVJ6YUtkZl9Gbi1GMFoxMkVua1JfcTVKYTJPN19LUGpsUTc4b0lhcFhPUzB0THN5SHZuUGVmc2U?oc=5",
+   "summary": "",
+   "published": "2026-11-13T11:17:15+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T13:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
