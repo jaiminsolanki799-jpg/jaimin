@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T18:30:02+00:00",
+ "generated_at": "2026-11-13T19:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
+   "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 16:00:12 +0000",
+   "sample_date": "Fri, 13 Nov 2026 18:40:30 +0000",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "3dc626ea28ff3a7d",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "published": "2026-11-13T18:40:30+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d29dd505afadc43d",
    "title": "SoftBank sells 1.65% stake in Meesho for Rs 1,885 Cr through block deal",
@@ -133,7 +151,7 @@
    "id": "a351355edf69d9b0",
    "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
    "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-   "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+   "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
    "published": "2026-11-13T14:57:55+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -167,7 +185,7 @@
   },
   {
    "id": "ab323bb591ac51e4",
-   "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+   "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
    "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
    "published": "2026-11-13T13:15:20+00:00",

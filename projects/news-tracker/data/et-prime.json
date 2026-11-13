@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T18:30:02+00:00",
+ "generated_at": "2026-11-13T19:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,18 +13,18 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,29 +68,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,29 +112,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 23:56:21 +0530",
+   "sample_date": "Sat, 14 Nov 2026 00:05:14 +0530",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 23:35:31 +0530",
+   "sample_date": "Sat, 14 Nov 2026 00:11:23 +0530",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 23:43:02 +0530",
    "error": null,
-   "checked_at": "2026-11-13T18:30:02+00:00"
+   "checked_at": "2026-11-13T19:00:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,78 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "a6c1777fc14d5adc",
+   "title": "Oil prices set for second straight weekly decline on growing signs of supply surplus",
+   "link": "https://www.livemint.com/market/oil-prices-set-for-second-straight-weekly-decline-on-growing-signs-of-supply-surplus-11794595284142.html",
+   "summary": "GLOBAL-OIL:Oil prices set for second straight weekly decline on growing signs of supply surplus",
+   "published": "2026-11-13T18:41:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-13T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9152945c5097d857",
+   "title": "Gold Edges Up, Still On Track for Worst Weekly Slump Since June",
+   "link": "https://www.livemint.com/market/gold-edges-up-still-on-track-for-worst-weekly-slump-since-june-11794595223804.html",
+   "summary": "Gold edged higher at the end of a downbeat week that saw the metal drop to its lowest point in more than a year.",
+   "published": "2026-11-13T18:40:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-13T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "42695919a0346ef6",
+   "title": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
+   "link": "https://www.livemint.com/companies/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports-11794594915438.html",
+   "summary": "NVIDIA-CEO-HAAS:Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
+   "published": "2026-11-13T18:35:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+   "topics": [],
+   "first_seen": "2026-11-13T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "855af76dfbe2425b",
+   "title": "Asda’s Losing Streak Nears End as New CEO Joins UK Grocer",
+   "link": "https://www.livemint.com/companies/asdas-losing-streak-nears-end-as-new-ceo-joins-uk-grocer-11794594850362.html",
+   "summary": "Asda drew more online shoppers with its loyalty program, as the struggling British grocer narrowly missed a return to growth.",
+   "published": "2026-11-13T18:34:10+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+   "topics": [],
+   "first_seen": "2026-11-13T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "096d80f329f5063f",
    "title": "Reliance to invest ₹1 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants",
@@ -2212,7 +2284,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
    "summary": "",
    "published": "2026-11-12T23:00:02+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Fintech & BFSI",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11334,80 +11406,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Your_Money_book_1794122934404_8HbW_1794122938616_Y1ME_034b1fc0-1d23-4d8e-9bb5-d9ee49930c07_q2xq.jpg",
    "topics": [],
    "first_seen": "2026-11-08T14:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "71b7d6ada58d709b",
-   "title": "RBI cheque book rules: Will existing CTS cheque books become invalid from January 1, 2027? Here's what RBI said",
-   "link": "https://www.livemint.com/money/rbi-cheque-book-rules-will-existing-cts-cheque-books-become-invalid-from-january-1-2027-heres-what-rbi-said-11794143901828.html",
-   "summary": "RBI clarifies that existing CTS cheque books will remain valid after December 31, 2026, dismissing viral claims of new rules.",
-   "published": "2026-11-08T13:39:52+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/RBI_1794144364119_mqdX_1794144364254_gCeR_ae993ed7-5f7e-47bb-a4d7-ad3e150ecc31_Perb.png",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-11-08T14:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "18b384dfa8827874",
-   "title": "Top 5 stocks to buy in Nov 2026: SBI, Swiggy, Adani Power, Lloyds Engineering, GE Vernova by Bajaj Broking | Target, SL",
-   "link": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-in-nov-2026-sbi-swiggy-adani-power-lloyds-engineering-ge-vernova-by-bajaj-broking-target-sl-11794135408453.html",
-   "summary": "Top 5 stocks to buy in Nov 2026: Bajaj Broking expert Pabitro Mukherjee has recommended stock-specific approach amid continuous rally on Dalal Street",
-   "published": "2026-11-08T13:30:25+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Stocks_to_buy_today_Shares_to_buy_today_1794136311146_dz51_1794136311308_9zhb_9dedf4ff-3967-4dfd-b23e-9a451a667007_D6y0.png",
-   "topics": [],
-   "first_seen": "2026-11-08T14:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f767440bd92d0fc9",
-   "title": "‘Hard to recover the investment’: Gita Gopinath warns $1 trillion AI bet could correct, flags US recession risk",
-   "link": "https://www.livemint.com/money/hard-to-recover-the-investment-gita-gopinath-warns-1-trillion-ai-bet-could-correct-flags-us-recession-risk-11794138794202.html",
-   "summary": "Gita Gopinath warned that the AI investment boom could face a market correction if companies fail to generate enough profits to recoup nearly $1 trillion in expected 2026 spending.&nbsp;",
-   "published": "2026-11-08T12:37:26+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/US-IMF-DIPLOMACY-ECONOMY-GEORGIEVA-7_1705395720371_1794141350958_c9ML_8fb1944e-dd8b-4072-ab35-cb5f0d12868d_haQ6.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T13:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c65415626350a008",
-   "title": "A rare red Diwali: Sensex ends Muhurat trading lower for only the eighth time in 30 years",
-   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-muhurat-trading-samvat-2083-diwali-market-11794137925445.html",
-   "summary": "Indian equities began Samvat 2083 on a muted note, even as NSE turnover rose from last year's session. Market experts see room for a rebound, but traders remain cautious about returns and volatility.",
-   "published": "2026-11-08T12:36:23+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/PTI11-08-2026-000123B-0_1794140153083_v65v_1794140177310_PqYD_fa503e1a-c063-42d5-b4e3-5e2e8ffc8ca5_08KB.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T13:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
