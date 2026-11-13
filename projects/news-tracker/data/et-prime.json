@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T18:00:02+00:00",
+ "generated_at": "2026-11-13T18:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,18 +13,18 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,29 +68,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,40 +112,40 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
    "url": "https://economictimes.indiatimes.com/prime/transportation",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 5,
+   "fetched": 6,
+   "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 22:37:56 +0530",
+   "sample_date": "Fri, 13 Nov 2026 23:56:21 +0530",
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 21:58:34 +0530",
+   "sample_date": "Fri, 13 Nov 2026 23:35:31 +0530",
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 21:39:13 +0530",
+   "sample_date": "Fri, 13 Nov 2026 23:43:02 +0530",
    "error": null,
-   "checked_at": "2026-11-13T18:00:02+00:00"
+   "checked_at": "2026-11-13T18:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "096d80f329f5063f",
+   "title": "Reliance to invest ₹1 lakh crore in Andhra Pradesh, plans 3 lakh job opportunities with biogas plants",
+   "link": "https://www.livemint.com/companies/news/reliance-to-invest-rs-1-lakh-crore-in-andhra-pradesh-plans-3-lakh-job-opportunities-with-biogas-plants-11794593546518.html",
+   "summary": "Anant Ambani confirmed Reliance's planned ₹1 lakh crore investment in Andhra Pradesh to set up compressed biogas (CBG) plants. Ambani also said Jio would work with the Indian School of Agriculture to train farmers in rural areas.",
+   "published": "2026-11-13T18:26:21+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/PTI10-02-2026-000350B-0_1794594263210_rS5E_1794594356444_G3Se_0cf9cda1-7f43-4eb4-9272-24cfffcecc72_paxZ.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1e0908bd19351f83",
+   "title": "Tata Trusts feud deepens as Venu Srinivasan, Vijay Singh challenge Khambata's stand on listing, leadership",
+   "link": "https://www.livemint.com/companies/news/tata-trusts-feud-deepens-as-venu-srinivasan-vijay-singh-challenge-khambatas-stand-on-listing-leadership-11794592735269.html",
+   "summary": "Tata Trusts Vice-Chairmen Venu Srinivasan and Vijay Singh have hit back at Darius Khambata over Tata Sons’ proposed listing and N. Chandrasekaran’s reappointment, accusing him of presenting an incomplete account and questioning whether his opposition serves the Trusts’ interests.",
+   "published": "2026-11-13T18:23:50+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Tata_Trusts_Leadership_Portraits_1794593305098_oOH9_1794593388860_OyMk_ff0561cd-8346-4faa-b573-56567f13cfac_UIdK.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-13T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d8deaea890c88546",
+   "title": "Short-duration vs long-duration debt mutual funds: Where should you invest as interest rates are expected to rise now?",
+   "link": "https://www.livemint.com/money/personal-finance/shortduration-vs-long-duration-debt-mutual-funds-where-should-you-invest-as-interest-rates-are-expected-to-rise-now-11794590041347.html",
+   "summary": "Axis Mutual Fund expects another 50–75 bps of rate hikes and favours high-quality corporate bonds with 3–5-year maturities and short-duration debt strategies. It sees scope to add duration selectively as bond yields become more attractive.",
+   "published": "2026-11-13T18:13:02+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/GeminiGenerated_Image_i09inai09inai09i_179459018_1794590196547_9ypk_1794590196681_ifEs_5ff5437d-8c6c-4c3d-9d9d-c2e6b9f6741e_1zCJ.png",
+   "topics": [],
+   "first_seen": "2026-11-13T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "29a99d83667279ea",
+   "title": "YES Bank files SC review plea over AT-1 bonds: What does it mean for investors after stock's 15% rebound?",
+   "link": "https://www.livemint.com/market/stock-market-news/yes-bank-files-sc-review-plea-over-at-1-bonds-what-does-it-mean-for-investors-after-stocks-15-rebound-11794591968232.html",
+   "summary": "YES Bank has asked the Supreme Court to review its October 15 ruling against the write-down of ₹8,415 crore in AT-1 bonds. The move follows a bondholders’ trustee’s contempt petition seeking restoration of the bonds. The ruling has weighed on the bank’s capital outlook and share price.",
+   "published": "2026-11-13T18:05:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/ad8ddf96-7342-4c4c-9b84-cdadc262d78d_1792434312407_1794592219659_v0HV_1794592219806_c6Lo_3d8278eb-a5f2-4313-85d9-7c60bbe2907e_3ZAm.png",
+   "topics": [],
+   "first_seen": "2026-11-13T18:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "de7853aafa5ddb9f",
    "title": "KYC and KYB: Inside Pidilite, the company that turned Fevicol into a word for a strong bond – Part 1 of 3",
@@ -2138,7 +2212,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
    "summary": "",
    "published": "2026-11-12T23:00:02+00:00",
-   "source": "ET Prime: Fintech & BFSI",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11334,80 +11408,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/PTI11-08-2026-000123B-0_1794140153083_v65v_1794140177310_PqYD_fa503e1a-c063-42d5-b4e3-5e2e8ffc8ca5_08KB.jpg",
    "topics": [],
    "first_seen": "2026-11-08T13:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "178afe59582492e7",
-   "title": "Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026",
-   "link": "https://www.livemint.com/money/personal-finance/investing-in-hdfc-icici-pru-or-quant-mutual-funds-check-the-latest-changes-in-scheme-risk-ratings-in-november-2026-11794137598584.html",
-   "summary": "HDFC, ICICI Prudential, Quant, Aditya Birla Sun Life and Franklin Templeton have revised the risk-o-meters of several mutual fund schemes in November 2026. Here's what has changed and what investors should check before making decisions.",
-   "published": "2026-11-08T12:36:18+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Generated_Imge_yfcf48yfcf48yfcf_179413776_1794137769464_I0Ui_1794137769587_F1s4_148f58b6-362f-48ff-aceb-fc36433b8a51_EdQk.png",
-   "topics": [],
-   "first_seen": "2026-11-08T13:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c850bef7aac73096",
-   "title": "8th Pay Commission: Railway employees seek ₹69,000 minimum salary, 3.83 fitment factor and 6% annual increment",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-railway-employees-seek-69-000-minimum-salary-3-83-fitment-factor-and-6-annual-increment-11794127474474.html",
-   "summary": "Railway employees have sought a ₹69,000 minimum basic salary, 3.833 fitment factor, 6% annual increment and five promotions under the 8th Pay Commission. Their demands also include higher pensions, DA merger and faster restoration of commuted pension.",
-   "published": "2026-11-08T11:47:21+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Generated_Image_x8w1b1x8w1b1x8w1_1794137_1794137178622_blhh_1794137178817_wZIe_ca94635f-ebd2-4c36-bfa8-70a0de7aecc7_nvu0.png",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-08T12:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "49a21f8688fcbae6",
-   "title": "Global AI sell-off turns into India's gain as FPIs pump ₹46,000 crore in 5 sessions; will the buying spree sustain?",
-   "link": "https://www.livemint.com/market/stock-market-news/global-ai-sell-off-turns-into-indias-gain-as-fpis-pump-rs-46-000-crore-in-5-sessions-will-the-buying-spree-sustain-11794135940793.html",
-   "summary": "Foreign investors poured ₹45,970 crore into Indian equities in November, helping the Nifty 50 post its strongest weekly gain since February 2021 and lifting the rupee. Lower oil prices, resilient earnings and a retreat from AI-linked stocks helped make India more attractive.",
-   "published": "2026-11-08T11:31:31+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794212486969_5nvS_1794212492932_rfKc_19b4ade2-7448-4342-bf0b-c0e2e3b0941b_FhKf.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T12:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "47e718cc03c26af8",
-   "title": "Israeli carrier Israir in talks to purchase local rival Arkia",
-   "link": "https://www.livemint.com/companies/israeli-carrier-israir-in-talks-to-purchase-local-rival-arkia-11794137409790.html",
-   "summary": "ARKIA-M",
-   "published": "2026-11-08T11:30:09+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-   "topics": [],
-   "first_seen": "2026-11-08T12:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
