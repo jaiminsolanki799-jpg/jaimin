@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T10:00:02+00:00",
+ "generated_at": "2026-11-13T10:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
+   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 09:31:39 GMT",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,45 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "31d09c1dd91afb06",
+   "title": "Paytm gets RBI's in-principle nod to revive wallet business through new subsidiary",
+   "link": "https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary",
+   "summary": "Paytm’s subsidiary PPSL has received the RBI’s in-principle approval to issue prepaid instruments such as wallets, but it must submit a system audit report within six months.",
+   "published": "2026-11-13T10:20:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking",
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a3f479fef463c6d5",
+   "title": "Startup news and updates: daily roundup (November 13, 2026)",
+   "link": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-13-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, November 13, 2026.",
+   "published": "2026-11-13T10:12:10+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "79908e8e77eb5ed2",
    "title": "Paytm gets RBI’s in-principle nod for wallet licence",

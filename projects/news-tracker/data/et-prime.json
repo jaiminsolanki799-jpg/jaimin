@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T10:00:02+00:00",
+ "generated_at": "2026-11-13T10:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 4,
-   "items": 3,
+   "fetched": 5,
+   "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 15:01:07 +0530",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 14:42:05 +0530",
+   "sample_date": "Fri, 13 Nov 2026 15:40:51 +0530",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 15:15:06 +0530",
    "error": null,
-   "checked_at": "2026-11-13T10:00:02+00:00"
+   "checked_at": "2026-11-13T10:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "b65a57347b08afdd",
+   "title": "Is CoreWeave's movement signalling a return of the AI trade?",
+   "link": "https://economictimes.indiatimes.com/prime/is-coreweaves-movement-signalling-a-return-of-the-ai-trade/primearticleshow/135797443.cms",
+   "summary": "",
+   "published": "2026-11-13T10:30:02+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9740759555fb56e9",
+   "title": "KYC and KYB: Pidilite's margin keeps finding its way back, though costlier raw materials can knock it off course – Part 2 of 3",
+   "link": "https://economictimes.indiatimes.com/prime/kyc-and-kyb-pidilites-margin-keeps-finding-its-way-back-though-costlier-raw-materials-can-knock-it-off-course-part-2-of-3/primearticleshow/135752117.cms",
+   "summary": "",
+   "published": "2026-11-13T10:30:02+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b1927ef27ccd554d",
+   "title": "Circuit-to-circuit stock SC Agrotech declares 4:5 bonus, 1:10 stock split, dividend update; record date, other details",
+   "link": "https://www.livemint.com/market/stock-market-news/circuittocircuit-stock-sc-agrotech-declares-4-5-bonus-1-10-stock-split-dividend-update-record-date-other-details-11794564352785.html",
+   "summary": "SC Agrotech shares hit a 5% upper circuit, extending a sharp rally that included six upper circuits in a week. The company proposed a 4:5 bonus issue and a 1:10 stock split, subject to shareholder approval.&nbsp;",
+   "published": "2026-11-13T10:10:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/SC_Agrotech_Stock_Market_Rally_1794564549381_5STQ_1794564563088_Pg8z_11df9545-3261-4f93-87d7-fa4b4bfe7637_PT5b.png",
+   "topics": [],
+   "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "fa7174a1863dcf9a",
+   "title": "Looking for stocks to buy for 2027? HDFC Bank, Meesho, Paytm, Park Medi, LG Electronics - Ventura's top picks revealed",
+   "link": "https://www.livemint.com/market/stock-market-news/looking-for-stocks-to-buy-for-2027-hdfc-bank-meesho-paytm-park-medi-lg-electronics-venturas-top-picks-revealed-11794556121055.html",
+   "summary": "Ventura is watching HDFC Bank, Park Medi World, Paytm, LG Electronics India and Meesho for Samvat 2083, citing company-specific growth drivers and earnings potential. It favours businesses with strong balance sheets, execution and visible earnings.",
+   "published": "2026-11-13T10:01:48+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Ventura_Reveals_Five_Stocks_for_2027_1794562258996_x4Ut_1794562266231_NpCy_191ce6b6-197e-4815-a8f2-445457960e33_0JXF.png",
+   "topics": [],
+   "first_seen": "2026-11-13T10:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d69e34892d0f1bd3",
    "title": "Price hike for US Postal Service? Could add 11% surcharge for domestic priority mail, package deliveries in January",
@@ -209,6 +285,24 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/US-POLITICS-VOTE-MISSISSIPPI-16_1794562868184_WaUI_1794562882486_z4ej_a34d37f2-c53b-45a8-bd2e-57c54364f96b_6RKD.jpg",
    "topics": [],
    "first_seen": "2026-11-13T10:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3f394d80ec47da81",
+   "title": "Is CoreWeave's movement signalling a return of the AI trade?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFhqN05TTGowYWkyYkptaFY2RFVDUGtyanhFVTctUUZFeUFZQ2l0dkhmczhuM1RZR0M3YXZWTHVxcm5ZdkxKTHh1Tk9QLXR1RHhLWHR5QkZqWEs0akh4N0FJRVc5cFI0YVBNMEdiTmxHQUtZRWtHMUVYdklPWGVKVHNHWHN3blJOaDg0b2VVenlwaGZqWml5MDZzOVN4a0pzM0FteTQyb0NZbm9QQWR6Z3RPQWVwRjZLX0UxTWd0WnBGRTJsdmhrSTFRN3jSAcYBQVVfeXFMUFVFRTRfRFItQUQ0aWQzdk04RElIZERhWWFIMnhpWDJmS0ZXRm51UHQ1RDFWdGxvT3pHZDV4Y25wSVkzaWVtX01VVVpBa3NoTEd1Wk9vdmM2ZUhXVnVNdWN6aTNTZlZQZ2taRU1sZUNFRWdzTXNyQ0RHeXJIMEU1T1Rnamo3Y1hJQ3dNQVgtYmx2OUNZV1ZQS0F6aDlvVjdUQjRvSVppckdTVkVGekM1OWlWN3hWYW1fY3h6UERKb242eVdFc2JR?oc=5",
+   "summary": "",
+   "published": "2026-11-13T09:36:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T10:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11288,98 +11382,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Trading_2026_1794120748005_1QLs_1794120756154_T9vc_57f7d32e-6112-44a7-aa55-da7d0b7c95c5_Evlh.png",
    "topics": [],
    "first_seen": "2026-11-08T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7cc84d049eb84649",
-   "title": "₹10 lakh in PPF vs ₹10 lakh in NSC: How do maturity periods, returns and income tax benefits compare for investors?",
-   "link": "https://www.livemint.com/money/personal-finance/10-lakh-in-ppf-vs-10-lakh-in-nsc-how-do-maturity-periods-returns-and-income-tax-benefits-compare-for-investors-11794084008882.html",
-   "summary": "Compare ₹10 lakh investments in PPF and NSC in November 2026. Understand their latest interest rates, maturity periods, investment limits, Section 80C deductions, taxation rules and returns to choose the right government-backed savings scheme.",
-   "published": "2026-11-08T06:51:42+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/nsc_v_ppf_1794085474151_KJJB_1794085474296_1hRj_c65631dd-2534-4121-b832-46d870f579f7_vJRP.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-08T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2a0f9dcb28f17c13",
-   "title": "Singapore Airlines' $1.6 bn cabin revamp: Bigger beds, privacy door for business class, Sanjeev Kapoor’s thalis and more",
-   "link": "https://www.livemint.com/companies/news/singapore-airlines-1-6-bn-cabin-revamp-bigger-beds-privacy-door-for-business-class-sanjeev-kapoor-s-thalis-and-more-11794119291629.html",
-   "summary": "Singapore Airlines will invest more than S$2 billion to overhaul cabins across aircraft, with new products arriving from the second half of 2027. First class will feature double beds, business class privacy doors, and more than 100 updated dishes, including creations by Indian chef Sanjeev Kapoor.",
-   "published": "2026-11-08T06:46:21+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/singapore_1794119963717_z5Ox_1794119980174_GiAv_b2355ff3-4963-4209-be2a-8b8d3591e6e2_C4Ze.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "489e3259b74becb4",
-   "title": "Muhurat Trading Stock Picks 2026 for Diwali Special Session: HDFC AMC, SBI, TechM, 3 others | Upside seen up to 54%",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-stock-picks-2026-for-diwali-special-session-hdfc-amc-sbi-techm-3-others-upside-seen-up-to-54-11794103527940.html",
-   "summary": "Religare Broking has named eight stocks for Samvat 2083, citing company-specific growth drivers and potential earnings outperformance. The brokerage says investors should weigh fundamentals, valuations and risk.",
-   "published": "2026-11-08T06:40:00+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_Trading__8_Stocks_to_Buy_1794103965_1794103983426_loet_1794103983579_tI2I_2f459b42-f4e8-4432-8b25-95354c86bca2_mADR.png",
-   "topics": [],
-   "first_seen": "2026-11-08T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bb21659dc16c01c8",
-   "title": "Muhurat Trading 2026 prediction today for Nifty 50, Sensex, Bank Nifty on Diwali 2026 special session",
-   "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html",
-   "summary": "Indian markets are set for Muhurat trading on November 8, with analysts broadly positive after Nifty 50’s rally above 25,000. Some profit-taking or consolidation is possible.&nbsp;",
-   "published": "2026-11-08T06:29:07+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Muhurat_trading_1794119261740_BzAg_1794119261863_IEZt_4d4b29bb-ca8c-4f9d-ba48-62c97966a69e_AjWP.png",
-   "topics": [],
-   "first_seen": "2026-11-08T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5b91e658d3509b4f",
-   "title": "Adani Energy Solutions Step-Eleven says parent has funds to support power licence for proposed Noida data centre project",
-   "link": "https://www.livemint.com/companies/news/adani-energy-solutions-step-eleven-parent-has-funds-support-power-licence-proposed-noida-data-centre-project-investment-11794112060477.html",
-   "summary": "Adani Energy Solutions has reportedly responded to the Uttar Pradesh Electricity Regulatory Commission (UPERC) queries saying that its parent has ₹15,155.80 crore in adjusted net worth to support a proposed ₹211 crore Noida data centre power project.&nbsp;",
-   "published": "2026-11-08T06:25:12+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/FITCH-ADANI--0_1732893367416_1794118848167_ovAf_48195dff-d52d-4518-bbc8-eab256b9b575_dNdh.JPG",
-   "topics": [],
-   "first_seen": "2026-11-08T06:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
