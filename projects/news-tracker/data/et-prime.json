@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T08:00:02+00:00",
+ "generated_at": "2026-11-13T08:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,18 +68,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 12:43:01 +0530",
+   "sample_date": "Fri, 13 Nov 2026 13:29:26 +0530",
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 13:24:02 +0530",
+   "sample_date": "Fri, 13 Nov 2026 13:41:20 +0530",
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 13:22:10 +0530",
    "error": null,
-   "checked_at": "2026-11-13T08:00:02+00:00"
+   "checked_at": "2026-11-13T08:30:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "917879c40dea0e13",
+   "title": "Apollo Micro Systems shares: Why experts bet high on this multibagger defence stock after MSCI rejig? Target, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-why-experts-bet-high-on-this-multibagger-defence-stock-after-msci-rejig-target-stoploss-11794555639681.html",
+   "summary": "MSCI index rebalancing: Apollo Micro Systems shares are expected to benefit from the institutional inflow of up to ₹125 crore after the MSCI rejig, say experts",
+   "published": "2026-11-13T08:11:20+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Apollo_Micro_Systems_share_Defence_Stock_to_buy_1794555941835_ZFrR_1794555942155_wXYg_eb1420af-86e7-4d98-9c35-e219e51d679c_Riaa.png",
+   "topics": [],
+   "first_seen": "2026-11-13T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "253915e45bfabfb9",
+   "title": "Promoter holding at 3-year high, FII ownership at 14-year low: Did insiders buy what FIIs sold?",
+   "link": "https://www.livemint.com/market/stock-market-news/promoter-holding-at-3-year-high-fii-ownership-at-14-year-low-did-insiders-buy-what-fiis-sold-11794545962669.html",
+   "summary": "Private promoter ownership has risen for four straight quarters even as FII holding hits a 14-year low. But corporate actions complicate the picture, and insider buying alone may not signal a market bottom.",
+   "published": "2026-11-13T08:05:39+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/pexels-photo-16594725_1794556192560_tabp_1794556204231_x7EL_e9084fef-ff43-4a9f-982b-348bb0889bc0_yqzw.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-13T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d06a06154132585d",
+   "title": "How Jensen Huang transformed Nvidia into a tech giant: From gaming graphics to AI superpower",
+   "link": "https://www.livemint.com/companies/news/how-jensen-huang-transformed-nvidia-into-a-tech-giant-from-gaming-graphics-to-ai-superpower-11794556364635.html",
+   "summary": "Nvidia co-founder Jensen Huang transformed the company from a gaming graphics chipmaker into a global AI powerhouse. His early bet on GPUs, CUDA software and AI computing helped Nvidia become a critical supplier of chips and infrastructure powering the artificial intelligence boom.",
+   "published": "2026-11-13T07:59:26+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Nvidia_and_Huang_1794556694986_9t7Q_1794556699691_1MOi_5614160c-287b-409f-aba5-60a3a4032b42_2lY0.png",
+   "topics": [],
+   "first_seen": "2026-11-13T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2a710d02981748f8",
    "title": "Can Ola Electric’s pivot to dealership model hedge revenue decline?",
@@ -206,7 +260,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/OLA_2_1793104195468_N7F7_1793104201138_CuMm_736bb4de-b8fd-430a-8722-ec18b42971d2_paPj_1794554739727_0ASP_816be71d-8e86-466c-846b-8214ba86d425_Fv0p.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Ola_Electric_1794556641912_hKjl_1794556642060_cUZI_7eb20857-cc8f-4637-8d91-0236d47f4001_YyVw.JPG",
    "topics": [],
    "first_seen": "2026-11-13T08:00:02+00:00",
    "valuation_score": 0,
@@ -1203,7 +1257,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
    "summary": "",
    "published": "2026-11-12T23:00:02+00:00",
-   "source": "ET Prime: Fintech & BFSI",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11324,60 +11378,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Bull_Market_1794111259078_3YUy_1794111263691_Qn7X_a317a7b5-f8ee-4d7a-a38e-c6e087725dfb_HMF0.png",
-   "topics": [],
-   "first_seen": "2026-11-08T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "89506396b13b1cca",
-   "title": "Gold near interim bottom, but World Gold Council says three conditions associated with price recovery ‘already in place’",
-   "link": "https://www.livemint.com/money/gold-nears-interim-bottom-world-gold-council-broader-economy-three-historical-conditions-price-recovery-in-place-markets-11794108175909.html",
-   "summary": "The World Gold Council believes that while gold may be nearing an interim bottom, with three historical conditions already in place, the broader economic outlook supports a possible price recovery for the precious metal.&nbsp;",
-   "published": "2026-11-08T04:22:31+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/gold_equity_1794026322958_o2dy_1794026350788_jRtF__1794111460605_Hecj_1794111460738_sAKc_a72587e5-8e78-43b6-baea-d3019a45b732_YN0h.png",
-   "topics": [],
-   "first_seen": "2026-11-08T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1170a9735c314af7",
-   "title": "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under ₹100 — Suzlon, NHPC, South Bank by Sumeet Bagadia",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html",
-   "summary": "Diwali Muhurat trading 2026: Sumeet Bagadia believes the key benchmark indices Sensex and Nifty may end higher for the ninth straight ceremonial session",
-   "published": "2026-11-08T04:06:45+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/Diwali_Muhurat_Trading_2026_Samvat_2083_Stock_Pick_1794109656800_VHDA_1794109656947_iRgV_2b40c11a-3893-410a-8d47-18421745f930_Z67w.png",
-   "topics": [],
-   "first_seen": "2026-11-08T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f76b6a492e0a42ed",
-   "title": "Diwali 2026: Beware of instant loan offers on WhatsApp and social media; 5 ways to avoid loan app scams today",
-   "link": "https://www.livemint.com/money/personal-finance/diwali-2026-beware-of-instant-loan-offers-on-whatsapp-and-social-media-5-ways-to-avoid-loan-app-scams-today-11794108856970.html",
-   "summary": "Fake loan apps are targeting young borrowers with instant credit offers this Diwali 2026. Know how these digital lending scams work and follow five essential precautions to protect your money, personal information and financial security.",
-   "published": "2026-11-08T04:03:09+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/loan_app_scam_1794109493702_wkD4_1794109493860_6C6q_ce8bc7c0-7b92-4021-b532-1af0f8a22cab_Dg1k.png",
    "topics": [],
    "first_seen": "2026-11-08T04:30:01+00:00",
    "valuation_score": 0,
