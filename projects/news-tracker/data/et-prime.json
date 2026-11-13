@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T00:30:02+00:00",
+ "generated_at": "2026-11-13T01:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 04:52:38 +0530",
+   "sample_date": "Fri, 13 Nov 2026 06:00:47 +0530",
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 04:16:40 +0530",
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 12 Nov 2026 23:10:01 +0530",
    "error": null,
-   "checked_at": "2026-11-13T00:30:02+00:00"
+   "checked_at": "2026-11-13T01:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,32 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "232302fb3cc4660e",
+   "title": "Blackstone emerges frontrunner to buy Actis-owned BluPine at $1.8 billion valuation",
+   "link": "https://www.livemint.com/companies/news/blackstone-blupine-energy-acquisition-deal-11794486377121.html",
+   "summary": "For Blackstone, the acquisition deal for BluPine Energy, comes at a time when it has stepped up efforts to build a large infrastructure portfolio in India.",
+   "published": "2026-11-13T00:30:47+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/im-853406_1695059423377_1794493417358_Mo7z_1cdb2ae1-8216-4525-a5af-a2e110e710c5_qkiE.jpg",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-13T01:00:01+00:00",
+   "valuation_score": 10,
+   "valuation_signals": [
+    "Valuation",
+    "M&A",
+    "PE / VC"
+   ]
+  },
   {
    "id": "a74083ed0657301a",
    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south",
@@ -263,6 +287,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-13T00:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4606c71b43b46f10",
+   "title": "How India’s INR22.5 lakh crore gold loan boom is hiding a big hole",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM0lxaWVBS0swQ0haZEdNdk4tYzZIb1FDWW9icVdubTRMbkRVYnh0OUdGcWg4MUFPUU1MQTI0RXZSbW1vckIwaWdERjRwSkNTRFRwbm9BdmFzUGNLMjU3YWE0bW5mSHRiR2NjNkNwMnRyaC1ZU2RRVmk3R1dzZ3FXcUxpcnNybzQzX1lIQ1FwNDliZnJpRGlZWHZKOUxIWTFVY0U4UG44al9mZzJQUnFJandvWldBNzVPV25IZnFmamNUX2xpejc2aF84Y21JNlk1UndDMU9qZF84ajFNMnp2VnA5aWc4eTFzYTRqRdIB5gFBVV95cUxPUGVEdC1fcGRhY004bE4xSWs0ZHZ6RkRUQ1J6RXhpR1E2NmJ3bEdnLWJraHd4QngwbFlFTjlGcVgyQ1dYQWQ1VGg5Y0RSVlphcnhiUVB1NktqUTB2N2NqbTZaS0l3SlpvWXJ1aE1ERk1zdFpQX3FQLUJPYUNBYmJtVlpmNWMzZTJTVjQ4OUVyaE0zZnNKU2NqUFY3cU1UdTIxczd4bDl5THVPRVZMVjRlY2xYOGx1akhacDdRWktRTGVsem8zSGlNQTZVUTBpTUFzSjBDRlpxOFAzN1lxZ2t0NTlvQ3o3Zw?oc=5",
+   "summary": "",
+   "published": "2026-11-12T22:30:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T01:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11324,44 +11366,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Angan_Guha_wipro_1794042515230_H9id_1794042515351_dOEo_c27abdbb-2be1-44c1-ac63-fd8f923e4994_d2vT.jpg",
    "topics": [],
-   "first_seen": "2026-11-07T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "da8371f42b08810a",
-   "title": "Diwali 2026 Muhurat Trading: Celebrations aboard! Nifty gains in 12 out of 15 Muhurat sessions; check performance",
-   "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-celebrations-aboard-nifty-gains-in-12-out-of-15-muhurat-sessions-check-performance-11794040199490.html",
-   "summary": "Indian equities enter Samvat 2083 after a six-session recovery, renewed foreign investor buying and easing crude prices. Experts remain cautiously positive but warn of global and geopolitical risks. Muhurat trading has historically produced gains in most sessions.",
-   "published": "2026-11-07T09:07:34+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/Diwali_Muhurat_Trading__Nifty_1794042398288_CWZt_1794042406280_o99h_b85e2e22-48aa-4b9b-9358-ae7375a7cffd_zRhc.png",
-   "topics": [],
-   "first_seen": "2026-11-07T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3a69029aacb3709d",
-   "title": "Planning Diwali shopping on credit card EMI? 5 hidden costs to check before choosing no-cost EMI offers",
-   "link": "https://www.livemint.com/money/personal-finance/planning-diwali-shopping-on-credit-card-emi-5-hidden-costs-to-check-before-choosing-no-cost-emi-offers-11794036803416.html",
-   "summary": "Planning Diwali shopping with a credit card EMI? Check five hidden costs of no-cost EMI offers, including processing fees, GST on interest, lost instant discounts, foreclosure charges and credit limit impact, before converting festive purchases into monthly instalments.",
-   "published": "2026-11-07T09:06:34+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/fc5196d4-34cf-441f-a1c5-8b7c5a51958f_1794036988109_bQFY_1794036994779_Pj4G_ca8a5e30-7350-4551-a28f-5e50c5003176_v3F2.png",
-   "topics": [
-    "GST"
-   ],
    "first_seen": "2026-11-07T09:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
