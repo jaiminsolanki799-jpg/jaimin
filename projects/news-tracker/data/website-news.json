@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T21:30:07+00:00",
+ "generated_at": "2026-11-13T22:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T21:30:07+00:00"
+   "checked_at": "2026-11-13T22:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
    "error": null,
-   "checked_at": "2026-11-13T21:30:07+00:00"
+   "checked_at": "2026-11-13T22:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T21:30:07+00:00"
+   "checked_at": "2026-11-13T22:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T21:30:07+00:00"
+   "checked_at": "2026-11-13T22:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 20:07:24 +0000",
+   "sample_date": "Fri, 13 Nov 2026 21:44:38 +0000",
    "error": null,
-   "checked_at": "2026-11-13T21:30:07+00:00"
+   "checked_at": "2026-11-13T22:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "0c34c8f3387b63b7",
+   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+   "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+   "summary": "The Federal Aviation Administration grounded flights across the United States citing \"extraordinary circumstances\" and for \"reasons of safety.\"",
+   "published": "2026-11-13T21:44:38+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T22:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c407c87afb3e1969",
    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
@@ -115,7 +133,7 @@
   },
   {
    "id": "3dc626ea28ff3a7d",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
    "published": "2026-11-13T18:40:30+00:00",
