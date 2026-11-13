@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T05:00:01+00:00",
+ "generated_at": "2026-11-13T05:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 4,
-   "items": 4,
-   "sample_date": "Fri, 06 Nov 2026 05:01:20 GMT",
+   "fetched": 3,
+   "items": 3,
+   "sample_date": "Wed, 11 Nov 2026 04:51:37 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:00:01+00:00"
+   "checked_at": "2026-11-13T05:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 10:44:40 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:00:01+00:00"
+   "checked_at": "2026-11-13T05:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 12 Nov 2026 17:57:11 GMT",
+   "sample_date": "Fri, 13 Nov 2026 05:02:12 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:00:01+00:00"
+   "checked_at": "2026-11-13T05:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T05:00:01+00:00"
+   "checked_at": "2026-11-13T05:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 12 Nov 2026 22:42:51 +0000",
    "error": null,
-   "checked_at": "2026-11-13T05:00:01+00:00"
+   "checked_at": "2026-11-13T05:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "8f261c1c748609a0",
+   "title": "Best AI Video Generators in 2026: Adobe Creative Cloud vs Runway, Kling and Luma",
+   "link": "https://startuptalky.com/best-ai-video-generator-free-paid-comparison/",
+   "summary": "Adobe Creative Cloud Pro puts Firefly's AI video generation in the same subscription as Premiere, Photoshop and 20+ apps. Here is how it compares with Runway, Kling and Luma on price and commercial use.",
+   "published": "2026-11-13T05:02:12+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/best-ai-video-generator-free-paid-comparison-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-13T05:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "610ed7fa4a03cd57",
+   "title": "Desible.ai raises Rs 32 Cr led by Prime Venture Partners",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2xQaHZEcFJWNmI2ZEl2VzRlTDZCLTNrbXZ5ZFRnSFc1a3dDXzRYRW50WHVOZW9rU01UR0VLeUItX0NDdFZKN0RZMW0yLW1UU3JHcEFfX2h5OUxnNnZ2eVJjcl9XcW1ZN1JmSTJ5SVB1dHUxa19WRjBFR0ViV2FGSEduZ3NyV1N0UkJKSjE2a2JLa0o1bkUxN2NR0gGaAUFVX3lxTFBfbFBodkRwUlY2YjZkSXZXNGVMNkItM2ttdnlkVGdIVzVrd0NfNFhFbnRYdU5lb2tTTVRHRUt5Qi1fQ0N0Vko3RFkxbTItbVRTckdwQV9faHk5TGc2dnZ5UmNyX1dxbVk3UmZJMnlJUHV0dTFrX1ZGMEVHRWJXYUZIR25nc3JXU3RSQkpKMTZrYktrSjVuRTE3Y1E?oc=5",
+   "summary": "",
+   "published": "2026-11-13T04:58:53+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T05:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "64266eb13ec64d65",
+   "title": "Exclusive: Baaz Bikes to kick off Series B round led by BIG Capital",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ21kWUlwYkJrcFQ1bUJfQ25aVlRWUFJNTUZEUTFsZ3BQdEdOVkpyQWUzeEZ3TktaMzk4ek5vaVNSSzJUTkRKbmR4b2dSOFN3VGFucG45R282TXJpQTNHZHN6TU92REFCQUVDSEhmZnJpLXB4S2hvSXBmdnlLaW9DNkpnajVHeG03ektSYnRZNWtnZ1pIZmMyV04xWWFrR2JxeW9CSGk4dUVzUdIBqgFBVV95cUxPZ21kWUlwYkJrcFQ1bUJfQ25aVlRWUFJNTUZEUTFsZ3BQdEdOVkpyQWUzeEZ3TktaMzk4ek5vaVNSSzJUTkRKbmR4b2dSOFN3VGFucG45R282TXJpQTNHZHN6TU92REFCQUVDSEhmZnJpLXB4S2hvSXBmdnlLaW9DNkpnajVHeG03ektSYnRZNWtnZ1pIZmMyV04xWWFrR2JxeW9CSGk4dUVzUQ?oc=5",
+   "summary": "",
+   "published": "2026-11-13T04:58:16+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T05:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "ae44097b7e451b69",
    "title": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M",
