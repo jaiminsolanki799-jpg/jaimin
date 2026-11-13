@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T16:30:06+00:00",
+ "generated_at": "2026-11-13T17:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T16:30:06+00:00"
+   "checked_at": "2026-11-13T17:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
+   "sample_date": "Fri, 13 Nov 2026 06:31:48 GMT",
    "error": null,
-   "checked_at": "2026-11-13T16:30:06+00:00"
+   "checked_at": "2026-11-13T17:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T16:30:06+00:00"
+   "checked_at": "2026-11-13T17:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T16:30:06+00:00"
+   "checked_at": "2026-11-13T17:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 16:00:12 +0000",
    "error": null,
-   "checked_at": "2026-11-13T16:30:06+00:00"
+   "checked_at": "2026-11-13T17:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,26 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "d29dd505afadc43d",
+   "title": "SoftBank sells 1.65% stake in Meesho for Rs 1,885 Cr through block deal",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXBLQ0lkT0tfb0NSQ3VNTjRGdkhFVUFYQm1hdHFJeXltTXVTQjFYN21rcW9qYi1IcnFHem40bDZlSkc1REcxVXhIVDUtNGl2SThWdms4Nl9yd00tMkN1cFVTN2ZxOE1iSERHX3lqOGVUcU8tdkJHSnFydE9wZ1NBb21NbHRqWFhld0xQM2N2R3JLYWxZSWpHZjd6bFZHaUJqemdBc1BB0gGmAUFVX3lxTE81cEtDSWRPS19vQ1JDdU1ONEZ2SEVVQVhCbWF0cUl5eW1NdVNCMVg3bWtxb2piLUhycUd6bjRsNmVKRzVERzFVeEhUNS00aXZJOFZ2azg2X3J3TS0yQ3VwVVM3ZnE4TWJIREdfeWo4ZVRxTy12QkdKcXJ0T3BnU0FvbU1sdGpYWGV3TFAzY3ZHckthbFlJakdmN3psVkdpQmp6Z0FzUEE?oc=5",
+   "summary": "",
+   "published": "2026-11-13T16:55:01+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T17:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
   {
    "id": "c231d25e54b9ad3f",
    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
