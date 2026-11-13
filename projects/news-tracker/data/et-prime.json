@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-13T12:00:01+00:00",
+ "generated_at": "2026-11-13T12:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 17:01:40 +0530",
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 17:26:12 +0530",
+   "sample_date": "Fri, 13 Nov 2026 17:53:53 +0530",
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 13 Nov 2026 17:10:08 +0530",
    "error": null,
-   "checked_at": "2026-11-13T12:00:01+00:00"
+   "checked_at": "2026-11-13T12:30:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "71e453714dc90db0",
+   "title": "Microsoft shares fall nearly 3% in pre-market as global outage hits Outlook, Teams and Copilot; what went wrong?",
+   "link": "https://www.livemint.com/market/stock-market-news/microsoft-shares-fall-nearly-3-in-pre-market-as-global-outage-hits-outlook-teams-and-copilot-what-went-wrong-11794570500283.html",
+   "summary": "A global Microsoft outage lasting more than 12 hours disrupted Outlook, Teams, Copilot and other Microsoft 365 services across more than 70 countries.",
+   "published": "2026-11-13T12:23:53+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Microsoft_world_outage_1794561407022_3Zho_17945614_1794570900145_TzDy_1794570900306_LFi9_b9922c86-eb60-40c2-b3be-fc81eb0a0df5_csY6.png",
+   "topics": [],
+   "first_seen": "2026-11-13T12:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e1b3a1cc93187c94",
+   "title": "ideaForge Technology shares: Drone stock gains 53% in a year, but should you buy now? Check targets, support, stop loss",
+   "link": "https://www.livemint.com/market/stock-market-news/ideaforge-technology-shares-drone-stock-gains-53-in-a-year-but-should-you-buy-now-check-targets-support-stop-loss-11794564183048.html",
+   "summary": "ideaForge returned to profitability in Q2 FY27, posting a net profit of ₹6.5 crore as revenue rose 124% year-on-year to ₹91 crore. Analysts gave mixed technical views: some cited potential gains toward ₹900, while others advised caution until the stock clears resistance near ₹728–735.",
+   "published": "2026-11-13T12:09:31+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/ideaForge_Shares__1794564655791_t4db_1794564661612_gVtX_798f1c51-ada4-48ab-96e1-32ec96195b5c_Fdg7.png",
+   "topics": [],
+   "first_seen": "2026-11-13T12:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "26d0a913d033599b",
    "title": "Haldiram IPO in making: Namkeen to D-Street, snack giant eyes stock market debut - Check listing timeline, valuation",
@@ -11353,42 +11389,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/metro_station_1794126461956_ZytI_1794126466404_20P6_9a79e0c9-95bc-4075-acea-5c9727c8827a_C3du.png",
    "topics": [],
    "first_seen": "2026-11-08T09:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3e74b7bad8cf9156",
-   "title": "Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds",
-   "link": "https://www.livemint.com/money/personal-finance/top-small-cap-mutual-funds-quant-beats-nippon-sbi-and-hdfc-with-24-98-10-year-sip-returns-check-top-5-funds-11794124381818.html",
-   "summary": "Small-cap mutual funds topped equity categories over 10 years, but returns varied among the largest schemes. Quant Small Cap led with 24.98% SIP returns, while SBI and HDFC delivered less than 18%, despite managing over ₹40,000 crore each.",
-   "published": "2026-11-08T08:28:07+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Gemini_Geneated_Image_ycvjabycvjabycvj_179412474_1794124760019_XtTF_1794124760130_UnJH_ee42e3cb-4817-4df6-bdef-7ef208ec5067_O8bI.png",
-   "topics": [],
-   "first_seen": "2026-11-08T09:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "54fa6b975080c8d0",
-   "title": "Buying gold or silver this Diwali? Which precious metal offers bigger upside in Samvat 2083? Check targets, strategy",
-   "link": "https://www.livemint.com/market/commodities/buying-gold-or-silver-this-diwali-which-precious-metal-offers-bigger-upside-in-samvat-2083-check-targets-strategy-11794124125357.html",
-   "summary": "Religare Broking’s Diwali 2026 report recommends accumulating gold at ₹1,30,000–1,35,000 per 10 grams and silver at ₹1,50,000–1,63,000 per kg. It sets targets and support levels for both metals.",
-   "published": "2026-11-08T08:12:26+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/Diwali_Gold_and_Silver_Investment_Outlook_17941254_1794125447703_v4kw_1794125447859_clqa_a2de8d6e-33cf-4bb4-a1e6-7f4376792e2d_JeI7.png",
-   "topics": [],
-   "first_seen": "2026-11-08T08:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
