@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-13T20:00:03+00:00",
+ "generated_at": "2026-11-13T20:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:41:07 GMT",
    "error": null,
-   "checked_at": "2026-11-13T20:00:03+00:00"
+   "checked_at": "2026-11-13T20:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
+   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
    "error": null,
-   "checked_at": "2026-11-13T20:00:03+00:00"
+   "checked_at": "2026-11-13T20:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-13T20:00:03+00:00"
+   "checked_at": "2026-11-13T20:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Thu, 12 Nov 2026 05:20:57 GMT",
    "error": null,
-   "checked_at": "2026-11-13T20:00:03+00:00"
+   "checked_at": "2026-11-13T20:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 19:37:57 +0000",
+   "sample_date": "Fri, 13 Nov 2026 20:07:24 +0000",
    "error": null,
-   "checked_at": "2026-11-13T20:00:03+00:00"
+   "checked_at": "2026-11-13T20:30:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "c407c87afb3e1969",
+   "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+   "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+   "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+   "published": "2026-11-13T20:07:24+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-13T20:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "645e798427f902eb",
    "title": "AI agent startup LangChain hits $3B valuation",
