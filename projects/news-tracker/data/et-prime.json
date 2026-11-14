@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T00:30:06+00:00",
+ "generated_at": "2026-11-14T01:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 01:00:50 +0530",
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 01:28:34 +0530",
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 13 Nov 2026 23:43:02 +0530",
+   "sample_date": "Sat, 14 Nov 2026 06:19:17 +0530",
    "error": null,
-   "checked_at": "2026-11-14T00:30:06+00:00"
+   "checked_at": "2026-11-14T01:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "48b3c24aa220c553",
+   "title": "8th Pay Commission: 5 latest official website updates central government employees and pensioners should know",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-5-latest-official-website-updates-central-government-employees-and-pensioners-should-know-11794615434655.html",
+   "summary": "The 8th Pay Commission has published several important notices on its official website. Here are 5 latest updates covering stakeholder meetings, consultant recruitment and regional consultations that central government employees and pensioners should know as they await salary and pension revision.",
+   "published": "2026-11-14T00:49:17+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/8th_pay_1794615618422_TLSb_1794615618564_k0Y9_564df38e-0649-4645-b69f-459e9422c3d2_taDq.jpg",
+   "topics": [],
+   "first_seen": "2026-11-14T01:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e3a84ba5fc93d27a",
    "title": "Wall St slides as Nvidia uncertainty drags tech shares lower",
@@ -11384,26 +11402,6 @@
    "valuation_signals": [
     "Buyback & payout"
    ]
-  },
-  {
-   "id": "e0ab77c33f9c2113",
-   "title": "₹3 lakh per year? Can parents invest ₹1.5 lakh each in their child’s PPF account? Income Tax rules, limits explained",
-   "link": "https://www.livemint.com/money/personal-finance/rs-3-lakh-per-year-can-parents-invest-1-5-lakh-each-in-their-child-s-ppf-account-income-tax-rules-limits-explained-11794115064893.html",
-   "summary": "Investors sometimes misunderstand the limits when making deposits in their child's public provident fund account. Here's how much each parent can invest for their child while keeping the annual contribution tax-free.&nbsp;",
-   "published": "2026-11-08T15:11:27+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/PPF_scheme_1780649309045_1780649314549_c0d09914-b103-4657-98fd-bd86b7b27a61_1794121247119_kEiB_609070c5-e0b2-4ae9-95ed-0cfccf4721f7_9IaE.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-08T15:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
