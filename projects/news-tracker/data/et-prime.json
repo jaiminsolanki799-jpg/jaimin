@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T06:00:03+00:00",
+ "generated_at": "2026-11-14T06:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
-   "items": 3,
+   "fetched": 6,
+   "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 10:28:14 +0530",
+   "sample_date": "Sat, 14 Nov 2026 11:38:08 +0530",
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 11:21:55 +0530",
+   "sample_date": "Sat, 14 Nov 2026 11:53:18 +0530",
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 11:22:00 +0530",
    "error": null,
-   "checked_at": "2026-11-14T06:00:03+00:00"
+   "checked_at": "2026-11-14T06:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,67 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "2679cff67e3e8136",
+   "title": "Rekha Jhunjhunwala stock VA Tech Wabag: ₹2,400 cr Saudi project cancelled - Should you buy after 18% rise in 6 months?",
+   "link": "https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-stock-va-tech-wabag-rs-2-400-cr-saudi-project-cancelled-should-you-buy-after-18-rise-in-6-months-11794636173819.html",
+   "summary": "Rekha Jhunjhunwala portfolio stock VA Tech Wabag said Saudi Water Authority cancelled its approximately ₹2,400 crore Yanbu desalination project for internal reasons.&nbsp;",
+   "published": "2026-11-14T06:23:18+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/VA_Tech_Wabag_Saudi_Project_Cancelled_179463728779_1794637299927_WoOj_1794637300177_vQTS_d5afa64f-1e4d-4609-a3eb-0950e6ee2a47_0cOC.png",
+   "topics": [],
+   "first_seen": "2026-11-14T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "841c8ff0659a5d00",
+   "title": "Germany Has an Edge in a Lower Oil Price World: Taking Stock",
+   "link": "https://www.livemint.com/market/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock-11794636529660.html",
+   "summary": "The German stock market has a lot going for it right now, with lower oil prices and a broadening rally from software to chemicals and consumer stocks powering the country’s shares.",
+   "published": "2026-11-14T06:08:49+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-14T06:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "85300de496e5a8de",
+   "title": "Google invests ₹10 crore in creator economy and micro-drama startup Rigi, valuation reaches ₹670 crore — Details",
+   "link": "https://www.livemint.com/companies/news/google-invests-rs-10-crore-in-creator-economy-and-micro-drama-startup-rigi-valuation-reaches-rs-670-crore-details-11794629036334.html",
+   "summary": "Google International invested ₹10 crore in creator-economy startup Rigi for a 1.43% stake, valuing the company at ₹670 crore. Rigi plans to use the funding to expand its free, ad-supported digital content and entertainment offerings.",
+   "published": "2026-11-14T06:08:08+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/investment_1731737985428_1794635928945_kR8i_2c88692b-cca1-40ac-9600-ee06796ca7ba_ZBrF.PNG",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-14T06:30:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
   {
    "id": "0674286f41ca000a",
    "title": "OPS pension denied after switching universities: How retired professor won legal battle in Karnataka High Court?",
@@ -11354,60 +11413,6 @@
    "valuation_signals": [
     "Ratings"
    ]
-  },
-  {
-   "id": "1329853b0fac464e",
-   "title": "DA hike news: Uttar Pradesh govt increases dearness allowance by 3% for employees — Check who is eligible",
-   "link": "https://www.livemint.com/money/da-hike-uttar-pradesh-increase-dearness-allowance-3-pc-govt-employees-63-pc-pay-arrears-eligible-local-body-educational-11794189562194.html",
-   "summary": "DA hike news: Uttar Pradesh has raised dearness allowance for eligible state govt employees by 3%, from 60% to 63% of basic pay, effective July 1, 2026. Enhanced DA will be paid with November's salaries.&nbsp;",
-   "published": "2026-11-09T03:27:35+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794194693287_J7EA_1794194693412_eBZi_8db808e5-ea89-472f-9a7a-00f99a0e75d6_Nu1R.png",
-   "topics": [],
-   "first_seen": "2026-11-09T03:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "165b90e21c5bec1f",
-   "title": "Stock to buy: Elara Capital recommends this oil share amid volatility in crude oil prices | Check target, upside",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-elara-capital-recommends-oil-stock-ongc-sees-38-upside-potential-check-target-rationale-11794191153266.html",
-   "summary": "Stock to buy: The brokerage firm has given a target price of ₹320 per share, seeing an upside potential of up to 38%.",
-   "published": "2026-11-09T03:17:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/ongc_1794194184213_X7xO_1794194184320_k8Kn_6c9d2ee7-4799-4474-9459-3b5825e15045_NbNl.png",
-   "topics": [],
-   "first_seen": "2026-11-09T03:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0c748bfb62971541",
-   "title": "Indian shares likely to open higher on lower crude prices, foreign inflow optimism",
-   "link": "https://www.livemint.com/market/stock-market-news/indian-shares-likely-to-open-higher-on-lower-crude-prices-foreign-inflow-optimism-11794192777447.html",
-   "summary": "The benchmark Nifty 50 and the BSE Sensex edged lower in a special Diwali session on Sunday, as they consolidated after a seven-session winning streak.",
-   "published": "2026-11-09T02:55:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/INDIA-EQUITIES-TAXATION-0_1793369322625_KCuQ_17933_1794192831543_0BAr_1794192831745_boun_101ceb2e-0063-4cd4-a0e5-42169dd7a577_0Cnf.JPG",
-   "topics": [],
-   "first_seen": "2026-11-09T03:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
