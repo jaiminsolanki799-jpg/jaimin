@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T06:30:01+00:00",
+ "generated_at": "2026-11-14T07:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 11:38:08 +0530",
+   "sample_date": "Sat, 14 Nov 2026 12:24:08 +0530",
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 11:53:18 +0530",
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 11:22:00 +0530",
    "error": null,
-   "checked_at": "2026-11-14T06:30:01+00:00"
+   "checked_at": "2026-11-14T07:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "62bf70575ffe45af",
+   "title": "Adani denies lowering Tarali PSP cost to reduce statutory obligations, says figure solely for onsite investigations",
+   "link": "https://www.livemint.com/companies/news/adani-group-green-energy-denies-lower-tarali-psp-cost-to-reduce-statutory-obligation-figure-solely-onsite-investigations-11794636744060.html",
+   "summary": "Adani Group said the ₹56.75 crore figure in a clearance proposal for its Tarali PSP covered only preliminary surveys, not the full project cost of ₹5,675 crore and rejected allegations it is seeking to reduce conservation obligations.&nbsp;",
+   "published": "2026-11-14T06:54:08+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/FITCH-ADANI--0_1732893367416_1794638761472_DO0Y_4dba33a8-fa31-4c1e-9df0-a899e4b24f8a_RoGS.JPG",
+   "topics": [],
+   "first_seen": "2026-11-14T07:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2679cff67e3e8136",
    "title": "Rekha Jhunjhunwala stock VA Tech Wabag: ₹2,400 cr Saudi project cancelled - Should you buy after 18% rise in 6 months?",
@@ -11393,26 +11411,6 @@
    "first_seen": "2026-11-09T04:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "4a5a6ce48f4a769e",
-   "title": "Maharaja Club members can now earn Air India flight upgrades through premium lifestyle e-commerce purchases — Here’s how",
-   "link": "https://www.livemint.com/companies/news/maharaja-club-members-can-now-earn-air-india-flight-upgrades-through-premium-lifestyle-e-commerce-purchases-here-s-how-11794191299327.html",
-   "summary": "Available retail categories at The Maharaja Shop include electronics, luggage, travel accessories, home essentials, wellness products, watches, and jewellery",
-   "published": "2026-11-09T03:39:50+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Maharaja-Shop_1794195422284_8xoe_1794195434663_ic1F_a420e50e-b42e-49df-a1a0-2c66b4b440b2_WAax.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T04:00:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Ratings"
-   ]
   }
  ]
 }
