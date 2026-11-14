@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T02:00:02+00:00",
+ "generated_at": "2026-11-14T02:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
-   "items": 3,
+   "fetched": 6,
+   "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 07:00:58 +0530",
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 07:00:14 +0530",
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 06:19:17 +0530",
+   "sample_date": "Sat, 14 Nov 2026 07:37:30 +0530",
    "error": null,
-   "checked_at": "2026-11-14T02:00:02+00:00"
+   "checked_at": "2026-11-14T02:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "04d93cb1e8d26a84",
+   "title": "Who qualifies for family pension? Government clarifies ₹9,000 income limit, spouse exemption and dependency rules",
+   "link": "https://www.livemint.com/money/personal-finance/who-qualifies-for-family-pension-government-clarifies-9-000-income-limit-spouse-exemption-and-dependency-rules-11794616431621.html",
+   "summary": "The government has clarified family pension eligibility rules, explaining income limits for eligible family members, exemptions for legally wedded spouses and dependency requirements for daughters, dependent parents and siblings with disabilities.",
+   "published": "2026-11-14T02:07:30+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/exi_1794620994450_9Ra0_1794621001028_RSWa_c261fd0d-a3c6-47e7-9094-350671ff2f31_ZxBR.png",
+   "topics": [],
+   "first_seen": "2026-11-14T02:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4e34725b425726ac",
+   "title": "8th Pay Commission: How 3.61, 3.833 and 4.38 fitment factor demands could change salaries across different salary levels",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-3-61-3-833-and-4-38-fitment-factor-demands-could-change-salaries-across-different-salary-levels-11794619529278.html",
+   "summary": "The 8th Pay Commission is considering stakeholder representations on salary revisions, while several prominent employee unions have proposed fitment factors of 3.61, 3.833 and 4.38. Here is how these demands could affect basic pay across Levels 1, 6 and 18.",
+   "published": "2026-11-14T02:02:34+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/12a7642e-8703-4c9b-900e-dd867e305416_1794620370341_OIjk_1794620374532_xhJe_d4a79556-fcb5-48aa-a6c2-366cdd756385_zpsa.png",
+   "topics": [],
+   "first_seen": "2026-11-14T02:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dbb76b074cf9bf52",
+   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches closed on 14 November for second Saturday? Check RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-canara-pnb-branch-closed-14-november-india-second-saturday-weekend-check-rbi-calendar-11794620664332.html",
+   "summary": "Bank holiday today: SBI, HDFC Bank, ICICI Bank, Canara Bank and Punjab National Bank branches will be closed on 16 days this month, including regional holidays and weekend offs, as per the RBI calendar. &nbsp;",
+   "published": "2026-11-14T01:57:25+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/ii_1788051824377_1788051834963_bf813610-c40c-4da6-bd7b-3fbc6564b4ac_1794621217768_ahGh_3fafa9c8-1e62-4f9e-9816-cf943362df2f_eAvG.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-14T02:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3097ca4cf889cb48",
    "title": "China's BYD clears import hurdle, looks to accelerate India push",
@@ -11342,60 +11398,6 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
    "topics": [],
    "first_seen": "2026-11-09T00:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8d02b882b0598054",
-   "title": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
-   "link": "https://www.livemint.com/companies/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity-11794169375335.html",
-   "summary": "Nvidia Corp.’s board is launching an investigation into whether Chief Executive Officer Jensen Huang was targeted by a foreign espionage plot after he admitted to employees that he was unfaithful to his wife.",
-   "published": "2026-11-08T20:22:54+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794216989419_YvMk_1794216993801_vWgd_f9f29296-3a4b-4876-82c6-87edb5a0d792_WdCk.jpg",
-   "topics": [],
-   "first_seen": "2026-11-08T20:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "09c8f58a642341eb",
-   "title": "Canva’s layoff package wins praise on LinkedIn: 6 months’ salary, 12 months’ healthcare, free MacBook and career support",
-   "link": "https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html",
-   "summary": "The Australian design platform's restructuring will affect 1,271 employees, or 22% of its total workforce.",
-   "published": "2026-11-08T17:50:12+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/08/1600x900/logo/canva_1794146306697_l6Bp_1794146316031_4i2D_df27b1d9-0659-4739-820d-9e7136f4eec5_HCJ2.png",
-   "topics": [],
-   "first_seen": "2026-11-08T18:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2440cf96a0e99ea3",
-   "title": "No credit history at 30: How first-time borrowers can build a healthy credit profile and improve future loan eligibility",
-   "link": "https://www.livemint.com/money/personal-finance/no-credit-history-at-30-how-first-time-borrowers-can-build-a-healthy-credit-profile-and-improve-future-loan-eligibility-11793739225423.html",
-   "summary": "Turning 30 without a credit history? First-time borrowers can build a healthy credit profile by starting with manageable credit, paying EMIs on time, maintaining low credit utilisation and monitoring their credit reports regularly.",
-   "published": "2026-11-08T16:50:51+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/01a4bc70-bf4e-47d2-a30d-e19f46a72ea5_1793739729393_645o_1793739734556_VhYV_56cc9583-ab27-479b-95a1-ab5df4e77213_otfH.png",
-   "topics": [],
-   "first_seen": "2026-11-08T17:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
