@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T09:30:01+00:00",
+ "generated_at": "2026-11-14T10:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 14:33:10 +0530",
+   "sample_date": "Sat, 14 Nov 2026 15:04:15 +0530",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 14:26:49 +0530",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 14:46:43 +0530",
+   "sample_date": "Sat, 14 Nov 2026 15:23:20 +0530",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "a16ce513d393ed58",
+   "title": "Income tax on gifts: What qualifies as movable property, how gifts are taxed, when exemptions are available? Explained",
+   "link": "https://www.livemint.com/money/personal-finance/income-tax-on-gifts-what-qualifies-as-movable-property-how-gifts-are-taxed-when-exemptions-are-available-explained-11794647582978.html",
+   "summary": "Not all gifts are tax-free under the Income-tax Act, 2025. Certain movable assets can attract tax depending on their value and the relationship between the giver and recipient. Here is what taxpayers should know about the rules, exemptions and possible tax liability.",
+   "published": "2026-11-14T09:53:20+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/incoem_ee_1794648707323_FCGZ_1794648712725_JOJl_3ba84398-1bd1-461e-b3ca-e4089fe02456_zNKh.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-14T10:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9499d253bb35771f",
+   "title": "Kiran Mazumdar-Shaw believes the Microsoft outage creates opportunity for homegrown suite Zoho — here's how",
+   "link": "https://www.livemint.com/companies/kiran-mazumdar-shaw-believe-microsoft-outage-how-create-opportunity-sridhar-vembu-zoho-offer-homegrown-alternative-suite-11794645738571.html",
+   "summary": "Biocon founder Kiran Mazumdar-Shaw believes the recent Microsoft outage creates opportunity for Sridhar Vembu-led Zoho to offer homegrown alternatives to the office suite provider. Here's how…&nbsp;",
+   "published": "2026-11-14T09:34:15+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Kiran_Mazumdar_Shaw_Mint_Microsft_Bloomberg_179464_1794648749486_FIqi_1794648749653_gaI9_d71bcf21-55b3-43ca-9c9a-7b8f80d7de8a_X5Xi.jpg",
+   "topics": [],
+   "first_seen": "2026-11-14T10:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9e05610120709aea",
    "title": "₹10,000 monthly SIP in a mutual fund vs Post Office RD: Which builds a bigger corpus in 5 years? Check calculations",
@@ -11380,42 +11418,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/a184b4af-dd10-4dcf-a1cd-35549974805f_1794202024420_XTBu_1794202037034_Ji1g_e8148730-077b-4009-8077-96a9be83b29d_rokr.png",
-   "topics": [],
-   "first_seen": "2026-11-09T06:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9c65b57f5508b8d1",
-   "title": "What the global AI rout means for India",
-   "link": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
-   "summary": "India has only a few companies building AI models, and the rout could make them harder to fund. Of the 84 leading private AI companies identified by Goldman Sachs in October, only seven focus on models, model training, or AI integration",
-   "published": "2026-11-09T06:07:54+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/AI-CHINA-CONTROLS-0_1793872359600_Lmua_17938723861_1794203551504_KxXq_1794203551626_UL4v_db9f9e7b-80f6-440a-b77f-75c7a4aa0d86_poN6.JPG",
-   "topics": [],
-   "first_seen": "2026-11-09T06:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "126abf946cf87783",
-   "title": "Up 118% in 6 months! This volume shocker pharma stock skyrockets 14% despite weak trends on Dalal Street Do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/up-118-in-6-months-this-volume-shocker-pharma-stock-skyrockets-14-despite-weak-trends-on-dalal-street-do-you-own-11794204037727.html",
-   "summary": "IOL Chemicals and Pharmaceuticals shares surged nearly 14% in Monday trading as volume jumped more than eightfold. The rally followed quarterly results showing net profit more than doubling to ₹65.03 crore and revenue rising to ₹795.03 crore.",
-   "published": "2026-11-09T06:04:04+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/ggsh_1794204164987_Q1ba_1794204173583_rKLt_fd963a85-0940-4d50-8447-799584fe38aa_BARY.png",
    "topics": [],
    "first_seen": "2026-11-09T06:30:02+00:00",
    "valuation_score": 0,

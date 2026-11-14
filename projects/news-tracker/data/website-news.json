@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T09:30:01+00:00",
+ "generated_at": "2026-11-14T10:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 26,
-   "items": 26,
-   "sample_date": "Fri, 13 Nov 2026 09:32:14 GMT",
+   "fetched": 24,
+   "items": 24,
+   "sample_date": "Fri, 13 Nov 2026 04:58:16 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T09:30:01+00:00"
+   "checked_at": "2026-11-14T10:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
   {
    "id": "21d2d475963950a9",
@@ -7865,44 +7865,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "Results"
-   ]
-  },
-  {
-   "id": "03ffb19d1ddbf633",
-   "title": "Ottonomy",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DbUlzSUN5QnlnZDZXWFdsTG9VLVY2LTVYbmkxSkFzSVBCYnlHYm40U0JBTkFkYUJhaFY2OGl5SkFvNzl3aVRONTRR?oc=5",
-   "summary": "",
-   "published": "2026-11-04T09:49:03+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1960638f03e049a6",
-   "title": "Enrission India Capital participates in Ottonomy’s Rs 40.6 Cr funding round",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUMwNm0tX2o3azU0djZta21HVzB3SmR0cFl0YXFFQjlFMEJzVnBsWmlyVjFsN2dISVJVV0lKN0VYaXRvZ0Vab3o2cVJDX1ktc2tiaDZfeS00Q0tiUU5ZNXJhSGdyQThZU0dFd3pLak9TZEZFVm1YRzUtcmRKYjJvV1A2bWdHTW9xQVFGU3Q2NTA1Yl9VMmxzTGNpSGtGN0F1WXFXQkRhQ1IxOU9nQTFFamVB0gGyAUFVX3lxTE1pQzA2bS1fajdrNTR2Nm1rbUdXMHdKZHRwWXRhcUVCOUUwQnNWcGxaaXJWMWw3Z0hJUlVXSUo3RVhpdG9nRVpvejZxUkNfWS1za2JoNl95LTRDS2JRTlk1cmFIZ3JBOFlTR0V3ektqT1NkRkVWbVhHNS1yZEpiMm9XUDZtZ0dNb3FBUUZTdDY1MDViX1UybHNMY2lIa0Y3QXVZcVdCRGFDUjE5T2dBMUVqZUE?oc=5",
-   "summary": "",
-   "published": "2026-11-04T09:42:04+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
    ]
   }
  ]
