@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T05:00:01+00:00",
+ "generated_at": "2026-11-14T05:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
-   "items": 4,
+   "fetched": 5,
+   "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 10:17:45 +0530",
+   "sample_date": "Sat, 14 Nov 2026 10:28:14 +0530",
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 09:52:20 +0530",
+   "sample_date": "Sat, 14 Nov 2026 10:28:42 +0530",
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 10:05:31 +0530",
    "error": null,
-   "checked_at": "2026-11-14T05:00:01+00:00"
+   "checked_at": "2026-11-14T05:30:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,45 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "faefca8ba31fb020",
+   "title": "Around 600% jump in 5 years: Citi maintains 'buy' on Maharatna defence PSU HAL for up to 28% - Check target, rationale",
+   "link": "https://www.livemint.com/market/stock-market-news/around-600-jump-in-5-years-citi-maintains-buy-on-maharatna-defence-psu-hal-for-up-to-28-check-target-rationale-11794630844431.html",
+   "summary": "HAL shares have weakened recently, but Citi retained its Buy rating and ₹6,175 target, implying about 28% upside. Citi cited higher inventory and support from engines, helicopters and repairs amid delayed Tejas Mk1A deliveries.",
+   "published": "2026-11-14T04:58:42+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/HAL_Rally_Takes_Flight_1794632254838_83nv_1794632259958_E1wG_b9d33444-413d-4bd6-a325-f77dfa30208b_O6KX.png",
+   "topics": [],
+   "first_seen": "2026-11-14T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d8bb59f375ca225c",
+   "title": "Why Tata Sons rejected Noel Tata's request for board meeting recording: Inside the Tata boardroom tussle",
+   "link": "https://www.livemint.com/companies/people/why-tata-sons-rejected-noel-tatas-request-for-board-meeting-recording-inside-the-tata-boardroom-tussle-11794631381332.html",
+   "summary": "Tata Sons has rejected Noel Tata's request for the September 17 board meeting recording, citing its policy of not sharing recordings of in-person meetings. Noel had sought it after opposing N Chandrasekaran's reappointment amid differences over Tata Sons' listing and business performance.",
+   "published": "2026-11-14T04:58:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Chandra_Noel_1794632228550_7RqE_1794632235320_VuN2_72e733e2-3f37-4997-aed5-e9653872b7b6_NTUz.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-14T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "dd176dfe89ccebf5",
    "title": "Big update on NVIDIA-Jensen Huang fiasco: Singapore never investigated Alice Huang for espionage, returned her passport",
@@ -1417,6 +1456,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-13T20:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9532476b3214d4c6",
+   "title": "Is CoreWeave's movement signalling a return of the AI trade?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFhqN05TTGowYWkyYkptaFY2RFVDUGtyanhFVTctUUZFeUFZQ2l0dkhmczhuM1RZR0M3YXZWTHVxcm5ZdkxKTHh1Tk9QLXR1RHhLWHR5QkZqWEs0akh4N0FJRVc5cFI0YVBNMEdiTmxHQUtZRWtHMUVYdklPWGVKVHNHWHN3blJOaDg0b2VVenlwaGZqWml5MDZzOVN4a0pzM0FteTQyb0NZbm9QQWR6Z3RPQWVwRjZLX0UxTWd0WnBGRTJsdmhrSTFRN3g?oc=5",
+   "summary": "",
+   "published": "2026-11-13T09:36:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T05:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11347,60 +11404,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/991287a6-3113-4be1-8504-f4be55557a70_1794187931126_Av3R_1794187935316_86C1_037c9b3e-359e-46b2-bfa2-44b6210a1eec_QQiA.png",
-   "topics": [],
-   "first_seen": "2026-11-09T02:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d5fc185311295976",
-   "title": "Taiwan Stocks Jump as Authorities Move to Stem Market Rout",
-   "link": "https://www.livemint.com/market/taiwan-stocks-jump-as-authorities-move-to-stem-market-rout-11794190420004.html",
-   "summary": "Taiwanese shares rallied after authorities unveiled measures to restore investor confidence following the longest selling streak since 2022 amid a global AI stock rout.",
-   "published": "2026-11-09T02:13:39+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-   "topics": [],
-   "first_seen": "2026-11-09T02:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c3cc344bb8a54593",
-   "title": "‘I take full responsibility’: Full text of Jensen Huang’s letter to Nvidia employees admitting affair with Chinese spy",
-   "link": "https://www.livemint.com/companies/people/i-take-full-responsibility-full-text-of-jensen-huang-s-letter-to-nvidia-employees-admitting-affair-with-chinese-spy-11794189475047.html",
-   "summary": "Nvidia CEO Jensen Huang apologized to his family and colleagues after admitting infidelity, as the company’s board investigates reports of a possible foreign intelligence effort. Huang said he would cooperate, while the board affirmed its confidence in him.",
-   "published": "2026-11-09T02:10:50+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794216994614_w3bB_1794216998627_Vc52_bfe41599-c45d-484c-84a7-d250b2876eb7_4Kx6.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T02:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "cfa18aadb574f735",
-   "title": "Top stocks to watch today: Tata Steel, Adani Enterprises, Marico shares in focus on Monday, 9 November | Full list",
-   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-adani-enterprises-marico-shares-in-focus-on-monday-9-november-full-list-11794187790707.html",
-   "summary": "Top stocks to watch today: Tata Steel, Whirlpool of India, Adani Enterprises, Mahindra &amp; Mahindra, BHEL are among shares in focus on Monday.",
-   "published": "2026-11-09T01:57:17+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/stw_monday_1794189378695_noxD_1794189378841_oVAW_ce6f0e6a-7d92-4b11-b509-535ea8c5164d_AigI.png",
    "topics": [],
    "first_seen": "2026-11-09T02:30:02+00:00",
    "valuation_score": 0,
