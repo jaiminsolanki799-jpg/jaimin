@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T18:00:02+00:00",
+ "generated_at": "2026-11-14T18:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 22:00:24 +0530",
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 21:31:01 +0530",
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 22:20:44 +0530",
+   "sample_date": "Sat, 14 Nov 2026 23:45:19 +0530",
    "error": null,
-   "checked_at": "2026-11-14T18:00:02+00:00"
+   "checked_at": "2026-11-14T18:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "fc17089acfea7332",
+   "title": "JioBlackRock Flexi Cap Fund: 13 new stocks added, including Hindustan Zinc & IIFL Finance; 21 exits in October",
+   "link": "https://www.livemint.com/money/personal-finance/jioblackrock-flexi-cap-fund-13-new-stocks-added-including-hindustan-zinc-iifl-finance-21-exits-in-october-11794678075651.html",
+   "summary": "JioBlackRock Flexi Cap Fund increased holdings in 27 stocks in October, led by PNB, Bank of India and GAIL. It added Hindustan Zinc and 12 other stocks, exited TCS, ITC and 19 others, and trimmed HDFC Bank and Adani Energy Solutions.",
+   "published": "2026-11-14T18:15:19+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Gemini_Generated_Image_ognz8wognz8wognz_1794678_1794678748965_feTR_1794678749101_liit_cd45afc3-c1a7-45bf-9446-86c78fed16bf_XEsb.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-14T18:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ba37d59395b0a4d8",
    "title": "Can a bank recover someone else's loan from your pension if you are a guarantor? What the High Court ruled",
@@ -11405,26 +11425,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/wealth_creation_1794214560521_ZbL5_1794214560717_IMfu_ae0d203a-37b0-41b6-b5a9-0f0ec26a0397_EG92.png",
    "topics": [
     "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-09T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bbd3a19c1b552268",
-   "title": "Will your old cheque book become invalid after December 31, 2026? RBI debunks viral claim",
-   "link": "https://www.livemint.com/money/will-old-your-cheque-book-become-invalid-after-december-31-2026-big-development-from-rbi-11794210127344.html",
-   "summary": "Will old your cheque book become invalid after December 31, 2026? The RBI has clarified claims that existing CTS cheque books become invalid from the new year. Here's all you need to know…&nbsp;",
-   "published": "2026-11-09T09:14:18+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/RBI_1794144364119_mqdX_1794144364254_gCeR_e95497a8_1794215195051_oq9U_1794215195175_lgFa_74ce3ec3-5711-4fde-b516-4ab8a3d715c3_YaQB.png",
-   "topics": [
-    "RBI / banking"
    ],
    "first_seen": "2026-11-09T09:30:01+00:00",
    "valuation_score": 0,
