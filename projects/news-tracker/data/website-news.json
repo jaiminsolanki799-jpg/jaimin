@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T07:30:02+00:00",
+ "generated_at": "2026-11-14T08:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 3,
    "items": 3,
-   "sample_date": "Tue, 10 Nov 2026 10:18:43 GMT",
+   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:30:02+00:00"
+   "checked_at": "2026-11-14T08:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 07:13:27 GMT",
+   "sample_date": "Fri, 13 Nov 2026 06:31:48 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:30:02+00:00"
+   "checked_at": "2026-11-14T08:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:30:02+00:00"
+   "checked_at": "2026-11-14T08:00:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Fri, 13 Nov 2026 09:32:14 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:30:02+00:00"
+   "checked_at": "2026-11-14T08:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T07:30:02+00:00"
+   "checked_at": "2026-11-14T08:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "4db0b2ba79b34e3f",
+   "title": "28 Indian startups pitch air pollution solutions to VCs at AirEarth.org event",
+   "link": "https://yourstory.com/2026/11/airearth-28-startups-pitch-air-pollution-solutions-vcs",
+   "summary": "AirEarth.org hosted 28 Indian clean-air startups pitching to VCs like Blume and Rainmatter, pushing year-round pollution fixes.",
+   "published": "2026-11-14T07:43:24+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T08:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a0b44e6183dde18b",
+   "title": "MAGIC launches AIMM 2026, offers Rs 7 lakh in prizes for AI innovations",
+   "link": "https://yourstory.com/2026/11/magic-launches-aimm-2026-national-ai-innovation-challenge",
+   "summary": "Got an AI idea? MAGIC has opened applications for AIMM 2026, offering startups, MSMEs, students and researchers a chance to win Rs 7 lakh, with potential seed funding and incubation support.",
+   "published": "2026-11-14T07:23:49+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T08:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ffcd4c359fae1a12",
    "title": "Stage III cancer to 200+ startups: How Tej Chingtham built the Northeast’s first incubator",
