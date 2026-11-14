@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T19:30:03+00:00",
+ "generated_at": "2026-11-14T20:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 22:00:24 +0530",
+   "sample_date": "Sun, 15 Nov 2026 01:20:26 +0530",
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 21:31:01 +0530",
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 23:45:19 +0530",
    "error": null,
-   "checked_at": "2026-11-14T19:30:03+00:00"
+   "checked_at": "2026-11-14T20:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "1146dcb5dc85070b",
+   "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
+   "link": "https://www.livemint.com/companies/jpmorgan-loses-card-chief-allison-beer-to-external-opportunity-11794685827439.html",
+   "summary": "JPMorgan Chase & Co.’s Allison Beer, who runs a credit card business ranking among the world’s largest, is departing to work somewhere else.",
+   "published": "2026-11-14T19:50:26+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-11-14T20:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fc17089acfea7332",
    "title": "JioBlackRock Flexi Cap Fund: 13 new stocks added, including Hindustan Zinc & IIFL Finance; 21 exits in October",
@@ -11407,26 +11425,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Mumnde_1794216506917_xm2R_1794216510537_5518_1f25a42e-bbe2-4201-a036-ac6ea23ff78d_HgVv.jpg",
    "topics": [],
    "first_seen": "2026-11-09T10:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3186dab42a3d714c",
-   "title": "₹2,000 monthly SIP to ₹4.8 crore corpus: How a 38-year-old achieved financial independence without stock-picking",
-   "link": "https://www.livemint.com/money/personal-finance/rs-2-000-monthly-sip-to-rs-4-8-crore-corpus-how-a-38-year-old-achieved-financial-independence-without-stockpicking-11794214315839.html",
-   "summary": "A 38-year-old investor has built a ₹4.8 crore investment portfolio after starting with a ₹2,000 monthly SIP. His wealth creation journey highlights disciplined mutual fund investing, career growth, regular savings and financial independence without individual stock-picking or IPO bets.",
-   "published": "2026-11-09T09:27:41+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/wealth_creation_1794214560521_ZbL5_1794214560717_IMfu_ae0d203a-37b0-41b6-b5a9-0f0ec26a0397_EG92.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-09T09:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
