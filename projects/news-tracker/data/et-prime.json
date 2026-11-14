@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T12:00:03+00:00",
+ "generated_at": "2026-11-14T12:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 16:32:04 +0530",
+   "sample_date": "Sat, 14 Nov 2026 17:57:38 +0530",
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 17:19:39 +0530",
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 15:23:20 +0530",
    "error": null,
-   "checked_at": "2026-11-14T12:00:03+00:00"
+   "checked_at": "2026-11-14T12:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,47 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "46b72eea0b281e16",
+   "title": "Tata Sons listing row: Why Tata Trusts vice-chairmen are defending their RBI outreach",
+   "link": "https://www.livemint.com/companies/news/tata-sons-listing-row-why-tata-trusts-vice-chairmen-are-defending-their-rbi-outreach-11794654193889.html",
+   "summary": "Venu Srinivasan and Vijay Singh say regulatory rejection does not mean advocacy failed; differences emerge over whether Tata Sons should remain privately held",
+   "published": "2026-11-14T12:27:38+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/khambata_1794656202238_KK0R_1794656202347_8Sao_46c943bf-0de3-4ce7-8c30-4c2af2f0484e_lK70.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-14T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bdafa249667713df",
+   "title": "Who is Y Suresh Kumar? Indian Army veteran joins CoSarathi.ai as co-founder; what will his role be?",
+   "link": "https://www.livemint.com/companies/people/who-is-y-suresh-kumar-indian-army-veteran-joins-cosarathi-ai-as-co-founder-what-will-his-role-be-11794656342662.html",
+   "summary": "Y. Suresh Kumar, a former Indian Army officer with 21 years of service, has joined AI startup CoSarathi.ai as co-founder and Chief Marketing and Operating Officer. He will oversee marketing, business operations, strategic execution and partnerships. Kumar previously worked at Deloitte and Centific",
+   "published": "2026-11-14T12:06:37+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Gemini_Generated_Image_ikihkyikihkyikih_1794657280071_B4SL_1794657292944_kqIB_913d603e-18fe-4f72-9fcc-f699f57767de_fzN8.png",
+   "topics": [],
+   "first_seen": "2026-11-14T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "49f559a8f8a42e94",
    "title": "NVIDIA shareholder Leo KoGuan backs Jensen Huang! Explains why he will not add more stake in flagship AI stock",
@@ -11384,44 +11423,6 @@
    "first_seen": "2026-11-09T07:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "2bdb1d81a00ef3dc",
-   "title": "From a simple China TV reporter to top biz leader in Singapore, how Alice Huang came so close to NVIDIA CEO Jensen Huang",
-   "link": "https://www.livemint.com/companies/news/from-a-simple-china-tv-reporter-to-top-biz-leader-in-singapore-how-alice-huang-came-so-close-to-nvidia-ceo-jensen-huang-11794207707848.html",
-   "summary": "The New York Times reports that US intelligence agencies suspect Alice Huang had ties to China’s Ministry of State Security and sought information about Nvidia. Jensen Huang initially said his interactions with her were normal business dealings.&nbsp;",
-   "published": "2026-11-09T07:15:53+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794216999403_qFSy_1794217004285_qTT9_16f70637-bc0a-43bf-b9d8-96e5586c32ec_Nhs5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "13961003e561d048",
-   "title": "47% rally in one month! Infra stock under ₹100 inches close to 52-week high after announcement of Q2 Results 2026 date",
-   "link": "https://www.livemint.com/market/stock-market-news/47-rally-in-one-month-infra-stock-under-rs-100-inches-close-to-52-week-high-after-announcement-of-q2-results-2026-date-11794207997999.html",
-   "summary": "Highway Infrastructure shares rose nearly 1.18% in Monday’s intraday trade ahead of a board meeting scheduled for November 14. Directors will review half-year and quarterly results for the period ended September 30, 2026.&nbsp;",
-   "published": "2026-11-09T07:10:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/GSGsh_1794208097391_6I5Q_1794208107367_qsDu_1d185325-4175-489e-8627-41f9eb70310a_zGxf.png",
-   "topics": [],
-   "first_seen": "2026-11-09T07:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
