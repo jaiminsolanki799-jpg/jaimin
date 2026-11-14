@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T16:00:01+00:00",
+ "generated_at": "2026-11-14T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 21:28:16 +0530",
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 20:46:36 +0530",
+   "sample_date": "Sat, 14 Nov 2026 21:31:01 +0530",
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 21:12:13 +0530",
    "error": null,
-   "checked_at": "2026-11-14T16:00:01+00:00"
+   "checked_at": "2026-11-14T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "56eedd064f508706",
+   "title": "Beyond Coal India, ONGC: 10 lesser-known dividend stocks with up to 19% yield - Premco, GOCL, Accelya to D-Link | List",
+   "link": "https://www.livemint.com/market/stock-market-news/beyond-coal-india-ongc-10-lesser-known-dividend-stocks-with-up-to-19-yield-premco-gocl-accelya-to-d-link-list-11794671719253.html",
+   "summary": "Several lesser-known Indian stocks delivered high dividend yields in FY26. CyberTech Systems led the listed examples at 19.6%, followed by Majestic Auto at 16.4%, Jagran Prakashan at 16.1%, IL&amp;FS Investment Managers at 15.9%, and Premco Global at 11.2%.",
+   "published": "2026-11-14T16:01:01+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/High_Dividend_Yield_Stocks_Graphic_1794671906820_zPfI_1794671916345_0cxz_a2b007f5-8082-445d-9411-de3541ecaa0c_PDXS.png",
+   "topics": [],
+   "first_seen": "2026-11-14T16:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "73a913bf3f664661",
    "title": "SpaceX’s S&P 500 bid gets new life as Elon Musk pitches Tesla merger",
@@ -11409,24 +11429,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Samvat_2083_stock_picks_SAIL_Tata_JSW_Steel_NMDC_1794211222645_nPLY_1794211222778_Zpbs_4c333a87-54b3-4d99-9998-ff035baa3c31_332y.png",
-   "topics": [],
-   "first_seen": "2026-11-09T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "163bca7a6c8555b7",
-   "title": "Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar",
-   "link": "https://www.livemint.com/market/stock-market-news/is-stock-market-closed-tomorrow-in-india-holiday-in-nse-bse-or-trading-of-shares-allowed-check-exchange-calendar-11794214735706.html",
-   "summary": "NSE and BSE will be closed on November 10 for the Diwali-Balipratipada holiday, following a special Muhurat trading session on November 8.&nbsp;",
-   "published": "2026-11-09T09:03:16+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Stock_Market_Holiday_Announcement_1794214855720_oGJb_1794214861095_1Z1u_7447ed32-fec1-4883-a8e9-eecf95e3f516_L0t4.png",
    "topics": [],
    "first_seen": "2026-11-09T09:30:01+00:00",
    "valuation_score": 0,
