@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T12:30:02+00:00",
+ "generated_at": "2026-11-14T13:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 3,
    "items": 3,
-   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
+   "sample_date": "Tue, 10 Nov 2026 10:18:43 GMT",
    "error": null,
-   "checked_at": "2026-11-14T12:30:02+00:00"
+   "checked_at": "2026-11-14T13:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
    "error": null,
-   "checked_at": "2026-11-14T12:30:02+00:00"
+   "checked_at": "2026-11-14T13:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-14T12:30:02+00:00"
+   "checked_at": "2026-11-14T13:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 20,
-   "items": 20,
+   "fetched": 21,
+   "items": 21,
    "sample_date": "Fri, 13 Nov 2026 04:58:16 GMT",
    "error": null,
-   "checked_at": "2026-11-14T12:30:02+00:00"
+   "checked_at": "2026-11-14T13:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T12:30:02+00:00"
+   "checked_at": "2026-11-14T13:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "fd0e31ec8c6c38e9",
+   "title": "FirstCry nears Rs 2,400 Cr revenue in Q2 FY27, losses narrow 75%",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVlY5eENXSHFFQm0yblJaYWxEZ1ppMDIyNUlUQ3lBZ0JNeWRCQ2FmaWNlamNkVTNUcDh4di1PNTJJQXFPU0hKdzVmM2ZBWEU3RWlnenlFMU9UWjN4UHp0T0t2c1BLY3l4QlF4emhxdTVMNUlJQjBXSlVCcDB5SjhBekdIRWpNeDZsTEtNc1l3dHlSS0twcUxRX0NBU1lLaXR6eVFr0gGjAUFVX3lxTE5WVjl4Q1dIcUVCbTJuUlphbERnWmkwMjI1SVRDeUFnQk15ZEJDYWZpY2VqY2RVM1RwOHh2LU81MklBcU9TSEp3NWYzZkFYRTdFaWd6eUUxT1RaM3hQenRPS3ZzUEtjeXhCUXh6aHF1NUw1SUlCMFdKVUJwMHlKOEF6R0hFak14NmxMS01zWXd0eVJLS3BxTFFfQ0FTWUtpdHp5UWs?oc=5",
+   "summary": "",
+   "published": "2026-11-14T12:42:59+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T13:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "99ed40c109da61d4",
    "title": "Morsa Raises $1.5 Million for an AI COO for Factories",
@@ -7791,44 +7809,6 @@
     "IPO",
     "Rules",
     "Valuation"
-   ]
-  },
-  {
-   "id": "83f17674f7c78c51",
-   "title": "Tracxn's revenue remains flat at Rs 21.3 Cr in Q2 FY27; losses narrow 25.7%",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjhWTnRDTWllYzB6UTUyNTI2OGpVd2RpVW1qd0dxbWZSV3dvZzhxUXhQeGtnX0ktSDU1WEpSV2JhSndIa1FIdkp6eXNVU3h0TFRPRDgtaU5uWXEwZ2RmSDNfaEcxdHpvVFhCQjltaFY2ay1nMUhsdG9MS3FUeDBOVzlLRkdCbE9tdFk4M0RYNElSc3dfRkF5SzljcFpGUVdiZWlRNmdTMWk3UW10eE1r0gGvAUFVX3lxTE5OOFZOdENNaWVjMHpRNTI1MjY4alV3ZGlVbWp3R3FtZlJXd29nOHFReFB4a2dfSS1INTVYSlJXYmFKd0hrUUh2Snp5c1VTeHRMVE9EOC1pTm5ZcTBnZGZIM19oRzF0em9UWEJCOW1oVjZrLWcxSGx0b0xLcVR4ME5XOUtGR0JsT210WTgzRFg0SVJzd19GQXlLOWNwWkZRV2JlaVE2Z1MxaTdRbXR4TWs?oc=5",
-   "summary": "",
-   "published": "2026-11-04T12:41:09+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fb3d9b5f64e2bda9",
-   "title": "PhysicsWallah revenue rises 18% to Rs 1,242 Cr in Q2 FY27; profit jumps 2.1X",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUY1MDJHVVhCTWYzZ2pqRnJweWI5SHlIWjZMQzQ0bTc1MVZnb1NEaC1sMjF6UE1sbG5uQk9HcmwzUkVJYUhDRndGSUlkOGNTR1BFd001MWlpSG5ETmxLOXF1UjRyTUtoVHg5QmZfcE5laENxNWcyX1BrVk1yN1BMN2c2cEJwLUc4SGYxQUctdm92Rmx0ZmxXdjJWU0FyMkJaUVgyczZCOGQtQTVVZTZxdWZ30gGyAUFVX3lxTFBNRjUwMkdVWEJNZjNnampGcnB5YjlIeUhaNkxDNDRtNzUxVmdvU0RoLWwyMXpQTWxsbm5CT0dybDNSRUlhSENGd0ZJSWQ4Y1NHUEV3TTUxaWlIbkRObEs5cXVSNHJNS2hUeDlCZl9wTmVoQ3E1ZzJfUGtWTXI3UEw3ZzZwQnAtRzhIZjFBRy12b3ZGbHRmbFd2MlZTQXIyQlpRWDJzNkI4ZC1BNVVlNnF1Znc?oc=5",
-   "summary": "",
-   "published": "2026-11-04T12:33:24+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
    ]
   }
  ]
