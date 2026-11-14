@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T10:00:03+00:00",
+ "generated_at": "2026-11-14T10:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-14T10:00:03+00:00"
+   "checked_at": "2026-11-14T10:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
+   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
    "error": null,
-   "checked_at": "2026-11-14T10:00:03+00:00"
+   "checked_at": "2026-11-14T10:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-14T10:00:03+00:00"
+   "checked_at": "2026-11-14T10:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 24,
-   "items": 24,
+   "fetched": 23,
+   "items": 23,
    "sample_date": "Fri, 13 Nov 2026 04:58:16 GMT",
    "error": null,
-   "checked_at": "2026-11-14T10:00:03+00:00"
+   "checked_at": "2026-11-14T10:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T10:00:03+00:00"
+   "checked_at": "2026-11-14T10:30:02+00:00"
   }
  ],
  "topics": [
@@ -7846,26 +7846,6 @@
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "8fd6d46a8f2a7d70",
-   "title": "MapMyIndia’s Q2 FY27 profit jumps 85% to Rs 37.5 Cr; revenue rises 16%",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2ZxeS0xMUM0OHVqbnZsbkROUlEzLWJuZnYwVnNzRlFnRUJ5UzZKVS1MamhDQUptMTRHR3NBOVlCMlQyQTgtcDZoVURMRE04MWNiQWRqVjg5Y0V6Ulk3YWoxNGlqNWNfSDdCNF9HbjN6d3dQU3RJVlBVRkpyYlJIekxoWXd3QUZMRXVXZUh5bEwwY1lCeGwtZmNCZXpzSk14b1FudlRWZHHSAagBQVVfeXFMTk9mcXktMTFDNDh1am52bG5ETlJRMy1ibmZ2MFZzc0ZRZ0VCeVM2SlUtTGpoQ0FKbTE0R0dzQTlZQjJUMkE4LXA2aFVETERNODFjYkFkalY4OWNFelJZN2FqMTRpajVjX0g3QjRfR24zend3UFN0SVZQVUZKcmJSSHpMaFl3d0FGTEV1V2VIeWxMMGNZQnhsLWZjQmV6c0pNeG9RbnZUVmRx?oc=5",
-   "summary": "",
-   "published": "2026-11-04T10:12:02+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
