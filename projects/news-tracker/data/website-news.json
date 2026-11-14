@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T07:00:01+00:00",
+ "generated_at": "2026-11-14T07:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 3,
    "items": 3,
-   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
+   "sample_date": "Tue, 10 Nov 2026 10:18:43 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:00:01+00:00"
+   "checked_at": "2026-11-14T07:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
+   "sample_date": "Sat, 14 Nov 2026 07:13:27 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:00:01+00:00"
+   "checked_at": "2026-11-14T07:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:00:01+00:00"
+   "checked_at": "2026-11-14T07:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Fri, 13 Nov 2026 09:32:14 GMT",
    "error": null,
-   "checked_at": "2026-11-14T07:00:01+00:00"
+   "checked_at": "2026-11-14T07:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T07:00:01+00:00"
+   "checked_at": "2026-11-14T07:30:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 5,
  "items": [
+  {
+   "id": "ffcd4c359fae1a12",
+   "title": "Stage III cancer to 200+ startups: How Tej Chingtham built the Northeast’s first incubator",
+   "link": "https://yourstory.com/2026/11/tej-chingtham-aic-smutbi-northeast-startups",
+   "summary": "From a push for better startup support to mentoring 200+ ventures, Prof. (Dr.) Tej Chingtham is helping shape Northeast India’s startup ecosystem through AIC-SMUTBI.",
+   "published": "2026-11-14T07:13:27+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T07:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1f159e141e31b336",
    "title": "Funding and acquisitions in Indian startups this week [Nov 09- Nov 14]",
@@ -7832,26 +7850,6 @@
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "96db01d074b17e62",
-   "title": "Fintech infra startup OneStack raises Rs 12.5 Cr from Shepherd's Hill, others",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGx3Wml3UXE1VnQxUmlTV0JXdlhKNjh6OS1MekZBTElWajZCd0JxVHA3d0VtMlBMSUM2MmZFOTRpdVNaVXR6RGxIeVpRS2VDVHRJOGFpV2l5bEhMYkhUd1VhUEFJZFFCT2ZjVUVVcTlPYjllQnNjVlI4VS0zVS1FcEgwa3FfUVFnSV8tbmlLWndqX1ZMV0J1LVNsTEZ5bUk3OUdRVkd3eWFfMzBSSTRHOEVrZ9IBswFBVV95cUxNeGx3Wml3UXE1VnQxUmlTV0JXdlhKNjh6OS1MekZBTElWajZCd0JxVHA3d0VtMlBMSUM2MmZFOTRpdVNaVXR6RGxIeVpRS2VDVHRJOGFpV2l5bEhMYkhUd1VhUEFJZFFCT2ZjVUVVcTlPYjllQnNjVlI4VS0zVS1FcEgwa3FfUVFnSV8tbmlLWndqX1ZMV0J1LVNsTEZ5bUk3OUdRVkd3eWFfMzBSSTRHOEVrZw?oc=5",
-   "summary": "",
-   "published": "2026-11-04T07:05:24+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
   }
  ]
 }
