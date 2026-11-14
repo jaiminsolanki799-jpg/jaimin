@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T13:00:01+00:00",
+ "generated_at": "2026-11-14T13:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 3,
    "items": 3,
-   "sample_date": "Tue, 10 Nov 2026 10:18:43 GMT",
+   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-14T13:00:01+00:00"
+   "checked_at": "2026-11-14T13:30:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
+   "sample_date": "Fri, 13 Nov 2026 05:59:34 GMT",
    "error": null,
-   "checked_at": "2026-11-14T13:00:01+00:00"
+   "checked_at": "2026-11-14T13:30:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-14T13:00:01+00:00"
+   "checked_at": "2026-11-14T13:30:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 21,
    "items": 21,
-   "sample_date": "Fri, 13 Nov 2026 04:58:16 GMT",
+   "sample_date": "Fri, 13 Nov 2026 09:32:14 GMT",
    "error": null,
-   "checked_at": "2026-11-14T13:00:01+00:00"
+   "checked_at": "2026-11-14T13:30:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T13:00:01+00:00"
+   "checked_at": "2026-11-14T13:30:03+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
   {
    "id": "fd0e31ec8c6c38e9",
@@ -7785,31 +7785,6 @@
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "280d77c9b7cf0a63",
-   "title": "Razorpay Moves Closer to Public Listing with SEBI Approval for INR 6,000 Crore IPO",
-   "link": "https://startuptalky.com/news/razorpay-moves-closer-to-public-listing/",
-   "summary": "SEBI has approved Razorpay’s IPO proposal of Rs 5,000-6,000 crore. The company is eyeing a valuation of about $5 billion. The fintech, which was established in 2014, has moved beyond payment processing into banking, payroll, finance, and commercial financial services.",
-   "published": "2026-11-04T13:12:08+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/razorpay-moves-closer-to-public-listing-Startuptalky.jpg",
-   "topics": [
-    "SEBI / markets regulation",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 9,
-   "valuation_signals": [
-    "IPO",
-    "Rules",
-    "Valuation"
-   ]
   }
  ]
 }
