@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T09:00:01+00:00",
+ "generated_at": "2026-11-14T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:00:01+00:00"
+   "checked_at": "2026-11-14T09:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
+   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:00:01+00:00"
+   "checked_at": "2026-11-14T09:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 13 Nov 2026 11:06:01 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:00:01+00:00"
+   "checked_at": "2026-11-14T09:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 27,
-   "items": 27,
+   "fetched": 26,
+   "items": 26,
    "sample_date": "Fri, 13 Nov 2026 09:32:14 GMT",
    "error": null,
-   "checked_at": "2026-11-14T09:00:01+00:00"
+   "checked_at": "2026-11-14T09:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 13 Nov 2026 23:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-14T09:00:01+00:00"
+   "checked_at": "2026-11-14T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "21d2d475963950a9",
+   "title": "5 Lessons from Yoshuku: The Japanese Art of Manifesting",
+   "link": "https://yourstory.com/2026/11/life-lessons-yoshuku",
+   "summary": "Discover five powerful lessons from Yoshuku by Azumi Uchitani on gratitude, manifestation, resilience, positive thinking, and intentional living.",
+   "published": "2026-11-14T09:00:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1719b5a65ffb1f56",
    "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
@@ -7886,24 +7904,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "fb7c92ff48629348",
-   "title": "Eggoz’s revenue grows 39% to Rs 180 Cr in FY26; losses widen to Rs 42 Cr",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemJkVDhoRXBmbUJhd3hlZDJ5SThOTjdBSno4TnpWWFVoQUhWcXNZTXh6NDh5QU1BeDJvcnJIVDR1cmdHWVBvVTZHbUdLUU1MbGZ4SjZRcC1EMmpFS25vTGZvVDB4cmNPbzVWS2FrSmRvOHE5dEoxYWV4VGhtcm1rODljcFdHRXlHdjVsRWo1YnZqbGpYNDRyYUtNWDU3eTRsdUdHemVUeS1tOERnOFHSAa4BQVVfeXFMT3piZFQ4aEVwZm1CYXd4ZWQyeUk4Tk43QUp6OE56VlhVaEFIVnFzWU14ejQ4eUFNQXgyb3JySFQ0dXJnR1lQb1U2R21HS1FNTGxmeEo2UXAtRDJqRUtub0xmb1QweHJjT281Vktha0pkbzhxOXRKMWFleFRobXJtazg5Y3BXR0V5R3Y1bEVqNWJ2amxqWDQ0cmFLTVg1N3k0bHVHR3plVHktbThEZzhR?oc=5",
-   "summary": "",
-   "published": "2026-11-04T09:01:16+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
