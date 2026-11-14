@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T11:00:02+00:00",
+ "generated_at": "2026-11-14T11:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
-   "items": 4,
+   "fetched": 4,
+   "items": 3,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "周六, 14 11月 2026 15:38:48 +0530",
+   "sample_date": "Sat, 14 Nov 2026 16:32:04 +0530",
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 15:57:17 +0530",
+   "sample_date": "Sat, 14 Nov 2026 16:39:47 +0530",
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 15:23:20 +0530",
    "error": null,
-   "checked_at": "2026-11-14T11:00:02+00:00"
+   "checked_at": "2026-11-14T11:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "16e031afd37756bf",
+   "title": "Microsoft shares defy massive global outage, close higher on Friday; Outlook, Teams services recover - Things to know",
+   "link": "https://www.livemint.com/market/stock-market-news/microsoft-shares-defy-massive-global-outage-close-higher-on-friday-outlook-teams-services-recover-things-to-know-11794647299206.html",
+   "summary": "Microsoft restored Outlook, Teams, Copilot and other Microsoft 365 services after a global outage lasting more than 24 hours and affecting users in over 70 countries. Microsoft ruled out a cyberattack; its shares closed nearly flat.",
+   "published": "2026-11-14T11:09:47+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Microsoft_Shares_Rise_Amid_Global_Outage_179465447_1794654488150_5Aqu_1794654488342_XPrJ_f6e0d3ba-a843-4e53-9a91-32ec96647a49_6nJe.png",
+   "topics": [],
+   "first_seen": "2026-11-14T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "82dbdc90b451511b",
+   "title": "Tata Sons Listing: Noel Tata decodes why there should be no tinkering; what he said at Hindustan Times Leadership Summit",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-sons-listing-noel-tata-decodes-why-there-should-be-no-tinkering-what-he-said-at-hindustan-times-leadership-summit-11794643211510.html",
+   "summary": "Noel Tata warned that listing Tata Sons could shift the group’s priorities toward shareholder returns and away from philanthropy. He said Tata Trusts would work with regulators and stakeholders to preserve conglomerate’s existing philosophy amid an ongoing dispute over its listing requirements.",
+   "published": "2026-11-14T11:08:41+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Noel_Tata__Why_No_Tinkering_1794644927415_OtxV_1794644932218_byp9_47cce4a1-a00b-45c5-a757-212b6cc2e13b_3TDs.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-14T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b2bffae6d69a0e14",
+   "title": "Who is Rene Haas? Arm CEO emerges as potential Nvidia chief after Jensen Huang’s exit; what makes him a frontrunner?",
+   "link": "https://www.livemint.com/companies/people/who-is-rene-haas-arm-ceo-emerges-as-potential-nvidia-chief-after-jensen-huang-s-exit-what-makes-him-a-frontrunner-11794652190506.html",
+   "summary": "Nvidia has reportedly approached Arm CEO Rene Haas as a potential successor to Jensen Huang. A former Nvidia executive, Haas brings deep knowledge of the chipmaker and experience leading Arm. However, Nvidia says its CEO search is at an early stage, with no candidates formally approached.",
+   "published": "2026-11-14T11:02:04+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/nvidia_arm_leadership_compiled_1794654051202_o58e_1794654057901_OQea_168c43b2-c40d-4bdf-bfa1-4f91f28655e4_DGwK.jpg",
+   "topics": [],
+   "first_seen": "2026-11-14T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0a6cff750c340a6b",
+   "title": "Nvidia CEO race: Could Jensen Huang's children succeed him? Full list of potential contenders",
+   "link": "https://www.livemint.com/companies/news/nvidia-ceo-race-could-jensen-huangs-children-succeed-him-full-list-of-potential-contenders-11794652643571.html",
+   "summary": "Several names have emerged as possible contenders, including Nvidia's Chief Financial Officer Colette Kress, data centre head Ian Buck and leaders from rival semiconductor companies such as Arm and AMD.",
+   "published": "2026-11-14T11:00:23+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Untitled_design_-_2026-11-14T162103.480_1794653482981_QpT2_1794653490343_UnI9_22255c67-9c53-45f6-bb71-679375d84b5a_HjXD.png",
+   "topics": [],
+   "first_seen": "2026-11-14T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0c11d686ca7d7829",
    "title": "Dividend stock to buy: TD Power shares rally 369% in 3 years, more upside ahead? Check target price before record date",
@@ -225,7 +299,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/NoelTata__A_Visionary_Corporate_Portrait_1794650_1794650901785_G1cT_1794650901894_n9rp_ac29230d-8f0b-460a-a4c6-2b34986e0edb_79Z4.png",
@@ -263,7 +337,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Kiran_Mazumdar_Shaw_Mint_Microsft_Bloomberg_179464_1794648749486_FIqi_1794648749653_gaI9_d71bcf21-55b3-43ca-9c9a-7b8f80d7de8a_X5Xi.jpg",
@@ -317,7 +391,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Microsoft_services_1794646654973_4Ju3_1794646661010_cEvW_a8248545-eb2b-4a56-949a-103369701784_Pn9o.png",
@@ -358,7 +432,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Bharti_Airtel_Sunil_Mittal_Reuters_1794644601846_k6uw_1794644608289_Vrfo_09babed7-104b-4b42-8710-1284cd601788_erV0.jpg",
@@ -515,7 +589,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/FITCH-ADANI--0_1732893367416_1794638761472_DO0Y_4dba33a8-fa31-4c1e-9df0-a899e4b24f8a_RoGS.JPG",
@@ -569,7 +643,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/investment_1731737985428_1794635928945_kR8i_2c88692b-cca1-40ac-9600-ee06796ca7ba_ZBrF.PNG",
@@ -664,7 +738,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Chandra_Noel_1794632228550_7RqE_1794632235320_VuN2_72e733e2-3f37-4997-aed5-e9653872b7b6_NTUz.png",
@@ -685,7 +759,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/NVIDIA-CEO-ALICE-HUANG-2_1794631405675_1FNC_1794631415029_YYYf_c21bce1c-a5b5-4dce-b000-30733c3fb214_AIZ5.JPG",
@@ -742,7 +816,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Andhra_investments_1794629157087_mJBe_1794629162914_CNDC_241e80fe-ea0a-475c-a5b1-ac2fb5ca34f3_ISTa.png",
@@ -818,7 +892,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Gig_workers_1794626949581_1L4e_1794626954699_Xkiz_9db23f4e-7d4a-415c-abbd-dee9d01ad709_QPBB.png",
@@ -928,7 +1002,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/BYD_India_1794573077349_9FEz_1794573077475_4XEE_64217b38-50cf-4e02-8a8e-42b91a2c63da_07ek.jpg",
@@ -946,7 +1020,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Mars_exec_1794582893362_36H0_1794582924789_2oap_3a5ee978-087d-4e0a-989c-e37fa38184fc_CHHM.jpg",
@@ -1036,7 +1110,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
@@ -1090,7 +1164,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
@@ -1108,7 +1182,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
@@ -1126,7 +1200,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/PTI10-02-2026-000350B-0_1794594263210_rS5E_1794594356444_G3Se_0cf9cda1-7f43-4eb4-9272-24cfffcecc72_paxZ.jpg",
@@ -1144,7 +1218,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Tata_Trusts_Leadership_Portraits_1794593305098_oOH9_1794593388860_OyMk_ff0561cd-8346-4faa-b573-56567f13cfac_UIdK.png",
@@ -1220,7 +1294,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Untitled_design_-_2026-11-13T221228.272_1794588181610_qPHG_1794588194177_dCnX_d43d7a9d-8cf7-48d3-97ed-653ca3fcd405_plGy.png",
@@ -1238,7 +1312,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/TATA-INDIA--0_1793888578120_Pozg_1793888590522_rrj_1794588300130_BPbb_1794588300293_I4Id_de2f553a-82ab-44d3-92a9-33cdc9796aac_u8VO.JPG",
@@ -1355,7 +1429,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Tata_Motors_1794582070469_8XxR_1794582070634_g56i_8021b963-2a1c-44f5-96af-d0555863feef_HJby.JPG",
@@ -1395,7 +1469,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/217075_1794580660111_yRW1_1794580663942_rYJd_28a3cfa3-20d2-4ace-9a3c-1d77b56f079e_QcHr.jpg",
@@ -1494,7 +1568,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/NVIDIA-CEO--27_1794491994926_j9kX_1794492007205_FeEe_80ab7c09-33b2-4be4-97ff-1483a0cb3094_yG0f_1794574056290_pJbJ_e6649f2e-00cd-43b7-b652-f866f72386fa_tHmj.JPG",
@@ -1512,7 +1586,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Gemini_Generated_Image_sdly8dsdly8dsdly_1794574_1794574900731_VpXf_1794574900979_Q9VP_44f1590a-317b-4bd1-a411-e16dbc00d7ff_wVij.png",
@@ -1554,7 +1628,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Food_Hygiene_Raid_Collage_1794570305540_aCT2_1794570310144_UNes_4db2a373-63cc-4766-9315-fe4bc036bddb_OJk8.png",
@@ -1670,7 +1744,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Nvidia_and_Huang_1794556694986_9t7Q_1794556699691_1MOi_6ffb49d9-b726-4447-9fe6-d79ea71d6e4b_Zx2n_1794567135790_nKRY_b040ffb4-816c-40d4-9f15-7697867eeac6_vzx9.png",
@@ -1760,7 +1834,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Gemini_Gnerated_Image_gofttogofttogoft_179456506_1794565076594_GM0z_1794565076705_MGLf_8ab55e75-99d9-4966-b8a1-e2f640b411dd_2f7L.png",
@@ -1947,7 +2021,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/MobiKwik_payments_1794561213289_joAf_1794561218255_4s5E_b2587b0f-fc9f-4184-9789-0a001b448b45_9gg8.jpg",
@@ -1985,7 +2059,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Microsoft_world_outage_1794561407022_3Zho_1794561411272_psRb_8c8ee8bc-f36a-42fa-9ea0-ae396e61cab2_VIdp.png",
@@ -2153,7 +2227,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Nvidia_and_Huang_1794556694986_9t7Q_1794556699691_1MOi_5614160c-287b-409f-aba5-60a3a4032b42_2lY0.png",
@@ -2309,7 +2383,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Santosh_Janardhan_Meta_edit_1794553763705_eC5h_1794553768219_j2bO_0ab29325-37f7-4472-986b-0aee17edfa93_G68E.jpg",
@@ -2407,7 +2481,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Farhan_Amir_1794551453123_PTQh_1794551459374_YK9Y_ba5720f6-f48c-4b5e-948b-be0565dd68a2_aSVr.png",
@@ -2425,7 +2499,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/2-0-301811569-Tata-Power-0_1680699441614_1794549905023_wL40_26d99f73-7d71-488b-a3db-c859c49d6e2d_WDW4.JPG",
@@ -2525,7 +2599,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": false,
+   "date_known": true,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Jensen-Huang_1794548860836_Htiy_1794548860964_VEWa_c0221297-36cf-478b-bceb-d278e9039315_XP1h.JPG",
@@ -11350,80 +11424,6 @@
    "valuation_signals": [
     "Results"
    ]
-  },
-  {
-   "id": "c887323d50fba30b",
-   "title": "Bank Holiday, closed tomorrow 10 Nov 2026: Ahmedabad, Bengaluru, Belapur, Dehradun, Gangtok, Mumbai, Nagpur; here’s why",
-   "link": "https://www.livemint.com/money/bank-holiday-closed-tomorrow-10-nov-2026-ahmedabad-bengaluru-belapur-dehradun-gangtok-mumbai-nagpur-heres-why-11794206002144.html",
-   "summary": "Bank Holiday, closed tomorrow 10 Nov 2026: Public and private sector lenders including the State Bank of India and HDFC Bank will be closed in Ahmedabad, Bengaluru, Belapur, Dehradun, Gangtok, Mumbai and Nagpur; here’s why.&nbsp;",
-   "published": "2026-11-09T07:01:23+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/bank_1789638010583_wfKH_1789638013481_li4B_091bb7c_1794207357187_RAkK_1794207357315_bE78_a67c76ab-bcca-4bfd-b9ae-a2431ceaab8a_8UO3.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "18fc32fc13b93ed7",
-   "title": "Two incomes, no cradle: what India’s DINK couples are telling policymakers",
-   "link": "https://www.livemint.com/money/personal-finance/india-policymakers-dink-couples-parenting-elder-care-pensions-11793975047884.html",
-   "summary": "Rather than pressure people to have children, policymakers should make parenting more affordable and strengthen pensions and elder care for those who remain childfree.",
-   "published": "2026-11-09T06:46:07+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/pexels-photo-14146942_1794047515318_aR9z_1794047529276_VL6q_a581e1d3-f9e1-4c22-8f3b-2a76f02104c9_VwL9.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-09T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ed52ad0c33e47c35",
-   "title": "Q2 results effect? Small-cap stock under ₹50 MIC Electronics rises 3% despite weak market trends. Do you own?",
-   "link": "https://www.livemint.com/market/stock-market-news/q2-results-effect-small-cap-stock-under-50-mic-electronics-rises-3-despite-weak-market-trends-do-you-own-11794204057991.html",
-   "summary": "Small-cap stock under ₹50: The small-cap stock opened in green at ₹40.96 apiece on BSE today, as compared to the previous close of ₹40.19 on Sunday's Muhurat Trading and touched an intraday high of ₹41.64 on 9 November.",
-   "published": "2026-11-09T06:35:22+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/MIC_ELE_1794205781679_EaNL_1794205781958_Aq74_ff399a7a-aa14-4007-9839-a85d524c1863_Fplc.png",
-   "topics": [],
-   "first_seen": "2026-11-09T07:00:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
-  },
-  {
-   "id": "c151b5c2622f5e4a",
-   "title": "Coal India, IOCL, Vedanta to BPCL: What dividends mean for the Indian stock market amid bull trend buzz? Experts decode",
-   "link": "https://www.livemint.com/market/stock-market-news/coal-india-iocl-vedanta-to-bpcl-what-dividends-mean-for-the-indian-stock-market-amid-bull-trend-buzz-experts-decode-11794196051354.html",
-   "summary": "Dividend stocks in the energy segment have given up to 7% dividend yield in 2026, which signals huge cash flow in these companies despite high volatility in the Indian stock market, say experts&nbsp;",
-   "published": "2026-11-09T06:34:34+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/Coal_India_BPCL_IOCL_Dividend_2026_1794196331337_bnHV_1794196331459_5HAc_e1fceadb-0218-4117-9a48-9c2fcb280dd8_Izko.png",
-   "topics": [],
-   "first_seen": "2026-11-09T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
