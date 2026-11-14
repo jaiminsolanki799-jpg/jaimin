@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-14T17:30:03+00:00",
+ "generated_at": "2026-11-14T18:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-14T17:30:03+00:00"
+   "checked_at": "2026-11-14T18:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
    "error": null,
-   "checked_at": "2026-11-14T17:30:03+00:00"
+   "checked_at": "2026-11-14T18:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-14T17:30:03+00:00"
+   "checked_at": "2026-11-14T18:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 18,
-   "items": 18,
+   "fetched": 16,
+   "items": 16,
    "sample_date": "Fri, 13 Nov 2026 04:58:16 GMT",
    "error": null,
-   "checked_at": "2026-11-14T17:30:03+00:00"
+   "checked_at": "2026-11-14T18:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 16:34:15 +0000",
+   "sample_date": "Sat, 14 Nov 2026 17:45:04 +0000",
    "error": null,
-   "checked_at": "2026-11-14T17:30:03+00:00"
+   "checked_at": "2026-11-14T18:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "2aae0ad36a1c0089",
+   "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+   "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+   "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+   "published": "2026-11-14T17:45:04+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anthony Ha",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T18:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7134e7e1ad670b60",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "published": "2026-11-14T17:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lauren Forristal",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-14T18:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "075bbfb634c2a8a5",
    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
