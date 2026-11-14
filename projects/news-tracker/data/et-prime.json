@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-14T13:30:03+00:00",
+ "generated_at": "2026-11-14T14:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 18:18:57 +0530",
+   "sample_date": "Sat, 14 Nov 2026 19:21:00 +0530",
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 17:19:39 +0530",
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 18:14:49 +0530",
    "error": null,
-   "checked_at": "2026-11-14T13:30:03+00:00"
+   "checked_at": "2026-11-14T14:00:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "efbd20d1107a950c",
+   "title": "Dugarajapatnam gets in-principle nod for ₹30,000-crore shipbuilding cluster in Andhra Pradesh: Check its plans, capacity",
+   "link": "https://www.livemint.com/companies/news/dugarajapatnam-gets-in-principle-nod-for-30-000-crore-shipbuilding-cluster-in-andhra-pradesh-check-its-plans-capacity-11794658893385.html",
+   "summary": "The Centre has granted in-principle approval to a ₹30,000-crore shipbuilding cluster at Dugarajapatnam in Andhra Pradesh. Spread across 3,488 acres, the proposed project aims to build ships with an annual capacity of 1.2 million gross tonnes.",
+   "published": "2026-11-14T13:51:00+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Dugarajapatnam_Shipbuilding_Cluster_1794664075861_Fluw_1794664076109_VXNn_40fb5965-7cba-40d9-9309-56f0748bc68a_hXnT.png",
+   "topics": [],
+   "first_seen": "2026-11-14T14:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d23e677aaa42824a",
+   "title": "Cockroaches, rat droppings: Why FSSAI licences of 7 KFC outlets in Hyderabad were suspended? All we know",
+   "link": "https://www.livemint.com/companies/news/cockroaches-rat-droppings-why-fssai-licences-of-7-kfc-outlets-in-hyderabad-were-suspended-all-we-know-11794661687115.html",
+   "summary": "Telangana suspended FSSAI licences of seven KFC outlets in Hyderabad after inspections reportedly found cockroaches, rat droppings, fungal growth and other hygiene violations. Four more KFC outlets face improvement notices following Nov 12 enforcement drive by TG-SAFE.",
+   "published": "2026-11-14T13:31:15+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/kfc_collage_16x9_1794662908963_evez_1794662925816_r4Hd_ec5dfded-61e3-4cbc-b79d-a0249553c4a4_y7Ho.jpg",
+   "topics": [],
+   "first_seen": "2026-11-14T14:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a926e46a489526f6",
    "title": "Astrotalk removed from Apple App Store? Company clarifies reason, updates on when app can be back",
@@ -11387,42 +11423,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/INDIA-EQUITIES-TAXATION-0_1793369322625_KCuQ_17933_1794211434698_lczr_1794211434875_q9hy_a174ee13-d33c-44d1-b7f1-8993a1e63da3_hNzh.JPG",
    "topics": [],
    "first_seen": "2026-11-09T08:30:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "01e03fa8c6e8c07d",
-   "title": "Microsoft buyouts: ‘Concerned workers’ write open letter to management, urge rethink of ‘speed-at-all-costs’ AI push",
-   "link": "https://www.livemint.com/companies/news/microsoft-buyouts-concerned-workers-write-open-letter-to-management-urge-rethink-of-speed-at-all-costs-ai-push-11794210875850.html",
-   "summary": "Current and former Microsoft employees are challenging the company’s fast-moving AI strategy, calling for greater worker input and an end to tying AI use to rewards or reprimands. The letter comes amid job uncertainty and a voluntary buyout offer for eligible employees in four countries.",
-   "published": "2026-11-09T08:03:49+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/ms_1794211094119_YMEI_1794211106750_aNvG_e9955b8d-31d7-4103-ac9b-d060e67058f4_UXQ9.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T08:30:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "84ee0f919deb54b3",
-   "title": "UCO Bank paid widow’s pending pension arrears, but why did court still impose a ₹15,000 fine?",
-   "link": "https://www.livemint.com/money/uco-bank-paid-widow-s-pending-pension-arrears-but-why-did-court-still-impose-a-rs-15-000-fine-11794208209637.html",
-   "summary": "The complainant alleged that despite multiple official communications from the pension-sanctioning authorities, repeated visits to the branch, and formal representations, the bank failed to release the correctly revised family pension.",
-   "published": "2026-11-09T07:41:35+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Pension_1794208386873_bwDV_1794208391618_yaov_6bc00e25-ab2f-4270-a4c6-116b666739c2_VcDN.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T08:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
