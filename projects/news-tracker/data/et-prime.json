@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T22:30:01+00:00",
+ "generated_at": "2026-11-15T23:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 00:02:18 +0530",
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 00:02:58 +0530",
+   "sample_date": "Mon, 16 Nov 2026 04:00:37 +0530",
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 23:40:52 +0530",
    "error": null,
-   "checked_at": "2026-11-15T22:30:01+00:00"
+   "checked_at": "2026-11-15T23:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "451fc0bb14448ccf",
+   "title": "Gold still rules, but with a difference: How young India is redefining wedding jewellery",
+   "link": "https://economictimes.indiatimes.com/prime/consumer/gold-still-rules-but-with-a-difference-how-young-india-is-redefining-wedding-jewellery/primearticleshow/135859325.cms",
+   "summary": "",
+   "published": "2026-11-15T23:00:01+00:00",
+   "source": "ET Prime: Consumer",
+   "group": "ET Prime",
+   "category": "Consumer",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-15T23:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1902507ae21e0abc",
+   "title": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
+   "link": "https://www.livemint.com/market/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates-11794781837585.html",
+   "summary": "Vietnam’s retail investors are dumping equities and buying high-yielding notes from banks to capture interest rates nearing 10%, as locals and foreigners fall out of favor with the poor-performing stock market.",
+   "published": "2026-11-15T22:30:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T23:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "479b116c52f151ed",
+   "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
+   "link": "https://www.livemint.com/market/emergingmarket-assets-dip-as-chip-rout-fed-rate-worries-linger-11794781837535.html",
+   "summary": "Emerging-market assets fell on Friday as a rout in chipmakers weighed on equities and lingering concerns over the Federal Reserve’s rate path kept currencies under pressure.",
+   "published": "2026-11-15T22:30:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-15T23:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7e01b07b1a0977e2",
    "title": "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch",
@@ -11391,60 +11445,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/gold_price_1794287083622_A4od_1794287083723_qG8Z_c6f13f8b-2b6e-4bb2-831d-68dd2f760cac_nGZt.png",
    "topics": [],
    "first_seen": "2026-11-10T05:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a2163fd23f557361",
-   "title": "Asian Stock Markets Today 10 Nov Tuesday: Kospi up 5%, Nikkei jumps 4% after Wall Street's best day in 7 months; factors",
-   "link": "https://www.livemint.com/market/stock-market-news/asian-markets-today-kospi-surges-5-nikkei-gains-3-after-wall-streets-best-day-in-7-months-whats-fuelling-rally-11794284822074.html",
-   "summary": "Asian markets rallied on Tuesday, led by South Korea and Japan, after Wall Street’s strongest session in seven months. Technology shares rebounded and lower oil prices eased inflation concerns. Indian markets were closed for Diwali-Balipratipada.",
-   "published": "2026-11-10T04:57:03+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Asian_Stocks_Rally_as_Oil_Falls_1794286574870_XjFe_1794286580301_00Sq_c25e4f53-2379-4b4a-b718-580128877e67_iUPX.png",
-   "topics": [],
-   "first_seen": "2026-11-10T05:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9432dfb804c82792",
-   "title": "‘Temple is made for the world’: Deepinder Goyal says doesn’t expect more than 1% sale in India amid debate over pricing",
-   "link": "https://www.livemint.com/companies/news/temple-is-made-for-the-world-deepinder-goyal-says-doesn-t-expect-more-than-1-sale-in-india-amid-debate-over-pricing-11794284802672.html",
-   "summary": "Temple founder Deepinder Goyal defended the forehead-worn wellness device’s ₹85,000 price, saying it was designed for global markets. Pre-orders opened November 1, with shipping expected in early 2027. Goyal describes Temple as a fitness and AI device, not a medical product.",
-   "published": "2026-11-10T04:37:34+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Deepinder_Goyal_1794285110451_rFyD_1794285125485_Kfna_d6433e5c-8128-4df9-869e-83a5e2d293ef_eiVd.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T05:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "34cab1cc5981aa71",
-   "title": "Meet Chirag Munjani: From corporate job to rural tourism, how Gujarat man built experiential travel company",
-   "link": "https://www.livemint.com/companies/people/meet-chirag-munjani-from-corporate-job-to-rural-tourism-how-gujarat-man-built-experiential-travel-company-11794284698124.html",
-   "summary": "In January 2017, Chirag Munjan received the India Responsible Tourism Award for being “Best in Cultural Immersion” &nbsp;at the India Responsible Tourism Summit.",
-   "published": "2026-11-10T04:34:43+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Mumn_1794284730395_TEWu_1794284735591_3QgO_a779efec-1a3f-4546-91f0-c31bedcf9767_sWf9.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T05:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
