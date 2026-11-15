@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T08:00:01+00:00",
+ "generated_at": "2026-11-15T08:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T08:00:01+00:00"
+   "checked_at": "2026-11-15T08:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 07:13:27 GMT",
+   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
    "error": null,
-   "checked_at": "2026-11-15T08:00:01+00:00"
+   "checked_at": "2026-11-15T08:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T08:00:01+00:00"
+   "checked_at": "2026-11-15T08:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 11,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T08:00:01+00:00"
+   "checked_at": "2026-11-15T08:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T08:00:01+00:00"
+   "checked_at": "2026-11-15T08:30:02+00:00"
   }
  ],
  "topics": [
@@ -7647,44 +7647,6 @@
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "c24a726edb9dad85",
-   "title": "CERT-In warns NBFCs and fintech firms of AI-driven attacks",
-   "link": "https://yourstory.com/2026/11/cert-in-warns-nbfcs-and-fintech-firms-of-ai-driven-attacks",
-   "summary": "An advisory from the government body said the AI-assisted financial threat is still active and warns BFSI entities to treat it as an “immediate and continuing threat”.",
-   "published": "2026-11-05T08:12:32+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f0861a8b56373a0f",
-   "title": "Bio-tech startup Venomics AI raises $2.7 Mn in pre-seed round",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXZ4LTh1bnRiM0E2UU05UXZUem56WDRJUVJIRHBPS2V5NzBlRnprX0FLQm1pd3kxWFlIa0Fic3RpY3o4R3NMeWFtSlV5UXJUamtTVkZSTWV4YkRMcm52cWI2NW0wS3V3WC1sdlpfdk9Od1NTOGhiYk4wdlV0cDNFY21HTUZrRGdKVF9qMzV6V25qSFVlRndsQTFxajB0V1nSAZ8BQVVfeXFMUEF2eC04dW50YjNBNlFNOVF2VHpuelg0SVFSSERwT0tleTcwZUZ6a19BS0JtaXd5MVhZSGtBYnN0aWN6OEdzTHlhbUpVeVFyVGprU1ZGUk1leGJETHJudnFiNjVtMEt1d1gtbHZaX3ZPTndTUzhoYmJOMHZVdHAzRWNtR01Ga0RnSlRfajM1elduakhVZUZ3bEExcWowdFdZ?oc=5",
-   "summary": "",
-   "published": "2026-11-05T08:09:18+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
   }
  ]
 }
