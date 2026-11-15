@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T14:00:02+00:00",
+ "generated_at": "2026-11-15T14:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,18 +90,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 18:54:41 +0530",
+   "sample_date": "Sun, 15 Nov 2026 19:28:42 +0530",
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 18:39:06 +0530",
+   "sample_date": "Sun, 15 Nov 2026 19:35:24 +0530",
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 19:15:19 +0530",
+   "sample_date": "Sun, 15 Nov 2026 19:31:31 +0530",
    "error": null,
-   "checked_at": "2026-11-15T14:00:02+00:00"
+   "checked_at": "2026-11-15T14:30:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "4e32e1731c7e573f",
+   "title": "Stock to buy after Q2 Results 2026: Up 70% in YTD! Should you buy retail stock after strong guidance? Target, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-up-70-in-ytd-should-you-buy-this-retail-stock-after-strong-growth-guidance-target-11794751254602.html",
+   "summary": "Baazar Style Retail shares rose 5.39% on Friday and gained about 20% in a week ahead of the company’s Q2 FY27 results. Revenue from operations declined year over year to ₹47,848.31 lakh.&nbsp;",
+   "published": "2026-11-15T14:05:24+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Baazar_Style_Retail_Share_Outlook_1794751475653_hwRT_1794751486180_EYT4_b66ce2be-f2a5-47bc-8607-a5db0dbee9ad_i2pN.png",
+   "topics": [],
+   "first_seen": "2026-11-15T14:30:04+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "e826ef66807c7820",
+   "title": "8th Pay Commission salary hike: How a 7% annual increment could take your basic pay above ₹1 lakh in 10 years",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-how-a-7-annual-increment-could-take-your-basic-pay-above-1-lakh-in-10-years-11794750743953.html",
+   "summary": "A higher fitment factor could deliver a bigger initial salary hike under the 8th Pay Commission, but a 7% annual increment could help central government employees earn more over 10 years. Here's how basic pay could change under different salary scenarios.",
+   "published": "2026-11-15T14:01:31+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_enerated_Image_reozm9reozm9reoz_179475097_1794750978225_SzZW_1794750978367_Gdbg_f60b8d15-3d58-45b4-8675-e760bdbd7e64_UlAF.png",
+   "topics": [],
+   "first_seen": "2026-11-15T14:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c94ca99595b33bbc",
+   "title": "AI makes 2 Indian-origin founders world’s youngest self-made billionaires worth ₹40,000 crore each, beats Zuckerberg",
+   "link": "https://www.livemint.com/companies/ai-makes-2-indian-origin-founders-world-s-youngest-self-made-billionaires-worth-40-000-crore-each-beats-zuckerberg-11794748301344.html",
+   "summary": "AI startup Mercor's three co-founders- Hiremath, chief technology officer; Midha, board chairman; and Brendan Foody, chief executive officer, hold 21% stakes in the company individually. Here's everything about them.",
+   "published": "2026-11-15T13:58:42+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/217089_1794751088517_bUZG_1794751092288_8Q2g_2e8d361c-8d31-4e70-8880-8683e58c53bf_1Ynf.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T14:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7c7b5dd65639bf24",
    "title": "Got tax refund twice? Here is what you should do",
@@ -6806,7 +6862,7 @@
    "link": "https://economictimes.indiatimes.com/prime/energy/png-connections-rise-half-a-million-but-how-many-use-piped-gas-for-cooking/primearticleshow/135573642.cms",
    "summary": "",
    "published": "2026-11-12T05:30:01+00:00",
-   "source": "ET Prime: Energy",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Energy",
    "date_known": false,
@@ -11391,60 +11447,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Yes_Bank_1793960887624_bfeU_1793960924894_mhBY_d88_1794219976216_7ziq_1794219976329_burs_7b76f605-ffc0-4a9c-b206-74861d4ff85c_ok5u.png",
    "topics": [],
    "first_seen": "2026-11-10T01:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8ad016ab943b6065",
-   "title": "BNPL makes a comeback as payment apps try to fix its broken economics",
-   "link": "https://www.livemint.com/companies/start-ups/bnpl-makes-a-comeback-as-payment-apps-try-to-fix-its-broken-economics-11793872644805.html",
-   "summary": "The latest proposition combines payments, shopping and credit: acquire customers through UPI, finance their purchases and use repayment behaviour to assess them for larger loans.",
-   "published": "2026-11-10T00:30:51+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/pexels-photo-6237886_1794227188058_TRDx_1794227209764_cU6Z_9e64dcd9-167d-4769-a68c-547e07ce39a4_JALP.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-10T01:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2edfd889f33e8ddd",
-   "title": "Pay by the mile! GMR proposes nearly doubling UDF at Bhogapuram airport, drawing IndiGo's ire",
-   "link": "https://www.livemint.com/companies/news/pay-by-the-mile-gmr-proposes-nearly-doubling-udf-at-bhogapuram-airport-drawing-indigos-ire-11794235217890.html",
-   "summary": "Airlines and experts warn that higher fees could make flying less affordable, dampen passenger demand and push short-haul travellers towards trains.",
-   "published": "2026-11-10T00:30:31+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/2-0-259359318-gmr-0_1680613687884_1794239111009_hzBn_09aadb66-1e4c-4e93-95db-636b5638792d_e5TF.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T01:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "36445f5106eca294",
-   "title": "Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR",
-   "link": "https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html",
-   "summary": "Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data in its dispute with Kleros Capital. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest, and an order to seize shares in two Tata Power arms.",
-   "published": "2026-11-10T00:20:30+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794233272914_WxeH_921f5643-3aa6-4c90-9f46-4137e009b091_3iv9.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T00:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
