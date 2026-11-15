@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T14:30:04+00:00",
+ "generated_at": "2026-11-15T15:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T14:30:04+00:00"
+   "checked_at": "2026-11-15T15:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
+   "sample_date": "Sat, 14 Nov 2026 07:23:49 GMT",
    "error": null,
-   "checked_at": "2026-11-15T14:30:04+00:00"
+   "checked_at": "2026-11-15T15:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T14:30:04+00:00"
+   "checked_at": "2026-11-15T15:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T14:30:04+00:00"
+   "checked_at": "2026-11-15T15:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T14:30:04+00:00"
+   "checked_at": "2026-11-15T15:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,29 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "9cf3e87037ac0d17",
+   "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
+   "link": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026",
+   "summary": "The second week of November saw venture capital funding into Indian startups drop to its lowest level for the year till now due to weak deal activity.",
+   "published": "2026-11-15T14:28:16+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-15T15:00:01+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
+  },
   {
    "id": "a3d00cb47c2305f2",
    "title": "India, US have agreed on preferential market access for Indian goods in America: Piyush Goyal",
@@ -7278,24 +7299,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "4903344a90138b1d",
-   "title": "Instagram brings Edits to desktop to take on CapCut",
-   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-   "published": "2026-11-05T15:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Aisha Malik",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
