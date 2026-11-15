@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T09:00:01+00:00",
+ "generated_at": "2026-11-15T09:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 07:23:49 GMT",
+   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 11,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "fc67049de3e8e719",
+   "title": "Zomato-parent Eternal reworking 2030 EV delivery target amid fleet expansion, evolving EV adoption",
+   "link": "https://yourstory.com/2026/11/zomato-eternal-reworks-ev-delivery-target-fleet-expansion-evolving-adoption",
+   "summary": "The company is working towards a revised timeline, factoring in the availability of electric vehicles, supporting government policies, and the transportation requirements of its various businesses.",
+   "published": "2026-11-15T09:24:35+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-15T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "07d81700676ccc05",
    "title": "5 lessons from book Be Delusional by Harinder Singh Pelia",
@@ -7571,60 +7589,6 @@
    "author": "Nitin Konde",
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/11/fssai-flags-pepsico-over-marketing-beverages-as-energy-drinks-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "491508194a293919",
-   "title": "CERT-In warns of security vulnerabilities in Tata Motors' connected vehicle apps",
-   "link": "https://yourstory.com/2026/11/cert-in-security-vulnerabilities-tata-motors-connected-vehicle-apps",
-   "summary": "The vulnerabilities affect specific versions of the apps used by internal combustion engine (ICE) and electric vehicle (EV) owners, raising fresh concerns around cybersecurity risks in connected vehicles.",
-   "published": "2026-11-05T09:20:02+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5e8b09efef16b3fc",
-   "title": "10 Best Free AI UGC Tools to Create User-Generated Content Videos",
-   "link": "https://startuptalky.com/best-free-ai-ugc-tools/",
-   "summary": "Explore 10 free AI UGC tools to create engaging videos, product ads, and social media content. Compare features, free plans, and limitations.",
-   "published": "2026-11-05T09:06:01+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Vivek Dev Jacob",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/Best-Free-AI-UGC-Tools-StartupTalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2a8e471943d10061",
-   "title": "Startup news and updates: daily roundup (November 05, 2026)",
-   "link": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-05-2026",
-   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, November 05, 2026.",
-   "published": "2026-11-05T09:05:13+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,

@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T09:00:01+00:00",
+ "generated_at": "2026-11-15T09:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 13:16:17 +0530",
+   "sample_date": "Sun, 15 Nov 2026 14:30:57 +0530",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 14:08:41 +0530",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 13:47:57 +0530",
+   "sample_date": "Sun, 15 Nov 2026 14:58:44 +0530",
    "error": null,
-   "checked_at": "2026-11-15T09:00:01+00:00"
+   "checked_at": "2026-11-15T09:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "9672c89c03b1d007",
+   "title": "Woman loses ₹70,084 in online fraud, bank ordered to refund money and pay compensation: What happened, how to be safe",
+   "link": "https://www.livemint.com/money/woman-loses-70-084-in-online-fraud-bank-ordered-to-refund-money-and-pay-compensation-what-happened-how-to-be-safe-11794734498752.html",
+   "summary": "A Delhi consumer commission ordered a bank to refund ₹70,084 lost in unauthorised online transactions and pay ₹25,000 in compensation and costs.&nbsp;",
+   "published": "2026-11-15T09:28:44+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Consumer_1794734898663_J6b1_1794734905354_mRHj_40a1ce96-014b-45e3-a10d-8c2ce742bb6b_UeXU.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f90dd5bc84998e72",
+   "title": "Want clarification about EPF, EPS, EDLI, wage ceiling? Here's how to meet EPFO representatives from 14-27 Nov — Details",
+   "link": "https://www.livemint.com/money/want-clarification-about-epf-eps-edli-wage-ceiling-heres-how-to-meet-epfo-representatives-from-14-27-nov-details-11794730813000.html",
+   "summary": "EPFO has invited members to visit its pavilion at the IIFT in New Delhi from November 14–27, 2026, to learn about its services and social security schemes. Here's a look at the latest updates from the retirement fund body…&nbsp;",
+   "published": "2026-11-15T09:04:09+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/EPFO_1794733208715_A61Y_1794733227283_oXXn_3b9e2ac0-5809-4151-813e-a2db37e7f5ef_Mth7.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7715876737bc8a6d",
+   "title": "Jensen Huang spy scandal: Singapore-based Megaspeed breaks silence on Alice Huang, says she left the firm last year",
+   "link": "https://www.livemint.com/companies/news/jensen-huang-spy-scandal-singapore-based-megaspeed-breaks-silence-on-alice-huang-says-she-left-the-firm-last-year-11794732579744.html",
+   "summary": "Singapore-based Megaspeed, the company that recruited Alice Huang, broke its silence on the controversy on Sunday (local time). The company said she had left the firm in August last year.",
+   "published": "2026-11-15T09:00:57+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/NVIDIA-CEO--6_1794733192813_0Uu2_1794733209316_gO5r_7ab7ab19-c2f7-4aaa-adfc-88a081daea0d_wtAb.JPG",
+   "topics": [],
+   "first_seen": "2026-11-15T09:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1825e3150f67466d",
    "title": "Nifty 50 above 25,000, holds key moving averages: Is Buy-On-Dips right strategy? Here's what stock market experts say",
@@ -11376,60 +11430,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generated_Image_18hc218hwc218hw_1794236170_1794236188077_oVoM_1794236188198_7xhQ_0cdc46f2-1106-4c9e-8872-388b073f39a5_Cy3E.png",
    "topics": [],
    "first_seen": "2026-11-09T15:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9e980c6cfe933992",
-   "title": "What is WuXi AppTec? Why Chinese biotech giant was removed from Pentagon's military list",
-   "link": "https://www.livemint.com/companies/news/what-is-wuxi-apptec-why-chinese-biotech-giant-was-removed-from-pentagons-military-list-11794233040160.html",
-   "summary": "What is WuXi AppTec? Why was the Chinese drugmaker on the Pentagon's military list, and what does its removal mean for investors and global pharma?",
-   "published": "2026-11-09T14:52:37+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/wuxi_1794234819922_IsT8_1794234820065_I4OD_970de878-4733-4d37-aae6-eeace8e1ef63_6yzW.png",
-   "topics": [],
-   "first_seen": "2026-11-09T15:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b7d92ee01e1529be",
-   "title": "Eternal shares rebound over 70% from March lows, emerge as top Nifty 50 recovery stock; what drove the rally?",
-   "link": "https://www.livemint.com/market/eternal-shares-rebound-over-70-from-march-lows-emerge-as-top-nifty-50-recovery-stock-what-drove-the-rally-11794234112702.html",
-   "summary": "Eternal shares have rebounded 71% from their March low, making the company a standout Nifty recovery story as Swiggy struggles. Growth is supported by Blinkit’s expanding store network, rising order value and six consecutive quarters of improving margins.",
-   "published": "2026-11-09T14:47:23+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Zomato_1794235532221_ZLW5_1794235542101_d0wf_b7e27adb-f828-4056-8ba4-54bbc7871167_bzrW.png",
-   "topics": [],
-   "first_seen": "2026-11-09T15:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9562949c4f893e5f",
-   "title": "BDR Pharma buys majority stake in Acme’s oral solids formulations business",
-   "link": "https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html",
-   "summary": "Existing investors, including private equity firm PAG, are selling their stakes in Acme's oral solids formulations business in a transaction that is expected to value the business at about $250 million.",
-   "published": "2026-11-09T14:27:50+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/im-00943265_1780479279305_1794234297346_nJXb_57266158-fd02-4a26-8587-febfa251ee56_vl7p.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T15:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
