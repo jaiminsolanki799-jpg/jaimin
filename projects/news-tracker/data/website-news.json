@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T17:30:05+00:00",
+ "generated_at": "2026-11-15T18:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 3,
-   "items": 3,
-   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
-   "error": null,
-   "checked_at": "2026-11-15T17:30:05+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-11-15T18:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 09:00:00 GMT",
+   "sample_date": "Sat, 14 Nov 2026 07:23:49 GMT",
    "error": null,
-   "checked_at": "2026-11-15T17:30:05+00:00"
+   "checked_at": "2026-11-15T18:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T17:30:05+00:00"
+   "checked_at": "2026-11-15T18:00:03+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 6,
-   "items": 6,
-   "sample_date": "Sat, 14 Nov 2026 06:41:10 GMT",
-   "error": null,
-   "checked_at": "2026-11-15T17:30:05+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-11-15T18:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 17:05:00 +0000",
    "error": null,
-   "checked_at": "2026-11-15T17:30:05+00:00"
+   "checked_at": "2026-11-15T18:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 0,
  "items": [
   {
    "id": "0e3d88607bd3362c",
@@ -7013,62 +7013,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "IPO"
-   ]
-  },
-  {
-   "id": "7f7ad02b026457de",
-   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-   "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-   "published": "2026-11-05T18:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Connie Loizos",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b0e121b3a461c115",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-   "published": "2026-11-05T18:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Aisha Malik",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e174163944b16a9f",
-   "title": "Harbinger raises $240M after expanding into defense",
-   "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-   "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-   "published": "2026-11-05T17:52:44+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sean O'Kane",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
    ]
   }
  ]
