@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T07:30:01+00:00",
+ "generated_at": "2026-11-15T08:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 12:47:42 +0530",
+   "sample_date": "Sun, 15 Nov 2026 13:16:17 +0530",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 12:39:36 +0530",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 12:46:45 +0530",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "d5b0bb614e1109f9",
+   "title": "‘I hope you die…’: What ex-Nvidia CEO Jensen Huang told senior exec Jay Puri | A look at his temper tantrums",
+   "link": "https://www.livemint.com/companies/people/i-hope-you-die-what-ex-nvidia-ceo-jensen-huang-told-senior-exec-jay-puri-a-look-at-his-temper-tantrums-11794727765102.html",
+   "summary": "A report has shed light on Jensen Huang's alleged temper inside Nvidia, detailing how the former CEO reportedly berated senior executives, including Jay Puri, during meetings attended by dozens of employees.",
+   "published": "2026-11-15T07:46:17+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/NVIDIA-CEO-JOHNSON-0_1794727841921_WOYK_1794727866222_dcIN_ba59289f-a7d3-4d1c-b5e7-51cd7c42167a_AKNw.JPG",
+   "topics": [],
+   "first_seen": "2026-11-15T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b3215b9702c68d03",
    "title": "Meet Hussain Sajwani, the Dubai investor who made more money from Anthropic in 2 years than his 30 years of investments",
@@ -11410,24 +11428,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/precious_metals_outlook_1794232807908_E2Ih_1794232808047_29ch_b2f22b1c-2aeb-461c-9fe2-b8fbb6bf12de_kOvD.png",
-   "topics": [],
-   "first_seen": "2026-11-09T14:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d73f332bf4ad50db",
-   "title": "Doubling direct rural reach, Dabur wants to stay true to its roots: CEO Bhalla",
-   "link": "https://www.livemint.com/companies/doubling-direct-rural-reach-dabur-wants-to-stay-true-to-its-roots-ceo-bhalla-11794200936406.html",
-   "summary": "Dabur is pursuing growth through wider rural reach, premium products and stronger digital sales without sacrificing its mass-market portfolio.",
-   "published": "2026-11-09T14:00:19+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/DaburCEOHerjitBhallaJPG_1794201187282_uiyq_1794201_1794205011253_urEO_1794205011458_0Kgl_fce7e433-dfdf-4902-b48c-96f783ae488f_kQYn.jpeg",
    "topics": [],
    "first_seen": "2026-11-09T14:30:01+00:00",
    "valuation_score": 0,

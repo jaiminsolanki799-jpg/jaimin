@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T07:30:01+00:00",
+ "generated_at": "2026-11-15T08:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
+   "sample_date": "Sat, 14 Nov 2026 07:13:27 GMT",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 14,
-   "items": 14,
+   "fetched": 11,
+   "items": 11,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T07:30:01+00:00"
+   "checked_at": "2026-11-15T08:00:01+00:00"
   }
  ],
  "topics": [
@@ -7684,62 +7684,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "Funding"
-   ]
-  },
-  {
-   "id": "62c31cc872605e22",
-   "title": "Mercedes-Benz Strengthens India Operations with INR 200 Crore Localisation Push",
-   "link": "https://startuptalky.com/news/mercedes-benz-strengthens-india-operations/",
-   "summary": "Mercedes-Benz India has invested an additional INR 200 crore in manufacturing and localisation at its Chakan factory in Pune as bookings for the locally built GLC Electric SUV cross 1,000 units. The investment would boost local production and better the availability of vehicles.",
-   "published": "2026-11-05T07:57:35+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/mercedes-benz-strengthens-india-operations-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "97f019cbe9063b23",
-   "title": "Tonbo Imaging turns profitable in Q2 FY27 with Rs 23.5 Cr; shares hit 20% upper circuit",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE84aUZUVGRTUGhLdFhiMEdfVmRndUZjMVM5N1FZTXo3Wmg5QjZUUXBMS0Vfbl94bkZub1RiT1lrYkMzSHBsSUdQNHhPTWVqRkdfaVU5Uy1SLXA2YXBDNnJraEhWX3N3cGRkNnowLVhTbkptOUF6cUxRSHdMM0lmSDFaSUE0eVhBbWhfRnZ6amRpNF9IcmRxTkdneW1oZDQzanNhVVVBWlRRR2tFOTVvanlHdEtvTlB2blE1OTBRN2FrUdIBwgFBVV95cUxOcE84aUZUVGRTUGhLdFhiMEdfVmRndUZjMVM5N1FZTXo3Wmg5QjZUUXBMS0Vfbl94bkZub1RiT1lrYkMzSHBsSUdQNHhPTWVqRkdfaVU5Uy1SLXA2YXBDNnJraEhWX3N3cGRkNnowLVhTbkptOUF6cUxRSHdMM0lmSDFaSUE0eVhBbWhfRnZ6amRpNF9IcmRxTkdneW1oZDQzanNhVVVBWlRRR2tFOTVvanlHdEtvTlB2blE1OTBRN2FrUQ?oc=5",
-   "summary": "",
-   "published": "2026-11-05T07:48:28+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d0b7cacef9ff435e",
-   "title": "Shiprocket swings to profit in Q2 FY27; revenue rises 35% to Rs 674 Cr",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclVsR2xyWFRVVE81Zjdzb3Jhd1NVOW1MZkZ5cGtRQVFMemh6YXU3OE14MzE2TXpsNGxJRjhnR3I4d083V21fT1dZb3RLbUoxYzhiNWxRRVVnaTFKUkRYYkpITmVWOUpJMTV5RVBlZElNUV9razU1Qk5jVmdQUm1TWnhNOW9TVURBVmh3NTJhRU1odlJSY0dzZTdkR01UdTdkZ1VXNnNRLTZsZHNT0gGsAUFVX3lxTE5yVWxHbHJYVFVUTzVmN3NvcmF3U1U5bUxmRnlwa1FBUUx6aHphdTc4TXgzMTZNemw0bElGOGdHcjh3TzdXbV9PV1lvdEttSjFjOGI1bFFFVWdpMUpSRFhiSkhOZVY5SkkxNXlFUGVkSU1RX2trNTVCTmNWZ1BSbVNaeE05b1NVREFWaHc1MmFFTWh2UlJjR3NlN2RHTVR1N2RnVVc2c1EtNmxkc1M?oc=5",
-   "summary": "",
-   "published": "2026-11-05T07:40:41+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
    ]
   }
  ]
