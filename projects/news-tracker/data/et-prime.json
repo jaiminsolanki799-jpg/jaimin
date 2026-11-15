@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T03:00:02+00:00",
+ "generated_at": "2026-11-15T03:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 07:44:05 +0530",
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 07:34:11 +0530",
+   "sample_date": "Sun, 15 Nov 2026 08:31:01 +0530",
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 07:38:08 +0530",
    "error": null,
-   "checked_at": "2026-11-15T03:00:02+00:00"
+   "checked_at": "2026-11-15T03:30:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "545506885b30dbc6",
+   "title": "Top 3 stocks to buy: Redington, Aster DM, Canara Bank by Ganesh Dongre of Anand Rathi | Targets, stop-loss, market view",
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-redington-aster-dm-canara-bank-by-ganesh-dongre-of-anand-rathi-targets-stop-loss-market-view-11794710212072.html",
+   "summary": "Nifty 50 prediction: The 25,500–25,600 zone will be the next significant resistance area to watch, says Ganesh Dongre of Anand Rathi",
+   "published": "2026-11-15T03:01:01+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Ganesh_Dongre_stock_recommendations_Stocks_to_buy_1794710571924_Xaub_1794710572106_6nFG_56b16d31-5d88-46ea-afa6-5965bc08237e_mETz.png",
+   "topics": [],
+   "first_seen": "2026-11-15T03:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cb8fb72e30f95411",
    "title": "Investors urge board to consider return of Jensen Huang, Musk says Nvidia will lose critical deals without its founder",
@@ -11405,26 +11423,6 @@
    "valuation_score": 6,
    "valuation_signals": [
     "Valuation",
-    "Results"
-   ]
-  },
-  {
-   "id": "79ad32ebb1712c23",
-   "title": "Winter is coming! Voltas delivers strong Q2 results. Should you buy the Tata Group AC maker as cold winds rise?",
-   "link": "https://www.livemint.com/market/stock-market-news/winter-is-coming-voltas-delivers-strong-q2-results-should-you-buy-the-tata-group-ac-maker-as-cold-winds-rise-11794212915132.html",
-   "summary": "Voltas shares rose 2.5% after Q2 FY27 net profit increased 51.4% year on year to ₹47.71 crore and revenue grew 15.3% to ₹2,706.57 crore. Room air conditioners led growth, while project revenue fell. Brokerages differed on the stock, with target prices ranging from ₹1,160 to ₹1,500.",
-   "published": "2026-11-09T10:37:31+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Voltas_Q2_Results_Should_You_Buy_1794220437292_LQIS_1794220441055_UEkf_bfd5801c-7397-4340-af69-50f8c65dffa2_AOIb.png",
-   "topics": [],
-   "first_seen": "2026-11-09T11:00:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
     "Results"
    ]
   }
