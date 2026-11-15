@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T18:00:03+00:00",
+ "generated_at": "2026-11-15T18:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "ok": true,
+   "fetched": 6,
+   "items": 4,
+   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 23:10:44 +0530",
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 22:00:45 +0530",
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 22:46:44 +0530",
+   "sample_date": "Sun, 15 Nov 2026 23:40:52 +0530",
    "error": null,
-   "checked_at": "2026-11-15T18:00:03+00:00"
+   "checked_at": "2026-11-15T18:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "09fb280fa0718a58",
+   "title": "Income tax department flags ₹1.5 crore deal over WhatsApp chat and ₹10 note photo; why ITAT deleted the addition",
+   "link": "https://www.livemint.com/money/personal-finance/income-tax-department-flags-1-5-crore-deal-over-whatsapp-chat-and-10-note-photo-why-itat-deleted-the-addition-11794764237082.html",
+   "summary": "A ₹10 note photograph and WhatsApp conversation triggered a ₹1.5 crore tax addition against an advertising firm. ITAT deleted the addition, ruling that third-party messages and statements did not establish the company's involvement in the alleged cash transaction.",
+   "published": "2026-11-15T18:10:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Gnerated_Image_95sslb95sslb95ss_17947645_1794764569191_3WGF_1794764569331_OFjK_bd98362e-a623-47e7-8448-876722033bec_Ejxn.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-15T18:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8c27f48c8331b341",
    "title": "‘The kitchen is at the heart of every household’: Why Ajinkya Rahane invested in cookware brand Ember",
@@ -11424,24 +11444,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/gold_price_1794282365099_eejf_1794282370893_UZT6_30a9e34d-4dd1-4983-92de-90edbbed4b44_tND9.png",
-   "topics": [],
-   "first_seen": "2026-11-10T04:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "301109d506b8ecab",
-   "title": "Who are James Gunn and Peter Safran of DC Studios — Why are they stepping down? Who from Marvel is replacing them?",
-   "link": "https://www.livemint.com/companies/people/who-are-james-gunn-and-peter-safran-of-dc-studios-why-are-they-stepping-down-who-from-marvel-is-replacing-them-11794278446119.html",
-   "summary": "Former Marvel executive Jeremy Latcham has been appointed as the new president and chief creative officer of DC Studios",
-   "published": "2026-11-10T03:54:11+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/US-WORLD-PREMIERE-OF-WARNER-BROS_1794282090092_zB7k_1794282090203_dP5c_ad65c2ab-d835-4084-b06b-7001dedd4a2e_oOgH.jpg",
    "topics": [],
    "first_seen": "2026-11-10T04:00:03+00:00",
    "valuation_score": 0,
