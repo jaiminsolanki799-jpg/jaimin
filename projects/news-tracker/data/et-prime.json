@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T00:30:02+00:00",
+ "generated_at": "2026-11-15T01:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 01:20:26 +0530",
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 14 Nov 2026 21:31:01 +0530",
+   "sample_date": "Sun, 15 Nov 2026 06:01:14 +0530",
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sat, 14 Nov 2026 23:45:19 +0530",
    "error": null,
-   "checked_at": "2026-11-15T00:30:02+00:00"
+   "checked_at": "2026-11-15T01:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "22868c7b6db8e795",
+   "title": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+   "link": "https://www.livemint.com/market/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate-11794702675152.html",
+   "summary": "Cryptocurrencies tumbled over the weekend, with Bitcoin slumping to a three-month low of just above $63,000 as leveraged long positions were liquidated.",
+   "published": "2026-11-15T00:31:14+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-15T01:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "1146dcb5dc85070b",
    "title": "JPMorgan Loses Card Chief Allison Beer to ‘External Opportunity’",
@@ -11405,24 +11423,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/IREDAA_1794216705060_3ad0_1794216705174_NJo0_ba8dcbad-7fff-4268-a67f-874529a890d1_vYJP.png",
-   "topics": [],
-   "first_seen": "2026-11-09T10:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1d339deb59dc00fb",
-   "title": "Who is Ramswaroop Munde? Surat businessman wins internet over ₹1 lakh Diwali bonus viral videos — Watch",
-   "link": "https://www.livemint.com/companies/news/who-is-ramswaroop-munde-surat-businessman-wins-internet-over-rs-1-lakh-diwali-bonus-viral-videos-watch-11794215526066.html",
-   "summary": "Munde, a resident of Bikaner in Rajasthan who runs a clothing business in Surat, broke with the common tradition of handing out gifts or sweets. He, instead, presented them with bundles of fresh currency notes.",
-   "published": "2026-11-09T09:34:37+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Mumnde_1794216506917_xm2R_1794216510537_5518_1f25a42e-bbe2-4201-a036-ac6ea23ff78d_HgVv.jpg",
    "topics": [],
    "first_seen": "2026-11-09T10:00:01+00:00",
    "valuation_score": 0,
