@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T15:00:01+00:00",
+ "generated_at": "2026-11-15T15:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 19:28:42 +0530",
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 19:35:24 +0530",
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 19:31:31 +0530",
+   "sample_date": "Sun, 15 Nov 2026 20:55:43 +0530",
    "error": null,
-   "checked_at": "2026-11-15T15:00:01+00:00"
+   "checked_at": "2026-11-15T15:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "3842fa30488cf32d",
+   "title": "How long will it take to build a ₹1 crore corpus through ₹10,000, ₹20,000 or ₹30,000 monthly SIP?",
+   "link": "https://www.livemint.com/money/personal-finance/how-long-will-it-take-to-build-a-rs-1-crore-corpus-through-rs-10-000-rs-20-000-or-rs-30-000-monthly-sip-11794754795624.html",
+   "summary": "Investors can choose from different categories of mutual funds, including equity, hybrid and debt funds, depending on their financial goals and risk appetite",
+   "published": "2026-11-15T15:25:43+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/sip_1794755294044_aOFG_1794755319941_azBp_8a3d8883-7f09-4f61-9df5-94f721731efe_RF94.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T15:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fe500f3e4ec126cd",
+   "title": "FD returns: Your bank offers 6.35% interest, but how much do you actually earn after tax? Check returns across top banks",
+   "link": "https://www.livemint.com/money/personal-finance/fd-returns-your-bank-offers-6-35-interest-but-how-much-do-you-actually-earn-after-tax-check-returns-across-top-banks-11794753790057.html",
+   "summary": "Bank fixed deposits may appear attractive, but the interest earned is not the amount investors ultimately take home. Compare how taxation affects FD returns across HDFC Bank, ICICI Bank, SBI and PNB, and what investors should consider before locking in their money.",
+   "published": "2026-11-15T15:10:31+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Generated_Imagers9u3ars9u3ars9u_17947539_1794753987511_9Brj_1794753987635_NWqT_9502c706-ec67-4fb2-917b-50a32e23b674_h7Cx.png",
+   "topics": [],
+   "first_seen": "2026-11-15T15:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4e32e1731c7e573f",
    "title": "Stock to buy after Q2 Results 2026: Up 70% in YTD! Should you buy retail stock after strong guidance? Target, stop-loss",
@@ -11411,42 +11447,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/bank_holdua_1794273263136_a120_1794273273879_Odbe_33f1afbc-f4d9-46d0-8a12-e4b18f40cf38_cIIW.png",
    "topics": [],
    "first_seen": "2026-11-10T01:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1d3de4a909d95425",
-   "title": "Stock recommendations for 11 November from MarketSmith India",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-november-from-marketsmith-india-11794226262086.html",
-   "summary": "MarketSmith India reveals its top stock recommendations for today, 11 November. Get expert insights into the best-performing stocks to guide your investment decisions.",
-   "published": "2026-11-10T00:30:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/MS_1755693310577_1755693317448_1756904694597_1772627086309.png",
-   "topics": [],
-   "first_seen": "2026-11-10T01:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "50a0a035b81b1e5b",
-   "title": "Yes Bank AT-1 bondholders still await clarity on their money nearly a month after SC verdict",
-   "link": "https://www.livemint.com/companies/news/yes-bank-at-1-bondholders-still-await-clarity-on-their-money-nearly-a-month-after-sc-verdict-11794213239487.html",
-   "summary": "Investors are still waiting for Yes Bank to restore their ₹8,415 crore AT-1 bond investments nearly a month after the Supreme Court overturned the 2020 write-off.",
-   "published": "2026-11-10T00:30:54+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Yes_Bank_1793960887624_bfeU_1793960924894_mhBY_d88_1794219976216_7ziq_1794219976329_burs_7b76f605-ffc0-4a9c-b206-74861d4ff85c_ok5u.png",
-   "topics": [],
-   "first_seen": "2026-11-10T01:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
