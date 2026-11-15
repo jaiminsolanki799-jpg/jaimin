@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T09:30:02+00:00",
+ "generated_at": "2026-11-15T10:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 14:30:57 +0530",
+   "sample_date": "Sun, 15 Nov 2026 15:08:14 +0530",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 14:08:41 +0530",
+   "sample_date": "Sun, 15 Nov 2026 15:05:41 +0530",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 14:58:44 +0530",
+   "sample_date": "Sun, 15 Nov 2026 15:01:12 +0530",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,66 @@
  ],
  "new_since_last_run": 4,
  "items": [
+  {
+   "id": "d34e6d5613e7030e",
+   "title": "Nvidia disruption, likely Democratic shift on data centres could impact AI investments, say experts. Who is set to gain?",
+   "link": "https://www.livemint.com/companies/news/nvidia-disruption-likely-democratic-shift-data-centres-policy-impact-ai-investments-experts-who-gain-chipmakers-big-tech-11794725599362.html",
+   "summary": "Experts feel that the Nvidia turmoil and potential Democratic-led limits on data-center construction could redirect AI investment towards other chipmakers and Big Tech firms with available computing capacity. Does long-term growth outlook remain strong?",
+   "published": "2026-11-15T09:38:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/pexels-photo-35638668_1794734464162_WYZA_1794734480267_cMyy_ca5a43d2-b320-45ea-a4dc-7bb90d68536d_F9xb.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-15T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e4ea3a5acda81ab6",
+   "title": "Coal India's Mahanadi Coalfields IPO: Stage set for launch, price band tomorrow; GMP, allotment, listing, other details",
+   "link": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-set-for-launch-price-band-tomorrow-gmp-allotment-listing-other-details-11794731994241.html",
+   "summary": "Mahanadi Coalfields, Coal India’s largest coal-producing subsidiary, will open its IPO for subscription from 19 to 23 November. The offer is a sale of up to 66.18 crore shares by Coal India, expected to raise about ₹9,500 crore. The price band is yet to be announced.",
+   "published": "2026-11-15T09:35:41+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Mahanadi_Coalfields_IPO_Mining_Banner_179473521839_1794735227887_kvKV_1794735228016_n9fH_988e5780-fac9-4755-b96b-f47b51be758b_RZe7.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-15T10:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "b34b1f93fb777143",
+   "title": "Electricity bill scam alert: Don’t fall prey to it! Warning from SBI against fake KYC calls and suspicious payment links",
+   "link": "https://www.livemint.com/money/personal-finance/electricity-bill-scam-alert-don-t-fall-prey-to-it-warning-from-sbi-against-fake-kyc-calls-and-suspicious-payment-links-11794731661619.html",
+   "summary": "SBI has warned consumers about electricity bill scams involving fake KYC calls, suspicious payment links and impersonation of utility officials. Know how fraudsters operate so that you can protect your personal information and avoid financial losses through simple precautions.",
+   "published": "2026-11-15T09:31:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/electricity_scam_1794732037878_yMM1_1794732038062_WLTN_e291c814-3d06-400e-8862-a01b5cad9ab6_hIzM.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-15T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9672c89c03b1d007",
    "title": "Woman loses ₹70,084 in online fraud, bank ordered to refund money and pay compensation: What happened, how to be safe",
@@ -11376,60 +11436,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274605184_LM6w_1794274610342_uj7B_225225fd-5b62-491b-9896-c7920be9ac30_Jw1I.jpg",
    "topics": [],
    "first_seen": "2026-11-09T16:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ffe3929df3941752",
-   "title": "Nvidia chips, Alibaba ties and Jensen Huang scandal: Inside Alice Huang's $100 million-plus pitch",
-   "link": "https://www.livemint.com/companies/news/nvidia-chips-alibaba-ties-and-jensen-huang-scandal-inside-alice-huangs-100-million-plus-pitch-11794237553842.html",
-   "summary": "Alice Huang reportedly pitched a multi-million-dollar data centre project using Nvidia GPU access and Alibaba ties. Report reveals details of her business dealings amid the Jensen Huang controversy.",
-   "published": "2026-11-09T15:52:08+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274598797_JWm3_1794274604417_QGmC_e433ff58-76fd-4215-8649-1bace46aa531_MvAf.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ad43dae7a5b0949b",
-   "title": "Wall Street bounces back from AI sell-off, Nasdaq rallies over 3%, but Nvidia plunges 9% on Jensen Huang controversy",
-   "link": "https://www.livemint.com/market/stock-market-news/wall-street-bounces-back-from-ai-sell-off-nasdaq-rallies-over-3-but-nvidia-plunges-9-on-jensen-huang-controversy-11794238373887.html",
-   "summary": "US stocks rebounded Monday after their worst weekly performance in nearly two years, with the Dow, S&amp;P 500 and Nasdaq rising as lower oil prices and bargain-buying lifted sentiment. Investors turned their attention to upcoming inflation data and earnings from AI-related companies.",
-   "published": "2026-11-09T15:49:00+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/US_markets_2_1794238847877_EeEk_1794239119776_aQyI_08e751d9-67f8-4c17-a541-68f1a1cd87ce_dNX0.png",
-   "topics": [],
-   "first_seen": "2026-11-09T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37f1fa988e664744",
-   "title": "NPS returns: Choosing a pension fund for retirement? Why subscribers should look beyond one-year performance",
-   "link": "https://www.livemint.com/money/personal-finance/nps-returns-choosing-a-pension-fund-for-retirement-why-subscribers-should-look-beyond-one-year-performance-11794235842342.html",
-   "summary": "Choosing an NPS pension fund based on one-year returns can be misleading. Investors should assess rolling returns, upside and downside performance, and volatility to understand how consistently a scheme has beaten its benchmark across different market cycles.",
-   "published": "2026-11-09T15:13:21+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generated_Image_18hc218hwc218hw_1794236170_1794236188077_oVoM_1794236188198_7xhQ_0cdc46f2-1106-4c9e-8872-388b073f39a5_Cy3E.png",
-   "topics": [],
-   "first_seen": "2026-11-09T15:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

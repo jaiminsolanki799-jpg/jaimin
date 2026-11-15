@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T09:30:02+00:00",
+ "generated_at": "2026-11-15T10:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
+   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 11,
-   "items": 11,
+   "fetched": 10,
+   "items": 10,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T09:30:02+00:00"
+   "checked_at": "2026-11-15T10:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,11 +71,51 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
   {
+   "id": "6373036a727f403a",
+   "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
+   "link": "https://yourstory.com/2026/11/sebi-issue-ai-usage-guidelines-investor-protection",
+   "summary": "The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities, and a 'human-in-the-loop' approach.",
+   "published": "2026-11-15T09:39:37+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-15T10:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
+  {
+   "id": "203b1bd3db553cc9",
+   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+   "link": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+   "summary": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development, Oracle.",
+   "published": "2026-11-15T09:31:47+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-15T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "fc67049de3e8e719",
-   "title": "Zomato-parent Eternal reworking 2030 EV delivery target amid fleet expansion, evolving EV adoption",
+   "title": "Zomato-parent Eternal reworking 2030 EV delivery target amid fleet expansion, EV adoption",
    "link": "https://yourstory.com/2026/11/zomato-eternal-reworks-ev-delivery-target-fleet-expansion-evolving-adoption",
    "summary": "The company is working towards a revised timeline, factoring in the availability of electric vehicles, supporting government policies, and the transportation requirements of its various businesses.",
    "published": "2026-11-15T09:24:35+00:00",
@@ -7497,98 +7537,6 @@
    "author": null,
    "publisher": null,
    "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a8a793d7f4da82d3",
-   "title": "Daksham Growth Ventures",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Sc1RDcS10VmtHTlJtR1JRNXJ5NUxPZTFDQmd2Q29ER0NlZDk4SHRTTTdzWWxTczd6bkpUem9rNV9NMGVfR1ZQb1NnY2dVNl80allwM0NUMll1OGhMQlE?oc=5",
-   "summary": "",
-   "published": "2026-11-05T09:51:19+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8c3b3c0f6c865857",
-   "title": "Amagi's Q2 FY27 profit jumps nearly 29 times to Rs 75 Cr; total income crosses Rs 500 Cr",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaUVWT2NvRVd5ZEhmSXRpdU9rSTEtck5zTjdWbGt1OFhTM2ZEZDBPZFprakExM1hEbDBlSkZ6YmlwU29jUzNqYWxWZ0p5ZDRGcktfMHIzZVBoNUp0OGo4TXhTbHo1WnFZaXV0TVhEUnJheUNXa29zLWJ2ck9GWWIxSHNUWmFVa2Jzal90N3pOQkNYcTE3S01CZHN3TDFKb1E1dTg1ZlBuRWpMTVF6MVBieVp6ZFoxMjBlZ2hsVlJMWXJLZ3Jv0gHEAUFVX3lxTFBpRVZPY29FV3lkSGZJdGl1T2tJMS1yTnNON1Zsa3U4WFMzZkRkME9kWmtqQTEzWERsMGVKRnpiaXBTb2NTM2phbFZnSnlkNEZyS18wcjNlUGg1SnQ4ajhNeFNsejVacVlpdXRNWERScmF5Q1drb3MtYnZyT0ZZYjFIc1RaYVVrYnNqX3Q3ek5CQ1hxMTdLTUJkc3dMMUpvUTV1ODVmUG5FakxNUXoxUGJ5WnpkWjEyMGVnaGxWUkxZcktncm8?oc=5",
-   "summary": "",
-   "published": "2026-11-05T09:46:36+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "11a0651606ff6de6",
-   "title": "Daksham Growth Ventures raises Rs 125 Cr in first close of maiden consumer fund",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmNJbjVKZmNJeHFnVjVwdkMwYTRJRWtBeWVRZ09idTZxcUlzMWxhVHNmd0NGeEN6Mk1GMHNwX2NrdnkwWDVNemdxSlNTQ1ZMT3l6Q2NZWmVmNkxKZTRPUlpfb0luUF8za0MwZm5JNzdHOWJNQjNkQTZ6eHROOHV1TTVtMERaTm0wYl9FTi02bFRJVmZJd0x2dVJBeXh6Z01oek1aenpRZnhJVjRMSnM5UUZkLU5ldTlEYnfSAboBQVVfeXFMTWJjSW41SmZjSXhxZ1Y1cHZDMGE0SUVrQXllUWdPYnU2cXFJczFsYVRzZndDRnhDejJNRjBzcF9ja3Z5MFg1TXpncUpTU0NWTE95ekNjWVplZjZMSmU0T1JaX29JblBfM2tDMGZuSTc3RzliTUIzZEE2enh0Tjh1dU01bTBEWk5tMGJfRU4tNmxUSVZmSXdMdnVSQXl4emdNaHpNWnp6UWZ4SVY0TEpzOVFGZC1OZXU5RGJ3?oc=5",
-   "summary": "",
-   "published": "2026-11-05T09:44:37+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
-  },
-  {
-   "id": "90a9e46e7651d0e1",
-   "title": "Blinkit Ambulance to charge Rs 2,500 for non-emergency cases",
-   "link": "https://yourstory.com/2026/11/blinkit-ambulance-to-charge-rs-2500-for-non-emergency-cases",
-   "summary": "Zomato founder Deepinder Goyal noted that a growing share of bookings for its free ambulance service were for routine checkups, hospital visits and hospital-to-home transfers.",
-   "published": "2026-11-05T09:33:30+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f463ac94f9e9bddc",
-   "title": "FSSAI Flags PepsiCo Over Marketing Beverages as Energy Drinks to Mislead Consumers",
-   "link": "https://startuptalky.com/news/fssai-flags-pepsico-over-marketing-beverages-as-energy-drinks/",
-   "summary": "FSSAI has accused PepsiCo of deceiving consumers over the sale of 'energy drinks' Sting Energy and Adrenaline Rush which have high levels of caffeine. The agency justified limits on the word in an affidavit before the Delhi High Court, citing concerns over deceptive advertising and labelling.",
-   "published": "2026-11-05T09:32:53+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/fssai-flags-pepsico-over-marketing-beverages-as-energy-drinks-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
