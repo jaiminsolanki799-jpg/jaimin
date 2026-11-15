@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T05:30:01+00:00",
+ "generated_at": "2026-11-15T06:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T05:30:01+00:00"
+   "checked_at": "2026-11-15T06:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
+   "sample_date": "Fri, 13 Nov 2026 07:11:02 GMT",
    "error": null,
-   "checked_at": "2026-11-15T05:30:01+00:00"
+   "checked_at": "2026-11-15T06:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T05:30:01+00:00"
+   "checked_at": "2026-11-15T06:00:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 14,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T05:30:01+00:00"
+   "checked_at": "2026-11-15T06:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T05:30:01+00:00"
+   "checked_at": "2026-11-15T06:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
   {
    "id": "07d81700676ccc05",
@@ -7836,44 +7836,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "IPO"
-   ]
-  },
-  {
-   "id": "91ccedaeab218e77",
-   "title": "10 Best Free AI Ad Generators to Create Ads Without Design Skills",
-   "link": "https://startuptalky.com/best-free-ai-ad-generators/",
-   "summary": "Explore the 10 best free AI ad generators to create ad copy, images, and videos. Compare their free plans, features, and limitations to find the right tool for your brand.",
-   "published": "2026-11-05T05:59:06+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Vivek Dev Jacob",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/Best-Free-AI-Ad-Generators-StartupTalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "133b72fdf27ddb08",
-   "title": "Specialty chemicals startup altM raises $10.3 Mn led by Rainmatter, Mela Ventures",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeThQVl90SDBWaDdOdEozZnV2emhFZHlqdVJ4ZktCSFhBOTZIclhSNkthYzhoU1ZWN2NWejBlVjlhS3BlbU82X2ZzX2w5MjlIMUdkNURlXzkxV3lzakxaeXlXSURweUFJalNIYlFHWTB5VWtXczNFTTNfY0RRWHc2amotM3ZPNk5sTEJwUC1za0xEc21kNl9xWjlpbENaTU5yQmpJQlAzSXYyZkh6YTEybWZVRdIBswFBVV95cUxPeThQVl90SDBWaDdOdEozZnV2emhFZHlqdVJ4ZktCSFhBOTZIclhSNkthYzhoU1ZWN2NWejBlVjlhS3BlbU82X2ZzX2w5MjlIMUdkNURlXzkxV3lzakxaeXlXSURweUFJalNIYlFHWTB5VWtXczNFTTNfY0RRWHc2amotM3ZPNk5sTEJwUC1za0xEc21kNl9xWjlpbENaTU5yQmpJQlAzSXYyZkh6YTEybWZVRQ?oc=5",
-   "summary": "",
-   "published": "2026-11-05T05:30:37+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
    ]
   }
  ]
