@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T16:00:04+00:00",
+ "generated_at": "2026-11-15T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 08:03:59 GMT",
+   "sample_date": "Sat, 14 Nov 2026 07:23:49 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
+   "sample_date": "Sun, 15 Nov 2026 16:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "84e57f9fb52388b4",
+   "title": "The tech products we enthusiastically recommend this holiday season",
+   "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+   "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+   "published": "2026-11-15T16:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-15T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9cf3e87037ac0d17",
    "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
@@ -7142,24 +7160,6 @@
    "date_known": true,
    "author": null,
    "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c2788911aa715e52",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-   "published": "2026-11-05T16:16:45+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Aditya Mehta",
-   "publisher": null,
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",

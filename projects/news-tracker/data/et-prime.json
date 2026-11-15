@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T16:00:04+00:00",
+ "generated_at": "2026-11-15T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 21:03:20 +0530",
+   "sample_date": "Sun, 15 Nov 2026 21:33:24 +0530",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 21:01:26 +0530",
+   "sample_date": "Sun, 15 Nov 2026 21:25:50 +0530",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 20:55:43 +0530",
+   "sample_date": "Sun, 15 Nov 2026 21:44:09 +0530",
    "error": null,
-   "checked_at": "2026-11-15T16:00:04+00:00"
+   "checked_at": "2026-11-15T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,65 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "074562b50a7cb79e",
+   "title": "Small-cap mutual funds: Should you continue your SIP? 10-year rolling returns reveal risks investors may be missing",
+   "link": "https://www.livemint.com/money/personal-finance/smallcap-mutual-funds-should-you-continue-your-sip-10-year-rolling-returns-reveal-risks-investors-may-be-missing-11794758823173.html",
+   "summary": "Small-cap mutual funds delivered 15.02% average 10-year SIP returns, beating large-cap funds. But the worst 10-year outcome was negative. Here's what rolling returns reveal about small-cap risks and whether investors should continue their SIPs.",
+   "published": "2026-11-15T16:14:09+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Generatd_Image_p9xj1yp9xj1yp9xj_179475906_1794759077431_42qo_1794759077667_ABhe_662b7975-00a3-4ecc-ac85-f83bfa4560fa_00UB.png",
+   "topics": [],
+   "first_seen": "2026-11-15T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "331cedd615512f53",
+   "title": "Qualcomm layoffs: Who gets 4 months' salary and extra compensation under reported exit deal?",
+   "link": "https://www.livemint.com/companies/news/qualcomm-layoffs-who-gets-4-months-salary-and-extra-compensation-under-reported-exit-deal-11794758015590.html",
+   "summary": "Qualcomm's India layoffs could affect 1,000 employees. Reports suggest affected staff may get up to four months' salary as severance, plus additional payouts.",
+   "published": "2026-11-15T16:03:24+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/qualcomm_1794758410956_pXat_1794758411089_QCmn_92dba694-d6ee-4b40-ad1b-61a3a54e0c0b_DRhS.png",
+   "topics": [],
+   "first_seen": "2026-11-15T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2c8a6951b3329e7f",
+   "title": "Multibagger small cap stock delivers 91% return in 1 year! IDBI Capital sees 17% upside - Do you own? Check target price",
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-delivers-91-return-in-1-year-idbi-capital-sees-17-upside-do-you-own-check-target-price-11794757193256.html",
+   "summary": "Rolex Rings shares have gained 91% over the past year. IDBI Capital maintained a Buy rating and set a target price of ₹241, citing the company’s growth prospects from the Make in India ecosystem, rising capacity utilisation and strong quarterly results.",
+   "published": "2026-11-15T15:55:50+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Rolex_Rings_Share_Price_Outlook_1794758091652_8Jqt_1794758099704_5mH9_67c2aade-c48e-4de3-9b09-dcf648464317_8Qyi.png",
+   "topics": [],
+   "first_seen": "2026-11-15T16:30:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Results"
+   ]
+  },
   {
    "id": "8db5ad1b69e42000",
    "title": "Noel Tata reveals his idea of Tata way of life: ‘Charity precedes commerce, charity owns commerce; not other way around’",
@@ -11393,62 +11450,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "c87f5511ac38d017",
-   "title": "Received Diwali bonus or cash from your employer? Know ₹15,000 exemption limit and when income tax applies | Explained",
-   "link": "https://www.livemint.com/money/personal-finance/received-diwali-bonus-or-cash-from-your-employer-know-15-000-exemption-limit-and-when-income-tax-applies-explained-11794275279531.html",
-   "summary": "With Diwali celebrations over, salaried employees should understand how employers' festive gifts, vouchers and cash bonuses are taxed. The rules prescribe different tax treatments for these benefits, which can affect employees' taxable income and overall tax liability.",
-   "published": "2026-11-10T03:09:48+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/gift_tax_1794278262235_8rJ0_1794278275448_KRvR_96c1c512-a6f3-484c-9463-819ca2553231_u2OA.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-10T03:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "aca23e8fba2e6878",
-   "title": "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-closed-today-on-tuesday-10-november-2026-on-diwali-balipratipada-no-trading-in-nse-bse-exchanges-11794275379042.html",
-   "summary": "Stock market holiday: The Indian stock market will remain closed for trading on Tuesday, November 10, on account of Diwali-Balipratipada.",
-   "published": "2026-11-10T02:17:28+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/holiday_Diwali_1794276905361_IHqX_1794276905457_9Lpr_c47f78ca-ff65-44f8-9a11-45f3ee082e9a_vuvJ.png",
-   "topics": [],
-   "first_seen": "2026-11-10T02:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0931c95feb924734",
-   "title": "Boeing layoffs: Company to cut 5% of commercial airplane workforce as production delays threaten recovery plans",
-   "link": "https://www.livemint.com/companies/news/boeing-layoffs-company-to-cut-5-of-commercial-airplane-workforce-as-production-delays-threaten-recovery-plans-11794274201520.html",
-   "summary": "Boeing plans to cut around 5% of its commercial airplanes workforce through attrition and layoffs as it struggles to ramp up jetliner production, delays its 737 output targets and pushes back its $10 billion free cash flow goal to 2029.",
-   "published": "2026-11-10T01:55:22+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794295279345_h76h_1794295295213_SK42_5a648c33-04f4-44f2-a08f-b15a1d4db865_Dhm2.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T02:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
