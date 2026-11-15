@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T10:30:01+00:00",
+ "generated_at": "2026-11-15T11:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 15:45:50 +0530",
+   "sample_date": "Sun, 15 Nov 2026 16:16:30 +0530",
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 15:44:11 +0530",
+   "sample_date": "Sun, 15 Nov 2026 16:27:55 +0530",
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 15:01:12 +0530",
    "error": null,
-   "checked_at": "2026-11-15T10:30:01+00:00"
+   "checked_at": "2026-11-15T11:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "457074b4c25de240",
+   "title": "Sensex, Nifty cheer as Bulls, FPIs back in Indian stock market; pump in over ₹84k cr in Nov so far - More rally ahead?",
+   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-cheer-as-bulls-fpis-back-in-indian-stock-market-pump-in-over-rs-84k-cr-in-nov-so-far-more-rally-ahead-11794736253974.html",
+   "summary": "FPIs invested ₹84,291 crore in Indian equities in November, helping the Sensex and Nifty extend their recovery and drawing buying into broader markets. Analysts cite earnings growth, reasonable valuations and global portfolio shifts as drivers.",
+   "published": "2026-11-15T10:57:55+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Bullish_Market_RallySensex_and_Nifty_Surge_1794740_1794740131517_Xr4R_1794740131723_nEUV_5e83f8de-68a0-4fe3-800d-bcdb1ef541d8_AcYP.png",
+   "topics": [],
+   "first_seen": "2026-11-15T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e77c07ba6b137a50",
+   "title": "Standard Chartered taps GIFT City to help wealthy Indians diversify overseas",
+   "link": "https://www.livemint.com/companies/standard-chartered-taps-gift-city-to-help-wealthy-indians-diversify-overseas-11794726225669.html",
+   "summary": "The launch follows an August approval from the IFSCA, GIFT City’s regulator, allowing the bank to distribute the funds to resident Indians. Launched four years ago, the funds manage $5 billion in assets across 13 markets.",
+   "published": "2026-11-15T10:46:30+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Samir_1794726585025_ESWs_1794726604652_V819_7e32f52b-17b7-4620-bd15-68061a168aaa_zhUP.png",
+   "topics": [],
+   "first_seen": "2026-11-15T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0d65b52e1df3a527",
+   "title": "Nvidia's bosses have $900 million insurance cover. How does Jensen Huang's scandal expose a gap?",
+   "link": "https://www.livemint.com/companies/news/nvidias-bosses-have-900-million-insurance-cover-how-does-jensen-huangs-scandal-expose-a-gap-11794735878425.html",
+   "summary": "Nvidia has $900 million insurance for executives but no company-level D&amp;O cover. Here's why the chipmaker could face costly shareholder lawsuits.",
+   "published": "2026-11-15T10:42:23+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/nvidia_1794739117380_twzK_1794739117528_7c4r_bfd86bbe-01fe-442d-8187-304c13ab206e_xVx0.png",
+   "topics": [],
+   "first_seen": "2026-11-15T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14f04cd6c552b155",
+   "title": "Sebi to issue AI guidelines for capital markets soon, focus on investor protection and human oversight",
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-to-issue-ai-guidelines-for-capital-markets-soon-focus-on-investor-protection-and-human-oversight-11794737481977.html",
+   "summary": "The regulator plans safeguards on AI disclosures, accountability and decision-making; cybersecurity framework also under review",
+   "published": "2026-11-15T10:40:04+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/sebi_1750670473946_1794738434612_5mk2_15188d68-b48d-4511-ac0d-70e919c1c604_wsY8.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-15T11:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
   {
    "id": "295e6ccea204109c",
    "title": "LPG cylinder price in Delhi: Why Ujjwala beneficiaries pay ₹642 for a cylinder that costs ₹1,267.24 to supply",
@@ -11364,80 +11440,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/BROADCOM-RESULTS--1_1787417574068_1787417649750_fe7396e7-1e43-4073-8b57-2159a73f666d_1794246638218_OKDl_d3ddde3c-21c9-4f4c-9a4b-0e84dc2ceb5d_iJLN.JPG",
    "topics": [],
    "first_seen": "2026-11-09T18:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8372769fc426f69f",
-   "title": "Bank locker found surrendered, jewellery missing? How to protect your valuables, avoid costly dispute | Experts explain",
-   "link": "https://www.livemint.com/money/personal-finance/bank-locker-found-surrendered-jewellery-missing-how-to-protect-your-valuables-avoid-costly-dispute-experts-explain-11794236376468.html",
-   "summary": "A Delhi consumer commission ordered a bank to compensate a woman after her joint bank locker was surrendered without her consider and jewellery allegedly went missing from it. Here's how to protect your valuables in such cases.",
-   "published": "2026-11-09T17:58:19+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/2e6859e0-edde-4196-a918-ad2f8ef244ff_1794246990632_22WJ_1794246994740_C855_4e412137-f5dc-4a1d-87b7-4940830a07e5_RiLd.png",
-   "topics": [],
-   "first_seen": "2026-11-09T18:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "075c83aa9eba6058",
-   "title": "Received cash from customers and deposited it in your bank account? When can income tax authorities tax it",
-   "link": "https://www.livemint.com/money/personal-finance/received-cash-from-customers-and-deposited-it-in-your-bank-account-when-can-income-tax-authorities-tax-it-11794244686185.html",
-   "summary": "An insurance agent's ₹35.09 lakh cash deposits during demonetisation were treated as unexplained income. ITAT Jaipur deleted the addition after accepting records showing the money came from policyholder premiums.",
-   "published": "2026-11-09T17:23:51+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generted_Image_xcnwdtxcnwdtxcnw_179424482_1794244835792_vqHs_1794244835896_751M_54d11d0d-645c-4060-9a39-8f98e66eff47_JrUe.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-09T17:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "55b66861aad22364",
-   "title": "AMD stock rallies 12% as Google Cloud taps its EPYC processors for next-generation AI infrastructure",
-   "link": "https://www.livemint.com/market/stock-market-news/amd-stock-rallies-12-as-google-cloud-taps-its-epyc-processors-for-next-generation-ai-infrastructure-11794242504072.html",
-   "summary": "AMD shares rose 12.5% after the company announced its fifth-generation EPYC processors will power Google Cloud TPU 8tx systems. The partnership combines AMD CPUs and security technology with Google’s AI accelerators to support confidential AI workloads, protecting sensitive data as it is processed.",
-   "published": "2026-11-09T16:54:24+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/AMD_2_1794243018718_8fWf_1794243023878_lyqi_ebcd4f88-e7f9-49b6-b840-2e12a91194dd_Bcwe.png",
-   "topics": [],
-   "first_seen": "2026-11-09T17:00:05+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7523f226f2b532d8",
-   "title": "Parag Parikh Flexi Cap adds Netflix, exits Meta: What changed in its October portfolio? Check latest stock picks",
-   "link": "https://www.livemint.com/money/personal-finance/parag-parikh-flexi-cap-adds-netflix-exits-meta-what-changed-in-its-october-portfolio-check-latest-stock-picks-11794241378418.html",
-   "summary": "PPFAS Flexi Cap Fund added Netflix, exited Meta Platforms and reduced Microsoft in October 2026. It also increased investments in DLF, Maruti Suzuki, M&amp;M and other Indian stocks. Here's a look at its latest portfolio and long-term rolling returns.",
-   "published": "2026-11-09T16:37:40+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generated_Imae_r0dcn4r0dcn4r0dc_179424214_1794242155135_Z3WH_1794242155280_nOyU_244e0fa0-4165-472b-81c4-d653db773876_awHX.png",
-   "topics": [],
-   "first_seen": "2026-11-09T17:00:05+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
