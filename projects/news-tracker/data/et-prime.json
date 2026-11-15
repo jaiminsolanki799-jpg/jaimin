@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T12:00:02+00:00",
+ "generated_at": "2026-11-15T12:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 17:11:18 +0530",
+   "sample_date": "Sun, 15 Nov 2026 17:57:33 +0530",
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 17:19:46 +0530",
+   "sample_date": "Sun, 15 Nov 2026 17:45:04 +0530",
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 16:47:28 +0530",
    "error": null,
-   "checked_at": "2026-11-15T12:00:02+00:00"
+   "checked_at": "2026-11-15T12:30:04+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,42 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "5a505c962cbeee7d",
+   "title": ". Saudi Arabia scraps VA Tech Wabag's ₹2,332 crore project: What went wrong with the Yanbu tender?",
+   "link": "https://www.livemint.com/companies/news/-saudi-arabia-scraps-va-tech-wabags-2-332-crore-project-what-went-wrong-with-the-yanbu-tender-11794739811092.html",
+   "summary": "VA Tech Wabag said it was in the process of approaching the customer to obtain further clarity on the reasons behind the cancellation and understand the next course of action",
+   "published": "2026-11-15T12:27:33+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/desalination_1794744823601_5nl6_1794744843318_vMMk_26bfd95e-ff36-4f3d-ae4e-6f8f7b1eb51a_loGn.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T12:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3bfb9fbdda9e3cee",
+   "title": "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting",
+   "link": "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html",
+   "summary": "Gold and silver futures recovered slightly on Friday but posted steep weekly losses as hotter US inflation, a stronger dollar and rising bond yields heightened expectations of a Fed rate hike. Analysts see near-term pressure, while Indian wedding demand and central-bank buying may cushion gold.",
+   "published": "2026-11-15T12:15:04+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gold_and_Silver_Decline_Ahead_of_Fed_Meeting_17947_1794744848430_PIMS_1794744848559_zrIG_c7a3a5a1-0161-46d1-a2df-b6dd1cdf64c6_Eeok.png",
+   "topics": [],
+   "first_seen": "2026-11-15T12:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "08c810ffdea3c15b",
    "title": "Stock market outlook, November 16-20: Nifty logs 3-week winning streak, first since June - Rally ahead or a pause?",
@@ -11403,42 +11439,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274584851_kk3H_1794274591201_Thyc_fdaa8078-51c3-4735-b898-453ee6c8d8d0_f3w0.jpg",
    "topics": [],
    "first_seen": "2026-11-09T19:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bb550f4ee85abff1",
-   "title": "Business of Odd Things: The farm that needs no land, freshwater, or fertiliser",
-   "link": "https://economictimes.indiatimes.com/prime/business-of-odd-things-the-farm-that-needs-no-land-freshwater-or-fertiliser/primearticleshow/135691417.cms",
-   "summary": "",
-   "published": "2026-11-09T19:00:01+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T19:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3e71306196ced6b8",
-   "title": "Boeing to Cut 5% of Commercial Workforce Amid Ramp Up Delays",
-   "link": "https://www.livemint.com/companies/boeing-to-cut-5-of-commercial-workforce-amid-ramp-up-delays-11794250202697.html",
-   "summary": "Boeing Co. will cut 5% of its commercial airplane workforce as the company struggles to stabilize the pace of its production ramps.",
-   "published": "2026-11-09T18:50:02+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794295296165_jupU_1794295302270_3EbD_3ca67e7d-e675-45db-8b45-f7b9ce217e08_dwAf.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T19:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
