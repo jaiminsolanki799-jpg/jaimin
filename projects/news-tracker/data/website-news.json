@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T11:30:02+00:00",
+ "generated_at": "2026-11-15T12:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:30:02+00:00"
+   "checked_at": "2026-11-15T12:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 15 Nov 2026 09:31:47 GMT",
+   "sample_date": "Fri, 13 Nov 2026 09:13:21 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:30:02+00:00"
+   "checked_at": "2026-11-15T12:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:30:02+00:00"
+   "checked_at": "2026-11-15T12:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 9,
-   "items": 9,
+   "fetched": 7,
+   "items": 7,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:30:02+00:00"
+   "checked_at": "2026-11-15T12:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T11:30:02+00:00"
+   "checked_at": "2026-11-15T12:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
   {
    "id": "a3d00cb47c2305f2",
@@ -7387,81 +7387,6 @@
    "date_known": true,
    "author": null,
    "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6c1e654ac261dfe8",
-   "title": "Moneyview's Q2 FY27 profit jumps 3.3X to Rs 165 Cr",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUQ3VUNnS2lKYnhsMUVYUVNVRWZmRlhlS1ZXTW9qZG5pVTBiZWZuTmRWUVBKVmh3ak5VYjY2YkNxY0F5NWNGb3BOZ3ladm9ZZWFjTzV2ejlXME9kNzJhQWpFaUNxVlBEUXJuNDhpMkpzNzV4bG8xMVU0TlJDdklFVkJHaHFyTm82Rk5QWklFSno2d9IBkgFBVV95cUxNdUQ3VUNnS2lKYnhsMUVYUVNVRWZmRlhlS1ZXTW9qZG5pVTBiZWZuTmRWUVBKVmh3ak5VYjY2YkNxY0F5NWNGb3BOZ3ladm9ZZWFjTzV2ejlXME9kNzJhQWpFaUNxVlBEUXJuNDhpMkpzNzV4bG8xMVU0TlJDdklFVkJHaHFyTm82Rk5QWklFSno2dw?oc=5",
-   "summary": "",
-   "published": "2026-11-05T11:56:29+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3ac4b5503c1dd000",
-   "title": "Daily Indian Funding Roundup & Key News - 5 November 2026: altM Raises $10.3 Million, Shiprocket Swings to Q2 Profit",
-   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-5-november-2026/",
-   "summary": "altM raised $10.3 million and two more startups closed rounds, as Shiprocket, Amagi and Tonbo posted Q2 profits and the Cabinet cleared an INR 2,814 crore scheme.",
-   "published": "2026-11-05T11:42:14+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Muskaan Kapoor",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/daily-indian-funding-roundup-key-news-5-november-2026-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Funding",
-    "Results"
-   ]
-  },
-  {
-   "id": "150e6d86f5d8a062",
-   "title": "Gold and Silver Prices in India Today, 5 November 2026: Gold at ₹145,570, Silver at ₹189,460 as Gains Extend",
-   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-5-november-2026/",
-   "summary": "Gold and silver rates today in India, 5 November 2026. 24K gold rises 1.25% to ₹145,570 per 10g and silver gains 0.66% to ₹189,460 per kg, with gold now up 1.97% on the week. Check city-wise rates and MCX data below.",
-   "published": "2026-11-05T11:41:23+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Shubham Kumar",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/gold-silver-prices-india-today-5-november-2026-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1b66685c7553d113",
-   "title": "How Pine Labs is building for the agent economy: CTO Sanjeev Kumar on trust, control and execution",
-   "link": "https://yourstory.com/2026/11/how-pine-labs-is-building-for-the-agent-economy-cto-sanjeev-kumar-on-trust-control-and-execution",
-   "summary": "At TechSparks 2026, Pine Labs Chief Technology Officer, Sanjeev Kumar showcased how developers, merchants, and teams can put AI agents to work, backed by controls that keep them accountable.",
-   "published": "2026-11-05T11:38:38+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
