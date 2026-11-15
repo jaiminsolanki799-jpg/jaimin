@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T03:30:03+00:00",
+ "generated_at": "2026-11-15T04:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 07:44:05 +0530",
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 08:31:01 +0530",
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 07:38:08 +0530",
+   "sample_date": "Sun, 15 Nov 2026 09:06:28 +0530",
    "error": null,
-   "checked_at": "2026-11-15T03:30:03+00:00"
+   "checked_at": "2026-11-15T04:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "5f59056093702d3c",
+   "title": "8th Pay Commission pension: Check how ₹25,000 to ₹75,000 basic pensions may change at 2.1, 2.57 and 2.75 fitment factors",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-pension-check-how-25-000-to-75-000-basic-pensions-may-change-at-2-1-2-57-and-2-75-fitment-factors-11794710468739.html",
+   "summary": "The 8th Pay Commission may bring changes to central government salaries, allowances and pensions. Check how existing basic pensions of ₹25,000 to ₹75,000 could change under 2.1, 2.57 and 2.75 fitment factors, with illustrative calculations and key pensioners' demands.",
+   "published": "2026-11-15T03:36:28+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/bbe94d61-26e5-46b4-be14-615b28412bdb_1794711023883_2AaA_1794711028125_KfI2_f17decc1-ade1-4676-9eb0-cc00c188720c_FyJD.png",
+   "topics": [],
+   "first_seen": "2026-11-15T04:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bbd33dd97e44f388",
+   "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore",
+   "link": "https://www.livemint.com/money/gold-24k-22k-18k-999-fine-silver-prices-today-15-nov-check-retail-rates-cities-delhi-mumbai-coimbatore-chennai-bangalore-11794708823552.html",
+   "summary": "Gold, silver prices today, 15 November: Check retail prices of 18K, 22K and 24K gold and 999 Fine silver in your cities — Ahmedabad, Bengaluru, Chennai, Coimbatore, Delhi, Hyderabad, Kolkata, and Mumbai.&nbsp;",
+   "published": "2026-11-15T03:34:53+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/gold_image_1788926737587_8b9f1645-4d99-4f24-9a3f-b_1794709214142_mv5Z_1794709214303_qus1_770aac58-d315-40d2-9bab-866dfb5d9203_cqSb.png",
+   "topics": [],
+   "first_seen": "2026-11-15T04:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "545506885b30dbc6",
    "title": "Top 3 stocks to buy: Redington, Aster DM, Canara Bank by Ganesh Dongre of Anand Rathi | Targets, stop-loss, market view",
@@ -11386,45 +11422,6 @@
    "first_seen": "2026-11-09T11:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "af1c03eba5986771",
-   "title": "₹670-cr investment fraud: How a former mason allegedly lured 7,400 investors with 4% monthly returns",
-   "link": "https://www.livemint.com/money/670cr-investment-fraud-how-a-former-mason-allegedly-lured-7-400-investors-with-4-monthly-returns-11794218973740.html",
-   "summary": "Hyderabad businessman Nanavath Bhupal Naik is accused of running a ₹670-crore investment fraud that affected about 7,400 people. Here's how he pulled off the massive fraud.&nbsp;",
-   "published": "2026-11-09T10:56:23+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/naik_photo_1600x900_1794221738999_ruXv_1794221742991_eJsf_4860baae-2411-4fa6-870c-b9de8758b809_NW0d.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T11:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f96710508735b8f7",
-   "title": "Top PSU stock to buy: Brokerage sees 50% upside! Gujarat Energy shares gain 2% as profit surges 26% - Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/top-psu-stock-to-buy-brokerage-sees-50-upside-gujarat-energy-shares-gain-2-as-profit-surges-26-check-target-price-11794218975640.html",
-   "summary": "Gujarat Energy shares rose nearly 2% after the company reported a 21.9% year-on-year increase in second-quarter net profit to ₹639.27 crore. Motilal Oswal maintained its Buy rating and ₹325 target price, citing strong gas distribution growth and other business strengths.",
-   "published": "2026-11-09T10:47:20+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Top_PSU_Stock_to_Buy_1794221170478_uQAn_1794221183022_h5PG_4c380980-0f6e-4993-a050-740a744c1843_1jU9.png",
-   "topics": [],
-   "first_seen": "2026-11-09T11:00:01+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Valuation",
-    "Results"
-   ]
   }
  ]
 }
