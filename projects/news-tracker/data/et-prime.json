@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T15:30:01+00:00",
+ "generated_at": "2026-11-15T16:00:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 19:28:42 +0530",
+   "sample_date": "Sun, 15 Nov 2026 21:03:20 +0530",
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 19:35:24 +0530",
+   "sample_date": "Sun, 15 Nov 2026 21:01:26 +0530",
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 20:55:43 +0530",
    "error": null,
-   "checked_at": "2026-11-15T15:30:01+00:00"
+   "checked_at": "2026-11-15T16:00:04+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,42 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "8db5ad1b69e42000",
+   "title": "Noel Tata reveals his idea of Tata way of life: ‘Charity precedes commerce, charity owns commerce; not other way around’",
+   "link": "https://www.livemint.com/companies/news/profits-may-become-more-important-than-philanthropy-why-noel-tata-is-resisting-the-push-to-list-tata-sons-11794751737310.html",
+   "summary": "For Noel Tata, the central issue is not merely whether Tata Sons should be listed, but whether the Tata Group can preserve its founding philosophy of putting philanthropy and nation-building ahead of commercial considerations in a changing ownership structure.",
+   "published": "2026-11-15T15:33:20+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/noel_tata_on_tata_sons_listing_1794756267513_Eyr8_1794756272665_1wkt_43a402fe-cf38-4e6e-a1df-9a20aad013a6_azos.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T16:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7c13d5e70ff5e553",
+   "title": "144% return in 6 months: Multibagger to turn 1 stock into 18 after split, bonus- Do you own it? Check ratio, return",
+   "link": "https://www.livemint.com/market/stock-market-news/144-return-in-6-months-multibagger-to-turn-1-stock-into-18-after-split-bonus-do-you-own-it-check-ratio-return-11794754361817.html",
+   "summary": "SC Agrotech shares have surged, gaining 144% in six months and 266% in a year. The company has proposed a 1:10 stock split and a 4:5 bonus issue, which would turn each existing share into 18 shares. The record date for both actions is yet to be announced.",
+   "published": "2026-11-15T15:31:26+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Multibagger_Share_Growth_Infographic_1794756624497_eEs4_1794756634270_zOIB_bd0cb890-9885-411c-bd8c-cc6ceabb214f_tGQX.png",
+   "topics": [],
+   "first_seen": "2026-11-15T16:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3842fa30488cf32d",
    "title": "How long will it take to build a ₹1 crore corpus through ₹10,000, ₹20,000 or ₹30,000 monthly SIP?",
@@ -11411,42 +11447,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794295279345_h76h_1794295295213_SK42_5a648c33-04f4-44f2-a08f-b15a1d4db865_Dhm2.jpg",
    "topics": [],
    "first_seen": "2026-11-10T02:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6d9abd2df8ba2aaa",
-   "title": "Donald Trump says FBI is investigating Jensen Huang’s affair with alleged Chinese spy as trouble mounts for Nvidia CEO",
-   "link": "https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html",
-   "summary": "US President Donald Trump says the FBI is looking into allegations involving Nvidia CEO Jensen Huang and a Singapore-based businesswoman suspected of links to Chinese intelligence. Nvidia’s board has launched an inquiry into whether Huang was a target of foreign intelligence.",
-   "published": "2026-11-10T01:32:42+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274592476_cBgJ_1794274597977_pnmj_13074dd3-63de-4c69-9e52-79948649e175_lGUJ.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T02:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e28e1be7f9052367",
-   "title": "Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities; here's why",
-   "link": "https://www.livemint.com/money/personal-finance/bank-holiday-today-10-nov-tuesday-bank-branches-closed-in-ahmedabad-bengaluru-mumbai-and-3-other-cities-heres-why-11794270057057.html",
-   "summary": "Bank branches in several cities across India will remain closed on Tuesday, 10 November due to a regional bank holiday. Check the complete list of affected cities, whether online banking services will continue and what customers should know before planning branch visits.",
-   "published": "2026-11-10T01:17:29+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/bank_holdua_1794273263136_a120_1794273273879_Odbe_33f1afbc-f4d9-46d0-8a12-e4b18f40cf38_cIIW.png",
-   "topics": [],
-   "first_seen": "2026-11-10T01:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
