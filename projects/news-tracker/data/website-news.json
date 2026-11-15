@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T11:00:01+00:00",
+ "generated_at": "2026-11-15T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:00:01+00:00"
+   "checked_at": "2026-11-15T11:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 07:23:49 GMT",
+   "sample_date": "Sun, 15 Nov 2026 09:31:47 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:00:01+00:00"
+   "checked_at": "2026-11-15T11:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:00:01+00:00"
+   "checked_at": "2026-11-15T11:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 10,
-   "items": 10,
+   "fetched": 9,
+   "items": 9,
    "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
    "error": null,
-   "checked_at": "2026-11-15T11:00:01+00:00"
+   "checked_at": "2026-11-15T11:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 00:08:07 +0000",
    "error": null,
-   "checked_at": "2026-11-15T11:00:01+00:00"
+   "checked_at": "2026-11-15T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "a3d00cb47c2305f2",
+   "title": "India, US have agree on preferential market access for Indian goods in America: Piyush Goyal",
+   "link": "https://yourstory.com/2026/11/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-goyal",
+   "summary": "India and the US finalised the framework for the first phase of the bilateral trade agreement in February.",
+   "published": "2026-11-15T11:11:50+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-15T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6373036a727f403a",
    "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
@@ -7445,42 +7463,6 @@
    "author": null,
    "publisher": null,
    "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "88d6f625e34477d3",
-   "title": "Why AI’s biggest challenge lies beneath the model",
-   "link": "https://yourstory.com/2026/11/why-ai-biggest-challenge-lies-beneath-model",
-   "summary": "At TechSparks 2026, Michael Cronin of Couchbase explained why fragmented data infrastructure remains a major barrier to enterprise AI adoption and why companies need to fix their data systems before scaling AI applications.",
-   "published": "2026-11-05T11:13:24+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d6ef6db5f6cc0be1",
-   "title": "India Considers Stricter Liability Rules for Social Media Platforms",
-   "link": "https://startuptalky.com/news/india-considers-stricter-liability-rules-for-social-media-platforms/",
-   "summary": "The Indian government is exploring revisions to Section 79 of the IT Act, 2000, which might weaken the legal immunity that social media companies now have for content created by users and amplified by their recommendation algorithms.",
-   "published": "2026-11-05T11:07:01+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/india-considers-stricter-liability-rules-for-social-media-platforms-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
