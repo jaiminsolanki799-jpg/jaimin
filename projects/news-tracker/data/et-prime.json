@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T18:30:01+00:00",
+ "generated_at": "2026-11-15T19:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 23:10:44 +0530",
+   "sample_date": "Mon, 16 Nov 2026 00:02:18 +0530",
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 22:00:45 +0530",
+   "sample_date": "Mon, 16 Nov 2026 00:02:58 +0530",
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 23:40:52 +0530",
    "error": null,
-   "checked_at": "2026-11-15T18:30:01+00:00"
+   "checked_at": "2026-11-15T19:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "7e01b07b1a0977e2",
+   "title": "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch",
+   "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch-11794763105921.html",
+   "summary": "Nvidia's earnings announcement on Tuesday will be among the biggest events of the week, as investors look for indications that demand for AI infrastructure remains strong amid concerns over the sustainability of massive investments in the sector",
+   "published": "2026-11-15T18:32:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/wallstnyse_1794763539668_Umek_1794763581566_nQJf_291441e5-be74-4484-811a-d9d935b13cb6_5d9g.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-15T19:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "f6041b806dda8a57",
+   "title": "ULA Vulcan Rocket Launches With Its First Amazon Leo Payload",
+   "link": "https://www.livemint.com/companies/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload-11794767538933.html",
+   "summary": "United Launch Alliance launched its Vulcan rocket for the first time in nine months, a long-awaited return for a vehicle plagued by delays and technical mishaps.",
+   "published": "2026-11-15T18:32:18+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_3_1733465099406_1733465108677.png",
+   "topics": [],
+   "first_seen": "2026-11-15T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6d1e012c07a4beb7",
+   "title": "‘Nvidia needs a dramatic shake-up’: Why Scott Bessent wants an outsider as CEO after Jensen Huang scandal",
+   "link": "https://www.livemint.com/companies/news/nvidia-needs-a-dramatic-shake-up-why-scott-bessent-wants-an-outsider-as-ceo-after-jensen-huang-scandal-11794766164762.html",
+   "summary": "Bessent questioned Nvidia’s corporate culture and its alleged role in facilitating the sale of advanced artificial intelligence (AI) chips to Chinese entities through shell companies, including those based in Singapore.",
+   "published": "2026-11-15T18:32:18+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/bessent_and_nvidia_1794767949614_hGMB_1794767958536_J6Jw_96b82333-d938-482a-9c1d-476d14c7c611_nJJR.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T19:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "09fb280fa0718a58",
    "title": "Income tax department flags ₹1.5 crore deal over WhatsApp chat and ₹10 note photo; why ITAT deleted the addition",
@@ -11387,65 +11445,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Mumn_1794284730395_TEWu_1794284735591_3QgO_a779efec-1a3f-4546-91f0-c31bedcf9767_sWf9.jpg",
    "topics": [],
    "first_seen": "2026-11-10T05:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c01aac542373449d",
-   "title": "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
-   "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
-   "summary": "India’s IPO pipeline is gaining pace, with eight companies—including Mahanadi Coalfields, Veritas Finance, Razorpay and MakeMyTrip’s Indian subsidiary—moving closer to public offerings. Their proposed issues range from fresh capital raises to offers for sale, and vary widely in size and structure.",
-   "published": "2026-11-10T04:26:46+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/SEBI_Clears_8_Upcoming_IPOs_1794284553048_lEnr_1794284557344_Vz05_d75cd06b-ea18-44e3-9a36-bdb62b3ee49d_4VKr.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-10T05:00:01+00:00",
-   "valuation_score": 5,
-   "valuation_signals": [
-    "Rules",
-    "IPO"
-   ]
-  },
-  {
-   "id": "b16ef9f054df78ee",
-   "title": "US ETFs to Buy for Samvat 2083: Samco recommends 2 ETFs with potential upside of up to 60% for Indian investors",
-   "link": "https://www.livemint.com/market/stock-market-news/us-etfs-to-buy-for-samvat-2083-samco-recommends-2-etfs-with-potential-upside-of-up-to-60-for-indian-investors-11794283267027.html",
-   "summary": "Samco Wealth recommends US-listed energy ETF XLE and healthcare ETF XLV as long-term hedges against oil-price volatility and rupee depreciation. It sees potential upside of 47% and 60%, respectively, and suggests holding both for at least two years.&nbsp;",
-   "published": "2026-11-10T04:17:01+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Samvat_2083__US_ETF_Upside_1794283710674_ErwO_1794283716928_wOtS_29ca18f0-ced1-4d5d-b723-0fc1492fba38_dc53.png",
-   "topics": [],
-   "first_seen": "2026-11-10T04:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9abe5db06b3d9267",
-   "title": "Gold, silver prices today, 10 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-10-nov-tuesday-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794279668430.html",
-   "summary": "Gold and silver prices declined on 10 November as investors awaited key US inflation data. Check the latest 24K and 22K gold rates and silver prices across major Indian cities and key factors influencing international bullion prices.",
-   "published": "2026-11-10T03:55:18+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/gold_price_1794282365099_eejf_1794282370893_UZT6_30a9e34d-4dd1-4983-92de-90edbbed4b44_tND9.png",
-   "topics": [],
-   "first_seen": "2026-11-10T04:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
