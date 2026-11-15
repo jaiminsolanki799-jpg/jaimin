@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T06:30:02+00:00",
+ "generated_at": "2026-11-15T07:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 11:26:09 +0530",
+   "sample_date": "Sun, 15 Nov 2026 12:20:43 +0530",
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 11:56:58 +0530",
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 10:56:28 +0530",
    "error": null,
-   "checked_at": "2026-11-15T06:30:02+00:00"
+   "checked_at": "2026-11-15T07:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "b246402326397274",
+   "title": "Ola Electric founder Bhavish Aggarwal has a new plan to sell e-scooters: Shut down company-owned outlets and…",
+   "link": "https://www.livemint.com/companies/ola-electric-founder-bhavish-aggarwal-has-a-new-plan-to-sell-e-scooters-shut-down-company-owned-outlets-and-11794724920505.html",
+   "summary": "Ola Electric is shifting from direct sales to independent dealers, betting that the network will revive its scooter business and lower costs. The move comes as quarterly registrations fell year-over-year and sequentially.&nbsp;",
+   "published": "2026-11-15T06:50:43+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Screenshot_2024-02-28_151750_1709113772179_1794725235955_f9oS_9fcaed2d-d6f8-4ea6-885e-9e9a465e1cd5_KaYb.png",
+   "topics": [],
+   "first_seen": "2026-11-15T07:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "39036d65954041cc",
    "title": "Tata Motors shares: 22% down in 2026, right time to buy famous auto stock? What brokerages say after loss narrows in Q2",
@@ -11413,24 +11431,6 @@
    "valuation_signals": [
     "Results"
    ]
-  },
-  {
-   "id": "8fcfbf59d6f7ab14",
-   "title": "‘Nvidia has a significant China problem’: Did this hedge fund foresee the Jensen, Alice Huang controversy 6 months ago?",
-   "link": "https://www.livemint.com/companies/news/nvidia-has-a-significant-china-problem-did-this-hedge-fund-foresee-the-jensen-alice-huang-controversy-6-months-ago-11794224482064.html",
-   "summary": "A previous report by Culper Research has resurfaced amid an investigation into Nvidia CEO Jensen Huang’s admitted affair with Alice Huang, a former Megaspeed executive identified as a suspected Chinese spy. Details here.",
-   "published": "2026-11-09T12:34:54+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/maxresdefault_1794236783142_g51k_1794236788862_6Ssu_1cb3446b-de60-4ad6-b08e-70db29a75167_BDw5.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T13:00:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
