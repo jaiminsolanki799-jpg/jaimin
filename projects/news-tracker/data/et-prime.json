@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T10:00:01+00:00",
+ "generated_at": "2026-11-15T10:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 15:08:14 +0530",
+   "sample_date": "Sun, 15 Nov 2026 15:45:50 +0530",
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 15:05:41 +0530",
+   "sample_date": "Sun, 15 Nov 2026 15:44:11 +0530",
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 15:01:12 +0530",
    "error": null,
-   "checked_at": "2026-11-15T10:00:01+00:00"
+   "checked_at": "2026-11-15T10:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "295e6ccea204109c",
+   "title": "LPG cylinder price in Delhi: Why Ujjwala beneficiaries pay ₹642 for a cylinder that costs ₹1,267.24 to supply",
+   "link": "https://www.livemint.com/companies/lpg-cylinder-price-in-delhi-why-ujjwala-beneficiaries-pay-642-for-a-cylinder-that-costs-1-267-24-to-supply-11794736665823.html",
+   "summary": "Eligible Ujjwala beneficiaries pay ₹642 for a 14.2 kg LPG cylinder in Delhi, against the regular retail price of ₹942. The Centre provides a ₹300 direct subsidy and additional support of ₹325.24 per cylinder to cushion higher LPG costs.",
+   "published": "2026-11-15T10:15:50+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Geerated_Image_oenlzeoenlzeoenl_179473683_1794736843635_3SCG_1794736843785_1P8P_cdf075c2-9b42-4884-a843-c4f742c8a92c_1bC5.png",
+   "topics": [],
+   "first_seen": "2026-11-15T10:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fe017a5e9d8c9e18",
+   "title": "PSU dividend this week Nov 16-20: Cochin Shipyard, Power Finance Corp, SCI to Oil India - Check record dates and returns",
+   "link": "https://www.livemint.com/market/stock-market-news/psu-dividend-this-week-nov-16-20-cochin-shipyard-power-finance-corp-sci-to-oil-india-check-record-dates-and-returns-11794735494353.html",
+   "summary": "Four PSU stocks will attract attention this week as investors track dividend record dates: Cochin Shipyard and Shipping Corporation of India on November 16, Power Finance Corporation on November 17, and Oil India on November 20. Their announced dividends range from ₹3 to ₹7 per share.",
+   "published": "2026-11-15T10:14:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/PSU_Dividend_Shares_This_Week_1794737197969_S13H_1794737210283_8rDo_2d8be38d-767d-4cbb-924e-1a275cb27d42_RfWa.png",
+   "topics": [],
+   "first_seen": "2026-11-15T10:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "d34e6d5613e7030e",
    "title": "Nvidia disruption, likely Democratic shift on data centres could impact AI investments, say experts. Who is set to gain?",
@@ -11400,42 +11438,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gemini_Generated_Imae_r0dcn4r0dcn4r0dc_179424214_1794242155135_Z3WH_1794242155280_nOyU_244e0fa0-4165-472b-81c4-d653db773876_awHX.png",
    "topics": [],
    "first_seen": "2026-11-09T17:00:05+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a039074074fe97c5",
-   "title": "Planning a big wedding? One unexpected event could derail it; can insurance save the day? All you need to know",
-   "link": "https://www.livemint.com/money/personal-finance/planning-a-big-wedding-one-unexpected-event-could-derail-it-can-insurance-save-the-day-all-you-need-to-know-11794237363923.html",
-   "summary": "Wedding insurance can help Indian families recover costs if unforeseen events such as fire, theft, severe illness or extreme weather disrupt celebrations. Here's how it works.",
-   "published": "2026-11-09T16:17:00+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/2-0-875484822-659333804-0_1679648220980_1794240936862_YbGf_9f1fea58-1329-4511-97a8-e57485761f2a_dLEa.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T16:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c3674a9fe0e9ad2a",
-   "title": "Nvidia’s Jensen Huang faces board scrutiny: Can the chipmaker remove its CEO? Here’s what the board can and cannot do",
-   "link": "https://www.livemint.com/companies/news/nvidias-jensen-huang-faces-board-scrutiny-can-the-chipmaker-remove-its-ceo-here-s-what-the-board-can-and-cannot-do-11794239847524.html",
-   "summary": "Nvidia's board has launched an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence effort. Here's what the company's bylaws say about removing him as CEO and director.",
-   "published": "2026-11-09T16:10:33+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794274605184_LM6w_1794274610342_uj7B_225225fd-5b62-491b-9896-c7920be9ac30_Jw1I.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T16:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
