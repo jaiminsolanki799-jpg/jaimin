@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T13:30:01+00:00",
+ "generated_at": "2026-11-15T14:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 18:54:41 +0530",
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 18:39:06 +0530",
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 18:04:35 +0530",
+   "sample_date": "Sun, 15 Nov 2026 19:15:19 +0530",
    "error": null,
-   "checked_at": "2026-11-15T13:30:01+00:00"
+   "checked_at": "2026-11-15T14:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "7c7b5dd65639bf24",
+   "title": "Got tax refund twice? Here is what you should do",
+   "link": "https://www.livemint.com/money/personal-finance/got-tax-refund-twice-here-is-what-you-should-do-11794680027008.html",
+   "summary": "While returning the excess income tax refund promptly is important, it is imperative that the amount paid back by you is correctly reflected in the system so that a demand is not once again raised for the same.",
+   "published": "2026-11-15T13:45:19+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/3-0-115050211-iStock-1198252572-0_1679842357891_1794738582214_5E1I_effc632f-2c84-4055-a09e-93f192f00fe6_AVzH.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-15T14:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "87b51c8bc4aefaa9",
    "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
@@ -11425,24 +11445,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794233272914_WxeH_921f5643-3aa6-4c90-9f46-4137e009b091_3iv9.jpg",
    "topics": [],
    "first_seen": "2026-11-10T00:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "92ecdbe1a1b25cd5",
-   "title": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
-   "link": "https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html",
-   "summary": "Banks led by JPMorgan Chase & Co. could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc. that the underwriters were stuck holding a few months ago.",
-   "published": "2026-11-09T22:13:25+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-   "topics": [],
-   "first_seen": "2026-11-09T22:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
