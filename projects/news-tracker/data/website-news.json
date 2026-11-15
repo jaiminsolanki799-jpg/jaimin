@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-15T16:30:01+00:00",
+ "generated_at": "2026-11-15T17:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:30:01+00:00"
+   "checked_at": "2026-11-15T17:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Sat, 14 Nov 2026 07:23:49 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:30:01+00:00"
+   "checked_at": "2026-11-15T17:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:30:01+00:00"
+   "checked_at": "2026-11-15T17:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 7,
-   "items": 7,
-   "sample_date": "Fri, 13 Nov 2026 16:55:01 GMT",
+   "fetched": 6,
+   "items": 6,
+   "sample_date": "Sat, 14 Nov 2026 06:41:10 GMT",
    "error": null,
-   "checked_at": "2026-11-15T16:30:01+00:00"
+   "checked_at": "2026-11-15T17:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 16:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-15T16:30:01+00:00"
+   "checked_at": "2026-11-15T17:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
   {
    "id": "84e57f9fb52388b4",
@@ -7075,96 +7075,6 @@
     "IPO",
     "Funding"
    ]
-  },
-  {
-   "id": "0b1fdfc611aab2a5",
-   "title": "Swami Sarvapriyananda - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85M1ZBNHhGT21NeUF0UGtpUThpanFyck1pOGxSOE5RcmlaN241UDNSdzRuYjJGTjVudWN0TXI2RFNuSzFCUEtzQlN0a0tmTk1MbFhOVkx2aUU3Xzl6bFRaNWxmSlhwYjFJemY4a19B?oc=5",
-   "summary": "",
-   "published": "2026-11-05T16:53:42+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "37c15033ce7f0d8a",
-   "title": "Ride-hailing - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UZ0RuaTJqMmJCcVJibHRKOTJrb2k0OEktbktZME5jLWo0QWRpeGYtTjl2VWp4Vi1RbHdmc1c4UXdMcFhPNnRRTjdRZlhlTWlQN2JvNkVRbUZjMkJTVWdB?oc=5",
-   "summary": "",
-   "published": "2026-11-05T16:53:25+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-09-07T10:10:50+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "27475406f5797668",
-   "title": "Foodtech - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yZUVFQ2dadGRaak5CeThZeW1Cc19oVUZYZHZpUU5YaDdqbDNCUmJTVWcwOWFhVzBoeWhyb0ZkbWFDYzFoX1ZBeWpIbEhPcGU4elJ3NzAwOA?oc=5",
-   "summary": "",
-   "published": "2026-11-05T16:53:23+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "edf032e2f1307e6f",
-   "title": "Artificial Intelligence - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aNzlzQXlTd2JnZUFTR1NyR2h6UXluRU53V2ExcFJHeFpFVjdJRVJDQkJzVjc2YWdjaEtlTFBLTDdBblBVdUtZQWxTUjdDSmxTVGFyX0hlanMwZkllVkVEaEM5NHl6TDl4cUE1ZVZhV2o?oc=5",
-   "summary": "",
-   "published": "2026-11-05T16:53:17+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b960f62eec752711",
-   "title": "Anthropic - The CapTable",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ja0c2OWNqWFFyNlFlcHlPWDlaZkpzN1NWMnlobHpLVGp2T3BiaGFPTXRPOVdZTldrZFRZNXdGN0RUZ3FFdGtEQ2VLNXlHNGlSTlJxWFhZa0pRQVU?oc=5",
-   "summary": "",
-   "published": "2026-11-05T16:53:17+00:00",
-   "source": "The CapTable",
-   "group": "The CapTable",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "The CapTable",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
