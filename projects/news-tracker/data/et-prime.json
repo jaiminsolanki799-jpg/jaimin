@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T06:00:03+00:00",
+ "generated_at": "2026-11-15T06:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 07:44:05 +0530",
+   "sample_date": "Sun, 15 Nov 2026 11:26:09 +0530",
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 11:27:10 +0530",
+   "sample_date": "Sun, 15 Nov 2026 11:56:58 +0530",
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 10:56:28 +0530",
    "error": null,
-   "checked_at": "2026-11-15T06:00:03+00:00"
+   "checked_at": "2026-11-15T06:30:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "39036d65954041cc",
+   "title": "Tata Motors shares: 22% down in 2026, right time to buy famous auto stock? What brokerages say after loss narrows in Q2",
+   "link": "https://www.livemint.com/market/stock-market-news/tata-motors-shares-22-down-in-2026-right-time-to-buy-famous-auto-stock-what-brokerages-say-after-loss-narrows-in-q2-11794720978958.html",
+   "summary": "Tata Motors PV reported a Q2 FY27 consolidated loss of ₹5,531 cr, including exceptional charges of ₹6,738 cr, even as revenue rose 34% and EBITDA margin improved. Brokerages are divided: Motilal Oswal maintained Sell with a ₹240 target, while Nuvama retained Buy with a revised ₹360 target.",
+   "published": "2026-11-15T06:26:58+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Tata_Motors_Stock_Buy_Sell_or_Hold_1794723693408_e5dA_1794723699882_LrZM_90d3a53c-ce7c-4619-95b7-3a99393cb4a8_SPug.png",
+   "topics": [],
+   "first_seen": "2026-11-15T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "5fa79ad56199dafd",
    "title": "Kamarajar Port picks SBI Capital, IDBI Capital and ICICI Securities for IPO",
@@ -217,6 +235,24 @@
     "IPO",
     "Valuation"
    ]
+  },
+  {
+   "id": "57fd04e3a29db093",
+   "title": "Who is Thomas Kurian? Meet the India-born tech executive leading Google Cloud, considered for Nvidia CEO’s job",
+   "link": "https://www.livemint.com/companies/people/who-is-thomas-kurian-meet-the-india-born-tech-executive-leading-google-cloud-considered-for-nvidia-ceo-s-job-11794721588970.html",
+   "summary": "Nvidia is searching for a permanent CEO after Jensen Huang stepped down amid allegations, with CFO Colette Kress serving as interim chief. More than 132,000 people have petitioned for Huang’s return. Google Cloud CEO Thomas Kurian is among the candidates discussed.",
+   "published": "2026-11-15T05:56:09+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Thomas_1794721875401_c7nZ_1794721893402_pg9P_a9954f20-8eab-494b-846e-e8b734c3245d_OVaB.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "cf8a06b8a0f96c47",
@@ -11395,44 +11431,6 @@
    "first_seen": "2026-11-09T13:00:04+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "6020a29577d28b3f",
-   "title": "Tata Group: What did N Chandrasekaran discuss with Mehli Mistry? Inside crucial meeting at Bombay House",
-   "link": "https://www.livemint.com/companies/tata-group-noel-tata-what-did-n-chandrasekaran-discuss-with-mehli-mistry-inside-crucial-meeting-at-bombay-house-11794222368123.html",
-   "summary": "What did N Chandrasekaran and Mehli Mistry discuss at Bombay House? Inside their meeting, the Tata Trusts dispute and efforts to rebuild ties.",
-   "published": "2026-11-09T12:34:22+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Untitled_design_1794227532112_5kgN_1794227556598_BUhq_dd547b41-812c-461b-bc83-c3abf4a9a785_W9On.png",
-   "topics": [],
-   "first_seen": "2026-11-09T13:00:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2e6affcf83d62453",
-   "title": "Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; check stop-loss, target price",
-   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-this-week-union-bank-ather-energy-laurus-labs-by-market-expert-check-stop-loss-target-price-11794224157187.html",
-   "summary": "Indian benchmarks rose to their highest levels in over eight months, with the Nifty gaining 0.23% and Sensex 0.13%, as crude prices eased. Markets close Tuesday for Diwali. Analyst Chandan Taparia recommended Union Bank of India, Ather Energy and Laurus Labs, citing bullish technical signals.",
-   "published": "2026-11-09T12:22:10+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Chandan_Taparia_1788834234050_af1895d2-d413-4eaa-9_1794226812128_xhR4_1794226812355_DWei_844a979c-60e0-4857-b7da-0920281ecf71_OBtw.png",
-   "topics": [],
-   "first_seen": "2026-11-09T12:30:02+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
   }
  ]
 }
