@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T13:00:02+00:00",
+ "generated_at": "2026-11-15T13:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 18:18:22 +0530",
+   "sample_date": "Sun, 15 Nov 2026 18:54:41 +0530",
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 17:45:04 +0530",
+   "sample_date": "Sun, 15 Nov 2026 18:39:06 +0530",
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 18:04:35 +0530",
    "error": null,
-   "checked_at": "2026-11-15T13:00:02+00:00"
+   "checked_at": "2026-11-15T13:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "87b51c8bc4aefaa9",
+   "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+   "link": "https://www.livemint.com/companies/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout-11794749081461.html",
+   "summary": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+   "published": "2026-11-15T13:24:41+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+   "topics": [],
+   "first_seen": "2026-11-15T13:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "318fce7df598f077",
+   "title": "Crystal Crop Protection IPO one lot profit calculator on latest GMP: How much can retail and HNI investors earn? Listing",
+   "link": "https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-one-lot-profit-calculator-on-latest-gmp-how-much-can-retail-and-hni-investors-earn-listing-11794744856974.html",
+   "summary": "Crystal Crop Protection’s ₹455.49 crore IPO opens November 18 and closes November 20, with shares priced at ₹259– ₹272. The latest grey market premium of ₹14 suggests a potential listing price of ₹286, or a 5.15% gain at the upper price band.",
+   "published": "2026-11-15T13:09:06+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Crystal_Crop_Protection_IPO_Update_1794748040703_4Z5d_1794748050681_Xrqi_ee14e3dd-1a30-4235-ba6f-b75921800881_4SCN.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-15T13:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "bee9648ad1fac085",
    "title": "Tariffs, supply snags and a war: 6 sectors that pulled it off through all of the trouble",
@@ -227,6 +267,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-15T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3f7cbd53983c373e",
+   "title": "Jensen Huang controversy triggers fresh US push to block advanced AI chip exports to China — Report",
+   "link": "https://www.livemint.com/companies/jensen-huang-controversy-triggers-fresh-us-push-to-block-advanced-ai-chip-exports-to-china-report-11794745222099.html",
+   "summary": "Democrats and Republicans are backing bills to curb sensitive chip exports and give Congress greater powers to review and block deals approved by the Trump administration.",
+   "published": "2026-11-15T12:58:19+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/nvidia_1794745954736_IIQe_1794745979962_sOSK_c4272b8f-ceb5-4d1e-ad2b-2e6637740ac9_XlBD.jpg",
+   "topics": [],
+   "first_seen": "2026-11-15T13:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11385,60 +11443,6 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
    "topics": [],
    "first_seen": "2026-11-09T22:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1d6a9aabb7ec5983",
-   "title": "EIB’s Calvino Says US Turmoil Is Driving Capital to Europe",
-   "link": "https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html",
-   "summary": "Europe is set to benefit from recent market turmoil in the US as investors seek a safe haven, according to European Investment Bank President Nadia Calvino.",
-   "published": "2026-11-09T22:10:13+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "topics": [],
-   "first_seen": "2026-11-09T22:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c50c45dcf37bc856",
-   "title": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
-   "link": "https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html",
-   "summary": "Neil Parker has spent nearly three decades tracking the yen, through financial crises and sharp currency swings. Now, the top dollar-yen forecaster in Bloomberg’s latest rankings sees the Japanese currency rallying toward 147 per dollar next year as Japan’s interest-rate gap with the US narrows.",
-   "published": "2026-11-09T21:22:35+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-   "topics": [],
-   "first_seen": "2026-11-09T21:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "480ac9a02e2f98c5",
-   "title": "Viking Loses 1.2% in October After Eschewing Many Big AI Bets",
-   "link": "https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html",
-   "summary": "Viking Global Investors’ flagship hedge fund dropped 1.2% last month, faring better than many of its rivals after largely avoiding high-flying artificial-intelligence stocks.",
-   "published": "2026-11-09T20:33:48+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-   "topics": [],
-   "first_seen": "2026-11-09T21:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
