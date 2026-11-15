@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-15T17:00:02+00:00",
+ "generated_at": "2026-11-15T17:30:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 21:33:24 +0530",
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 22:00:45 +0530",
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sun, 15 Nov 2026 21:44:09 +0530",
+   "sample_date": "Sun, 15 Nov 2026 22:46:44 +0530",
    "error": null,
-   "checked_at": "2026-11-15T17:00:02+00:00"
+   "checked_at": "2026-11-15T17:30:05+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "fbe8ac5314247f8f",
+   "title": "Pension cannot be attached to recover another person's loan even if retired employee stood as guarantor: J&K&L HC",
+   "link": "https://www.livemint.com/money/personal-finance/pension-cannot-be-attached-to-recover-another-persons-loan-even-if-retired-employee-stood-as-guarantor-j-k-l-h-11794756500677.html",
+   "summary": "The court said that pension is a welfare measure intended to safeguard the financial security of retired employees and their families",
+   "published": "2026-11-15T17:16:44+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/IMG_7262_1723453054105_1794760433664_Kc1g_fa4e9e5e-7e03-4c27-8a3f-2e6ba2267b27_3ZQg.JPG",
+   "topics": [],
+   "first_seen": "2026-11-15T17:30:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "01dc558eb7b8a02b",
+   "title": "Bitcoin wallet untouched since 2011 moves ₹44 crore after legal notice in $260 billion lawsuit targeting dormant BTC",
+   "link": "https://www.livemint.com/money/personal-finance/bitcoin-wallet-untouched-since-2011-moves-44-crore-after-legal-notice-in-260-billion-lawsuit-targeting-dormant-btc-11794761268978.html",
+   "summary": "A Bitcoin wallet untouched since 2011 has moved 75 BTC worth around ₹44 crore after receiving a court-ordered legal notice. The address is among 39,069 wallets targeted in a $260 billion US lawsuit seeking ownership of dormant Bitcoin holdings.",
+   "published": "2026-11-15T16:57:35+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Genrated_Image_xdeknlxdeknlxdek_179476155_1794761567362_wstH_1794761567498_41Xr_31fc36d2-904c-4fc4-aa4a-1df2469b3dfd_XiHQ.png",
+   "topics": [],
+   "first_seen": "2026-11-15T17:30:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9d5f791d165d23d0",
    "title": "Watrana Rentals IPO GMP profit calculator on latest GMP: How much profit can retail and HNI investors expect?",
@@ -11410,46 +11446,6 @@
    "first_seen": "2026-11-10T04:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "901b094ec0054e36",
-   "title": "HUL dividend 2026: Tomorrow is the last day to buy | Check payout amount, record date, history, yield and returns",
-   "link": "https://www.livemint.com/market/stock-market-news/hul-dividend-2026-tomorrow-is-the-last-day-to-buy-check-payout-amount-record-date-history-yield-and-returns-11794278924006.html",
-   "summary": "HUL dividend 2026: HUL announced the interim dividend alongside its September-quarter results on October 28. The dividend amounts to 1,900% of the face value of ₹1 per equity share.",
-   "published": "2026-11-10T03:45:08+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/HUL_divi__1794282204614_PZRM_1794282204726_mu2B_be7a01b9-dc9c-44b7-8e74-0f9cccc8cafe_Qqbm.png",
-   "topics": [],
-   "first_seen": "2026-11-10T04:00:03+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
-  },
-  {
-   "id": "5ea1789b7f7ecc85",
-   "title": "Four stocks with high dividend payout ratios to watch",
-   "link": "https://www.livemint.com/market/stock-market-news/four-stocks-with-high-dividend-payout-ratios-to-watch-11794220722375.html",
-   "summary": "Dividend-paying companies can be an important part of an investor's portfolio, particularly for those looking for regular income.",
-   "published": "2026-11-10T03:30:37+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/rupee_1708592614056_1794223101099_mxbp_8d08f0cc-ba39-4a81-a7c5-8f489e26ef66_ETRI.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T04:00:03+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Buyback & payout"
-   ]
   }
  ]
 }
