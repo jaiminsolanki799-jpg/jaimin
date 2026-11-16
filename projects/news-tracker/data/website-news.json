@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T15:00:03+00:00",
+ "generated_at": "2026-11-16T15:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T15:00:03+00:00"
+   "checked_at": "2026-11-16T15:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 06:08:23 GMT",
+   "sample_date": "Mon, 16 Nov 2026 11:50:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T15:00:03+00:00"
+   "checked_at": "2026-11-16T15:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 12:54:43 GMT",
    "error": null,
-   "checked_at": "2026-11-16T15:00:03+00:00"
+   "checked_at": "2026-11-16T15:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 11,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-16T15:00:03+00:00"
+   "checked_at": "2026-11-16T15:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 14:48:13 +0000",
+   "sample_date": "Mon, 16 Nov 2026 15:02:34 +0000",
    "error": null,
-   "checked_at": "2026-11-16T15:00:03+00:00"
+   "checked_at": "2026-11-16T15:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "43465bb556008cf4",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "published": "2026-11-16T15:02:34+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ram Iyer",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T15:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "168a5c8c545afea8",
    "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
