@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T14:00:07+00:00",
+ "generated_at": "2026-11-16T14:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-16T14:00:07+00:00"
+   "ok": true,
+   "fetched": 4,
+   "items": 4,
+   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
+   "error": null,
+   "checked_at": "2026-11-16T14:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
+   "sample_date": "Mon, 16 Nov 2026 11:15:55 GMT",
    "error": null,
-   "checked_at": "2026-11-16T14:00:07+00:00"
+   "checked_at": "2026-11-16T14:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 12:54:43 GMT",
    "error": null,
-   "checked_at": "2026-11-16T14:00:07+00:00"
+   "checked_at": "2026-11-16T14:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-16T14:00:07+00:00"
+   "ok": true,
+   "fetched": 10,
+   "items": 10,
+   "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
+   "error": null,
+   "checked_at": "2026-11-16T14:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 14:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T14:00:07+00:00"
+   "checked_at": "2026-11-16T14:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "59b8ad1c2bb62e6b",
+   "title": "Urban Company opens Rs 2,500 Cr QIP, sets floor price at Rs 161.03 per share",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzZ3MmZJd2hSYkwtcm5UdFhzSU41NGROb0ZLY3gxNF9SeEFOb2xMX01rb2JUd1k0YUpDQzN4akZGWFZQMENFUm1scnpwQWRJZkRiS213WnVueW1oLUc0NzlON0lraFBBSEFXcWo2Zk9ZV1Y5OHUxUlhHSDVMWU5MaFRRMUhncWVZOWJDNlVFdGF4SF9SaFpKUmlnQ2poYkNwaXU2Z2w3R21uUy1q0gGsAUFVX3lxTE5nNncyZkl3aFJiTC1yblR0WHNJTjU0ZE5vRktjeDE0X1J4QU5vbExfTWtvYlR3WTRhSkNDM3hqRkZYVlAwQ0VSbWxyenBBZElmRGJLbXdadW55bWgtRzQ3OU43SWtoUEFIQVdxajZmT1lXVjk4dTFSWEdINUxZTkxoVFExSGdxZVk5YkM2VUV0YXhIX1JoWkpSaWdDamhiQ3BpdTZnbDdHbW5TLWo?oc=5",
+   "summary": "",
+   "published": "2026-11-16T14:17:03+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T14:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "29a00ed4a02141cd",
    "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
@@ -90,6 +110,27 @@
    "first_seen": "2026-11-16T14:00:07+00:00",
    "valuation_score": 0,
    "valuation_signals": []
+  },
+  {
+   "id": "5fbab2fe02758355",
+   "title": "AI CRM startup Dreamteam raises $53 Mn from Accel, Premji Invest, others",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWxvVmxhbm12TFA5VnBvcnl6VXB2LUZmSjJKZE1mTDBVQzZST2lRX0t1c0lpMW9PRlNZYWVZQjBFX25OMVBhNXJFM0lGTFRKX1R2dm82eXlMOHZFLXlCclNHQVVqX3pTbE1jaENhaEUteHdneUFBZThINUxKVTlGV01MNnphcEszVFM3VG51VXB3YTRaNWVlU1M0V1ltTFNuVllZQlNIY9IBpwFBVV95cUxQOWxvVmxhbm12TFA5VnBvcnl6VXB2LUZmSjJKZE1mTDBVQzZST2lRX0t1c0lpMW9PRlNZYWVZQjBFX25OMVBhNXJFM0lGTFRKX1R2dm82eXlMOHZFLXlCclNHQVVqX3pTbE1jaENhaEUteHdneUFBZThINUxKVTlGV01MNnphcEszVFM3VG51VXB3YTRaNWVlU1M0V1ltTFNuVllZQlNIYw?oc=5",
+   "summary": "",
+   "published": "2026-11-16T13:50:53+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T14:30:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
   },
   {
    "id": "678133a22d884c3a",
@@ -7032,44 +7073,6 @@
    "category": "Startups",
    "date_known": true,
    "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T15:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c6c3b486e15291db",
-   "title": "(Weekly funding roundup Oct 31-Nov 6) Sharp rise in capital inflow",
-   "link": "https://yourstory.com/2026/11/weekly-funding-roundup-oct-31-nov-6-sharp-rise-in-capital-inflow",
-   "summary": "The total funding for the first week of November was $263 million across 23 deals, compared to just $115 million in the previous week.",
-   "published": "2026-11-06T14:18:16+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T14:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
-  },
-  {
-   "id": "ab4846bbc512d790",
-   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-   "published": "2026-11-06T14:10:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Ivan Mehta",
    "publisher": null,
    "image": null,
    "topics": [],
