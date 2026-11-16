@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T07:00:02+00:00",
+ "generated_at": "2026-11-16T07:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:00:02+00:00"
+   "checked_at": "2026-11-16T07:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sat, 14 Nov 2026 09:00:00 GMT",
+   "sample_date": "Mon, 16 Nov 2026 06:08:23 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:00:02+00:00"
+   "checked_at": "2026-11-16T07:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 16 Nov 2026 06:23:15 GMT",
+   "sample_date": "Mon, 16 Nov 2026 07:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:00:02+00:00"
+   "checked_at": "2026-11-16T07:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Mon, 21 Oct 2024 13:58:14 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:00:02+00:00"
+   "checked_at": "2026-11-16T07:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 01:30:00 +0000",
+   "sample_date": "Mon, 16 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T07:00:02+00:00"
+   "checked_at": "2026-11-16T07:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,83 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "c4139afe9bd059ec",
+   "title": "11,000 applied, 10 made the cut: Meet the UAE-India Start-up Series finalists",
+   "link": "https://yourstory.com/2026/11/uae-india-startup-series-2-0-top-10-finalists-bengaluru",
+   "summary": "Ten Indian start-ups, picked from 11,000 applicants, pitch in Bengaluru on 18 November for a spot in Hub71’s Abu Dhabi programmes.",
+   "published": "2026-11-16T07:09:39+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "99d7ae48fb3f0e18",
+   "title": "What is Black Friday? | Products Entrepreneurs Should Buy during Black Friday",
+   "link": "https://startuptalky.com/black-friday-deals-for-entrepreneurs/",
+   "summary": "If you are an entrepreneur and confused about what to buy this Black Friday then Here are some of the top products you should check out.",
+   "published": "2026-11-16T07:00:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Abinaya Arangarajan",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/11/BlackFriday-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-16T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a005607dd1fc0362",
+   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+   "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+   "published": "2026-11-16T07:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anna Heim",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T07:30:01+00:00",
+   "valuation_score": 5,
+   "valuation_signals": [
+    "Funding",
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "a54e5f727107b699",
+   "title": "Growing Calls for Jensen Huang's Return Put Nvidia Leadership in the Spotlight",
+   "link": "https://startuptalky.com/news/growing-calls-for-jensen-huangs-return/",
+   "summary": "A petition to reinstall Jensen Huang as the CEO of Nvidia has gathered nearly 160,000 signatures, with high-profile tech leaders allegedly backing the cause. Among others, the movement is connected to Elon Musk, Tim Sweeney and Garry Tan.",
+   "published": "2026-11-16T06:58:39+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/growing-calls-for-jensen-huangs-return-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-16T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eb0c106c7d1df341",
    "title": "Ola Electric hands the keys to dealers. What led to this shift in gears?",
@@ -6928,42 +7003,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T08:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "564096ef6a858180",
-   "title": "KFC Brings Doctor Doom to the Forefront of its Biggest Marvel Food Campaign",
-   "link": "https://startuptalky.com/news/kfc-brings-doctor-doom-to-the-forefront/",
-   "summary": "KFC is teaming up with Marvel Studios’ Avengers: Doomsday for its biggest worldwide Marvel menu campaign yet with Doctor Doom. The campaign will run for more than 100 markets, except India, China and the US, from Nov. 9 to January 2027.",
-   "published": "2026-11-06T07:24:44+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/kfc-brings-doctor-doom-to-the-forefront-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T07:30:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d0ed5775bc4fb219",
-   "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-   "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-   "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-   "published": "2026-11-06T07:18:44+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Dominic-Madori Davis",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T07:30:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
