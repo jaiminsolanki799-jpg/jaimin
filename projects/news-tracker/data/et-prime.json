@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-16T01:00:01+00:00",
+ "generated_at": "2026-11-16T01:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 06:02:51 +0530",
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 06:05:57 +0530",
+   "sample_date": "Mon, 16 Nov 2026 06:42:05 +0530",
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 23:40:52 +0530",
    "error": null,
-   "checked_at": "2026-11-16T01:00:01+00:00"
+   "checked_at": "2026-11-16T01:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 12,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "80e72b9d858a1ea6",
+   "title": "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-16-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11794789061627.html",
+   "summary": "Sensex and Nifty 50 are expected to open flat to positive on Monday, despite weaker Asian markets and mixed global cues. Indian benchmarks fell on Friday as higher-than-expected retail inflation raised concerns about a possible RBI rate hike.",
+   "published": "2026-11-16T01:12:05+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/Global_Market_Outlook_November_16_1794791350750_coDK_1794791354661_obEi_8392264f-e3f0-4829-887b-5cd6a68c970d_CbXh.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-16T01:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "affc03d7bae0c91f",
+   "title": "Yen steady against euro and dollar after soft Japanese GDP data",
+   "link": "https://www.livemint.com/market/yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data-11794791270301.html",
+   "summary": "GLOBAL-FOREX/:FOREX-Yen steady against euro and dollar after soft Japanese GDP data",
+   "published": "2026-11-16T01:07:49+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-16T01:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "0c5096bb1639b73f",
+   "title": "Hitachi Energy’s growth outlook powers rally. Have valuations run ahead?",
+   "link": "https://www.livemint.com/market/mark-to-market/hitachi-energy-india-share-price-q2-results-revenue-growth-hvdc-orders-11794720208456.html",
+   "summary": "A strong earnings performance, robust order inflows and confidence in long-term demand sent Hitachi Energy shares soaring. The company expects growth to be supported by upcoming HVDC projects and continued investments in power transmission.",
+   "published": "2026-11-16T01:00:53+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/gb010e08600b728f0a6c9a9187e6412a322e5ced929c1c6bd9_1738209915919_1794727495319_WpMD_a7373a8f-421c-4598-867e-d8ecbde7d6ab_JXYc.jpg",
+   "topics": [],
+   "first_seen": "2026-11-16T01:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "30673647cff4836c",
    "title": "Australian shares slip to near one-week low as weaker copper, iron ore weigh on miners",
@@ -11384,63 +11440,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/epfo_correct_1794295525644_77RP_1794295530210_nc6h_44c6f7a3-b280-4a38-8714-edfaca1e4b27_4T0m.png",
    "topics": [],
    "first_seen": "2026-11-10T08:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0654875f2b0151fc",
-   "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
-   "link": "https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html",
-   "summary": "Retail stakes fell in nearly half of listed companies in September, even as Reliance Industries, HDFC Bank and a handful of other stocks attracted more small shareholders.",
-   "published": "2026-11-10T07:21:45+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/g1417d0f500e6d98725308785bc2c76af7b1dd6f1270f48076_1794294440044_doJx_1794294440187_N9xN_2bfec499-38a6-401d-bceb-66aedd32fa83_2WYY.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a92e08e2a207bdc1",
-   "title": "Data Patterns shares surge 55% in 2026: Should you buy stock after Q2 results? What brokerages say: check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/data-patterns-shares-surge-55-in-2026-should-you-buy-stock-after-q2-results-what-brokerages-say-check-target-price-11794290061612.html",
-   "summary": "Data Patterns shares have risen 54.48% in 2026 despite a weak Q2, when revenue fell 57% and net profit dropped 55%. Orders jumped to ₹929 crore, supporting management’s outlook for a stronger second half. Brokerages say meeting FY27 targets depends on improved execution and order conversion.",
-   "published": "2026-11-10T07:20:04+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Data_Patterns_Shares_Surge_55_1794294392196_vvej_1794294397954_SqDA_54871483-9ea3-401c-8a83-83489d78fccc_idRI.png",
-   "topics": [],
-   "first_seen": "2026-11-10T07:30:01+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "Valuation",
-    "Results"
-   ]
-  },
-  {
-   "id": "e573797d8c7dedbc",
-   "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes?",
-   "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-rise-over-6-in-past-5-sessions-more-rally-from-tomorrow-or-profit-booking-will-dent-returns-hopes-11794292057445.html",
-   "summary": "Sensex, Nifty 50 outlook: On Monday, November 9, the Sensex advanced 107.25 points, or 0.13%, to close at 81,106.65, while the Nifty 50 gained 58.25 points, or 0.23%, to settle at 25,044.65.",
-   "published": "2026-11-10T07:13:11+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/nifty_50_1794294726954_lXc6_1794294727050_t4om_b69c086d-870e-449a-a03d-aab48ce3d1cb_i4bC.png",
-   "topics": [],
-   "first_seen": "2026-11-10T07:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
