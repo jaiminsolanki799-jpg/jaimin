@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T01:30:02+00:00",
+ "generated_at": "2026-11-16T02:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 3,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T01:30:02+00:00"
+   "checked_at": "2026-11-16T02:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 13 Nov 2026 10:35:56 GMT",
+   "sample_date": "Sun, 15 Nov 2026 05:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T01:30:02+00:00"
+   "checked_at": "2026-11-16T02:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Sat, 14 Nov 2026 11:53:08 GMT",
    "error": null,
-   "checked_at": "2026-11-16T01:30:02+00:00"
+   "checked_at": "2026-11-16T02:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 6,
    "sample_date": "Sat, 14 Nov 2026 06:41:10 GMT",
    "error": null,
-   "checked_at": "2026-11-16T01:30:02+00:00"
+   "checked_at": "2026-11-16T02:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 15 Nov 2026 23:30:00 +0000",
+   "sample_date": "Mon, 16 Nov 2026 01:30:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T01:30:02+00:00"
+   "checked_at": "2026-11-16T02:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "77828770ffb5c4ae",
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "published": "2026-11-16T01:30:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Ivan Mehta",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T02:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fa232e2aaf8a1962",
    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -6875,24 +6893,6 @@
    "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
    "summary": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and preparing it for the market.",
    "published": "2026-11-06T02:20:00+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "87e0feb6463ea4c7",
-   "title": "AI-powered cyberattacks put Indian fintechs on alert; Shiprocket turns profitable in Q2 FY27",
-   "link": "https://yourstory.com/2026/11/ai-powered-cyberattacks-put-indian-fintechs-on-alert",
-   "summary": "An advisory from the government body said the AI-assisted financial threat is still active and warns BFSI entities to treat it as an “immediate and continuing threat”.",
-   "published": "2026-11-06T02:00:00+00:00",
    "source": "YourStory",
    "group": "YourStory",
    "category": "Startups",
