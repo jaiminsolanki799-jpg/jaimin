@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T06:00:02+00:00",
+ "generated_at": "2026-11-16T06:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:00:02+00:00"
+   "checked_at": "2026-11-16T06:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Sun, 15 Nov 2026 05:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:00:02+00:00"
+   "checked_at": "2026-11-16T06:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 02:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:00:02+00:00"
+   "checked_at": "2026-11-16T06:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 7,
-   "items": 7,
+   "fetched": 8,
+   "items": 8,
    "sample_date": "Sat, 14 Nov 2026 06:41:10 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:00:02+00:00"
+   "checked_at": "2026-11-16T06:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 01:30:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T06:00:02+00:00"
+   "checked_at": "2026-11-16T06:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "da64e3a83a5aa6a7",
+   "title": "Exclusive: Xpressbees raises Rs 100 Cr debt from BlackSoil",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQW9EcnlIYzVUdTRfanV3ZTU1aVpEOTA0UGduMWFHVXZmVjNwSkNRWkxwbW5Wa3FDZndxVXpEaTNIcFN5WjZJX3haenZPaUZ6OEZGemNCYWdSV2Z0M1pHUEc5MkdBS3ZkZm15NFcxZThZWlhFT2hoYXNZcEhYY2ZrZGUzc3VyLVpvcW9UOUxrQnRKVFhhQ2lXTVFIaVdCZ9IBngFBVV95cUxPQW9EcnlIYzVUdTRfanV3ZTU1aVpEOTA0UGduMWFHVXZmVjNwSkNRWkxwbW5Wa3FDZndxVXpEaTNIcFN5WjZJX3haenZPaUZ6OEZGemNCYWdSV2Z0M1pHUEc5MkdBS3ZkZm15NFcxZThZWlhFT2hoYXNZcEhYY2ZrZGUzc3VyLVpvcW9UOUxrQnRKVFhhQ2lXTVFIaVdCZw?oc=5",
+   "summary": "",
+   "published": "2026-11-16T06:18:18+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T06:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "375bd4c297c0948a",
+   "title": "upGrad broadens its business with new workforce advisory venture",
+   "link": "https://yourstory.com/2026/11/upgrad-broadens-its-business-with-new-workforce-advisory-venture",
+   "summary": "upGrad launches workforce advisory business as it expands beyond skilling, aiming to help organisations navigate AI-led transformation through integrated workforce strategy and implementation.",
+   "published": "2026-11-16T06:18:04+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "982a17e02718e7a4",
+   "title": "How flexible workspaces are changing the way companies think about offices",
+   "link": "https://yourstory.com/2026/11/how-flexible-workspaces-are-changing-the-way-companies-think-about-offices",
+   "summary": "At TechSparks 2026, Manish Khedia of The Executive Centre discussed how businesses are moving beyond traditional office layouts and long-term leases to focus on flexibility, collaboration, and employee needs.",
+   "published": "2026-11-16T06:08:23+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ace4eeb296cb08fe",
    "title": "Bharat Semi raises $24M to develop AI-enabled sensors",
@@ -6888,42 +6944,6 @@
    "author": "Nitin Konde",
    "publisher": null,
    "image": "https://static.startuptalky.com/2026/11/aina-develops-ai-powered-wearable-ring-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "35fc79e809c55234",
-   "title": "If it works in India, it can work anywhere: TDK Ventures’ Nicolas Sauvage on building deeptech for the world",
-   "link": "https://yourstory.com/2026/11/tdk-ventures-nicolas-sauvage-building-deeptech-world",
-   "summary": "At TechSparks 2026, the Founder and President of TDK Ventures said Indian deeptech founders should plan for international markets from the start, and use the country’s tough operating conditions to develop capabilities that customers elsewhere would value.",
-   "published": "2026-11-06T06:30:00+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9889510bec40cd60",
-   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-   "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-   "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-   "published": "2026-11-06T06:28:32+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Marina Temkin",
-   "publisher": null,
-   "image": null,
    "topics": [],
    "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
