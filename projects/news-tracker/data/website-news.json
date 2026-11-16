@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T07:30:01+00:00",
+ "generated_at": "2026-11-16T08:00:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:30:01+00:00"
+   "checked_at": "2026-11-16T08:00:05+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 06:08:23 GMT",
+   "sample_date": "Mon, 16 Nov 2026 07:39:55 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:30:01+00:00"
+   "checked_at": "2026-11-16T08:00:05+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 07:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:30:01+00:00"
+   "checked_at": "2026-11-16T08:00:05+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 7,
-   "items": 7,
-   "sample_date": "Mon, 21 Oct 2024 13:58:14 GMT",
+   "fetched": 5,
+   "items": 5,
+   "sample_date": "Fri, 24 Apr 2020 02:21:50 GMT",
    "error": null,
-   "checked_at": "2026-11-16T07:30:01+00:00"
+   "checked_at": "2026-11-16T08:00:05+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T07:30:01+00:00"
+   "checked_at": "2026-11-16T08:00:05+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "140a9bde2363cd2e",
+   "title": "The Indian crypto investor is changing. Is the industry keeping up?",
+   "link": "https://yourstory.com/2026/11/the-indian-crypto-investor-is-changing-is-the-industry-keeping-up",
+   "summary": "As India's crypto investor base expands beyond metros and attracts younger, first-time investors, exchanges must look beyond onboarding to education, security and transparency. The piece explores how crypto platforms need to evolve to build trust and serve a more diverse investor base.",
+   "published": "2026-11-16T07:39:55+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T08:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a8dfbe4c666f3260",
+   "title": "Spice brand Zoff crosses Rs 150 Cr revenue in FY26; losses widen to Rs 21 Cr",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZF9TY3l4dFhVa0VTMTVpb24zX01QbFFkWTh5OHo0dGw1azVLSGRQYk92b3ZRUVNPaTl3SFdTaHU2d2Z5SWNFdkw5WDFaX3lYdWR6RURFYW85SGt0bEtWcEVYSGdDeVZCX2J0VHN3a3BHM0ktcENUWWhnNmk3cG9HOG5HTTFDMHZnN1pWMDVfLWtXRkJrMmlsS2pJak43Wk1aWFgyWm5XNm5mc1FqakZnVFFtdVE0QdIBtgFBVV95cUxQZF9TY3l4dFhVa0VTMTVpb24zX01QbFFkWTh5OHo0dGw1azVLSGRQYk92b3ZRUVNPaTl3SFdTaHU2d2Z5SWNFdkw5WDFaX3lYdWR6RURFYW85SGt0bEtWcEVYSGdDeVZCX2J0VHN3a3BHM0ktcENUWWhnNmk3cG9HOG5HTTFDMHZnN1pWMDVfLWtXRkJrMmlsS2pJak43Wk1aWFgyWm5XNm5mc1FqakZnVFFtdVE0QQ?oc=5",
+   "summary": "",
+   "published": "2026-11-16T07:33:23+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T08:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c4139afe9bd059ec",
    "title": "11,000 applied, 10 made the cut: Meet the UAE-India Start-up Series finalists",
@@ -6949,60 +6985,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T09:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "20bff414c144cd5a",
-   "title": "Angel One overtakes Zerodha to become second-largest broker; Groww adds over 3 lakh clients in October",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSW5Ma21pdV9vLVMxWHdyaGdXTHZILVROdWpkZnBDZVVoTHdQaEQxaVpSVUZGS2g3elBSRjNsVDZmd1BYQ3RlR0hxcGtfVDhUdUtOMU9YUUV0UzU2dnlVTXhLbzl2V01SNVlKMGF4M2s2R1RnLWJfUWVOUVNFeGJpem54elpwMkdfZzI3SENFTFV0TUVtX1dhaExBam9rdnNKREkta3lYMlp0NExYVmlZQTJ5b2UweEpZLWJvUUxjbU0tdHlZNEphTklvVHkxR09BRkHSAdIBQVVfeXFMTkluTGttaXVfby1TMVh3cmhnV0x2SC1UTnVqZGZwQ2VVaEx3UGhEMWlaUlVGRktoN3pQUkYzbFQ2ZndQWEN0ZUdIcXBrX1Q4VHVLTjFPWFFFdFM1NnZ5VU14S285dldNUjVZSjBheDNrNkdUZy1iX1FlTlFTRXhiaXpueHpacDJHX2cyN0hDRUxVdE1FbV9XYWhMQWpva3ZzSkRJLWt5WDJadDRMWFZpWUEyeW9lMHhKWS1ib1FMY21NLXR5WTRKYU5Jb1R5MUdPQUZB?oc=5",
-   "summary": "",
-   "published": "2026-11-06T07:54:39+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T09:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e509809e4dce5149",
-   "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
-   "link": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
-   "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability can no longer be an afterthought.",
-   "published": "2026-11-06T07:41:01+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T08:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "6ecc8cd9427adef8",
-   "title": "Deepinder Goyal hits back at doctors, defends wearable device Temple",
-   "link": "https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple",
-   "summary": "In a post on X, Goyal said $30 million was invested in building the device, of which he put in $20 million of his personal money.",
-   "published": "2026-11-06T07:30:46+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T08:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
