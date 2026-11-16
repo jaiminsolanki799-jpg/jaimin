@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-16T16:00:02+00:00",
+ "generated_at": "2026-11-16T16:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,18 +13,18 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 20:14:31 +0530",
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 21:11:54 +0530",
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 21:08:16 +0530",
+   "sample_date": "Mon, 16 Nov 2026 21:39:00 +0530",
    "error": null,
-   "checked_at": "2026-11-16T16:00:02+00:00"
+   "checked_at": "2026-11-16T16:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "3ebfb0f1e93465f0",
+   "title": "8th Pay Commission: Unions seek 3.833 fitment factor, ₹69,000 minimum pay and 50% family pension for pensioners",
+   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-unions-seek-3-833-fitment-factor-69-000-minimum-pay-and-50-family-pension-for-pensioners-11794845052801.html",
+   "summary": "The 8th Pay Commission faces key demands from employee unions, including a 3.833 fitment factor, ₹69,000 minimum basic pay, 50% family pension and 67% regular pension. Here is what employees and pensioners should know.",
+   "published": "2026-11-16T16:09:00+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Gemini_Generated_Image_uzavxduzvxduzav_179484528_1794845308980_CQ7u_1794845309102_3NN0_6818bed2-c4c0-46b4-99e8-461da8760c94_YFum.png",
+   "topics": [],
+   "first_seen": "2026-11-16T16:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f37a6f2f636619ad",
    "title": "$51 billion capex, 23% earnings growth: Adani Ports, Adani Green to Energy; Jefferies sees up to 44% upside in 6 stocks",
@@ -11457,24 +11475,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Kalyan_Jewellers_Shares_Soar_10_1794370498087_u8oI_1794370501724_yGa2_3fcc2685-8af6-4363-a18f-e08703cfcded_o6wh.png",
-   "topics": [],
-   "first_seen": "2026-11-11T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1d89a0b3e086b44a",
-   "title": "TD Power shares up 350% up in 3 years, jumps 5% today as Sensex, Nifty jump massively | More upside? target, stop loss",
-   "link": "https://www.livemint.com/market/stock-market-news/td-power-shares-up-350-up-in-3-years-jumps-5-today-as-sensex-nifty-jump-massively-more-upside-target-stop-loss-11794369346196.html",
-   "summary": "TD Power share price opened at ₹580.35 per share on NSE today, as compared to previous close of ₹571.65 on Monday and touched an intraday high of ₹604 on November 11.",
-   "published": "2026-11-11T04:15:19+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/TD_1794370392109_OjQ1_1794370392327_3QGr_288d17bb-3faa-4076-9506-ddab1d0456d4_odmr.png",
    "topics": [],
    "first_seen": "2026-11-11T04:30:01+00:00",
    "valuation_score": 0,
