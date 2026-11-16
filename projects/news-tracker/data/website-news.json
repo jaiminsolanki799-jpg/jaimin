@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T10:30:01+00:00",
+ "generated_at": "2026-11-16T11:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T10:30:01+00:00"
+   "checked_at": "2026-11-16T11:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
+   "sample_date": "Mon, 16 Nov 2026 09:09:50 GMT",
    "error": null,
-   "checked_at": "2026-11-16T10:30:01+00:00"
+   "checked_at": "2026-11-16T11:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 16 Nov 2026 09:31:30 GMT",
+   "sample_date": "Mon, 16 Nov 2026 10:34:56 GMT",
    "error": null,
-   "checked_at": "2026-11-16T10:30:01+00:00"
+   "checked_at": "2026-11-16T11:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 6,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-16T10:30:01+00:00"
+   "checked_at": "2026-11-16T11:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T10:30:01+00:00"
+   "checked_at": "2026-11-16T11:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "bb97f0b624ca175a",
+   "title": "Eternal Reviews 2030 Deadline for Making its Delivery Fleet 100% Electric",
+   "link": "https://startuptalky.com/news/eternal-reviews-2030-deadline/",
+   "summary": "Eternal is re-evaluating its target of 2030 for full electrification of its delivery fleet citing expansion of operations and patchy availability of EVs across India. The company is still dedicated to electrification but is revising its timeframe.",
+   "published": "2026-11-16T10:34:56+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/eternal-reviews-2030-deadline-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-16T11:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2e66868a32286645",
    "title": "From funding with own college fees to 1,000+ beds: how oho Living won Tier-2",
@@ -6931,42 +6949,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T12:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b902b8a277e92667",
-   "title": "MakeMyTrip enters shared mobility space with majority stake in Quick Ride",
-   "link": "https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride",
-   "summary": "MakeMyTrip has acquired the Quick Ride brand and its ride pooling business with a majority stake in this entity.",
-   "published": "2026-11-06T10:43:28+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T11:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b8ab5447b7414606",
-   "title": "Govt clears 12 more proposals worth over Rs 7,500 Cr under electronics components scheme",
-   "link": "https://yourstory.com/2026/11/govt-clears-12-proposals-rs-7500-cr-electronics-components-scheme",
-   "summary": "The government also launched the Semicon 2.0 web application portal under the ambitious Semicon India Programme.",
-   "published": "2026-11-06T10:42:11+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T11:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
