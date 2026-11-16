@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-16T00:00:01+00:00",
+ "generated_at": "2026-11-16T00:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 7,
-   "items": 4,
+   "fetched": 8,
+   "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 00:02:18 +0530",
+   "sample_date": "Mon, 16 Nov 2026 05:48:22 +0530",
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 04:00:37 +0530",
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Sun, 15 Nov 2026 23:40:52 +0530",
    "error": null,
-   "checked_at": "2026-11-16T00:00:01+00:00"
+   "checked_at": "2026-11-16T00:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "b9a4a0fd8022d570",
+   "title": "Jio explores Indian launch partners for satellite constellation; rocket capacity a hurdle",
+   "link": "https://www.livemint.com/companies/news/jio-satellites-skyroot-spacex-tariffs-satcom-cosmos-11794737248227.html",
+   "summary": "Jio is exploring domestic partners to launch satellites for a planned broadband constellation, with an initial batch of about 390 and a longer-term goal of 1,600. The effort could boost India’s private space sector, though limited launch capacity and high costs remain hurdles.",
+   "published": "2026-11-16T00:18:22+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/JIO-PLATFORMS-IPO--0_1794752897947_MNf9_1794752914494_rt31_c2abdb01-76eb-4b55-b071-8e8e034d4b37_72Sp.JPG",
+   "topics": [],
+   "first_seen": "2026-11-16T00:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "451fc0bb14448ccf",
    "title": "Gold still rules, but with a difference: How young India is redefining wedding jewellery",
@@ -245,6 +263,24 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
    "topics": [],
    "first_seen": "2026-11-15T23:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ea03994455d0df87",
+   "title": "Gold still rules, but with a difference: How young India is redefining wedding jewellery",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZXdsNE5WWXJ0XzVFSWlYdVg0SVYzQmhMYWFwWXdMOGsxWkVfVTdYbkdzT1JnQjdoaHd5WTFRajJGeW9KOEJ0NkQzczBwM1dqRm5nbWhOU0pjakJpSjFwMVVhbFI1RXVvTl84MmFjcTRVSjNodmNnMDZwdEFaV3RyREdod3k1MHJncW5KV1Y2NWdId0Rna2lBNGx2SkNLOXBUeEp1SFBsZk1VOXJLYUxhV01tVjNYQTBPd294TW5sbk1CSkRudFlfOWo2aGlTcy05alhvMWxUREFvb3JtSE1BOXpnZGNUX3I5Z2QtelZFeEthRFZRRDRHOEtucWYwUGdSdmNteWtMZE16c1ZWSjFBZ0xWTWhfQ19nWnhUeThrcW1VSU1yYkp1MWR6VFplTFJWTS1YRXA5TDB4MU5oVVU2Umd3TXU3WXZrTjJpRlBpN1BobENIOUFLSXdMS3Rqd9IB9wFBVV95cUxNYWpfVHR1YnJ6YjVOeHFZZ2hwYVd2M09qc1ZPYWdaR0FYUzRSd3Q5alBWYWUzZENWOXc2WHJrbmpXdWlMWVgyamxwMjcyX012UmpQRnNxb0VUZE51Vm84WTB2M0YwcG4wRlprOVBoRnVYQVhWOExVZ1ppV1lWaTNabERNUGlKZmFqck9QUk05eFN1bmUtVTM4UDVaTHZPSWJma1BXd0ljTGxWVWNFUEdmYlowdFUxZmNRZnpyc0JzdkthRWRlQWcydjY0VTdPYTU0T3h3bXJLa2c1bHd0Q3VtTjNVOGhXWUNMSDZUV0Y2MUdVWUpvbHpj?oc=5",
+   "summary": "",
+   "published": "2026-11-15T22:30:00+00:00",
+   "source": "ET Prime (Google News, 7 days)",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": true,
+   "author": null,
+   "publisher": "The Economic Times",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T00:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -11407,42 +11443,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/TATA-ELECTRONICS-INCIDENT-0_1794287708956_5XB9_1794287722822_0NuR_a88f0785-186e-428b-b388-e651856dc5e0_WfsN.JPG",
-   "topics": [],
-   "first_seen": "2026-11-10T05:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "05b3393f99d681e8",
-   "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
-   "link": "https://www.livemint.com/market/stock-market-news/amfi-rejig-reliances-jio-platforms-nse-lenskart-lg-among-7-stocks-set-for-large-cap-upgrade-vedanta-in-mid-cap-11794286571524.html",
-   "summary": "AMFI’s upcoming stock categorisation may bring substantial changes across market-cap segments. Nuvama predicts seven possible additions to the large-cap category and seven potential downgrades, alongside shifts between mid-cap and small-cap stocks.",
-   "published": "2026-11-10T05:15:52+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/AMFI_Large_Cap_Upgrade_Infographic_1794287520076_bWPO_1794287523626_EfSv_327eb8a3-783f-44b3-ac61-3e33cce7b311_IdJ2.png",
-   "topics": [],
-   "first_seen": "2026-11-10T05:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c0d1b7ff73c43a22",
-   "title": "Gold rates today 10 Nov Tuesday: Can price rise to ₹1.48 lakh per 10 gm? What experts say about rally as crude cools",
-   "link": "https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html",
-   "summary": "Gold rates today: The recovery in gold prices comes after a sharp correction in October, with investors assessing whether the recent rebound can sustain itself.",
-   "published": "2026-11-10T05:08:20+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/gold_price_1794287083622_A4od_1794287083723_qG8Z_c6f13f8b-2b6e-4bb2-831d-68dd2f760cac_nGZt.png",
    "topics": [],
    "first_seen": "2026-11-10T05:30:02+00:00",
    "valuation_score": 0,
