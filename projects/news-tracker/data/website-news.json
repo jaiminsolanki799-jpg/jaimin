@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T06:30:02+00:00",
+ "generated_at": "2026-11-16T07:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:30:02+00:00"
+   "checked_at": "2026-11-16T07:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Sun, 15 Nov 2026 05:00:00 GMT",
+   "sample_date": "Sat, 14 Nov 2026 09:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:30:02+00:00"
+   "checked_at": "2026-11-16T07:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 16 Nov 2026 02:00:00 GMT",
+   "sample_date": "Mon, 16 Nov 2026 06:23:15 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:30:02+00:00"
+   "checked_at": "2026-11-16T07:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 8,
-   "items": 8,
-   "sample_date": "Sat, 14 Nov 2026 06:41:10 GMT",
+   "fetched": 7,
+   "items": 7,
+   "sample_date": "Mon, 21 Oct 2024 13:58:14 GMT",
    "error": null,
-   "checked_at": "2026-11-16T06:30:02+00:00"
+   "checked_at": "2026-11-16T07:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 01:30:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T06:30:02+00:00"
+   "checked_at": "2026-11-16T07:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "eb0c106c7d1df341",
+   "title": "Ola Electric hands the keys to dealers. What led to this shift in gears?",
+   "link": "https://yourstory.com/2026/11/ola-electric-hands-keys-to-dealers-what-led-to-this-shift",
+   "summary": "For long, Ola Electric ran its own showrooms and sold directly to customers. Now it is shifting to a dealer-led model with plans to have 700 dealer stores by March 2027. What prompted this reset and what should the company get right for it to work?",
+   "published": "2026-11-16T06:29:33+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e718d022cccd3f9b",
+   "title": "Amazon's Satellite Ambitions Hit Snag After Rocket Failure Destroys 40 Satellites",
+   "link": "https://startuptalky.com/news/amazons-satellite-ambitions-hit-snag/",
+   "summary": "Amazon has taken a big hit to its satellite internet plans after a United Launch Alliance (ULA) Vulcan rocket failed around 10 minutes after liftoff, losing 40 Amazon Leo satellites. The mishap imperils its plans to compete with Elon Musk’s Starlink.",
+   "published": "2026-11-16T06:23:15+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/amazons-satellite-ambitions-hit-snag-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-16T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "da64e3a83a5aa6a7",
    "title": "Exclusive: Xpressbees raises Rs 100 Cr debt from BlackSoil",
@@ -6928,24 +6964,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-06T07:30:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f3d62761e74278d3",
-   "title": "Aina Develops AI-Powered Wearable Ring to Anticipate Users' Next Moves",
-   "link": "https://startuptalky.com/news/aina-develops-ai-powered-wearable-ring/",
-   "summary": "A Bengaluru-based founder of startup Aina, Apoorv Shankar, has developed a smart ring with an AI that predicts users’ requirements and the next move they will make. The wearable has a context-aware operating system that connects to smartphones, Macs and AI agents to automate common chores.",
-   "published": "2026-11-06T06:34:04+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/aina-develops-ai-powered-wearable-ring-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T06:53:26+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
