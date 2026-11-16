@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-16T02:30:02+00:00",
+ "generated_at": "2026-11-16T03:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 07:59:39 +0530",
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 07:43:17 +0530",
+   "sample_date": "Mon, 16 Nov 2026 08:21:38 +0530",
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 07:38:44 +0530",
    "error": null,
-   "checked_at": "2026-11-16T02:30:02+00:00"
+   "checked_at": "2026-11-16T03:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "a9f827f4db0a8f88",
+   "title": "Coal India's Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share | Check GMP, issue details, key dates",
+   "link": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-price-band-set-at-rs-129-rs-136-per-share-check-gmp-issue-details-key-dates-11794795588725.html",
+   "summary": "Mahanadi Coalfields has set its IPO price band at ₹129–136 per share. The offer, open from 19 to 23 November, is a 10% stake sale by Coal India, which will receive the proceeds. Shares are tentatively due to list on BSE and NSE on 27 November.",
+   "published": "2026-11-16T02:51:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Mahanadi_Coalfields_IPO_Price_Band_1794797340027_UvrT_1794797344457_QH0P_ba57e3c0-6661-4fd4-b001-30aabcf53418_2xrk.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-16T03:00:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "M&A"
+   ]
+  },
   {
    "id": "e29361f6e06ea795",
    "title": "Michigan pension fund drags Intel to court after 29% stock plunge in a day wiped out $140 billion in market value",
@@ -11420,24 +11443,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Wall_Street_Boom_1794299172710_Kyge_1794299177841_w8Ng_b3775576-a557-4628-bb3f-781d07ec9f57_0R8b.png",
-   "topics": [],
-   "first_seen": "2026-11-10T08:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "44c8bf2e23987f9d",
-   "title": "Will the Chinese spy scandal cost Jensen Huang his job and can Nvidia find a successor to its founder-CEO?",
-   "link": "https://www.livemint.com/companies/news/will-the-chinese-spy-scandal-cost-jensen-huang-his-job-and-can-nvidia-find-a-successor-to-its-founderceo-11794298479439.html",
-   "summary": "The controversy surrounding Nvidia CEO Jensen Huang has put his leadership under scrutiny. An investigation is underway, with the FBI, a class-action lawsuit and possible congressional inquiries also in the picture. Potential successors include executives Ian Buck and Colette Kress, and Bill Dally.",
-   "published": "2026-11-10T08:26:22+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/maxresdefault_1794304290467_oFcC_1794304294937_kgER_22fe6b79-c114-4a34-9b47-ed4a2a29685b_1OwR.jpg",
    "topics": [],
    "first_seen": "2026-11-10T08:30:01+00:00",
    "valuation_score": 0,
