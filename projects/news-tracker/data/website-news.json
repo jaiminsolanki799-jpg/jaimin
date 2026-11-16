@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T13:00:01+00:00",
+ "generated_at": "2026-11-16T13:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T13:00:01+00:00"
+   "checked_at": "2026-11-16T13:30:04+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
    "error": null,
-   "checked_at": "2026-11-16T13:00:01+00:00"
+   "checked_at": "2026-11-16T13:30:04+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 12:54:43 GMT",
    "error": null,
-   "checked_at": "2026-11-16T13:00:01+00:00"
+   "checked_at": "2026-11-16T13:30:04+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 7,
-   "items": 7,
+   "fetched": 8,
+   "items": 8,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-16T13:00:01+00:00"
+   "checked_at": "2026-11-16T13:30:04+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 12:30:00 +0000",
+   "sample_date": "Mon, 16 Nov 2026 13:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T13:00:01+00:00"
+   "checked_at": "2026-11-16T13:30:04+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "3ef0767e3e05be85",
+   "title": "Xpressbees raises Rs 100 Cr in debt from BlackSoil",
+   "link": "https://yourstory.com/2026/11/xpressbees-raises-rs-100-cr-in-debt-from-blacksoil",
+   "summary": "Xpressbees has raised Rs 100 crore through secured, unlisted NCDs, at a 13.5% coupon over 36 months, to fund its working capital needs.",
+   "published": "2026-11-16T13:22:37+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T13:30:04+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "d7903adb552ef5bc",
+   "title": "After dodging death, battery startup Our Next Energy is now going public",
+   "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+   "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+   "published": "2026-11-16T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T13:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e468305f124a7d35",
+   "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+   "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+   "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+   "published": "2026-11-16T13:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T13:30:04+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "cfc9d383a332c180",
    "title": "Jio Halts New Signups for Google AI Pro Subscription Offer for Indian Users",
@@ -106,6 +164,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-16T13:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2761d098e5a39316",
+   "title": "Frnd",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4wZldDR09FRGJscGxxTjRhYkhYVXRlR1lUU2hIeTdfX3dBZXRSb1lrMldmcVRVXzZJTF8wRy03dzNaZlot?oc=5",
+   "summary": "",
+   "published": "2026-11-16T12:12:47+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T13:30:04+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -6962,44 +7038,6 @@
    "first_seen": "2026-11-06T15:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "fbf575ba8ccde9fe",
-   "title": "Underdog shows off a 32MB speech model in new demo",
-   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-   "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-   "published": "2026-11-06T13:02:16+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Ivan Mehta",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T13:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "32e542f7deaa155d",
-   "title": "Mamaearth parent Honasa's Q2 net profit rises 87%",
-   "link": "https://yourstory.com/2026/11/mamaearth-parent-honasa-q2-net-profit-rises-87-pc",
-   "summary": "The company reported a net profit of Rs 73.24 crore in Q2FY27. Revenue rose 36% YoY to Rs 731.18 crore.",
-   "published": "2026-11-06T13:00:12+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-06T13:30:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
