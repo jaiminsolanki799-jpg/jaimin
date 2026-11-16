@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T09:00:01+00:00",
+ "generated_at": "2026-11-16T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T09:00:01+00:00"
+   "checked_at": "2026-11-16T09:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 07:39:55 GMT",
+   "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
    "error": null,
-   "checked_at": "2026-11-16T09:00:01+00:00"
+   "checked_at": "2026-11-16T09:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 07:48:49 GMT",
    "error": null,
-   "checked_at": "2026-11-16T09:00:01+00:00"
+   "checked_at": "2026-11-16T09:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 6,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-16T09:00:01+00:00"
+   "checked_at": "2026-11-16T09:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 07:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T09:00:01+00:00"
+   "checked_at": "2026-11-16T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "b38767a02a956ad7",
+   "title": "Beyond payments: Where venture capital will flow across Indian fintech over the next 24 months",
+   "link": "https://yourstory.com/2026/11/where-venture-capital-will-flow-across-indian-fintech-over-next-24-months",
+   "summary": "India's fintech decade was built on distribution. The next one will be built on infrastructure, advice and intelligence—and capital is already repricing accordingly.",
+   "published": "2026-11-16T09:20:56+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T09:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "9bdc09a205a231ae",
+   "title": "Startup news and updates: daily roundup (November 16, 2026)",
+   "link": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-16-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, November 16, 2026.",
+   "published": "2026-11-16T09:09:50+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bef12c470e25c0c3",
    "title": "Oister Global launches Rs 600 Cr deep tech fund to back growth-stage startups",
