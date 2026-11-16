@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-16T03:30:01+00:00",
+ "generated_at": "2026-11-16T04:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 07:59:39 +0530",
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Mon, 16 Nov 2026 08:21:38 +0530",
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 07:38:44 +0530",
+   "sample_date": "Mon, 16 Nov 2026 09:24:32 +0530",
    "error": null,
-   "checked_at": "2026-11-16T03:30:01+00:00"
+   "checked_at": "2026-11-16T04:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "cb0197d56401d0ab",
+   "title": "DA hike, arrears: Protest by Himachal Pradesh Road Transport pensioners to be held on 27 Nov. What are they demanding?",
+   "link": "https://www.livemint.com/money/da-hike-arrears-protest-by-himachal-pradesh-road-transport-pensioners-to-be-held-on-27-nov-what-are-they-demanding-11794795540872.html",
+   "summary": "HRTC pensioners protested against the state government over pending demands, including DA arrears. They demanded equal benefits for retired employees and announced plans to gherao the corporation’s headquarters on November 27",
+   "published": "2026-11-16T03:54:32+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794800720594_Nj2t_1794800720723_WXFL_69b14233-1c40-43c0-900b-531c661d8f59_aZAp.png",
+   "topics": [],
+   "first_seen": "2026-11-16T04:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a9f827f4db0a8f88",
    "title": "Coal India's Mahanadi Coalfields IPO price band set at ₹129 - ₹136 per share | Check GMP, issue details, key dates",
@@ -11427,24 +11445,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/TATA-STEEL-RESULTS--0_1765786614129_1765786711607_1794299160101_uiRo_eb479d03-5abb-4c38-b66f-96a6bdc036d6_HhfI.JPG",
    "topics": [],
    "first_seen": "2026-11-10T09:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d370511d3bbef69b",
-   "title": "Wall Street Boom! US stocks attract massive $2.1 trillion inflows since 2020; Asia, Europe lag behind - Kobeissi Letter",
-   "link": "https://www.livemint.com/market/stock-market-news/wall-street-boom-us-stocks-attract-massive-2-1-trillion-inflows-since-2020-asia-europe-lag-behind-kobeissi-letter-11794297220502.html",
-   "summary": "US equity funds have attracted $2.1 trillion since 2020, including $1.5 trillion since early 2024. Their inflows were 4.5 times those of emerging market Asia funds, while European funds saw withdrawals.",
-   "published": "2026-11-10T08:27:47+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Wall_Street_Boom_1794299172710_Kyge_1794299177841_w8Ng_b3775576-a557-4628-bb3f-781d07ec9f57_0R8b.png",
-   "topics": [],
-   "first_seen": "2026-11-10T08:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
