@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-16T12:00:05+00:00",
+ "generated_at": "2026-11-16T12:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 4,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-16T12:00:05+00:00"
+   "checked_at": "2026-11-16T12:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 11:15:55 GMT",
    "error": null,
-   "checked_at": "2026-11-16T12:00:05+00:00"
+   "checked_at": "2026-11-16T12:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Mon, 16 Nov 2026 11:12:06 GMT",
    "error": null,
-   "checked_at": "2026-11-16T12:00:05+00:00"
+   "checked_at": "2026-11-16T12:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 6,
-   "items": 6,
+   "fetched": 7,
+   "items": 7,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-16T12:00:05+00:00"
+   "checked_at": "2026-11-16T12:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 07:00:00 +0000",
+   "sample_date": "Mon, 16 Nov 2026 12:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-16T12:00:05+00:00"
+   "checked_at": "2026-11-16T12:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "70f2d3312a54c172",
+   "title": "FRND posts Rs 367 Cr revenue in FY26; profit jumps 10X",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1NreUs5M0ZIWkdTS2ppcXZTOS1McldsMVpQR3NOdHNIMjQ3M2dUVDlFY2ZYWXdQWjZzTkdkN1dfS0lmNDZoXzJlb2RkbDVHM2dWR25ISlBRUXgyUlZCSlBZQlVVSVE3S1Z6eUtSVjBKcUZTOGRNQkx2cnpqc3RwV3h3aG5sQURyVnRGZ1ptMFJIZ9IBkgFBVV95cUxOS1NreUs5M0ZIWkdTS2ppcXZTOS1McldsMVpQR3NOdHNIMjQ3M2dUVDlFY2ZYWXdQWjZzTkdkN1dfS0lmNDZoXzJlb2RkbDVHM2dWR25ISlBRUXgyUlZCSlBZQlVVSVE3S1Z6eUtSVjBKcUZTOGRNQkx2cnpqc3RwV3h3aG5sQURyVnRGZ1ptMFJIZw?oc=5",
+   "summary": "",
+   "published": "2026-11-16T12:08:49+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "01bc8f05009d69d0",
+   "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+   "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+   "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+   "published": "2026-11-16T12:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-16T12:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "18dfa70930055692",
    "title": "5 lessons from Here, There and Everywhere by Sudha Murty",
@@ -6947,27 +6983,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "Funding"
-   ]
-  },
-  {
-   "id": "712cf17a115337a2",
-   "title": "Daily Indian Funding Roundup & Key News - 6 November 2026: MakeMyTrip Buys Majority Stake in Quick Ride, Honasa's Q2 Profit Jumps 87%",
-   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-6-november-2026/",
-   "summary": "No new startup rounds were confirmed on Dhanteras, as MakeMyTrip bought a majority stake in Quick Ride, Honasa's Q2 profit rose 87% and MobiKwik won an NBFC licence.",
-   "published": "2026-11-06T12:30:00+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Muskaan Kapoor",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/daily-indian-funding-roundup-key-news-6-november-2026-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-06T21:30:01+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Funding",
-    "Results"
    ]
   }
  ]
