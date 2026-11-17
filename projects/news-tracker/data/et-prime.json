@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T03:30:06+00:00",
+ "generated_at": "2026-11-17T04:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "ok": true,
+   "fetched": 9,
+   "items": 5,
+   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 06:56:11 +0530",
+   "sample_date": "Tue, 17 Nov 2026 09:14:35 +0530",
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 08:38:20 +0530",
+   "sample_date": "Tue, 17 Nov 2026 09:26:23 +0530",
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 08:31:08 +0530",
    "error": null,
-   "checked_at": "2026-11-17T03:30:06+00:00"
+   "checked_at": "2026-11-17T04:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,71 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "132cc69fa4068929",
+   "title": "Aegis Logistics closes ₹3500 crore QIP; over 83% of shares issued to Nomura India, Quant Mutual Fund, 2 US-based FPIs",
+   "link": "https://www.livemint.com/market/stock-market-news/aegis-logistics-closes-rs-3500-crore-qip-over-83-of-shares-issued-to-nomura-india-quant-mutual-fund-2-us-based-fpis-11794885634109.html",
+   "summary": "Aegis Logistics has closed ₹3500 crore QIP, issueing over 83% of shares to four major funds — Smallica P World Fund, Quant Mutual Fund, New World Fund, and Nomura India",
+   "published": "2026-11-17T03:56:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Aegis_Logistics_QIP_Nomura_India_Quant_Mutual_Fund_1794885982239_0y5e_1794885982385_jJ17_aa8d2c49-64e0-4ccd-90a9-de50902a6932_47L2.png",
+   "topics": [],
+   "first_seen": "2026-11-17T04:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "c742a462a357cdfe",
+   "title": "Nvidia to declare Q3 results, first after CEO Jensen Huang’s exit and growing pushback against AI buildout",
+   "link": "https://www.livemint.com/companies/company-results/nvidia-to-declare-q3-results-first-after-ceo-jensen-huang-s-exit-and-growing-pushback-against-ai-buildout-11794886324117.html",
+   "summary": "Nvidia’s earnings call comes at a pivotal moment: interim CEO Colette Kress will face questions following Jensen Huang’s departure. Investors are also monitoring Nvidia’s aggressive AI investments, future sales guidance and chip sales, as concerns grow about profitability and data-center expansion.",
+   "published": "2026-11-17T03:44:35+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/nvidia_results_1794886523097_SZwq_1794886535358_35B7_5e566a20-874b-4d47-a487-a3247a8ff249_HW97.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T04:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
+  {
+   "id": "9c7c263dba3cf4e6",
+   "title": "SML Mahindra Rights Issue Details: ₹1,450 crore offer; check open date, price, record date, ratio and key details",
+   "link": "https://www.livemint.com/market/stock-market-news/sml-mahindra-rights-issue-rs-1-450-crore-offer-opens-december-1-check-price-record-date-ratio-and-key-details-11794884978209.html",
+   "summary": "SML Mahindra has fixed its rights issue price at ₹3,506 per share, with eligible shareholders entitled to two shares for every seven held. The proceeds will primarily fund its acquisition of Mahindra's truck and bus business and support expansion plans.",
+   "published": "2026-11-17T03:37:07+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/SML_Mahindra_Rights_Issue_Banner_1794886519418_QezC_1794886524373_cenw_e5ec9085-0b3f-4b19-8581-0b348d5d4eeb_6t8I.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-17T04:00:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Buyback & payout",
+    "M&A"
+   ]
+  },
   {
    "id": "c4ce6dc6db6b25b9",
    "title": "Gold prices near 1-year low, silver slides as dollar hits 19-month high: Should you buy before wedding season or wait?",
@@ -11433,65 +11496,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/gold_lis_1794386231794_c14L_1794386238031_8uRC_7b9a8ff0-d0e0-4374-b2a4-df3dbd4376ce_clr4.png",
    "topics": [],
    "first_seen": "2026-11-11T09:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "596fac8d43901ac9",
-   "title": "Moneyview shares are up 58% from IPO price, jump 4% today after BofA coverage - what it said, check price target",
-   "link": "https://www.livemint.com/market/moneyview-shares-are-up-58-from-ipo-price-jump-4-today-after-bofa-coverage-what-it-said-check-price-target-11794377585073.html",
-   "summary": "Moneyview shares rose about 4% after BofA initiated coverage with a Neutral rating and a ₹65 price target, implying roughly 18% upside from its reference price. The brokerage cited growth potential but said the stock’s 58% post-IPO rally has balanced its risk-reward.",
-   "published": "2026-11-11T08:36:15+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Moneyview_Shares_Jump_4_1794385906596_3QeD_1794385913216_X8pV_4288d0b2-13e6-40aa-bd49-45a0caecfc5a_0d4H.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-11T09:00:01+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "Valuation",
-    "IPO"
-   ]
-  },
-  {
-   "id": "0157d5ea99137697",
-   "title": "India's rich pivot to real assets after stock returns falter",
-   "link": "https://www.livemint.com/market/stock-market-news/indias-rich-pivot-to-real-assets-after-stock-returns-falter-11794384284327.html",
-   "summary": "At least six new vehicles launched this year are seeking to raise more than $1.25 billion for real estate and infrastructure assets, marking a resurgence after previously growing slowly.",
-   "published": "2026-11-11T08:23:06+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/2-0-1324111331-iStock-950336722-0_1679974984497_1794384356160_ZbUE_150435b1-85b6-4a21-a4be-eee3b46a92f9_4x0r.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T08:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "017849be84bed894",
-   "title": "Should you invest in HPCL, BPCL, IOCL and other OMC stocks now as oil not on the boil anymore; slips below $90/barrel",
-   "link": "https://www.livemint.com/market/stock-market-news/should-you-invest-in-hpcl-bpcl-iocl-and-other-omc-stocks-now-as-oil-not-on-the-boil-anymore-slips-below-90barrel-11794381942470.html",
-   "summary": "The correction in crude prices has strengthened investor sentiment towards OMC stocks. HPCL, BPCL and IOC shares have gained between 10% and 13.5% so far in November, benefiting from expectations of lower crude procurement costs and improved marketing margins.",
-   "published": "2026-11-11T08:15:24+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/omc_stocks__1794384584293_Cm1g_1794384584503_SgoW_205d8bd4-6e7e-4c3c-89ac-c377d5fd155b_nGCO.png",
-   "topics": [],
-   "first_seen": "2026-11-11T08:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
