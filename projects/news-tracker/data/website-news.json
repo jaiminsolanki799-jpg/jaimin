@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T22:30:02+00:00",
+ "generated_at": "2026-11-17T23:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Tue, 17 Nov 2026 11:38:55 GMT",
    "error": null,
-   "checked_at": "2026-11-17T22:30:02+00:00"
+   "checked_at": "2026-11-17T23:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 08:16:51 GMT",
+   "sample_date": "Tue, 17 Nov 2026 14:01:14 GMT",
    "error": null,
-   "checked_at": "2026-11-17T22:30:02+00:00"
+   "checked_at": "2026-11-17T23:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 16:14:21 GMT",
    "error": null,
-   "checked_at": "2026-11-17T22:30:02+00:00"
+   "checked_at": "2026-11-17T23:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 28,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T22:30:02+00:00"
+   "checked_at": "2026-11-17T23:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 22:29:05 +0000",
+   "sample_date": "Tue, 17 Nov 2026 22:42:27 +0000",
    "error": null,
-   "checked_at": "2026-11-17T22:30:02+00:00"
+   "checked_at": "2026-11-17T23:00:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "f8045fa626e2c02a",
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+   "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+   "published": "2026-11-17T22:42:27+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T23:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6908e71926e8ed83",
    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
