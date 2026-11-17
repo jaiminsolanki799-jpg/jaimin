@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T19:00:02+00:00",
+ "generated_at": "2026-11-17T19:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -142,10 +142,10 @@
    "category": "ET Prime",
    "ok": true,
    "fetched": 7,
-   "items": 4,
+   "items": 3,
    "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 00:24:11 +0530",
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 23:54:42 +0530",
+   "sample_date": "Wed, 18 Nov 2026 00:46:03 +0530",
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 23:30:53 +0530",
    "error": null,
-   "checked_at": "2026-11-17T19:00:02+00:00"
+   "checked_at": "2026-11-17T19:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "b9fa3d823e8e004e",
+   "title": "The tough business behind the walls",
+   "link": "https://economictimes.indiatimes.com/prime/infrastructure/the-tough-business-behind-the-walls/primearticleshow/135274443.cms",
+   "summary": "",
+   "published": "2026-11-17T19:30:01+00:00",
+   "source": "ET Prime: Infrastructure",
+   "group": "ET Prime",
+   "category": "Infrastructure",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T19:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "38d9374ee6d3772c",
+   "title": "Airlines Q2 turbulence: Fewer passengers, rising fares and a crude shock",
+   "link": "https://economictimes.indiatimes.com/prime/transportation/airlines-q2-turbulence-fewer-passengers-rising-fares-and-a-crude-shock/primearticleshow/134765264.cms",
+   "summary": "",
+   "published": "2026-11-17T19:30:01+00:00",
+   "source": "ET Prime: Transportation",
+   "group": "ET Prime",
+   "category": "Transportation",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T19:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a8e9f1929db813b9",
+   "title": "Gold struggles to rebound from one-year low as US dollar, yields advance",
+   "link": "https://www.livemint.com/market/gold-struggles-to-rebound-from-one-year-low-as-us-dollar-yields-advance-11794942964000.html",
+   "summary": "GLOBAL-PRECIOUS:Gold struggles to rebound from one-year low as US dollar, yields advance",
+   "published": "2026-11-17T19:16:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+   "topics": [],
+   "first_seen": "2026-11-17T19:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b873314a7dd79671",
    "title": "Deutsche Bank leaks test CEO Sewings pledge to reform",
@@ -11474,64 +11528,6 @@
    "source": "ET Prime: Money & markets",
    "group": "ET Prime",
    "category": "Money & markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T05:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a5f636ed5341614d",
-   "title": "Homebuyers wait as NCLT panel picks holes in unfinished Jaypee projects",
-   "link": "https://economictimes.indiatimes.com/prime/corporate-governance/homebuyers-wait-as-nclt-panel-pick-holes-in-unfinished-jaypee-projects/primearticleshow/134872723.cms",
-   "summary": "",
-   "published": "2026-11-12T05:30:01+00:00",
-   "source": "ET Prime: Corporate governance",
-   "group": "ET Prime",
-   "category": "Corporate governance",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-11-12T05:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Distress"
-   ]
-  },
-  {
-   "id": "fdf42a939e6c5641",
-   "title": "Can new data protection law guard against SBI-like data breaches?",
-   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/can-new-data-protection-law-guard-against-sbi-like-data-breaches/primearticleshow/135321441.cms",
-   "summary": "",
-   "published": "2026-11-12T05:30:01+00:00",
-   "source": "ET Prime: Economy & policy",
-   "group": "ET Prime",
-   "category": "Economy & policy",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T05:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "85e0b0562d64d1ca",
-   "title": "What is the real impact of 13x jump in cash transfers to women?",
-   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/what-is-the-real-impact-of-13x-jump-in-cash-transfers-to-women/primearticleshow/134793255.cms",
-   "summary": "",
-   "published": "2026-11-12T05:30:01+00:00",
-   "source": "ET Prime: Economy & policy",
-   "group": "ET Prime",
-   "category": "Economy & policy",
    "date_known": false,
    "author": null,
    "publisher": null,
