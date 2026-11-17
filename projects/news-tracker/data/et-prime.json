@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T01:30:01+00:00",
+ "generated_at": "2026-11-17T02:00:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 5,
    "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 06:56:11 +0530",
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 06:40:38 +0530",
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Mon, 16 Nov 2026 23:26:06 +0530",
+   "sample_date": "Tue, 17 Nov 2026 07:20:48 +0530",
    "error": null,
-   "checked_at": "2026-11-17T01:30:01+00:00"
+   "checked_at": "2026-11-17T02:00:05+00:00"
   }
  ],
  "topics": [
@@ -192,11 +192,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
   {
+   "id": "e4d543a401829775",
+   "title": "NRI seafarers get relief in NPS account opening: PFRDA relaxes address proof requirements under KYC rules",
+   "link": "https://www.livemint.com/money/personal-finance/nri-seafarers-get-relief-in-nps-account-opening-pfrda-relaxes-address-proof-requirements-under-kyc-rules-11794874927851.html",
+   "summary": "PFRDA has relaxed NPS KYC norms for NRI seafarers who face difficulties providing conventional overseas address proof. The latest circular introduces changes to the documentation requirements for opening NPS Tier I accounts.",
+   "published": "2026-11-17T01:50:48+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/nps_pf_1794879036652_7esh_1794879041894_CZJJ_5d4e7eed-df54-466a-a055-fd59cf9f46a8_EV4h.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-17T02:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "53fd6d23b33a1b72",
-   "title": "Nvidia board focused on investigation, no discussion of bringing back Jensen Huang as search continues for new CEO",
+   "title": "Nvidia board focuses on investigation, no discussion of bringing back Jensen Huang as search continues for new CEO",
    "link": "https://www.livemint.com/companies/news/nvidia-board-focused-on-investigation-no-discussion-of-bringing-back-jensen-huang-as-search-continues-for-new-ceo-11794878166892.html",
    "summary": "Nvidia’s board says it is focused on investigating co-founder Jensen Huang’s ties to a Chinese business executive and has not discussed his possible return as CEO. The company is searching for a successor, with reports naming Arm chief Rene Haas as a potential candidate.&nbsp;",
    "published": "2026-11-17T01:26:11+00:00",
@@ -206,7 +226,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/nvidia_1794878390285_4eCx_1794878416135_JRzt_bdf8eb11-5b30-42f6-97d2-f53b1655b495_FtwH.jpg",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/nvidia_1794878390285_4eCx_1794878416135_JRzt_bdf8eb11-5b30-42f6-97d2-f53b1655b495_FtwH.jpg",
    "topics": [],
    "first_seen": "2026-11-17T01:30:01+00:00",
    "valuation_score": 0,
@@ -11472,24 +11492,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/2-0-246203324-Siemens-0_1681108805873_1794381259799_I9me_34201261-104c-4898-80a4-f2822691cac5_AsKL.JPG",
-   "topics": [],
-   "first_seen": "2026-11-11T08:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "49e6f9db6c16c7db",
-   "title": "Amex makes U-turn on reward points deductions after complaints from cardholders",
-   "link": "https://www.livemint.com/money/personal-finance/amex-credit-card-reward-points-deducted-restored-november-2026-11794376350635.html",
-   "summary": "Several customers reported losing thousands, and in some cases lakhs, of membership rewards points, with some balances turning negative. Amex has now confirmed it will restore the points, but questions remain over how the deductions were calculated.",
-   "published": "2026-11-11T07:42:51+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/rupixen-com-Q59HmzK38eQ-unsplash_1702020823093_1794382748344_FbCD_02a7cc96-d8b0-4d14-a767-af0937f1a6b3_wghq.jpg",
    "topics": [],
    "first_seen": "2026-11-11T08:00:01+00:00",
    "valuation_score": 0,
