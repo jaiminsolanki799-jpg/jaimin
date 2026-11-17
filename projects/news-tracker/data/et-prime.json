@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T04:30:01+00:00",
+ "generated_at": "2026-11-17T05:00:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,29 +123,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 9,
-   "items": 5,
-   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 429",
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 09:50:38 +0530",
+   "sample_date": "Tue, 17 Nov 2026 10:24:31 +0530",
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 09:54:05 +0530",
+   "sample_date": "Tue, 17 Nov 2026 10:17:27 +0530",
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 09:43:38 +0530",
    "error": null,
-   "checked_at": "2026-11-17T04:30:01+00:00"
+   "checked_at": "2026-11-17T05:00:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,67 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "a956a9d03039e3f0",
+   "title": "IPO-bound Jakson Green acquires Ocior Energy",
+   "link": "https://www.livemint.com/companies/news/ipo-bound-jakson-green-acquires-ocior-energy-11794886419435.html",
+   "summary": "Ocior Energy has a pipeline of green molecules projects under development in India, West Africa and North Africa.",
+   "published": "2026-11-17T04:54:31+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Image_4_1736501707060_1794891071992_DTnt_92cde1fd-9b04-4273-b460-b90be631e2a1_cmCL.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-17T05:00:04+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "M&A",
+    "IPO"
+   ]
+  },
+  {
+   "id": "bf0cf43cbee01121",
+   "title": "Ex-Nvidia CEO Jensen Huang’s daughter Madison allegedly berated Indian-origin exec Jay Puri | Here’s how he responded",
+   "link": "https://www.livemint.com/companies/people/exnvidia-ceo-jensen-huang-s-daughter-madison-allegedly-berated-indian-origin-exec-jay-puri-here-s-how-he-responded-11794889927023.html",
+   "summary": "A New York Times report has shed light on Madison Huang’s growing influence at Nvidia, her alleged clashes with senior executives and concerns over her authority following the resignation of her father, Jensen Huang.",
+   "published": "2026-11-17T04:48:35+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/CHINA-TECH-ROBOT-44_1794890201114_loCn_1794890260220_hMqk_9ea30ca5-65a5-4877-8b3b-a4ab036e3ab8_wksA.JPG",
+   "topics": [],
+   "first_seen": "2026-11-17T05:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2c2309a9bee93167",
+   "title": "Groww share price hits record high after massive ₹1,905 crore block deal: Key things to know - Should you buy?",
+   "link": "https://www.livemint.com/market/stock-market-news/groww-share-price-hits-record-high-after-massive-rs-1-905-crore-block-deal-key-things-to-know-should-you-buy-11794889175341.html",
+   "summary": "Groww-parent Billionbrains Garage Ventures rose 2.5% to a 52-week high after a ₹1,905 crore block deal involving 1.4% of its equity.&nbsp;",
+   "published": "2026-11-17T04:47:27+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Groww_Block_Deal_Market_Surge_1794890814710_wjzZ_1794890821329_fvAf_76cb6fa4-dd23-4803-aa5e-5b2f5c3cef59_GAjs.png",
+   "topics": [],
+   "first_seen": "2026-11-17T05:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e9aea8d56152efb6",
    "title": "Nifty Bank at record high after Feb 3 levels; rises over 11% in a month | 3 reasons explained; top stocks, what's next",
@@ -206,7 +265,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/Nifty_Bank_today_Stock_market_toay_1794888684541_MwVX_1794888684878_UYfx_f67af36c-55da-4db1-8310-1c5994c57165_I9We.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Nifty_Bank_today_Stock_market_toay_1794888684541_MwVX_1794888684878_UYfx_f67af36c-55da-4db1-8310-1c5994c57165_I9We.png",
    "topics": [],
    "first_seen": "2026-11-17T04:30:01+00:00",
    "valuation_score": 0,
@@ -11442,62 +11501,6 @@
    "valuation_signals": [
     "IPO"
    ]
-  },
-  {
-   "id": "10c0c99b8b256c1a",
-   "title": "Apollo Micro Systems shares surge 10%: Defence multibagger stock rallies 3,640% in 5 years; can it rise further?",
-   "link": "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-surge-10-defence-multibagger-stock-rallies-3-640-in-5-years-can-it-rise-further-11794390982550.html",
-   "summary": "Apollo Micro Systems shares rose as much as 10.5% on Wednesday, outperforming the defence index. The company reported strong Q2 FY27 results, with profit up 54%, revenue up 72% and a record ₹1,765 crore order book. Brokerages remain positive, citing growth potential.",
-   "published": "2026-11-11T10:39:46+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Apollo_Micro_Systems_Rallying_1794393475910_pnCt_1794393488157_OvUn_e83d5821-9651-4dca-adf7-e16beccba380_kNB7.png",
-   "topics": [],
-   "first_seen": "2026-11-11T11:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0118fc4c58412345",
-   "title": "Mint Explainer | Incorporation boom: what rising company registrations mean for jobs and economic growth",
-   "link": "https://www.livemint.com/companies/news/india-business-incorporation-boom-jobs-growth-impact-11794386751186.html",
-   "summary": "Strong domestic demand and regulatory easing drive a record wave of company and LLP incorporations across India.",
-   "published": "2026-11-11T10:39:16+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/2-0-1138170138-693227436-0_1679695376564_1794392849095_mUvE_da862d15-0c0b-4753-b384-d9014f99d2a8_Xpr9.jpg",
-   "topics": [
-    "MCA / ROC"
-   ],
-   "first_seen": "2026-11-11T11:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "89d28835760f3b01",
-   "title": "More investors stopped SIPs than started new ones in October",
-   "link": "https://www.livemint.com/market/stock-market-news/sip-stoppage-ratio-october-2026-hits-18-month-high-amfi-data-11794386284354.html",
-   "summary": "Discontinuations and completed tenures pushed the SIP stoppage ratio to a six-month high of 116%, even as monthly contributions held steady above ₹32,000 crore.",
-   "published": "2026-11-11T10:21:49+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/SIP_1787409382625_1787409388454_ea0aedf3-bc29-4fd9-aa23-70560acd18bb_1794392128680_s131_ec879dae-b909-4339-89c7-a4a3895cdcfc_xSDg.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T10:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
