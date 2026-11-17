@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T21:00:02+00:00",
+ "generated_at": "2026-11-17T21:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 01:22:29 +0530",
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 02:23:55 +0530",
+   "sample_date": "Wed, 18 Nov 2026 02:40:32 +0530",
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 23:30:53 +0530",
    "error": null,
-   "checked_at": "2026-11-17T21:00:02+00:00"
+   "checked_at": "2026-11-17T21:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "31925a3b0759af79",
+   "title": "JPMorgan Warns Leveraged-Loan Defaults Set to Double in 2027",
+   "link": "https://www.livemint.com/market/jpmorgan-warns-leveraged-loan-defaults-set-to-double-in-2027-11794949833068.html",
+   "summary": "Defaults in the leveraged-loan market are expected to more than double to 4.5% next year, reaching levels not seen since 2024 as heavily indebted companies face mounting financial pressure, according to analysts at JPMorgan Chase & Co.",
+   "published": "2026-11-17T21:10:32+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "00c0a5456342a17b",
+   "title": "Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up",
+   "link": "https://www.livemint.com/market/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up-11794949277259.html",
+   "summary": "Bond traders risk facing a short squeeze after reloading bearish positions, as renewed jitters around artificial intelligence and a spate of technical disruptions reignite a flight to safety.",
+   "published": "2026-11-17T21:01:16+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "aa7da15da8356bb0",
+   "title": "Maryland’s $81 Billion Pension Is Slashing Hedge Funds to Zero",
+   "link": "https://www.livemint.com/market/marylands-81-billion-pension-is-slashing-hedge-funds-to-zero-11794949210087.html",
+   "summary": "Maryland’s state pension system is eliminating its $4 billion hedge fund portfolio after years of lackluster returns, instead ramping up bets on private credit and infrastructure.",
+   "published": "2026-11-17T21:00:09+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-17T21:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "88dd3f5bfe58cc9e",
    "title": "PNG connections rise half a million, but how many use piped gas for cooking?",
@@ -11471,60 +11525,6 @@
    "source": "ET Prime: Economy & policy",
    "group": "ET Prime",
    "category": "Economy & policy",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T06:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "056ce3884f3ec284",
-   "title": "Britannia’s next big bet for young India lies beyond biscuits",
-   "link": "https://economictimes.indiatimes.com/prime/consumer/britannias-next-big-bet-for-young-india-lies-beyond-biscuits/primearticleshow/134742938.cms",
-   "summary": "",
-   "published": "2026-11-12T06:00:01+00:00",
-   "source": "ET Prime: Consumer",
-   "group": "ET Prime",
-   "category": "Consumer",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T06:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f6e193410a5148fa",
-   "title": "How Irdai’s big reset can change insurance landscape, customer choice",
-   "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-irdais-big-reset-can-change-insurance-landscape-customer-choice/primearticleshow/134544907.cms",
-   "summary": "",
-   "published": "2026-11-12T06:00:01+00:00",
-   "source": "ET Prime: Fintech & BFSI",
-   "group": "ET Prime",
-   "category": "Fintech & BFSI",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T06:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ae4fe56752a7096a",
-   "title": "Can Fly91’s flightpath for India’s smallest airline defy the doomy past?",
-   "link": "https://economictimes.indiatimes.com/prime/transportation/can-fly91s-flightpath-for-indias-smallest-airline-defy-the-doomy-past/primearticleshow/134516115.cms",
-   "summary": "",
-   "published": "2026-11-12T06:00:01+00:00",
-   "source": "ET Prime: Transportation",
-   "group": "ET Prime",
-   "category": "Transportation",
    "date_known": false,
    "author": null,
    "publisher": null,
