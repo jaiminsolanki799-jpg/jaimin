@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T08:30:04+00:00",
+ "generated_at": "2026-11-17T09:00:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:30:04+00:00"
+   "checked_at": "2026-11-17T09:00:05+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 05:47:08 GMT",
+   "sample_date": "Mon, 16 Nov 2026 06:08:23 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:30:04+00:00"
+   "checked_at": "2026-11-17T09:00:05+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 17 Nov 2026 08:01:03 GMT",
+   "sample_date": "Tue, 17 Nov 2026 08:15:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:30:04+00:00"
+   "checked_at": "2026-11-17T09:00:05+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 22,
-   "items": 22,
+   "fetched": 23,
+   "items": 23,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:30:04+00:00"
+   "checked_at": "2026-11-17T09:00:05+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T08:30:04+00:00"
+   "checked_at": "2026-11-17T09:00:05+00:00"
   }
  ],
  "topics": [
@@ -74,6 +74,44 @@
  "new_since_last_run": 8,
  "items": [
   {
+   "id": "272333516a9dc780",
+   "title": "Pragya Misra to lead OpenAI's business development in India and South Asia",
+   "link": "https://yourstory.com/2026/11/pragya-misra-lead-openais-business-development-india-and-south-asia",
+   "summary": "Misra was OpenAI's first hire in India, in 2024. Prior to joining OpenAI, she worked with Truecaller and Meta.",
+   "published": "2026-11-17T08:44:46+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T09:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6c7d7a178b782352",
+   "title": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1p2a2drbFFzVVJKam95Z1A1U2hmekV3ODVVemNad2d4MkdheWh0bUtzeU5oVGl3VF9MTW9DRW5wbmVFVWdjU1BXYlhsaU41VXNEcTE0cjFtc3lfclhlZmtVcl9feUZLSmtwR0EwS0Q3R1VmLU9rWGlwTVVYY2JuRkc0S1ptWG1hLVF0N0pWN2QyNWRwUVBna1NiX2pNV3BLbHVydW85Z1U3dDF0aTVzUFdCZG82Ni00Mnh0LTljR0UtZ9IBwgFBVV95cUxQQ1p2a2drbFFzVVJKam95Z1A1U2hmekV3ODVVemNad2d4MkdheWh0bUtzeU5oVGl3VF9MTW9DRW5wbmVFVWdjU1BXYlhsaU41VXNEcTE0cjFtc3lfclhlZmtVcl9feUZLSmtwR0EwS0Q3R1VmLU9rWGlwTVVYY2JuRkc0S1ptWG1hLVF0N0pWN2QyNWRwUVBna1NiX2pNV3BLbHVydW85Z1U3dDF0aTVzUFdCZG82Ni00Mnh0LTljR0UtZw?oc=5",
+   "summary": "",
+   "published": "2026-11-17T08:39:35+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T09:00:05+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
    "id": "bebb381688ec667a",
    "title": "How friends from Coimbatore built GOAT Robotics into an Rs 8 crore business with global reach",
    "link": "https://yourstory.com/2026/11/coimbatore-goat-robotics-startup-success-story-8-crore-turnover",
@@ -88,6 +126,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4f44d2496d477489",
+   "title": "The Best Black Friday Marketing Campaigns of All Time",
+   "link": "https://startuptalky.com/best-black-friday-marketing-campaigns/",
+   "summary": "Explore the best Black Friday advertising campaigns by brands like Samsung, Patagonia, Google, Gymshark, and Etihad Airways. Discover creative marketing strategies, memorable videos, AI-powered campaigns, and the lessons brands can learn from them.",
+   "published": "2026-11-17T08:15:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Rishi Mundra",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/11/Best-Black-Friday-Marketing-Campaigns-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T09:00:05+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
