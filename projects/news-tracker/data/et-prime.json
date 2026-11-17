@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T22:00:01+00:00",
+ "generated_at": "2026-11-17T22:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 01:22:29 +0530",
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 02:40:32 +0530",
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 23:30:53 +0530",
    "error": null,
-   "checked_at": "2026-11-17T22:00:01+00:00"
+   "checked_at": "2026-11-17T22:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "5b847997c9248fbc",
+   "title": "How Sebi busted Growpital’s ‘assured’ returns, LLPs and money trail",
+   "link": "https://economictimes.indiatimes.com/prime/corporate-governance/how-sebi-busted-growpitals-assured-returns-llps-and-money-trail/primearticleshow/134676943.cms",
+   "summary": "",
+   "published": "2026-11-17T22:30:02+00:00",
+   "source": "ET Prime: Corporate governance",
+   "group": "ET Prime",
+   "category": "Corporate governance",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-17T22:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
+  {
+   "id": "b1eea10051d9aaa1",
+   "title": "Oil, money, and the shifting global order",
+   "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/oil-money-and-the-shifting-global-order/primearticleshow/134596844.cms",
+   "summary": "",
+   "published": "2026-11-17T22:30:02+00:00",
+   "source": "ET Prime: Economy & policy",
+   "group": "ET Prime",
+   "category": "Economy & policy",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T22:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "056ce3884f3ec284",
    "title": "Britannia’s next big bet for young India lies beyond biscuits",
@@ -11488,47 +11528,6 @@
    "valuation_signals": [
     "Buyback & payout"
    ]
-  },
-  {
-   "id": "4f33d915b54bbe31",
-   "title": "Clean Max Enviro Energy shares jump 7%; stock trades 27% above IPO price — What’s driving the rally? | Check key levels",
-   "link": "https://www.livemint.com/market/stock-market-news/clean-max-enviro-energy-shares-jump-7-stock-trades-27-above-ipo-price-what-s-driving-the-rally-check-key-levels-11794461936977.html",
-   "summary": "Clean Max Enviro Energy Solutions shares rose 7% to ₹1,342.20, about 27% above their IPO price. The gain followed strong September-quarter results, with net profit up 82.3% year-on-year and total income rising 34.5%. The company also raised ₹2,500 crore through a green bond issue.",
-   "published": "2026-11-12T06:03:16+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/CleanMax_Shares_Jump_7_1794463264658_rrMW_1794463273159_4OtA_d8f173c4-ed02-46e3-8e0b-8c489f2b0b9c_8ub6.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-12T06:30:01+00:00",
-   "valuation_score": 5,
-   "valuation_signals": [
-    "IPO",
-    "Results"
-   ]
-  },
-  {
-   "id": "3e0c0d7a8fe3e1a1",
-   "title": "Gold paradox: Why India, a refining giant, is not a big bullion exporter",
-   "link": "https://economictimes.indiatimes.com/prime/money-and-markets/gold-paradox-why-india-a-refining-giant-is-not-a-big-bullion-exporter/primearticleshow/134572759.cms",
-   "summary": "",
-   "published": "2026-11-12T06:00:01+00:00",
-   "source": "ET Prime: Money & markets",
-   "group": "ET Prime",
-   "category": "Money & markets",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T06:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
