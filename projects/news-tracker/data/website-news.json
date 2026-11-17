@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T08:00:02+00:00",
+ "generated_at": "2026-11-17T08:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 6,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
+   "sample_date": "Tue, 17 Nov 2026 05:47:08 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 17 Nov 2026 07:21:19 GMT",
+   "sample_date": "Tue, 17 Nov 2026 08:01:03 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 21,
-   "items": 21,
+   "fetched": 22,
+   "items": 22,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,42 @@
  ],
  "new_since_last_run": 8,
  "items": [
+  {
+   "id": "bebb381688ec667a",
+   "title": "How friends from Coimbatore built GOAT Robotics into an Rs 8 crore business with global reach",
+   "link": "https://yourstory.com/2026/11/coimbatore-goat-robotics-startup-success-story-8-crore-turnover",
+   "summary": "Coimbatore's GOAT Robotics grew from a 2BHK startup to an Rs 8 crore business, serving Toyota, Volvo and global clients.",
+   "published": "2026-11-17T08:16:51+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "60ffaf7561afc6a9",
+   "title": "India, US Join Forces to Protect AI Supply Chains from China Amid Nvidia Dispute",
+   "link": "https://startuptalky.com/news/india-us-join-forces-to-protect-ai-supply-chains/",
+   "summary": "India has joined a US-led effort to protect global AI supply chains and decrease dependence on China amid concerns over exports of advanced chips from Nvidia. India, along with eight other countries, has signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity.",
+   "published": "2026-11-17T08:01:03+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/india-us-join-forces-to-protect-ai-supply-chains-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3c8c0dda01de88a7",
    "title": "Sneaker brand Comet clocks 2.6X revenue growth to Rs 74 Cr in FY26",
@@ -130,6 +166,24 @@
    "valuation_signals": [
     "PE / VC"
    ]
+  },
+  {
+   "id": "b24d9b4d0e044dbc",
+   "title": "CountAI",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuaThKMEd2cHpHYUgtdDdjNDF1S3BYV1NFZnc3Ml9nWEs2dlY1WDlOeFNTM2d4Z0JFTmNkb3pMZ0tGUy16MTRySw?oc=5",
+   "summary": "",
+   "published": "2026-11-17T07:30:11+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "bd8c219916ea3023",

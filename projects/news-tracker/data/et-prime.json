@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T08:00:02+00:00",
+ "generated_at": "2026-11-17T08:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "ok": true,
+   "fetched": 9,
+   "items": 5,
+   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 12:41:59 +0530",
+   "sample_date": "Tue, 17 Nov 2026 13:38:24 +0530",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 13:21:02 +0530",
+   "sample_date": "Tue, 17 Nov 2026 13:42:10 +0530",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 12:36:46 +0530",
+   "sample_date": "Tue, 17 Nov 2026 13:56:50 +0530",
    "error": null,
-   "checked_at": "2026-11-17T08:00:02+00:00"
+   "checked_at": "2026-11-17T08:30:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,116 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "5d3cf7da8ba8ac27",
+   "title": "Reit payouts decoded: How distributions work and are taxed",
+   "link": "https://www.livemint.com/money/personal-finance/reit-payouts-how-distributions-work-and-are-taxed-11794895130719.html",
+   "summary": "Reit investors receive payouts through four different streams—dividends, interest, repayment of capital and rental income. Here's how each is treated for tax purposes and what investors should know.",
+   "published": "2026-11-17T08:26:50+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/ad_1794903759577_VrSD_1794903759720_dzcG_0235dc00-7299-4366-8a99-b5bb29f29ab7_JDUJ.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2576f7018b99ae7e",
+   "title": "Why cash flow matters as much as asset allocation",
+   "link": "https://www.livemint.com/money/personal-finance/cash-flow-management-asset-allocation-long-term-wealth-11794895335174.html",
+   "summary": "A well-diversified portfolio can still come under strain if it isn't aligned with an investor's liquidity needs. Managing cash flows can help prevent forced selling, preserve capital and sustain long-term wealth creation.",
+   "published": "2026-11-17T08:20:05+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/2-0-1440388023-iStock-1130639007-0_1679745245390_1794903381540_gubI_0d74edd1-52d7-4da0-a71f-a1f68ef9ae35_SOPS.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "175029022ddecb79",
+   "title": "Guarantor loan liability: Can banks deduct EMIs from your pension account if borrower defaults? What High Court ruled",
+   "link": "https://www.livemint.com/money/personal-finance/guarantor-loan-liability-can-banks-deduct-emis-from-your-pension-account-if-borrower-defaults-what-high-court-ruled-11794899485953.html",
+   "summary": "Can a bank deduct money from your pension for someone else's unpaid loan? The Jammu and Kashmir and Ladakh High Court has ruled in favour of a retired employee who had guaranteed another person's loan. Find out what the ruling means for pensioners and guarantors' loan liabilities.",
+   "published": "2026-11-17T08:13:11+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Pension_Protection_in_High_Court_1794901095027_FuNX_1794901100171_5cZk_c6e03dcb-1301-4b37-af2c-f9e8fdcc284d_Hydq.png",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d957c5da9fdac384",
+   "title": "Kaynes Technology stock in pain as Street falls out of love",
+   "link": "https://www.livemint.com/market/mark-to-market/kaynes-technology-stock-q2-results-smart-meter-sales-crash-11794899402071.html",
+   "summary": "The management reduced meter supplies to prioritize the recovery of outstanding receivables from state governments.",
+   "published": "2026-11-17T08:12:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1794902757128_tLDe_b997cd60-e935-47ee-8c86-983d33fe7121_dlfc.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dafcdd0d3aa08700",
+   "title": "Know Nvidia: How ‘Next Version’ became Jensen Huang’s AI giant and what does green colour of chipmaker’s logo signify",
+   "link": "https://www.livemint.com/companies/know-nvidia-how-next-version-became-jensen-huang-s-ai-giant-and-what-does-green-colour-of-chipmaker-s-logo-signify-11794902356944.html",
+   "summary": "Nvidia’s name combines the founders’ file label NV, meaning next version, with invidia, Latin for envy. The company nearly went bankrupt after its first chip failed, but a $5 million payment from Sega helped it recover. Its GPUs later powered gaming, crypto mining, and AI.",
+   "published": "2026-11-17T08:08:24+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Know_Nvidia_1794902528597_rAHr_1794902546269_NolQ_5853a626-e0c6-4ba3-848f-0c250b130ef8_53nm.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9bede5b1132aae8f",
+   "title": "From DINKs to SINKs: how household type shapes money plan",
+   "link": "https://www.livemint.com/money/personal-finance/dink-sink-dewk-household-type-financial-planning-emergency-fund-insurance-11794827937084.html",
+   "summary": "Household structures are changing, from child-free couples and single earners to families with children or pets. Each stage brings different financial needs.&nbsp;",
+   "published": "2026-11-17T08:02:06+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Household_Types_1794902195883_FmW3_1794902196099_hebC_b84c10b3-e4ff-4771-ab65-93caf2bcc3ab_PkQt.png",
+   "topics": [],
+   "first_seen": "2026-11-17T08:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d70a2cda48bc8da1",
    "title": "Promoter pledging climbs as more companies cross the 90% mark",
@@ -11396,116 +11504,6 @@
    "first_seen": "2026-11-11T16:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "9f021c04d7caeb8a",
-   "title": "Noida Metro Aqua Line Extension: L&T secures order from NMRC to build 15.1-km elevated viaduct – Inside the contract",
-   "link": "https://www.livemint.com/companies/news/noida-metro-aqua-line-extension-l-t-secures-order-from-nmrc-to-build-15-1-km-elevated-viaduct-inside-the-contract-11794405082608.html",
-   "summary": "Larsen &amp; Toubro has won a ₹1,000–2,500 crore contract from Noida Metro Rail Corporation to design and build sections of the Aqua Line extension, including a 15.1-km elevated viaduct and 10 stations.",
-   "published": "2026-11-11T15:52:11+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/maxresdefault_1794416454276_IRgO_1794416459692_AypN_2a145c6e-a0b2-49eb-9b86-f0cf155b2199_ZTnC.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "31499336334ffe5f",
-   "title": "Tata Power says Singapore shares pledged with banks, safe from immediate seizure",
-   "link": "https://www.livemint.com/companies/news/tata-power-singapore-high-court-renewable-energy-power-kleros-11794404371600.html",
-   "summary": "The Singapore High Court has directed the city's sheriff to attach and sell Tata Power's shares in Bhira Investments Pte. Ltd. and Tata Power International Pte. Ltd to recover the $650 million it owes Kleros Capital as part of an arbitration award over a coal project in Russia.",
-   "published": "2026-11-11T15:35:49+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/2-0-784179017-tatapower-0_1680408594471_1794410886797_Osu0_864486ff-7647-4860-a221-1ddfc5ea5efc_u8Nb.JPG",
-   "topics": [],
-   "first_seen": "2026-11-11T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7efcb44bd8a0aa5f",
-   "title": "Who is Sanjay Banga? Meet Tata Power's new CEO, a Harvard alumnus with 37 years of power sector experience",
-   "link": "https://www.livemint.com/companies/people/who-is-sanjay-banga-meet-tata-powers-new-ceo-a-harvard-alumnus-with-37-years-of-power-sector-experience-11794409947305.html",
-   "summary": "Sanjay Banga, who joined Tata Power more than eight years ago, in May 2018, is currently the CEO and MD of Tata Power Renewable Energy.",
-   "published": "2026-11-11T15:30:16+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Untitled_design_-_2026-11-11T205504.453_1794410718389_CH0R_1794410724385_Mw7h_aae5ebfd-b7b9-43bf-94d6-0e74fde72b58_cUKI.png",
-   "topics": [],
-   "first_seen": "2026-11-11T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3b9919363e32dce2",
-   "title": "Swiggy records 10.7% rise in food orders during this Diwali; Masala Dosa, Kaju Katli, Paneer Butter Masala top the list",
-   "link": "https://www.livemint.com/companies/swiggy-records-10-7-rise-in-food-orders-during-this-diwali-masala-dosa-kaju-katli-paneer-butter-masala-top-the-list-11794409839090.html",
-   "summary": "Swiggy revealed what Indian ordered the most during the Diwali weekend (Nov 6-8, 2026). Dishes like Appam and Samosa made a surprise entry into this year's top ten ordered category.",
-   "published": "2026-11-11T15:27:17+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/217064_1794410770385_PDTt_1794410773616_REPR_ae02e5cf-ecc4-4995-b608-7f85b3894e72_oaQ9.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T15:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4ba68ea74a1429b2",
-   "title": "Who is Bahram Vakil? Tata Investment Corporation appoints new chairman as Noel Tata retires from position",
-   "link": "https://www.livemint.com/companies/people/who-is-bahram-vakil-tata-investment-corporation-appoints-new-chairman-as-noel-tata-retires-from-position-11794407738833.html",
-   "summary": "Bahram Vakil will become chairman of Tata Investment Corporation on November 12, succeeding Noel Tata, who is stepping down a day earlier and will become chairman emeritus. The AZB &amp; Partners co-founder has been serving as the company’s vice-chairman since March 2026.",
-   "published": "2026-11-11T15:18:58+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/Untitled_Design_1794408831283_h6Nj_1794408835618_EXo8_ea7862b6-45bb-4f0f-9ebe-f33c4d294a05_Bq0C.png",
-   "topics": [],
-   "first_seen": "2026-11-11T15:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "67097a855c56acf6",
-   "title": "MRF share price target after Q2: Tyre maker faces margin pressure, but Citi sees 30% upside; sets ₹1,65,238 target",
-   "link": "https://www.livemint.com/market/stock-market-news/mrf-share-price-target-after-q2-tyre-maker-faces-margin-pressure-but-citi-sees-30-upside-sets-rs-1-65-238-target-11794405931431.html",
-   "summary": "Citi retained its Outperform rating on MRF, with a ₹1,65,238 target price, despite quarterly margin and profit declines caused by higher raw material costs.&nbsp;",
-   "published": "2026-11-11T15:05:26+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/MRF_1794409433788_LCIZ_1794409440247_PcmR_52e1e382-f1d1-4901-9fc1-79481738acb2_ZPN9.png",
-   "topics": [],
-   "first_seen": "2026-11-11T15:30:02+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
   }
  ]
 }
