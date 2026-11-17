@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T02:00:05+00:00",
+ "generated_at": "2026-11-17T02:30:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 8,
-   "items": 5,
-   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 06:56:11 +0530",
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 06:40:38 +0530",
+   "sample_date": "Tue, 17 Nov 2026 07:43:03 +0530",
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 07:20:48 +0530",
    "error": null,
-   "checked_at": "2026-11-17T02:00:05+00:00"
+   "checked_at": "2026-11-17T02:30:05+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "3b904ecd83dec947",
+   "title": "Top stocks to watch today: Senco Gold, Adani Enterprises, BSE, Cipla shares in focus on Tuesday, 17 November | Full list",
+   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-senco-gold-adani-enterprises-bse-cipla-shares-in-focus-on-tuesday-17-november-full-list-11794879685406.html",
+   "summary": "Indian markets may open subdued on Tuesday amid weak global cues, after the Sensex and Nifty rose in the previous session. Stocks in focus include Senco Gold, Adani Enterprises, BSE, Cipla, HDFC Life, Lemon Tree Hotels, Hero Motors, Vedanta, SML Mahindra, Urban Company, Capri Global and ARSS Infra.",
+   "published": "2026-11-17T02:13:03+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Top_Stocks_to_Watch_Today_tues_1794881307893_iCDG_1794881312518_UDb4_c509f4d6-bc6f-412a-935e-4e7fdceff49c_jnPG.png",
+   "topics": [],
+   "first_seen": "2026-11-17T02:30:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e4d543a401829775",
    "title": "NRI seafarers get relief in NPS account opening: PFRDA relaxes address proof requirements under KYC rules",
@@ -11478,24 +11496,6 @@
    "valuation_signals": [
     "Buyback & payout"
    ]
-  },
-  {
-   "id": "6f23e6431a65ea88",
-   "title": "Siemens’ growth pipeline is strong. Can margins keep pace?",
-   "link": "https://www.livemint.com/market/mark-to-market/siemens-q2-results-order-growth-margin-pressure-stock-outlook-11794379013555.html",
-   "summary": "Siemens’ order inflows and revenue growth point to a gathering capex cycle, but rising input costs and competitive bidding could constrain margin recovery.",
-   "published": "2026-11-11T07:50:19+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/2-0-246203324-Siemens-0_1681108805873_1794381259799_I9me_34201261-104c-4898-80a4-f2822691cac5_AsKL.JPG",
-   "topics": [],
-   "first_seen": "2026-11-11T08:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
