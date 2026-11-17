@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T06:30:02+00:00",
+ "generated_at": "2026-11-17T07:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-17T06:30:02+00:00"
+   "ok": true,
+   "fetched": 6,
+   "items": 6,
+   "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
+   "error": null,
+   "checked_at": "2026-11-17T07:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
+   "sample_date": "Mon, 16 Nov 2026 07:39:55 GMT",
    "error": null,
-   "checked_at": "2026-11-17T06:30:02+00:00"
+   "checked_at": "2026-11-17T07:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Mon, 16 Nov 2026 12:54:43 GMT",
+   "sample_date": "Tue, 17 Nov 2026 06:31:17 GMT",
    "error": null,
-   "checked_at": "2026-11-17T06:30:02+00:00"
+   "checked_at": "2026-11-17T07:00:03+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 15,
-   "items": 15,
+   "fetched": 16,
+   "items": 16,
    "sample_date": "Mon, 16 Nov 2026 04:48:32 GMT",
    "error": null,
-   "checked_at": "2026-11-17T06:30:02+00:00"
+   "checked_at": "2026-11-17T07:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T06:30:02+00:00"
+   "checked_at": "2026-11-17T07:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "05ec5fe35d99fcce",
+   "title": "Church & Dwight Eyes India Entry in 2027 Amid Growing Consumer Goods Market",
+   "link": "https://startuptalky.com/news/church-dwight-eyes-india-entry-in-2027/",
+   "summary": "Church & Dwight, the US-based consumer goods business is planning to enter India in the first half of 2027 with an online-first approach. The company would initially focus on e-commerce and quick-commerce platforms before moving into organised retail.",
+   "published": "2026-11-17T06:31:17+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/church-dwight-eyes-india-entry-in-2027-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T07:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "83044ad22efabcc8",
+   "title": "Kissht’s NBFC arm Si Creva gets ‘IND A’ rating from India Ratings",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTldYbVM3cV9xSU5IdHZTWGwxODQwOHg1T2JzdGNhbm9CSEV2N0ZKVmhjTFdXcEpKMGVBMVprUGl0dVFGQXdSOWVNU2VxRlFsN3pHV3JKdU5SV095OWJrdXBaWFhSOS1ENkh5OFpobDNVUHdnOElPdTVGMkF4enJrOEd1Ukl6S0tVc3JZNU5zU213dno3Qzl4OXhad3Vsd9IBngFBVV95cUxPTldYbVM3cV9xSU5IdHZTWGwxODQwOHg1T2JzdGNhbm9CSEV2N0ZKVmhjTFdXcEpKMGVBMVprUGl0dVFGQXdSOWVNU2VxRlFsN3pHV3JKdU5SV095OWJrdXBaWFhSOS1ENkh5OFpobDNVUHdnOElPdTVGMkF4enJrOEd1Ukl6S0tVc3JZNU5zU213dno3Qzl4OXhad3Vsdw?oc=5",
+   "summary": "",
+   "published": "2026-11-17T06:26:16+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T07:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4e77b606edcdf203",
    "title": "Elastic{ON} Mumbai: Why context, not the model, is the real AI advantage",
@@ -162,6 +198,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-17T05:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "546dd444220dcbdb",
+   "title": "Copper is the new gold and the next lithium",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWpoOC1hWUZGZ1FqakJNMWd6cko0ajN4XzVVYV9GRENWMTJJUUhLWGZ1NS04b1Z6UlVKMjFTa0M2M2p2cjl5WDV1WEtPbHoxQjgxVk8tLTBVVUFLUVpIMVhxcmhSeDNEWnBsVU4yN09jN25sX3pJYlpCNFk4RUhrcHFTX2ZNTU9CMVlkeDNxTTFsQkVjU3pHd3N1c3prVVhPTlNaNHJ0Wmc?oc=5",
+   "summary": "",
+   "published": "2026-11-17T04:30:18+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T07:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -575,7 +629,7 @@
   },
   {
    "id": "168a5c8c545afea8",
-   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
+   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest",
    "link": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
    "summary": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
    "published": "2026-11-16T14:48:32+00:00",
