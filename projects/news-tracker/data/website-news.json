@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T14:00:01+00:00",
+ "generated_at": "2026-11-17T14:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T14:00:01+00:00"
+   "checked_at": "2026-11-17T14:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-17T14:00:01+00:00"
+   "checked_at": "2026-11-17T14:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 11:15:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T14:00:01+00:00"
+   "checked_at": "2026-11-17T14:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T14:00:01+00:00"
+   "checked_at": "2026-11-17T14:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
+   "sample_date": "Tue, 17 Nov 2026 14:26:46 +0000",
    "error": null,
-   "checked_at": "2026-11-17T14:00:01+00:00"
+   "checked_at": "2026-11-17T14:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,140 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 12,
  "items": [
+  {
+   "id": "bcc5080f4e5647dc",
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+   "published": "2026-11-17T14:26:46+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "1632fb5fec801cff",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+   "published": "2026-11-17T14:05:30+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c2ee8493490a8057",
+   "title": "The best of AI is yet to come, say experts at Bengaluru Tech Summit",
+   "link": "https://yourstory.com/2026/11/the-best-of-ai-is-yet-to-come-say-experts-at-bengaluru-tech-summit",
+   "summary": "During a panel discussion, Karnataka Home and IT Minister Priyank Kharge, Infosys co-founder S Gopalakrishnan, Biocon Chairperson Kiran Mazumdar Shaw, and Accel co-founder Prashant Prakash stressed the potential of AI to create solutions with population-scale impact.",
+   "published": "2026-11-17T14:01:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "38c9e25051247959",
+   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+   "published": "2026-11-17T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "04d3ec1b70b8a2ff",
+   "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+   "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+   "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
+   "published": "2026-11-17T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "fbf783f99ae494c4",
+   "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
+   "link": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
+   "summary": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high quality organic chicken.\"",
+   "published": "2026-11-17T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1ffef78e4654b298",
+   "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+   "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+   "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+   "published": "2026-11-17T14:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "1c8b296263835688",
    "title": "India has 300,000 startups; farmers open to using technologies, says Union minister Jayant Chaudhary",
