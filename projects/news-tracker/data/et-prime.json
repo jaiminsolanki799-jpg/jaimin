@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T17:30:03+00:00",
+ "generated_at": "2026-11-17T18:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 22:47:13 +0530",
+   "sample_date": "Tue, 17 Nov 2026 23:04:35 +0530",
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 21:24:51 +0530",
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 22:55:44 +0530",
    "error": null,
-   "checked_at": "2026-11-17T17:30:03+00:00"
+   "checked_at": "2026-11-17T18:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "e6c208979ecd2fef",
+   "title": "Reliance lays foundation for ₹1,600-crore Campa Cola plant in Karnataka; 109-acre Vijayapura unit to create 5,000 jobs",
+   "link": "https://www.livemint.com/companies/news/reliance-lays-foundation-for-1-600-crore-campa-cola-plant-in-karnataka-109-acre-vijayapura-unit-to-create-5-000-jobs-11794934344765.html",
+   "summary": "Reliance Group will invest ₹1,600 crore to set up a Campa Cola plant on 109 acres in Karnataka's Vijayapura district. The project is expected to generate 2,000 direct and over 3,000 indirect jobs, with priority urged for families who gave up land.",
+   "published": "2026-11-17T17:34:35+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Businessman_and_Cola_Bottles_Composite_1794934880075_Sfr1_1794934908443_u91W_a536278f-b624-4413-8733-793b82593a4b_fVra.png",
+   "topics": [],
+   "first_seen": "2026-11-17T18:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ce795c6004524797",
    "title": "Chinese man used 14 old apartments to achieve financial independence by age 30, now plans to invest in dividend stocks",
@@ -11514,24 +11532,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794465972783_ZHep_1794465978248_lti2_7a087b25-78e9-4eb5-9605-da9bd3e02150_C3MX.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T05:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "791b7c21071e98ee",
-   "title": "34% rise in a year! Why Hindustan Copper shares are rising 6% today? Check target, stop loss, returns",
-   "link": "https://www.livemint.com/market/stock-market-news/34-rise-in-a-year-why-hindustan-copper-shares-are-rising-6-today-check-target-stop-loss-returns-11794457283807.html",
-   "summary": "Hindustan Copper share price opened at ₹474 apiece on NSE today, as compared to previous close of ₹436.35 on Wednesday and touched an intraday high of ₹466.80 on 12 November.",
-   "published": "2026-11-12T04:43:26+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/Hindustan_Copper_1794458531451_EDne_1794458531647_yO33_18d52d17-5be4-4c05-bbdd-77077e5fafd8_f1wd.png",
    "topics": [],
    "first_seen": "2026-11-12T05:00:01+00:00",
    "valuation_score": 0,
