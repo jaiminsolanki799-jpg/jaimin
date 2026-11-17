@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T12:00:02+00:00",
+ "generated_at": "2026-11-17T12:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 9,
-   "items": 5,
-   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
+   "fetched": 8,
+   "items": 4,
+   "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 16:51:37 +0530",
+   "sample_date": "Tue, 17 Nov 2026 17:49:18 +0530",
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 17:09:30 +0530",
+   "sample_date": "Tue, 17 Nov 2026 17:36:52 +0530",
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 17:21:46 +0530",
    "error": null,
-   "checked_at": "2026-11-17T12:00:02+00:00"
+   "checked_at": "2026-11-17T12:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "71c093ca13b7324b",
+   "title": "Who is Suzanne Nora Johnson? Goldman Sachs veteran to lead Nvidia’s new national security committee",
+   "link": "https://www.livemint.com/companies/who-is-suzanne-nora-johnson-goldman-sachs-veteran-to-lead-nvidia-s-new-national-security-committee-11794915061437.html",
+   "summary": "Nvidia has appointed Goldman Sachs veteran Suzanne Nora Johnson to chair its new National Security and Export Control Oversight Committee. The panel will monitor national security policies and export compliance as US restrictions on advanced AI chip exports to China face growing scrutiny.",
+   "published": "2026-11-17T12:19:18+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/NVIDIA_Executive_in_Tech_Spotlight_1794916307588_vXHW_1794916311957_slEE_24e8667d-8ad5-4896-a96a-fcd0e7fca40c_Q6Qf.png",
+   "topics": [],
+   "first_seen": "2026-11-17T12:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "90b15cdf3e626529",
+   "title": "Nifty 50 hits 9-month high, crosses 25,500: Can the rally extend towards 25,800? Here's what analysts say",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-50-hits-9-month-high-crosses-25-500-can-the-rally-extend-towards-25-800-heres-what-analysts-say-11794916441623.html",
+   "summary": "The Nifty 50 rose 0.38% to a nine-month high on Tuesday, briefly crossing 25,500, as banking and realty shares gained and easing oil prices and foreign inflows lifted sentiment. Analysts see further upside if the index clears 25,500, with 25,000–25,200 as key support.",
+   "published": "2026-11-17T12:06:52+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Bull_1794916754724_gFzv_1794916762700_hSMo_ff51f7ca-2d1a-4b19-a1e4-021b8184e4f3_cK1s.png",
+   "topics": [],
+   "first_seen": "2026-11-17T12:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6172ba65aacd2079",
    "title": "Returning to India? What happens to your NRE fixed deposit",
@@ -11487,44 +11523,6 @@
     "RBI / banking"
    ],
    "first_seen": "2026-11-12T02:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a63951a1bff6966c",
-   "title": "KYC and KYB: Pidilite's margin keeps finding its way back, though costlier raw materials can knock it off course – Part 2 of 3",
-   "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPcWpJTkNnaGpmOHNrV2d3M3ZnZWZ1V3RzcV9DM2ZnQTgtbXd3UjhESkJqUElCN0ZxcU5paVpscWFOSFEwY283ajUyalJZcklWWmYteHQ2N2ZrcFR2a3VfMzhjdndnZEVtQ2NsRXg3NjZyWmt5Y3ZCQ0xCVEw3WGYtcHVYazhfamNTVTUyUXRpaU8yTDdHYjlXa29IQXZlbjJZTHpwc0xGMnhtajJMX2h0X3ZwdnRnXzgwUHVIODdpak1kUGF3VEtXMFlWaERybjMxS0s2aXdWZUZ4LTVPY2p6OHdSTXB1VzBQajd1cjlKUGhneXhDVVhmLUJqSUQ0MF9KN0hOazZ4ek1xaUR4QUV1dW1ITW5vSHh2TWEzLWdCWFhQeGhHbVBQRVFlTzZlSkNCRGZIMUJKdkM2QVJmc1ZCdV9QellvWUVhTzBhMmFheGlnZFQwQ1RTakVGbHJtQWxVSFZOd21jR3RtS1dUYUpBQVNHbjUyVXZpaXhJTUh4dnA?oc=5",
-   "summary": "",
-   "published": "2026-11-12T02:07:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-11-12T22:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "af4827f23f230b78",
-   "title": "Top stocks to watch today: Tata Power, Bajaj Finance, HAL, IRCTC shares in focus on Thursday, 12 November | Full list",
-   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-power-bajaj-finance-hal-irctc-shares-in-focus-on-thursday-12-november-full-list-11794447178928.html",
-   "summary": "Top stocks to watch today: Tata Power, Hindustan Aeronautics, Vodafone Idea, RVNL, Bajaj Finance, ITC among shares in focus on Thursday.",
-   "published": "2026-11-12T01:50:28+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/stw_12_1794448135973_e4js_1794448136274_Nrlp_40cc7cbc-9c41-490b-a635-d4e943cc847c_r648.png",
-   "topics": [],
-   "first_seen": "2026-11-12T02:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
