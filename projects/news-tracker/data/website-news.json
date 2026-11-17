@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T11:00:03+00:00",
+ "generated_at": "2026-11-17T11:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:00:03+00:00"
+   "checked_at": "2026-11-17T11:30:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 09:20:56 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:09:20 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:00:03+00:00"
+   "checked_at": "2026-11-17T11:30:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 17 Nov 2026 10:25:47 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:01:50 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:00:03+00:00"
+   "checked_at": "2026-11-17T11:30:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:00:03+00:00"
+   "checked_at": "2026-11-17T11:30:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T11:00:03+00:00"
+   "checked_at": "2026-11-17T11:30:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,100 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 10,
  "items": [
+  {
+   "id": "85f370fbe3b55a8f",
+   "title": "How AI could reshape jobs, investing, and wealth creation in India",
+   "link": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india",
+   "summary": "At TechSparks 2026, Angel One Group CEO Ambarish Kenghe discussed how AI could change the nature of work, make investing more accessible, and create opportunities in healthcare, transportation, fintech and beyond.",
+   "published": "2026-11-17T11:20:24+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T11:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4f648825991f6c3c",
+   "title": "Fadnavis’ vision for a new Maharashtra: Gen Z, deep tech and $1 trillion",
+   "link": "https://yourstory.com/2026/11/devendra-fadnavis-governance-challenge-2026",
+   "summary": "Devendra Fadnavis on youth in governance, skills over degrees, and his plan to make Maharashtra a trillion-dollar innovation hub.",
+   "published": "2026-11-17T11:09:20+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T11:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f7495c7e024ebefa",
+   "title": "Bombay Shaving Company Parent Bets on Wellness and Fitness with rE Brand Launch",
+   "link": "https://startuptalky.com/news/bombay-shaving-company-parent-bets-on-wellness/",
+   "summary": "Varun Gupta, CMO of Visage Lines Personal Care, the parent business of Bombay Shaving business, co-founded rE, the new brand that marks the company’s foray into the health and recovery industry. Launched November 16, rE has 14 devices including massage pistols, scalp massagers and foam rollers.",
+   "published": "2026-11-17T11:01:50+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/bombay-shaving-company-parent-bets-on-wellness-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T11:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c7fadd9bc3372b3a",
+   "title": "Karnataka aims to become global hub for frontier technologies: DK Shivakumar",
+   "link": "https://yourstory.com/2026/11/karnataka-global-hub-frontier-technologies-dk-shivakumar",
+   "summary": "Karnataka Chief Minister DK Shivakumar said the strong technology ecosystem in the State gives it the advantage to lead in areas such as AI, biotech, semiconductor and robotics.",
+   "published": "2026-11-17T10:59:28+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T11:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1fbd125e05521427",
+   "title": "Lemonpeel Raises $1 Million for Enterprise AI Video",
+   "link": "https://startuptalky.com/news/lemonpeel-raises-1-million-enterprise-ai-video/",
+   "summary": "Mumbai's Lemonpeel has raised about $1 million in pre-seed funding led by Shastra VC for AI video production aimed at enterprise creative teams. It says five NIFTY 50 firms are customers; revenue is undisclosed.",
+   "published": "2026-11-17T10:58:32+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/lemonpeel-raises-1-million-pre-seed-ai-video-production.webp",
+   "topics": [],
+   "first_seen": "2026-11-17T11:30:03+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "496b3b9cb559f8ff",
    "title": "Exclusive: Shree Anandhaas raises Rs 110 Cr, valuation jumps to Rs 1,900 Cr",
@@ -188,7 +280,7 @@
   },
   {
    "id": "b94dee7b35687dfc",
-   "title": "Aman Gupta, Ranveer Singh launch men’s grooming brand H.I.M",
+   "title": "Aman Gupta, Ranveer Singh launch men’s personal care brand H.I.M",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa1pyRTBROUgtZnNIdkFUNmJ6Q3hMajBqX0JtNHBqaGFuQVphWEpBdGtHLUZIc1BYZWw4RTlPMFd5ZXVhNS1XWXF0T1lyeDh6a2NDRVN3V1NmTEl2VVdEZTlaZTNVaE9VR2w3eUZ1Ti14NXVCMUFfRm1EM0RIcF83bl9jQS14OUdOY3oxeFN2RzJrNXF10gGUAUFVX3lxTE5rWnJFMFE5SC1mc0h2QVQ2YnpDeExqMGpfQm00cGpoYW5BWmFYSkF0a0ctRkhzUFhlbDhFOU8wV3lldWE1LVdZcXRPWXJ4OHprY0NFU3dXU2ZMSXZVV0RlOVplM1VoT1VHbDd5RnVOLXg1dUIxQV9GbUQzREhwXzduX2NBLXg5R05jejF4U3ZHMms1cXU?oc=5",
    "summary": "",
    "published": "2026-11-17T09:00:50+00:00",
