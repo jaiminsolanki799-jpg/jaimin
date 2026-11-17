@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T19:30:01+00:00",
+ "generated_at": "2026-11-17T20:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Mon, 16 Nov 2026 04:26:10 GMT",
    "error": null,
-   "checked_at": "2026-11-17T19:30:01+00:00"
+   "checked_at": "2026-11-17T20:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:41:30 GMT",
+   "sample_date": "Tue, 17 Nov 2026 05:47:08 GMT",
    "error": null,
-   "checked_at": "2026-11-17T19:30:01+00:00"
+   "checked_at": "2026-11-17T20:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 16:14:21 GMT",
    "error": null,
-   "checked_at": "2026-11-17T19:30:01+00:00"
+   "checked_at": "2026-11-17T20:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 28,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T19:30:01+00:00"
+   "checked_at": "2026-11-17T20:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 19:02:20 +0000",
+   "sample_date": "Tue, 17 Nov 2026 19:49:41 +0000",
    "error": null,
-   "checked_at": "2026-11-17T19:30:01+00:00"
+   "checked_at": "2026-11-17T20:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "122115e1f3c93c37",
+   "title": "Waymo suspends freeway rides nationwide after California DMV order",
+   "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+   "summary": "The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.",
+   "published": "2026-11-17T19:49:41+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T20:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d9a047affb028160",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+   "published": "2026-11-17T19:32:11+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Marina Temkin",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T20:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "0fc744e43d6095d8",
    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
@@ -93,7 +131,7 @@
   },
   {
    "id": "3e0e7322cd6e1616",
-   "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+   "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
    "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
    "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
    "published": "2026-11-17T18:55:40+00:00",
