@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T13:30:06+00:00",
+ "generated_at": "2026-11-17T14:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T13:30:06+00:00"
+   "checked_at": "2026-11-17T14:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Mon, 16 Nov 2026 11:50:00 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-17T13:30:06+00:00"
+   "checked_at": "2026-11-17T14:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 11:15:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T13:30:06+00:00"
+   "checked_at": "2026-11-17T14:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T13:30:06+00:00"
+   "checked_at": "2026-11-17T14:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T13:30:06+00:00"
+   "checked_at": "2026-11-17T14:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "1c8b296263835688",
+   "title": "India has 300,000 startups; farmers open to using technologies, says Union minister Jayant Chaudhary",
+   "link": "https://yourstory.com/2026/11/india-has-300000-startups-farmers-open-to-using-technologies-says-union-minister-jayant-chaudhary",
+   "summary": "The conference was held alongside the Singapore-India Hackathon at the Singapore Management University (SMU) here.",
+   "published": "2026-11-17T13:44:09+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T14:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3a503a65d9a180f6",
    "title": "Amazon plans $7B renewable energy investment in India by 2030",
