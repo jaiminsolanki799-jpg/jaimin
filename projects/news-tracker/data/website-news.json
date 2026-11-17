@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T11:30:03+00:00",
+ "generated_at": "2026-11-17T12:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:30:03+00:00"
+   "checked_at": "2026-11-17T12:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:09:20 GMT",
+   "sample_date": "Tue, 17 Nov 2026 05:47:08 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:30:03+00:00"
+   "checked_at": "2026-11-17T12:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 17 Nov 2026 11:01:50 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:15:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:30:03+00:00"
+   "checked_at": "2026-11-17T12:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T11:30:03+00:00"
+   "checked_at": "2026-11-17T12:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T11:30:03+00:00"
+   "checked_at": "2026-11-17T12:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 10,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "b82e7120f193bc1e",
+   "title": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
+   "link": "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus",
+   "summary": "Redbrick said it plans to use the capital to expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and service delivery to cater to enterprise and GCC clients.",
+   "published": "2026-11-17T11:41:30+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T12:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "85f370fbe3b55a8f",
    "title": "How AI could reshape jobs, investing, and wealth creation in India",
@@ -88,6 +108,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-17T11:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f14a04a8322257c2",
+   "title": "15 Effective Black Friday and Cyber Monday Marketing Strategies for 2026",
+   "link": "https://startuptalky.com/plan-profitable-bfcm-promotion/",
+   "summary": "Discover 15 effective Black Friday and Cyber Monday marketing strategies for 2026. Explore AI personalisation, email marketing, social media, retargeting, and mobile commerce to boost BFCM sales.",
+   "published": "2026-11-17T11:15:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Rishi Mundra",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/10/BFCM-Marketing-StartupTalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T12:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
