@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T05:30:04+00:00",
+ "generated_at": "2026-11-17T06:00:06+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,29 +90,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "ok": true,
+   "fetched": 9,
+   "items": 5,
+   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 10:40:17 +0530",
+   "sample_date": "Tue, 17 Nov 2026 11:25:54 +0530",
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 10:52:51 +0530",
+   "sample_date": "Tue, 17 Nov 2026 11:21:49 +0530",
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 10:39:17 +0530",
    "error": null,
-   "checked_at": "2026-11-17T05:30:04+00:00"
+   "checked_at": "2026-11-17T06:00:06+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,84 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "bc438be07164f5f1",
+   "title": "Warren Buffett donates $5.47 bn in Berkshire Hathaway shares as Thanksgiving gift, Gates Foundation misses out again",
+   "link": "https://www.livemint.com/companies/people/warren-buffett-donates-5-47-bn-in-berkshire-hathaway-shares-as-thanksgiving-gift-gates-foundation-misses-out-again-11794894296023.html",
+   "summary": "Warren Buffett will donate about $5.47 billion in Berkshire Hathaway shares to four charities associated with his children. The 96-year-old plans to give away all his shares by 2034 and said he trusts his children to direct the grants. He retains about 13% of Berkshire.",
+   "published": "2026-11-17T05:55:54+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Berkshire_Hathaway_1794894595737_kmBS_1794894611204_NkGk_11d359bb-ac31-4d9d-bfe5-8b3317329e7f_gjkq.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T06:00:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1bb7610caa1a772f",
+   "title": "PNB vs Canara Bank: Which PSU bank is a better stock to buy Nifty Bank at record high, and why? Experts' views, targets",
+   "link": "https://www.livemint.com/market/stock-market-news/pnb-vs-canara-bank-which-psu-bank-is-a-better-stock-to-buy-nifty-bank-at-record-high-and-why-experts-views-targets-11794892103071.html",
+   "summary": "Shares of Punjab National Bank and Canara Bank are moving sharply higher as the Nifty PSU Bank index and Bank Nifty hit record highs during Tuesday's morning deals",
+   "published": "2026-11-17T05:51:49+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/Nifty_Bank__PNB_vs_Canara_Bank_Stocks_to_buy_today_1794892450821_Oj9R_1794892451052_g8tE_1fe5ddf8-bda3-4083-a9c4-3d6defb2cdce_v15m.png",
+   "topics": [],
+   "first_seen": "2026-11-17T06:00:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2e949c20583a7f9d",
+   "title": "Coal India begins IPO preparations for Northern, Central Coalfields",
+   "link": "https://www.livemint.com/market/ipo/coal-india-subsidiaries-ncl-ccl-ipo-plans-2027-11794888731145.html",
+   "summary": "Each of the issues is likely to be about ₹4,000-5,000 crore in size, with a 10% dilution by the parent entity",
+   "published": "2026-11-17T05:34:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/2-0-1284878999-4300179037-x01-mc-wmbm-0_1679597496975_1794893358669_12oB_42d98a53-fbf4-44bc-8db4-425f6f7d111b_kCz2.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-17T06:00:06+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "8427d85b2987a723",
+   "title": "Why Silver rates crashed from record high of ₹4 lakh per kg price to below ₹1.75 lakh? Experts explain 3 key reasons",
+   "link": "https://www.livemint.com/market/commodities/why-silver-rates-crashed-from-record-high-of-rs-4-lakh-per-kg-price-to-below-rs-1-75-lakh-experts-explain-3-key-reasons-11794890469861.html",
+   "summary": "Silver prices have plunged nearly 60% from their January record highs, with a stronger US dollar, expectations of higher interest rates, concerns over industrial demand and aggressive profit-booking driving the correction. Experts identify three key factors behind the precious metal's sharp reversal",
+   "published": "2026-11-17T05:33:17+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Silver_Crash_Experts_Explain_the_Drop_179489286074_1794892869116_V1JF_1794892869281_UWVZ_d38a8195-1e00-4a18-8c6d-822a462015a4_J718.png",
+   "topics": [],
+   "first_seen": "2026-11-17T06:00:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4b19c4c8b8ada44c",
    "title": "TTK Healthcare shares soar 20%: Board to consider bonus issue of preference shares on Nov 20 - Key things to know",
@@ -11423,82 +11499,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/SINGAPORE-AIR-CABIN--27_1794398282155_N1E6_1794398297386_fCiQ_3a08d784-6002-4773-8f1b-c15772d1d952_3L2I.JPG",
    "topics": [],
    "first_seen": "2026-11-11T12:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "1573f4cdcc1bc3ef",
-   "title": "Top 2 stocks to buy for short-term: Canara Bank, Pine Labs by Nagaraj Shetti - Check stop loss, targets",
-   "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-canara-bank-pine-labs-by-nagaraj-shetti-check-stop-loss-targets-11794397280619.html",
-   "summary": "Indian benchmark indices rose on Wednesday, with the Nifty 50 up 0.84% and Sensex up 0.95%, supported by lower crude prices and expectations of foreign inflows. Analysts see resistance near 25,400–25,500 and support around 24,700–24,800.",
-   "published": "2026-11-11T11:53:08+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Nagaraj_Shetti_1789610157457_vdtE_1789610166505_Aq_1794397839018_CUeh_1794397839183_xfm2_0c717a4a-9a70-43b9-be81-195f08aee16f_wYa5.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-11T12:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8a44936cb7677b7e",
-   "title": "PC Jeweller vs Kalyan Jewellers shares: Both delivered strong Q2 results but what to buy for better returns? Key levels",
-   "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-vs-kalyan-jewellers-shares-both-delivered-strong-q2-results-but-what-to-buy-for-better-returns-key-levels-11794394181636.html",
-   "summary": "PC Jeweller and Kalyan Jewellers posted strong Q2 FY27 results, with profits rising 58% and 64%, respectively. Kalyan’s shares show stronger near-term momentum, with analysts identifying ₹750–790 as a potential target zone.&nbsp;",
-   "published": "2026-11-11T11:42:22+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/PC_Jeweller_vs_Kalyan_Jewellers_1794397190255_o2EN_1794397198255_jQV9_3e3978df-82be-49a5-8bdc-623f3c54d6b2_vA4u.png",
-   "topics": [],
-   "first_seen": "2026-11-11T12:00:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
-  },
-  {
-   "id": "f98c84f196c9b13e",
-   "title": "This EPC stock under ₹15 hits 20% upper circuit after ₹510 crore bank guarantee release boosts order execution",
-   "link": "https://www.livemint.com/market/stock-market-news/this-epc-stock-under-rs-15-hits-20-upper-circuit-after-rs-510-crore-bank-guarantee-release-boosts-order-execution-11794395143697.html",
-   "summary": "Jyoti Structures shares surged 20% to ₹13 after lenders began releasing ₹510.59 crore in bank guarantees and letters of credit under its NCLT-approved resolution plan.&nbsp;",
-   "published": "2026-11-11T11:32:28+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Gainers_1794395353911_VcCr_1794395363362_TefX_c4dc9cb9-1cfc-483f-92d4-887abcc72281_DiJO.png",
-   "topics": [
-    "Insolvency / IBC"
-   ],
-   "first_seen": "2026-11-11T12:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "13cc2ebee6c67c75",
-   "title": "Shriram General bets on agents, vehicle makers despite proposed Irdai commission curbs",
-   "link": "https://www.livemint.com/companies/news/shriram-general-insurance-growth-plans-advisor-hiring-oem-partnerships-fy27-11794388081763.html",
-   "summary": "The insurer plans to add 10,500 financial advisors and expand partnerships with vehicle makers in H2 FY27, even as proposed commission caps threaten to reshape the economics of both channels.",
-   "published": "2026-11-11T11:20:59+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/shriram_finance_1794395323995_Rj1M_1794395329798_fy0P_0908c4f4-c420-451e-96e0-060840ccd400_ASlq.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T11:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
