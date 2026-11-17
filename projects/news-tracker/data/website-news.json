@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T16:00:01+00:00",
+ "generated_at": "2026-11-17T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
+   "sample_date": "Tue, 17 Nov 2026 12:45:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 17 Nov 2026 11:15:00 GMT",
+   "sample_date": "Tue, 17 Nov 2026 16:08:24 GMT",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 27,
-   "items": 27,
+   "fetched": 28,
+   "items": 28,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Tue, 17 Nov 2026 15:07:06 +0000",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,32 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "669e7f37eca1fe38",
+   "title": "Daily Indian Funding Roundup & Key News - 17 November 2026: Dreamteam Raises $53 Million, Urban Company Opens ₹2,500 Crore QIP",
+   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/",
+   "summary": "Dreamteam raised $53 million and four more startups closed rounds, as Urban Company opened its INR 2,500 crore QIP and Rediff filed updated IPO papers.",
+   "published": "2026-11-17T16:08:24+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Muskaan Kapoor",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/daily-indian-funding-roundup-key-news-17-november-2026-Startuptalky.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-17T16:30:01+00:00",
+   "valuation_score": 8,
+   "valuation_signals": [
+    "Buyback & payout",
+    "Funding",
+    "IPO"
+   ]
+  },
   {
    "id": "5a12ee8825b732b3",
    "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
@@ -93,7 +117,7 @@
   },
   {
    "id": "45f18158044fff30",
-   "title": "Meta launches Direct, a standalone messaging app for Instagram",
+   "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
    "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
    "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
    "published": "2026-11-17T15:01:46+00:00",
@@ -314,6 +338,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-17T14:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "80aebd2afb74941c",
+   "title": "Shree Anandhaas",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2U3NueVlJWlFZeVI4NjNDdVptaXlvMVpsRnF6Z1FndHJPSXJ4enl3QnpRaW5ydUR2OXJvd0pRTGJ2QlFzTmZkcEdnUjdGVzV0MHdz?oc=5",
+   "summary": "",
+   "published": "2026-11-17T13:18:01+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T16:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },

@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T16:00:01+00:00",
+ "generated_at": "2026-11-17T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 8,
+   "fetched": 7,
    "items": 4,
    "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 20:55:07 +0530",
+   "sample_date": "Tue, 17 Nov 2026 21:55:54 +0530",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 21:24:51 +0530",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 20:43:38 +0530",
+   "sample_date": "Tue, 17 Nov 2026 21:46:11 +0530",
    "error": null,
-   "checked_at": "2026-11-17T16:00:01+00:00"
+   "checked_at": "2026-11-17T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "ede0faec3c06685f",
+   "title": "Jensen Huang says ‘would be honored’ to return as Nvidia CEO if board deems it beneficial for employees, shareholders",
+   "link": "https://www.livemint.com/companies/people/jensen-huang-says-would-be-honored-to-return-as-nvidia-ceo-if-board-deems-it-beneficial-for-employees-shareholders-11794932600479.html",
+   "summary": "Jensen Huang says he would be honored to return as Nvidia CEO if the board believes it would benefit shareholders and employees. He resigned last week amid an alleged Chinese spy controversy and cited calls from employees, investors, partners, and customers urging his return.",
+   "published": "2026-11-17T16:25:54+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/huang_1794932715536_4hPm_1794932715722_0cBn_70980fe2-c67b-4ae3-a512-ddc18f573152_RfWE.JPG",
+   "topics": [],
+   "first_seen": "2026-11-17T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2a48c966f07aff9c",
+   "title": "Amazon to procure $7 billion worth of renewable energy in India by 2030",
+   "link": "https://www.livemint.com/companies/amazon-renewable-energy-investment-7-billion-by-2030-green-energy-clean-transition-11794925796977.html",
+   "summary": "The commitment adds to $4 billion already contracted. The firm has also signed 934 MW of new power purchase agreements with ReNew, Sunsure and Waaree.",
+   "published": "2026-11-17T16:22:14+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/g7f2588e296e7c03e40d1d1e4823df8efe78599e47e5df3dfa_1794932268402_ROOj_1794932268532_yE1P_a21ec62a-8c37-4294-b36d-bf9be97839fb_Ht8A.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "addb53367e624a27",
+   "title": "Anthropic IPO: Planning to invest from India? Check why IPO allotment may be difficult and what you can do instead",
+   "link": "https://www.livemint.com/money/personal-finance/anthropic-ipo-planning-to-invest-from-india-check-why-ipo-allotment-may-be-difficult-and-what-you-can-do-instead-11794931790357.html",
+   "summary": "Indian retail investors may not be able to apply directly for the Anthropic IPO through most Indian brokers. CA Chandni Anandan of ClearTax explains how investors can buy shares after the Nasdaq listing and use the LRS route to invest overseas.",
+   "published": "2026-11-17T16:16:11+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Gemini_Generated_Image51vlc51vlc51vlc5_179493207_1794932088119_0E7K_1794932088240_wdR1_c298fc73-a99d-475a-811f-a590da046aa6_6eOd.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-17T16:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "17fb92208e0e9112",
    "title": "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain",
@@ -214,7 +272,7 @@
   },
   {
    "id": "283a40628bea1dc7",
-   "title": "Bring Jensen Huang Back to Nvidia: 1,90,000 people call for ex CEO's return, including Musk and Tim Sweeney amid scandal",
+   "title": "Bring Jensen Huang Back to Nvidia: 1,90,000 people, including Musk and Tim Sweeney, seek ex-CEO’s return, amid scandal",
    "link": "https://www.livemint.com/companies/bring-jensen-huang-back-to-nvidia-1-90-000-people-call-for-ex-ceos-return-including-musk-and-tim-sweeney-amid-scandal-11794924783503.html",
    "summary": "Last week, Jensen Huang resigned from Nvidia over his extramarital affairs, including one with an alleged Chinese spy. A petition has been launched, demanding his comeback.",
    "published": "2026-11-17T15:25:07+00:00",
@@ -11476,62 +11534,6 @@
     "Budget / policy"
    ],
    "first_seen": "2026-11-12T05:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "22252f425094d48c",
-   "title": "Kalyan Jewellers shares hit 52-week high, rally 41% in 9 sessions; should you buy after Q2 results 2026? Check target",
-   "link": "https://www.livemint.com/market/stock-market-news/kalyan-jewellers-shares-hit-52-week-high-rally-41-in-9-sessions-should-you-buy-after-q2-results-2026-check-target-11794457015532.html",
-   "summary": "Kalyan Jewellers shares rose for a ninth straight session, hitting a 52-week high after Q2 FY27 net profit climbed 64% to ₹427 crore and revenue grew 32% to ₹10,323 crore. Motilal Oswal retained its Buy rating, while technical analysts flagged potential gains and cautioned about consolidation.",
-   "published": "2026-11-12T04:27:26+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Kalyan_Jewellers_Hits_52-Week_High_1794457585146_VRpD_1794457591578_84Lk_488e9ace-ff53-4e83-a046-cc53f4d6277c_EYmY.png",
-   "topics": [],
-   "first_seen": "2026-11-12T04:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
-  },
-  {
-   "id": "504fa9fccb5c7788",
-   "title": "Elon Musk is ready to hire Nvidia CEO Jensen Huang even after WSJ, NYT reports of affairs, ouster — Check latest update",
-   "link": "https://www.livemint.com/companies/people/elon-musk-ready-hire-nvidia-ceo-jensen-huang-even-after-wsj-nyt-reports-second-affairs-board-ouster-check-latest-updates-11794455804044.html",
-   "summary": "Billionaire Elon Musk has indicated that he is ready to hire Jensen Huang even after the WSJ and NYT reported that the Nvidia board is considering ousting the chief executive. Check the latest updates…&nbsp;",
-   "published": "2026-11-12T04:27:07+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794465985091_ML66_1794465992314_hKz3_011f7a93-0dbf-4157-9674-4ac63a167f08_njPK.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T04:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a7056851373c9a02",
-   "title": "Ankura Hospitals attracts PE interest for its ongoing $100 million round",
-   "link": "https://www.livemint.com/companies/news/ankura-hospitals-100-million-fundraise-general-atlantic-goldman-sachs-11794449907010.html",
-   "summary": "General Atlantic, Goldman Sachs Private Equity and Motilal Oswal Alternates are among investors evaluating Ankura’s fundraise, which includes a partial or full exit by existing shareholders.",
-   "published": "2026-11-12T04:19:08+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/pexels-photo-8376311_1794455021607_46pi_1794455030541_JnMO_80c6a010-4110-49aa-b83a-61a998608552_DKFL.jpeg",
-   "topics": [],
-   "first_seen": "2026-11-12T04:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
