@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-17T12:30:01+00:00",
+ "generated_at": "2026-11-17T13:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Fri, 13 Nov 2026 06:40:12 GMT",
    "error": null,
-   "checked_at": "2026-11-17T12:30:01+00:00"
+   "checked_at": "2026-11-17T13:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 08:44:46 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-17T12:30:01+00:00"
+   "checked_at": "2026-11-17T13:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 11:15:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T12:30:01+00:00"
+   "checked_at": "2026-11-17T13:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 27,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-17T12:30:01+00:00"
+   "checked_at": "2026-11-17T13:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Mon, 16 Nov 2026 23:32:32 +0000",
    "error": null,
-   "checked_at": "2026-11-17T12:30:01+00:00"
+   "checked_at": "2026-11-17T13:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "3a503a65d9a180f6",
+   "title": "Amazon plans $7B renewable energy investment in India by 2030",
+   "link": "https://yourstory.com/2026/11/amazon-plans-usd-7-billion-renewable-energy-investment-india-by-2030",
+   "summary": "The proposed investment will be over and above the USD 4 billion the company has already contracted in renewable energy projects in India, Amazon said on Tuesday, making it one of the country's largest corporate purchasers of carbon-free energy.",
+   "published": "2026-11-17T12:45:49+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-17T13:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b82e7120f193bc1e",
    "title": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
