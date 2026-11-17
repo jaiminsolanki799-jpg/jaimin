@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T05:00:04+00:00",
+ "generated_at": "2026-11-17T05:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,29 +90,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
    "url": "https://economictimes.indiatimes.com/prime/energy",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 32,
+   "items": 32,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,18 +123,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
    "url": "https://economictimes.indiatimes.com/prime/media-and-communications",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 0,
    "sample_date": null,
    "error": "HTTP 429",
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 10:24:31 +0530",
+   "sample_date": "Tue, 17 Nov 2026 10:40:17 +0530",
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 10:17:27 +0530",
+   "sample_date": "Tue, 17 Nov 2026 10:52:51 +0530",
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 09:43:38 +0530",
+   "sample_date": "Tue, 17 Nov 2026 10:39:17 +0530",
    "error": null,
-   "checked_at": "2026-11-17T05:00:04+00:00"
+   "checked_at": "2026-11-17T05:30:04+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,64 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "4b19c4c8b8ada44c",
+   "title": "TTK Healthcare shares soar 20%: Board to consider bonus issue of preference shares on Nov 20 - Key things to know",
+   "link": "https://www.livemint.com/market/stock-market-news/ttk-healthcare-shares-soar-20-board-to-consider-bonus-issue-of-preference-shares-on-nov-20-key-things-to-know-buy-11794891413979.html",
+   "summary": "TTK Healthcare shares rose 20% on November 17 after the company said its board would consider issuing non-convertible redeemable preference shares to existing equity shareholders as a bonus. The board is scheduled to discuss the proposed scheme on November 20, 2026.",
+   "published": "2026-11-17T05:22:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/TTK_Healthcare_Stock_Jumps_1794892680564_kOP9_1794892685894_YYFV_252881f5-59c5-4063-84e5-1b3a425219c6_eArY.png",
+   "topics": [],
+   "first_seen": "2026-11-17T05:30:04+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
+  {
+   "id": "81f2fa2f6dffc385",
+   "title": "Who is Jimmy Tata? Meet the longest-serving Tata Trusts trustee and why is he backing the listing of Tata Sons",
+   "link": "https://www.livemint.com/companies/people/who-is-jimmy-tata-meet-the-longest-serving-tata-trusts-trustee-and-why-is-he-backing-the-listing-of-tata-sons-11794891693885.html",
+   "summary": "Jimmy Tata, younger brother of Ratan Tata and a major Tata Sons shareholder, has backed listing the company and accused Tata Trusts Chairman Noel Tata of consolidating family control over the charitable trusts and their stake in the holding company.",
+   "published": "2026-11-17T05:10:17+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/jimmy_tata_1794891922469_kVup_1794891939784_nR0T_007f081f-45a0-46a4-b072-91adde2d8c9b_yPY6.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-17T05:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "efc4b99dfde3c647",
+   "title": "Gold price today Delhi: 22 carat 10 gram in rupees; check 24K, 20K, 18K rates in national capital on 17 Nov, Tuesday",
+   "link": "https://www.livemint.com/money/personal-finance/gold-price-today-delhi-22-carat-10-gram-in-rupees-check-24k-20k-18k-rates-in-national-capital-on-17-nov-tuesday-11794889807905.html",
+   "summary": "With Diwali festivities over, gold buyers in Delhi are gearing up for the upcoming wedding season, which gains momentum after Dev Uthani Ekadashi. Here's a look at the latest 22K, 24K, 20K, and 18K gold prices in the national capital on 17 November and how rates have changed over the past month.",
+   "published": "2026-11-17T05:09:17+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/gold_dee_1794891126493_ondd_1794891132604_unBp_9b76c7d4-fb7f-42a3-827d-48d0e1002d42_Hp3j.png",
+   "topics": [],
+   "first_seen": "2026-11-17T05:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a956a9d03039e3f0",
    "title": "IPO-bound Jakson Green acquires Ocior Energy",
@@ -11443,64 +11501,6 @@
    "first_seen": "2026-11-11T11:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "23026e2edf4ed5e1",
-   "title": "Gold or Silver? Which investment will offer higher returns after rates correction? What experts say; key levels to watch",
-   "link": "https://www.livemint.com/market/gold-or-silver-which-investment-will-offer-higher-returns-after-rates-correction-what-experts-say-key-levels-to-watch-11794394141742.html",
-   "summary": "MCX gold and silver rose on Wednesday, led by a 2.47% gain in silver. Experts recommend gold for conservative investors and portfolio diversification, while viewing silver as a riskier opportunity with potential upside. They advise gradual accumulation and note key technical support levels.",
-   "published": "2026-11-11T11:20:51+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Gold_or_Silver_What_Experts_Say_1794395885847_2qCE_1794395889025_cp02_b52cea61-da27-4763-aa33-82c1e9ec92db_NkFn.png",
-   "topics": [],
-   "first_seen": "2026-11-11T11:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c3703d01c868fe40",
-   "title": "Tata AIG denied ₹30 lakh death claim over alcohol consumption by insured; why the pensioner’s family won the case",
-   "link": "https://www.livemint.com/money/tata-aig-denied-rs-30-lakh-death-claim-over-alcohol-consumption-by-insured-why-the-pensioner-s-family-won-the-case-11794392096768.html",
-   "summary": "In Govindasamy's case, the Commission found that Tata AIG had failed to produce sufficiently reliable evidence to establish the alcohol-consumption condition.",
-   "published": "2026-11-11T10:52:22+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/insurance_claim_1794394321430_k7YS_1794394325940_RRJJ_32fdbd6b-b62d-4cb6-8a99-c74775fe0c79_9k1u.png",
-   "topics": [],
-   "first_seen": "2026-11-11T11:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9c08df2085c5be63",
-   "title": "Eternal's IPO investors sitting on 375% gains as stock hits new record high; from ₹76 price to ₹361, what changed?",
-   "link": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
-   "summary": "Eternal shares hit a record ₹372 on Wednesday before closing 1% lower at ₹361. The stock has gained 30% so far this year and rebounded 71% from its March low, supported by improving profitability and growth in Blinkit.",
-   "published": "2026-11-11T10:41:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Eternal_2_1794393457878_KdjJ_1794393465931_Wf1d_e9c8f9b8-502d-4b9e-886d-5b37b621653d_VS3w.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-11T11:00:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
