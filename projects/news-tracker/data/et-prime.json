@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T15:30:01+00:00",
+ "generated_at": "2026-11-17T16:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Sun, 15 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 20:55:07 +0530",
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 20:30:07 +0530",
+   "sample_date": "Tue, 17 Nov 2026 21:24:51 +0530",
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 20:43:38 +0530",
    "error": null,
-   "checked_at": "2026-11-17T15:30:01+00:00"
+   "checked_at": "2026-11-17T16:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "17fb92208e0e9112",
+   "title": "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain",
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-reclaims-pre-war-levels-intraday-as-indian-stocks-lead-asia-with-10-monthly-gain-11794923846111.html",
+   "summary": "The Nifty 50 moved past its pre-conflict level, with Tuesday’s intraday high of 25,501.35 surpassing the 27 February high of 25,476. The Sensex also crossed its intraday high of 82,246.17, closing at 82,532.19 on Tuesday. The Nifty rose 0.4% to end at 25,387.40, while the Sensex gained 0.5%.",
+   "published": "2026-11-17T15:54:51+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/INDIA-BSE-10_1718252822146_1794929176055_ziUY_d5c480a5-33b5-4e89-a52a-57b94bdd2a6a_shs7.jpg",
+   "topics": [],
+   "first_seen": "2026-11-17T16:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "283a40628bea1dc7",
    "title": "Bring Jensen Huang Back to Nvidia: 1,90,000 people call for ex CEO's return, including Musk and Tim Sweeney amid scandal",
@@ -11516,26 +11534,6 @@
    "first_seen": "2026-11-12T04:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "67afd54f2b50e67d",
-   "title": "Mishra Dhatu Nigam shares surge over 8% after Q2 profit more than doubles; MIDHANI jumps 19% in 2026 | Check key levels",
-   "link": "https://www.livemint.com/market/stock-market-news/mishra-dhatu-nigam-shares-surge-over-8-after-q2-profit-more-than-doubles-midhani-jumps-19-in-2026-check-key-levels-11794455785852.html",
-   "summary": "MIDHANI shares rose more than 8% after the defence PSU reported Q2 FY27 net profit more than doubling to ₹28 crore and revenue climbing 41.1% to ₹296 crore. EBITDA margin expanded to 16.8%, while the order book stood at ₹2,164 crore.",
-   "published": "2026-11-12T04:16:18+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/MIDHANI_Shares_Surge_on_Strong_Q2_1794456872126_udAQ_1794456885481_urso_71701323-f4fa-4a2e-aed6-98d340824aba_KoE7.png",
-   "topics": [],
-   "first_seen": "2026-11-12T04:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
