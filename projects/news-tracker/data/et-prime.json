@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-17T07:30:01+00:00",
+ "generated_at": "2026-11-17T08:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 9,
-   "items": 5,
-   "sample_date": "Thu, 12 Nov 2026 02:07:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 429",
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 12:41:59 +0530",
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Tue, 17 Nov 2026 12:55:49 +0530",
+   "sample_date": "Tue, 17 Nov 2026 13:21:02 +0530",
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Tue, 17 Nov 2026 12:36:46 +0530",
    "error": null,
-   "checked_at": "2026-11-17T07:30:01+00:00"
+   "checked_at": "2026-11-17T08:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "d70a2cda48bc8da1",
+   "title": "Promoter pledging climbs as more companies cross the 90% mark",
+   "link": "https://www.livemint.com/market/stock-market-news/promoter-pledging-more-companies-cross-90-mark-11794895081826.html",
+   "summary": "The number of companies with over 90% of promoter holdings pledged rose to 42 in September from 34 in June, putting borrowing needs and repayment capacity under scrutiny.",
+   "published": "2026-11-17T07:51:02+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/coins-currency-investment-insurance-128867_1740578964771_1794901567267_ZNH6_19706b77-1312-4fde-bede-c2e7b95747f5_d9tQ.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-17T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f69185cb73ab2458",
+   "title": "Kaynes Technology shares extend losses, fall another 4%; should investors worry about its Q2 performance?",
+   "link": "https://www.livemint.com/market/stock-market-news/kaynes-technology-shares-extend-losses-fall-another-4-should-investors-worry-about-its-q2-performance-11794900682488.html",
+   "summary": "Kaynes Technology shares fell for a second session after weak September-quarter results, including a 62% year-on-year drop in adjusted profit, lower margins and rising debt. Brokerages cut earnings estimates and target prices.&nbsp;",
+   "published": "2026-11-17T07:39:10+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/drop_1794814025784_qj7f_1794814051905_LWny_5f40d7f_1794900898883_lu9C_1794900899083_JW6n_426db0a3-3bce-4a0b-a6c3-233f23221d11_HEkh.png",
+   "topics": [],
+   "first_seen": "2026-11-17T08:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "270bba97953a4e13",
+   "title": "NSE or BSE: Why are experts bullish on NSE shares? Here's what technical charts hint at? | Target price, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/nse-or-bse-why-are-experts-bullish-on-nse-shares-heres-what-technical-charts-hint-at-target-price-stoploss-11794897901591.html",
+   "summary": "NSE offers greater scale, profitability and market leadership, making it the preferred choice among fundamental analysts for long-term investors. BSE delivered faster earnings growth &amp; may appeal to investors seeking higher-risk growth. Technical experts see a better current risk-reward setup in BSE",
+   "published": "2026-11-17T07:29:36+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/NSE__BSE_Bullish_Market_Outlook_1794900271661_sBgQ_1794900275209_jwWs_ae25e3cd-380d-48c9-a77d-dbe479a4d50e_sLIe.png",
+   "topics": [],
+   "first_seen": "2026-11-17T08:00:02+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
   {
    "id": "1e8002a60355d936",
    "title": "Jio Platforms, BLS Polymers, Shiprocket, more: 23 stocks to watch as anchor lock-in expires this week | List",
@@ -272,7 +328,7 @@
   },
   {
    "id": "cf4aaa11e63b38fa",
-   "title": "Who is Vidit Aatrey? Meet the Meesho CEO who bought ₹83.8cr Bengaluru villa plots from Byju Raveendran’s family",
+   "title": "Who is Vidit Aatrey? Meet Meesho CEO who bought ₹83.8 cr Bengaluru villa plots from Byju Raveendran’s family",
    "link": "https://www.livemint.com/companies/people/who-is-vidit-aatrey-meet-the-meesho-ceo-who-bought-rs-83-8cr-bengaluru-villa-plots-from-byju-raveendran-s-family-11794897881914.html",
    "summary": "Meesho co-founder and CEO Vidit Aatrey has bought two adjoining luxury villa plots in Bengaluru’s Epsilon Residential Villas for ₹83.81 crore. The 33,485-square-foot properties were sold by family members of BYJU’s co-founder Byju Raveendran.",
    "published": "2026-11-17T06:51:53+00:00",
@@ -11450,60 +11506,6 @@
    "valuation_signals": [
     "Valuation"
    ]
-  },
-  {
-   "id": "82944a4da8943088",
-   "title": "Tata Power approves ₹11,871 crore pumped storage project in Maharashtra",
-   "link": "https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html",
-   "summary": "The 1.8 GW project at Shirwata is expected to be completed in 51 months, as the company steps up investments in power generation, renewable energy and manufacturing.",
-   "published": "2026-11-11T14:44:08+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794407962638_DZZE_278eede3-8ffa-4766-9f36-35331be84ab8_K9jC.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T15:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bcfd1c624186d71f",
-   "title": "Who is Akhilendra Kumar? Meet new CEO of Unacademy as Gaurav Munjal to become Executive Chairman - Profile of leaders",
-   "link": "https://www.livemint.com/companies/people/who-is-akhilendra-kumar-meet-new-ceo-of-unacademy-as-gaurav-munjal-to-become-executive-chairman-profile-of-leaders-11794405044620.html",
-   "summary": "Praising his successor, Munjal described Kumar as “one of the sharpest operators” he knew and said he was proud to have him lead the company into its next chapter.",
-   "published": "2026-11-11T14:39:08+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/akhileendra_kumar_and_gaurav_munjal_1794407867677_EYga_1794407876278_lNTo_1e3f49c3-8ba8-4e36-abe1-1d87c2f3952c_zXi6.jpg",
-   "topics": [],
-   "first_seen": "2026-11-11T15:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fe538a07c4f572fc",
-   "title": "Singapore Airlines backs Air India despite billion-dollar losses",
-   "link": "https://www.livemint.com/companies/company-results/singapore-airlines-backs-air-india-despite-billion-dollar-losses-11794403370187.html",
-   "summary": "Transformation, including profitability, will take time, Singapore Airlines reiterates while announcing September-quarter results",
-   "published": "2026-11-11T14:26:02+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/SINGAPORE-AIR-RESULTS--0_1794406884542_naIu_1794406894025_u0Jc_9dfb89db-c42c-4ec4-9d8c-1810838c0298_yGFe.JPG",
-   "topics": [],
-   "first_seen": "2026-11-11T14:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
