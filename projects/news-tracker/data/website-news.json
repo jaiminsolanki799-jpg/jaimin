@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T08:30:01+00:00",
+ "generated_at": "2026-11-18T09:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T08:30:01+00:00"
+   "checked_at": "2026-11-18T09:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-18T08:30:01+00:00"
+   "checked_at": "2026-11-18T09:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 18 Nov 2026 07:49:30 GMT",
+   "sample_date": "Wed, 18 Nov 2026 08:46:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T08:30:01+00:00"
+   "checked_at": "2026-11-18T09:00:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T08:30:01+00:00"
+   "checked_at": "2026-11-18T09:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
    "error": null,
-   "checked_at": "2026-11-18T08:30:01+00:00"
+   "checked_at": "2026-11-18T09:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "bc3f1e9fea2e1f12",
+   "title": "15 Effective Strategies to Promote Your SaaS Product on Black Friday 2026",
+   "link": "https://startuptalky.com/saas-black-friday-promotion-strategies/",
+   "summary": "Discover the top strategies to boost your SaaS sales on Black Friday and make the most of this shopping season. Learn how to maximize your SaaS business during this annual BFCM sales event.",
+   "published": "2026-11-18T08:46:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Abinaya Arangarajan",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/11/SaaS-Sales-Black-Friday-StartupTalky.png",
+   "topics": [],
+   "first_seen": "2026-11-18T09:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "6b029c27a5930953",
+   "title": "Kotak MF, BlackRock among investors buying Rs 1,905-Cr stake in Groww",
+   "link": "https://yourstory.com/2026/11/kotak-mf-blackrock-among-investors-buying-rs-1905-cr-stake-in-groww",
+   "summary": "The investors collectively purchased 8.70 crore equity shares, representing a 1.38% stake in Billionbrains Garage Ventures, the parent company of Groww, at an average price of Rs 219 apiece on Tuesday.",
+   "published": "2026-11-18T08:45:29+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T09:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "df2ac5661a9d402d",
+   "title": "Botsync raises $11M to expand industrial automation",
+   "link": "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation",
+   "summary": "Botsync has raised $11 million led by IvyCap Ventures to advance its AI-powered industrial automation platform, improve robotics capabilities and expand its presence in India and global markets.",
+   "published": "2026-11-18T08:43:48+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T09:00:03+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "adb20ae36e8eb8c3",
+   "title": "How HalfPe is building a marketplace for surplus inventory at 50% off",
+   "link": "https://yourstory.com/2026/11/how-halfpe-is-building-a-marketplace-for-surplus-inventory-at-50-off",
+   "summary": "Founded by serial entrepreneur Venu G Somineni, HalfPe connects retailers and brands with consumers looking for discounted products, using a seller-owned inventory model and AI-led operations. India's ecommerce platforms regularly offer discounts during sales and festivals. HalfPe.com is taking",
+   "published": "2026-11-18T08:38:25+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T09:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "6a5cdcf9d965fa79",
    "title": "Satya Nadella Addresses Microsoft's Voluntary Buyout Offers Amid Workforce Changes",
