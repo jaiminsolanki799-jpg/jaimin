@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T11:00:01+00:00",
+ "generated_at": "2026-11-18T11:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 16:14:43 +0530",
+   "sample_date": "Wed, 18 Nov 2026 16:36:08 +0530",
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 15:41:06 +0530",
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 16:18:05 +0530",
    "error": null,
-   "checked_at": "2026-11-18T11:00:01+00:00"
+   "checked_at": "2026-11-18T11:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "1c30ea3a6e3cc2cf",
+   "title": "Salesforce hit by fresh layoffs: Employees report bosses and colleagues losing jobs - What we know",
+   "link": "https://www.livemint.com/companies/news/salesforce-hit-by-fresh-layoffs-employees-report-bosses-and-colleagues-losing-jobs-what-we-know-11794997493328.html",
+   "summary": "Salesforce has reportedly begun another round of layoffs, with a senior manager, team members and employees' bosses among those affected. Here's what we know.",
+   "published": "2026-11-18T11:06:08+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/salesforce_1794999935069_ZnRE_1794999935198_HFCi_502fbec5-8481-49f9-8447-e42776c9d97e_K0RF.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T11:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "85d2502c3c95766d",
    "title": "Gratuity before 5 years of service: Check when employees qualify; Karnataka High Court ruling explained",
@@ -446,7 +464,7 @@
   },
   {
    "id": "f4379b16798489be",
-   "title": "Air India Express appoints CFO Deepak Rajawat as CEO amid ambitious fleet expansion plans: All you need to know",
+   "title": "Who is Deepak Rajawat? Former Vistara executive appointed Air India Express CEO amid ambitious fleet expansion plans",
    "link": "https://www.livemint.com/companies/news/air-india-express-names-cfo-deepak-rajawat-as-ceo-as-budget-carrier-bets-on-expansion-11794992207078.html",
    "summary": "Air India Express has appointed Deepak Rajawat, its current finance chief, as the budget carrier's chief executive officer.",
    "published": "2026-11-18T09:02:01+00:00",
@@ -11504,24 +11522,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Colette-Kress_1794499608418_kmDQ_1794499608552_4h8P_3aed2cd7-e6cd-4bd0-89f5-f9ffa25cce14_dBU3.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "69c62771506a9fd4",
-   "title": "Jensen Huang resigns: Meet the Nvidia board members who decided his fate after affair reports",
-   "link": "https://www.livemint.com/companies/people/jensen-huang-resigns-meet-the-nvidia-board-members-who-decided-his-fate-after-affair-reports-11794497815725.html",
-   "summary": "The Nvidia Corp. board of directors who met to decide Chief Executive Officer Jensen Huang’s fate ahead of his ouster on Thursday have a range of backgrounds, from running Taco Bell’s international operations to academic research involving a jellyfish.",
-   "published": "2026-11-12T15:57:07+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499252272_PsCN_1794499257559_uuDr_00b59dfd-1cb3-4a12-b844-b29a4e7ebdba_12ih.jpg",
    "topics": [],
    "first_seen": "2026-11-12T16:00:01+00:00",
    "valuation_score": 0,
