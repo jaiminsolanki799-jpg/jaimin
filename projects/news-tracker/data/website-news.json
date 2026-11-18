@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T20:30:02+00:00",
+ "generated_at": "2026-11-18T21:00:06+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:30:02+00:00"
+   "checked_at": "2026-11-18T21:00:06+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 16:29:26 GMT",
+   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:30:02+00:00"
+   "checked_at": "2026-11-18T21:00:06+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:30:02+00:00"
+   "checked_at": "2026-11-18T21:00:06+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:30:02+00:00"
+   "checked_at": "2026-11-18T21:00:06+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 20:07:01 +0000",
    "error": null,
-   "checked_at": "2026-11-18T20:30:02+00:00"
+   "checked_at": "2026-11-18T21:00:06+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
   {
    "id": "c082f0539baa9791",
@@ -88,6 +88,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-18T20:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "89dc61422b35766e",
+   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+   "published": "2026-11-18T20:07:01+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T21:00:06+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -9401,24 +9419,6 @@
    "category": "Tech",
    "date_known": true,
    "author": "Anthony Ha",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T21:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b3ef33af7be3ad69",
-   "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-   "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-   "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-   "published": "2026-11-08T21:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Lucas Ropek",
    "publisher": null,
    "image": null,
    "topics": [],
