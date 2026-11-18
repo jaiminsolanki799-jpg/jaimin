@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T12:00:01+00:00",
+ "generated_at": "2026-11-18T12:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 18 Nov 2026 11:01:42 GMT",
+   "sample_date": "Wed, 18 Nov 2026 11:44:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Wed, 18 Nov 2026 04:21:36 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 11:30:00 +0000",
+   "sample_date": "Wed, 18 Nov 2026 12:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "e7994a7921c0d7b5",
+   "title": "Karnataka picks 8 startups for government projects worth nearly Rs 2 crore",
+   "link": "https://yourstory.com/2026/11/karnataka-selects-eight-startups-for-government-first-initiative",
+   "summary": "Karnataka has picked eight startups to pilot solutions with government departments, with the Praja Seva Department and BWSSB committing projects worth nearly Rs 2 crore.",
+   "published": "2026-11-18T12:15:05+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c4eca6b9e0ee48eb",
+   "title": "5 Life-changing lessons from It's Okay by Jaya Kishori",
+   "link": "https://yourstory.com/2026/11/lessons-jaya-kishori",
+   "summary": "Discover 5 meaningful lessons from It's Okay by Jaya Kishori on accepting emotions, overcoming self-doubt, letting go and finding inner peace.",
+   "published": "2026-11-18T12:00:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "620756f297e99f3c",
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+   "published": "2026-11-18T12:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Jagmeet Singh",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a41feff87e925a98",
+   "title": "Black Friday Coupon Strategies for Startups: How to Boost Sales and Prevent Online Shopping Scams",
+   "link": "https://startuptalky.com/startups-black-friday-coupons-boost-sales-avoid-scams/",
+   "summary": "Learn how startups can boost Black Friday sales with smart coupon strategies, prevent online shopping scams, protect profit margins, and build customer trust.",
+   "published": "2026-11-18T11:44:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Singh Anusha",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2024/10/black-friday-guide-startups-coupon-strategies-avoid-pitfalls-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2dffe05ec4e9199a",
    "title": "Doom-scrolling detox: 7 Simple rules to reclaim your attention",

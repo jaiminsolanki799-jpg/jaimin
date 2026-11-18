@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T12:00:01+00:00",
+ "generated_at": "2026-11-18T12:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,18 +68,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 17:13:37 +0530",
+   "sample_date": "Wed, 18 Nov 2026 17:55:33 +0530",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 17:01:43 +0530",
+   "sample_date": "Wed, 18 Nov 2026 17:49:25 +0530",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 16:18:05 +0530",
+   "sample_date": "Wed, 18 Nov 2026 17:54:58 +0530",
    "error": null,
-   "checked_at": "2026-11-18T12:00:01+00:00"
+   "checked_at": "2026-11-18T12:30:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,70 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "d328a9d30fdc77a1",
+   "title": "Air India Express bets on Rajawat to turn growth into profits",
+   "link": "https://www.livemint.com/companies/news/air-india-express-bets-on-rajawat-to-turn-growth-into-profits-11795000954047.html",
+   "summary": "Air India Express's earlier CEO, Aloke Singh, left in March, and the budget carrier then appointed Captain Hamish Maxwell, the airline's chief operating officer, as its ‘accountable manager’",
+   "published": "2026-11-18T12:25:33+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Rajawat_1795004517077_KwY7_1795004517217_NVXd_5105d0f3-2444-4232-91dc-1068e842319a_f6qp.png",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cae4c76f6b99b2bc",
+   "title": "Making a will? Why a medical certificate can help",
+   "link": "https://www.livemint.com/money/personal-finance/making-a-will-why-a-medical-certificate-can-help-11794896060165.html",
+   "summary": "A contemporaneous medical assessment can help establish testamentary capacity, particularly for elderly testators, although it is not a legal requirement.",
+   "published": "2026-11-18T12:24:58+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/While-a-Will-is-perhaps-one-of-the-most-basic-elem_1686072640580_1794900907348_NQ0v_c881dbbd-51a5-4f17-b3a5-29ce3936609d_WkAl.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bcc860a6359121ac",
+   "title": "Crystal Crop Protection IPO 1-lot profit calculator basis GMP: What will the listing gains be if you get an allotment",
+   "link": "https://www.livemint.com/market/stock-market-news/crystal-crop-protection-ipo-1-lot-profit-calculator-basis-gmp-what-will-the-listing-gains-be-if-you-get-an-allotment-11794994698224.html",
+   "summary": "Crystal Crop Protection’s IPO was subscribed 1.15 times on its first day, led by demand from employees and retail investors. Its grey market premium of ₹18 suggests a potential listing price of ₹290, or a 6.62% premium to the upper issue price, but does not guarantee gains.",
+   "published": "2026-11-18T12:19:25+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Crystal_Crop_Protection_IPO_Update_1794748040703_4_1795004340752_A1wv_1795004340927_88kY_4ea1a9c3-50ed-40d3-9e47-b1fdb423c020_SZuO.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-18T12:30:03+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "654cb4d882db2011",
    "title": "Bombay HC quashes ICICI Bank’s sanction to prosecute ex-CEO Chanda Kochhar in Videocon loan case: What the court said",
@@ -11055,7 +11117,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
    "summary": "",
    "published": "2026-11-12T23:00:02+00:00",
-   "source": "ET Prime: Fintech & BFSI",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11466,64 +11528,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/217070_1794503811563_F9yS_1794503815604_KJ5l_92ffee38-ab33-4e12-b2b9-68ed4f9031ed_XiFz.jpg",
    "topics": [],
    "first_seen": "2026-11-12T17:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5238d9bf80c47649",
-   "title": "Paytm shares at ₹1,925, close in on IPO listing-day high after 100% rally from March lows. What drove the recovery?",
-   "link": "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
-   "summary": "Paytm shares rose 7.3% to ₹1,925, their highest close since listing in 2021, amid optimism that merchant discount rate charges could lift margins. The company reported September-quarter profit of ₹226 crore, while mutual fund ownership reached a record 21.17%.",
-   "published": "2026-11-12T16:49:29+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Paytm_1794492437914_idr7_1794492442081_7rFi_27de5e9c-9144-4306-aaa3-e61bf4ab7542_1XlZ.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-12T17:00:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
-  },
-  {
-   "id": "6a12064165483b16",
-   "title": "Laurus Labs, Gland Pharma, Piramal, Divi's Labs: 4 drug manufacturing stocks rally up to 89% in 6 months - Upside ahead?",
-   "link": "https://www.livemint.com/market/stock-market-news/laurus-labs-gland-pharma-piramal-divis-labs-4-drug-manufacturing-stocks-rally-up-to-90-in-6-months-more-upside-a-11794493778483.html",
-   "summary": "Pharma stocks, particularly CDMO companies, have surged over the past six months amid optimism about quarterly results. Laurus Labs led with an 88.64% gain, followed by Gland Pharma at 80.36%, Divi’s Laboratories at 72.35% and Piramal Pharma at 38.65%.&nbsp;",
-   "published": "2026-11-12T16:49:00+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Pharmaceutical_Stocks_Rally_Ahead_1794502071134_JBKb_1794502078991_euzJ_3031bf6d-ff1a-472e-8204-cb27bd8f8251_5OoC.png",
-   "topics": [],
-   "first_seen": "2026-11-12T17:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b6e9e3fe9b5c1495",
-   "title": "Jensen Huang resigns: From extramarital affairs to China links, how the Nvidia controversy unfolded | Timeline",
-   "link": "https://www.livemint.com/companies/news/jensen-huang-resigns-from-extramarital-affairs-to-china-links-how-the-nvidia-scandal-unfolded-timeline-11794499235145.html",
-   "summary": "The company's official statement doesn't mention the reason for Jensen's resignation. However, under Nvidia's bylaws, Huang can be removed 'with or without cause' by a majority vote of the directors, Reuters reported earlier.",
-   "published": "2026-11-12T16:16:30+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794503746793_lJTb_1794503752481_fbaA_c2b2d9cb-7b40-429b-b94f-a6542e84726c_nh6O.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T16:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
