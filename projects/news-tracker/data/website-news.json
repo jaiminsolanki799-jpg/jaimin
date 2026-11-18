@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T20:00:01+00:00",
+ "generated_at": "2026-11-18T20:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:00:01+00:00"
+   "checked_at": "2026-11-18T20:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
+   "sample_date": "Wed, 18 Nov 2026 16:29:26 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:00:01+00:00"
+   "checked_at": "2026-11-18T20:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:00:01+00:00"
+   "checked_at": "2026-11-18T20:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 33,
+   "items": 33,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T20:00:01+00:00"
+   "checked_at": "2026-11-18T20:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 19:56:39 +0000",
+   "sample_date": "Wed, 18 Nov 2026 20:07:01 +0000",
    "error": null,
-   "checked_at": "2026-11-18T20:00:01+00:00"
+   "checked_at": "2026-11-18T20:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "c082f0539baa9791",
+   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+   "published": "2026-11-18T20:07:01+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Amanda Silberling",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T20:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "93ec3dad35d6b3e6",
    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
@@ -236,6 +254,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-18T16:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b3590af50fbdd19f",
+   "title": "Humyn Labs",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yMjVrQmQydmlUbWVxMTl2cGlZdkhtSk1xNnZaRGRZdWtWdE9DVUNTWkZ0OW1iZzUxSFR2Y3hFWHVrTk55dXV6OUlkWVQ?oc=5",
+   "summary": "",
+   "published": "2026-11-18T16:06:38+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T20:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -9387,24 +9423,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-08T21:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "693c6c2136622b5b",
-   "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-   "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-   "summary": "Mystery solved: Coordinated power drops have been haunting power grids worldwide, but a team of researchers in Germany found the culprit.",
-   "published": "2026-11-08T20:30:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Tim De Chant",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T21:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
