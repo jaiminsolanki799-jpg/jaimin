@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T19:30:02+00:00",
+ "generated_at": "2026-11-18T20:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:30:02+00:00"
+   "checked_at": "2026-11-18T20:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
+   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:30:02+00:00"
+   "checked_at": "2026-11-18T20:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:30:02+00:00"
+   "checked_at": "2026-11-18T20:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:30:02+00:00"
+   "checked_at": "2026-11-18T20:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 19:29:41 +0000",
+   "sample_date": "Wed, 18 Nov 2026 19:56:39 +0000",
    "error": null,
-   "checked_at": "2026-11-18T19:30:02+00:00"
+   "checked_at": "2026-11-18T20:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,13 +71,31 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "93ec3dad35d6b3e6",
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+   "published": "2026-11-18T19:56:39+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T20:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "371d4074c9b59327",
    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
    "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-   "summary": "UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.",
+   "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
    "published": "2026-11-18T19:29:41+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -90,10 +108,9 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-11-18T19:30:02+00:00",
-   "valuation_score": 6,
+   "valuation_score": 4,
    "valuation_signals": [
-    "Valuation",
-    "Funding"
+    "Valuation"
    ]
   },
   {
@@ -9390,26 +9407,6 @@
    "first_seen": "2026-11-08T21:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "43fec1df2c7cc940",
-   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-   "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-   "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-   "published": "2026-11-08T19:51:30+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Anthony Ha",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T20:00:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "PE / VC"
-   ]
   }
  ]
 }
