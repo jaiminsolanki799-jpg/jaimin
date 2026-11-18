@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T18:30:02+00:00",
+ "generated_at": "2026-11-18T19:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,18 +13,18 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
    "url": "https://economictimes.indiatimes.com/prime/money-and-markets",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,18 +79,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,18 +101,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
    "url": "https://economictimes.indiatimes.com/prime/infrastructure",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "error": null,
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 22:38:58 +0530",
+   "sample_date": "Thu, 19 Nov 2026 00:12:31 +0530",
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 23:24:00 +0530",
+   "sample_date": "Thu, 19 Nov 2026 00:11:30 +0530",
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 23:15:05 +0530",
    "error": null,
-   "checked_at": "2026-11-18T18:30:02+00:00"
+   "checked_at": "2026-11-18T19:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,108 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 5,
  "items": [
+  {
+   "id": "e8037d43c767b21d",
+   "title": "Sell-Side Analysts Rip Short-Seller Report on Retailer Dynamite",
+   "link": "https://www.livemint.com/companies/sellside-analysts-rip-short-seller-report-on-retailer-dynamite-11795027352005.html",
+   "summary": "Several financial analysts fended off a negative report from short-seller Spruce Point Capital Management LLC about fast-fashion retailer Groupe Dynamite Inc.",
+   "published": "2026-11-18T18:42:31+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
+   "topics": [],
+   "first_seen": "2026-11-18T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d29d7c159a15dd00",
+   "title": "Wall Street Sees More Mega Debt Deals Using Paramount Blueprint",
+   "link": "https://www.livemint.com/market/wall-street-sees-more-mega-debt-deals-using-paramount-blueprint-11795027290809.html",
+   "summary": "Skydance Corp.’s $52 billion bond and loan sale is set to serve as a model for future jumbo credit financing, with Morgan Stanley predicting Wall Street will pull off even bigger deals using the unusual combination of investment-grade and junk-rated debt.",
+   "published": "2026-11-18T18:41:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "afc14ae8e6df5ac3",
+   "title": "Anthropic IPO set to raise $90.4 billion, could become biggest stock market debut ever",
+   "link": "https://www.livemint.com/market/anthropic-ipo-set-to-raise-90-4-billion-could-become-biggest-stock-market-debut-ever-11795025331762.html",
+   "summary": "Claude chatbot maker expects to price shares above the proposed range of $70-$78; IPO could give the AI company a valuation of nearly $1.4 trillion",
+   "published": "2026-11-18T18:40:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/anthropic_1795027020504_YQNa_1795027043313_01ae_54493d3a-ad39-4de7-ae8c-45e4b2fbaf7f_vYD0.jpg",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-18T19:00:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Valuation"
+   ]
+  },
+  {
+   "id": "52b98ae08a5f0907",
+   "title": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
+   "link": "https://www.livemint.com/market/anthropics-ipo-by-the-numbers-taking-on-spacex-s-record-debut-11795026863722.html",
+   "summary": "Anthropic PBC is preparing to price what could be the biggest IPO of all time, and the numbers are startling. The AI lab is set to challenge SpaceX for the record, which Elon Musk’s rocket and satellite firm claimed in June with a first-time share sale that rocked markets.",
+   "published": "2026-11-18T18:34:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-18T19:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "7ac8dc58044b5a33",
+   "title": "Explained | All about the Cambay offshore block at the centre of Vedanta chair Anil Agarwal's tiff with the govt",
+   "link": "https://www.livemint.com/companies/news/explained-all-about-the-cambay-offshore-block-at-the-centre-of-vedanta-chair-anil-agarwals-tiff-with-the-govt-11795005361713.html",
+   "summary": "Vedanta chairman Anil Agarwal has criticised the Centre's decision to transfer its producing Cambay offshore oil and gas block to ONGC, calling it a wrong signal to investors.",
+   "published": "2026-11-18T18:30:07+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/vedanta_1794983443839_f3yP_1794983463304_uwZK_a6811b97-afa8-430b-bcd4-e18d505afdbd_NdYM_1795006937122_KIlV_38f881e7-57f2-43c4-8504-90beea3ddf01_lJWm.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T19:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a0135f8dbffc15bf",
    "title": "US Stock Market: Nasdaq preparing to roll out 23-hour-a-day trading from this date – Key facts for investors",
@@ -11450,102 +11550,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/prediction_today_1794534036214_Y7Le_1794534036468_zjnS_11bbbe35-99c8-4a05-92cb-21c0c13e28a4_LLYQ.png",
    "topics": [],
    "first_seen": "2026-11-13T02:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "92418822c80effb3",
-   "title": "NVIDIA stock crash: Why did AMD, Broadcom shares rise up to 5% after Jensen Huang's exit? Experts' views",
-   "link": "https://www.livemint.com/market/stock-market-news/nvidia-stock-crash-why-did-amd-broadcom-shares-rise-up-to-5-after-jensen-huangs-exit-experts-views-11794530850114.html",
-   "summary": "NVIDIA stock crash: AMD shares climbed around 5.86%, while Broadcom advanced 5.54% during Thursday's trading session.",
-   "published": "2026-11-13T01:14:39+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/nvida_stock_1794532436733_HXAr_1794532436931_UMFP_5531b107-e7f8-421a-91de-48e97d306d7e_Bg2T.png",
-   "topics": [],
-   "first_seen": "2026-11-13T01:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "93fc5ab58df29c9f",
-   "title": "Microsoft outage drags on for five hours; 1.38 lakh Outlook complaints reported in US as disruption hits Teams, Copilot",
-   "link": "https://www.livemint.com/companies/news/microsoft-outage-drags-on-for-five-hours-disrupting-outlook-teams-and-copilot-for-thousands-across-us-11794530713402.html",
-   "summary": "A major Microsoft outage disrupted Outlook, Teams, Copilot and Microsoft 365 services for nearly five hours on Thursday, with over 1.38 lakh Outlook-related reports recorded in the US. The disruption also affected OpenAI and Anthropic connectors.",
-   "published": "2026-11-13T00:59:13+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/US-MICROSOFT-OUTAGE-TAKES-DOWN-OUTLOOK-EMAIL-AND-O_1794545133933_VhQK_1794545134090_xnA8_0fbcf64a-3cb1-40ba-bc79-8fe450d8680a_UmZd.jpg",
-   "topics": [],
-   "first_seen": "2026-11-13T01:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "232302fb3cc4660e",
-   "title": "Blackstone emerges frontrunner to buy Actis-owned BluPine at $1.8 billion valuation",
-   "link": "https://www.livemint.com/companies/news/blackstone-blupine-energy-acquisition-deal-11794486377121.html",
-   "summary": "For Blackstone, the acquisition deal for BluPine Energy, comes at a time when it has stepped up efforts to build a large infrastructure portfolio in India.",
-   "published": "2026-11-13T00:30:47+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/im-853406_1695059423377_1794493417358_Mo7z_1cdb2ae1-8216-4525-a5af-a2e110e710c5_qkiE.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-13T01:00:01+00:00",
-   "valuation_score": 10,
-   "valuation_signals": [
-    "Valuation",
-    "M&A",
-    "PE / VC"
-   ]
-  },
-  {
-   "id": "a74083ed0657301a",
-   "title": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south",
-   "link": "https://www.livemint.com/companies/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trump-s-trade-war-shifts-production-south-11794525758793.html",
-   "summary": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south",
-   "published": "2026-11-12T23:22:38+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-   "topics": [],
-   "first_seen": "2026-11-12T23:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "965e3988aa4349b8",
-   "title": "How India’s INR22.5 lakh crore gold loan boom is hiding a big hole",
-   "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
-   "summary": "",
-   "published": "2026-11-12T23:00:02+00:00",
-   "source": "ET Prime: Fintech & BFSI",
-   "group": "ET Prime",
-   "category": "Fintech & BFSI",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-12T23:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
