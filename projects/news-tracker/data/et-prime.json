@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T09:30:01+00:00",
+ "generated_at": "2026-11-18T10:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 6,
-   "items": 3,
-   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 429",
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 14:51:43 +0530",
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 14:44:37 +0530",
+   "sample_date": "Wed, 18 Nov 2026 15:11:06 +0530",
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 14:44:38 +0530",
+   "sample_date": "Wed, 18 Nov 2026 14:59:39 +0530",
    "error": null,
-   "checked_at": "2026-11-18T09:30:01+00:00"
+   "checked_at": "2026-11-18T10:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,82 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "2296538c12c812f6",
+   "title": "Infosys share price: Lost 1/4th investor wealth in 1 year, should you still buy the IT major? Check target, stop loss",
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-share-price-lost-1-4th-investor-wealth-in-1-year-should-you-still-buy-the-it-major-check-target-stop-loss-11794991373495.html",
+   "summary": "Infosys shares have fallen sharply over the past year. Monarch Networth Capital sees a potential reversal around long-term support and recommends accumulating shares, with a target of ₹1,400–1,550 and a closing-basis stop loss below ₹980.",
+   "published": "2026-11-18T09:41:06+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Infosys_Shares_Fall__Buy_Now__1794994788867_nUMj_1794994799286_K8o6_4313165b-6a86-4a8b-bfb0-0b4f17f4b229_Anh5.png",
+   "topics": [],
+   "first_seen": "2026-11-18T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b93bf7898cc36a08",
+   "title": "V2 Retail slides 15% to 2-year low, then stages sharp rebound. What's driving the wild swings in this beaten-down stock?",
+   "link": "https://www.livemint.com/market/stock-market-news/v2-retail-slides-15-to-2-year-low-then-stages-sharp-rebound-whats-driving-the-wild-swings-in-this-beaten-down-stock-11794991059575.html",
+   "summary": "V2 Retail’s September-quarter net profit rose 5.7% year on year to ₹18.21 crore, while revenue increased to ₹905.59 crore. Expenses climbed 28.24%, and festival-normalised same-store sales growth was 0.5%. The retailer added 46 net stores, taking its total to 427.",
+   "published": "2026-11-18T09:34:57+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Stock_market_fall_1762483406349_1762483411914_1794_1794991728342_21Ey_1794991728635_B7eW_81e37d16-e0e8-4abe-a89e-01744685ae20_XtWh.png",
+   "topics": [],
+   "first_seen": "2026-11-18T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3bc9777a96a8e266",
+   "title": "Cummins faces a double whammy of cost inflation and lag effect of price hikes",
+   "link": "https://www.livemint.com/market/mark-to-market/cummins-india-margin-pressure-cost-inflation-price-hikes-data-centres-power-generation-11794991370304.html",
+   "summary": "Cost inflation and execution of older orders are squeezing Cummins India’s margins, even as data-centre demand remains strong and price hikes begin to work their way through the order book.",
+   "published": "2026-11-18T09:31:00+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/cummins-kIYD--621x414LiveMint_1794992868722_nNQH_1794992868970_XTAj_69216cf3-a8df-4574-85b8-ac8ce1ca4633_rv9e.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T10:00:01+00:00",
+   "valuation_score": 2,
+   "valuation_signals": [
+    "Rates & macro"
+   ]
+  },
+  {
+   "id": "581485dd8c1ba04d",
+   "title": "Gurugram restaurant adds 10% service charge to bill: Customer takes legal action; know who wins case, what you can do",
+   "link": "https://www.livemint.com/money/personal-finance/gurugram-restaurant-adds-10-service-charge-to-bill-customer-takes-legal-action-know-who-wins-case-what-you-can-do-11794990425190.html",
+   "summary": "Can a restaurant force you to pay a service charge despite your objection? A Gurugram consumer's case highlights your rights under CCPA guidelines and the steps you can take if a restaurant refuses to remove the charge.",
+   "published": "2026-11-18T09:29:39+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Restaurant_Bill_and_Consumer_Rights_1794992866893_hzBY_1794992871781_12zC_bc3574eb-17bf-47c7-b517-1f23e048462a_I1nv.png",
+   "topics": [],
+   "first_seen": "2026-11-18T10:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "ed9cf5e183fd5c72",
    "title": "Qualcomm India restructuring job losses: CEO says layoffs ‘performance-based’, but 47% of employees allege favouritism",
@@ -234,7 +308,7 @@
   },
   {
    "id": "62dea480c511dda1",
-   "title": "Mahanadi Coalfields IPO: GMP signals over 2% listing gain; how much profit can investors make? All you need to know",
+   "title": "Mahanadi Coalfields IPO one lot profit calculator on GMP: What’s expected listing gains for investors?",
    "link": "https://www.livemint.com/market/stock-market-news/mahanadi-coalfields-ipo-gmp-signals-over-2-listing-gain-how-much-profit-can-investors-make-all-you-need-to-know-11794991498077.html",
    "summary": "Mahanadi Coalfields’ ₹8,981-crore IPO will open on 19 November and close on 23 November, with shares priced at ₹129–136. The all-OFS issue will see Coal India sell a 10% stake. Current grey-market trends imply a potential 2.21% listing gain, though actual returns may differ.",
    "published": "2026-11-18T09:14:37+00:00",
@@ -11449,78 +11523,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Image_4_1736501707060_1794493666107_IjF4_c14519d7-11b6-40dc-a81e-b1ced5c543ef_UaeH.jpg",
    "topics": [],
    "first_seen": "2026-11-12T15:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5cfa54313faa0f19",
-   "title": "Vodafone Idea’s Q2 performance misses expectations",
-   "link": "https://www.livemint.com/companies/company-results/vodafone-idea-s-q2-performance-misses-expectations-funding-telecom-operator-11794490596377.html",
-   "summary": "&nbsp;Vodafone Idea’s net loss widened to ₹5,975 crore in Q2 from ₹5,562 crore a year ago, missing Bloomberg's estimate of ₹5,263 crore, even as it arranged over ₹4,000 crore in incremental bank funding during the quarter.",
-   "published": "2026-11-12T14:21:26+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1794492968493_8tPv_ef18a04d-fd5a-4561-80d1-52e5aa4ea06c_3HoV.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T14:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "57c8e1113fa38cc4",
-   "title": "Who is Colette Kress? From Microsoft and Cisco to Nvidia's interim CEO after Huang's resignation — her career, education",
-   "link": "https://www.livemint.com/companies/people/who-is-colette-kress-from-microsoft-and-cisco-to-nvidias-interim-ceo-her-career-and-education-11794492511413.html",
-   "summary": "Kress will continue to serve as Nvidia's executive vice president and CFO alongside her interim CEO responsibilities until a permanent replacement is appointed.",
-   "published": "2026-11-12T14:17:27+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/ColetteKress_1794492911011_IZDD_1794492921505_OfTy_8de541fe-1783-4a8a-acde-3e9fbd6d2f17_NaLe.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T14:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b52832dc4eebd049",
-   "title": "Jensen Huang, face of the AI boom, ousted as Nvidia CEO after multiple affairs",
-   "link": "https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-11794491910708.html",
-   "summary": "Nvidia CFO Colette Kress will take over as interim CEO. Harvey Jones, who previously led Synopsys, has been named chairman.",
-   "published": "2026-11-12T14:00:18+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Jensen-Huang_1794495610288_cBQu_1794495610423_CWYB_e1a6208a-7240-4327-870e-561358ea8f07_Fm2f.JPG",
-   "topics": [],
-   "first_seen": "2026-11-12T14:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a8a797fcb317c942",
-   "title": "Nvidia CEO Jensen Huang resigns, tech giant appoints Colette Kress as Interim CEO",
-   "link": "https://www.livemint.com/companies/news/nvidia-ceo-jensen-huang-resigns-tech-giant-appoints-colette-kress-as-interim-ceo-report-11794491647631.html",
-   "summary": "Nvidia co-founder Jensen Huang has stepped down as CEO, president and board member amid reports of alleged extramarital affairs, including one with a businesswoman suspected by US authorities of ties to Chinese intelligence. Details here.",
-   "published": "2026-11-12T13:55:53+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499273211_GY2t_1794499278234_AtTa_f1ad8aaa-df43-443f-8b85-f90d7f4f2bc3_qhK3.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T14:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
