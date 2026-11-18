@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T06:30:07+00:00",
+ "generated_at": "2026-11-18T07:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:30:07+00:00"
+   "checked_at": "2026-11-18T07:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
+   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:30:07+00:00"
+   "checked_at": "2026-11-18T07:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 18 Nov 2026 05:44:00 GMT",
+   "sample_date": "Wed, 18 Nov 2026 06:56:45 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:30:07+00:00"
+   "checked_at": "2026-11-18T07:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:30:07+00:00"
+   "checked_at": "2026-11-18T07:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
    "error": null,
-   "checked_at": "2026-11-18T06:30:07+00:00"
+   "checked_at": "2026-11-18T07:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "4ef8941374a8e18f",
+   "title": "US Polo Assn Eyes $4 Billion Global Revenue, Counts on India for Growth",
+   "link": "https://startuptalky.com/news/us-polo-assn-eyes-4-billion-global-revenue/",
+   "summary": "US Polo Assn plans to reach $4 billion in global sales in the next five to eight years, with India set to be a key growth driver. The brand’s consumer sales in India are expected to touch INR 4,000 crore on the back of growing retail operations and increased online demand.",
+   "published": "2026-11-18T06:56:45+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/us-polo-assn-eyes-4-billion-global-revenue-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T07:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "bbca502b25fb5f0f",
+   "title": "Nike Sets Ambitious Goal to Triple India Revenue in Five Years, Expands Cricket Focus",
+   "link": "https://startuptalky.com/news/nike-sets-ambitious-goal-to-triple-india-revenue/",
+   "summary": "Nike has set a target to quadruple its business in India in the next five years, making it a key growth and manufacturing hub. The sportswear behemoth is ramping up its focus on cricket through product innovation, grassroots programs and a multi-year collaboration with the Mumbai Indians.",
+   "published": "2026-11-18T06:23:02+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/nike-sets-ambitious-goal-to-triple-india-revenue-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T07:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7405996c95845574",
    "title": "Black Friday and Cyber Monday 2026: BFCM Marketing Strategies for Small Businesses",
