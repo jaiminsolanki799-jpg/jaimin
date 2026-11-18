@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T00:00:03+00:00",
+ "generated_at": "2026-11-18T00:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Tue, 17 Nov 2026 11:38:55 GMT",
    "error": null,
-   "checked_at": "2026-11-18T00:00:03+00:00"
+   "checked_at": "2026-11-18T00:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
+   "sample_date": "Tue, 17 Nov 2026 05:47:08 GMT",
    "error": null,
-   "checked_at": "2026-11-18T00:00:03+00:00"
+   "checked_at": "2026-11-18T00:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 16:14:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T00:00:03+00:00"
+   "checked_at": "2026-11-18T00:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 28,
    "sample_date": "Mon, 16 Nov 2026 12:08:49 GMT",
    "error": null,
-   "checked_at": "2026-11-18T00:00:03+00:00"
+   "checked_at": "2026-11-18T00:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 23:37:48 +0000",
+   "sample_date": "Wed, 18 Nov 2026 00:16:50 +0000",
    "error": null,
-   "checked_at": "2026-11-18T00:00:03+00:00"
+   "checked_at": "2026-11-18T00:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "83a48772429ae199",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+   "published": "2026-11-18T00:16:50+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Julie Bort",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T00:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d3a2efc316771890",
+   "title": "Stripe backer Atomico calls for Europe to own its success stories",
+   "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+   "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+   "published": "2026-11-18T00:01:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Anna Heim",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T00:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "28509d8a3a743ac7",
    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
