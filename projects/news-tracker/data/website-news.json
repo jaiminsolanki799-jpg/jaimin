@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T14:30:01+00:00",
+ "generated_at": "2026-11-18T15:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T14:30:01+00:00"
+   "checked_at": "2026-11-18T15:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
+   "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
    "error": null,
-   "checked_at": "2026-11-18T14:30:01+00:00"
+   "checked_at": "2026-11-18T15:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T14:30:01+00:00"
+   "checked_at": "2026-11-18T15:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Wed, 18 Nov 2026 04:21:36 GMT",
    "error": null,
-   "checked_at": "2026-11-18T14:30:01+00:00"
+   "checked_at": "2026-11-18T15:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 13:00:00 +0000",
+   "sample_date": "Wed, 18 Nov 2026 14:55:13 +0000",
    "error": null,
-   "checked_at": "2026-11-18T14:30:01+00:00"
+   "checked_at": "2026-11-18T15:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "9610a86cb8015f07",
+   "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+   "link": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+   "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+   "published": "2026-11-18T14:55:13+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Zack Whittaker",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T15:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fe2839300cd43f9f",
+   "title": "PhysicsWallah targets over Rs 9,000 Cr revenue by FY30",
+   "link": "https://yourstory.com/2026/11/physicswallah-targets-over-rs-9000-cr-revenue-by-fy30",
+   "summary": "At its first Investor Day in Mumbai on November 18, the company targeted average annual revenue growth of about 25% or more between FY27 and FY30 and a pre-Ind AS EBITDA margin above 20%.",
+   "published": "2026-11-18T14:22:35+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Audit / accounting"
+   ],
+   "first_seen": "2026-11-18T15:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eeebe62ab84bda0f",
    "title": "India Keeps 162.5% Tariff on Bulk Scotch Whisky Imports Despite UK Trade Agreement",
@@ -9257,24 +9295,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-08T17:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "9164bb8caa444268",
-   "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-   "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-   "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-   "published": "2026-11-08T15:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Amanda Silberling",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T15:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
