@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T15:30:02+00:00",
+ "generated_at": "2026-11-18T16:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 20:08:45 +0530",
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 20:34:16 +0530",
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 20:48:28 +0530",
+   "sample_date": "Wed, 18 Nov 2026 20:58:58 +0530",
    "error": null,
-   "checked_at": "2026-11-18T15:30:02+00:00"
+   "checked_at": "2026-11-18T16:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0286bf11e84d1d2a",
+   "title": "NEFT transfer limit: How much money can you transfer in a day? Check RBI rules, charges and settlement time",
+   "link": "https://www.livemint.com/money/personal-finance/neft-transfer-limit-how-much-money-can-you-transfer-in-a-day-check-rbi-rules-charges-and-settlement-time-11795010389543.html",
+   "summary": "The RBI has not prescribed an upper limit for NEFT transfers, but banks can impose their own restrictions; cash-based remittances are capped at ₹50,000 per transaction.",
+   "published": "2026-11-18T15:28:58+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/neft_1795011781740_SbW8_1795011803687_9RFu_5d174ff2-8ede-49a6-8ddf-611a76d3c87f_KWud.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-18T16:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "33e086f97f033476",
    "title": "India’s youngest demat account holder is 6 days old: SEBI rules for opening accounts for minors",
@@ -11534,24 +11554,6 @@
    "valuation_signals": [
     "Rates & macro"
    ]
-  },
-  {
-   "id": "7a75143c8c8bb98b",
-   "title": "Rail Vikas Nigam in focus today after mixed Q2 performance; stock down 68% from record peak",
-   "link": "https://www.livemint.com/market/rail-vikas-nigam-in-focus-today-after-mixed-q2-performance-stock-down-68-from-record-peak-11794506076322.html",
-   "summary": "Rail Vikas Nigam reported Q2 FY27 net profit growth of 10% to ₹253.71 crore, despite an 8.24% revenue decline. Operating profit rose 19.51%. For H1, net profit increased 13.25% and operating profit surged 62.29%, while revenue was nearly flat.",
-   "published": "2026-11-12T18:43:08+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/2-0-1473714797-DSC-8963-0_1679918732945_1794507007491_rwn0_a3980e71-21b3-4c94-9eff-65b99810621a_hbOX.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T19:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
