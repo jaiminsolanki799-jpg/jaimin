@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T21:00:06+00:00",
+ "generated_at": "2026-11-18T21:30:06+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T21:00:06+00:00"
+   "checked_at": "2026-11-18T21:30:06+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
+   "sample_date": "Wed, 18 Nov 2026 08:43:48 GMT",
    "error": null,
-   "checked_at": "2026-11-18T21:00:06+00:00"
+   "checked_at": "2026-11-18T21:30:06+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T21:00:06+00:00"
+   "checked_at": "2026-11-18T21:30:06+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 30,
+   "items": 30,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T21:00:06+00:00"
+   "checked_at": "2026-11-18T21:30:06+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 20:07:01 +0000",
    "error": null,
-   "checked_at": "2026-11-18T21:00:06+00:00"
+   "checked_at": "2026-11-18T21:30:06+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 5,
  "items": [
   {
    "id": "c082f0539baa9791",
@@ -9405,24 +9405,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-08T22:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bc55171edc52873b",
-   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-   "summary": "In a memo to the company, Huang admitted that he had an affair.",
-   "published": "2026-11-08T21:00:11+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Anthony Ha",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T21:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
