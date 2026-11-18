@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T07:00:01+00:00",
+ "generated_at": "2026-11-18T07:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:00:01+00:00"
+   "checked_at": "2026-11-18T07:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:00:01+00:00"
+   "checked_at": "2026-11-18T07:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 06:56:45 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:00:01+00:00"
+   "checked_at": "2026-11-18T07:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:00:01+00:00"
+   "checked_at": "2026-11-18T07:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
    "error": null,
-   "checked_at": "2026-11-18T07:00:01+00:00"
+   "checked_at": "2026-11-18T07:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "b42d149dac0bad1e",
+   "title": "GTA 6 is here: Everything Indian players need to know",
+   "link": "https://yourstory.com/2026/11/gta-6-is-here-everything-indian-players-need-to-know",
+   "summary": "The biggest game launch in years arrives on 19 November. Here is what it costs in India, what you need to play it, and what is still unclear.",
+   "published": "2026-11-18T07:08:36+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "233f9743d4edfe5b",
+   "title": "Fatehpuria Hygiene raises Rs 100 Cr in maiden equity round led by Madhu Kela",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzk4anhhWVltVWJFeVlzQktQR2pzVzByMnV6aXV2U3dnSGNLREh6U2RMaHh5aE9BVmEtMXdVdXhlaWpZdU53RjVETUNwSkV1MnhxTElTV0NTdUNRMmY3YWlmTVRqYjAwVXM0cTQwN2dtSUFZdUpSZ0dIVFJnZGhzY3pYY3EtaUEyM0tvMzBxUHRLUlJ0MDVoNUtaSTV0d2hzWjJ3ZVNORHZQMFVxVHVyLdIBsAFBVV95cUxOMzk4anhhWVltVWJFeVlzQktQR2pzVzByMnV6aXV2U3dnSGNLREh6U2RMaHh5aE9BVmEtMXdVdXhlaWpZdU53RjVETUNwSkV1MnhxTElTV0NTdUNRMmY3YWlmTVRqYjAwVXM0cTQwN2dtSUFZdUpSZ0dIVFJnZGhzY3pYY3EtaUEyM0tvMzBxUHRLUlJ0MDVoNUtaSTV0d2hzWjJ3ZVNORHZQMFVxVHVyLQ?oc=5",
+   "summary": "",
+   "published": "2026-11-18T07:03:00+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T07:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "b0caaac8b4105660",
+   "title": "Nvidia chair says no plan to reinstate Jensen Huang as CEO",
+   "link": "https://yourstory.com/2026/11/nvidia-chair-says-no-plan-to-reinstate-jensen-huang-as-ceo",
+   "summary": "Late on Tuesday, in his first public statement since resigning, Huang said in a post on X that he would be honoured to return as CEO if the board decided it was in the company’s best interest. He also acknowledged making serious mistakes in his personal life.",
+   "published": "2026-11-18T06:58:44+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4ef8941374a8e18f",
    "title": "US Polo Assn Eyes $4 Billion Global Revenue, Counts on India for Growth",
