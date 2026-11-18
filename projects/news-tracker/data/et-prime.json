@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T07:30:01+00:00",
+ "generated_at": "2026-11-18T08:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 8,
-   "items": 4,
-   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 429",
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 12:29:04 +0530",
+   "sample_date": "Wed, 18 Nov 2026 13:21:23 +0530",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 12:38:06 +0530",
+   "sample_date": "Wed, 18 Nov 2026 13:26:26 +0530",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 12:54:40 +0530",
+   "sample_date": "Wed, 18 Nov 2026 13:13:31 +0530",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "fba6d48b6c68480a",
+   "title": "Titan, Kalyan Jewellers, PC Jeweller fall up to 5%: Why are jewellery stocks losing shine despite lower gold prices?",
+   "link": "https://www.livemint.com/market/titan-kalyan-jewellers-pc-jeweller-fall-up-to-5-why-are-jewellery-stocks-losing-shine-despite-lower-gold-prices-11794985842518.html",
+   "summary": "Jewellery stocks including Titan and Kalyan Jewellers fell on Wednesday, despite lower gold prices potentially making purchases more affordable. Investors worried shoppers might delay buying in anticipation of further price declines.&nbsp;",
+   "published": "2026-11-18T07:56:26+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Jewellery_Stocks_1794986368644_lwvD_1794986374016_509T_73750a62-7002-40cc-a4ee-8811d3f4a31f_IbGq.png",
+   "topics": [],
+   "first_seen": "2026-11-18T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "731d08f53bfc2d13",
+   "title": "Tata Steel's 40 mtpa domestic capacity target slips by upto five years",
+   "link": "https://www.livemint.com/companies/news/tata-steel-40-million-tonne-capacity-target-delayed-to-2035-11794982739586.html",
+   "summary": "The steelmaker expects to reach its domestic capacity target three to five years late, while seeking government support to fund its green steel transition in the Netherlands.",
+   "published": "2026-11-18T07:51:23+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/INDIA-TATA-STEEL--0_1794988084279_7btB_1794988097327_NQAp_5f38a11e-7f32-4203-a36c-2f6f45ff70d4_Lyc3.JPG",
+   "topics": [],
+   "first_seen": "2026-11-18T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "7349d2c965e1823c",
+   "title": "India’s earnings recovery could put large-caps back in favour",
+   "link": "https://www.livemint.com/money/personal-finance/india-stock-market-outlook-earnings-growth-largecap-vs-midcap-11794975842223.html",
+   "summary": "Corporate earnings are recovering even as global risks unsettle sentiment. The shift could favour Indian large-caps, but investors should keep valuations, risks and asset allocation in view.",
+   "published": "2026-11-18T07:43:31+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/pexels-photo-186464_1794985088527_WS4r_1794985101599_vfIf_31f0bafb-ac27-4c25-b65a-e53f456fe9ce_trdZ.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-18T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "bbeea060b5750774",
    "title": "Luxury for less: do hotel memberships really pay off?",
@@ -11457,65 +11511,6 @@
    "first_seen": "2026-11-12T12:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "4b5c7e713a6970c2",
-   "title": "UPI MDR rollout after Diwali: What it means for Paytm, MobiKwik and Pine Labs | What investors should know",
-   "link": "https://www.livemint.com/market/stock-market-news/upi-mdr-rollout-after-diwali-what-it-means-for-paytm-mobikwik-and-pine-labs-what-investors-should-know-11794477959612.html",
-   "summary": "A new MDR framework for some UPI merchant payments could give payment companies a recurring revenue stream, replacing reliance on discretionary incentives. Eligible transactions above ₹2,000 will generally attract a 0.4% fee, subject to caps and exemptions.",
-   "published": "2026-11-12T11:49:09+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/UPI_Payments_and_Digital_Growth_1794480301403_FVVS_1794480325032_5FDs_8f31e031-9563-40c4-a877-3aca35027efe_QgbI.png",
-   "topics": [],
-   "first_seen": "2026-11-12T12:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f5777bdc57c3f9bb",
-   "title": "Foxconn forecasts ‘double-digit’ 2027 revenue growth; Chairman Young Liu says ‘AI will be most important growth driver’",
-   "link": "https://www.livemint.com/companies/news/foxconn-forecasts-double-digit-2027-revenue-growth-chairman-young-liu-says-ai-will-be-most-important-growth-driver-11794479750810.html",
-   "summary": "Hon Hai, also know as Foxconn, expects double-digit revenue growth in 2027, citing strong demand for AI servers and networking equipment. Chairman Young Liu called AI the company’s biggest growth engine.&nbsp;",
-   "published": "2026-11-12T11:38:14+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Untitled_Design_1794482669827_9xhL_1794482673499_WXD5_8acceb1e-5364-47bf-844e-085d24b73eda_GqDi.png",
-   "topics": [],
-   "first_seen": "2026-11-12T12:00:03+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
-  },
-  {
-   "id": "7e19a36fdfd8a063",
-   "title": "Maritime PSU face-off: SCI vs GRSE - Which PSU stock to buy after Q2 results? Profit, dividend, and technical targets",
-   "link": "https://www.livemint.com/market/stock-market-news/maritime-psu-face-off-shipping-corporation-vs-garden-reach-stock-to-buy-q2-results-profit-dividend-technical-target-11794482491171.html",
-   "summary": "Shipping Corporation of India’s Q2 FY27 net profit rose 205% to ₹577.76 crore, while Garden Reach Shipbuilders &amp; Engineers’ profit increased 12% to ₹172 crore. Both PSU stocks rallied recently, with analysts noting recovery signals in SCI and potential fresh-entry opportunities in GRSE.",
-   "published": "2026-11-12T11:29:39+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/agag_1794482909693_nJK2_1794482928332_MdxB_cf63d761-88fa-49ac-b907-780273232224_hiki.png",
-   "topics": [],
-   "first_seen": "2026-11-12T12:00:03+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Buyback & payout",
-    "Results"
-   ]
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T07:30:01+00:00",
+ "generated_at": "2026-11-18T08:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
+   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 18 Nov 2026 06:56:45 GMT",
+   "sample_date": "Wed, 18 Nov 2026 07:49:30 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
    "error": null,
-   "checked_at": "2026-11-18T07:30:01+00:00"
+   "checked_at": "2026-11-18T08:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "6a5cdcf9d965fa79",
+   "title": "Satya Nadella Addresses Microsoft's Voluntary Buyout Offers Amid Workforce Changes",
+   "link": "https://startuptalky.com/news/satya-nadella-addresses-microsofts-voluntary-buyout-offers/",
+   "summary": "Microsoft CEO Satya Nadella said the company's VEO intends to provide employees more control over their career and financial future as technology demands evolve. Microsoft is changing its workforce and expanding its attention to areas such as AI and more.",
+   "published": "2026-11-18T07:49:30+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/satya-nadella-addresses-microsofts-voluntary-buyout-offers-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T08:00:01+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "M&A"
+   ]
+  },
+  {
+   "id": "0b262cb149342b24",
+   "title": "FirstClub reports Rs 64 Cr revenue and Rs 97 Cr loss in FY26",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2Z6WGE2bHltLUtuQ09CSWo2OGRLS0RFcHQtUElGR2k5OV9HLXoyd0I2UmR2cGRmZGtfeFMtaEtBWE1OVjQwS0w2ZFVDWTZJUDc4aHkydUZJMHhBQnZfYTNLbWxSM2ppYXRKU0thWkdUSm40SVZWM1ppandFSU8wYTl3ZGxWRGtNY0VyWGx4QmpaZmRWOGRiN2xmeGllaDktcUHSAaIBQVVfeXFMTl9melhhNmx5bS1LbkNPQklqNjhkS0tERXB0LVBJRkdpOTlfRy16MndCNlJkdnBkZmRrX3hTLWhLQVhNTlY0MEtMNmRVQ1k2SVA3OGh5MnVGSTB4QUJ2X2EzS21sUjNqaWF0SlNLYVpHVEpuNElWVjNaaWp3RUlPMGE5d2RsVkRrTWNFclhseEJqWmZkVjhkYjdsZnhpZWg5LXFB?oc=5",
+   "summary": "",
+   "published": "2026-11-18T07:34:11+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T08:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b42d149dac0bad1e",
    "title": "GTA 6 is here: Everything Indian players need to know",
