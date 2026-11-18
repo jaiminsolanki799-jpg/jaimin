@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T04:00:02+00:00",
+ "generated_at": "2026-11-18T04:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 4,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 09:06:40 +0530",
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 09:00:17 +0530",
+   "sample_date": "Wed, 18 Nov 2026 09:43:33 +0530",
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 08:33:20 +0530",
+   "sample_date": "Wed, 18 Nov 2026 09:35:01 +0530",
    "error": null,
-   "checked_at": "2026-11-18T04:00:02+00:00"
+   "checked_at": "2026-11-18T04:30:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,44 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "2c73e2c545db8065",
+   "title": "IIFL Finance share price: NBFC stock jumps 6% after ₹3,454 cr block deal: Why is Fairfax selling entire 13.25% stake?",
+   "link": "https://www.livemint.com/market/stock-market-news/iifl-finance-share-price-nbfc-stock-jumps-6-after-rs-3-454-cr-block-deal-why-is-fairfax-selling-entire-13-25-stake-11794973879183.html",
+   "summary": "Fairfax Financial reportedly sold its entire 13.25% stake in IIFL Finance for about ₹3,454 crore, with shares rising as much as 6.4% after news of the block deal. The sale is expected to help fund Fairfax’s proposed acquisition of a 60.72% stake in IDBI Bank.",
+   "published": "2026-11-18T04:13:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/IIFL_Finance_Shares_Surge_1794975172953_Iak0_1794975181997_pQA5_df39ba18-0a63-415a-9906-1647fab081e7_ThnK.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-18T04:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c8317a760d8e3de7",
+   "title": "Gold, silver prices today 18 Nov Wednesday: Check 24K, 22K yellow metal and 999 silver rates in Delhi, Mumbai, Kolkata",
+   "link": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-18-nov-wednesday-check-24k-22k-yellow-metal-and-999-silver-rates-in-delhi-mumbai-kolkata-11794971252018.html",
+   "summary": "Gold and silver prices fell on 18 November, with yellow metal hovering near a 14-month low and silver extending its losses. Check the latest retail rates for 24K and 22K gold, 999-purity silver, and 925 sterling silver in your city.",
+   "published": "2026-11-18T04:05:01+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/gold_cc_1794972089143_5zJL_1794972101251_5bp4_f36e4b90-52fc-4796-a9b8-4d2b8c99d34c_297i.png",
+   "topics": [],
+   "first_seen": "2026-11-18T04:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "889809d018933d83",
    "title": "‘I would not hire an outsider’: Jeff Bezos on why Nvidia should look within to replace Jensen Huang as next CEO",
@@ -11485,47 +11523,6 @@
     "Valuation / M&A"
    ],
    "first_seen": "2026-11-12T09:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0d9fd59de95d441e",
-   "title": "Down 27% in six months! This power stock could rally 36%, says ICICI Direct - Do you own it? Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/down-27-in-six-months-this-power-stock-could-rally-36-says-icici-direct-do-you-own-check-target-price-11794470175551.html",
-   "summary": "CESC shares swung sharply during Thursday's trading as volume surged, while the stock remained down nearly 28% over six months. ICICI Direct maintained a Buy rating with a ₹176 target, citing growth prospects and renewable energy expansion, including a 1.5 GWp portfolio acquisition.",
-   "published": "2026-11-12T08:57:02+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/CESC_Share_Price_Outlook_Graphic_1794473785927_7x9f_1794473793040_ycvq_c7b6e31c-9911-4e14-82ec-95a10488bb9f_XQ0t.png",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-12T09:30:01+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "Valuation",
-    "M&A"
-   ]
-  },
-  {
-   "id": "be9c83a9b9661dc1",
-   "title": "DA hike pending arrears payment process: How money will be paid after states increased dearness allowance on Diwali",
-   "link": "https://www.livemint.com/money/da-hike-pending-arrears-payment-process-how-money-will-be-paid-employees-after-states-increase-dearness-allowance-diwali-11794469953318.html",
-   "summary": "The Centre raised dearness allowance and relief by 3 percentage points, from 60% to 63%, effective July 1, benefiting over 1 crore employees and pensioners. Several states also announced increases and arrears, with payment arrangements varying by state.",
-   "published": "2026-11-12T08:55:13+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Gemini_Geneated_Image_vtr43yvtr43yvtr4_179082956_1_1794473211853_qYSx_1794473211969_W9DW_181d5570-2348-4187-9353-c277471ea8fb_hN2B.png",
-   "topics": [],
-   "first_seen": "2026-11-12T09:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
