@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T16:30:02+00:00",
+ "generated_at": "2026-11-18T17:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 20:08:45 +0530",
+   "sample_date": "Wed, 18 Nov 2026 22:00:56 +0530",
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 21:41:54 +0530",
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 21:39:54 +0530",
    "error": null,
-   "checked_at": "2026-11-18T16:30:02+00:00"
+   "checked_at": "2026-11-18T17:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "d5444013619cc46a",
+   "title": "Meet Amruda Nair, granddaughter of The Leela founder Captain CP Krishnan Nair who launched Araiya Hotels & Resorts",
+   "link": "https://www.livemint.com/companies/people/meet-amruda-nair-granddaughter-of-the-leela-founder-captain-cp-krishnan-nair-who-launched-araiya-hotels-resorts-11795016627692.html",
+   "summary": "Amruda Nair founded Araiya Hotels &amp; Resorts in 2018, focusing on destination-led luxury and experiences. The company aims to reach 40 hotels over the next five years, she revealed in a new interview with Hotelier India.",
+   "published": "2026-11-18T16:30:56+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217104_1795019391936_JNEH_1795019395711_WgvW_50fee15f-e789-4d58-b5e5-6459af63fbad_f29w.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T17:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2b1135257205413f",
    "title": "After 156% surge in a day, this American firm stock rises another 5%. What's driving the biotech share rally?",
@@ -11530,28 +11548,6 @@
    "first_seen": "2026-11-12T22:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "d24ff8a858667536",
-   "title": "Anthropic’s IPO Is About Six Times Oversubscribed",
-   "link": "https://www.livemint.com/market/anthropics-ipo-is-about-six-times-oversubscribed-11794519373423.html",
-   "summary": "Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest first-time share sale ever.",
-   "published": "2026-11-12T21:36:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-12T22:00:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
