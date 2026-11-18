@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T06:00:02+00:00",
+ "generated_at": "2026-11-18T06:30:07+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 5,
    "items": 5,
-   "sample_date": "Tue, 17 Nov 2026 10:43:54 GMT",
+   "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:00:02+00:00"
+   "checked_at": "2026-11-18T06:30:07+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
+   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:00:02+00:00"
+   "checked_at": "2026-11-18T06:30:07+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Tue, 17 Nov 2026 16:14:21 GMT",
+   "sample_date": "Wed, 18 Nov 2026 05:44:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:00:02+00:00"
+   "checked_at": "2026-11-18T06:30:07+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T06:00:02+00:00"
+   "checked_at": "2026-11-18T06:30:07+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
    "error": null,
-   "checked_at": "2026-11-18T06:00:02+00:00"
+   "checked_at": "2026-11-18T06:30:07+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "7405996c95845574",
+   "title": "Black Friday and Cyber Monday 2026: BFCM Marketing Strategies for Small Businesses",
+   "link": "https://startuptalky.com/small-stores-guide-bfcm/",
+   "summary": "Discover how small businesses can maximise Black Friday and Cyber Monday 2026 sales with effective BFCM marketing strategies, promotional offers, AI-powered shopping, customer retention, and e-commerce tips.",
+   "published": "2026-11-18T05:44:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Rishi Mundra",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2023/10/BFCM-and-Small-Stores-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T06:30:07+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "101074e9d29448f1",
    "title": "Fatehpuria Hygiene secures Rs 100 Cr in first equity fundraise",
