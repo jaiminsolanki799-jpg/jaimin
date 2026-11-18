@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T10:30:02+00:00",
+ "generated_at": "2026-11-18T11:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
+   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 18 Nov 2026 09:30:57 GMT",
+   "sample_date": "Wed, 18 Nov 2026 10:30:16 GMT",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
+   "sample_date": "Wed, 18 Nov 2026 11:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "59b4b7589a725568",
+   "title": "China dominates battery graphite, but this startup could break the monopoly",
+   "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+   "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+   "published": "2026-11-18T11:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "30e10c3211781755",
+   "title": "Non-Smartphone Electronics Emerge as Key Drivers of India's Export Growth",
+   "link": "https://startuptalky.com/news/non-smartphone-electronics-emerge-as-key-drivers-of-indias-export-growth/",
+   "summary": "India’s electronics exports grew faster than handset exports in the first half of FY27, with non-smartphone products increasingly leading the expansion. Between April and September, exports of non-smartphone electronics jumped 56.5% to $13.79 billion, compared to 35.8% growth in smartphone exports.",
+   "published": "2026-11-18T10:30:16+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/non-smartphone-electronics-emerge-as-key-drivers-of-indias-export-growth-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f293b336da85bf61",
+   "title": "Circular economy company Recove Ventures raises Rs 56.25 Cr",
+   "link": "https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore",
+   "summary": "The company said that it will use the capital to build circular economy infrastructure in Maharashtra and expand Recove’s footprint in Karnataka.",
+   "published": "2026-11-18T10:27:57+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T11:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "38f88b1583445c18",
    "title": "Startup news and updates: daily roundup (November 18, 2026)",

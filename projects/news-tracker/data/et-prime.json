@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T10:30:02+00:00",
+ "generated_at": "2026-11-18T11:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "ok": true,
+   "fetched": 7,
+   "items": 3,
+   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 15:43:03 +0530",
+   "sample_date": "Wed, 18 Nov 2026 16:14:43 +0530",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 15:41:06 +0530",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 14:59:39 +0530",
+   "sample_date": "Wed, 18 Nov 2026 16:18:05 +0530",
    "error": null,
-   "checked_at": "2026-11-18T10:30:02+00:00"
+   "checked_at": "2026-11-18T11:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "85d2502c3c95766d",
+   "title": "Gratuity before 5 years of service: Check when employees qualify; Karnataka High Court ruling explained",
+   "link": "https://www.livemint.com/money/gratuity-before-5-years-of-service-check-when-employees-qualify-karnataka-high-court-ruling-explained-11794996487253.html",
+   "summary": "The ruling highlights that employees who resign before completing five calendar years should not automatically assume that they are ineligible for gratuity. Their actual working days and the applicable provisions of the Payment of Gratuity Act must also be considered.",
+   "published": "2026-11-18T10:48:05+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Karnataka_High_Court_Gratuity_Ruling_1794998474626_DRqy_1794998480430_x3mp_aa669b9c-63eb-4a03-8c0f-a8812de41158_uubd.png",
+   "topics": [],
+   "first_seen": "2026-11-18T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2a41203c34dc3b01",
+   "title": "Samsung reclaims India’s smartphone crown as iPhone shipments tumble 25%: What went wrong for Apple?",
+   "link": "https://www.livemint.com/companies/news/samsung-reclaims-india-s-smartphone-crown-as-iphone-shipments-tumble-25-what-went-wrong-for-apple-11794995097469.html",
+   "summary": "Apple’s iPhone shipments in India reportedly fell 25% year over year to about 3.7 million in the July–September 2026 quarter, dropping the company to fourth place. Samsung reclaimed market leadership, becoming the only top-10 brand to grow shipments amid a broader slowdown.",
+   "published": "2026-11-18T10:44:43+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Untitled_Design_1794998009871_XuO0_1794998014071_JMvl_74ab0fe1-df55-421d-bc65-eab90d649ed7_g2sj.png",
+   "topics": [],
+   "first_seen": "2026-11-18T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "5c6b326dfa135d53",
+   "title": "Pregnancy loss claims see 3x more rejections: Health benefits firm Plum blames missing doctor’s advice, dated policies",
+   "link": "https://www.livemint.com/money/personal-finance/pregnancy-loss-claims-see-3x-more-rejections-health-benefits-firm-plum-blames-missing-doctor-s-advice-dated-policies-11794995607499.html",
+   "summary": "Employee health benefits platform Plum explains how outdated corporate policies and the lack of a formal doctor's prescription for medical terminations are leaving expecting parents financially stranded.",
+   "published": "2026-11-18T10:35:22+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/pexels-photo-57529_1794996087462_bvFU_1794996102327_K3Kc_5f1c2ff8-78ef-4374-a960-f33ba9ca0afb_Jk60.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-18T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "13c3acc29493652b",
    "title": "Fractal Analytics eyes 20-25 startups in healthcare, AI engineering and agentic AI: What's driving the acquisition push?",
@@ -392,7 +446,7 @@
   },
   {
    "id": "f4379b16798489be",
-   "title": "Air India Express names CFO Deepak Rajawat CEO, bets on expansion",
+   "title": "Air India Express appoints CFO Deepak Rajawat as CEO amid ambitious fleet expansion plans: All you need to know",
    "link": "https://www.livemint.com/companies/news/air-india-express-names-cfo-deepak-rajawat-as-ceo-as-budget-carrier-bets-on-expansion-11794992207078.html",
    "summary": "Air India Express has appointed Deepak Rajawat, its current finance chief, as the budget carrier's chief executive officer.",
    "published": "2026-11-18T09:02:01+00:00",
@@ -402,7 +456,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/AI_express_1794992471769_ZH57_1794992476428_QUvd_ed9f9aa0-23d0-401c-9a66-e5453bcd0ffb_tBLL.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/Executive_Portrait_with_Air_India_Express_Jet_1794997594713_PtC7_1794997609871_jwZo_95134de8-d5e4-49af-969f-7efa0a9a7870_bz2t.png",
    "topics": [
     "Budget / policy"
    ],
@@ -11470,65 +11524,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499252272_PsCN_1794499257559_uuDr_00b59dfd-1cb3-4a12-b844-b29a4e7ebdba_12ih.jpg",
    "topics": [],
    "first_seen": "2026-11-12T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "41881c419decb567",
-   "title": "Anthropic IPO: Who is Krishna Rao? Meet the CFO whose $1.30 stock options could unlock a ₹7,000 crore fortune",
-   "link": "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
-   "summary": "Anthropic is preparing an IPO that could value the company at up to $1.4 trillion. CFO Krishna Rao’s 9.497 million shares, acquired through options with a $1.30 exercise price, could gain about 5,600% at the proposed $74 share price. The company plans to list on Nasdaq as ANT.",
-   "published": "2026-11-12T15:39:38+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/egtsgsh_1794497853396_3XaP_1794497865435_cAUI_4c7b5bd4-dc71-4300-90cc-e3bdcf4bf08f_IpfM.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-12T16:00:01+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "IPO",
-    "M&A"
-   ]
-  },
-  {
-   "id": "00cb0685c62ad170",
-   "title": "Meesho block deal: SVF II Meerkat to offload 1% stake at ₹246 apiece; deal size ₹1,174 crore",
-   "link": "https://www.livemint.com/market/stock-market-news/meesho-block-deal-svf-ii-meerkat-to-offload-1-stake-at-rs-246-apiece-deal-size-rs-1-174-crore-11794493326642.html",
-   "summary": "Meesho shares may be in focus after a SoftBank affiliate reportedly planned to sell a 1% stake for about ₹1,174 crore at a 3.1% discount.&nbsp;",
-   "published": "2026-11-12T14:44:31+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/INDIA-MEESHO-8_1766395879551_1766395885284_1794493371214_fzf3_63b8acc2-64ee-4ee0-85dc-c8c7bd544c2d_55rH.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T15:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "df0c7ab78db71440",
-   "title": "Who is Harvey C Jones? NVIDIA appoints first-ever board chair as Jensen Huang resigns from board, CEO post",
-   "link": "https://www.livemint.com/companies/people/who-is-harvey-c-jones-nvidia-appoints-first-ever-board-chair-as-jensen-huang-resigns-from-board-ceo-post-11794493778070.html",
-   "summary": "NVIDIA appointed longtime board member Harvey C. Jones as its first board chair, while announcing that CEO Jensen Huang would step down and CFO Colette Kress would serve as interim CEO. The company said it would seek a permanent CEO from internal and external candidates.",
-   "published": "2026-11-12T14:40:39+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Nvidia_1794494155609_yAjq_1794494159446_vZrg_2e2c4813-ad04-4cae-9329-a20dd20eb2f8_ACdS.png",
-   "topics": [],
-   "first_seen": "2026-11-12T15:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
