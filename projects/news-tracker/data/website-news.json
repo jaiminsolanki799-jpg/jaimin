@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T04:30:02+00:00",
+ "generated_at": "2026-11-18T05:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 5,
    "items": 5,
-   "sample_date": "Tue, 17 Nov 2026 11:38:55 GMT",
+   "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T04:30:02+00:00"
+   "checked_at": "2026-11-18T05:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 05:47:08 GMT",
+   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T04:30:02+00:00"
+   "checked_at": "2026-11-18T05:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Tue, 17 Nov 2026 16:14:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T04:30:02+00:00"
+   "checked_at": "2026-11-18T05:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 32,
    "sample_date": "Tue, 17 Nov 2026 04:30:37 GMT",
    "error": null,
-   "checked_at": "2026-11-18T04:30:02+00:00"
+   "checked_at": "2026-11-18T05:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 01:44:21 +0000",
    "error": null,
-   "checked_at": "2026-11-18T04:30:02+00:00"
+   "checked_at": "2026-11-18T05:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "a91ddb8144e89108",
+   "title": "What Anthropic’s IPO means for the future of AI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjJDR1NLdGFnX0ZmYW9mRmF6ZUFFM1BjSXRqdkJNRERPQnB0UDFDcGxTLUNnLVFuTEd1T2FEdEJ0SC1sWFY4U2xsLV9tUUFmMVRDTFoxdWg4dDBJclp6cVBCTHlESVJ3N2piY1EycDZ2VktlR0dlQVFtZmw2dkYwMm5zdw?oc=5",
+   "summary": "",
+   "published": "2026-11-18T04:55:21+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-18T05:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "b0d08749699bc700",
+   "title": "Ribbit Capital sells Rs 1,905 Cr stake in Groww through block deal",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmxELWdYVzQ4b2Nxa19zUi1LRkpGRHVWMUFSNmdWb1F0X09sVzNoS1VTUE5zUXhwVk1VZlFaOEJxcW1icWNIZTY5ODVHc0ZaRWQ0R2Nma2o5TTItNWRGM0tYQURFR1JpbS1BNzVlV05ZR2Q0RjdmN0dvalNtX3J2Ui1tZlcyWndzUjd0RGk1VmxfQ2FKbEVGV3NNMFpNc0diRHfSAaIBQVVfeXFMUFJsRC1nWFc0OG9jcWtfc1ItS0ZKRkR1VjFBUjZnVm9RdF9PbFczaEtVU1BOc1F4cFZNVWZRWjhCcXFtYnFjSGU2OTg1R3NGWkVkNEdjZmtqOU0yLTVkRjNLWEFERUdSaW0tQTc1ZVdOWUdkNEY3ZjdHb2pTbV9ydlItbWZXMlp3c1I3dERpNVZsX0NhSmxFRldzTTBaTXNHYkR3?oc=5",
+   "summary": "",
+   "published": "2026-11-18T04:52:10+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T05:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "339e1806a57d1945",
    "title": "Moglix posts Rs 6,129 Cr revenue and Rs 160 Cr loss in FY26",
