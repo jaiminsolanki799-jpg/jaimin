@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T15:00:02+00:00",
+ "generated_at": "2026-11-18T15:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 20:08:45 +0530",
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 19:48:55 +0530",
+   "sample_date": "Wed, 18 Nov 2026 20:34:16 +0530",
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 20:24:51 +0530",
+   "sample_date": "Wed, 18 Nov 2026 20:48:28 +0530",
    "error": null,
-   "checked_at": "2026-11-18T15:00:02+00:00"
+   "checked_at": "2026-11-18T15:30:02+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,52 @@
  ],
  "new_since_last_run": 2,
  "items": [
+  {
+   "id": "33e086f97f033476",
+   "title": "India’s youngest demat account holder is 6 days old: SEBI rules for opening accounts for minors",
+   "link": "https://www.livemint.com/money/personal-finance/indias-youngest-demat-account-holder-is-6-days-old-sebi-rules-for-opening-accounts-for-minors-11795013207942.html",
+   "summary": "Parents can open a demat account in a newborn's name, but SEBI has prescribed specific rules governing guardianship, documentation and transactions. Here's what parents need to know about eligibility, KYC requirements and operating a minor's demat account.",
+   "published": "2026-11-18T15:18:28+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Newborn_Savings_Plan_with_Piggy_Bank_1795014680153_BSq8_1795014685930_E5tH_42abd14c-33d8-4aa7-86ca-02df1840d91f_pJ97.png",
+   "topics": [
+    "SEBI / markets regulation",
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-18T15:30:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
+  {
+   "id": "abf19e62da1f565a",
+   "title": "Assetz IPO gets SEBI nod; Bengaluru realty developer reportedly plans to raise ₹1,200 crore",
+   "link": "https://www.livemint.com/market/stock-market-news/assetz-ipo-gets-sebi-nod-bengaluru-realty-developer-reportedly-plans-to-raise-rs-1-200-crore-11795013611163.html",
+   "summary": "SEBI has issued observations on Bengaluru-based Assetz Ltd’s draft IPO documents, clearing the developer to proceed with a public issue within 18 months. Assetz confidentially filed its preliminary papers in August and is reportedly seeking to raise ₹1,200 crore.&nbsp;",
+   "published": "2026-11-18T15:04:16+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Upcoming_IPO_1795013895351_9cme_1795013901814_aUGa_2c7b16d8-8eb3-482d-8a66-439620d5d50c_KPNi.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-18T15:30:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "IPO",
+    "Rules"
+   ]
+  },
   {
    "id": "5f610461989a010f",
    "title": "SIP investment: Patience pays as staying invested for 10 years could help you avoid losses—what 21-year study revealed",
@@ -242,7 +288,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/hdfc_1795008519304_fI5O_1795008519442_qkIr_88935de5-d9c2-4c6d-86d5-bd4b0bb9b8ef_sCXE.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/hdfc3_1795014445118_YUH7_1795014463989_u4Gp_728b11f9-21f7-4caa-a539-d2853b3b4b04_6M4p.jpg",
    "topics": [
     "GST",
     "Income tax"
@@ -11502,42 +11548,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/2-0-1473714797-DSC-8963-0_1679918732945_1794507007491_rwn0_a3980e71-21b3-4c94-9eff-65b99810621a_hbOX.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T19:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0990cb3c635053a4",
-   "title": "Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-   "link": "https://www.livemint.com/market/analysisfrom-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts-11794508676673.html",
-   "summary": "ANTHROPIC-STOCK-INDEX:Analysis-From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-   "published": "2026-11-12T18:37:56+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T19:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7a25602cb9be8904",
-   "title": "Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates",
-   "link": "https://www.livemint.com/companies/who-would-be-next-ceo-at-nvidia-top-engineer-and-cfo-favored-as-candidates-11794508621316.html",
-   "summary": "NVIDIA-CEO-REPLACEMENTS:Who would be next CEO at Nvidia? Top engineer and CFO favored as candidates",
-   "published": "2026-11-12T18:37:00+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
    "topics": [],
    "first_seen": "2026-11-12T19:00:02+00:00",
    "valuation_score": 0,
