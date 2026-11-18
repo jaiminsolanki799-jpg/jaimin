@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T17:00:02+00:00",
+ "generated_at": "2026-11-18T17:30:07+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T17:00:02+00:00"
+   "checked_at": "2026-11-18T17:30:07+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
    "error": null,
-   "checked_at": "2026-11-18T17:00:02+00:00"
+   "checked_at": "2026-11-18T17:30:07+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T17:00:02+00:00"
+   "checked_at": "2026-11-18T17:30:07+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 31,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T17:00:02+00:00"
+   "checked_at": "2026-11-18T17:30:07+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 16:59:00 +0000",
    "error": null,
-   "checked_at": "2026-11-18T17:00:02+00:00"
+   "checked_at": "2026-11-18T17:30:07+00:00"
   }
  ],
  "topics": [
@@ -71,13 +71,13 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 5,
  "items": [
   {
    "id": "3439be5ca6040b72",
    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
    "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-   "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+   "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
    "published": "2026-11-18T16:59:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -387,9 +387,9 @@
   },
   {
    "id": "996c920e2c06362c",
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
    "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
    "published": "2026-11-18T11:30:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
@@ -9331,42 +9331,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-08T18:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f53bfea6329add26",
-   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
-   "published": "2026-11-08T17:30:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Connie Loizos",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T18:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "13bb0b89cfa9ef17",
-   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-   "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "published": "2026-11-08T17:02:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Kirsten Korosec",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-08T17:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
