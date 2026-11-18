@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T08:00:01+00:00",
+ "generated_at": "2026-11-18T08:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "ok": true,
+   "fetched": 6,
+   "items": 3,
+   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 13:21:23 +0530",
+   "sample_date": "Wed, 18 Nov 2026 13:35:51 +0530",
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 13:26:26 +0530",
+   "sample_date": "Wed, 18 Nov 2026 13:50:25 +0530",
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Wed, 18 Nov 2026 13:13:31 +0530",
+   "sample_date": "Wed, 18 Nov 2026 13:57:12 +0530",
    "error": null,
-   "checked_at": "2026-11-18T08:00:01+00:00"
+   "checked_at": "2026-11-18T08:30:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,66 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "0edab59e0e190063",
+   "title": "Failed ATM, UPI or cheque transaction? Know when banks can charge you and how to seek redressal under RBI rules",
+   "link": "https://www.livemint.com/money/personal-finance/failed-atm-upi-or-cheque-transaction-know-when-banks-can-charge-you-and-how-to-seek-redressal-under-rbi-rules-11794985583074.html",
+   "summary": "Banks may levy charges for returned cheques, failed payment mandates and certain declined transactions, depending on their tariff and applicable RBI rules. Know when these charges apply, which fees you can question and how to seek a refund.",
+   "published": "2026-11-18T08:27:12+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/bank_fai_1794987291545_CHYv_1794987310408_KU5H_31ca6d83-f70f-43ff-bf8c-09ef30df95a5_64n9.png",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-18T08:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "cb94f754736d392c",
+   "title": "Jio Platforms shares gain over 26% from IPO price: Should investors hold, buy more or book profits? What experts say",
+   "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-gain-over-26-from-ipo-price-should-investors-hold-buy-more-or-book-profits-what-experts-say-11794985144658.html",
+   "summary": "After a strong IPO debut, Jio Platforms reported higher revenue and profit, with growth supported by 5G, broadband and digital services. Analysts recommend existing investors consider holding, while new buyers may wait for a correction or a technical breakout rather than chase the rally.",
+   "published": "2026-11-18T08:20:25+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Jio_Platforms_Stock_Surge_Bull_Market_179498990794_1794989917669_Ct1x_1794989917890_Azpl_d7779f18-cb76-4e58-a422-a625ec93b31c_DzUs.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-18T08:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "375d6e915ba7932f",
+   "title": "Doors shut on Jensen Huang: Where are the other Nvidia co-founders, Chris Malachowsky and Curtis Priem, now?",
+   "link": "https://www.livemint.com/companies/people/doors-shut-on-jensen-huang-where-are-the-other-nvidia-co-founders-chris-malachowsky-and-curtis-priem-now-11794988659661.html",
+   "summary": "Nvidia’s three co-founders built the company after meeting at a Denny’s in East San Jose. Jensen Huang became its longtime public face, while Chris Malachowsky remains a senior technical leader. Curtis Priem retired in 2003, later donating most of his Nvidia fortune to his alma mater.",
+   "published": "2026-11-18T08:05:51+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/nvidia_co-founders_1794988836040_YrOv_1794988849604_tM4Z_b70fd531-088f-4c45-8061-347f45860583_qMWY.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T08:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "fba6d48b6c68480a",
    "title": "Titan, Kalyan Jewellers, PC Jeweller fall up to 5%: Why are jewellery stocks losing shine despite lower gold prices?",
@@ -11453,60 +11513,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/HDFC_Bank_Gains_Momentum_1794484588770_IrMc_1794484595395_Dub7_51023a51-baf8-4829-bbe6-3de89ec3dddd_El1I.png",
-   "topics": [],
-   "first_seen": "2026-11-12T12:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8d4a63840dd545ea",
-   "title": "Foreign inflows lift Indian stocks' dollar returns above rupee gains as currency rebounds",
-   "link": "https://www.livemint.com/market/foreign-inflows-lift-indian-stocks-dollar-returns-above-rupee-gains-as-currency-rebounds-11794465568691.html",
-   "summary": "Foreign portfolio investors have net bought shares worth ₹60,698 crore in the first 11 days of November, the highest monthly inflow so far since December 2023, NSDL data.",
-   "published": "2026-11-12T12:02:25+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/rupee_1708592614056_1794484424557_qBnm_6d179c2d-98ff-4fa0-b138-53e3ecd3b6e2_OIO2.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T12:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "429a13b959d17659",
-   "title": "Pollution-linked health insurance claims rise 4.3 times in 3 years; Over half of claims came from working professionals",
-   "link": "https://www.livemint.com/money/pollutionlinked-health-insurance-claims-rise-4-3-times-in-3-years-over-half-of-claims-come-from-working-professionals-11794482262215.html",
-   "summary": "Pollution-linked health insurance claims among Policybazaar customers quadrupled in three years, with cardiovascular and respiratory conditions making up 78% of claims. Details here.",
-   "published": "2026-11-12T11:59:43+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/20251107-DNO-SGH-MN-AirPollution-008-0_1762530721434_1794484636815_HJSa_9c088479-4ab0-4080-b4fc-15ed1017b4fe_PV7U.jpg",
-   "topics": [],
-   "first_seen": "2026-11-12T12:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "70994c2b8c6818fb",
-   "title": "Page Industries shares plunge 13% as higher RM costs hit Q2 profitability; can festive demand drive a recovery?",
-   "link": "https://www.livemint.com/market/stock-market-news/page-industries-shares-plunge-13-as-higher-rm-costs-hit-q2-profitability-can-festive-demand-drive-a-recovery-11794483364778.html",
-   "summary": "Page Industries shares fell 13% to their lowest level since April after higher input costs limited profit growth in Q2 FY27. Revenue rose 11.5% to ₹1,439.6 crore, while profit after tax increased 4% to ₹202.5 crore. The company expects festive demand and new products to support growth.",
-   "published": "2026-11-12T11:59:19+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/3-0-109696052-2020-10-14T075546Z-440977327-RC27IJ9_1794484439435_2laK_1794484439717_5uG3_838939fb-e4bd-4833-9151-6312caf51294_woR8.JPG",
    "topics": [],
    "first_seen": "2026-11-12T12:30:01+00:00",
    "valuation_score": 0,
