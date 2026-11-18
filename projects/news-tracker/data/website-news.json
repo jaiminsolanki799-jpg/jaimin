@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T19:00:01+00:00",
+ "generated_at": "2026-11-18T19:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:00:01+00:00"
+   "checked_at": "2026-11-18T19:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
+   "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:00:01+00:00"
+   "checked_at": "2026-11-18T19:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:00:01+00:00"
+   "checked_at": "2026-11-18T19:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-18T19:00:01+00:00"
+   "checked_at": "2026-11-18T19:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 18:04:05 +0000",
+   "sample_date": "Wed, 18 Nov 2026 19:29:41 +0000",
    "error": null,
-   "checked_at": "2026-11-18T19:00:01+00:00"
+   "checked_at": "2026-11-18T19:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,49 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "371d4074c9b59327",
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "summary": "UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.",
+   "published": "2026-11-18T19:29:41+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-18T19:30:02+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Funding"
+   ]
+  },
+  {
+   "id": "3b6acd0ec789b1bd",
+   "title": "PB Fintech co-founder Alok Bansal to step down from executive role",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVBkcEtpdEdYdGtxc2ZZWVlkck5FSjNXaldwaVM4LWhVZTBBcDhRMU9jcmVtY1V5Q0NxVk5qVnR6WG1faFU5Ym12ek9FTnFma25sTXcwNTg0Uk5fWTlnWklDbGxZVk9RbUJ2YndFbURHWXB2SU92MWM3ekdsWHlhb1BTbmJCWF9vUk4zNmpCZ00zOHpzMlFGUnJpbVlzYmJxN3YxTU8wU2XSAagBQVVfeXFMTjlQZHBLaXRHWHRrcXNmWVlZZHJORUozV2pXcGlTOC1oVWUwQXA4UTFPY3JlbWNVeUNDcVZOalZ0elhtX2hVOWJtdnpPRU5xZmtubE13MDU4NFJOX1k5Z1pJQ2xsWVZPUW1CdmJ3RW1ER1lwdklPdjFjN3pHbFh5YW9QU25iQlhfb1JOMzZqQmdNMzh6czJRRlJyaW1Zc2JicTd2MU1PMFNl?oc=5",
+   "summary": "",
+   "published": "2026-11-18T19:24:56+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T19:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "890e2f7b3ac9f81c",
    "title": "Google’s AI feature in Search gets its own incognito mode",
