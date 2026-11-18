@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-18T22:00:01+00:00",
+ "generated_at": "2026-11-18T22:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 01:56:33 +0530",
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 02:40:12 +0530",
+   "sample_date": "Thu, 19 Nov 2026 03:39:11 +0530",
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 23:15:05 +0530",
    "error": null,
-   "checked_at": "2026-11-18T22:00:01+00:00"
+   "checked_at": "2026-11-18T22:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "14c4f5210eb5ffc5",
+   "title": "Foreign Holdings of US Treasuries Decline by Most Since March",
+   "link": "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-decline-by-most-since-march-11795039752193.html",
+   "summary": "Foreign holdings of US Treasuries fell in September by the most in six months, led by decreases in the stockpiles of China and France.",
+   "published": "2026-11-18T22:09:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+   "topics": [],
+   "first_seen": "2026-11-18T22:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "57005aa0bea65a10",
    "title": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
@@ -11530,26 +11548,6 @@
    "valuation_signals": [
     "M&A"
    ]
-  },
-  {
-   "id": "80648b80aa87f978",
-   "title": "SGB 2018-19 Series III final redemption today: Investors to earn up to 348% return; check RBI fixed price, interest rate",
-   "link": "https://www.livemint.com/money/personal-finance/sgb-2018-19-series-iii-final-redemption-today-investors-to-earn-up-to-348-return-check-rbi-fixed-price-interest-rate-11794529119186.html",
-   "summary": "Sovereign Gold Bonds: SGB 2018-19 Series III completes its eight-year tenure on Friday, 13 November. Investors stand to earn up to 348% in capital gains, excluding interest income. Check how the RBI-fixed redemption price translates into investment gains and how much interest you can earn.&nbsp;",
-   "published": "2026-11-13T02:27:28+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/sgb_inves_1794533393995_Mfvk_1794533402701_sn6e_bd450d7c-f537-497d-b7ea-009b129e5519_LBFs.png",
-   "topics": [
-    "RBI / banking"
-   ],
-   "first_seen": "2026-11-13T03:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
