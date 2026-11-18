@@ -1,19 +1,19 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-18T12:30:03+00:00",
+ "generated_at": "2026-11-18T13:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
    "name": "The CapTable",
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": true,
-   "fetched": 5,
-   "items": 5,
-   "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
-   "error": null,
-   "checked_at": "2026-11-18T12:30:03+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 429",
+   "checked_at": "2026-11-18T13:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Tue, 17 Nov 2026 11:20:24 GMT",
+   "sample_date": "Wed, 18 Nov 2026 01:50:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:30:03+00:00"
+   "checked_at": "2026-11-18T13:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 11:44:00 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:30:03+00:00"
+   "checked_at": "2026-11-18T13:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Wed, 18 Nov 2026 04:21:36 GMT",
    "error": null,
-   "checked_at": "2026-11-18T12:30:03+00:00"
+   "checked_at": "2026-11-18T13:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 12:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-18T12:30:03+00:00"
+   "checked_at": "2026-11-18T13:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "ea6cf21ac7538129",
+   "title": "Physical AI startup Humyn Labs raises $47 Mn in equity and debt",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHhuT0twUU91V09UZzdoX3BDNUhBc0EyQ2czRF9uQlNibUJPb2gzWENaN1RZQV8wSDYtZnJDTFNhd1I4ejh3eGZlMm1Xd1FZNl9ia0R4X1R6V0RUY2ZWU1pvTGJnVE9ncUluU0JsODlqRzBNVl9YUi0wdmNWWE5lLXZvNFhxSkFMdVlDNDh1ZmJuWk14X2Y2cncteHBjQdIBngFBVV95cUxQeHhuT0twUU91V09UZzdoX3BDNUhBc0EyQ2czRF9uQlNibUJPb2gzWENaN1RZQV8wSDYtZnJDTFNhd1I4ejh3eGZlMm1Xd1FZNl9ia0R4X1R6V0RUY2ZWU1pvTGJnVE9ncUluU0JsODlqRzBNVl9YUi0wdmNWWE5lLXZvNFhxSkFMdVlDNDh1ZmJuWk14X2Y2cncteHBjQQ?oc=5",
+   "summary": "",
+   "published": "2026-11-18T12:40:59+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T13:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "7cb9bc8457283c93",
+   "title": "Paytm public-market investors earn 1.7x returns in five years as shares hit record high",
+   "link": "https://yourstory.com/2026/11/paytm-public-market-investors-17x-returns-five-years-shares-hit-record-high",
+   "summary": "An analysis of the company's shareholder base shows that public investors have collectively acquired around 41.5 crore shares at a weighted average price of Rs 1,092 apiece.",
+   "published": "2026-11-18T12:26:35+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T13:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e89cb5a1f1366e8c",
+   "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+   "link": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
+   "summary": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
+   "published": "2026-11-18T12:24:12+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-18T13:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "e7994a7921c0d7b5",
    "title": "Karnataka picks 8 startups for government projects worth nearly Rs 2 crore",
