@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T03:30:01+00:00",
+ "generated_at": "2026-11-19T04:00:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 4,
-   "items": 3,
-   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 08:31:49 +0530",
+   "sample_date": "Thu, 19 Nov 2026 09:17:05 +0530",
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 08:38:34 +0530",
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 08:46:50 +0530",
    "error": null,
-   "checked_at": "2026-11-19T03:30:01+00:00"
+   "checked_at": "2026-11-19T04:00:05+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "cddbb8a7f7ce79ab",
+   "title": "Intel lands first 18A chip customer, takes on TSMC: Who is its first chip customer? Apple, Nvidia in focus",
+   "link": "https://www.livemint.com/companies/news/intel-lands-first-18a-chip-customer-takes-on-tsmc-who-is-its-first-chip-customer-apple-nvidia-in-focus-11795049374013.html",
+   "summary": "Intel says it has signed its first external customer for its 18A-P chipmaking process, a milestone in its bid to compete with TSMC. The customer remains unnamed, while Apple, Nvidia, Amazon, Microsoft and Google are among potential clients seeking additional chipmaking capacity.",
+   "published": "2026-11-19T03:47:05+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/intel_1795059825619_rU1Q_1795059885785_txKV_cfed8aba-7b1c-419a-bb39-de2d8f628b04_4C86.png",
+   "topics": [],
+   "first_seen": "2026-11-19T04:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "4677d716cfd1b88b",
+   "title": "'I would have spent less money': Elon Musk calls $400 million Republican campaign spending 'pretty foolish'",
+   "link": "https://www.livemint.com/companies/people/i-would-have-spent-less-money-elon-musk-calls-400-million-republican-campaign-spending-pretty-foolish-11795058578307.html",
+   "summary": "Elon Musk has said that he regrets spending over $400 million backing Republican candidates after the party suffered electoral setbacks in the US midterm elections, admitting that his political spending failed to deliver the expected results.",
+   "published": "2026-11-19T03:33:04+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Elon_Musk_spending_1795059111351_fyAN_1795059115427_rhYx_a7c1cfb3-5ca1-4457-8e85-2f2dd6d3bf4a_Y7me.png",
+   "topics": [],
+   "first_seen": "2026-11-19T04:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c5e9d4f657e3cdc5",
    "title": "ITAT Jaipur relief: Why a woman’s 105-day appeal delay was condoned and 20% business expense disallowance was deleted",
@@ -11503,46 +11539,6 @@
    "first_seen": "2026-11-13T07:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "4d40b8ae318b2615",
-   "title": "Meet Omni Bridgeway, the litigation funder eyeing up to a $260 million windfall from Tata Power arbitration award",
-   "link": "https://www.livemint.com/companies/news/omni-bridgeway-litigation-funder-tata-power-arbitration-payout-11794546306156.html",
-   "summary": "The Sydney-listed litigation financier bankrolled Kleros Capital’s $6.4 million legal battle against Tata Power—and could walk away with a 40x return if Singapore’s apex court upholds the award.",
-   "published": "2026-11-13T06:33:53+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/2-0-301811569-Tata-Power-0_1680699441614_1794549905023_wL40_26d99f73-7d71-488b-a3db-c859c49d6e2d_WDW4.JPG",
-   "topics": [],
-   "first_seen": "2026-11-13T07:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3163316dccc3a1c8",
-   "title": "Anthropic IPO how to apply from India: Can Indian investors apply online? Check eligibility and step by step bid guide",
-   "link": "https://www.livemint.com/market/stock-market-news/anthropic-ipo-how-to-apply-from-india-can-indian-investors-apply-online-check-eligibility-and-step-by-step-bid-guide-11794547459945.html",
-   "summary": "Anthropic IPO: Anthropic has set its IPO price range at $70 to $78 per share for an offering of 825 million shares of Class A common stock on the Nasdaq under the ticker symbol ‘ANT’.",
-   "published": "2026-11-13T06:27:04+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/Anthropic_India_1794551171957_KjhQ_1794551172427_U7DI_b9503b08-396e-453a-80b0-c725ea35442b_WFki.png",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-13T06:30:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
