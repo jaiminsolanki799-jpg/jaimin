@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T11:00:01+00:00",
+ "generated_at": "2026-11-19T11:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 15:45:23 +0530",
+   "sample_date": "Thu, 19 Nov 2026 16:34:44 +0530",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 16:19:07 +0530",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 16:22:47 +0530",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "3d8cef42d951d993",
+   "title": "Nvidia's China troubles deepen? Muddy Waters flags ex- No 3 Jay Puri's alleged Supermicro links",
+   "link": "https://www.livemint.com/companies/news/nvidias-china-troubles-deepen-muddy-waters-flags-ex-no-3-jay-puris-alleged-supermicro-links-11795083342379.html",
+   "summary": "Nvidia faces fresh scrutiny over former executive Jay Puri's alleged China links after Muddy Waters raises questions about Supermicro and chip shipments.",
+   "published": "2026-11-19T11:04:44+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Untitled_Design_1795084138561_97wI_1795084158863_ieTG_ccf8d280-1072-4cfe-ae22-a3931e28de5f_sqMG.png",
+   "topics": [],
+   "first_seen": "2026-11-19T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9b32c8aef047d00a",
    "title": "EPFO approves SWP for PF subscribers: Can you now withdraw your retirement savings monthly instead of taking a lump sum?",
@@ -372,7 +390,7 @@
    "id": "e6250624d2fdcd5b",
    "title": "EPFO to cut minimum PF balance requirement to 10% from 25%: What it means",
    "link": "https://www.livemint.com/money/epfo-to-cut-minimum-pf-balance-requirement-to-10-per-cent-from-25-per-cent-what-it-means-11795080953423.html",
-   "summary": "The EPFO board has cleared a proposal to lower the minimum balance that subscribers must maintain in their provident fund (PF) accounts from 25% to 10%.",
+   "summary": "The EPFO board has cleared a proposal to lower the minimum balance that subscribers must maintain in their provident fund accounts from 25% to 10%.",
    "published": "2026-11-19T09:41:57+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -558,7 +576,7 @@
    "id": "9dccbf5f061885cc",
    "title": "Anthropic listing today: How Indian investors can buy ANT shares and what it will really cost",
    "link": "https://www.livemint.com/money/personal-finance/anthropic-ipo-listing-how-indian-investors-can-buy-ant-shares-and-what-it-will-really-cost-11795075762562.html",
-   "summary": "Indian residents can buy Anthropic shares after its Nasdaq listing through overseas brokerage platforms under the RBI’s LRS, subject to a $250,000 annual limit and applicable rules. Here's how Indian investors can buy the stock and what it could really cost.",
+   "summary": "Indian residents can buy Anthropic shares after its Nasdaq listing through overseas brokerage platforms under the RBI’s LRS, subject to a $250,000 annual limit and applicable rules. Here's how Indian investors can buy the stock and what are the key points they should consider.",
    "published": "2026-11-19T08:47:40+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -566,7 +584,7 @@
    "date_known": true,
    "author": null,
    "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Anthropic_1795077688577_C45L_1795077704569_sCu3_81078a17-52f3-460f-953d-e6ea47733d26_itc2.png",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/INDIA-TECHNOLOGY-AI-2_1795086315644_DNvz_1795086329806_fA4R_92a0e16b-4e58-44f7-a3f9-29530fe215f1_HsAT.jpg",
    "topics": [
     "SEBI / markets regulation",
     "RBI / banking"
@@ -11506,24 +11524,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Gemini_Generated_Image_rjdawvrjdawvrjda_17945858_1794585909154_feEE_1794585909275_RQF5_f55ddfbb-1d1d-45b0-bf03-781d40bc0603_Wwlj.png",
    "topics": [],
    "first_seen": "2026-11-13T16:30:06+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "46a54cd5155bece9",
-   "title": "Reliance Industries shares rebound 15% in November, add ₹2.38 lakh crore in market value; what's changed?",
-   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-rebound-15-in-november-add-rs-2-38-lakh-crore-in-market-value-whats-changed-11794580881169.html",
-   "summary": "Reliance Industries shares have rebounded 15% in November after strong second-quarter results, adding ₹2.38 lakh crore to market value.",
-   "published": "2026-11-13T15:39:36+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Reliance_Industries_1793379356214_VniS_17933793606_1794584330354_RCT8_1794584330542_JOY6_3bf16f4d-408c-4cc2-b1cc-9f8834477d0b_k7LI.png",
-   "topics": [],
-   "first_seen": "2026-11-13T16:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

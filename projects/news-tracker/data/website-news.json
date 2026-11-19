@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T11:00:01+00:00",
+ "generated_at": "2026-11-19T11:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
+   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 19 Nov 2026 10:22:48 GMT",
+   "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 26,
-   "items": 26,
-   "sample_date": "Wed, 18 Nov 2026 07:03:00 GMT",
+   "fetched": 27,
+   "items": 27,
+   "sample_date": "Thu, 19 Nov 2026 02:03:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T11:00:01+00:00"
+   "checked_at": "2026-11-19T11:30:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,44 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "92388a98988952a3",
+   "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
+   "link": "https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo",
+   "summary": "InPrime will use the funding to expand its reach and improve its technology stack, especially in AI use cases.",
+   "published": "2026-11-19T11:14:26+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T11:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "0c5b573b91adb9ef",
+   "title": "Waaree Transpower Strengthens Energy Storage Portfolio with INR 100 Crore-Plus NTPC Order",
+   "link": "https://startuptalky.com/news/waaree-transpower-strengthens-energy-storage-portfolio/",
+   "summary": "Waaree Energies’ subsidiary Waaree Transpower has bagged an order from NTPC for more than INR 100 crore to supply inverter duty transformers for BESS project. The order involves transformers ranging from 11 MVA to 22 MVA and strengthens Waaree’s position in the energy storage sector in India.",
+   "published": "2026-11-19T11:04:05+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/waaree-transpower-strengthens-energy-storage-portfolio-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7070b18287506acd",
    "title": "Disseqt AI raises $8M to build enterprise AI safeguards",
@@ -10044,24 +10082,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T12:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f6e2533dd3b1560f",
-   "title": "Google Cloud India MD Shashikumar Sreedharan joins Sarvam as President and CBO",
-   "link": "https://yourstory.com/2026/11/sarvam-google-cloud-india-head-sashikumar-sreedharan-president-cbo",
-   "summary": "Sreedharan will run Sarvam's business across enterprises and government, and widen its work with digital-native companies, developers and partners.",
-   "published": "2026-11-09T11:07:44+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T11:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
