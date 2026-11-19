@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T17:30:01+00:00",
+ "generated_at": "2026-11-19T18:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:30:01+00:00"
+   "checked_at": "2026-11-19T18:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
+   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:30:01+00:00"
+   "checked_at": "2026-11-19T18:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:30:01+00:00"
+   "checked_at": "2026-11-19T18:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 29,
    "items": 29,
-   "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
+   "sample_date": "Wed, 18 Nov 2026 04:18:44 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:30:01+00:00"
+   "checked_at": "2026-11-19T18:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 17:00:00 +0000",
+   "sample_date": "Thu, 19 Nov 2026 17:38:40 +0000",
    "error": null,
-   "checked_at": "2026-11-19T17:30:01+00:00"
+   "checked_at": "2026-11-19T18:00:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "2919f418f3f51682",
+   "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "published": "2026-11-19T17:38:40+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Aisha Malik",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T18:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "27f297a759c176e6",
    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
@@ -95,7 +113,7 @@
   },
   {
    "id": "d680d8751ecd7c4c",
-   "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
    "published": "2026-11-19T16:59:23+00:00",
@@ -10137,24 +10155,6 @@
    "category": "Tech",
    "date_known": true,
    "author": "Rebecca Bellan",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T18:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fe9001b06ea620d4",
-   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-   "published": "2026-11-09T18:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Russell Brandom",
    "publisher": null,
    "image": null,
    "topics": [],
