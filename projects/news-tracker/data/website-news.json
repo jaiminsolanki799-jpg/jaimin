@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T12:30:02+00:00",
+ "generated_at": "2026-11-19T13:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T12:30:02+00:00"
+   "checked_at": "2026-11-19T13:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 11:50:14 GMT",
+   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
    "error": null,
-   "checked_at": "2026-11-19T12:30:02+00:00"
+   "checked_at": "2026-11-19T13:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T12:30:02+00:00"
+   "checked_at": "2026-11-19T13:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Thu, 19 Nov 2026 02:03:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T12:30:02+00:00"
+   "checked_at": "2026-11-19T13:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T12:30:02+00:00"
+   "checked_at": "2026-11-19T13:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "db7454eaacb384a4",
+   "title": "Startup news and updates: daily roundup (November 19, 2026)",
+   "link": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-19-2026",
+   "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, November 19, 2026. Women are breaking the glass ceiling even in the deeptech space as Anthropic IPO is garnering attention, YourStory brings you today’s headlines with the late",
+   "published": "2026-11-19T12:53:30+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-19T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "dd42bb79c10d48ce",
+   "title": "Karnataka emerges as India's GCC powerhouse with 1,088 centres, says Kharge",
+   "link": "https://yourstory.com/2026/11/karnataka-accounts-for-51-of-indias-gccs-says-new-report",
+   "summary": "Karnataka hosts 51% of India's GCCs and 43% of its GCC AI talent. Minister Priyank Kharge unveiled a new Zinnov-KDEM report at Bengaluru Tech Summit 2026.",
+   "published": "2026-11-19T12:32:20+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "345fa3dce4b65842",
+   "title": "7 Micro-habits under 5 minutes that can change your year",
+   "link": "https://yourstory.com/2026/11/7-micro-habits-under-5-minutes-that-can-change-your-year",
+   "summary": "Discover 7 simple micro-habits that take less than five minutes but can improve your productivity, mindset, health and daily routine.",
+   "published": "2026-11-19T12:30:00+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T13:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "91e4f6fedf5f7a96",
    "title": "Gen Z’s guide to self-improvement: Build habits that pay off",
@@ -10062,48 +10118,6 @@
    "first_seen": "2026-11-09T14:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "8f84f0142db736e1",
-   "title": "SplashBI opens GCC in Hyderabad, to invest over $100M",
-   "link": "https://yourstory.com/2026/11/splashbi-opens-gcc-in-hyderabad-to-invest-over-100-million",
-   "summary": "The investment to be spread across 5 years The GCC of SplashBI will strengthen the company’s product engineering and delivery capabilities SplashBI, a Georgia (US)-headquartered enterprise data intelligence platform, opened its global capability centre (GCC) in Hyderabad. The company plans to i",
-   "published": "2026-11-09T12:32:39+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T13:00:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "874cf8363923d78f",
-   "title": "Daily Indian Funding Roundup & Key News - 9 November 2026: MakeMyTrip India Gets SEBI Nod for IPO, PhysicsWallah Links Staff Cuts to AI",
-   "link": "https://startuptalky.com/news/daily-indian-funding-roundup-key-news-9-november-2026/",
-   "summary": "O-Health got backing from Apollo's Sangita Reddy, as MakeMyTrip India won SEBI's IPO nod, PhysicsWallah linked staff cuts to AI and ED searched CoinDCX.",
-   "published": "2026-11-09T12:32:20+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Muskaan Kapoor",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/daily-indian-funding-roundup-key-news-9-november-2026-Startuptalky.jpg",
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-09T13:00:04+00:00",
-   "valuation_score": 9,
-   "valuation_signals": [
-    "Funding",
-    "IPO",
-    "Rules"
-   ]
   }
  ]
 }
