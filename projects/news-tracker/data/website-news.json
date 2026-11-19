@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T04:30:02+00:00",
+ "generated_at": "2026-11-19T05:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T04:30:02+00:00"
+   "checked_at": "2026-11-19T05:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 12:15:05 GMT",
+   "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
    "error": null,
-   "checked_at": "2026-11-19T04:30:02+00:00"
+   "checked_at": "2026-11-19T05:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-19T04:30:02+00:00"
+   "checked_at": "2026-11-19T05:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 32,
-   "items": 32,
+   "fetched": 31,
+   "items": 31,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T04:30:02+00:00"
+   "checked_at": "2026-11-19T05:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T04:30:02+00:00"
+   "checked_at": "2026-11-19T05:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "27d55a23c9289f3c",
+   "title": "DCGpac’s FY26 revenue rises 35% to Rs 208 Cr; remains EBITDA positive",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0pJcmEwbWV6dy14NjFoSF9OWWVBcXZUajg2ZE5IeE1ZbXpJeDlTVHVrSTFvQ3p4LWEzSFBmMkdRdENXYXJGMkVfSDlVdlZoemEwYktaYVAyX0s0NC1Wc3JxTDJwN0RCWlRaMW44VHh4Zm1pY2lHbWNQdEF1d3VrX1pVYU5HNVpZTTdHLXN0dWd2aXNTMXpWRUNZVWVNbnZGVU9fMXZlWk12Z9IBqgFBVV95cUxPU0pJcmEwbWV6dy14NjFoSF9OWWVBcXZUajg2ZE5IeE1ZbXpJeDlTVHVrSTFvQ3p4LWEzSFBmMkdRdENXYXJGMkVfSDlVdlZoemEwYktaYVAyX0s0NC1Wc3JxTDJwN0RCWlRaMW44VHh4Zm1pY2lHbWNQdEF1d3VrX1pVYU5HNVpZTTdHLXN0dWd2aXNTMXpWRUNZVWVNbnZGVU9fMXZlWk12Zw?oc=5",
+   "summary": "",
+   "published": "2026-11-19T04:41:34+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T05:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Results"
+   ]
+  },
   {
    "id": "8f08470c79df88fd",
    "title": "Boba Bhai raises $18 Mn from Left Lane, Titan and BIG Capital",
@@ -9649,24 +9669,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T05:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "497053bf21bb897a",
-   "title": "Nvidia CEO Jensen Huang admits affair amid Chinese spying allegations; board launches probe",
-   "link": "https://yourstory.com/2026/11/nvidia-ceo-jensen-huang-admits-affair-chinese-spying-allegations-board-probe",
-   "summary": "The AI chipmaker says it has no reason to believe company secrets were compromised, even as US lawmakers seek answers over potential national security risks.",
-   "published": "2026-11-09T04:33:16+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T05:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
