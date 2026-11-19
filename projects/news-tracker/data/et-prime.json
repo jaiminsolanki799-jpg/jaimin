@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T09:00:01+00:00",
+ "generated_at": "2026-11-19T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 13:34:05 +0530",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 14:26:02 +0530",
+   "sample_date": "Thu, 19 Nov 2026 14:52:11 +0530",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 14:22:50 +0530",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,80 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 4,
  "items": [
+  {
+   "id": "b65a57347b08afdd",
+   "title": "Is CoreWeave's movement signalling a return of the AI trade?",
+   "link": "https://economictimes.indiatimes.com/prime/is-coreweaves-movement-signalling-a-return-of-the-ai-trade/primearticleshow/135797443.cms",
+   "summary": "",
+   "published": "2026-11-19T09:30:01+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "78870383d0974608",
+   "title": "This small-cap stock plunges 42% in 1 year, but Jefferies sees 53% upside - Is a big turnaround coming? Check target",
+   "link": "https://www.livemint.com/market/stock-market-news/this-small-cap-stock-plunges-42-in-1-year-but-jefferies-sees-53-upside-is-a-big-turnaround-coming-check-target-11795076080217.html",
+   "summary": "Jefferies retained its Buy rating on CMS Info Systems and a ₹315 target, implying 53% upside. Services revenue and profitability strengthened in the September quarter, while product sales are expected to recover.&nbsp;",
+   "published": "2026-11-19T09:22:11+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Small-Cap_Crash_Meets_Jefferies_Upside_17950800869_1795080099573_hwWn_1795080099726_yqYu_bef2e628-80d7-4f73-8b36-b15ff7a94ecb_qwgE.png",
+   "topics": [],
+   "first_seen": "2026-11-19T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a8f30089c227e433",
+   "title": "IREDA shares jump 11% to 4-month high: Is the renewable energy stock finally turning around after 6 months of losses?",
+   "link": "https://www.livemint.com/market/stock-market-news/ireda-share-price-jumps-11-is-the-renewable-energy-player-finally-turning-around-after-6-months-of-losses-11795079108329.html",
+   "summary": "IREDA shares surged 11.5% to a four-month high of ₹133.60, recovering their six-month losses as November gains reached 34%. Trading volumes spiked despite no clear immediate trigger.&nbsp;",
+   "published": "2026-11-19T09:20:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/IREDA_1795079765278_T9Vy_1795079770974_XLsb_d2f9a0b0-a47d-418f-a6aa-5c62f9ed38c4_v7Ay.jpeg",
+   "topics": [],
+   "first_seen": "2026-11-19T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "053b0ae19b108210",
+   "title": "Small-cap stock under ₹50: IT share jumps 8% after collaboration with Mahesh Babu Foundation; do you own?",
+   "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-it-share-jumps-8-after-collaboration-with-mahesh-babu-foundation-do-you-own-11795079387441.html",
+   "summary": "Blue Cloud Softech Solutions shares rose nearly 8% intraday after the Hyderabad-based IT company signed a five-year collaboration agreement with Mahesh Babu Foundation.&nbsp;",
+   "published": "2026-11-19T09:13:30+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/AGsgh_1795079493708_5Iss_1795079510264_UdPm_06a97b37-afa6-4d3d-8b87-c9bde03893c4_tZcC.png",
+   "topics": [],
+   "first_seen": "2026-11-19T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "9740759555fb56e9",
    "title": "KYC and KYB: Pidilite's margin keeps finding its way back, though costlier raw materials can knock it off course – Part 2 of 3",
@@ -11460,84 +11532,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Food_Hygiene_Raid_Collage_1794570305540_aCT2_1794570310144_UNes_4db2a373-63cc-4766-9315-fe4bc036bddb_OJk8.png",
    "topics": [],
    "first_seen": "2026-11-13T13:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "71e453714dc90db0",
-   "title": "Microsoft shares fall nearly 3% in pre-market as global outage hits Outlook, Teams and Copilot; what went wrong?",
-   "link": "https://www.livemint.com/market/stock-market-news/microsoft-shares-fall-nearly-3-in-pre-market-as-global-outage-hits-outlook-teams-and-copilot-what-went-wrong-11794570500283.html",
-   "summary": "A global Microsoft outage lasting more than 12 hours disrupted Outlook, Teams, Copilot and other Microsoft 365 services across more than 70 countries.",
-   "published": "2026-11-13T12:23:53+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Microsoft_world_outage_1794561407022_3Zho_17945614_1794570900145_TzDy_1794570900306_LFi9_b9922c86-eb60-40c2-b3be-fc81eb0a0df5_csY6.png",
-   "topics": [],
-   "first_seen": "2026-11-13T12:30:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "e1b3a1cc93187c94",
-   "title": "ideaForge Technology shares: Drone stock gains 53% in a year, but should you buy now? Check targets, support, stop loss",
-   "link": "https://www.livemint.com/market/stock-market-news/ideaforge-technology-shares-drone-stock-gains-53-in-a-year-but-should-you-buy-now-check-targets-support-stop-loss-11794564183048.html",
-   "summary": "ideaForge returned to profitability in Q2 FY27, posting a net profit of ₹6.5 crore as revenue rose 124% year-on-year to ₹91 crore. Analysts gave mixed technical views: some cited potential gains toward ₹900, while others advised caution until the stock clears resistance near ₹728–735.",
-   "published": "2026-11-13T12:09:31+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/ideaForge_Shares__1794564655791_t4db_1794564661612_gVtX_798f1c51-ada4-48ab-96e1-32ec96195b5c_Fdg7.png",
-   "topics": [],
-   "first_seen": "2026-11-13T12:30:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "26d0a913d033599b",
-   "title": "Haldiram IPO in making: Namkeen to D-Street, snack giant eyes stock market debut - Check listing timeline, valuation",
-   "link": "https://www.livemint.com/market/ipo/haldiram-ipo-in-making-namkeen-to-d-street-snack-giant-eyes-stock-market-debut-check-listing-timeline-valuation-11794562224305.html",
-   "summary": "Haldiram Snacks Food has reportedly begun preparing for an IPO and appointed EY to manage the process. The offering could combine a fresh share issue with an offer for sale, potentially raise about ₹10,000 crore",
-   "published": "2026-11-13T11:56:12+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Hadliata_1794570878247_La8s_1794570893310_0Fi9_c043c0d1-89c2-4abc-a9f9-80b1c0f429d5_2DMx.png",
-   "topics": [
-    "SEBI / markets regulation",
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-13T12:00:01+00:00",
-   "valuation_score": 7,
-   "valuation_signals": [
-    "Valuation",
-    "IPO"
-   ]
-  },
-  {
-   "id": "e0708a870ab000d6",
-   "title": "Government employees: Centre sets ₹20 lakh limit for electric cars, makes EVs default choice for official vehicles",
-   "link": "https://www.livemint.com/money/personal-finance/government-employees-centre-sets-20-lakh-limit-for-electric-cars-makes-evs-default-choice-for-official-vehicles-11794569067726.html",
-   "summary": "The Centre has made electric vehicles the default choice for official cars used by central government departments, setting a ₹20 lakh purchase limit for EVs against ₹10 lakh for petrol, diesel and hybrid vehicles. Conventional car purchases will require special approval.",
-   "published": "2026-11-13T11:40:08+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Gemini_Geerated_Image_ejncqbejncqbejnc_179456929_1794569305339_Y5Rr_1794569305535_dtAN_cb3c6795-8c07-4b98-a2ff-424dc9fb53ff_CUQg.png",
-   "topics": [],
-   "first_seen": "2026-11-13T12:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

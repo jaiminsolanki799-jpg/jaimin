@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T09:00:01+00:00",
+ "generated_at": "2026-11-19T09:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
+   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 19 Nov 2026 08:20:00 GMT",
+   "sample_date": "Thu, 19 Nov 2026 09:26:12 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 28,
-   "items": 28,
+   "fetched": 25,
+   "items": 25,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T09:00:01+00:00"
+   "checked_at": "2026-11-19T09:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "12cbe70dd5091c6a",
+   "title": "Meta Pauses Share Structure Changes Amid Growing Shareholder Legal Dispute",
+   "link": "https://startuptalky.com/news/meta-pauses-share-structure-changes/",
+   "summary": "Meta has abandoned its intended new share structure after a shareholder lawsuit contesting the board-approved proposal. Under the plan, non-voting Class C shares would have been issued by a two-for-one stock split, enabling CEO Mark Zuckerberg to sell shares without weakening his voting authority.",
+   "published": "2026-11-19T09:26:12+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/meta-pauses-share-structure-changes-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "85c41b9c084189c8",
    "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
