@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T08:00:02+00:00",
+ "generated_at": "2026-11-19T08:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 5,
    "items": 5,
-   "sample_date": "Mon, 16 Nov 2026 04:26:10 GMT",
+   "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T08:00:02+00:00"
+   "checked_at": "2026-11-19T08:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 06:55:59 GMT",
+   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T08:00:02+00:00"
+   "checked_at": "2026-11-19T08:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 07:03:49 GMT",
    "error": null,
-   "checked_at": "2026-11-19T08:00:02+00:00"
+   "checked_at": "2026-11-19T08:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 28,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T08:00:02+00:00"
+   "checked_at": "2026-11-19T08:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T08:00:02+00:00"
+   "checked_at": "2026-11-19T08:30:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,44 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "85c41b9c084189c8",
+   "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDg3cTVDZF9xSWlwUXdFRmxvYkhBWHJxRHZCVUxqU2xTWm5naDZPUTZvcTVUQVFtSlY4YXFBcGpHcjA2RnpES01iT2FQb0hkWi14OU5ScE0tV2lITHIxQWNacDA3RGRRUXhMZ3FEU05yLTNaMEV5ZGFRQWNmN01YSWhBTkZsblNvem9oNGpBV3RzNnpkUHRDUnZZVHVTQXlnRVNTaWdIRkJXUzN3dXlzN0IwTnA0N0HSAbcBQVVfeXFMT0w4N3E1Q2RfcUlpcFF3RUZsb2JIQVhycUR2QlVMalNsU1puZ2g2T1E2b3E1VEFRbUpWOGFxQXBqR3IwNkZ6REtNYk9hUG9IZFoteDlOUnBNLVdpSExyMUFjWnAwN0RkUVF4TGdxRFNOci0zWjBFeWRhUUFjZjdNWEloQU5GbG5Tb3pvaDRqQVd0czZ6ZFB0Q1J2WVR1U0F5Z0VTU2lnSEZCV1Mzd3V5czdCME5wNDdB?oc=5",
+   "summary": "",
+   "published": "2026-11-19T08:26:38+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T08:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "b4e31afb0263056f",
+   "title": "Six Indian startups selected for Hub71's Immersion Programme in Abu Dhabi",
+   "link": "https://yourstory.com/2026/11/six-indian-startups-selected-for-hub71s-immersion-programme-in-abu-dhabi",
+   "summary": "The winners were chosen from among ten finalists in the areas of AI, clean energy, advanced manufacturing and digital finance.",
+   "published": "2026-11-19T08:10:30+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T08:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8d1318dddeb53ec9",
    "title": "AI can write code, but knowing what to build still matters",
