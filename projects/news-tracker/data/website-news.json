@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T16:30:01+00:00",
+ "generated_at": "2026-11-19T17:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T16:30:01+00:00"
+   "checked_at": "2026-11-19T17:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
+   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-19T16:30:01+00:00"
+   "checked_at": "2026-11-19T17:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T16:30:01+00:00"
+   "checked_at": "2026-11-19T17:00:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 29,
    "items": 29,
-   "sample_date": "Wed, 18 Nov 2026 04:18:44 GMT",
+   "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-19T16:30:01+00:00"
+   "checked_at": "2026-11-19T17:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 16:19:41 +0000",
+   "sample_date": "Thu, 19 Nov 2026 16:59:23 +0000",
    "error": null,
-   "checked_at": "2026-11-19T16:30:01+00:00"
+   "checked_at": "2026-11-19T17:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,28 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "d680d8751ecd7c4c",
+   "title": "Anthropic hits NASDAQ exchanges at $110, $27 above IPO price",
+   "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+   "published": "2026-11-19T16:59:23+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Russell Brandom",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-19T17:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "b80c1a82c17c2552",
    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -10117,46 +10139,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T18:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8814f9d2297c7d77",
-   "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
-   "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
-   "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
-   "published": "2026-11-09T17:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Kirsten Korosec",
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-09T17:30:01+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
-   ]
-  },
-  {
-   "id": "ea1cff75717bdba9",
-   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-   "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-   "published": "2026-11-09T16:56:54+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Tim De Chant",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T17:00:05+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
