@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T17:00:02+00:00",
+ "generated_at": "2026-11-19T17:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:00:02+00:00"
+   "checked_at": "2026-11-19T17:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
+   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:00:02+00:00"
+   "checked_at": "2026-11-19T17:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:00:02+00:00"
+   "checked_at": "2026-11-19T17:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-19T17:00:02+00:00"
+   "checked_at": "2026-11-19T17:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 16:59:23 +0000",
+   "sample_date": "Thu, 19 Nov 2026 17:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-19T17:00:02+00:00"
+   "checked_at": "2026-11-19T17:30:01+00:00"
   }
  ],
  "topics": [
@@ -74,8 +74,28 @@
  "new_since_last_run": 7,
  "items": [
   {
+   "id": "27f297a759c176e6",
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+   "published": "2026-11-19T17:00:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kate Park",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T17:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
    "id": "d680d8751ecd7c4c",
-   "title": "Anthropic hits NASDAQ exchanges at $110, $27 above IPO price",
+   "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
    "published": "2026-11-19T16:59:23+00:00",
@@ -175,7 +195,7 @@
    "id": "1501adb883e7f84c",
    "title": "Superhuman pushes its Go assistant everywhere",
    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+   "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
    "published": "2026-11-19T14:00:00+00:00",
    "source": "TechCrunch",
    "group": "TechCrunch",
