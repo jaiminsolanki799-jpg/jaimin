@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T15:00:01+00:00",
+ "generated_at": "2026-11-19T15:30:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T15:00:01+00:00"
+   "checked_at": "2026-11-19T15:30:05+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
+   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
    "error": null,
-   "checked_at": "2026-11-19T15:00:01+00:00"
+   "checked_at": "2026-11-19T15:30:05+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T15:00:01+00:00"
+   "checked_at": "2026-11-19T15:30:05+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 28,
-   "items": 28,
+   "fetched": 29,
+   "items": 29,
    "sample_date": "Thu, 19 Nov 2026 02:03:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T15:00:01+00:00"
+   "checked_at": "2026-11-19T15:30:05+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 14:54:39 +0000",
    "error": null,
-   "checked_at": "2026-11-19T15:00:01+00:00"
+   "checked_at": "2026-11-19T15:30:05+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 6,
  "items": [
   {
    "id": "c990fb12100073c5",
@@ -10157,24 +10157,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "651db95342bb4687",
-   "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-   "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-   "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-   "published": "2026-11-09T15:24:59+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Kirsten Korosec",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T15:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
