@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T05:00:02+00:00",
+ "generated_at": "2026-11-19T05:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 09:17:05 +0530",
+   "sample_date": "周四, 19 11月 2026 10:48:14 +0530",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 10:27:19 +0530",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 10:21:40 +0530",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "38331ce5e530a234",
+   "title": "Can your laptop do what Deepinder Goyal’s ₹85,000 Temple device does? Man’s experiment gets Zomato founder’s attention",
+   "link": "https://www.livemint.com/companies/people/can-your-laptop-do-what-deepinder-goyal-s-85-000-temple-device-does-man-s-experiment-gets-zomato-founder-s-attention-11795063871782.html",
+   "summary": "A venture capital employee partially recreated Zomato co-founder Deepinder Goyal’s microphone-free Temple technology using his laptop’s accelerometer.&nbsp;",
+   "published": "2026-11-19T05:30:01+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Temple_1795065089153_ONZA_1795065113966_d2OX_0dd03618-7f35-40aa-8358-737a840fb545_w56c.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "3158b40992ba2772",
    "title": "Paytm share price crash: Payment stock slides 7% on UPI MDR rollout delay; Pine Labs, One Mobikwik Systems also tumble",
@@ -336,7 +354,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/intel_1795059825619_rU1Q_1795059885785_txKV_cfed8aba-7b1c-419a-bb39-de2d8f628b04_4C86.png",
@@ -354,7 +372,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Elon_Musk_spending_1795059111351_fyAN_1795059115427_rhYx_a7c1cfb3-5ca1-4457-8e85-2f2dd6d3bf4a_Y7me.png",
@@ -430,7 +448,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Son_1795056930763_gMBX_1795056944367_vTXU_80cd7758-655d-4784-bbe5-ac2d95edca4c_1zHf.jpg",
@@ -493,7 +511,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Meta_Zukerberg_1795054667026_tZ5O_1795054672199_pfea_16cbf43c-f31e-469a-b3eb-85f47650dcfc_hQni.png",
@@ -587,7 +605,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Anthropic_1795052216830_X4W5_1795052230508_hN6z_6e939a8f-5a5c-4987-a1d5-5c0d40886cc8_el9d.png",
@@ -610,7 +628,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Kress_Nvidia_1795051566509_X0td_1795051584725_JKz0_4eb9a2a2-c2d9-4a4b-8694-f37f843b26fd_lSVe.png",
@@ -684,7 +702,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/pet_food_1681362095366_1795011341022_RTN9_eea58a5e-2708-4804-bed6-9773fa68be25_oLYh.jpg",
@@ -702,7 +720,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/mutual_fund_5_1745329018416_1795019589691_GBEy_9309111a-b893-47ef-b0bb-7d6738b3ac16_zFJQ.jpg",
@@ -758,7 +776,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/2-0-548636603-Cognizant-0_1680597733733_1795014250612_YxLa_677b6005-c54d-41d1-8c3e-90c235fc5a4c_IhOf.jpg",
@@ -776,7 +794,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Kristo_Kaarmann_1795008992713_n6jN_1795008998058_is9m_1c96e707-11f4-457d-9f91-47cc592a9b9c_ClLA.jpg",
@@ -796,7 +814,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/hhdbd_1795021569135_r4qX_1795021572445_o2VF_b83f8eee-c5ae-4980-9087-91de6b6f06b4_0sM1.jpg",
@@ -814,7 +832,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/2-0-1404858055-hires--1--0_1679755955444_1795010285287_IDxm_baa0eb09-2342-47af-ac61-b8c825548f8d_1x2b.jpg",
@@ -904,7 +922,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
@@ -994,7 +1012,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_1_1733464951182_1733464958176.png",
@@ -1076,7 +1094,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/vedanta_1794983443839_f3yP_1794983463304_uwZK_a6811b97-afa8-430b-bcd4-e18d505afdbd_NdYM_1795006937122_KIlV_38f881e7-57f2-43c4-8504-90beea3ddf01_lJWm.jpg",
@@ -1130,7 +1148,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/intel_1795019743908_Zk0e_1795019744056_caF5_a32de563-9995-42ec-9667-8ff1619890e4_XjrW.png",
@@ -1184,7 +1202,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/217104_1795019391936_JNEH_1795019395711_WgvW_50fee15f-e789-4d58-b5e5-6459af63fbad_f29w.jpg",
@@ -1322,7 +1340,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Ammonia_project_1795012650557_LGjF_1795012650710_2Jxf_11d4d664-36b7-4365-818d-3a819c5d3225_NZZG.jpeg",
@@ -1402,7 +1420,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/ongc_1795004715748_043s_1795004716116_9WiB_acf9dea9-babc-4ed5-a100-9fa8c7ea0878_eFfD.png",
@@ -1420,7 +1438,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/NVIDIA-RESULTS-INVESTORS-0_1794998530633_dq74_1794998542898_4w5u_220c1c30-0bad-44c2-b3ea-02eef9fd836b_8KjW.JPG",
@@ -1478,7 +1496,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/INDIA-NEF-86_1795000983538_eYhc_1795001020862_rDNh_39eaf5fb-afb6-4152-ab4d-ba50f75deb55_WCVG.jpg",
@@ -1496,7 +1514,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/MixCollage-18-Nov-2026-05-54-PM-9349_1795004703267_kHhS_1795004711859_13PI_91407c79-c0fd-42b7-8cf5-a99484832988_k5xU.jpg",
@@ -1514,7 +1532,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/IMG_7766_1795008775276_zxji_1795008801057_E4nY_24dfd40c-c6f3-424b-bded-0d41939844c0_oeAK.jpg",
@@ -1576,7 +1594,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Bombay_High_Court_and_ICICI_Bank_Montage_1795000457052_J6dI_1795000472133_G1GF_ecda46c2-37bc-4abf-ac80-100b0b090b2c_04mP.png",
@@ -1612,7 +1630,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/salesforce_1794999935069_ZnRE_1794999935198_HFCi_502fbec5-8481-49f9-8447-e42776c9d97e_K0RF.jpg",
@@ -1648,7 +1666,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Untitled_Design_1794998009871_XuO0_1794998014071_JMvl_74ab0fe1-df55-421d-bc65-eab90d649ed7_g2sj.png",
@@ -1684,7 +1702,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/FRACTAL-ACQUISITIONS--0_1794995364067_JLFU_1794995389353_kNjs_fb22f664-971d-4d10-9a78-9d45bb4b316d_jmm0.JPG",
@@ -1802,7 +1820,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/QUALCOMM-STOCKS--0_1794991926677_KCXQ_1794991944260_OpzQ_14239128-05c2-4959-bbad-e4eead8c3969_ftRz.JPG",
@@ -1862,7 +1880,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/ANI-20260921143-0_1794992679240_Pdxt_1794992693047_2HDB_fab4b364-3033-40f3-a2b5-eee5b665bb5b_ULOj.jpg",
@@ -1880,7 +1898,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/Executive_Portrait_with_Air_India_Express_Jet_1794997594713_PtC7_1794997609871_jwZo_95134de8-d5e4-49af-969f-7efa0a9a7870_bz2t.png",
@@ -1918,7 +1936,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/megha_1794991141742_sAcY_1794991152929_ROOp_ed94f53d-e12a-4746-b812-451a6e8ed5b4_7mJ4.jpg",
@@ -1980,7 +1998,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Nvidia_Heidrick_Struggles_Ai-image_1794990842976_GKi9_1794990843199_EqRN_07d8a784-8a89-4118-a879-de38f520bc32_K0Rg.jpg",
@@ -2060,7 +2078,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/nvidia_co-founders_1794988836040_YrOv_1794988849604_tM4Z_b70fd531-088f-4c45-8061-347f45860583_qMWY.jpg",
@@ -2096,7 +2114,7 @@
    "source": "Mint Companies",
    "group": "Mint",
    "category": "Companies",
-   "date_known": true,
+   "date_known": false,
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/INDIA-TATA-STEEL--0_1794988084279_7btB_1794988097327_NQAp_5f38a11e-7f32-4203-a36c-2f6f45ff70d4_Lyc3.JPG",
@@ -11516,24 +11534,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/The-age-groups-of-18-25-years-constitutes-55-64--o_1682479017095_1794552834112_nRQ1_3552f4e8-caf3-49e4-838c-a555db79b4e3_iS4J.jpg",
-   "topics": [],
-   "first_seen": "2026-11-13T08:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "da6c7fe9e5708906",
-   "title": "IRCTC, RVNL, IRFC, RailTel to IRCON: Railway stocks fall up to 3%; opportunity to buy on dip? Experts' views, target, SL",
-   "link": "https://www.livemint.com/market/stock-market-news/irctc-rvnl-irfc-railtel-to-ircon-railway-stocks-fall-up-to-3-opportunity-to-buy-on-dip-experts-views-target-sl-11794553579136.html",
-   "summary": "IRCTC, RVNL, IRFC, RailTel to IRCON, majoarity of the railway stoks are facing the margin pressure and broader market headwinds, believe experts",
-   "published": "2026-11-13T07:34:08+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/IRCTC_RVNL_IRCON_IRFC_share_price_target_1794553876662_XzpI_1794553876919_OQTm_085f8bf6-f39a-4e12-a3d0-cf7b089ad862_9rcA.png",
    "topics": [],
    "first_seen": "2026-11-13T08:00:02+00:00",
    "valuation_score": 0,

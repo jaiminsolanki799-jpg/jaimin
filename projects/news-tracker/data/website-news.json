@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T05:00:02+00:00",
+ "generated_at": "2026-11-19T05:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
+   "sample_date": "Wed, 18 Nov 2026 08:38:25 GMT",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 31,
-   "items": 31,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T05:00:02+00:00"
+   "checked_at": "2026-11-19T05:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "f8c86923639313c9",
+   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
+   "link": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
+   "summary": "Bajaj Finance and Pennant Technologies are backing Soket AI with investments of around $2 million each to advance its homegrown foundation models and enterprise AI solutions.",
+   "published": "2026-11-19T05:23:09+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "876bf991a3401a71",
+   "title": "Ultraviolette X-47 Venom review: An electric crossover that makes more sense on the road?",
+   "link": "https://yourstory.com/2026/11/ultraviolette-x-47-venom-review-electric-crossover-makes-more-sense-road",
+   "summary": "Ultraviolette’s X-47 Venom gets a 20kg weight reduction, improved battery cooling, more technology and better road manners, making it a compelling electric crossover. Here’s what we think.",
+   "published": "2026-11-19T04:55:37+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T05:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "27d55a23c9289f3c",
    "title": "DCGpac’s FY26 revenue rises 35% to Rs 208 Cr; remains EBITDA positive",
@@ -9653,24 +9689,6 @@
    "valuation_signals": [
     "Results"
    ]
-  },
-  {
-   "id": "fdfdfd60876dfdbc",
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-   "published": "2026-11-09T05:26:29+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Connie Loizos",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T05:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
