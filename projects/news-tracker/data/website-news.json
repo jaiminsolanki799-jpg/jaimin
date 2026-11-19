@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T11:30:01+00:00",
+ "generated_at": "2026-11-19T12:00:06+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:30:01+00:00"
+   "checked_at": "2026-11-19T12:00:06+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
+   "sample_date": "Thu, 19 Nov 2026 04:55:37 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:30:01+00:00"
+   "checked_at": "2026-11-19T12:00:06+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:30:01+00:00"
+   "checked_at": "2026-11-19T12:00:06+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 27,
-   "items": 27,
+   "fetched": 28,
+   "items": 28,
    "sample_date": "Thu, 19 Nov 2026 02:03:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T11:30:01+00:00"
+   "checked_at": "2026-11-19T12:00:06+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T11:30:01+00:00"
+   "checked_at": "2026-11-19T12:00:06+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "91e4f6fedf5f7a96",
+   "title": "Gen Z’s guide to self-improvement: Build habits that pay off",
+   "link": "https://yourstory.com/2026/11/gen-z-guide-to-self-improvement",
+   "summary": "Explore practical self-improvement habits for Gen Z that improve focus, confidence, productivity and personal growth while delivering long-term results.",
+   "published": "2026-11-19T11:50:14+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T12:00:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "41125b7b86fe964b",
+   "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM25mMWxKMzNHMHNBNUxoWXVHOTZEOGtvbHpyN2dSMGx0Ymt1YW1pV1B0OUZTVlVxTmM3LWt5aVk4bE5wWTZnb1Q4elFyZGNEcFZZMjFnTXRHdVJoZllCbWNjZ3dZc2drZDBCS2M5QnBmUVlRWHpLUkdUQmY2UG5uRnpIaGtmVU84c1RJS1RwRjFrUENJMlVqZTY0TTZhbGRwb0HSAaIBQVVfeXFMTjNuZjFsSjMzRzBzQTVMaFl1Rzk2RDhrb2x6cjdnUjBsdGJrdWFtaVdQdDlGU1ZVcU5jNy1reWlZOGxOcFk2Z29UOHpRcmRjRHBWWTIxZ010R3VSaGZZQm1jY2d3WXNna2QwQktjOUJwZlFZUVh6S1JHVEJmNlBubkZ6SGhrZlVPOHNUSUtUcEYxa1BDSTJVamU2NE02YWxkcG9B?oc=5",
+   "summary": "",
+   "published": "2026-11-19T11:41:38+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T12:00:06+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "92388a98988952a3",
    "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
@@ -10066,24 +10104,6 @@
     "IPO",
     "Rules"
    ]
-  },
-  {
-   "id": "5fb3e99b55398ee3",
-   "title": "Tesla expands robotaxi service to San Antonio",
-   "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-   "summary": "This will be the next Texas city in which Tesla will launch robotaxis.",
-   "published": "2026-11-09T11:30:24+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Kirsten Korosec",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T12:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
