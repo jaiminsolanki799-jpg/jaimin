@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T10:00:02+00:00",
+ "generated_at": "2026-11-19T10:30:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:00:02+00:00"
+   "checked_at": "2026-11-19T10:30:04+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
+   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:00:02+00:00"
+   "checked_at": "2026-11-19T10:30:04+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 09:26:12 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:00:02+00:00"
+   "checked_at": "2026-11-19T10:30:04+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 26,
-   "items": 26,
+   "fetched": 28,
+   "items": 28,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:00:02+00:00"
+   "checked_at": "2026-11-19T10:30:04+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T10:00:02+00:00"
+   "checked_at": "2026-11-19T10:30:04+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "e52f2502e27aaa06",
+   "title": "When agents go out of bounds: How Lasso is helping enterprises secure the AI agents they build and use",
+   "link": "https://yourstory.com/2026/11/agents-lasso-enterprises-secure-ai-agents",
+   "summary": "Enterprises are deploying AI agents faster than they can track them, and not every agent stays within the boundaries it was given. Lasso, part of NetApp Excellerator, is changing that.",
+   "published": "2026-11-19T10:18:24+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T10:30:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "337f6295ca91dcc6",
    "title": "Paytm, Pine Labs, MobiKwik shares tank over 7% amid reports of further UPI MDR delay",
@@ -106,6 +124,24 @@
    "image": "https://static.startuptalky.com/2026/11/meta-pauses-share-structure-changes-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-11-19T09:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9b8480a2a41b6f0f",
+   "title": "Disseqt AI",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yaHJuZFN1ZUhOLWtlWTRSYi1nWXNINW9ESldpY1RVYXlnczktaU5raG9KVk9NNUdMek02UVFOME5LRUxpRlBHWFpMLWk?oc=5",
+   "summary": "",
+   "published": "2026-11-19T08:40:31+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T10:30:04+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -395,7 +431,7 @@
   },
   {
    "id": "79e329f333982538",
-   "title": "Decoding: Cap Table of Aman Gupta and Ranveer Singh’s H.I.M",
+   "title": "Decoding captable of Aman Gupta and Ranveer Singh’s H.I.M",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHJRNUkyRm9YYlNQR21lSjlQdm1RRU1tWFluRjVuX1o4MWU0RlVwOFVaOUgtREJ4RXJwZGswRlViT0NyUjBmMGNNNXdJZkwtNFFtTllNUFpFdjFXS3RrMW9YUlkyNXBqa1pUOURGY2U0WkRQOGVpb1hmS0NiSU53RGsyYXZyNFQ3MzUzLXJjM2NjZXdfdERXOVhR0gGaAUFVX3lxTE04clE1STJGb1hiU1BHbWVKOVB2bVFFTW1YWW5GNW5fWjgxZTRGVXA4VVo5SC1EQnhFcnBkazBGVWJPQ3JSMGYwY001d0lmTC00UW1OWU1QWkV2MVdLdGsxb1hSWTI1cGprWlQ5REZjZTRaRFA4ZWlvWGZLQ2JJTndEazJhdnI0VDczNTMtcmMzY2Nld190RFc5WFE?oc=5",
    "summary": "",
    "published": "2026-11-19T06:31:58+00:00",
@@ -10013,24 +10049,6 @@
     "IPO",
     "Rules"
    ]
-  },
-  {
-   "id": "c0dcc8bdadff04fa",
-   "title": "PhysicsWallah cites AI efficiencies for job cuts; offline biz faces profit pressure, earmarks $20 Mn for M&A",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzNFdVJTYVhfc1Nqd2dVNUpXSmF4QkhxQ2p4U0xFUWVOQzZIYWNwdFg2ZE5LWW1JZ0xLc0t2VFIwSGlZSjF0MGJXOHFSejlGYUdaLWRVN1cyQmdoZVdKcnlidU04Q0lXVE80UG9mSjhSMGVwMHl0N1FfQzBoQ0tKTXh2b0lqZDdjM0xUSWdVamxWY1FlQjZ5U29DdWVjbmE4amIzbXQwZzQ3eDVYMTNjY0lWTzFwLS1rSHZ5M2Rac0RSWHZmT1dKVUYzUnlobGhnejN2eHVR0gHWAUFVX3lxTFBvM0V1UlNhWF9zU2p3Z1U1SldKYXhCSHFDanhTTEVRZU5DNkhhY3B0WDZkTktZbUlnTEtzS3ZUUjBIaVlKMXQwYlc4cVJ6OUZhR1otZFU3VzJCZ2hlV0pyeWJ1TThDSVdUTzRQb2ZKOFIwZXAweXQ3UV9DMGhDS0pNeHZvSWpkN2MzTFRJZ1VqbFZjUWVCNnlTb0N1ZWNuYThqYjNtdDBnNDd4NVgxM2NjSVZPMXAtLWtIdnkzZFpzRFJYdmZPV0pVRjNSeWhsaGd6M3Z4dVE?oc=5",
-   "summary": "",
-   "published": "2026-11-09T10:02:20+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T10:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
