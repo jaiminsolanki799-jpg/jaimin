@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T06:30:02+00:00",
+ "generated_at": "2026-11-19T07:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -11,9 +11,9 @@
    "ok": true,
    "fetched": 5,
    "items": 5,
-   "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
+   "sample_date": "Mon, 16 Nov 2026 04:26:10 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:30:02+00:00"
+   "checked_at": "2026-11-19T07:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:30:02+00:00"
+   "checked_at": "2026-11-19T07:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 19 Nov 2026 05:40:00 GMT",
+   "sample_date": "Thu, 19 Nov 2026 06:45:11 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:30:02+00:00"
+   "checked_at": "2026-11-19T07:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 30,
-   "items": 30,
+   "fetched": 32,
+   "items": 32,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:30:02+00:00"
+   "checked_at": "2026-11-19T07:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T06:30:02+00:00"
+   "checked_at": "2026-11-19T07:00:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,138 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 13,
  "items": [
+  {
+   "id": "640f7c81e849f583",
+   "title": "How VedaCorp Sealed the Rs 1,600 Crore A2B–Bodhi Tree Deal After 8 Years",
+   "link": "https://yourstory.com/2026/11/a2b-bodhi-tree-majority-stake-rs-1600-crore-deal-vedacorp",
+   "summary": "VedaCorp’s Sivaraj Sekar reveals how Bodhi Tree bought a majority stake in A2B for Rs 1,600 crore after 8 years of patient talks.",
+   "published": "2026-11-19T06:55:59+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "053666f7c23e1d91",
+   "title": "From pattern matching to governing intent: How Semantic DLP is securing enterprise Gen AI",
+   "link": "https://yourstory.com/2026/11/governing-semantic-dlp-securing-enterprise-gen-ai",
+   "summary": "Legacy DLP was built to catch patterns. It was not built to understand what employees paste into AI. Wald.ai, part of NetApp Excellerator’s Cohort 15, is teaching security to read intent.",
+   "published": "2026-11-19T06:55:37+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2b35711a6bd76a47",
+   "title": "Dialysis care provider VitusCare raises $3 Mn in Series B round",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbjF1a21lS1BXcldHZXAzaW5IMzUyTG5KbzhIcDgyWlV2SG8tNGJtbkVSczRFYlowS3Jad3k1ZWsxSFQ5UGxXVXR5dDdXYWhzVlZpdFd1b2t6anJsek1qa0ZHSjZnZzdacW1wOGN4bXFIdWlZUzd4TzBYLTJ0SThPYlAya3BEZGptZWRaRVhkVmNfeGtMdGVIUTZjNzhodTg1OFNN0gGjAUFVX3lxTE1uMXVrbWVLUFdyV0dlcDNpbkgzNTJMbkpvOEhwODJaVXZIby00Ym1uRVJzNEViWjBLclp3eTVlazFIVDlQbFdVdHl0N1dhaHNWVml0V3Vva3pqcmx6TWprRkdKNmdnN1pxbXA4Y3htcUh1aVlTN3hPMFgtMnRJOE9iUDJrcERkam1lZFpFWGRWY194a0x0ZUhRNmM3OGh1ODU4U00?oc=5",
+   "summary": "",
+   "published": "2026-11-19T06:55:09+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "899a42680fc7579e",
+   "title": "Adobe Acrobat Online Is Now Free in India: 25+ PDF Tools",
+   "link": "https://startuptalky.com/adobe-acrobat-online-free/",
+   "summary": "Acrobat.com now has 25+ PDF tools that are free in your browser, unlimited with a free account. Here's what's included, what isn't, and how it compares with iLovePDF and Smallpdf.",
+   "published": "2026-11-19T06:45:11+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/10/Free-Acrobat-PDF-Tools-Workspace.png",
+   "topics": [],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2719594fcd588436",
+   "title": "Cyient Semiconductors bags $10M from GlobalFoundries",
+   "link": "https://yourstory.com/2026/11/cyient-semiconductors-bags-usd-10m-from-globalfoundries",
+   "summary": "Cyient Semiconductors will use the capital to scale custom-chip development, manufacturing access, and global growth.",
+   "published": "2026-11-19T06:35:02+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "79e329f333982538",
+   "title": "Decoding: Cap Table of Aman Gupta and Ranveer Singh’s H.I.M",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHJRNUkyRm9YYlNQR21lSjlQdm1RRU1tWFluRjVuX1o4MWU0RlVwOFVaOUgtREJ4RXJwZGswRlViT0NyUjBmMGNNNXdJZkwtNFFtTllNUFpFdjFXS3RrMW9YUlkyNXBqa1pUOURGY2U0WkRQOGVpb1hmS0NiSU53RGsyYXZyNFQ3MzUzLXJjM2NjZXdfdERXOVhR0gGaAUFVX3lxTE04clE1STJGb1hiU1BHbWVKOVB2bVFFTW1YWW5GNW5fWjgxZTRGVXA4VVo5SC1EQnhFcnBkazBGVWJPQ3JSMGYwY001d0lmTC00UW1OWU1QWkV2MVdLdGsxb1hSWTI1cGprWlQ5REZjZTRaRFA4ZWlvWGZLQ2JJTndEazJhdnI0VDczNTMtcmMzY2Nld190RFc5WFE?oc=5",
+   "summary": "",
+   "published": "2026-11-19T06:31:58+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "01ce5860bbb105be",
+   "title": "PhysicsWallah Expands into Higher Education with New Digital University",
+   "link": "https://startuptalky.com/news/physicswallah-expands-into-higher-education/",
+   "summary": "PhysicsWallah (PW) is planning to establish a greenfield digital university in Punjab. It would provide undergraduate and postgraduate programs such as BCA, BBA, B.Com, BA, MBA and MCA. The asset-light college is self-financed and is slated to begin admissions in July 2027.",
+   "published": "2026-11-19T06:25:59+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/physicswallah-expands-into-higher-education-Startuptalky.jpg",
+   "topics": [
+    "MCA / ROC"
+   ],
+   "first_seen": "2026-11-19T07:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "090515bfeab6084d",
    "title": "Style Union raises Rs 485 Cr to expand beyond southern India",
@@ -1428,6 +1558,28 @@
     "SEBI / markets regulation"
    ],
    "first_seen": "2026-11-18T05:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
+  {
+   "id": "a8956265da65729d",
+   "title": "What Anthropic’s IPO means for the future of AI",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlJEY2ZvRzZ0SlBHSHpMV0xoeEpoemt1dDhpVEtncGhFT1J1UTRoVmpDVERqNmRjV2tfd3JuMkNDMFE0U2RkSlh4cnlnV1lpbW4taDhrRUFIQ3pBX3kyelpYQUhoU2ItQkVGRjNsMkVsTUhDTTVSOHN5aFE0ZGlzU1haSE8?oc=5",
+   "summary": "",
+   "published": "2026-11-18T04:54:44+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-19T07:00:02+00:00",
    "valuation_score": 3,
    "valuation_signals": [
     "IPO"
