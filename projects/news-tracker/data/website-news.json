@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T14:30:01+00:00",
+ "generated_at": "2026-11-19T15:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T14:30:01+00:00"
+   "checked_at": "2026-11-19T15:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-19T14:30:01+00:00"
+   "checked_at": "2026-11-19T15:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
    "error": null,
-   "checked_at": "2026-11-19T14:30:01+00:00"
+   "checked_at": "2026-11-19T15:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-19T14:30:01+00:00"
+   "ok": true,
+   "fetched": 28,
+   "items": 28,
+   "sample_date": "Thu, 19 Nov 2026 02:03:39 GMT",
+   "error": null,
+   "checked_at": "2026-11-19T15:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 14:00:00 +0000",
+   "sample_date": "Thu, 19 Nov 2026 14:54:39 +0000",
    "error": null,
-   "checked_at": "2026-11-19T14:30:01+00:00"
+   "checked_at": "2026-11-19T15:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,30 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "c990fb12100073c5",
+   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+   "published": "2026-11-19T14:54:39+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Rebecca Bellan",
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-19T15:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "3a27054e3ed0de35",
    "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
