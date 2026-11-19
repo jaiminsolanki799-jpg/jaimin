@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T18:00:01+00:00",
+ "generated_at": "2026-11-19T18:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 19 Nov 2026 11:04:05 GMT",
+   "sample_date": "Thu, 19 Nov 2026 18:24:07 GMT",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -44,9 +44,9 @@
    "ok": true,
    "fetched": 29,
    "items": 29,
-   "sample_date": "Wed, 18 Nov 2026 04:18:44 GMT",
+   "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 17:38:40 +0000",
+   "sample_date": "Thu, 19 Nov 2026 18:09:11 +0000",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 8,
  "items": [
+  {
+   "id": "5de4e2b6ca6c8fc9",
+   "title": "Startup to Scale-Up: When to Set Up Your First Overseas Entity, and When an Employer of Record (EOR) or Contractor Route Makes More Sense",
+   "link": "https://startuptalky.com/eor-contractor-or-overseas-entity-startup-expansion/",
+   "summary": "For a startup, establishing a legal entity immediately may create unnecessary administrative and cost burdens before the market has been validated.",
+   "published": "2026-11-19T18:24:07+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Shubham Kumar",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/international-expansion-eor-contractor-entity-2026.webp",
+   "topics": [],
+   "first_seen": "2026-11-19T18:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "1054662f25c3d852",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "published": "2026-11-19T18:09:11+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Sarah Perez",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T18:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "2919f418f3f51682",
    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
@@ -10141,24 +10177,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T19:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "20ff528b54959b19",
-   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-   "published": "2026-11-09T18:09:52+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Rebecca Bellan",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T18:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

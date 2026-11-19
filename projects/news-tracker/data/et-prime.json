@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T18:00:01+00:00",
+ "generated_at": "2026-11-19T18:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 22:39:03 +0530",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 20:19:55 +0530",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 22:32:00 +0530",
+   "sample_date": "Thu, 19 Nov 2026 23:42:28 +0530",
    "error": null,
-   "checked_at": "2026-11-19T18:00:01+00:00"
+   "checked_at": "2026-11-19T18:30:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "4ba8561313c5b913",
+   "title": "Air pollution raises respiratory illness claims: Children & senior citizens account for 58% of hospitalisations",
+   "link": "https://www.livemint.com/money/personal-finance/air-pollution-raises-respiratory-illness-claims-children-and-senior-citizens-account-for-58-of-hospitalisations-care-11795108281360.html",
+   "summary": "Respiratory hospitalisation claims rose 11% in both September and October 2025, with children accounting for 48% of claims in each month, Care Health Insurance data shows. Here are the health risks and precautions families should know.",
+   "published": "2026-11-19T18:12:28+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Gemini_Generated_mage_mj0qw2mj0qw2mj0q_1795108682_1795108689715_QtVb_1795108689884_sg3u_5a1ba894-18c7-4154-b165-9aaf89adb2f6_TL0j.png",
+   "topics": [],
+   "first_seen": "2026-11-19T18:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cb12e00b9615faf2",
    "title": "As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives",
@@ -11531,27 +11549,6 @@
    "first_seen": "2026-11-14T05:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "5aeb8d4e92c2359c",
-   "title": "₹150 Dividend Alert! Record date next week of Jockey firm for biggest payout declared in Q2 - check key dates, history",
-   "link": "https://www.livemint.com/market/stock-market-news/rs-150-dividend-alert-record-date-next-week-of-jockey-firm-for-biggest-payout-declared-in-q2-check-key-dates-history-11794628701443.html",
-   "summary": "Page Industries declared a second FY27 interim dividend of ₹150 per share, the largest announced during the September quarter. November 18, 2026, is the record date, with payment due by December 11. Q2 net profit rose 4% to ₹202.5 crore, while the stock has fallen 21% over the past year.",
-   "published": "2026-11-14T04:22:20+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Jockey_Dividend_Dates_and_History_1794629784898_QiMS_1794629789501_mMNE_18c8f507-363d-4afe-b743-3be194df5d14_a06V.png",
-   "topics": [],
-   "first_seen": "2026-11-14T04:30:01+00:00",
-   "valuation_score": 5,
-   "valuation_signals": [
-    "Buyback & payout",
-    "Results"
-   ]
   }
  ]
 }
