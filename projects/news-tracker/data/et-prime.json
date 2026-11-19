@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T20:30:01+00:00",
+ "generated_at": "2026-11-19T21:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 00:20:33 +0530",
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 01:53:33 +0530",
+   "sample_date": "Fri, 20 Nov 2026 02:22:23 +0530",
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 23:42:28 +0530",
    "error": null,
-   "checked_at": "2026-11-19T20:30:01+00:00"
+   "checked_at": "2026-11-19T21:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "0b88539e65d484ac",
+   "title": "US Sour Crude’s War Premium Vanishes as Supply Surges",
+   "link": "https://www.livemint.com/market/us-sour-crude-s-war-premium-vanishes-as-supply-surges-11795121544365.html",
+   "summary": "The price of US sour oil has plunged, as a surge of oil from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
+   "published": "2026-11-19T20:52:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+   "topics": [],
+   "first_seen": "2026-11-19T21:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "eb1c153de5606691",
    "title": "Latin America Currencies Sink on Rate Worries; Brazil Intervenes",
@@ -11529,24 +11547,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/VA_Tech_Wabag_Saudi_Project_Cancelled_179463728779_1794637299927_WoOj_1794637300177_vQTS_d5afa64f-1e4d-4609-a3eb-0950e6ee2a47_0cOC.png",
-   "topics": [],
-   "first_seen": "2026-11-14T06:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "841c8ff0659a5d00",
-   "title": "Germany Has an Edge in a Lower Oil Price World: Taking Stock",
-   "link": "https://www.livemint.com/market/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock-11794636529660.html",
-   "summary": "The German stock market has a lot going for it right now, with lower oil prices and a broadening rally from software to chemicals and consumer stocks powering the country’s shares.",
-   "published": "2026-11-14T06:08:49+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
    "topics": [],
    "first_seen": "2026-11-14T06:30:01+00:00",
    "valuation_score": 0,
