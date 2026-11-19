@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T00:00:01+00:00",
+ "generated_at": "2026-11-19T00:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 01:56:33 +0530",
+   "sample_date": "Thu, 19 Nov 2026 05:30:53 +0530",
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 03:39:11 +0530",
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 23:15:05 +0530",
    "error": null,
-   "checked_at": "2026-11-19T00:00:01+00:00"
+   "checked_at": "2026-11-19T00:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "5f1f14b1d7dc6382",
+   "title": "What lurks beneath India's strong quarterly earnings",
+   "link": "https://www.livemint.com/companies/company-results/india-inc-q2-corporate-earnings-profit-revenue-11794995889259.html",
+   "summary": "Adjusted net profit of 3,835 companies rose 30% in Q2FY27, the fastest growth in three years, a Mint analysis showed. But rising input costs and limited pricing power could weigh on margins in the second half.",
+   "published": "2026-11-19T00:00:53+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/2-0-1404858055-hires--1--0_1679755955444_1795010285287_IDxm_baa0eb09-2342-47af-ac61-b8c825548f8d_1x2b.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T00:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d8538de8d736aa70",
    "title": "India’s USD25 bn copper drive moves from building smelters to securing mines",
@@ -11523,26 +11541,6 @@
    "valuation_score": 3,
    "valuation_signals": [
     "Buyback & payout"
-   ]
-  },
-  {
-   "id": "f64caf62da87b01c",
-   "title": "51% rally in 2026 so far! ICICI Direct sees 28% upside potential in this defence stock - Do you own? Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/51-rally-in-2026-so-far-icici-direct-sees-28-upside-potential-in-this-defence-stock-do-you-own-check-target-price-11794507179450.html",
-   "summary": "Azad Engineering shares have risen about 51% in 2026, but ICICI Securities sees up to 28% further upside and retains a Buy rating, with a revised target of ₹3,100. Potential delivery of a second engine to DRDO and aerospace expansion could support growth.",
-   "published": "2026-11-13T03:00:32+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/GSHHjajj_1794507302029_iqAO_1794507314591_HO0f_05ca8a69-6896-4ddd-9d41-c5349f3d7137_X2LP.png",
-   "topics": [],
-   "first_seen": "2026-11-13T03:30:04+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
    ]
   }
  ]
