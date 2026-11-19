@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T06:00:01+00:00",
+ "generated_at": "2026-11-19T06:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:00:01+00:00"
+   "checked_at": "2026-11-19T06:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Wed, 18 Nov 2026 12:24:12 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:00:01+00:00"
+   "checked_at": "2026-11-19T06:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Wed, 18 Nov 2026 13:44:53 GMT",
+   "sample_date": "Thu, 19 Nov 2026 05:40:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T06:00:01+00:00"
+   "checked_at": "2026-11-19T06:30:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 429",
-   "checked_at": "2026-11-19T06:00:01+00:00"
+   "ok": true,
+   "fetched": 30,
+   "items": 30,
+   "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
+   "error": null,
+   "checked_at": "2026-11-19T06:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T06:00:01+00:00"
+   "checked_at": "2026-11-19T06:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 6,
  "items": [
   {
    "id": "090515bfeab6084d",
@@ -92,6 +92,24 @@
    "valuation_signals": [
     "Funding"
    ]
+  },
+  {
+   "id": "9433ff68444a6a46",
+   "title": "Influencer Marketing Strategies for Black Friday & Cyber Monday",
+   "link": "https://startuptalky.com/influencer-marketing-strategy-bfcm/",
+   "summary": "Learn how to use influencer marketing for Black Friday and Cyber Monday 2026. Discover creator partnerships, affiliate deals, campaign ideas, content repurposing, and strategies to increase holiday sales.",
+   "published": "2026-11-19T05:40:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Rishi Mundra",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2023/11/Influencer-Marketing-Strategies-For-BFCM-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
   },
   {
    "id": "f8c86923639313c9",
@@ -9671,44 +9689,6 @@
    "first_seen": "2026-11-09T10:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "04d21fb8ca01f22e",
-   "title": "FamApp’s revenue touches Rs 25 Cr in FY26, profit nosedives 99%",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGl4VGI5SnRiRHFOVGp3enFMaF9mNEhBazFZcUl5d3FlN1Qwemw0VTBmXzljSWJXREwzd0kwYTNaSlpFN1VnRVdodTk2RThPVnhzb3U4VndnVXh6TFR4QXVXc1dSTUQ0c1gzYlVKYk9hWFBEYUVFQ293Smd0TzNYQ21SY3JqbDl2azhtWXVYaHlYQ0dTVkNXOUNqV2ZuVkhDVkHSAaIBQVVfeXFMT3BpeFRiOUp0YkRxTlRqd3pxTGhfZjRIQWsxWXFJeXdxZTdUMHpsNFUwZl85Y0liV0RMM3dJMGEzWkpaRTdVZ0VXaHU5NkU4T1Z4c291OFZ3Z1V4ekxUeEF1V3NXUk1ENHNYM2JVSmJPYVhQRGFFRUNvd0pndE8zWENtUmNyamw5dms4bVl1WGh5WENHU1ZDVzlDaldmblZIQ1ZB?oc=5",
-   "summary": "",
-   "published": "2026-11-09T06:26:22+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T07:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a2d6fa142ec47219",
-   "title": "DriveU’s net profit doubles in FY26; NTV grows to Rs 131 Cr",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVYzTVVUbXlYWkk5NkpuTWpoQXNJQnd0RGItTjBaek9rU3NTd0NvOEZvMWhBbEpOblVHbGhBREtMQUllN1RZbURJUWN6QkZIZjFfckR5SjRiV3RJNFNYQmJ3bVNLakpsTVJHbktzRUtNT09OM3hDNkVCZDJEXzI0TUk2bFBRam84VmxnTXQ4RGt3YTlSM2JLXzdBMHptQdIBngFBVV95cUxPbVYzTVVUbXlYWkk5NkpuTWpoQXNJQnd0RGItTjBaek9rU3NTd0NvOEZvMWhBbEpOblVHbGhBREtMQUllN1RZbURJUWN6QkZIZjFfckR5SjRiV3RJNFNYQmJ3bVNLakpsTVJHbktzRUtNT09OM3hDNkVCZDJEXzI0TUk2bFBRam84VmxnTXQ4RGt3YTlSM2JLXzdBMHptQQ?oc=5",
-   "summary": "",
-   "published": "2026-11-09T06:14:44+00:00",
-   "source": "Entrackr",
-   "group": "Entrackr",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": "Entrackr",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-09T06:30:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
