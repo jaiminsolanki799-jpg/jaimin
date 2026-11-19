@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T10:30:04+00:00",
+ "generated_at": "2026-11-19T11:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:30:04+00:00"
+   "checked_at": "2026-11-19T11:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 08:10:30 GMT",
+   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:30:04+00:00"
+   "checked_at": "2026-11-19T11:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,20 +33,20 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Thu, 19 Nov 2026 09:26:12 GMT",
+   "sample_date": "Thu, 19 Nov 2026 10:22:48 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:30:04+00:00"
+   "checked_at": "2026-11-19T11:00:01+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 28,
-   "items": 28,
-   "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
+   "fetched": 26,
+   "items": 26,
+   "sample_date": "Wed, 18 Nov 2026 07:03:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T10:30:04+00:00"
+   "checked_at": "2026-11-19T11:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T10:30:04+00:00"
+   "checked_at": "2026-11-19T11:00:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,44 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "7070b18287506acd",
+   "title": "Disseqt AI raises $8M to build enterprise AI safeguards",
+   "link": "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards",
+   "summary": "The funds will support the expansion of Disseqt’s enterprise customer base globally. The company is also hiring in India across sales, operations and technology, with plans to expand into London.",
+   "published": "2026-11-19T10:30:34+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T11:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
+  {
+   "id": "5fce9b61bd83fd72",
+   "title": "Allana Group Targets Global Markets While Expanding its Food Business in India",
+   "link": "https://startuptalky.com/news/allana-group-targets-global-markets/",
+   "summary": "Allana Group wants to grow its global distribution network and strengthen its food and protein operations in India during the next two to three years. The Mumbai-based meat exporter plans to set up distribution offices in Egypt, Iraq and Saudi Arabia.",
+   "published": "2026-11-19T10:22:48+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/allana-group-targets-global-markets-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T11:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "e52f2502e27aaa06",
    "title": "When agents go out of bounds: How Lasso is helping enterprises secure the AI agents they build and use",
@@ -10026,29 +10064,6 @@
    "first_seen": "2026-11-09T11:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "d96e11e04424fce0",
-   "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
-   "link": "https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo",
-   "summary": "MakeMyTrip is listed on Nasdaq stock exchange The proceeds from the planned IPO will be utilised by MakeMyTrip for long term growth, inorganic opportunities and repurchase of different types shares Nasdaq-listed travel booking platform MakeMyTrip's India subsidiary has received Sebi's approval to",
-   "published": "2026-11-09T10:55:54+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-09T11:00:01+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "IPO",
-    "Rules"
-   ]
   }
  ]
 }
