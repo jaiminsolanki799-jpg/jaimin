@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T16:00:01+00:00",
+ "generated_at": "2026-11-19T16:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 20:25:17 +0530",
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 20:19:55 +0530",
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 21:25:08 +0530",
+   "sample_date": "Thu, 19 Nov 2026 21:34:32 +0530",
    "error": null,
-   "checked_at": "2026-11-19T16:00:01+00:00"
+   "checked_at": "2026-11-19T16:30:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,24 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "7f2236abdef1554b",
+   "title": "EPFO looks beyond bonds and ETFs, approves up to 3% of inflows in Alternate Investment Funds",
+   "link": "https://www.livemint.com/money/personal-finance/epfo-looks-beyond-bonds-and-etfs-allows-up-to-3-of-inflows-in-alternate-investment-funds-11795101326757.html",
+   "summary": "The EPFO board also approved SWP, allowing members to withdraw their PF savings in instalments. It reduced the minimum balance requirement for final withdrawals from 25% to 10% and cut the waiting period from 12 months to two months.",
+   "published": "2026-11-19T16:04:32+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/EPFO_Diversification_into_AIF_1795104163139_wff8_1795104169021_060S_50768444-f3e2-48b5-b69c-579be0b9584d_S3IH.png",
+   "topics": [],
+   "first_seen": "2026-11-19T16:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "296595aaade38f8a",
    "title": "EPFO’s new SWP option: Who stands to benefit from monthly PF payouts after retirement? | Explained",
@@ -11530,28 +11548,6 @@
    "first_seen": "2026-11-14T04:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "9b194ceb38e98c1f",
-   "title": "Ramayana effect? Prime Focus Q2 results: Revenue rises to ₹1,410.17 crore; PAT climbs to ₹91.04 crore from ₹5.8 crore",
-   "link": "https://www.livemint.com/market/ramayana-effect-prime-focus-q2-results-revenue-rises-to-1-410-17-crore-pat-climbs-to-91-04-crore-from-5-8-crore-11794627104139.html",
-   "summary": "Prime Focus reported Q2 FY27 net profit of ₹58.27 crore, up from ₹4.06 crore a year earlier, as revenue rose 35.2% to ₹1,410.17 crore on strong visual-effects demand. The company swung from a ₹45.78 crore loss in the June quarter and disclosed Income Tax Department searches in October.",
-   "published": "2026-11-14T03:42:42+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Prime_Focus_1794627483290_6jIw_1794627490163_vH1p_c1439881-46d0-4ee2-8a51-47d7342ec00b_Kruh.jpg",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-14T04:00:03+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
