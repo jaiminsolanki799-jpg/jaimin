@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T15:30:05+00:00",
+ "generated_at": "2026-11-19T16:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 20:25:17 +0530",
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 20:19:55 +0530",
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 20:12:18 +0530",
+   "sample_date": "Thu, 19 Nov 2026 21:25:08 +0530",
    "error": null,
-   "checked_at": "2026-11-19T15:30:05+00:00"
+   "checked_at": "2026-11-19T16:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 0,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "296595aaade38f8a",
+   "title": "EPFO’s new SWP option: Who stands to benefit from monthly PF payouts after retirement? | Explained",
+   "link": "https://www.livemint.com/money/personal-finance/epfos-new-swp-option-who-stands-to-benefit-from-monthly-pf-payouts-after-retirement-explained-11795100208871.html",
+   "summary": "EPFO's proposed systematic withdrawal plan (SWP) could benefit retiring employees with over ₹5 lakh in PF savings by allowing them to receive monthly, quarterly or half-yearly payouts while the remaining retirement corpus continues to earn interest.",
+   "published": "2026-11-19T15:55:08+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Gemini_Gnerated_Image_wz6ftpwz6ftpwz6f_179510040_1795100409682_3HSo_1795100409815_0unx_c0fc3619-f9dc-4dc3-81ac-0868b0c3540b_m1bS.png",
+   "topics": [],
+   "first_seen": "2026-11-19T16:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "08ede3d607fb65a6",
    "title": "Who is Alok Bansal? Here’s why the PB Fintech co-founder is stepping down as executive vice-chairman",
@@ -11534,24 +11552,6 @@
    "valuation_signals": [
     "Results"
    ]
-  },
-  {
-   "id": "37c45704be3b6e84",
-   "title": "Swiggy, Zepto, Eternal rivals on same board: What govt's new gig worker welfare panel means",
-   "link": "https://www.livemint.com/companies/news/swiggy-zepto-eternal-rivals-on-same-board-what-govts-new-gig-worker-welfare-panel-means-11794626752228.html",
-   "summary": "Madhav Kasturia highlights how Swiggy, Zepto and Eternal will come together on a government panel to recommend welfare measures for gig workers, including insurance and healthcare. The move could also add to aggregator costs under the Social Security Code.",
-   "published": "2026-11-14T03:30:06+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Gig_workers_1794626949581_1L4e_1794626954699_Xkiz_9db23f4e-7d4a-415c-abbd-dee9d01ad709_QPBB.png",
-   "topics": [],
-   "first_seen": "2026-11-14T04:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
