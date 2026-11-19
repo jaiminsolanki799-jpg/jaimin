@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T14:00:02+00:00",
+ "generated_at": "2026-11-19T14:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 19:08:53 +0530",
+   "sample_date": "Thu, 19 Nov 2026 19:45:33 +0530",
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 19:05:31 +0530",
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 19:23:07 +0530",
    "error": null,
-   "checked_at": "2026-11-19T14:00:02+00:00"
+   "checked_at": "2026-11-19T14:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,48 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "549e6b4d06c74789",
+   "title": "India biodiesel blending target: Why actual levels remain at just 0.08% despite 2030 goal",
+   "link": "https://www.livemint.com/companies/news/india-biodiesel-blending-target-why-actual-levels-remain-at-just-0-08-despite-2030-goal-11795096354156.html",
+   "summary": "The availability of sufficient raw materials remains a key factor in determining how quickly India can expand its biodiesel blending programme and move closer to its 2030 target.",
+   "published": "2026-11-19T14:15:33+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/India_Biodiesel_Blending_Gap_1795097319340_c7jl_1795097343354_e6bf_f9af0fab-89c2-4ddd-8298-00d8af72ccdd_kiLE.png",
+   "topics": [],
+   "first_seen": "2026-11-19T14:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ca88c05c2175c95f",
+   "title": "Anthropic IPO windfall: More than 400 employees could be worth over ₹935 crore each",
+   "link": "https://www.livemint.com/companies/news/anthropic-ipo-windfall-more-than-400-employees-could-be-worth-over-935-crore-each-11795095476490.html",
+   "summary": "Anthropic's $1.5 trillion IPO could make the average employee worth over ₹370 crore, with 400 early staff potentially becoming multimillionaires.",
+   "published": "2026-11-19T14:11:19+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/anthropic_1795097438470_rxHy_1795097438753_gtyD_305e48c5-6597-47b5-bb55-4c4cfcef652a_USYW.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-19T14:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "IPO"
+   ]
+  },
   {
    "id": "534b83030ca88b17",
    "title": "EPFO higher pension: 4.45 lakh applicants could trigger ₹1.1 lakh crore bill. What it means for employees and retirees",
@@ -399,7 +439,7 @@
    "id": "381e5d60797da0d0",
    "title": "Paytm, Pine Labs, MobiKwik shares tumble up to 9% on MDR delay concerns: Should investors stay away from fintech stocks?",
    "link": "https://www.livemint.com/market/stock-market-news/paytm-pine-labs-mobikwik-shares-tumble-up-to-9-on-mdr-delay-concerns-should-investors-stay-away-from-fintech-stocks-11795088843361.html",
-   "summary": "Fintech stocks including Paytm, Pine Labs and One MobiKwik fell as much as 9% after reports that India may delay a planned fee on select high-value UPI merchant payments. The proposed MDR, originally due October 15, could be postponed while payment firms and retailers prepare for implementation.",
+   "summary": "Fintech stocks, including Paytm, Pine Labs and One MobiKwik, fell as much as 9% after reports that India may delay a planned fee on select high-value UPI payments. The proposed MDR, originally due on October 15, could be postponed while payment firms and retailers prepare for implementation.",
    "published": "2026-11-19T12:28:16+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -11507,44 +11547,6 @@
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/exi_1794620994450_9Ra0_1794621001028_RSWa_c261fd0d-a3c6-47e7-9094-350671ff2f31_ZxBR.png",
    "topics": [],
-   "first_seen": "2026-11-14T02:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4e34725b425726ac",
-   "title": "8th Pay Commission: How 3.61, 3.833 and 4.38 fitment factor demands could change salaries across different salary levels",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-how-3-61-3-833-and-4-38-fitment-factor-demands-could-change-salaries-across-different-salary-levels-11794619529278.html",
-   "summary": "The 8th Pay Commission is considering stakeholder representations on salary revisions, while several prominent employee unions have proposed fitment factors of 3.61, 3.833 and 4.38. Here is how these demands could affect basic pay across Levels 1, 6 and 18.",
-   "published": "2026-11-14T02:02:34+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/12a7642e-8703-4c9b-900e-dd867e305416_1794620370341_OIjk_1794620374532_xhJe_d4a79556-fcb5-48aa-a6c2-366cdd756385_zpsa.png",
-   "topics": [],
-   "first_seen": "2026-11-14T02:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "dbb76b074cf9bf52",
-   "title": "Bank holiday this week: Are SBI, HDFC, ICICI branches closed for three days from 14-16 November? Check RBI calendar",
-   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-canara-pnb-branch-closed-14-november-india-second-saturday-weekend-check-rbi-calendar-11794620664332.html",
-   "summary": "Bank holiday this week: SBI, HDFC Bank, ICICI Bank, Canara Bank and Punjab National Bank branches will be closed on 16 days this month, including regional holidays and weekend offs, as per the RBI calendar. &nbsp;",
-   "published": "2026-11-14T01:57:25+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/ii_1788051824377_1788051834963_bf813610-c40c-4da6-bd7b-3fbc6564b4ac_1794621217768_ahGh_3fafa9c8-1e62-4f9e-9816-cf943362df2f_eAvG.jpg",
-   "topics": [
-    "RBI / banking"
-   ],
    "first_seen": "2026-11-14T02:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
