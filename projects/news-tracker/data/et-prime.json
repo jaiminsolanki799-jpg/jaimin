@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-19T01:00:02+00:00",
+ "generated_at": "2026-11-19T01:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Thu, 19 Nov 2026 06:01:17 +0530",
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Thu, 19 Nov 2026 06:02:55 +0530",
+   "sample_date": "Thu, 19 Nov 2026 06:36:38 +0530",
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Wed, 18 Nov 2026 23:15:05 +0530",
    "error": null,
-   "checked_at": "2026-11-19T01:00:02+00:00"
+   "checked_at": "2026-11-19T01:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "94473176b207f389",
+   "title": "Stock market outlook today,19 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+   "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-19-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795048871272.html",
+   "summary": "Indian equities are expected to open lower on Thursday after the Sensex and Nifty fell about 0.6% on Wednesday, ending a two-session rally. Mixed-to-negative global cues, Wall Street losses and a stronger US dollar weighed on sentiment, though analysts see key support levels holding.",
+   "published": "2026-11-19T01:06:38+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Stock_Market_Outlook_Today_1795050050090_rOTl_1795050054911_dlOh_9ca4a555-1f65-440b-8376-666dda24a63b_DYiA.png",
+   "topics": [],
+   "first_seen": "2026-11-19T01:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "8547592e6a4d6f73",
+   "title": "Raja Venkatraman recommends three stocks for 19 November",
+   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-19-november-11795049041614.html",
+   "summary": "Market expert Raja Venkatraman shares his top stock picks for 19 November. Here’s his technical outlook and trade strategy.",
+   "published": "2026-11-19T01:00:23+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/RAJA_IMG1_1733139557630_1773677587730_177845889149_1795049439455_qhQ7_1795049439610_flDa_22f2b409-5746-4383-968d-2005de1f6169_0CEk.jpg",
+   "topics": [],
+   "first_seen": "2026-11-19T01:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "f38b63c016b32c16",
    "title": "GMR Airports, IIFL Finance shares: Top 2 stocks to buy in near term; check target price, stop loss by Nagaraj Shetti",
@@ -11500,44 +11536,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Jatin-Dalal--who-quit-as-CFO-of-Wipro-on-21-Septem_1695575086560_1794545617292_Loq2_77d5880b-703f-47a9-bf8f-dc011ddacb97_gVPN.jpg",
-   "topics": [],
-   "first_seen": "2026-11-13T05:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2040187754e103a1",
-   "title": "Up 94% from 52-week low, Hitachi Energy shares jump 9% today after Q2 results: Should you buy power stock? Check targets",
-   "link": "https://www.livemint.com/market/stock-market-news/up-94-from-52-week-low-hitachi-energy-shares-jump-9-today-after-q2-results-should-you-buy-power-stock-check-targets-11794543376253.html",
-   "summary": "Hitachi Energy India shares rose as much as 9.2% after Q2 FY27 net profit grew 21% year on year and revenue jumped 63.5%. Orders surged 85.9% to ₹4,120.8 crore, lifting the record backlog to ₹33,335.4 crore.",
-   "published": "2026-11-13T04:40:43+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/Market_-_stocks_1545996587096_1794544915488_4KDp_e8bdf42f-d8f0-4e7b-8942-52ac78a740e1_opIy.jpg",
-   "topics": [],
-   "first_seen": "2026-11-13T05:00:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
-  },
-  {
-   "id": "7e4a42a06b3c41d2",
-   "title": "NVIDIA share price crash: Broadcom, AMD to Micron — Should you buy other AI stocks after Jensen Huang's resignation?",
-   "link": "https://www.livemint.com/market/stock-market-news/nvidia-share-price-crash-broadcom-amd-to-micron-should-you-buy-other-ai-stocks-after-jensen-huangs-resignation-11794540876728.html",
-   "summary": "NVIDIA as a company is facing a credibility loss, which is the biggest challenge for the company to pare after the resignation of Jensen Huang, say experts",
-   "published": "2026-11-13T04:31:41+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/NVIDIA_share_price_Jensen_Huang_resignation_1794541230880_FREH_1794541231056_eOja_df373671-f4ea-49c3-ab09-818d694b17cb_mOEy.png",
    "topics": [],
    "first_seen": "2026-11-13T05:00:01+00:00",
    "valuation_score": 0,
