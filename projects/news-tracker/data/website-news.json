@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T09:30:01+00:00",
+ "generated_at": "2026-11-19T10:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:30:01+00:00"
+   "checked_at": "2026-11-19T10:00:02+00:00"
   },
   {
    "name": "YourStory",
@@ -24,7 +24,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:30:01+00:00"
+   "checked_at": "2026-11-19T10:00:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 09:26:12 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:30:01+00:00"
+   "checked_at": "2026-11-19T10:00:02+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 25,
-   "items": 25,
+   "fetched": 26,
+   "items": 26,
    "sample_date": "Tue, 17 Nov 2026 10:49:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T09:30:01+00:00"
+   "checked_at": "2026-11-19T10:00:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Thu, 19 Nov 2026 00:42:56 +0000",
    "error": null,
-   "checked_at": "2026-11-19T09:30:01+00:00"
+   "checked_at": "2026-11-19T10:00:02+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 6,
  "items": [
+  {
+   "id": "337f6295ca91dcc6",
+   "title": "Paytm, Pine Labs, MobiKwik shares tank over 7% amid reports of further UPI MDR delay",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1qUGhHZlA3dFNfREN1UTMzdnBsYk5tNVcta3VHUFFPa0p5Ym56VWEyX0JBbllIU254MjBOSHVUZUdBOHhmRVVVbzBlWGNqZkQzcnB2bEE2RVlZM3V3SkNZWjNIVk54NlhEcHdhOE83MzFYV0tkcjRXVGdmQTI4Z2FhSzlyZEZGaGMtV2IwcE1pcWQ2V2lxMWhzb1ZqenR1OV9TeWhEdF9OeUlmNmt3STd3QnhLdHNZZ2FFVm4xdzTSAcABQVVfeXFMTVZtalBoR2ZQN3RTX0RDdVEzM3ZwbGJObTVXLWt1R1BRT2tKeWJuelVhMl9CQW5ZSFNueDIwTkh1VGVHQTh4ZkVVVW8wZVhjamZEM3JwdmxBNkVZWTN1d0pDWVozSFZOeDZYRHB3YThPNzMxWFdLZHI0V1RnZkEyOGdhYUs5cmRGRmhjLVdiMHBNaXFkNldpcTFoc29Wanp0dTlfU3loRHRfTnlJZjZrd0k3d0J4S3RzWWdhRVZuMXc0?oc=5",
+   "summary": "",
+   "published": "2026-11-19T09:35:17+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T10:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "12cbe70dd5091c6a",
    "title": "Meta Pauses Share Structure Changes Amid Growing Shareholder Legal Dispute",
@@ -10011,26 +10029,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-09T10:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "b8187cba4e57ad69",
-   "title": "Gold and Silver Prices in India Today, 9 November 2026: Gold at ₹142,316, Silver at ₹187,510 as Both Edge Higher",
-   "link": "https://startuptalky.com/news/gold-silver-prices-india-today-9-november-2026/",
-   "summary": "Gold and silver rates today in India, 9 November 2026. 24K gold is ₹142,316 per 10g before GST and silver ₹187,510 per kg, with national rates up 0.52% and 0.98% on the day. Check city-wise rates and MCX data below.",
-   "published": "2026-11-09T09:50:54+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Shubham Kumar",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/gold-silver-prices-india-today-9-november-2026-Startuptalky.jpg",
-   "topics": [
-    "GST"
-   ],
-   "first_seen": "2026-11-09T10:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
