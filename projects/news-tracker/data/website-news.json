@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-19T21:30:03+00:00",
+ "generated_at": "2026-11-19T22:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-19T21:30:03+00:00"
+   "checked_at": "2026-11-19T22:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
+   "sample_date": "Thu, 19 Nov 2026 11:50:14 GMT",
    "error": null,
-   "checked_at": "2026-11-19T21:30:03+00:00"
+   "checked_at": "2026-11-19T22:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 18:24:07 GMT",
    "error": null,
-   "checked_at": "2026-11-19T21:30:03+00:00"
+   "checked_at": "2026-11-19T22:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-19T21:30:03+00:00"
+   "checked_at": "2026-11-19T22:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 20:18:49 +0000",
+   "sample_date": "Thu, 19 Nov 2026 21:58:06 +0000",
    "error": null,
-   "checked_at": "2026-11-19T21:30:03+00:00"
+   "checked_at": "2026-11-19T22:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "6f0f2d869f0fe635",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "published": "2026-11-19T21:58:06+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Lucas Ropek",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T22:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "f2dddf2ea7d8bc56",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "published": "2026-11-19T21:42:31+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Dominic-Madori Davis",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T22:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "856f962b1efdd871",
+   "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+   "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+   "summary": "Uber is testing the new program in three U.S. cities.",
+   "published": "2026-11-19T21:33:24+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Kirsten Korosec",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-19T22:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "423b8c753c11c242",
    "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -93,7 +147,7 @@
   },
   {
    "id": "2ad2190c7ade6b93",
-   "title": "Anthropic’s IPO could deliver $156 billion to charity",
+   "title": "Anthropic’s IPO could deliver $156B to charity",
    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
    "published": "2026-11-19T19:10:45+00:00",
