@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T18:30:05+00:00",
+ "generated_at": "2026-11-20T19:00:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
+   "sample_date": "Fri, 20 Nov 2026 09:20:38 GMT",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 20 Nov 2026 11:05:33 GMT",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 17,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 20 Nov 2026 17:40:01 +0000",
+   "sample_date": "Fri, 20 Nov 2026 18:34:00 +0000",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   }
  ],
  "topics": [
@@ -71,11 +71,29 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 6,
  "items": [
   {
+   "id": "388977f644d2a3cb",
+   "title": "Super-hot rock geothermal could end data center energy woes",
+   "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+   "summary": "A new wave of geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+   "published": "2026-11-20T18:34:00+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T19:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
    "id": "079373956374b3c3",
-   "title": "Chips can survive the space environment. Can their financing?",
+   "title": "Chips can survive the space environment — can their financing?",
    "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
    "published": "2026-11-20T17:40:01+00:00",
@@ -9949,42 +9967,6 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-10T19:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ccdccf818b30a0e0",
-   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-   "published": "2026-11-10T18:49:52+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Lucas Ropek",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T19:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8237f511443bcf97",
-   "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-   "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-   "summary": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-   "published": "2026-11-10T18:49:19+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sarah Perez",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T19:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }

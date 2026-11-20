@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T18:30:05+00:00",
+ "generated_at": "2026-11-20T19:00:04+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,29 +24,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
    "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "error": null,
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "error": null,
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,40 +57,40 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "error": null,
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "error": null,
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
+   "ok": true,
+   "fetched": 33,
+   "items": 33,
    "sample_date": null,
-   "error": "TimeoutError: The read operation timed out",
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "error": null,
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 22:51:34 +0530",
+   "sample_date": "Sat, 21 Nov 2026 00:13:49 +0530",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 22:32:19 +0530",
+   "sample_date": "Sat, 21 Nov 2026 00:28:20 +0530",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 23:35:57 +0530",
+   "sample_date": "Sat, 21 Nov 2026 00:14:43 +0530",
    "error": null,
-   "checked_at": "2026-11-20T18:30:05+00:00"
+   "checked_at": "2026-11-20T19:00:04+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "390641971260e5b3",
+   "title": "Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+   "link": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
+   "summary": "ANTHROPIC-IPO/BANK FEES (ANALYSIS):ANALYSIS-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
+   "published": "2026-11-20T18:58:20+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-20T19:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "9a707708f6aea0a6",
+   "title": "EPFO’s Systematic Withdrawal Plan: What is the waiting period for final PF withdrawal if unemployed? Explained here",
+   "link": "https://www.livemint.com/money/personal-finance/epfos-systematic-withdrawal-plan-what-is-the-waiting-period-for-final-pf-withdrawal-if-unemployed-explained-here-11795196995852.html",
+   "summary": "The revised PF withdrawal rules are expected to provide relief to employees who lose their jobs, voluntarily leave employment or experience prolonged gaps between jobs and need access to their accumulated savings",
+   "published": "2026-11-20T18:44:43+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/pf_1795198007932_hC4k_1795198008172_KshG_f1fb1c2e-ad03-4b05-aaea-d009fdf7c57d_6vMp.png",
+   "topics": [],
+   "first_seen": "2026-11-20T19:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "fc97760f1358b1c7",
+   "title": "Nvidia Employees Complained About Huang’s Behavior Years Ago",
+   "link": "https://www.livemint.com/companies/nvidia-employees-complained-about-huang-s-behavior-years-ago-11795200230275.html",
+   "summary": "About two decades ago, two Nvidia Corp. employees complained about how then-Chief Executive Officer Jensen Huang treated his staff, including allegations that he threatened them and made sexually explicit remarks, according to allegations contained in a California lawsuit filed in 2007.",
+   "published": "2026-11-20T18:43:49+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png",
+   "topics": [],
+   "first_seen": "2026-11-20T19:00:04+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b4d53e1f29846b3d",
    "title": "Should you wait for a market fall before starting a mutual fund SIP? What 30 years of Sensex data reveal",
@@ -4621,7 +4677,7 @@
    "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/indias-usd25-bn-copper-drive-moves-from-building-smelters-to-securing-mines/primearticleshow/135965703.cms",
    "summary": "",
    "published": "2026-11-18T23:00:01+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Economy & policy",
    "group": "ET Prime",
    "category": "Economy & policy",
    "date_known": false,
@@ -4765,7 +4821,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
    "summary": "",
    "published": "2026-11-18T19:30:02+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Fintech & BFSI",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11243,7 +11299,7 @@
    "link": "https://economictimes.indiatimes.com/prime/consumer/gold-still-rules-but-with-a-difference-how-young-india-is-redefining-wedding-jewellery/primearticleshow/135859325.cms",
    "summary": "",
    "published": "2026-11-15T23:00:01+00:00",
-   "source": "ET Prime home",
+   "source": "ET Prime: Consumer",
    "group": "ET Prime",
    "category": "Consumer",
    "date_known": false,
@@ -11514,63 +11570,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/qualcomm_1794758410956_pXat_1794758411089_QCmn_92dba694-d6ee-4b40-ad1b-61a3a54e0c0b_DRhS.png",
    "topics": [],
    "first_seen": "2026-11-15T16:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "2c8a6951b3329e7f",
-   "title": "Multibagger small cap stock delivers 91% return in 1 year! IDBI Capital sees 17% upside - Do you own? Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-delivers-91-return-in-1-year-idbi-capital-sees-17-upside-do-you-own-check-target-price-11794757193256.html",
-   "summary": "Rolex Rings shares have gained 91% over the past year. IDBI Capital maintained a Buy rating and set a target price of ₹241, citing the company’s growth prospects from the Make in India ecosystem, rising capacity utilisation and strong quarterly results.",
-   "published": "2026-11-15T15:55:50+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Rolex_Rings_Share_Price_Outlook_1794758091652_8Jqt_1794758099704_5mH9_67c2aade-c48e-4de3-9b09-dcf648464317_8Qyi.png",
-   "topics": [],
-   "first_seen": "2026-11-15T16:30:01+00:00",
-   "valuation_score": 6,
-   "valuation_signals": [
-    "Valuation",
-    "Results"
-   ]
-  },
-  {
-   "id": "8db5ad1b69e42000",
-   "title": "Noel Tata reveals his idea of Tata way of life: ‘Charity precedes commerce, charity owns commerce; not other way around’",
-   "link": "https://www.livemint.com/companies/news/profits-may-become-more-important-than-philanthropy-why-noel-tata-is-resisting-the-push-to-list-tata-sons-11794751737310.html",
-   "summary": "For Noel Tata, the central issue is not merely whether Tata Sons should be listed, but whether the Tata Group can preserve its founding philosophy of putting philanthropy and nation-building ahead of commercial considerations in a changing ownership structure.",
-   "published": "2026-11-15T15:33:20+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/noel_tata_on_tata_sons_listing_1794756267513_Eyr8_1794756272665_1wkt_43a402fe-cf38-4e6e-a1df-9a20aad013a6_azos.jpg",
-   "topics": [],
-   "first_seen": "2026-11-15T16:00:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7c13d5e70ff5e553",
-   "title": "144% return in 6 months: Multibagger to turn 1 stock into 18 after split, bonus- Do you own it? Check ratio, return",
-   "link": "https://www.livemint.com/market/stock-market-news/144-return-in-6-months-multibagger-to-turn-1-stock-into-18-after-split-bonus-do-you-own-it-check-ratio-return-11794754361817.html",
-   "summary": "SC Agrotech shares have surged, gaining 144% in six months and 266% in a year. The company has proposed a 1:10 stock split and a 4:5 bonus issue, which would turn each existing share into 18 shares. The record date for both actions is yet to be announced.",
-   "published": "2026-11-15T15:31:26+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Multibagger_Share_Growth_Infographic_1794756624497_eEs4_1794756634270_zOIB_bd0cb890-9885-411c-bd8c-cc6ceabb214f_tGQX.png",
-   "topics": [],
-   "first_seen": "2026-11-15T16:00:04+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
