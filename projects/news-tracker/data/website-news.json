@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T08:00:06+00:00",
+ "generated_at": "2026-11-20T08:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T08:00:06+00:00"
+   "checked_at": "2026-11-20T08:30:02+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
+   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-20T08:00:06+00:00"
+   "checked_at": "2026-11-20T08:30:02+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 20 Nov 2026 07:10:00 GMT",
+   "sample_date": "Fri, 20 Nov 2026 07:58:37 GMT",
    "error": null,
-   "checked_at": "2026-11-20T08:00:06+00:00"
+   "checked_at": "2026-11-20T08:30:02+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 22,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T08:00:06+00:00"
+   "checked_at": "2026-11-20T08:30:02+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 20 Nov 2026 00:56:01 +0000",
    "error": null,
-   "checked_at": "2026-11-20T08:00:06+00:00"
+   "checked_at": "2026-11-20T08:30:02+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "d289d3703b5ba3ed",
+   "title": "Eazeebox co-founder Srinivas Shanbhogue passes away",
+   "link": "https://yourstory.com/2026/11/eazeebox-co-founder-srinivas-shanbhogue-passes-away",
+   "summary": "Shanbhogue spent two decades at Schneider Electric before building Eazeebox, a Bengaluru startup that helps neighbourhood electrical shops restock from multiple brands through a single app.",
+   "published": "2026-11-20T08:17:45+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T08:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ed72203809fd8190",
+   "title": "EY India Introduces Suite of AI-Powered Solutions to Enhance Business Productivity",
+   "link": "https://startuptalky.com/news/ey-india-introduces-suite-of-ai-powered-solutions/",
+   "summary": "EY India has announced a set of AI-powered solutions to help organisations enhance productivity, automate business processes and improve operational efficiency. The services include AI agents for finance activities, agentic AI cybersecurity solutions and supply chain tools.",
+   "published": "2026-11-20T07:58:37+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/ey-india-introduces-suite-of-ai-powered-solutions-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T08:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "4f2f1bfd0b5764ac",
    "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
@@ -10211,28 +10247,6 @@
    "first_seen": "2026-11-10T09:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "35c272986d918a0b",
-   "title": "Quest Global Acquires Tests Assured to Boost Wearables and Product Engineering Expertise",
-   "link": "https://startuptalky.com/news/quest-global-acquires-tests-assured/",
-   "summary": "Quest Global acquires US-based Tests It will also enhance its experience in quality assurance, wearable technology testing and product engineering. The acquisition, announced on Nov 9, will enhance Quest Global's capabilities in smart devices, AI enabled products and more.",
-   "published": "2026-11-10T08:04:11+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/quest-global-acquires-tests-assured-Startuptalky.jpg",
-   "topics": [
-    "Valuation / M&A"
-   ],
-   "first_seen": "2026-11-10T08:30:01+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "M&A"
-   ]
   }
  ]
 }
