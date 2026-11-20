@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T00:00:01+00:00",
+ "generated_at": "2026-11-20T00:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T00:00:01+00:00"
+   "checked_at": "2026-11-20T00:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
+   "sample_date": "Thu, 19 Nov 2026 05:23:09 GMT",
    "error": null,
-   "checked_at": "2026-11-20T00:00:01+00:00"
+   "checked_at": "2026-11-20T00:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Thu, 19 Nov 2026 18:24:07 GMT",
    "error": null,
-   "checked_at": "2026-11-20T00:00:01+00:00"
+   "checked_at": "2026-11-20T00:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 29,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T00:00:01+00:00"
+   "checked_at": "2026-11-20T00:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 23:37:56 +0000",
+   "sample_date": "Fri, 20 Nov 2026 00:26:03 +0000",
    "error": null,
-   "checked_at": "2026-11-20T00:00:01+00:00"
+   "checked_at": "2026-11-20T00:30:01+00:00"
   }
  ],
  "topics": [
@@ -73,6 +73,24 @@
  ],
  "new_since_last_run": 7,
  "items": [
+  {
+   "id": "300c7c788356035c",
+   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+   "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+   "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+   "published": "2026-11-20T00:26:03+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Connie Loizos",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T00:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "0f5c2ebdca5ae333",
    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
