@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T04:30:01+00:00",
+ "generated_at": "2026-11-20T05:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 09:17:50 +0530",
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 08:29:40 +0530",
+   "sample_date": "Fri, 20 Nov 2026 10:19:37 +0530",
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 09:52:52 +0530",
    "error": null,
-   "checked_at": "2026-11-20T04:30:01+00:00"
+   "checked_at": "2026-11-20T05:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "d407457252bd219d",
+   "title": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy",
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-tech-indian-it-stocks-buck-global-ai-rout-trend-nifty-it-jumps-2-key-reasons-top-shares-to-buy-11795103694291.html",
+   "summary": "Indian IT stocks rose more than 2% on Friday, bucking global technology losses and a decline in the Nifty 50. The broad-based rebound followed three sessions of losses and was supported by value buying, foreign inflows, lower exposure to AI infrastructure risks, and improving demand.",
+   "published": "2026-11-20T04:49:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Nifty_IT_Rises_Amid_Global_Rout_1795150122148_ixMl_1795150138392_cYW4_ac521745-5559-493d-9ce6-5038c3748467_Jx00.png",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-20T05:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "c16fcdaf5c1d5f1c",
    "title": "New gaming expense of ₹7,499 to add to your budget this month: Check GTA 6 prices in India, editions and where to buy",
@@ -11533,24 +11553,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Gemini_Generated_Image_hd061ehd61ehd06_179466487_1794664896591_asWn_1794664896819_mS8H_2ee8415d-4f83-4bac-ae36-dbf49853cdae_5gES.png",
    "topics": [],
    "first_seen": "2026-11-14T14:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "efbd20d1107a950c",
-   "title": "Dugarajapatnam gets in-principle nod for ₹30,000-crore shipbuilding cluster in Andhra Pradesh: Check its plans, capacity",
-   "link": "https://www.livemint.com/companies/news/dugarajapatnam-gets-in-principle-nod-for-30-000-crore-shipbuilding-cluster-in-andhra-pradesh-check-its-plans-capacity-11794658893385.html",
-   "summary": "The Centre has granted in-principle approval to a ₹30,000-crore shipbuilding cluster at Dugarajapatnam in Andhra Pradesh. Spread across 3,488 acres, the proposed project aims to build ships with an annual capacity of 1.2 million gross tonnes.",
-   "published": "2026-11-14T13:51:00+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Dugarajapatnam_Shipbuilding_Cluster_1794664075861_Fluw_1794664076109_VXNn_40fb5965-7cba-40d9-9309-56f0748bc68a_hXnT.png",
-   "topics": [],
-   "first_seen": "2026-11-14T14:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
