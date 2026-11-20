@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T11:00:04+00:00",
+ "generated_at": "2026-11-20T11:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T11:00:04+00:00"
+   "checked_at": "2026-11-20T11:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 12:30:00 GMT",
+   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-20T11:00:04+00:00"
+   "checked_at": "2026-11-20T11:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 20 Nov 2026 10:25:32 GMT",
+   "sample_date": "Fri, 20 Nov 2026 11:05:33 GMT",
    "error": null,
-   "checked_at": "2026-11-20T11:00:04+00:00"
+   "checked_at": "2026-11-20T11:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 19,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T11:00:04+00:00"
+   "checked_at": "2026-11-20T11:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 20 Nov 2026 09:14:19 +0000",
    "error": null,
-   "checked_at": "2026-11-20T11:00:04+00:00"
+   "checked_at": "2026-11-20T11:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 6,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "31620f77db06f67f",
+   "title": "Quick Commerce Set to Drive 47% of Online Supplement Sales in India by FY31",
+   "link": "https://startuptalky.com/news/quick-commerce-set-to-drive-47-of-online-supplement-sales/",
+   "summary": "Redseer Strategy Consultants estimates that by FY2031, quick commerce will make up 37-47% of India’s online health supplement sales, compared to 17% in FY2026. Faster delivery and regular restocking are predicted to help the channel grow at a CAGR of 50-60%.",
+   "published": "2026-11-20T11:05:33+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/quick-commerce-set-to-drive-47-of-online-supplement-salesStartuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T11:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "ccd97c6cfbf19269",
+   "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
+   "link": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
+   "summary": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gather momentum.",
+   "published": "2026-11-20T10:54:50+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T11:30:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Funding"
+   ]
+  },
   {
    "id": "da5c8c7f692520ca",
    "title": "Lego to Create Separate Business Unit for its India Operations",
@@ -10156,42 +10194,6 @@
    "image": "https://static.startuptalky.com/2026/11/tesla-to-phase-out-cybertruck-production-Startuptalky.jpg",
    "topics": [],
    "first_seen": "2026-11-10T12:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ca7a43415740a080",
-   "title": "OpenAI unveils a 'Control Room' safety feature that shuts down AI agents from going rogue in 35 seconds",
-   "link": "https://yourstory.com/2026/11/openai-unveils-control-room-feature-stops-ai-safety-security-concerns-35-seconds",
-   "summary": "OpenAI said Control Room will connect every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. It will work together with its misalignment monitoring systems.",
-   "published": "2026-11-10T11:10:42+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T11:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "fa5496c7f5585659",
-   "title": "From Screen Recording to Product Demo: A SaaS Video Workflow with Filmora 16",
-   "link": "https://startuptalky.com/saas-product-demo-workflow-filmora-16/",
-   "summary": "Transforming a single SaaS screen recording into a focused demo and shareable social video.",
-   "published": "2026-11-10T11:01:37+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Shubham Kumar",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/saas-product-demo-filmora-16-featured.webp",
-   "topics": [],
-   "first_seen": "2026-11-10T11:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
