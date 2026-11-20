@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T14:30:01+00:00",
+ "generated_at": "2026-11-20T15:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 18:48:51 +0530",
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 19:26:40 +0530",
+   "sample_date": "Fri, 20 Nov 2026 20:26:35 +0530",
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 19:35:16 +0530",
    "error": null,
-   "checked_at": "2026-11-20T14:30:01+00:00"
+   "checked_at": "2026-11-20T15:00:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,54 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "8399e31abb90494e",
+   "title": "StockGro expert explains: WeWork India share price target - should investors buy, sell or hold?",
+   "link": "https://www.livemint.com/market/stock-market-news/stockgro-expert-explains-wework-india-share-price-target-should-investors-buy-sell-or-hold-11795184993421.html",
+   "summary": "StockGro expert Sachin Kapoor, CFA (SEBI RIA), rates WeWork India Management Ltd a Buy on dips, with a three-month target of ₹700 and a 12-month target of ₹785. Get expert insights on the coworking stock's Q2 FY27 results, peer comparison, valuation and key risks.",
+   "published": "2026-11-20T14:56:35+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/StockGro_1795186545905_nATD_1795186546283_6Ewa_a9337eb9-a1ac-403c-9f1a-3157f25d37a9_bgC8.jpeg",
+   "topics": [
+    "SEBI / markets regulation",
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-20T15:00:01+00:00",
+   "valuation_score": 6,
+   "valuation_signals": [
+    "Valuation",
+    "Rules"
+   ]
+  },
+  {
+   "id": "714a6bd5366098d6",
+   "title": "Sebi proposes easing disclosure rules for foreign funds",
+   "link": "https://www.livemint.com/market/sebi-proposes-easing-disclosure-rules-for-foreign-funds-11795183389431.html",
+   "summary": "Sebi has proposed scrapping additional disclosure requirements for foreign portfolio investors, arguing that the rules are out of step with global practices and may deter overseas investment.&nbsp;",
+   "published": "2026-11-20T14:45:39+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/sebi_1750670473946_1795185708773_HuFw_d201b9a9-2aa9-4030-9f72-8cbf61f41534_qvH8.JPG",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-20T15:00:01+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Rules"
+   ]
+  },
   {
    "id": "ef31c7e593fbfffc",
    "title": "NPS retirement planning: Active Choice or Auto Choice? Which can help you maximise your corpus over 20 years?",
@@ -11515,42 +11561,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Gnerated_Image_z9ppejz9ppejz9pp_179474589_1794745908096_Cbzo_1794745908231_Ul9H_4c3f76ce-54d2-4026-8104-6ab38460c7ab_CsI9.png",
    "topics": [],
    "first_seen": "2026-11-15T13:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5a505c962cbeee7d",
-   "title": "Saudi Arabia scraps VA Tech Wabag's ₹2,332 crore project: What went wrong with the Yanbu tender?",
-   "link": "https://www.livemint.com/companies/news/-saudi-arabia-scraps-va-tech-wabags-2-332-crore-project-what-went-wrong-with-the-yanbu-tender-11794739811092.html",
-   "summary": "VA Tech Wabag said it was in the process of approaching the customer to obtain further clarity on the reasons behind the cancellation and understand the next course of action",
-   "published": "2026-11-15T12:27:33+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/desalination_1794744823601_5nl6_1794744843318_vMMk_26bfd95e-ff36-4f3d-ae4e-6f8f7b1eb51a_loGn.jpg",
-   "topics": [],
-   "first_seen": "2026-11-15T12:30:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3bfb9fbdda9e3cee",
-   "title": "Gold, silver prices ahead of wedding season: Down over 4% this week - Investors guide before US Fed Dec meeting",
-   "link": "https://www.livemint.com/market/commodities/gold-silver-prices-ahead-of-wedding-season-down-over-4-this-week-investors-guide-before-us-fed-dec-meeting-11794742802767.html",
-   "summary": "Gold and silver futures recovered slightly on Friday but posted steep weekly losses as hotter US inflation, a stronger dollar and rising bond yields heightened expectations of a Fed rate hike. Analysts see near-term pressure, while Indian wedding demand and central-bank buying may cushion gold.",
-   "published": "2026-11-15T12:15:04+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gold_and_Silver_Decline_Ahead_of_Fed_Meeting_17947_1794744848430_PIMS_1794744848559_zrIG_c7a3a5a1-0161-46d1-a2df-b6dd1cdf64c6_Eeok.png",
-   "topics": [],
-   "first_seen": "2026-11-15T12:30:04+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
