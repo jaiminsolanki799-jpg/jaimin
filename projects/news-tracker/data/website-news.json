@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T13:30:04+00:00",
+ "generated_at": "2026-11-20T14:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
+   "sample_date": "Fri, 20 Nov 2026 02:00:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 20 Nov 2026 11:05:33 GMT",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 18,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 20 Nov 2026 13:25:00 +0000",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   }
  ],
  "topics": [
@@ -71,7 +71,7 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 6,
  "items": [
   {
    "id": "7f996f41bb20e06b",
@@ -142,6 +142,24 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-20T13:00:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "14dfdcb1f62eb00b",
+   "title": "Bike taxi services in Karnataka get a boost after Supreme Court ruling",
+   "link": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling",
+   "summary": "The Supreme Court has rejected the state government's appeal seeking to reinstate the ban on the service.",
+   "published": "2026-11-20T12:48:10+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T14:00:03+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -10104,78 +10122,6 @@
     "Valuation",
     "IPO"
    ]
-  },
-  {
-   "id": "819bcfcc6701601a",
-   "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-   "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-   "summary": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-   "published": "2026-11-10T14:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Amanda Silberling",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T14:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "5cd056a31d5df370",
-   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-   "published": "2026-11-10T14:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Jagmeet Singh",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T14:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c8072ec28f747b94",
-   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-   "published": "2026-11-10T14:00:00+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Sarah Perez",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T14:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "12a5dbf5df50952b",
-   "title": "With Jensen Huang under fire, Nvidia looks at sucession plans",
-   "link": "https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight",
-   "summary": "The controversy over Nvidia CEO Jensen Huang’s improper relationship with a Chinese citizen has raised national security concerns for the US.",
-   "published": "2026-11-10T13:45:28+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T14:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }

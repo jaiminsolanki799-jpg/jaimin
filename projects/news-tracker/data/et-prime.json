@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T13:30:04+00:00",
+ "generated_at": "2026-11-20T14:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 18:48:51 +0530",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 18:44:55 +0530",
+   "sample_date": "Fri, 20 Nov 2026 19:26:40 +0530",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 18:38:35 +0530",
    "error": null,
-   "checked_at": "2026-11-20T13:30:04+00:00"
+   "checked_at": "2026-11-20T14:00:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 4,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "fad4773de9b87293",
+   "title": "HDFC Bank shares recover 22% in Nov, adds ₹2.38 lakh crore in market value. What's fuelling the rebound?",
+   "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-recover-22-in-nov-adds-rs-2-38-lakh-crore-in-market-value-whats-fuelling-the-rebound-11795182150085.html",
+   "summary": "HDFC Bank shares rose 22% in November as easing leadership concerns, improved business performance and stronger market sentiment drew investors back. The rally restored its market value to above ₹13 lakh crore, though the stock remains down 14% in 2026.",
+   "published": "2026-11-20T13:56:40+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/HDFC_Bank_1795182938978_teiZ_1795182963612_GyCf_46_1795183122980_G56J_1795183123260_KULQ_676c007a-52dd-4542-b34a-c7517f689530_GQdx.png",
+   "topics": [],
+   "first_seen": "2026-11-20T14:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "297cc76711abc5f4",
    "title": "Centre moves review plea in Supreme Court against Yes Bank AT-1 bond ruling",
@@ -216,7 +234,7 @@
   },
   {
    "id": "b9562bb7916ea14d",
-   "title": "BSE Sensex rejig: Shriram Finance to replace Trent; Which stocks are entering and exiting other BSE indices? Check full",
+   "title": "BSE Sensex rejig: Shriram Finance to replace Trent; Which stocks are entering and exiting other BSE indices? Check list",
    "link": "https://www.livemint.com/market/stock-market-news/bse-sensex-rejig-shriram-finance-to-replace-trent-which-stocks-are-entering-and-exiting-other-bse-indices-check-full-11795179927182.html",
    "summary": "Shriram Finance will replace Trent in the 30-stock BSE Sensex, with the change taking effect on December 21, 2026. The reshuffle also adds five companies to the BSE 100, while Punjab National Bank, Godrej Consumer Products, SRF, Shree Cement and Havells India will exit that index.",
    "published": "2026-11-20T13:14:55+00:00",
@@ -11534,24 +11552,6 @@
    "topics": [
     "Budget / policy"
    ],
-   "first_seen": "2026-11-15T12:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8969b4294f9ba4a6",
-   "title": "Delhi tops pollution-linked health insurance claims, 90% from working professionals, senior citizens: Report",
-   "link": "https://www.livemint.com/companies/delhi-tops-pollution-linked-health-insurance-claims-90-from-working-professionals-senior-citizens-report-11794737773964.html",
-   "summary": "Pollution-linked health insurance claims have seen a rise of 4.3 times in the last three years, revealed Policybazaar. Between October and March, nearly 56% of these annual claims were made in FY26.",
-   "published": "2026-11-15T11:41:18+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/217087_1794742781851_1a71_1794742785593_jiz8_8d8a8371-c76a-459f-a787-36a518fb5902_rEC6.jpg",
-   "topics": [],
    "first_seen": "2026-11-15T12:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
