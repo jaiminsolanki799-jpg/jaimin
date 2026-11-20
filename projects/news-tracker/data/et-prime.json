@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T17:30:03+00:00",
+ "generated_at": "2026-11-20T18:00:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,29 +134,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 7,
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "Mint Companies",
    "url": "https://www.livemint.com/rss/companies",
    "category": "Companies",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "IncompleteRead: IncompleteRead(37834 bytes read)",
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "ok": true,
+   "fetched": 35,
+   "items": 35,
+   "sample_date": "Fri, 20 Nov 2026 22:51:34 +0530",
+   "error": null,
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 22:32:19 +0530",
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 21:58:11 +0530",
    "error": null,
-   "checked_at": "2026-11-20T17:30:03+00:00"
+   "checked_at": "2026-11-20T18:00:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "8c5975c6b4250b82",
+   "title": "Who is Jay Mehta? Meet Juhi Chawla’s husband selling half of his 45% KKR stake for $400 million",
+   "link": "https://www.livemint.com/companies/people/who-is-jay-mehta-meet-juhi-chawla-s-husband-selling-half-of-his-45-kkr-stake-for-400-million-11795193603052.html",
+   "summary": "Jay Mehta, husband of actor Juhi Chawla and a director of the Mehta Group, is reportedly set to sell half of his 45% stake in Kolkata Knight Riders to US-based Ares Management for $400 million. The deal would value the IPL franchise at around $1.78 billion, subject to BCCI approval.",
+   "published": "2026-11-20T17:21:34+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/KKR_Champions_Hoist_the_IPL_Trophy_1795193935922_voS1_1795193941012_j9zF_74eef382-0888-409f-b64d-c6f2b01d8a37_aiFK.png",
+   "topics": [],
+   "first_seen": "2026-11-20T18:00:02+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "PE / VC"
+   ]
+  },
+  {
+   "id": "54b90b5da0023449",
+   "title": "Amazon Prime India Head Abhinav Agarwal quits after 16 years: Why he left and what’s next for him",
+   "link": "https://www.livemint.com/companies/people/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-why-he-left-and-what-s-next-for-him-11795189332842.html",
+   "summary": "During his tenure, Agarwal moved from supply chain operations to advertising before taking charge of the&nbsp;Amazon Prime business",
+   "published": "2026-11-20T17:02:27+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/abhinavagarwal_1795192278237_TicS_1795192278371_7zIE_10f61ec4-e94b-4243-b8b4-d8d9df17c12c_Vg0g.png",
+   "topics": [],
+   "first_seen": "2026-11-20T18:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "124f6d71fd347493",
    "title": "Smallcap dividend stars: 5 stocks under ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
@@ -11535,44 +11573,6 @@
    "first_seen": "2026-11-15T15:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "fe500f3e4ec126cd",
-   "title": "FD returns: Your bank offers 6.35% interest, but how much do you actually earn after tax? Check returns across top banks",
-   "link": "https://www.livemint.com/money/personal-finance/fd-returns-your-bank-offers-6-35-interest-but-how-much-do-you-actually-earn-after-tax-check-returns-across-top-banks-11794753790057.html",
-   "summary": "Bank fixed deposits may appear attractive, but the interest earned is not the amount investors ultimately take home. Compare how taxation affects FD returns across HDFC Bank, ICICI Bank, SBI and PNB, and what investors should consider before locking in their money.",
-   "published": "2026-11-15T15:10:31+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_Generated_Imagers9u3ars9u3ars9u_17947539_1794753987511_9Brj_1794753987635_NWqT_9502c706-ec67-4fb2-917b-50a32e23b674_h7Cx.png",
-   "topics": [],
-   "first_seen": "2026-11-15T15:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "4e32e1731c7e573f",
-   "title": "Stock to buy after Q2 Results 2026: Up 70% in YTD! Should you buy retail stock after strong guidance? Target, stop-loss",
-   "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-up-70-in-ytd-should-you-buy-this-retail-stock-after-strong-growth-guidance-target-11794751254602.html",
-   "summary": "Baazar Style Retail shares rose 5.39% on Friday and gained about 20% in a week ahead of the company’s Q2 FY27 results. Revenue from operations declined year over year to ₹47,848.31 lakh.&nbsp;",
-   "published": "2026-11-15T14:05:24+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Baazar_Style_Retail_Share_Outlook_1794751475653_hwRT_1794751486180_EYT4_b66ce2be-f2a5-47bc-8607-a5db0dbee9ad_i2pN.png",
-   "topics": [],
-   "first_seen": "2026-11-15T14:30:04+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Results"
-   ]
   }
  ]
 }
