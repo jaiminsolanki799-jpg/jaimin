@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T05:00:02+00:00",
+ "generated_at": "2026-11-20T05:30:06+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -9,11 +9,11 @@
    "url": "https://news.google.com/rss/search?q=site:the-captable.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 5,
-   "items": 5,
+   "fetched": 6,
+   "items": 6,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T05:00:02+00:00"
+   "checked_at": "2026-11-20T05:30:06+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 12:32:20 GMT",
+   "sample_date": "Thu, 19 Nov 2026 12:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T05:00:02+00:00"
+   "checked_at": "2026-11-20T05:30:06+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 20 Nov 2026 04:35:00 GMT",
+   "sample_date": "Fri, 20 Nov 2026 04:52:42 GMT",
    "error": null,
-   "checked_at": "2026-11-20T05:00:02+00:00"
+   "checked_at": "2026-11-20T05:30:06+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 24,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T05:00:02+00:00"
+   "checked_at": "2026-11-20T05:30:06+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 20 Nov 2026 00:56:01 +0000",
    "error": null,
-   "checked_at": "2026-11-20T05:00:02+00:00"
+   "checked_at": "2026-11-20T05:30:06+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,64 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 8,
+ "new_since_last_run": 11,
  "items": [
+  {
+   "id": "6ec79409e83b7b4d",
+   "title": "Vembu flags possible US immigration reversal, says it could revive housing demand",
+   "link": "https://yourstory.com/2026/11/vembu-flags-possible-us-immigration-reversal-could-revive-housing-demand",
+   "summary": "Sridhar Vembu warns that a possible US immigration policy reversal could restore population-driven demand in housing and other sectors.",
+   "published": "2026-11-20T05:12:48+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-20T05:30:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2d7b784513fd48d7",
+   "title": "Karnataka aims to raise its share in aerospace, defence sector to 75%: Minister",
+   "link": "https://yourstory.com/2026/11/karnataka-aims-to-raise-its-share-in-aerospace-defence-sector-to-75-per-cent-minister",
+   "summary": "Industries Minister M B Patil said that the government is ready to support the creation of all necessary infrastructure and facilities, including Common Facility Centres, to facilitate investments in the aerospace sector.",
+   "published": "2026-11-20T05:08:27+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T05:30:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "2c40fe0acff51fba",
+   "title": "Amazon Prime India head Abhinav Agarwal steps down after 16 years",
+   "link": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years",
+   "summary": "Abhinav Agarwal has been director of product and engineering at Amazon Prime in Bengaluru since October 2021, leading the product, marketing and engineering teams responsible for growing Amazon's Prime programme in India.",
+   "published": "2026-11-20T05:00:01+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T05:30:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "a8a6658d257ca4c4",
    "title": "Meet the innovators exhibiting at Bengaluru Tech Summit 2026",
@@ -88,6 +144,42 @@
    "image": null,
    "topics": [],
    "first_seen": "2026-11-20T05:00:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "b6117ac1bd8512bb",
+   "title": "India has EV startups. So why doesn't it have an electric carmaker?",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYllmZDVibU5IU05FQkl0T3NLZTJ5SWZoTzdXdk5jeHlqTTJzeUlXd09oRnluVWc5ekJ1LWhaT2V0NVFBQk92MVFzekpQRTZxRVlMUGpUT2p1dXhvY2VwdGxxanZqMlZLTlROa1oxMFRBMG9ZcFdhS3IyME9UZ29fMUVSeXpUSVZVc3BuanJCbjVoWmpDcGZYeUJRVEV1ejQ?oc=5",
+   "summary": "",
+   "published": "2026-11-20T04:58:57+00:00",
+   "source": "The CapTable",
+   "group": "The CapTable",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "The CapTable",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T05:30:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "c456365e33513dc5",
+   "title": "Disney CFO Says More Layoffs are Expected Amid Ongoing Cost-Cutting Drive",
+   "link": "https://startuptalky.com/news/disney-cfo-says-more-layoffs-are-expected/",
+   "summary": "Disney CFO Hugh Johnston said the company is ready for more layoffs as part of its ongoing reorganisation and cost-cutting plan. The entertainment giant plans to lower annual operational expenses by $3 billion by fiscal 2029, following several rounds of layoffs in 2026.",
+   "published": "2026-11-20T04:52:42+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/disney-cfo-says-more-layoffs-are-expected-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T05:30:06+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   },
@@ -10143,24 +10235,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "e877139f2806dd73",
-   "title": "California’s proposed ‘billionaire tax’ fails to pass",
-   "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-   "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed the…",
-   "published": "2026-11-10T05:18:43+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Lucas Ropek",
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-10T05:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
