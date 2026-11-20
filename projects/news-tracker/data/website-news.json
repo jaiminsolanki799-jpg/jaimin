@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T19:30:01+00:00",
+ "generated_at": "2026-11-20T20:00:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T19:30:01+00:00"
+   "checked_at": "2026-11-20T20:00:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 20 Nov 2026 05:00:01 GMT",
+   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-20T19:30:01+00:00"
+   "checked_at": "2026-11-20T20:00:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 20 Nov 2026 11:05:33 GMT",
    "error": null,
-   "checked_at": "2026-11-20T19:30:01+00:00"
+   "checked_at": "2026-11-20T20:00:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 16,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T19:30:01+00:00"
+   "checked_at": "2026-11-20T20:00:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -55,9 +55,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 20 Nov 2026 18:34:00 +0000",
+   "sample_date": "Fri, 20 Nov 2026 19:53:41 +0000",
    "error": null,
-   "checked_at": "2026-11-20T19:30:01+00:00"
+   "checked_at": "2026-11-20T20:00:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 5,
+ "new_since_last_run": 7,
  "items": [
+  {
+   "id": "340614cb1d4599fc",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "published": "2026-11-20T19:53:41+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim De Chant",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T20:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "d6bff5841b5a64e7",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+   "published": "2026-11-20T19:32:08+00:00",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "category": "Tech",
+   "date_known": true,
+   "author": "Tim Fernholz",
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T20:00:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "388977f644d2a3cb",
    "title": "Super-hot rock geothermal could end data center energy woes",
@@ -9906,28 +9942,6 @@
    "first_seen": "2026-11-10T21:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "9a5bae24e02d25cd",
-   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-   "published": "2026-11-10T19:57:52+00:00",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "category": "Tech",
-   "date_known": true,
-   "author": "Julie Bort",
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "SEBI / markets regulation"
-   ],
-   "first_seen": "2026-11-10T20:00:02+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "IPO"
-   ]
   }
  ]
 }
