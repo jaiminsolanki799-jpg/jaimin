@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T18:00:02+00:00",
+ "generated_at": "2026-11-20T18:30:05+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,29 +24,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
    "url": "https://economictimes.indiatimes.com/prime/corporate-governance",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
    "url": "https://economictimes.indiatimes.com/prime/economy-and-policy",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,40 +57,40 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Consumer",
    "url": "https://economictimes.indiatimes.com/prime/consumer",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
    "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
    "url": "https://economictimes.indiatimes.com/prime/pharma-and-healthcare",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 33,
-   "items": 33,
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
    "sample_date": null,
-   "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "error": "TimeoutError: The read operation timed out",
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 22:51:34 +0530",
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 22:32:19 +0530",
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 21:58:11 +0530",
+   "sample_date": "Fri, 20 Nov 2026 23:35:57 +0530",
    "error": null,
-   "checked_at": "2026-11-20T18:00:02+00:00"
+   "checked_at": "2026-11-20T18:30:05+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "b4d53e1f29846b3d",
+   "title": "Should you wait for a market fall before starting a mutual fund SIP? What 30 years of Sensex data reveal",
+   "link": "https://www.livemint.com/money/personal-finance/should-you-wait-for-a-market-fall-before-starting-a-mutual-fund-sip-what-30-years-of-sensex-data-reveal-11795197339793.html",
+   "summary": "Waiting for a market correction before starting a mutual fund SIP may cost investors valuable investment time. A WhiteOak Capital analysis of nine market cycles found that starting earlier often led to a higher final corpus, despite marginally lower returns.",
+   "published": "2026-11-20T18:05:57+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Gemini_Generated_mage_f4nwdhf4nwdhf4nw_179519787_1795197882158_YBlP_1795197882316_Vxkr_343b3e7a-fb99-4805-a494-a3232515c484_UB41.png",
+   "topics": [],
+   "first_seen": "2026-11-20T18:30:05+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "8c5975c6b4250b82",
    "title": "Who is Jay Mehta? Meet Juhi Chawla’s husband selling half of his 45% KKR stake for $400 million",
@@ -4603,7 +4621,7 @@
    "link": "https://economictimes.indiatimes.com/prime/economy-and-policy/indias-usd25-bn-copper-drive-moves-from-building-smelters-to-securing-mines/primearticleshow/135965703.cms",
    "summary": "",
    "published": "2026-11-18T23:00:01+00:00",
-   "source": "ET Prime: Economy & policy",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Economy & policy",
    "date_known": false,
@@ -4747,7 +4765,7 @@
    "link": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/how-indias-inr22-5-lakh-crore-gold-loan-boom-is-hiding-a-big-hole/primearticleshow/135771193.cms",
    "summary": "",
    "published": "2026-11-18T19:30:02+00:00",
-   "source": "ET Prime: Fintech & BFSI",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Fintech & BFSI",
    "date_known": false,
@@ -11225,7 +11243,7 @@
    "link": "https://economictimes.indiatimes.com/prime/consumer/gold-still-rules-but-with-a-difference-how-young-india-is-redefining-wedding-jewellery/primearticleshow/135859325.cms",
    "summary": "",
    "published": "2026-11-15T23:00:01+00:00",
-   "source": "ET Prime: Consumer",
+   "source": "ET Prime home",
    "group": "ET Prime",
    "category": "Consumer",
    "date_known": false,
@@ -11553,24 +11571,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Multibagger_Share_Growth_Infographic_1794756624497_eEs4_1794756634270_zOIB_bd0cb890-9885-411c-bd8c-cc6ceabb214f_tGQX.png",
    "topics": [],
    "first_seen": "2026-11-15T16:00:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3842fa30488cf32d",
-   "title": "How long will it take to build a ₹1 crore corpus through ₹10,000, ₹20,000 or ₹30,000 monthly SIP?",
-   "link": "https://www.livemint.com/money/personal-finance/how-long-will-it-take-to-build-a-rs-1-crore-corpus-through-rs-10-000-rs-20-000-or-rs-30-000-monthly-sip-11794754795624.html",
-   "summary": "Investors can choose from different categories of mutual funds, including equity, hybrid and debt funds, depending on their financial goals and risk appetite",
-   "published": "2026-11-15T15:25:43+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/sip_1794755294044_aOFG_1794755319941_azBp_8a3d8883-7f09-4f61-9df5-94f721731efe_RF94.jpg",
-   "topics": [],
-   "first_seen": "2026-11-15T15:30:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
