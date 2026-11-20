@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T07:30:01+00:00",
+ "generated_at": "2026-11-20T08:00:06+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:30:01+00:00"
+   "checked_at": "2026-11-20T08:00:06+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
+   "sample_date": "Thu, 19 Nov 2026 07:41:39 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:30:01+00:00"
+   "checked_at": "2026-11-20T08:00:06+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,18 +35,18 @@
    "items": 15,
    "sample_date": "Fri, 20 Nov 2026 07:10:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:30:01+00:00"
+   "checked_at": "2026-11-20T08:00:06+00:00"
   },
   {
    "name": "Entrackr",
    "url": "https://news.google.com/rss/search?q=site:entrackr.com+when:2d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "Startups",
    "ok": true,
-   "fetched": 24,
-   "items": 24,
+   "fetched": 22,
+   "items": 22,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:30:01+00:00"
+   "checked_at": "2026-11-20T08:00:06+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 20 Nov 2026 00:56:01 +0000",
    "error": null,
-   "checked_at": "2026-11-20T07:30:01+00:00"
+   "checked_at": "2026-11-20T08:00:06+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,26 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 9,
+ "new_since_last_run": 6,
  "items": [
+  {
+   "id": "4f2f1bfd0b5764ac",
+   "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
+   "link": "https://yourstory.com/2026/11/hack2skill-yourstory-launches-voice-ai-hackathon-with-rs-8-lakh-prize-pool-in-collaboration-with-google-cloud-india",
+   "summary": "Virtual hackathon invites working professionals to build voice AI prototypes using Gemini Enterprise and the Google Cloud AI stack.",
+   "published": "2026-11-20T07:30:43+00:00",
+   "source": "YourStory",
+   "group": "YourStory",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T08:00:06+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "d3e9aa24bebb5324",
    "title": "Rooter’s revenue jumps over 2X to Rs 170 Cr in FY26; losses shrink 40%",
