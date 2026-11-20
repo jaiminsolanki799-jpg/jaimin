@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T15:30:01+00:00",
+ "generated_at": "2026-11-20T16:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 20:57:37 +0530",
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 20:32:38 +0530",
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 20:50:43 +0530",
+   "sample_date": "Fri, 20 Nov 2026 21:24:13 +0530",
    "error": null,
-   "checked_at": "2026-11-20T15:30:01+00:00"
+   "checked_at": "2026-11-20T16:00:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "ab74858089251681",
+   "title": "Blame it on sales targets, not branch decisions: RBI Dy Governor Murmu explains how financial mis-selling starts",
+   "link": "https://www.livemint.com/money/personal-finance/blame-it-on-sales-targets-not-branch-decisions-rbi-dy-governor-murmu-explains-how-financial-mis-selling-starts-11795184274656.html",
+   "summary": "Murmu highlighted the need for financial institutions to examine whether their remuneration structures encourage employees to push products to meet sales targets or reward them for delivering suitable financial solutions,",
+   "published": "2026-11-20T15:54:13+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/fins_1795185709897_qjoR_1795185732561_5DjX_9abaca23-f829-40ee-874b-fee89c1ecf5f_gLYB.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-20T16:00:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "43f22c66621a5413",
    "title": "Who is Travis Kalanick? What Uber co-founder is planning after Jensen Huang episode at Nvidia; details here",
@@ -11538,24 +11558,6 @@
    "id": "bee9648ad1fac085",
    "title": "Tariffs, supply snags and a war: 6 sectors that pulled it off through all of the trouble",
    "link": "https://economictimes.indiatimes.com/prime/tariffs-supply-snags-and-a-war-6-sectors-that-pulled-it-off-through-all-of-the-trouble/primearticleshow/135854474.cms",
-   "summary": "",
-   "published": "2026-11-15T13:00:02+00:00",
-   "source": "ET Prime home",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": false,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-15T13:00:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "bb550f4ee85abff1",
-   "title": "Business of Odd Things: The farm that needs no land, freshwater, or fertiliser",
-   "link": "https://economictimes.indiatimes.com/prime/business-of-odd-things-the-farm-that-needs-no-land-freshwater-or-fertiliser/primearticleshow/135691417.cms",
    "summary": "",
    "published": "2026-11-15T13:00:02+00:00",
    "source": "ET Prime home",
