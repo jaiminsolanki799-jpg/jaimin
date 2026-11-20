@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T04:00:01+00:00",
+ "generated_at": "2026-11-20T04:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 09:17:50 +0530",
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 08:29:40 +0530",
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 09:26:18 +0530",
+   "sample_date": "Fri, 20 Nov 2026 09:52:52 +0530",
    "error": null,
-   "checked_at": "2026-11-20T04:00:01+00:00"
+   "checked_at": "2026-11-20T04:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "c16fcdaf5c1d5f1c",
+   "title": "New gaming expense of ₹7,499 to add to your budget this month: Check GTA 6 prices in India, editions and where to buy",
+   "link": "https://www.livemint.com/money/personal-finance/new-gaming-expense-of-7-499-to-add-to-your-budget-this-month-check-gta-6-prices-in-india-editions-and-where-to-buy-11795140955483.html",
+   "summary": "GTA 6 has launched after a 13-year wait since GTA 5. Here’s a look at its India pricing, Standard and Ultimate editions, supported gaming consoles, where to buy the game, and how the Code-in-a-Box version works.",
+   "published": "2026-11-20T04:22:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/grantdd_1795143463251_6Bjz_1795143469194_RrHK_09db1944-14fd-4401-a50e-6bb3f4106b40_pLO3.jpg",
+   "topics": [
+    "Budget / policy"
+   ],
+   "first_seen": "2026-11-20T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "711071da691ccb5f",
+   "title": "Pay Commission: Meghalaya approves 6th state panel to review pay and service conditions for employees, pensioners",
+   "link": "https://www.livemint.com/money/pay-commission-meghalaya-approves-6th-state-panel-review-pay-service-conditions-employees-pensioners-police-recruitment-11795139582730.html",
+   "summary": "Pay Commission: Meghalaya has approved constitution of its 6th state panel to review pay and service conditions for employees and pensioners; CM Sangma also announced guidelines for police recruitment.&nbsp;",
+   "published": "2026-11-20T04:15:25+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/8th_pay_commission_news_1788401458454_ea405b11-bfb_1795147032439_ddj5_1795147032559_4VIl_1d70a6d8-2e36-472f-95a5-faa5da91ebae_682I.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T04:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "b39690017361d4b6",
    "title": "Gold, silver prices today, 20 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
@@ -11513,42 +11551,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Dugarajapatnam_Shipbuilding_Cluster_1794664075861_Fluw_1794664076109_VXNn_40fb5965-7cba-40d9-9309-56f0748bc68a_hXnT.png",
    "topics": [],
    "first_seen": "2026-11-14T14:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "d23e677aaa42824a",
-   "title": "Cockroaches, rat droppings: Why FSSAI licences of 7 KFC outlets in Hyderabad were suspended? All we know",
-   "link": "https://www.livemint.com/companies/news/cockroaches-rat-droppings-why-fssai-licences-of-7-kfc-outlets-in-hyderabad-were-suspended-all-we-know-11794661687115.html",
-   "summary": "Telangana suspended FSSAI licences of seven KFC outlets in Hyderabad after inspections reportedly found cockroaches, rat droppings, fungal growth and other hygiene violations. Four more KFC outlets face improvement notices following Nov 12 enforcement drive by TG-SAFE.",
-   "published": "2026-11-14T13:31:15+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/kfc_collage_16x9_1794662908963_evez_1794662925816_r4Hd_ec5dfded-61e3-4cbc-b79d-a0249553c4a4_y7Ho.jpg",
-   "topics": [],
-   "first_seen": "2026-11-14T14:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a926e46a489526f6",
-   "title": "Astrotalk removed from Apple App Store? Company clarifies reason, updates on when app can be back",
-   "link": "https://www.livemint.com/companies/astrotalk-removed-from-apple-app-store-company-clarifies-reason-updates-on-when-app-can-be-back-11794657031626.html",
-   "summary": "Astrotalk application has been delisted from Apple App Store since November 4, as per ﻿app-tracking platform StoreTally. The company has reportedly issued a notice.",
-   "published": "2026-11-14T12:48:57+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/217080_1794660508920_xI5S_1794660514010_qmwI_ae6702c1-0246-450a-8e28-15e54de1ef05_sQ3r.jpg",
-   "topics": [],
-   "first_seen": "2026-11-14T13:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
