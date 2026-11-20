@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T16:30:01+00:00",
+ "generated_at": "2026-11-20T17:00:07+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": true,
-   "fetched": 6,
-   "items": 3,
-   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
-   "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "HTTP 503",
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 20:57:37 +0530",
+   "sample_date": "Fri, 20 Nov 2026 21:58:13 +0530",
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 21:56:49 +0530",
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 21:58:11 +0530",
    "error": null,
-   "checked_at": "2026-11-20T16:30:01+00:00"
+   "checked_at": "2026-11-20T17:00:07+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,44 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "bee9648ad1fac085",
+   "title": "Tariffs, supply snags and a war: 6 sectors that pulled it off through all of the trouble",
+   "link": "https://economictimes.indiatimes.com/prime/tariffs-supply-snags-and-a-war-6-sectors-that-pulled-it-off-through-all-of-the-trouble/primearticleshow/135854474.cms",
+   "summary": "",
+   "published": "2026-11-20T17:00:07+00:00",
+   "source": "ET Prime home",
+   "group": "ET Prime",
+   "category": "ET Prime",
+   "date_known": false,
+   "author": null,
+   "publisher": null,
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T17:00:07+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "3bdcbf2fe125cbca",
+   "title": "Tukaram Mundhe's FDA suspends licences of Blinkit, Chaayos, 5 Spice among 6 Mumbai establishments: What inspection found",
+   "link": "https://www.livemint.com/companies/news/tukaram-mundhes-fda-suspends-licences-of-blinkit-chaayos-5-spice-among-6-mumbai-establishments-what-inspection-found-11795188506556.html",
+   "summary": "Mumbai FDA suspended the licences of six establishments after inspections uncovered serious hygiene violations, including cockroaches, flies, uncovered dustbins, unsafe food storage and faulty equipment. The regulator said the breaches of food safety standards posed a public health threat.",
+   "published": "2026-11-20T16:28:13+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Untitled_Design_1795192043725_v03F_1795192047606_y1Sw_0e1d9e7b-3db0-4569-9b87-5e2b0b966feb_YIQT.png",
+   "topics": [],
+   "first_seen": "2026-11-20T17:00:07+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "aa4a71b0c61441ee",
    "title": "How much gold jewellery can you keep at home? ITAT ruling explains CBDT limits during income-tax searches",
@@ -234,9 +270,9 @@
   },
   {
    "id": "b4d9b80c11dbc809",
-   "title": "SEBI proposes big relief for FPIs: Additional disclosure rules may go - What it means for NSE and BSE?",
+   "title": "SEBI proposes big relief for FPIs: Additional disclosure rules may go - What it means for NSE and BSE",
    "link": "https://www.livemint.com/market/stock-market-news/gold-prices-near-14-month-low-what-does-sharp-price-crash-mean-for-titan-kalyan-pc-jeweller-other-jewellery-stocksg-11795184261882.html",
-   "summary": "SEBI has proposed reviewing its Additional Disclosure Framework for foreign portfolio investors, which currently requires certain funds to disclose ownership, economic interests and control down to individual beneficiaries",
+   "summary": "SEBI has proposed reviewing its Additional Disclosure Framework for foreign portfolio investors, which currently requires certain funds to disclose ownership, economic interests, and control down to individual beneficiaries.",
    "published": "2026-11-20T15:58:10+00:00",
    "source": "Mint Markets",
    "group": "Mint",
@@ -11533,44 +11569,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_enerated_Image_reozm9reozm9reoz_179475097_1794750978225_SzZW_1794750978367_Gdbg_f60b8d15-3d58-45b4-8675-e760bdbd7e64_UlAF.png",
    "topics": [],
    "first_seen": "2026-11-15T14:30:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "c94ca99595b33bbc",
-   "title": "AI makes 2 Indian-origin founders world’s youngest self-made billionaires worth ₹40,000 crore each, beats Zuckerberg",
-   "link": "https://www.livemint.com/companies/ai-makes-2-indian-origin-founders-world-s-youngest-self-made-billionaires-worth-40-000-crore-each-beats-zuckerberg-11794748301344.html",
-   "summary": "AI startup Mercor's three co-founders- Hiremath, chief technology officer; Midha, board chairman; and Brendan Foody, chief executive officer, hold 21% stakes in the company individually. Here's everything about them.",
-   "published": "2026-11-15T13:58:42+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/217089_1794751088517_bUZG_1794751092288_8Q2g_2e8d361c-8d31-4e70-8880-8683e58c53bf_1Ynf.jpg",
-   "topics": [],
-   "first_seen": "2026-11-15T14:30:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "7c7b5dd65639bf24",
-   "title": "Got tax refund twice? Here is what you should do",
-   "link": "https://www.livemint.com/money/personal-finance/got-tax-refund-twice-here-is-what-you-should-do-11794680027008.html",
-   "summary": "While returning the excess income tax refund promptly is important, it is imperative that the amount paid back by you is correctly reflected in the system so that a demand is not once again raised for the same.",
-   "published": "2026-11-15T13:45:19+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/3-0-115050211-iStock-1198252572-0_1679842357891_1794738582214_5E1I_effc632f-2c84-4055-a09e-93f192f00fe6_AVzH.jpg",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-15T14:00:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
