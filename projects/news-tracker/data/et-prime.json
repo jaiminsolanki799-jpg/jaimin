@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T02:00:01+00:00",
+ "generated_at": "2026-11-20T02:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 07:18:54 +0530",
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 07:21:55 +0530",
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 07:21:10 +0530",
+   "sample_date": "Fri, 20 Nov 2026 07:48:51 +0530",
    "error": null,
-   "checked_at": "2026-11-20T02:00:01+00:00"
+   "checked_at": "2026-11-20T02:30:01+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,46 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 3,
+ "new_since_last_run": 2,
  "items": [
+  {
+   "id": "2bf7ad019f6a5f5b",
+   "title": "Own car or two-wheeler? Check new PUC rules, BS-wise pollution certificate validity, key changes and possible penalties",
+   "link": "https://www.livemint.com/money/personal-finance/own-car-or-two-wheeler-check-new-puc-rules-bs-wise-pollution-certificate-validity-key-changes-and-possible-penalties-11795134173267.html",
+   "summary": "The government has revised PUC certificate validity periods based on vehicle age, emission standards and usage. Find out how the new rules affect renewal timelines, which vehicles get longer validity and when the revised schedule applies to existing certificates.",
+   "published": "2026-11-20T02:18:51+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/New_PUC_Rules_Explained_1795139963147_xqJV_1795140013227_keDa_290561e4-4e74-4556-a8c2-fa081a622551_uwOa.png",
+   "topics": [],
+   "first_seen": "2026-11-20T02:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e8550ed7f87092cf",
+   "title": "ITAT relief for government employee: Why ₹2.5 lakh cash paid for plot was not treated as undisclosed income",
+   "link": "https://www.livemint.com/money/personal-finance/itat-relief-for-government-employee-why-2-5-lakh-cash-paid-for-plot-was-not-treated-as-undisclosed-income-11795136814981.html",
+   "summary": "ITAT Pune has deleted a ₹2.5 lakh income-tax addition against a Maharashtra government employee after accepting that the builder returned the initial cash payment.&nbsp;",
+   "published": "2026-11-20T02:02:43+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/2-0-951741682-509557490-0_1679732730804_1795137109578_ETyT_f4807e16-a87a-4235-839d-04f3e4836f32_7pmb.jpg",
+   "topics": [
+    "Income tax"
+   ],
+   "first_seen": "2026-11-20T02:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "37eb8ecc9f0e423f",
    "title": "Anthropic shares soar 21% in blockbuster debut: Can the AI giant justify its $1.8 trillion valuation?",
@@ -661,7 +699,7 @@
    "id": "4ba8561313c5b913",
    "title": "Air pollution raises respiratory illness claims: Children & senior citizens account for 58% of hospitalisations",
    "link": "https://www.livemint.com/money/personal-finance/air-pollution-raises-respiratory-illness-claims-children-and-senior-citizens-account-for-58-of-hospitalisations-care-11795108281360.html",
-   "summary": "Respiratory hospitalisation claims rose 11% in both September and October 2025, with children accounting for 48% of claims in each month, Care Health Insurance data shows. Here are the health risks and precautions families should know.",
+   "summary": "Respiratory hospitalisation claims rose 11% in both September and October 2025, with children accounting for 48% of claims in each month, according to Care Health Insurance data. Here are the health risks and precautions families should know about.",
    "published": "2026-11-19T18:12:28+00:00",
    "source": "Mint Money",
    "group": "Mint",
@@ -11516,44 +11554,6 @@
     "Buyback & payout",
     "Results"
    ]
-  },
-  {
-   "id": "93e98c6d715b81e7",
-   "title": "Noel Tata flags Tata Group execution challenges at HTLS 2026, outlines plans to sharpen Tata Trusts’ philanthropy",
-   "link": "https://www.livemint.com/companies/people/noel-tata-flags-tata-group-execution-challenges-at-htls-2026-outlines-plans-to-sharpen-tata-trusts-philanthropy-11794649800752.html",
-   "summary": "At HTLS 2026, Noel Tata flagged execution gaps in Tata Group’s big projects, stressing capital allocation and delivery discipline. He also outlined Tata Trusts’ focus on measurable philanthropic impact and plans for 40-50 hospitals.",
-   "published": "2026-11-14T10:08:48+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/NoelTata__A_Visionary_Corporate_Portrait_1794650_1794650901785_G1cT_1794650901894_n9rp_ac29230d-8f0b-460a-a4c6-2b34986e0edb_79Z4.png",
-   "topics": [],
-   "first_seen": "2026-11-14T10:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "a16ce513d393ed58",
-   "title": "Income tax on gifts: What qualifies as movable property, how gifts are taxed, when exemptions are available? Explained",
-   "link": "https://www.livemint.com/money/personal-finance/income-tax-on-gifts-what-qualifies-as-movable-property-how-gifts-are-taxed-when-exemptions-are-available-explained-11794647582978.html",
-   "summary": "Not all gifts are tax-free under the Income-tax Act, 2025. Certain movable assets can attract tax depending on their value and the relationship between the giver and recipient. Here is what taxpayers should know about the rules, exemptions and possible tax liability.",
-   "published": "2026-11-14T09:53:20+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/incoem_ee_1794648707323_FCGZ_1794648712725_JOJl_3ba84398-1bd1-461e-b3ca-e4089fe02456_zNKh.png",
-   "topics": [
-    "Income tax"
-   ],
-   "first_seen": "2026-11-14T10:00:03+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
