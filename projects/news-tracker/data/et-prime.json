@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T17:00:07+00:00",
+ "generated_at": "2026-11-20T17:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,29 +134,29 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
-   "ok": false,
-   "fetched": 0,
-   "items": 0,
-   "sample_date": null,
-   "error": "HTTP 503",
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "ok": true,
+   "fetched": 6,
+   "items": 3,
+   "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
+   "error": null,
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "Mint Companies",
    "url": "https://www.livemint.com/rss/companies",
    "category": "Companies",
-   "ok": true,
-   "fetched": 35,
-   "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 21:58:13 +0530",
-   "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "ok": false,
+   "fetched": 0,
+   "items": 0,
+   "sample_date": null,
+   "error": "IncompleteRead: IncompleteRead(37834 bytes read)",
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 21:56:49 +0530",
+   "sample_date": "Fri, 20 Nov 2026 22:32:19 +0530",
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -178,7 +178,7 @@
    "items": 35,
    "sample_date": "Fri, 20 Nov 2026 21:58:11 +0530",
    "error": null,
-   "checked_at": "2026-11-20T17:00:07+00:00"
+   "checked_at": "2026-11-20T17:30:03+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,28 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 1,
  "items": [
+  {
+   "id": "124f6d71fd347493",
+   "title": "Smallcap dividend stars: 5 stocks under ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
+   "link": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
+   "summary": "Jagran Prakashan and IL&amp;FS Investment Managers lead a group of small-cap stocks trading below ₹100 with attractive FY26 dividend yields. Jagran’s yield is 16.1%, followed by IL&amp;FS at 15.9%, Radiant Cash Management at 7.9%, Gateway Distriparks at 7.6% and Balmer Lawrie Investments at 6.8%.",
+   "published": "2026-11-20T17:02:19+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Smallcap_Dividend_Stars_Growth_Chart_1795194051143_dAvx_1795194064318_Q8bw_6bd766b9-22a8-4808-9721-0d957bfbc068_qylM.png",
+   "topics": [],
+   "first_seen": "2026-11-20T17:30:03+00:00",
+   "valuation_score": 3,
+   "valuation_signals": [
+    "Buyback & payout"
+   ]
+  },
   {
    "id": "bee9648ad1fac085",
    "title": "Tariffs, supply snags and a war: 6 sectors that pulled it off through all of the trouble",
@@ -11553,24 +11573,6 @@
    "valuation_signals": [
     "Results"
    ]
-  },
-  {
-   "id": "e826ef66807c7820",
-   "title": "8th Pay Commission salary hike: How a 7% annual increment could take your basic pay above ₹1 lakh in 10 years",
-   "link": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-how-a-7-annual-increment-could-take-your-basic-pay-above-1-lakh-in-10-years-11794750743953.html",
-   "summary": "A higher fitment factor could deliver a bigger initial salary hike under the 8th Pay Commission, but a 7% annual increment could help central government employees earn more over 10 years. Here's how basic pay could change under different salary scenarios.",
-   "published": "2026-11-15T14:01:31+00:00",
-   "source": "Mint Money",
-   "group": "Mint",
-   "category": "Money",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Gemini_enerated_Image_reozm9reozm9reoz_179475097_1794750978225_SzZW_1794750978367_Gdbg_f60b8d15-3d58-45b4-8675-e760bdbd7e64_UlAF.png",
-   "topics": [],
-   "first_seen": "2026-11-15T14:30:04+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
