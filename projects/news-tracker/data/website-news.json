@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-20T07:00:02+00:00",
+ "generated_at": "2026-11-20T07:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:00:02+00:00"
+   "checked_at": "2026-11-20T07:30:01+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 20 Nov 2026 05:00:01 GMT",
+   "sample_date": "Thu, 19 Nov 2026 13:24:51 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:00:02+00:00"
+   "checked_at": "2026-11-20T07:30:01+00:00"
   },
   {
    "name": "StartupTalky",
@@ -33,9 +33,9 @@
    "ok": true,
    "fetched": 15,
    "items": 15,
-   "sample_date": "Fri, 20 Nov 2026 05:43:33 GMT",
+   "sample_date": "Fri, 20 Nov 2026 07:10:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:00:02+00:00"
+   "checked_at": "2026-11-20T07:30:01+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 24,
    "sample_date": "Thu, 19 Nov 2026 06:31:58 GMT",
    "error": null,
-   "checked_at": "2026-11-20T07:00:02+00:00"
+   "checked_at": "2026-11-20T07:30:01+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Fri, 20 Nov 2026 00:56:01 +0000",
    "error": null,
-   "checked_at": "2026-11-20T07:00:02+00:00"
+   "checked_at": "2026-11-20T07:30:01+00:00"
   }
  ],
  "topics": [
@@ -71,8 +71,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 7,
+ "new_since_last_run": 9,
  "items": [
+  {
+   "id": "d3e9aa24bebb5324",
+   "title": "Rooter’s revenue jumps over 2X to Rs 170 Cr in FY26; losses shrink 40%",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQzdVeF9EazFDdWE0MzBrOHVVNk5wNk9GVHpjMXlnR1F0Z2Z5OUs5aTExdlhkTHBtUHdhN2JoNm1IcFYyZy1XZWpGTmNEYlA1dkVGdEN5M0F4R3ZMSEgxRnhKS3NPVEtyUUowMFMyZmRjTUU1a2o4RVg0azlIR01qRU0xaktNREVJZVV2N3VFQ0ZWaWJLNnYtNFdzbkFLN2lfaUV4b1lHUC1fSWfSAasBQVVfeXFMTkM3VXhfRGsxQ3VhNDMwazh1VTZOcDZPRlR6YzF5Z0dRdGdmeTlLOWkxMXZYZExwbVB3YTdiaDZtSHBWMmctV2VqRk5jRGJQNXZFRnRDeTNBeEd2TEhIMUZ4SktzT1RLclFKMDBTMmZkY01FNWtqOEVYNGs5SEdNakVNMWpLTURFSWVVdjd1RUNGVmliSzZ2LTRXc25BSzdpX2lFeG9ZR1AtX0ln?oc=5",
+   "summary": "",
+   "published": "2026-11-20T07:17:42+00:00",
+   "source": "Entrackr",
+   "group": "Entrackr",
+   "category": "Startups",
+   "date_known": true,
+   "author": null,
+   "publisher": "Entrackr",
+   "image": null,
+   "topics": [],
+   "first_seen": "2026-11-20T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a96c0a26ad8808cc",
+   "title": "15 Best Keyword Rank Tracking Tools for SEO: Free and Paid Options",
+   "link": "https://startuptalky.com/top-keyword-tracking-tools/",
+   "summary": "Compare the best keyword rank tracking tools in 2026 to monitor SEO rankings, track competitors, analyze SERP features, and measure search visibility.",
+   "published": "2026-11-20T07:10:00+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Vivek Dev Jacob",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2025/04/keyword-rank--tracker-tool-startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "48d9bd2ca796abbb",
+   "title": "Truecaller Teams Up with Bolna to Improve Transparency in AI-Generated Calls",
+   "link": "https://startuptalky.com/news/truecaller-teams-up-with-bolna/",
+   "summary": "Truecaller has teamed up with India-based AI platform Bolna to improve transparency and trust in AI-enabled commercial calls. The agreement will integrate Truecaller for Business features into Bolna’s AI voice assistants.",
+   "published": "2026-11-20T06:56:05+00:00",
+   "source": "StartupTalky",
+   "group": "StartupTalky",
+   "category": "Startups",
+   "date_known": true,
+   "author": "Nitin Konde",
+   "publisher": null,
+   "image": "https://static.startuptalky.com/2026/11/truecaller-teams-up-with-bolna-Startuptalky.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T07:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "7aa45538891f70a3",
    "title": "Visa, Mastercard, JPMorgan Face Data Exposure After Major Ransomware Attack",
@@ -10161,24 +10215,6 @@
    "valuation_signals": [
     "M&A"
    ]
-  },
-  {
-   "id": "b777d71491088fb4",
-   "title": "Iran Accused of Hacking French Supermarket Refrigeration Systems in Cyberattack",
-   "link": "https://startuptalky.com/news/iran-accused-of-hacking-french-supermarket/",
-   "summary": "France has charged the Islamic Revolutionary Guard Corps of Iran with planning a large-scale hack on supermarket refrigeration systems on October 12, which affected roughly 700 outlets across the country. On Nov 9, Paris summoned the Iranian ambassador.",
-   "published": "2026-11-10T07:08:58+00:00",
-   "source": "StartupTalky",
-   "group": "StartupTalky",
-   "category": "Startups",
-   "date_known": true,
-   "author": "Nitin Konde",
-   "publisher": null,
-   "image": "https://static.startuptalky.com/2026/11/iran-accused-of-hacking-french-supermarket-Startuptalky.jpg",
-   "topics": [],
-   "first_seen": "2026-11-10T07:30:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
