@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-20T06:00:01+00:00",
+ "generated_at": "2026-11-20T06:30:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 6,
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 11:18:10 +0530",
+   "sample_date": "Fri, 20 Nov 2026 11:33:27 +0530",
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 11:12:18 +0530",
+   "sample_date": "Fri, 20 Nov 2026 11:40:41 +0530",
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Fri, 20 Nov 2026 10:31:14 +0530",
+   "sample_date": "Fri, 20 Nov 2026 11:40:50 +0530",
    "error": null,
-   "checked_at": "2026-11-20T06:00:01+00:00"
+   "checked_at": "2026-11-20T06:30:03+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,65 @@
  ],
  "new_since_last_run": 3,
  "items": [
+  {
+   "id": "45e57a9dda328828",
+   "title": "Kerala considering restoration of benefits: From leave surrender, pay revision to MEDISEP—See what could make a comeback",
+   "link": "https://www.livemint.com/money/kerala-considering-restoration-of-benefits-from-leave-surrender-pay-revision-to-medisep-see-what-could-make-a-comeback-11795148061828.html",
+   "summary": "The Kerala state government is considering a phased restoration of employee benefits, including leave surrender, pay revision and the MEDISEP health insurance, according to CM VD Satheesan.&nbsp;",
+   "published": "2026-11-20T06:10:50+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/rupee2_1788002026965_1788002045997_cd7d5349-fd78-4e12-ad27-0d5922396df1_1795153806300_qUZd_f5fdce7f-cbe7-465f-acbb-dc20003798e7_8JYq.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T06:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "54629915a7274458",
+   "title": "Why Tips Films' shares jump 15% after the announcement of voluntary delisting? Experts's views, target price, stop-loss",
+   "link": "https://www.livemint.com/market/stock-market-news/why-tips-films-shares-jump-15-after-the-announcement-of-voluntary-delisting-expertss-views-target-price-stoploss-11795146325237.html",
+   "summary": "Tips Films' share price today opened with an upside gap and touched an intraday high of ₹434 per share on the NSE, logging an intraday gain of over 15%",
+   "published": "2026-11-20T06:10:41+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Tips_Films_share_price_Voluntary_Delisting_Impact_1795146795761_a9Fc_1795146796026_r1BC_b41df35a-7cb8-4341-820c-3b40b0e1ca63_jNk0.png",
+   "topics": [
+    "SEBI / markets regulation"
+   ],
+   "first_seen": "2026-11-20T06:30:03+00:00",
+   "valuation_score": 7,
+   "valuation_signals": [
+    "Valuation",
+    "IPO"
+   ]
+  },
+  {
+   "id": "a1e7d4f8baa987ca",
+   "title": "Lego to spin off India operations into separate business unit",
+   "link": "https://www.livemint.com/companies/news/lego-india-operations-separate-business-unit-11795149463342.html",
+   "summary": "The Danish toymaker has been opening its own Lego-certified stores in India.",
+   "published": "2026-11-20T06:03:27+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/im-936412_1710254509640_1795153682661_zjQK_e61a1e6a-b0a5-4c57-abc5-7f70e48709b0_ZBq7.jpg",
+   "topics": [],
+   "first_seen": "2026-11-20T06:30:03+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "88177349a82c20af",
    "title": "Organisation becomes scalable when responsibility can travel: Aniruddha Singh of VCL Group",
@@ -368,9 +427,9 @@
   },
   {
    "id": "fa5d7bcbc0310abf",
-   "title": "Nvidia faces talent exodus risk after Huang's exit: Can the chipmaker retain the engineers behind its AI dominance?",
+   "title": "Nvidia faces talent exodus risk after Jensen Huang's exit: Can the chipmaker retain engineers behind its AI dominance?",
    "link": "https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html",
-   "summary": "Nvidia faces a potential talent exodus after Jensen Huang's departure, with rivals expected to target its engineers. Interim CEO Colette Kress has promised early pay raises and stock grants to retain key employees, but questions remain over their long-term loyalty.",
+   "summary": "Nvidia faces a potential talent exodus after Jensen Huang's departure, with rivals expected to poach its engineers. Interim CEO Colette Kress has promised early pay raises and stock grants to retain key employees, but questions remain over their long-term loyalty.",
    "published": "2026-11-20T03:47:50+00:00",
    "source": "Mint Companies",
    "group": "Mint",
@@ -11499,62 +11558,6 @@
    "first_seen": "2026-11-14T16:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
-  },
-  {
-   "id": "bd5bb16f7dbecb54",
-   "title": "Bodhi Tree Systems to invest $180 million for majority stake in south Indian food chain Adyar Ananda Bhavan",
-   "link": "https://www.livemint.com/companies/news/bodhi-tree-systems-to-invest-180-million-for-majority-stake-in-south-indian-food-chain-adyar-ananda-bhavan-11794665523532.html",
-   "summary": "James Murdoch and Uday Shankar-backed platform plans to support Adyar Ananda Bhavan's expansion across India and overseas markets",
-   "published": "2026-11-14T15:39:33+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/adyar_1794670498996_XYkM_1794670609442_94DO_363c4839-f2b6-4596-896f-246545192948_Nka4.jpg",
-   "topics": [],
-   "first_seen": "2026-11-14T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ec6e8187bb486404",
-   "title": "Did Nvidia’s ex-CEO Jensen Huang hide his affair with Alice Huang from executives? What we know",
-   "link": "https://www.livemint.com/companies/news/did-nvidia-s-ex-ceo-jensen-huang-hide-his-affair-with-alice-huang-from-executives-what-we-know-11794669268257.html",
-   "summary": "Reportedly, Jensen Huang had described his interactions with Alice Huang as business dealings to senior executives of Nvidia. He was questioned about his relationship in 2025 and again in October 2026.",
-   "published": "2026-11-14T15:29:31+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/217082_1794670143903_PT7R_1794670147751_5tLi_1a866290-db38-475c-b261-0593b13debea_dZvh.jpg",
-   "topics": [],
-   "first_seen": "2026-11-14T16:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "0b377f864490ebbd",
-   "title": "Small-cap stock rallies 70% in a year: Motilal Oswal sees another 47% upside | Should you buy? Check target price",
-   "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-rallies-70-in-a-year-motilal-oswal-sees-another-47-upside-should-you-buy-check-target-price-11794666328017.html",
-   "summary": "GNG Electronics shares rose 0.91% to ₹577.10 on Friday after early-week losses. Motilal Oswal maintained a Buy rating and ₹840 target, citing the company’s distribution scale, expanding network and demand for affordable refurbished computers.",
-   "published": "2026-11-14T15:16:36+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/GNG_Electronics_Share_Price_Outlook_1794669345515_x2jD_1794669358047_2Gfb_ee9f329e-0f2a-478b-abd9-0ef310eb38d5_H9XH.png",
-   "topics": [],
-   "first_seen": "2026-11-14T15:30:01+00:00",
-   "valuation_score": 4,
-   "valuation_signals": [
-    "Valuation"
-   ]
   }
  ]
 }
