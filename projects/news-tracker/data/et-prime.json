@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-21T05:00:02+00:00",
+ "generated_at": "2026-11-21T05:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 6,
+   "fetched": 5,
    "items": 2,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 21 Nov 2026 09:14:56 +0530",
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 21 Nov 2026 09:53:27 +0530",
+   "sample_date": "Sat, 21 Nov 2026 10:45:33 +0530",
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 21 Nov 2026 09:41:01 +0530",
+   "sample_date": "Sat, 21 Nov 2026 10:42:19 +0530",
    "error": null,
-   "checked_at": "2026-11-21T05:00:02+00:00"
+   "checked_at": "2026-11-21T05:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,62 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 1,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "90de6d2647f4fbfb",
+   "title": "Top 3 stocks to buy: Axis Bank, Bajaj Finance, HDFC Life by Sumeet Bagadia | Targets, stop-loss, stock market prediction",
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-axis-bank-bajaj-finance-hdfc-life-by-sumeet-bagadia-targets-stop-loss-stock-market-prediction-11795228228586.html",
+   "summary": "Stock market prediction: Sumeet Bagadia of Choice Broking believes that Dalal Street bias has improved after sharp rally in the Indian indices",
+   "published": "2026-11-21T05:15:33+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Sumeet_Bagadia_stock_recommendations_today_Monday_1795228627220_Q2kM_1795228627353_9W7d_d7c8fb82-f2a8-4ec8-a91e-cea71a3d1295_4wfT.png",
+   "topics": [],
+   "first_seen": "2026-11-21T05:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "e48a92405fdd1894",
+   "title": "Credit card fraud: Software engineer loses ₹5.47 lakh despite not sharing OTP or PIN; here's how to protect your money",
+   "link": "https://www.livemint.com/money/personal-finance/credit-card-fraud-software-engineer-loses-5-47-lakh-despite-not-sharing-otp-or-pin-heres-how-to-protect-your-money-11795235698441.html",
+   "summary": "A Bengaluru techie lost ₹5.47 lakh to credit card fraud despite claiming he had not shared his OTP, PIN or card details. Here's how such frauds can happen, steps to protect your cards and how to report unauthorised transactions.",
+   "published": "2026-11-21T05:12:19+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/software_1795237315762_QYDY_1795237323780_nHHI_dbc54961-9f77-43ba-8c47-2b92f1f1bb20_eK6m.png",
+   "topics": [],
+   "first_seen": "2026-11-21T05:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "68898d1a551a4fe8",
+   "title": "5 money lessons from MJ DeMarco's bestseller 'The Millionaire Fastlane': How to 'Crack the Code to Wealth and Live Rich'",
+   "link": "https://www.livemint.com/money/5-money-lessons-from-mj-demarcos-bestseller-the-millionaire-fastlane-how-to-crack-the-code-to-wealth-and-live-rich-11795236969811.html",
+   "summary": "MJ DeMarco’s The Millionaire Fastlane challenges the conventional path of studying, working and investing for decades. He argues that wealth comes from building scalable businesses that solve real problems, create value and generate income without requiring an owner’s constant labor.",
+   "published": "2026-11-21T05:02:35+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Fastlane_1795237123268_CMu8_1795237130421_x7zw_e3fe03e1-6fcd-47b9-b352-3bd50f85b742_wunn.jpg",
+   "topics": [],
+   "first_seen": "2026-11-21T05:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "451fc0bb14448ccf",
    "title": "Gold still rules, but with a difference: How young India is redefining wedding jewellery",
@@ -11514,62 +11568,6 @@
    "author": null,
    "publisher": null,
    "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/MS_1755693310577_1755693317448_1756904694597_1772627086309.png",
-   "topics": [],
-   "first_seen": "2026-11-16T01:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "3a6267a1c63fd8cd",
-   "title": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Commons",
-   "link": "https://www.livemint.com/companies/start-ups/bharat-semi-raises-24-million-seed-funding-info-edge-deeptech-startup-11794722449154.html",
-   "summary": "The deeptech startup is developing programmable sensors for applications spanning surveillance, automotive and drones, as it looks to build a global customer base.",
-   "published": "2026-11-16T00:30:46+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/2-0-1475975919-iStock-986746224-0_1679855040571_1794739160934_ILau_4b764664-a59e-4fdf-b563-4787bfeb3a22_wZbn.jpg",
-   "topics": [],
-   "first_seen": "2026-11-16T01:00:01+00:00",
-   "valuation_score": 3,
-   "valuation_signals": [
-    "Funding"
-   ]
-  },
-  {
-   "id": "ef4477b3c33c74ac",
-   "title": "Too early to call FII return to Indian equities a trend, says Sundaram AMC's Radhakrishnan",
-   "link": "https://www.livemint.com/market/stock-market-news/too-early-to-call-fii-return-to-indian-equities-a-trend-says-sundaram-amcs-radhakrishnan-11794718561065.html",
-   "summary": "Anand Radhakrishnan says lower crude prices, steadier currency, attractive valuations and better-than-expected earnings offer more durable reasons for the renewed interest than a global retreat from AI stocks.",
-   "published": "2026-11-16T00:30:27+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Anand_Radhakrishnan_2_1794735694480_BLUC_1794735711851_Wj5K_cb3aba4e-13fc-493c-984f-9e211a361e8a_NXQN.jpg",
-   "topics": [],
-   "first_seen": "2026-11-16T01:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "8154b354b3635478",
-   "title": "IIFCL tightens loan terms as Yotta's debt tops $1.4 billion",
-   "link": "https://www.livemint.com/companies/news/as-yotta-debt-crosses-1-4b-with-new-iifcl-loan-for-noida-dc-lenders-grow-wary-11794711701363.html",
-   "summary": "While Yotta will initially rent out Nvidia’s B300 GPUs, these chips will have to be eventually purchased by Darshan Hiranandani, promoter of Yotta, as per the terms set by IIFCL.",
-   "published": "2026-11-16T00:30:25+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/pexels-photo-4508751_1790307465798_CwOo_1790307477_1794755117982_Vx2w_1794755118169_NZqZ_38ab184d-65d6-4e11-a5ce-6c9127536acc_N3U1.jpeg",
    "topics": [],
    "first_seen": "2026-11-16T01:00:01+00:00",
    "valuation_score": 0,
