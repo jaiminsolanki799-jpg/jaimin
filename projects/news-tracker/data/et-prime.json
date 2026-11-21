@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-21T03:00:01+00:00",
+ "generated_at": "2026-11-21T03:30:01+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,7 +134,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
@@ -145,7 +145,7 @@
    "items": 3,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "Mint Companies",
@@ -156,7 +156,7 @@
    "items": 35,
    "sample_date": "Sat, 21 Nov 2026 00:13:49 +0530",
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "Mint Markets",
@@ -167,7 +167,7 @@
    "items": 35,
    "sample_date": "Sat, 21 Nov 2026 07:06:43 +0530",
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 21 Nov 2026 08:26:02 +0530",
+   "sample_date": "Sat, 21 Nov 2026 08:49:46 +0530",
    "error": null,
-   "checked_at": "2026-11-21T03:00:01+00:00"
+   "checked_at": "2026-11-21T03:30:01+00:00"
   }
  ],
  "topics": [
@@ -194,6 +194,26 @@
  ],
  "new_since_last_run": 1,
  "items": [
+  {
+   "id": "a626849f236e46ab",
+   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 21 November? Check RBI calendar",
+   "link": "https://www.livemint.com/money/bank-holiday-today-sbi-hdfc-icici-axis-canara-pnb-branches-open-or-closed-india-saturday-21-november-check-rbi-calendar-11795222042126.html",
+   "summary": "Bank holiday today: SBI, HDFC Bank, ICICI Bank, Axis Bank, Canara Bank and Punjab National Bank branches will be closed on 16 days this month, including regional holidays and weekend offs, as per the RBI calendar.",
+   "published": "2026-11-21T03:19:46+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Banks_1792545481464_UOXP_1792545492630_K3YB_148a44_1795231109652_Yvqu_1795231109786_NKLt_32f532f4-49df-45da-80f2-e5aae6e168ba_7rE9.jpg",
+   "topics": [
+    "RBI / banking"
+   ],
+   "first_seen": "2026-11-21T03:30:01+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "de6d265ea801d407",
    "title": "Pension, gratuity and more: Govt clarifies family benefits after employee death or going missing; payment within 15 days",
@@ -11548,24 +11568,6 @@
    "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
    "topics": [],
    "first_seen": "2026-11-15T23:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "ea03994455d0df87",
-   "title": "Gold still rules, but with a difference: How young India is redefining wedding jewellery",
-   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZXdsNE5WWXJ0XzVFSWlYdVg0SVYzQmhMYWFwWXdMOGsxWkVfVTdYbkdzT1JnQjdoaHd5WTFRajJGeW9KOEJ0NkQzczBwM1dqRm5nbWhOU0pjakJpSjFwMVVhbFI1RXVvTl84MmFjcTRVSjNodmNnMDZwdEFaV3RyREdod3k1MHJncW5KV1Y2NWdId0Rna2lBNGx2SkNLOXBUeEp1SFBsZk1VOXJLYUxhV01tVjNYQTBPd294TW5sbk1CSkRudFlfOWo2aGlTcy05alhvMWxUREFvb3JtSE1BOXpnZGNUX3I5Z2QtelZFeEthRFZRRDRHOEtucWYwUGdSdmNteWtMZE16c1ZWSjFBZ0xWTWhfQ19nWnhUeThrcW1VSU1yYkp1MWR6VFplTFJWTS1YRXA5TDB4MU5oVVU2Umd3TXU3WXZrTjJpRlBpN1BobENIOUFLSXdMS3Rqd9IB9wFBVV95cUxNYWpfVHR1YnJ6YjVOeHFZZ2hwYVd2M09qc1ZPYWdaR0FYUzRSd3Q5alBWYWUzZENWOXc2WHJrbmpXdWlMWVgyamxwMjcyX012UmpQRnNxb0VUZE51Vm84WTB2M0YwcG4wRlprOVBoRnVYQVhWOExVZ1ppV1lWaTNabERNUGlKZmFqck9QUk05eFN1bmUtVTM4UDVaTHZPSWJma1BXd0ljTGxWVWNFUEdmYlowdFUxZmNRZnpyc0JzdkthRWRlQWcydjY0VTdPYTU0T3h3bXJLa2c1bHd0Q3VtTjNVOGhXWUNMSDZUV0Y2MUdVWUpvbHpj?oc=5",
-   "summary": "",
-   "published": "2026-11-15T22:30:00+00:00",
-   "source": "ET Prime (Google News, 7 days)",
-   "group": "ET Prime",
-   "category": "ET Prime",
-   "date_known": true,
-   "author": null,
-   "publisher": "The Economic Times",
-   "image": null,
-   "topics": [],
-   "first_seen": "2026-11-16T00:30:02+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
