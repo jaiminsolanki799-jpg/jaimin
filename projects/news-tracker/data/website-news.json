@@ -1,7 +1,7 @@
 {
  "dashboard": "website-news",
  "title": "Startups & Tech",
- "generated_at": "2026-11-21T10:30:01+00:00",
+ "generated_at": "2026-11-21T11:00:03+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 5,
    "sample_date": "Wed, 18 Nov 2026 04:55:21 GMT",
    "error": null,
-   "checked_at": "2026-11-21T10:30:01+00:00"
+   "checked_at": "2026-11-21T11:00:03+00:00"
   },
   {
    "name": "YourStory",
@@ -22,9 +22,9 @@
    "ok": true,
    "fetched": 20,
    "items": 20,
-   "sample_date": "Fri, 20 Nov 2026 07:30:43 GMT",
+   "sample_date": "Sat, 21 Nov 2026 02:20:00 GMT",
    "error": null,
-   "checked_at": "2026-11-21T10:30:01+00:00"
+   "checked_at": "2026-11-21T11:00:03+00:00"
   },
   {
    "name": "StartupTalky",
@@ -35,7 +35,7 @@
    "items": 15,
    "sample_date": "Fri, 20 Nov 2026 20:18:43 GMT",
    "error": null,
-   "checked_at": "2026-11-21T10:30:01+00:00"
+   "checked_at": "2026-11-21T11:00:03+00:00"
   },
   {
    "name": "Entrackr",
@@ -46,7 +46,7 @@
    "items": 7,
    "sample_date": "Thu, 19 Nov 2026 11:41:38 GMT",
    "error": null,
-   "checked_at": "2026-11-21T10:30:01+00:00"
+   "checked_at": "2026-11-21T11:00:03+00:00"
   },
   {
    "name": "TechCrunch",
@@ -57,7 +57,7 @@
    "items": 20,
    "sample_date": "Sat, 21 Nov 2026 04:00:00 +0000",
    "error": null,
-   "checked_at": "2026-11-21T10:30:01+00:00"
+   "checked_at": "2026-11-21T11:00:03+00:00"
   }
  ],
  "topics": [
@@ -9600,26 +9600,6 @@
    "valuation_signals": [
     "Funding"
    ]
-  },
-  {
-   "id": "9ddbca68f0368335",
-   "title": "Indian Govt bans export of lithium-ion battery black mass",
-   "link": "https://yourstory.com/2026/11/indian-govt-bans-export-battery-waste-including-lithium-ion-battery-black-mass",
-   "summary": "The export policy for the category has been changed from 'Free' to 'Prohibited' with immediate effect.",
-   "published": "2026-11-11T10:36:11+00:00",
-   "source": "YourStory",
-   "group": "YourStory",
-   "category": "Startups",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": null,
-   "topics": [
-    "Budget / policy"
-   ],
-   "first_seen": "2026-11-11T11:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
   }
  ]
 }
