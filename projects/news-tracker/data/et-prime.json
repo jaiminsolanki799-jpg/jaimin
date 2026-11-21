@@ -1,7 +1,7 @@
 {
  "dashboard": "et-prime",
  "title": "ET Prime & Mint",
- "generated_at": "2026-11-21T06:00:01+00:00",
+ "generated_at": "2026-11-21T06:30:02+00:00",
  "retention_days": 10,
  "sources": [
   {
@@ -13,7 +13,7 @@
    "items": 19,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Money & markets",
@@ -24,7 +24,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Corporate governance",
@@ -35,7 +35,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Economy & policy",
@@ -46,7 +46,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Technology & startups",
@@ -57,7 +57,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Consumer",
@@ -68,7 +68,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Fintech & BFSI",
@@ -79,7 +79,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Pharma & healthcare",
@@ -90,7 +90,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Energy",
@@ -101,7 +101,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Infrastructure",
@@ -112,7 +112,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Transportation",
@@ -123,7 +123,7 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime: Media & communications",
@@ -134,18 +134,18 @@
    "items": 33,
    "sample_date": null,
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "ET Prime (Google News, 7 days)",
    "url": "https://news.google.com/rss/search?q=site:economictimes.indiatimes.com/prime+when:7d&hl=en-IN&gl=IN&ceid=IN:en",
    "category": "ET Prime",
    "ok": true,
-   "fetched": 5,
+   "fetched": 4,
    "items": 2,
    "sample_date": "Tue, 17 Nov 2026 22:30:00 GMT",
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "Mint Companies",
@@ -154,9 +154,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 21 Nov 2026 09:14:56 +0530",
+   "sample_date": "Sat, 21 Nov 2026 11:27:13 +0530",
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "Mint Markets",
@@ -165,9 +165,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 21 Nov 2026 11:11:57 +0530",
+   "sample_date": "Sat, 21 Nov 2026 11:41:37 +0530",
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   },
   {
    "name": "Mint Money",
@@ -176,9 +176,9 @@
    "ok": true,
    "fetched": 35,
    "items": 35,
-   "sample_date": "Sat, 21 Nov 2026 11:04:25 +0530",
+   "sample_date": "Sat, 21 Nov 2026 11:55:52 +0530",
    "error": null,
-   "checked_at": "2026-11-21T06:00:01+00:00"
+   "checked_at": "2026-11-21T06:30:02+00:00"
   }
  ],
  "topics": [
@@ -192,8 +192,66 @@
   "Valuation / M&A",
   "Budget / policy"
  ],
- "new_since_last_run": 2,
+ "new_since_last_run": 3,
  "items": [
+  {
+   "id": "63f47ece50f97f0a",
+   "title": "Builder fails to provide documents for home loan disbursal; later cancels flat over unpaid dues: How Noida couple won?",
+   "link": "https://www.livemint.com/money/personal-finance/builder-fails-to-provide-documents-for-home-loan-disbursal-later-cancels-flat-over-unpaid-dues-how-noida-couple-won-11795238703502.html",
+   "summary": "A Noida couple paid ₹7.5 lakh for a ₹77.35 lakh flat and secured a ₹64 lakh home loan. After the builder allegedly failed to provide the documents needed for loan disbursal and cancelled the allotment, the couple approached the consumer commission.&nbsp;",
+   "published": "2026-11-21T06:25:52+00:00",
+   "source": "Mint Money",
+   "group": "Mint",
+   "category": "Money",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/npidaa_1795240703721_s4u4_1795240727318_nhyO_f73fcabe-050c-4ce0-9860-b268a5d93e14_z6Ez.png",
+   "topics": [],
+   "first_seen": "2026-11-21T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
+  {
+   "id": "a1d571d0b7dd0b19",
+   "title": "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5% - See who wins in earnings, valuation?",
+   "link": "https://www.livemint.com/market/stock-market-news/nvidia-vs-anthropic-shares-ai-chip-stock-tanks-14-while-claude-maker-falls-8-5-see-who-wins-in-earnings-valuation-11795238170165.html",
+   "summary": "Nvidia and Anthropic shares fell sharply amid a broader technology sell-off, raising questions about AI valuations and the returns on heavy industry spending. Nvidia remains highly profitable, while Anthropic is growing rapidly but faces substantial costs and losses.",
+   "published": "2026-11-21T06:11:37+00:00",
+   "source": "Mint Markets",
+   "group": "Mint",
+   "category": "Markets",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Nvidia_vs_Anthropic_Shares_Downward_Comparison_179_1795240733746_ZAXx_1795240733898_ttgy_63b4c830-5df5-4238-b0e8-55be925cd1a2_NeJk.png",
+   "topics": [
+    "Valuation / M&A"
+   ],
+   "first_seen": "2026-11-21T06:30:02+00:00",
+   "valuation_score": 4,
+   "valuation_signals": [
+    "Valuation"
+   ]
+  },
+  {
+   "id": "a929a51602c35f03",
+   "title": "India's cumin soda revolution costs ₹10: Lahori Zeera challenges Coca-Cola and Pepsi, targets ₹1,112 crore in revenue",
+   "link": "https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html",
+   "summary": "Three cousins turned a kitchen experiment into Lahori Zeera, a cumin-flavoured soda now challenging global beverage brands in India’s affordable drinks market.&nbsp;",
+   "published": "2026-11-21T05:57:13+00:00",
+   "source": "Mint Companies",
+   "group": "Mint",
+   "category": "Companies",
+   "date_known": true,
+   "author": null,
+   "publisher": null,
+   "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Lahore_Zeera_1795240335549_wmaA_1795240342329_i1UI_292bc199-5a26-43d9-935c-7559bc388ac3_xEyV.jpg",
+   "topics": [],
+   "first_seen": "2026-11-21T06:30:02+00:00",
+   "valuation_score": 0,
+   "valuation_signals": []
+  },
   {
    "id": "cea0986c95d4f15d",
    "title": "Bitcoin crashes to over two-year low below $60,000 level: What do experts expect from crypto markets going ahead?",
@@ -11514,60 +11572,6 @@
    "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/gb010e08600b728f0a6c9a9187e6412a322e5ced929c1c6bd9_1738209915919_1794727495319_WpMD_a7373a8f-421c-4598-867e-d8ecbde7d6ab_JXYc.jpg",
    "topics": [],
    "first_seen": "2026-11-16T01:30:02+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "30673647cff4836c",
-   "title": "Australian shares slip to near one-week low as weaker copper, iron ore weigh on miners",
-   "link": "https://www.livemint.com/market/australian-shares-slip-to-near-one-week-low-as-weaker-copper-iron-ore-weigh-on-miners-11794789357824.html",
-   "summary": "AUSTRALIA-STOCKS/ MIDDAY:Australian shares slip to near one-week low as weaker copper, iron ore weigh on miners",
-   "published": "2026-11-16T00:35:57+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-   "topics": [],
-   "first_seen": "2026-11-16T01:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "32c2768db1093167",
-   "title": "Ola Electric's cash cushion dwindles as market share slips and losses persist",
-   "link": "https://www.livemint.com/companies/news/ola-electric-cash-reserves-fall-sales-market-share-loss-11794733370775.html",
-   "summary": "While the company's October rights issue of ₹1,000 crore, of which it has raised about ₹600 crore so far, will support its balance sheet, its existing loans of nearly ₹1,800 crore and rising quarterly losses mean its financial outlook remains uncertain.",
-   "published": "2026-11-16T00:32:51+00:00",
-   "source": "Mint Companies",
-   "group": "Mint",
-   "category": "Companies",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/OLA-ELECTRIC-RESULTS--0_1746251763177_1794748602276_RV2M_07f58a22-3fe3-4bc2-8c4c-fcb60ad5fd87_ce1X.JPG",
-   "topics": [],
-   "first_seen": "2026-11-16T01:00:01+00:00",
-   "valuation_score": 0,
-   "valuation_signals": []
-  },
-  {
-   "id": "f26dd5032e55585e",
-   "title": "Raja Venkatraman recommends three stocks for 16 November",
-   "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-16-november-11794759546498.html",
-   "summary": "Market expert Raja Venkatraman shares his top stock picks for 16 November. Here’s his technical outlook and trade strategy.",
-   "published": "2026-11-16T00:31:09+00:00",
-   "source": "Mint Markets",
-   "group": "Mint",
-   "category": "Markets",
-   "date_known": true,
-   "author": null,
-   "publisher": null,
-   "image": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/RAJA_IMG1_1733139557630_1773677587730_177845889149_1784359486313_1784359486439_dc65bdfa-3341-4f50-b86c-117567f2a305_1789495489403_bMxo_c95973c9-53f4-4461-a498-fb363d8a5d37_mAPy.jpg",
-   "topics": [],
-   "first_seen": "2026-11-16T01:00:01+00:00",
    "valuation_score": 0,
    "valuation_signals": []
   }
